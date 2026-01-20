@@ -35,7 +35,7 @@ module.exports = (req, res) => {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Movie Explorer</title>
+      <title>gusku.site</title>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
       <style>
         ins { color: #10ad77; text-decoration: none; font-weight: bold; }
@@ -85,7 +85,7 @@ module.exports = (req, res) => {
       
       <nav>
         <ul>
-          <li><strong>MOVIE EXPLORER</strong></li>
+          <li><strong>gusku.site</strong></li>
         </ul>
         <ul>
           <li><a href="/">Home</a></li>
@@ -150,11 +150,11 @@ module.exports = (req, res) => {
       </main>
 
       <footer>
-        <p>&copy; 2026 Movie Explorer Portal</p>
-        <a onclick="showModal('About', 'Movie Explorer is a high-speed discovery portal providing in-depth data and technical insights for global cinema titles.')">About</a> | 
+        <p>&copy; 2026 gusku.site</p>
+        <a onclick="showModal('About', 'gusku.site is a high-speed discovery portal providing in-depth data and technical insights for global cinema titles.')">About</a> | 
         <a onclick="showModal('Disclaimer', 'All data provided here is for informational purposes only. We do not host any video files on our servers.')">Disclaimer</a> | 
         <a onclick="showModal('Privacy Policy', 'We value your privacy. No personal data is collected or stored during your browsing session on this portal.')">Privacy Policy</a> | 
-        <a onclick="showModal('Contact', 'For inquiries regarding technical data or production IDs, please contact our support at admin@movieexplorer.test')">Contact</a>
+        <a onclick="showModal('Contact', 'For inquiries regarding technical data or production IDs, please contact our support at santrisetia@yahoo.com')">Contact</a>
       </footer>
 
       <div id="modalOverlay" class="modal-overlay" onclick="closeModal()">
