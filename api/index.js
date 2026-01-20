@@ -49,6 +49,26 @@ module.exports = (req, res) => {
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>gusku.site</title>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+      
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListElement": ${JSON.stringify(tenMovies.map((movie, index) => ({
+          "@type": "ListItem",
+          "position": index + 1,
+          "item": {
+            "@type": "Movie",
+            "name": movie.title,
+            "director": { "@type": "Person", "name": movie.director },
+            "datePublished": movie.release_date,
+            "image": movie.poster,
+            "description": movie.overview ? movie.overview.substring(0, 150) : ""
+          }
+        })))}
+      }
+      </script>
+
       <style>
         ins { color: #10ad77; text-decoration: none; font-weight: bold; }
         .hidden-content { display: none; }
