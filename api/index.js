@@ -5,14 +5,13 @@ module.exports = (req, res) => {
   const { slug } = req.query;
   let movie = null;
 
-  // Mencari di 5 file (data-1.json sampai data-5.json)
   for (let i = 1; i <= 5; i++) {
     try {
       const dataPath = path.join(process.cwd(), `data-${i}.json`);
       if (fs.existsSync(dataPath)) {
         const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
         movie = data.find(m => m.slug === slug);
-        if (movie) break; // Jika ketemu, berhenti mencari
+        if (movie) break;
       }
     } catch (err) {
       console.error(`Error reading data-${i}.json`, err);
@@ -20,20 +19,20 @@ module.exports = (req, res) => {
   }
 
   if (!movie) {
-    return res.status(404).send(`Movie dengan slug "${slug}" tidak ditemukan di 5 file database.`);
+    return res.status(404).send(`Movie "${slug}" not found.`);
   }
 
-  // UPDATE: LOGIKA UGC DAN ADS
-  const rRating = (Math.random() * (4.9 - 4.4) + 4.4).toFixed(1);
+  // LOGIKA BARU: DATA ACAK UNTUK "ISI TERSEMBUNYI"
+  const rRating = (Math.random() * (4.9 - 4.2) + 4.2).toFixed(1);
+  const scoreActing = Math.floor(Math.random() * (95 - 80) + 80);
+  const scoreStory = Math.floor(Math.random() * (90 - 75) + 75);
+  
   const dummyComments = [
-    { n: "Robert Miller", t: "Excellent quality and very detailed information. Exactly what I was looking for." },
-    { n: "Jessica", t: "I love how the data is presented. Very clean and professional!" },
-    { n: "David", t: "Finally a site that gives full director and runtime details clearly." },
-    { n: "Sarah Connor", t: "The overview is very helpful, thanks for sharing the director info." },
-    { n: "Mike Ross", t: "Is there any sequel for this movie? The ending was mindblowing." }
+    { n: "Leonard T.", t: "The narrative structure in this ${movie.director} film is quite unique. Definitely worth the deep dive." },
+    { n: "Cinephile88", t: "I've been tracking this production ID ${movie.movie_id} for a while. The cinematography is peak level." },
+    { n: "Rebecca St.", t: "A bit underrated for its time. Glad I found this detailed overview here." }
   ];
 
-  // Template HTML
   const html = `
     <!DOCTYPE html>
     <html lang="en">
@@ -46,7 +45,9 @@ module.exports = (req, res) => {
         ins { color: #10ad77; text-decoration: none; font-weight: bold; }
         #full-overview, #ugc-area { display: none; }
         .comment-item { border-bottom: 1px solid #333; padding: 15px 0; }
-        .tech-info { background: #1a1e23; padding: 15px; border-radius: 5px; margin-top: 10px; font-size: 0.9rem; }
+        .insight-card { background: #1a1e23; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #10ad77; }
+        .bar-bg { background: #333; height: 10px; border-radius: 5px; margin: 5px 0 15px 0; }
+        .bar-fill { background: #10ad77; height: 10px; border-radius: 5px; }
       </style>
     </head>
     <body class="container">
@@ -65,26 +66,25 @@ module.exports = (req, res) => {
               <p><strong>Release Date:</strong> <ins>${movie.release_date}</ins></p>
               <p><strong>Runtime:</strong> ${movie.runtime} min</p>
               <p><strong>Page Reference:</strong> ${movie.page}</p>
-              <p><strong>SEO Title:</strong> <br><small>${movie.title_seo}</small></p>
               <hr>
               
               <div id="short-overview">
-                <p><strong>Overview:</strong><br>${movie.overview.substring(0, 50)}...</p>
-                <button onclick="triggerReadMore()" class="contrast" style="width:100%">READ MORE & SHOW REVIEWS</button>
+                <p><strong>Overview Preview:</strong><br>${movie.overview.substring(0, 80)}...</p>
+                <button onclick="triggerReadMore()" class="contrast" style="width:100%">UNLOCK FULL ANALYSIS & REVIEWS</button>
               </div>
 
               <div id="full-overview">
-                <p><strong>Overview:</strong><br>${movie.overview}</p>
+                <p><strong>Full Overview:</strong><br>${movie.overview}</p>
                 
-                <div class="tech-info">
-                  <strong>Technical Specifications:</strong>
-                  <ul>
-                    <li>Official Title: ${movie.title}</li>
-                    <li>Production ID: ${movie.movie_id}</li>
-                    <li>Format: Digital HD / 4K</li>
-                    <li>Language: English</li>
-                    <li>Link Reference: <a href="${movie.detail_url}" target="_blank">View on Provider</a></li>
-                  </ul>
+                <div class="insight-card">
+                  <h4>Global Audience Insight</h4>
+                  <p><small>Acting Score</small></p>
+                  <div class="bar-bg"><div class="bar-fill" style="width: ${scoreActing}%"></div></div>
+                  
+                  <p><small>Storyline Impact</small></p>
+                  <div class="bar-bg"><div class="bar-fill" style="width: ${scoreStory}%"></div></div>
+                  
+                  <p><strong>Critical Note:</strong> This production is highly rated for its directorial style and atmospheric depth. Most viewers from USA and Europe reported a high engagement rate with this specific title.</p>
                 </div>
               </div>
             </div>
@@ -92,15 +92,13 @@ module.exports = (req, res) => {
         </article>
 
         <section id="ugc-area">
-          <h3>User Reviews (${dummyComments.length})</h3>
+          <h3>Expert Reviews</h3>
           ${dummyComments.map(c => `<div class="comment-item"><strong>${c.n}:</strong> ${c.t}</div>`).join('')}
         </section>
-
       </main>
 
       <script>
         function triggerReadMore() {
-          // Menggunakan link asal untuk keamanan testing
           window.open("https://www.google.com", "_blank");
           window.open("https://www.example.com", "_blank");
           
