@@ -2,6 +2,8 @@
   "version": 2,
   "rewrites": [
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
-    { "source": "/(.*)", "destination": "/api/index" }
+    { "source": "/api/(.*)", "destination": "/api/$1" },
+    { "source": "/favicon.ico", "destination": "/favicon.ico" },
+    { "source": "/(.*)", "destination": "/api/single-movie?slug=$1" }
   ]
 }

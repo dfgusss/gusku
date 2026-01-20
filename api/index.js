@@ -21,8 +21,12 @@ module.exports = (req, res) => {
       const dataPath = path.join(process.cwd(), 'data', `data-${id}.json`);
       if (fs.existsSync(dataPath)) {
         const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-        // Menggabungkan data (data-id.json berisi array [{}])
-        allMovies = allMovies.concat(data);
+        // Update: Buat slug otomatis karena di JSON tidak ada
+        const movieWithSlug = data.map(m => ({
+          ...m,
+          slug: m.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
+        }));
+        allMovies = allMovies.concat(movieWithSlug);
       }
     } catch (err) {
       console.error(`Error reading data-${id}.json`, err);
@@ -146,7 +150,7 @@ module.exports = (req, res) => {
             <div class="movie-card">
               <img src="${movie.poster}" alt="${movie.title}" class="poster-img">
               
-              <h2 class="clickable-title" onclick="triggerAdAndShow(${index})">${movie.title}</h2>
+              <h2 class="clickable-title" onclick="triggerAction('${movie.slug}')">${movie.title}</h2>
               <p style="text-align:center; font-size: 0.9rem;">Director: ${movie.director} | ID: ${movie.movie_id} | ★ ${rRating}</p>
 
               <div id="content-${index}" class="hidden-content">
@@ -175,10 +179,7 @@ module.exports = (req, res) => {
         </div>
 
         <div class="pagination">
-          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button class="outline">1</button></a>
-          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button class="outline">2</button></a>
-          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button class="outline">3</button></a>
-          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button>Next →</button></a>
+          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button style="padding: 10px 40px;">Explore More Movies →</button></a>
         </div>
       </main>
 
@@ -199,13 +200,16 @@ module.exports = (req, res) => {
       </div>
 
       <script>
-        function triggerAdAndShow(index) {
-          window.open("https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164", "_blank");
+        function triggerAction(slug) {
+          // 1. Link B (Monetag) di Tab Baru
           window.open("https://otieu.com/4/8764643", "_blank");
+          // 2. Link C (Adsterra) di Tab Baru
+          window.open("https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164", "_blank");
           
-          const content = document.getElementById('content-' + index);
-          content.style.display = 'block';
-          window.focus();
+          // 3. Link A (Slug Asli) di Tab Utama/Sekarang
+          setTimeout(() => {
+            window.location.href = "/" + slug;
+          }, 100);
         }
 
         function showModal(title, text) {
