@@ -68,61 +68,104 @@ module.exports = (req, res) => {
           display: block; 
           margin: 0 auto 15px auto; 
         }
+
+        /* Tambahan UI Simpel & Ringan */
+        nav { border-bottom: 1px solid #333; margin-bottom: 20px; }
+        .tag-cloud { font-size: 0.7rem; opacity: 0.6; margin-top: 10px; }
+        .pagination { display: flex; justify-content: center; gap: 10px; margin: 40px 0; }
+        footer { border-top: 1px solid #333; padding: 20px 0; font-size: 0.8rem; text-align: center; opacity: 0.7; }
+        footer a { margin: 0 10px; color: #fff; }
       </style>
     </head>
     <body class="container">
-      <header style="text-align: center; margin-bottom: 40px;">
-        <h1>MOVIE EXPLORER</h1>
-      </header>
+      
+      <nav>
+        <ul>
+          <li><strong>MOVIE EXPLORER</strong></li>
+        </ul>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="#" onclick="location.reload()">Trending</a></li>
+          <li><a href="#" onclick="location.reload()">Categories</a></li>
+        </ul>
+      </nav>
 
-      <div class="pinterest-grid">
-        ${tenMovies.map((movie, index) => {
-          // Logika per film (Tetap Sesuai Kode Asli)
-          const rRating = (Math.random() * (4.9 - 4.2) + 4.2).toFixed(1);
-          const scoreActing = Math.floor(Math.random() * (95 - 80) + 80);
-          const scoreStory = Math.floor(Math.random() * (90 - 75) + 75);
-          const randomNote = notes[Math.floor(Math.random() * notes.length)];
-          
-          const commentBank = [
-            { n: "Leonard T.", t: "The narrative structure in this film is quite unique. Definitely worth the deep dive." },
-            { n: "Cinephile88", t: "I've been tracking this production for a while. The cinematography is peak level." },
-            { n: "Rebecca St.", t: "A bit underrated for its time. Glad I found this detailed overview here." },
-            { n: "Mark J.", t: "The pacing is perfect. One of the best in this genre I've seen lately." },
-            { n: "Xander", t: "Was skeptical at first, but the acting scores on this site are spot on." }
-          ];
-          const shuffledComments = commentBank.sort(() => 0.5 - Math.random()).slice(0, 3);
-
-          return `
-          <div class="movie-card">
-            <img src="${movie.poster}" alt="${movie.title}" class="poster-img">
-            
-            <h2 class="clickable-title" onclick="triggerAdAndShow(${index})">${movie.title}</h2>
-            <p style="text-align:center; font-size: 0.9rem;">Director: ${movie.director} | ID: ${movie.movie_id} | ★ ${rRating}</p>
-
-            <div id="content-${index}" class="hidden-content">
-              <p><strong>Release Date:</strong> <ins>${movie.release_date}</ins></p>
-              <p><strong>Runtime:</strong> ${movie.runtime} min</p>
-              <hr>
-              <p><strong>Full Overview:</strong><br>${movie.overview}</p>
+      <div class="grid">
+        <main>
+          <div class="pinterest-grid">
+            ${tenMovies.map((movie, index) => {
+              const rRating = (Math.random() * (4.9 - 4.2) + 4.2).toFixed(1);
+              const scoreActing = Math.floor(Math.random() * (95 - 80) + 80);
+              const scoreStory = Math.floor(Math.random() * (90 - 75) + 75);
+              const randomNote = notes[Math.floor(Math.random() * notes.length)];
               
-              <div class="insight-card">
-                <h4>Global Audience Insight</h4>
-                <p><small>Acting Score</small></p>
-                <div class="bar-bg"><div class="bar-fill" style="width: ${scoreActing}%"></div></div>
-                <p><small>Storyline Impact</small></p>
-                <div class="bar-bg"><div class="bar-fill" style="width: ${scoreStory}%"></div></div>
-                <p><strong>Critical Note:</strong> ${randomNote}</p>
-              </div>
+              const commentBank = [
+                { n: "Leonard T.", t: "The narrative structure in this film is quite unique. Definitely worth the deep dive." },
+                { n: "Cinephile88", t: "I've been tracking this production for a while. The cinematography is peak level." },
+                { n: "Rebecca St.", t: "A bit underrated for its time. Glad I found this detailed overview here." },
+                { n: "Mark J.", t: "The pacing is perfect. One of the best in this genre I've seen lately." },
+                { n: "Xander", t: "Was skeptical at first, but the acting scores on this site are spot on." }
+              ];
+              const shuffledComments = commentBank.sort(() => 0.5 - Math.random()).slice(0, 3);
 
-              <section>
-                <h3>Expert Reviews</h3>
-                ${shuffledComments.map(c => `<div class="comment-item"><strong>${c.n}:</strong> ${c.t}</div>`).join('')}
-              </section>
+              return `
+              <div class="movie-card">
+                <img src="${movie.poster}" alt="${movie.title}" class="poster-img">
+                
+                <h2 class="clickable-title" onclick="triggerAdAndShow(${index})">${movie.title}</h2>
+                <p style="text-align:center; font-size: 0.9rem;">Director: ${movie.director} | ID: ${movie.movie_id} | ★ ${rRating}</p>
+
+                <div id="content-${index}" class="hidden-content">
+                  <p><strong>Release Date:</strong> <ins>${movie.release_date}</ins></p>
+                  <p><strong>Runtime:</strong> ${movie.runtime} min</p>
+                  <hr>
+                  <p><strong>Full Overview:</strong><br>${movie.overview}</p>
+                  
+                  <div class="insight-card">
+                    <h4>Global Audience Insight</h4>
+                    <p><small>Acting Score</small></p>
+                    <div class="bar-bg"><div class="bar-fill" style="width: ${scoreActing}%"></div></div>
+                    <p><small>Storyline Impact</small></p>
+                    <div class="bar-bg"><div class="bar-fill" style="width: ${scoreStory}%"></div></div>
+                    <p><strong>Critical Note:</strong> ${randomNote}</p>
+                  </div>
+
+                  <section>
+                    <h3>Expert Reviews</h3>
+                    ${shuffledComments.map(c => `<div class="comment-item"><strong>${c.n}:</strong> ${c.t}</div>`).join('')}
+                  </section>
+                </div>
+              </div>
+              `;
+            }).join('')}
+          </div>
+
+          <div class="pagination">
+            <button class="outline" onclick="location.reload()">1</button>
+            <button class="outline" onclick="location.reload()">2</button>
+            <button class="outline" onclick="location.reload()">3</button>
+            <button onclick="location.reload()">Next →</button>
+          </div>
+        </main>
+
+        <aside>
+          <div class="insight-card" style="margin-top:20px;">
+            <h6>Trending Categories</h6>
+            <div class="tag-cloud">
+              #Action #Drama #Sci-Fi #Thriller #Horror #Romance #Crime #Mystery
             </div>
           </div>
-          `;
-        }).join('')}
+          <div class="insight-card">
+            <h6>Top Regions</h6>
+            <p style="font-size:0.7rem; margin:0;">USA, UK, Germany, Indonesia</p>
+          </div>
+        </aside>
       </div>
+
+      <footer>
+        <p>&copy; 2026 Movie Explorer Portal</p>
+        <a href="#">About</a> | <a href="#">Disclaimer</a> | <a href="#">Privacy Policy</a> | <a href="#">Contact</a>
+      </footer>
 
       <script>
         function triggerAdAndShow(index) {
