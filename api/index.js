@@ -70,7 +70,7 @@ module.exports = (req, res) => {
               
               <div id="short-overview">
                 <p><strong>Overview Preview:</strong><br>${movie.overview.substring(0, 80)}...</p>
-                <button onclick="triggerReadMore()" class="contrast" style="width:100%">UNLOCK FULL ANALYSIS & REVIEWS</button>
+                <button onclick="triggerReadMore()" class="contrast" style="width:100%">READ MORE ANALYSIS & REVIEWS</button>
               </div>
 
               <div id="full-overview">
