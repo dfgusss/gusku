@@ -1,0 +1,11 @@
+[
+  {
+    "title": "A Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/4ViUv4fZtXUlcPCTFh1EPTUEudC.jpg",
+    "director": "Bruce Conner",
+    "movie_id": "128682",
+    "release_date": "1958-06-29",
+    "runtime": "12",
+    "overview": "Bruce Conner's landmark experimental film consisting entirely of found footage edited to a new score."
+  }
+]

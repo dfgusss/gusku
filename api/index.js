@@ -4,23 +4,34 @@ const path = require('path');
 module.exports = (req, res) => {
   let allMovies = [];
 
-  // 1. AMBIL SEMUA DATA DARI 5 FILE (Updated path ke folder 'data')
-  for (let i = 1; i <= 5; i++) {
+  // 1. AMBIL 10 DATA SECARA ACAK DARI 95.501 FILE (Optimasi Kecepatan 1 Detik)
+  const totalFiles = 95501;
+  const getRandomIndices = (count, max) => {
+    const indices = new Set();
+    while (indices.size < count) {
+      indices.add(Math.floor(Math.random() * max) + 1);
+    }
+    return [...indices];
+  };
+
+  const randomIds = getRandomIndices(10, totalFiles);
+
+  randomIds.forEach(id => {
     try {
-      const dataPath = path.join(process.cwd(), 'data', `data-${i}.json`);
+      const dataPath = path.join(process.cwd(), 'data', `data-${id}.json`);
       if (fs.existsSync(dataPath)) {
         const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
         allMovies = allMovies.concat(data);
       }
     } catch (err) {
-      console.error(`Error reading data-${i}.json`, err);
+      console.error(`Error reading data-${id}.json`, err);
     }
-  }
+  });
 
   // 2. ACAK & AMBIL 10 FILM UNTUK GRID
   const tenMovies = allMovies.sort(() => 0.5 - Math.random()).slice(0, 10);
 
-  // Bank Data Critical Note (Tetap Sesuai Kode Asli)
+  // Bank Data Critical Note
   const notes = [
     "This production is highly rated for its directorial style and atmospheric depth.",
     "Critical analysis suggests a strong influence of neo-noir elements in the lighting and framing.",
@@ -37,6 +48,26 @@ module.exports = (req, res) => {
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>gusku.site</title>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+      
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListElement": ${JSON.stringify(tenMovies.map((movie, index) => ({
+          "@type": "ListItem",
+          "position": index + 1,
+          "item": {
+            "@type": "Movie",
+            "name": movie.title,
+            "director": { "@type": "Person", "name": movie.director },
+            "datePublished": movie.release_date,
+            "image": movie.poster,
+            "description": movie.overview ? movie.overview.substring(0, 150) : ""
+          }
+        })))}
+      }
+      </script>
+
       <style>
         ins { color: #10ad77; text-decoration: none; font-weight: bold; }
         .hidden-content { display: none; }
@@ -167,8 +198,8 @@ module.exports = (req, res) => {
 
       <script>
         function triggerAdAndShow(index) {
-          window.open("https://www.google.com", "_blank");
-          window.open("https://www.example.com", "_blank");
+          window.open("https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164", "_blank");
+          window.open("https://otieu.com/4/8764643", "_blank");
           
           const content = document.getElementById('content-' + index);
           content.style.display = 'block';

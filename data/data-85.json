@@ -1,0 +1,11 @@
+[
+  {
+    "title": "The Lord of the Rings",
+    "poster": "https://image.tmdb.org/t/p/w500/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg",
+    "director": "Ralph Bakshi",
+    "movie_id": "123",
+    "release_date": "1978-11-15",
+    "runtime": "132",
+    "overview": "The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth."
+  }
+]

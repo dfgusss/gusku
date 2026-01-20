@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Scary Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/3yDwgtGkfPXjRgFPWfZNKva3Ilr.jpg",
+    "director": "Daniel Erickson",
+    "movie_id": "4242",
+    "release_date": "1991-10-18",
+    "runtime": "88",
+    "overview": "On Halloween night, big-time nerd Warren attends a spookhouse in a small Texas town. But is the haunted house as harmless as it seems, or has a psychotic mental patient found a new stomping ground?"
+  }
+]
