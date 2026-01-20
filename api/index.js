@@ -87,8 +87,9 @@ module.exports = (req, res) => {
 
       <script>
         function triggerReadMore() {
-          window.open("https://otieu.com/4/8764643", "_blank");
-          window.open("https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164", "_blank");
+          // Menggunakan link asal untuk keamanan testing
+          window.open("https://www.google.com", "_blank");
+          window.open("https://www.example.com", "_blank");
           
           document.getElementById('short-overview').style.display = 'none';
           document.getElementById('full-overview').style.display = 'block';
