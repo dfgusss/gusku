@@ -4,10 +4,10 @@ const path = require('path');
 module.exports = (req, res) => {
   let allMovies = [];
 
-  // 1. AMBIL SEMUA DATA DARI 5 FILE
+  // 1. AMBIL SEMUA DATA DARI 5 FILE (Updated path ke folder 'data')
   for (let i = 1; i <= 5; i++) {
     try {
-      const dataPath = path.join(process.cwd(), `data-${i}.json`);
+      const dataPath = path.join(process.cwd(), 'data', `data-${i}.json`);
       if (fs.existsSync(dataPath)) {
         const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
         allMovies = allMovies.concat(data);
@@ -150,7 +150,7 @@ module.exports = (req, res) => {
       </main>
 
       <footer>
-        <p>&copy; 2026 gusku.site</p>
+        <p><a href="/" style="text-decoration:none; color:inherit; margin:0;">&copy; 2026 gusku.site</a></p>
         <a onclick="showModal('About', 'gusku.site is a high-speed discovery portal providing in-depth data and technical insights for global cinema titles.')">About</a> | 
         <a onclick="showModal('Disclaimer', 'All data provided here is for informational purposes only. We do not host any video files on our servers.')">Disclaimer</a> | 
         <a onclick="showModal('Privacy Policy', 'We value your privacy. No personal data is collected or stored during your browsing session on this portal.')">Privacy Policy</a> | 
