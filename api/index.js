@@ -4,18 +4,30 @@ const path = require('path');
 module.exports = (req, res) => {
   let allMovies = [];
 
-  // 1. AMBIL SEMUA DATA DARI 5 FILE (Updated path ke folder 'data')
-  for (let i = 1; i <= 5; i++) {
+  // 1. AMBIL 10 DATA SECARA ACAK DARI 95.501 FILE (Optimasi Kecepatan 1 Detik)
+  const totalFiles = 95501;
+  const getRandomIndices = (count, max) => {
+    const indices = new Set();
+    while (indices.size < count) {
+      indices.add(Math.floor(Math.random() * max) + 1);
+    }
+    return [...indices];
+  };
+
+  const randomIds = getRandomIndices(10, totalFiles);
+
+  randomIds.forEach(id => {
     try {
-      const dataPath = path.join(process.cwd(), 'data', `data-${i}.json`);
+      const dataPath = path.join(process.cwd(), 'data', `data-${id}.json`);
       if (fs.existsSync(dataPath)) {
         const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+        // Menggabungkan data (data-id.json berisi array [{}])
         allMovies = allMovies.concat(data);
       }
     } catch (err) {
-      console.error(`Error reading data-${i}.json`, err);
+      console.error(`Error reading data-${id}.json`, err);
     }
-  }
+  });
 
   // 2. ACAK & AMBIL 10 FILM UNTUK GRID
   const tenMovies = allMovies.sort(() => 0.5 - Math.random()).slice(0, 10);
