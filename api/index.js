@@ -22,16 +22,42 @@ module.exports = (req, res) => {
     return res.status(404).send(`Movie "${slug}" not found.`);
   }
 
-  // LOGIKA BARU: DATA ACAK UNTUK "ISI TERSEMBUNYI"
+  // LOGIKA RANDOM DATA (DYNAMIS)
   const rRating = (Math.random() * (4.9 - 4.2) + 4.2).toFixed(1);
   const scoreActing = Math.floor(Math.random() * (95 - 80) + 80);
   const scoreStory = Math.floor(Math.random() * (90 - 75) + 75);
   
-  const dummyComments = [
-    { n: "Leonard T.", t: "The narrative structure in this ${movie.director} film is quite unique. Definitely worth the deep dive." },
-    { n: "Cinephile88", t: "I've been tracking this production ID ${movie.movie_id} for a while. The cinematography is peak level." },
-    { n: "Rebecca St.", t: "A bit underrated for its time. Glad I found this detailed overview here." }
+  // Bank Data Komentar (15 items)
+  const commentBank = [
+    { n: "Leonard T.", t: `The narrative structure in this ${movie.director} film is quite unique. Definitely worth the deep dive.` },
+    { n: "Cinephile88", t: `I've been tracking this production ID ${movie.movie_id} for a while. The cinematography is peak level.` },
+    { n: "Rebecca St.", t: "A bit underrated for its time. Glad I found this detailed overview here." },
+    { n: "Mark J.", t: "The pacing is perfect. One of the best in this genre I've seen lately." },
+    { n: "Sarah Jenkins", t: "Brilliant direction! The way the story unfolds is just masterpiece." },
+    { n: "Thomas K.", t: "Finally found a clean technical info for this title. Much appreciated!" },
+    { n: "Elena Gilbert", t: "The atmosphere is so thick you can almost touch it. Great work by the crew." },
+    { n: "Chris Nolan Fan", t: "Reminds me of classic cinema but with a modern twist in the second act." },
+    { n: "MovieBuff_USA", t: "Highly recommended for weekend watching. Pure entertainment." },
+    { n: "Xander", t: "Was skeptical at first, but the acting scores on this site are spot on." },
+    { n: "Olivia W.", t: "The soundtrack (not mentioned) actually carries the emotion of the movie perfectly." },
+    { n: "David B.", t: `A standout piece of work from ${movie.director}. Truly an artistic achievement.` },
+    { n: "Grace", t: "Simple yet powerful storytelling. That's how you make a movie." },
+    { n: "Liam", t: "Checked the reference page and everything aligns. High quality data here." },
+    { n: "Sofia", t: "The storyline impact is indeed huge. Stayed with me for days after watching." }
   ];
+
+  // Acak Komentar (Shuffle and Pick 5)
+  const shuffledComments = commentBank.sort(() => 0.5 - Math.random()).slice(0, 5);
+
+  // Bank Data Critical Note
+  const notes = [
+    "This production is highly rated for its directorial style and atmospheric depth.",
+    "Critical analysis suggests a strong influence of neo-noir elements in the lighting and framing.",
+    "Audience engagement peaked during the second act, showing high emotional resonance.",
+    "A technical masterpiece in terms of runtime efficiency and narrative pacing.",
+    "Most viewers from USA and Europe reported a high engagement rate with this specific title."
+  ];
+  const randomNote = notes[Math.floor(Math.random() * notes.length)];
 
   const html = `
     <!DOCTYPE html>
@@ -47,7 +73,7 @@ module.exports = (req, res) => {
         .comment-item { border-bottom: 1px solid #333; padding: 15px 0; }
         .insight-card { background: #1a1e23; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #10ad77; }
         .bar-bg { background: #333; height: 10px; border-radius: 5px; margin: 5px 0 15px 0; }
-        .bar-fill { background: #10ad77; height: 10px; border-radius: 5px; }
+        .bar-fill { background: #10ad77; height: 10px; border-radius: 5px; transition: width 1s ease-in-out; }
       </style>
     </head>
     <body class="container">
@@ -70,7 +96,7 @@ module.exports = (req, res) => {
               
               <div id="short-overview">
                 <p><strong>Overview Preview:</strong><br>${movie.overview.substring(0, 80)}...</p>
-                <button onclick="triggerReadMore()" class="contrast" style="width:100%">READ MORE ANALYSIS & REVIEWS</button>
+                <button onclick="triggerReadMore()" class="contrast" style="width:100%">READ MORE</button>
               </div>
 
               <div id="full-overview">
@@ -84,7 +110,7 @@ module.exports = (req, res) => {
                   <p><small>Storyline Impact</small></p>
                   <div class="bar-bg"><div class="bar-fill" style="width: ${scoreStory}%"></div></div>
                   
-                  <p><strong>Critical Note:</strong> This production is highly rated for its directorial style and atmospheric depth. Most viewers from USA and Europe reported a high engagement rate with this specific title.</p>
+                  <p><strong>Critical Note:</strong> ${randomNote}</p>
                 </div>
               </div>
             </div>
@@ -93,7 +119,7 @@ module.exports = (req, res) => {
 
         <section id="ugc-area">
           <h3>Expert Reviews</h3>
-          ${dummyComments.map(c => `<div class="comment-item"><strong>${c.n}:</strong> ${c.t}</div>`).join('')}
+          ${shuffledComments.map(c => `<div class="comment-item"><strong>${c.n}:</strong> ${c.t}</div>`).join('')}
         </section>
       </main>
 
