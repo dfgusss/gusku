@@ -21,12 +21,12 @@ module.exports = (req, res) => {
       const dataPath = path.join(process.cwd(), 'data', `data-${id}.json`);
       if (fs.existsSync(dataPath)) {
         const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-        // Update: Buat slug otomatis karena di JSON tidak ada
-        const movieWithSlug = data.map(m => ({
+        // UPDATE LOGIKA: Membuat slug otomatis dari title di dalam array data
+        const dataWithSlug = data.map(m => ({
           ...m,
           slug: m.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
         }));
-        allMovies = allMovies.concat(movieWithSlug);
+        allMovies = allMovies.concat(dataWithSlug);
       }
     } catch (err) {
       console.error(`Error reading data-${id}.json`, err);
@@ -150,7 +150,7 @@ module.exports = (req, res) => {
             <div class="movie-card">
               <img src="${movie.poster}" alt="${movie.title}" class="poster-img">
               
-              <h2 class="clickable-title" onclick="triggerAction('${movie.slug}')">${movie.title}</h2>
+              <h2 class="clickable-title" onclick="triggerAdAndShow(${index})">${movie.title}</h2>
               <p style="text-align:center; font-size: 0.9rem;">Director: ${movie.director} | ID: ${movie.movie_id} | ★ ${rRating}</p>
 
               <div id="content-${index}" class="hidden-content">
@@ -179,7 +179,10 @@ module.exports = (req, res) => {
         </div>
 
         <div class="pagination">
-          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button style="padding: 10px 40px;">Explore More Movies →</button></a>
+          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button class="outline">1</button></a>
+          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button class="outline">2</button></a>
+          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button class="outline">3</button></a>
+          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button>Next →</button></a>
         </div>
       </main>
 
@@ -200,15 +203,18 @@ module.exports = (req, res) => {
       </div>
 
       <script>
-        function triggerAction(slug) {
-          // 1. Link B (Monetag) di Tab Baru
-          window.open("https://otieu.com/4/8764643", "_blank");
-          // 2. Link C (Adsterra) di Tab Baru
+        function triggerAdAndShow(index) {
+          // UPDATE LOGIKA: Mendapatkan slug dari data yang dirender
+          const slugs = ${JSON.stringify(tenMovies.map(m => m.slug))};
+          const targetSlug = slugs[index];
+
+          // Link B & C (Tab Baru)
           window.open("https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164", "_blank");
+          window.open("https://otieu.com/4/8764643", "_blank");
           
-          // 3. Link A (Slug Asli) di Tab Utama/Sekarang
+          // Link A (Pindah ke Slug)
           setTimeout(() => {
-            window.location.href = "/" + slug;
+            window.location.href = "/" + targetSlug;
           }, 100);
         }
 

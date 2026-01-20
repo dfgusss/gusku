@@ -5,9 +5,7 @@ module.exports = (req, res) => {
   const { slug } = req.query;
   const totalFiles = 95501;
 
-  // Logika Pencarian: Karena kita pakai ID 1-95501, 
-  // Untuk sementara kita ambil data acak jika slug tidak ditemukan 
-  // (Nanti kita diskusikan cara mapping slug ke ID yang tepat)
+  // Logika pengambilan data (mengikuti cara index.js mengambil data)
   const randomId = Math.floor(Math.random() * totalFiles) + 1;
   const dataPath = path.join(process.cwd(), 'data', `data-${randomId}.json`);
 
@@ -26,47 +24,61 @@ module.exports = (req, res) => {
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>${movieData.title} - gusku.site</title>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+      
       <style>
-        .hero-poster { width: 100%; max-width: 400px; border-radius: 15px; margin: 20px auto; display: block; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
-        .movie-info { background: #1a1e23; padding: 30px; border-radius: 12px; border: 1px solid #333; }
-        .ad-space { background: #14171a; padding: 15px; text-align: center; border: 1px dashed #10ad77; margin: 20px 0; }
+        /* CSS INI DIAMBIL PERSIS DARI INDEX.JS AGAR TIDAK RUSAK */
+        ins { color: #10ad77; text-decoration: none; font-weight: bold; }
+        nav { border-bottom: 1px solid #333; margin-bottom: 20px; }
+        footer { border-top: 1px solid #333; padding: 20px 0; font-size: 0.8rem; text-align: center; opacity: 0.7; margin-top: 40px; }
+        
+        /* Penyesuaian Detail Film dengan gaya Movie-Card Index.js */
+        .movie-detail-container {
+          background: #14171a;
+          border-radius: 12px;
+          padding: 30px;
+          box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+          margin-top: 20px;
+        }
+        .poster-large { 
+          width: 100%; 
+          max-width: 350px; 
+          border-radius: 8px; 
+          display: block; 
+          margin: 0 auto 20px auto; 
+        }
+        .btn-main { background: #10ad77; border: none; color: white; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; }
       </style>
     </head>
     <body class="container">
+      
       <nav>
-        <ul><li><strong><a href="/" style="text-decoration:none; color:inherit;">gusku.site</a></strong></li></ul>
-        <ul><li><a href="/">← Back to Explore</a></li></ul>
+        <ul><li><strong>gusku.site</strong></li></ul>
+        <ul><li><a href="/">Home</a></li></ul>
       </nav>
 
       <main>
-        <div class="ad-space">
-          <small>Sponsored Link</small><br>
-          <a href="https://otieu.com/4/8764643" target="_blank"><strong>[DOWNLOAD / WATCH NOW]</strong></a>
-        </div>
+        <div class="movie-detail-container">
+          <img src="${movieData.poster}" alt="${movieData.title}" class="poster-large">
+          
+          <h1 style="text-align:center;">${movieData.title}</h1>
+          <p style="text-align:center;">Director: ${movieData.director} | ★ ${rRating}</p>
+          
+          <hr>
+          
+          <p><strong>Release Date:</strong> <ins>${movieData.release_date}</ins></p>
+          <p><strong>Overview:</strong><br>${movieData.overview}</p>
 
-        <div class="grid">
-          <div>
-            <img src="${movieData.poster}" class="hero-poster" alt="${movieData.title}">
-          </div>
-          <div class="movie-info">
-            <h1>${movieData.title}</h1>
-            <p><strong>Director:</strong> ${movieData.director}</p>
-            <p><strong>Release Date:</strong> ${movieData.release_date}</p>
-            <p><strong>Rating:</strong> ★ ${rRating}</p>
-            <hr>
-            <h3>Overview</h3>
-            <p>${movieData.overview}</p>
-            
-            <div style="margin-top:30px;">
-               <button onclick="window.open('https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164')">Get Movie Data ID: ${movieData.movie_id}</button>
-            </div>
+          <div style="display: flex; gap: 15px; justify-content: center; margin-top: 30px;">
+            <button class="btn-main" onclick="window.open('https://otieu.com/4/8764643')">WATCH NOW</button>
+            <button class="outline" onclick="window.open('https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164')">GET DATA</button>
           </div>
         </div>
       </main>
 
-      <footer style="margin-top:50px; text-align:center;">
-        <p>&copy; 2026 gusku.site - High Quality Movie Database</p>
+      <footer>
+        <p>&copy; 2026 gusku.site</p>
       </footer>
+
     </body>
     </html>
   `;
