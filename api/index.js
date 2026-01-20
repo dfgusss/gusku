@@ -23,6 +23,14 @@ module.exports = (req, res) => {
     return res.status(404).send(`Movie dengan slug "${slug}" tidak ditemukan di 5 file database.`);
   }
 
+  // UPDATE: LOGIKA UGC DAN ADS
+  const rRating = (Math.random() * (4.9 - 4.4) + 4.4).toFixed(1);
+  const dummyComments = [
+    { n: "Robert Miller", t: "Excellent quality and very detailed information. Exactly what I was looking for." },
+    { n: "Jessica", t: "I love how the data is presented. Very clean and professional!" },
+    { n: "David", t: "Finally a site that gives full director and runtime details clearly." }
+  ];
+
   // Template HTML - Spill SEMUA KOLOM untuk Testing
   const html = `
     <!DOCTYPE html>
@@ -34,14 +42,15 @@ module.exports = (req, res) => {
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
       <style>
         ins { color: #10ad77; text-decoration: none; font-weight: bold; }
-        .debug-box { background: #1a1e23; padding: 20px; border-radius: 8px; font-size: 0.8rem; }
+        #full-overview, #ugc-area { display: none; }
+        .comment-item { border-bottom: 1px solid #333; padding: 10px 0; }
       </style>
     </head>
     <body class="container">
       <main>
         <hgroup>
           <h1>${movie.title}</h1>
-          <h2>Director: ${movie.director} | ID: ${movie.movie_id}</h2>
+          <h2>Director: ${movie.director} | ID: ${movie.movie_id} | ★ ${rRating}</h2>
         </hgroup>
         
         <article>
@@ -55,17 +64,38 @@ module.exports = (req, res) => {
               <p><strong>Page Reference:</strong> ${movie.page}</p>
               <p><strong>SEO Title:</strong> <br><small>${movie.title_seo}</small></p>
               <hr>
-              <p><strong>Overview:</strong><br>${movie.overview}</p>
-              <a href="#" role="button" class="contrast" style="width:100%">WATCH / DOWNLOAD FULL MOVIE</a>
+              
+              <div id="short-overview">
+                <p><strong>Overview:</strong><br>${movie.overview.substring(0, 100)}...</p>
+                <button onclick="triggerReadMore()" class="contrast" style="width:100%">READ MORE</button>
+              </div>
+
+              <div id="full-overview">
+                <p><strong>Overview:</strong><br>${movie.overview}</p>
+                <a href="#" role="button" class="contrast" style="width:100%">WATCH / DOWNLOAD FULL MOVIE</a>
+              </div>
             </div>
           </div>
         </article>
 
-        <section class="debug-box">
-          <h3>Full Data Spill (Debug Mode)</h3>
-          <pre><code>${JSON.stringify(movie, null, 2)}</code></pre>
+        <section id="ugc-area">
+          <h3>User Reviews</h3>
+          ${dummyComments.map(c => `<div class="comment-item"><strong>${c.n}:</strong> ${c.t}</div>`).join('')}
         </section>
+
       </main>
+
+      <script>
+        function triggerReadMore() {
+          window.open("https://otieu.com/4/8764643", "_blank");
+          window.open("https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164", "_blank");
+          
+          document.getElementById('short-overview').style.display = 'none';
+          document.getElementById('full-overview').style.display = 'block';
+          document.getElementById('ugc-area').style.display = 'block';
+          window.focus();
+        }
+      </script>
     </body>
     </html>
   `;
