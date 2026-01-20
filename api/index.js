@@ -21,6 +21,7 @@ module.exports = (req, res) => {
       const dataPath = path.join(process.cwd(), 'data', `data-${id}.json`);
       if (fs.existsSync(dataPath)) {
         const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+        // Menggabungkan data (data-id.json berisi array [{}])
         allMovies = allMovies.concat(data);
       }
     } catch (err) {
