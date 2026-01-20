@@ -104,6 +104,7 @@ module.exports = (req, res) => {
         /* Nav & Pagination */
         nav { border-bottom: 1px solid #333; margin-bottom: 20px; }
         .pagination { display: flex; justify-content: center; gap: 10px; margin: 40px 0; }
+        .pagination a { text-decoration: none; }
         footer { border-top: 1px solid #333; padding: 20px 0; font-size: 0.8rem; text-align: center; opacity: 0.7; margin-top: 40px; }
         footer a { margin: 0 10px; color: #fff; cursor: pointer; }
 
@@ -174,10 +175,10 @@ module.exports = (req, res) => {
         </div>
 
         <div class="pagination">
-          <button class="outline" onclick="location.reload()">1</button>
-          <button class="outline" onclick="location.reload()">2</button>
-          <button class="outline" onclick="location.reload()">3</button>
-          <button onclick="location.reload()">Next →</button>
+          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button class="outline">1</button></a>
+          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button class="outline">2</button></a>
+          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button class="outline">3</button></a>
+          <a href="/?data=${Math.floor(Math.random() * totalFiles) + 1}"><button>Next →</button></a>
         </div>
       </main>
 

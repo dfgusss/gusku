@@ -14,12 +14,12 @@ module.exports = (req, res) => {
       <priority>1.0</priority>
     </url>`;
 
-  // Tambahkan 1000 link sampel pertama agar Google mulai merayapi
-  // Kita batasi 1000 dulu agar loading sitemap tidak berat saat dibuka bot
-  for (let i = 1; i <= 1000; i++) {
+  // REVISI: Mengambil 1000 link secara ACAK agar menjangkau seluruh 95.501 file
+  for (let i = 0; i < 1000; i++) {
+    const randomId = Math.floor(Math.random() * totalFiles) + 1;
     xml += `
     <url>
-      <loc>${baseUrl}/?data=${i}</loc>
+      <loc>${baseUrl}/?data=${randomId}</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>`;
