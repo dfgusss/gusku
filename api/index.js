@@ -28,10 +28,12 @@ module.exports = (req, res) => {
   const dummyComments = [
     { n: "Robert Miller", t: "Excellent quality and very detailed information. Exactly what I was looking for." },
     { n: "Jessica", t: "I love how the data is presented. Very clean and professional!" },
-    { n: "David", t: "Finally a site that gives full director and runtime details clearly." }
+    { n: "David", t: "Finally a site that gives full director and runtime details clearly." },
+    { n: "Sarah Connor", t: "The overview is very helpful, thanks for sharing the director info." },
+    { n: "Mike Ross", t: "Is there any sequel for this movie? The ending was mindblowing." }
   ];
 
-  // Template HTML - Spill SEMUA KOLOM untuk Testing
+  // Template HTML
   const html = `
     <!DOCTYPE html>
     <html lang="en">
@@ -43,7 +45,8 @@ module.exports = (req, res) => {
       <style>
         ins { color: #10ad77; text-decoration: none; font-weight: bold; }
         #full-overview, #ugc-area { display: none; }
-        .comment-item { border-bottom: 1px solid #333; padding: 10px 0; }
+        .comment-item { border-bottom: 1px solid #333; padding: 15px 0; }
+        .tech-info { background: #1a1e23; padding: 15px; border-radius: 5px; margin-top: 10px; font-size: 0.9rem; }
       </style>
     </head>
     <body class="container">
@@ -66,20 +69,30 @@ module.exports = (req, res) => {
               <hr>
               
               <div id="short-overview">
-                <p><strong>Overview:</strong><br>${movie.overview.substring(0, 100)}...</p>
-                <button onclick="triggerReadMore()" class="contrast" style="width:100%">READ MORE</button>
+                <p><strong>Overview:</strong><br>${movie.overview.substring(0, 50)}...</p>
+                <button onclick="triggerReadMore()" class="contrast" style="width:100%">READ MORE & SHOW REVIEWS</button>
               </div>
 
               <div id="full-overview">
                 <p><strong>Overview:</strong><br>${movie.overview}</p>
-                <a href="#" role="button" class="contrast" style="width:100%">WATCH / DOWNLOAD FULL MOVIE</a>
+                
+                <div class="tech-info">
+                  <strong>Technical Specifications:</strong>
+                  <ul>
+                    <li>Official Title: ${movie.title}</li>
+                    <li>Production ID: ${movie.movie_id}</li>
+                    <li>Format: Digital HD / 4K</li>
+                    <li>Language: English</li>
+                    <li>Link Reference: <a href="${movie.detail_url}" target="_blank">View on Provider</a></li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>
         </article>
 
         <section id="ugc-area">
-          <h3>User Reviews</h3>
+          <h3>User Reviews (${dummyComments.length})</h3>
           ${dummyComments.map(c => `<div class="comment-item"><strong>${c.n}:</strong> ${c.t}</div>`).join('')}
         </section>
 
