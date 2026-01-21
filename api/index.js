@@ -55,6 +55,7 @@ module.exports = (req, res) => {
     <html lang="en">
     <head>
       <meta charset="UTF-8">
+      <meta name="google-site-verification" content="t500lXkxHCp3AFl5ip5M1nlVpjLKPxlVT6lkRtnpS8w" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>gusku.site</title>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
