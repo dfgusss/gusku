@@ -53,6 +53,26 @@ module.exports = (req, res) => {
   const cIdx1 = Math.floor(seededRandom(seed + 4) * 5);
   const fixedComments = [commentBank[cIdx1], commentBank[(cIdx1 + 1) % 5]];
 
+  // UPDATE: LOGIKA LOOP RECOMENDATION (JANJI 4)
+  const totalFiles = 95501;
+  let recommendationHtml = '';
+  for (let i = 1; i <= 4; i++) {
+    const rId = Math.floor(seededRandom(seed + i + 10) * totalFiles) + 1;
+    try {
+      const rPath = path.join(process.cwd(), 'data', `data-${rId}.json`);
+      if (fs.existsSync(rPath)) {
+        const rData = JSON.parse(fs.readFileSync(rPath, 'utf8'))[0];
+        const rCleanTitle = rData.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+        const rSlug = `${rCleanTitle}-${rId}`;
+        recommendationHtml += `
+          <div style="background: #1a1e23; padding: 10px; border-radius: 8px; text-align: center;">
+            <img src="${rData.poster}" alt="${rData.title}" style="border-radius: 4px; margin-bottom: 5px; cursor: pointer;" onclick="window.location.href='/${rSlug}'">
+            <p style="font-size: 0.8rem; margin: 0;"><a href="/${rSlug}">${rData.title}</a></p>
+          </div>`;
+      }
+    } catch (e) { continue; }
+  }
+
   const html = `
     <!DOCTYPE html>
     <html lang="en">
@@ -115,6 +135,13 @@ module.exports = (req, res) => {
           <div style="display: flex; gap: 15px; justify-content: center; margin-top: 30px;">
             <button class="btn-main" onclick="window.open('https://otieu.com/4/8764643')">WATCH NOW</button>
             <button class="outline" onclick="window.open('https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164')">GET DATA</button>
+          </div>
+
+          <div style="margin-top: 40px; border-top: 1px solid #333; padding-top: 20px;">
+            <h4 style="margin-bottom: 20px;">Recommended for You</h4>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;">
+              ${recommendationHtml}
+            </div>
           </div>
         </div>
       </main>
