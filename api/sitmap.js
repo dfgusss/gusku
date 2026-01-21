@@ -16,8 +16,9 @@ module.exports = (req, res) => {
       <priority>1.0</priority>
     </url>`;
 
-  // 2. Loop 1000 Link dengan Format Slug yang Sesuai (Judul-ID)
-  for (let i = 0; i < 1000; i++) {
+  // 2. Loop 1000 Link dengan Format Slug (Optimasi Kecepatan Pembacaan)
+  let count = 0;
+  while (count < 1000) {
     const randomId = Math.floor(Math.random() * totalFiles) + 1;
     
     try {
@@ -27,9 +28,11 @@ module.exports = (req, res) => {
         const jsonData = JSON.parse(fileContent);
         const movie = jsonData[0];
         
-        if (movie) {
-          // Buat slug yang sama persis dengan logika di index.js
-          const cleanTitle = movie.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+        if (movie && movie.title) {
+          const cleanTitle = movie.title.toLowerCase()
+            .replace(/[^a-z0-9]+/g, '-')
+            .replace(/(^-|-$)/g, '');
+            
           const slug = `${cleanTitle}-${randomId}`;
 
           xml += `
@@ -38,10 +41,11 @@ module.exports = (req, res) => {
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
           </url>`;
+          count++; // Hanya bertambah jika file berhasil dibaca
         }
       }
     } catch (err) {
-      // Jika error, lewati file ini
+      // Jika error, lewati tanpa menghentikan proses
       continue;
     }
   }
