@@ -14,12 +14,13 @@ module.exports = (req, res) => {
       <priority>1.0</priority>
     </url>`;
 
-  // REVISI: Mengambil 1000 link secara ACAK agar menjangkau seluruh 95.501 file
+  // UPDATE LOGIKA LINK: Menggunakan format slug agar ditangkap oleh vercel.json
+  // Tanpa merubah struktur loop atau jumlah link (tetap 1000)
   for (let i = 0; i < 1000; i++) {
     const randomId = Math.floor(Math.random() * totalFiles) + 1;
     xml += `
     <url>
-      <loc>${baseUrl}/?data=${randomId}</loc>
+      <loc>${baseUrl}/movie-${randomId}</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>`;
