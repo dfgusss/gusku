@@ -4,6 +4,6 @@
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
     { "source": "/api/(.*)", "destination": "/api/$1" },
     { "source": "/favicon.ico", "destination": "/favicon.ico" },
-    { "source": "/((?!index|api).*\\w.*)", "destination": "/api/single-movie?slug=$1" }
+    { "source": "/:slug(.+)", "destination": "/api/single-movie?slug=:slug" }
   ]
 }
