@@ -2,15 +2,8 @@
   "version": 2,
   "rewrites": [
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
-    { "source": "/api/cron", "destination": "/api/cron" },
     { "source": "/favicon.ico", "destination": "/favicon.ico" },
     { "source": "/", "destination": "/api/index" },
     { "source": "/:slug", "destination": "/api/single-movie?slug=:slug" }
-  ],
-  "crons": [
-    {
-      "path": "/api/cron",
-      "schedule": "0 * * * *"
-    }
   ]
 }
