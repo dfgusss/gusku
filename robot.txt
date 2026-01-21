@@ -1,4 +1,3 @@
+
 User-agent: *
-Allow: /
-Sitemap: https://gusku.site/sitemap.xml
-Sitemap: https://gusku.site/api/sitemap.xml
+Disallow: /
