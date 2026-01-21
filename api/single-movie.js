@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = (req, res) => {
   const { slug } = req.query;
   
-  // OPTIMASI: Mengambil ID dari akhir slug (Contoh: judul-film-123 -> ID-nya 123)
+  // OPTIMASI: Mengambil ID dari akhir slug
   const parts = slug ? slug.split('-') : [];
   const movieId = parts[parts.length - 1];
 
@@ -22,7 +22,36 @@ module.exports = (req, res) => {
   // Membaca data film yang spesifik
   const fileContent = fs.readFileSync(dataPath, 'utf8');
   const movieData = JSON.parse(fileContent)[0];
-  const rRating = (Math.random() * (4.9 - 4.2) + 4.2).toFixed(1);
+
+  // --- LOGIKA STICKY UGC (Data Tetap Per File) ---
+  const seed = parseInt(movieId);
+  const seededRandom = (s) => {
+    const x = Math.sin(s) * 10000;
+    return x - Math.floor(x);
+  };
+
+  const rRating = (seededRandom(seed) * (4.9 - 4.2) + 4.2).toFixed(1);
+  const scoreActing = Math.floor(seededRandom(seed + 1) * (95 - 80) + 80);
+  const scoreStory = Math.floor(seededRandom(seed + 2) * (90 - 75) + 75);
+  
+  const notes = [
+    "This production is highly rated for its directorial style and atmospheric depth.",
+    "Critical analysis suggests a strong influence of neo-noir elements.",
+    "Audience engagement peaked during the second act.",
+    "A technical masterpiece in terms of narrative efficiency.",
+    "High engagement rate with this specific title from global viewers."
+  ];
+  const randomNote = notes[Math.floor(seededRandom(seed + 3) * notes.length)];
+
+  const commentBank = [
+    { n: "Leonard T.", t: "The narrative structure in this film is quite unique." },
+    { n: "Cinephile88", t: "The cinematography is peak level for this genre." },
+    { n: "Rebecca St.", t: "Glad I found this detailed overview here." },
+    { n: "Mark J.", t: "The pacing is perfect. One of the best I've seen." },
+    { n: "Xander", t: "The acting scores on this site are spot on." }
+  ];
+  const cIdx1 = Math.floor(seededRandom(seed + 4) * 5);
+  const fixedComments = [commentBank[cIdx1], commentBank[(cIdx1 + 1) % 5]];
 
   const html = `
     <!DOCTYPE html>
@@ -51,6 +80,11 @@ module.exports = (req, res) => {
           margin: 0 auto 20px auto; 
         }
         .btn-main { background: #10ad77; border: none; color: white; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        /* Style UGC Tambahan */
+        .insight-card { background: #1a1e23; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #10ad77; }
+        .bar-bg { background: #333; height: 10px; border-radius: 5px; margin: 5px 0 10px 0; }
+        .bar-fill { background: #10ad77; height: 10px; border-radius: 5px; }
+        .comment-item { border-bottom: 1px solid #333; padding: 10px 0; font-size: 0.9rem; }
       </style>
     </head>
     <body class="container">
@@ -66,6 +100,18 @@ module.exports = (req, res) => {
           <hr>
           <p><strong>Release Date:</strong> <ins>${movieData.release_date}</ins></p>
           <p><strong>Overview:</strong><br>${movieData.overview}</p>
+
+          <div class="insight-card">
+            <p><small>Acting Impact Score</small></p>
+            <div class="bar-bg"><div class="bar-fill" style="width: ${scoreActing}%"></div></div>
+            <p><strong>Critical Note:</strong> ${randomNote}</p>
+          </div>
+
+          <div style="margin-top: 20px;">
+            <h4>User Reviews</h4>
+            ${fixedComments.map(c => `<div class="comment-item"><strong>${c.n}:</strong> ${c.t}</div>`).join('')}
+          </div>
+
           <div style="display: flex; gap: 15px; justify-content: center; margin-top: 30px;">
             <button class="btn-main" onclick="window.open('https://otieu.com/4/8764643')">WATCH NOW</button>
             <button class="outline" onclick="window.open('https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164')">GET DATA</button>
