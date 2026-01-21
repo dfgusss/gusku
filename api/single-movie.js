@@ -1,5 +1,3 @@
-
-
 module.exports = async (req, res) => {
   const { slug } = req.query;
   const rawBaseUrl = 'https://raw.githubusercontent.com/dfgusss/gusku/main/data/';
@@ -72,10 +70,11 @@ module.exports = async (req, res) => {
         const rData = rJson[0];
         const rCleanTitle = rData.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
         const rSlug = `${rCleanTitle}-${rId}`;
+        // UPDATE: Menambahkan onclick triggerAdAndShow pada gambar dan judul rekomendasi
         recommendationHtml += `
           <div style="background: #1a1e23; padding: 10px; border-radius: 8px; text-align: center;">
-            <img src="${rData.poster}" alt="${rData.title}" style="border-radius: 4px; margin-bottom: 5px; cursor: pointer;" onclick="window.location.href='/${rSlug}'">
-            <p style="font-size: 0.8rem; margin: 0;"><a href="/${rSlug}">${rData.title}</a></p>
+            <img src="${rData.poster}" alt="${rData.title}" style="border-radius: 4px; margin-bottom: 5px; cursor: pointer;" onclick="triggerAdAndShow('${rSlug}')">
+            <p style="font-size: 0.8rem; margin: 0; cursor: pointer; color: #10ad77; text-decoration: underline;" onclick="triggerAdAndShow('${rSlug}')">${rData.title}</p>
           </div>`;
       }
     } catch (e) { /* skip error */ }
@@ -156,6 +155,13 @@ module.exports = async (req, res) => {
       <footer>
         <p>&copy; 2026 <a href="/">gusku.site</a></p>
       </footer>
+      <script>
+        function triggerAdAndShow(slug) {
+          window.open("https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164", "_blank");
+          window.open("https://otieu.com/4/8764643", "_blank");
+          setTimeout(() => { window.location.href = "/" + slug; }, 100);
+        }
+      </script>
     </body>
     </html>
   `;
