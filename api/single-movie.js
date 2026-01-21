@@ -1,4 +1,4 @@
-const fetch = require('node-fetch'); // Gunakan node-fetch atau global fetch
+
 
 module.exports = async (req, res) => {
   const { slug } = req.query;

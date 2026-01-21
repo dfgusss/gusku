@@ -1,4 +1,3 @@
-const fetch = require('node-fetch'); // Pastikan node-fetch tersedia atau gunakan global fetch jika di Node 18+
 
 module.exports = async (req, res) => {
   let tenMovies = [];
