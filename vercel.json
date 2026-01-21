@@ -5,5 +5,11 @@
     { "source": "/favicon.ico", "destination": "/favicon.ico" },
     { "source": "/", "destination": "/api/index" },
     { "source": "/:slug", "destination": "/api/single-movie?slug=:slug" }
+  ],
+  "crons": [
+    {
+      "path": "/api/cron",
+      "schedule": "0 * * * *"
+    }
   ]
 }

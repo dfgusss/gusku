@@ -1,0 +1,8 @@
+{
+  "name": "gusku-p-seo",
+  "version": "1.0.0",
+  "dependencies": {
+    "googleapis": "^126.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
