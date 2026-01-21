@@ -20,7 +20,7 @@ module.exports = async (req, res) => {
   // Catatan: Fetch 1000 file sekaligus dari GitHub dalam satu request 
   // bisa berisiko timeout, saya optimalkan ke 200 link per hit agar kencang.
   let count = 0;
-  const target = 200; 
+  const target = 1000; 
   const randomIds = [];
   
   while (randomIds.length < target) {
