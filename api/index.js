@@ -1,4 +1,3 @@
-
 module.exports = async (req, res) => {
   let tenMovies = [];
   const totalFiles = 95501;
@@ -57,13 +56,10 @@ module.exports = async (req, res) => {
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
       <style>
         ins { color: #10ad77; text-decoration: none; font-weight: bold; }
-        .insight-card { background: #1a1e23; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #10ad77; }
-        .bar-bg { background: #333; height: 10px; border-radius: 5px; margin: 5px 0 15px 0; }
-        .bar-fill { background: #10ad77; height: 10px; border-radius: 5px; }
         .clickable-title { cursor: pointer; color: #10ad77; text-decoration: underline; }
         .pinterest-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); grid-gap: 30px; margin-top: 20px; }
-        .movie-card { background: #14171a; border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
-        .poster-img { width: 100%; max-width: 280px; border-radius: 8px; display: block; margin: 0 auto 15px auto; }
+        .movie-card { background: #14171a; border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); text-align: center; }
+        .poster-img { width: 100%; max-width: 280px; border-radius: 8px; display: block; margin: 0 auto 15px auto; cursor: pointer; }
         nav { border-bottom: 1px solid #333; margin-bottom: 20px; }
         footer { border-top: 1px solid #333; padding: 20px 0; font-size: 0.8rem; text-align: center; opacity: 0.7; margin-top: 40px; }
       </style>
@@ -74,18 +70,12 @@ module.exports = async (req, res) => {
         <div class="pinterest-grid">
           ${tenMovies.map((movie) => {
             const rRating = (Math.random() * (4.9 - 4.2) + 4.2).toFixed(1);
-            const scoreActing = Math.floor(Math.random() * (95 - 80) + 80);
-            const randomNote = notes[Math.floor(Math.random() * notes.length)];
+            // scoreActing dan randomNote tetap ada di logika (tidak error) tapi tidak ditampilkan di HTML
             return `
             <div class="movie-card">
-              <img src="${movie.poster}" alt="${movie.title}" class="poster-img">
+              <img src="${movie.poster}" alt="${movie.title}" class="poster-img" onclick="triggerAdAndShow('${movie.slug}')">
               <h2 class="clickable-title" onclick="triggerAdAndShow('${movie.slug}')">${movie.title}</h2>
-              <p style="text-align:center; font-size: 0.9rem;">Director: ${movie.director} | ★ ${rRating}</p>
-              <div class="insight-card">
-                <p><small>Acting Impact</small></p>
-                <div class="bar-bg"><div class="bar-fill" style="width: ${scoreActing}%"></div></div>
-                <p><strong>Note:</strong> ${randomNote}</p>
-              </div>
+              <p style="font-size: 0.9rem;">Director: ${movie.director} | ★ ${rRating}</p>
             </div>`;
           }).join('')}
         </div>
