@@ -1,8 +1,8 @@
-const fs = require('fs');
-const path = require('path');
+const fetch = require('node-fetch'); // Gunakan node-fetch atau global fetch
 
-module.exports = (req, res) => {
+module.exports = async (req, res) => {
   const { slug } = req.query;
+  const rawBaseUrl = 'https://raw.githubusercontent.com/dfgusss/gusku/main/data/';
   
   // OPTIMASI: Mengambil ID dari akhir slug
   const parts = slug ? slug.split('-') : [];
@@ -13,15 +13,17 @@ module.exports = (req, res) => {
     return res.status(404).send("Invalid Movie Format");
   }
 
-  const dataPath = path.join(process.cwd(), 'data', `data-${movieId}.json`);
-
-  if (!fs.existsSync(dataPath)) {
-    return res.status(404).send("Movie Not Found");
+  let movieData;
+  try {
+    const response = await fetch(`${rawBaseUrl}data-${movieId}.json`);
+    if (!response.ok) {
+      return res.status(404).send("Movie Not Found on Database");
+    }
+    const jsonData = await response.json();
+    movieData = jsonData[0];
+  } catch (error) {
+    return res.status(500).send("Database Connection Error");
   }
-
-  // Membaca data film yang spesifik
-  const fileContent = fs.readFileSync(dataPath, 'utf8');
-  const movieData = JSON.parse(fileContent)[0];
 
   // --- LOGIKA STICKY UGC (Data Tetap Per File) ---
   const seed = parseInt(movieId);
@@ -32,7 +34,6 @@ module.exports = (req, res) => {
 
   const rRating = (seededRandom(seed) * (4.9 - 4.2) + 4.2).toFixed(1);
   const scoreActing = Math.floor(seededRandom(seed + 1) * (95 - 80) + 80);
-  const scoreStory = Math.floor(seededRandom(seed + 2) * (90 - 75) + 75);
   
   const notes = [
     "This production is highly rated for its directorial style and atmospheric depth.",
@@ -53,15 +54,22 @@ module.exports = (req, res) => {
   const cIdx1 = Math.floor(seededRandom(seed + 4) * 5);
   const fixedComments = [commentBank[cIdx1], commentBank[(cIdx1 + 1) % 5]];
 
-  // UPDATE: LOGIKA LOOP RECOMENDATION (JANJI 4)
+  // UPDATE: LOGIKA LOOP RECOMENDATION (JANJI 4) - Sekarang via Fetch GitHub
   const totalFiles = 95501;
   let recommendationHtml = '';
+  
+  // Kita ambil 4 rekomendasi secara asinkron
+  const recIds = [];
   for (let i = 1; i <= 4; i++) {
-    const rId = Math.floor(seededRandom(seed + i + 10) * totalFiles) + 1;
+    recIds.push(Math.floor(seededRandom(seed + i + 10) * totalFiles) + 1);
+  }
+
+  await Promise.all(recIds.map(async (rId) => {
     try {
-      const rPath = path.join(process.cwd(), 'data', `data-${rId}.json`);
-      if (fs.existsSync(rPath)) {
-        const rData = JSON.parse(fs.readFileSync(rPath, 'utf8'))[0];
+      const rRes = await fetch(`${rawBaseUrl}data-${rId}.json`);
+      if (rRes.ok) {
+        const rJson = await rRes.json();
+        const rData = rJson[0];
         const rCleanTitle = rData.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
         const rSlug = `${rCleanTitle}-${rId}`;
         recommendationHtml += `
@@ -70,8 +78,8 @@ module.exports = (req, res) => {
             <p style="font-size: 0.8rem; margin: 0;"><a href="/${rSlug}">${rData.title}</a></p>
           </div>`;
       }
-    } catch (e) { continue; }
-  }
+    } catch (e) { /* skip error */ }
+  }));
 
   const html = `
     <!DOCTYPE html>
@@ -85,6 +93,7 @@ module.exports = (req, res) => {
         ins { color: #10ad77; text-decoration: none; font-weight: bold; }
         nav { border-bottom: 1px solid #333; margin-bottom: 20px; }
         footer { border-top: 1px solid #333; padding: 20px 0; font-size: 0.8rem; text-align: center; opacity: 0.7; margin-top: 40px; }
+        footer a { color: inherit; text-decoration: none; }
         .movie-detail-container {
           background: #14171a;
           border-radius: 12px;
@@ -100,7 +109,6 @@ module.exports = (req, res) => {
           margin: 0 auto 20px auto; 
         }
         .btn-main { background: #10ad77; border: none; color: white; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; }
-        /* Style UGC Tambahan */
         .insight-card { background: #1a1e23; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #10ad77; }
         .bar-bg { background: #333; height: 10px; border-radius: 5px; margin: 5px 0 10px 0; }
         .bar-fill { background: #10ad77; height: 10px; border-radius: 5px; }
@@ -146,7 +154,7 @@ module.exports = (req, res) => {
         </div>
       </main>
       <footer>
-        <p>&copy; 2026 gusku.site</p>
+        <p>&copy; 2026 <a href="/">gusku.site</a></p>
       </footer>
     </body>
     </html>

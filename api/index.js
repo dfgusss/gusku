@@ -1,9 +1,9 @@
-const fs = require('fs');
-const path = require('path');
+const fetch = require('node-fetch'); // Pastikan node-fetch tersedia atau gunakan global fetch jika di Node 18+
 
-module.exports = (req, res) => {
+module.exports = async (req, res) => {
   let tenMovies = [];
   const totalFiles = 95501;
+  const rawBaseUrl = 'https://raw.githubusercontent.com/dfgusss/gusku/main/data/';
 
   // 1. AMBIL 10 ID SECARA ACAK
   const getRandomIndices = (count, max) => {
@@ -17,30 +17,27 @@ module.exports = (req, res) => {
   const randomIds = getRandomIndices(10, totalFiles);
 
   // 2. PROSES MASING-MASING FILE (Kunci ID agar tidak tertukar)
-  randomIds.forEach(id => {
+  // Menggunakan Promise.all karena kita melakukan fetch asinkron
+  await Promise.all(randomIds.map(async (id) => {
     try {
-      const dataPath = path.join(process.cwd(), 'data', `data-${id}.json`);
-      if (fs.existsSync(dataPath)) {
-        const fileContent = fs.readFileSync(dataPath, 'utf8');
-        const jsonData = JSON.parse(fileContent);
-        
-        // Ambil data pertama dari file JSON tersebut
+      const response = await fetch(`${rawBaseUrl}data-${id}.json`);
+      if (response.ok) {
+        const jsonData = await response.json();
         const movie = jsonData[0]; 
         
         if (movie) {
-          // KUNCI: Slug dibuat saat file dibaca, menggunakan ID file yang sama
           const cleanTitle = movie.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
           
           tenMovies.push({
             ...movie,
-            slug: `${cleanTitle}-${id}` // ID ini PASTI sesuai dengan data-${id}.json
+            slug: `${cleanTitle}-${id}`
           });
         }
       }
     } catch (err) {
-      console.error(`Error reading data-${id}.json`, err);
+      console.error(`Error fetching data-${id}.json dari GitHub`, err);
     }
-  });
+  }));
 
   const notes = [
     "This production is highly rated for its directorial style and atmospheric depth.",

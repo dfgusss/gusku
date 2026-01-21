@@ -1,9 +1,9 @@
-const fs = require('fs');
-const path = require('path');
+const fetch = require('node-fetch');
 
-module.exports = (req, res) => {
+module.exports = async (req, res) => {
   const totalFiles = 95501;
   const baseUrl = 'https://gusku.site';
+  const rawBaseUrl = 'https://raw.githubusercontent.com/dfgusss/gusku/main/data/';
   
   let xml = `<?xml version="1.0" encoding="UTF-8"?>`;
   xml += `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`;
@@ -16,16 +16,23 @@ module.exports = (req, res) => {
       <priority>1.0</priority>
     </url>`;
 
-  // 2. Loop 1000 Link dengan Format Slug (Optimasi Kecepatan Pembacaan)
+  // 2. Loop Link (Gunakan subset kecil untuk kecepatan respon sitemap)
+  // Catatan: Fetch 1000 file sekaligus dari GitHub dalam satu request 
+  // bisa berisiko timeout, saya optimalkan ke 200 link per hit agar kencang.
   let count = 0;
-  while (count < 1000) {
-    const randomId = Math.floor(Math.random() * totalFiles) + 1;
-    
+  const target = 200; 
+  const randomIds = [];
+  
+  while (randomIds.length < target) {
+    const rId = Math.floor(Math.random() * totalFiles) + 1;
+    if (!randomIds.includes(rId)) randomIds.push(rId);
+  }
+
+  await Promise.all(randomIds.map(async (id) => {
     try {
-      const dataPath = path.join(process.cwd(), 'data', `data-${randomId}.json`);
-      if (fs.existsSync(dataPath)) {
-        const fileContent = fs.readFileSync(dataPath, 'utf8');
-        const jsonData = JSON.parse(fileContent);
+      const response = await fetch(`${rawBaseUrl}data-${id}.json`);
+      if (response.ok) {
+        const jsonData = await response.json();
         const movie = jsonData[0];
         
         if (movie && movie.title) {
@@ -33,7 +40,7 @@ module.exports = (req, res) => {
             .replace(/[^a-z0-9]+/g, '-')
             .replace(/(^-|-$)/g, '');
             
-          const slug = `${cleanTitle}-${randomId}`;
+          const slug = `${cleanTitle}-${id}`;
 
           xml += `
           <url>
@@ -41,14 +48,12 @@ module.exports = (req, res) => {
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
           </url>`;
-          count++; // Hanya bertambah jika file berhasil dibaca
         }
       }
     } catch (err) {
-      // Jika error, lewati tanpa menghentikan proses
-      continue;
+      // Skip jika file gagal fetch
     }
-  }
+  }));
 
   xml += `</urlset>`;
 
