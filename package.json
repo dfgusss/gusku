@@ -1,0 +1,9 @@
+{
+  "name": "gusku-site",
+  "version": "1.0.0",
+  "description": "Gusku Site Indexing",
+  "main": "api/index.js",
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
