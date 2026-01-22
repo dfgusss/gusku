@@ -75,7 +75,6 @@
 <script>
     const urlParams = new URLSearchParams(window.location.search);
     const slug = urlParams.get('id'); 
-    const folder = urlParams.get('f') || 'Folder_1'; // Ambil "GPS" folder dari URL
     const githubRawBase = "https://raw.githubusercontent.com/dfgusss/gusku/main";
 
     async function fetchGameData() {
@@ -84,8 +83,26 @@
             return;
         }
 
+        let folder = urlParams.get('f');
+
         try {
-            // 1. Tembak langsung ke file detail (Sangat Cepat)
+            // LOGIKA PENYELAMAT: Jika link Google lama (tidak ada &f=)
+            if (!folder) {
+                document.getElementById('main-content').innerHTML = "<p style='text-align:center'>Checking database...</p>";
+                for (let i = 1; i <= 70; i++) {
+                    const listRes = await fetch(`${githubRawBase}/lists/list_${i}.json`);
+                    const listData = await listRes.json();
+                    const match = listData.find(g => g.s === slug);
+                    if (match) {
+                        folder = match.f;
+                        break; 
+                    }
+                }
+            }
+
+            if (!folder) throw new Error("Game not found in any shard");
+
+            // Tembak langsung ke file detail
             const dataPath = `${githubRawBase}/data/${folder}/${slug}.json`;
             const dataRes = await fetch(dataPath);
             
@@ -94,12 +111,11 @@
             const fullData = await dataRes.json();
             renderPage(fullData);
 
-            // 2. Ambil list acak untuk rekomendasi (Ambil salah satu dari 70 shard)
+            // Rekomendasi
             const randomShard = Math.floor(Math.random() * 70) + 1;
             const listRes = await fetch(`${githubRawBase}/lists/list_${randomShard}.json`);
             const listData = await listRes.json();
             
-            // Gunakan link iklan dari file detail atau default
             const adsterra = "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164";
             const monetag = "https://otieu.com/4/8764643";
             
@@ -107,13 +123,12 @@
 
         } catch (error) {
             console.error(error);
-            document.getElementById('main-content').innerHTML = "Error loading game details. Path may be incorrect.";
+            document.getElementById('main-content').innerHTML = "Error loading game details. This game might be missing from our records.";
         }
     }
 
     function renderPage(data) {
         document.title = `${data.Name} - Gusku.site`;
-        
         document.getElementById('main-content').innerHTML = `
             <div class="featured-img-container">
                 <img src="${data['Header image']}" class="featured-img" alt="${data.Name}" width="250" height="140">
@@ -131,8 +146,6 @@
 
     function renderRecommendations(adsterra, monetag, listData) {
         const grid = document.getElementById('recommendation-grid');
-        
-        // Acak list shard tadi dan ambil 5
         const selected = listData.sort(() => 0.5 - Math.random()).slice(0, 5);
 
         grid.innerHTML = selected.map(g => `
