@@ -1,3 +1,5 @@
-
 User-agent: *
-Disallow: /
+Allow: /
+
+# Arahkan ke sitemap dinamis kita
+Sitemap: https://gusku.site/sitemap.xml

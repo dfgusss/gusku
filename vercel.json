@@ -1,9 +1,21 @@
 {
   "version": 2,
   "rewrites": [
-    { "source": "/sitemap.xml", "destination": "/api/sitemap" },
-    { "source": "/favicon.ico", "destination": "/favicon.ico" },
-    { "source": "/", "destination": "/api/index" },
-    { "source": "/:slug", "destination": "/api/single-movie?slug=:slug" }
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/api/index",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/sitemap.xml",
+      "destination": "/api/sitemap"
+    },
+    {
+      "source": "/:id",
+      "destination": "/single.html?id=:id"
+    }
   ]
 }
