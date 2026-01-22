@@ -78,61 +78,77 @@
     const githubRawBase = "https://raw.githubusercontent.com/dfgusss/gusku/main";
 
     async function fetchGameData() {
-    if (!slug) {
-        document.getElementById('main-content').innerHTML = "No game selected.";
-        return;
-    }
-
-    let folder = urlParams.get('f');
-
-    try {
-        // JIKA LINK LAMA (Tanpa &f=)
-        if (!folder) {
-            document.getElementById('main-content').innerHTML = `
-                <div style="text-align:center">
-                    <p>Optimizing database connection...</p>
-                    <div class="spinner"></div> 
-                </div>`;
-
-            // MENCARI SECARA PARALEL (Bagi 70 file jadi 7 grup biar gak crash)
-            const batchSize = 10; 
-            for (let i = 0; i < 70; i += batchSize) {
-                const promises = [];
-                for (let j = i + 1; j <= i + batchSize && j <= 70; j++) {
-                    promises.push(
-                        fetch(`${githubRawBase}/lists/list_${j}.json`)
-                            .then(res => res.json())
-                            .then(data => data.find(g => g.s === slug))
-                            .catch(() => null)
-                    );
-                }
-                
-                const results = await Promise.all(promises);
-                const found = results.find(match => match !== null && match !== undefined);
-                
-                if (found) {
-                    folder = found.f;
-                    break; // Berhenti jika sudah ketemu!
-                }
-            }
+        if (!slug) {
+            document.getElementById('main-content').innerHTML = "No game selected.";
+            return;
         }
 
-        if (!folder) throw new Error("Game not found");
+        let folder = urlParams.get('f');
 
-        // LOAD DATA DETAIL (Jalur Cepat)
-        const dataRes = await fetch(`${githubRawBase}/data/${folder}/${slug}.json`);
-        if (!dataRes.ok) throw new Error("File not found");
-        
-        const fullData = await dataRes.json();
-        renderPage(fullData);
-        
-        // Load Rekomendasi (Tetap jalan di background)
-        loadRecommendations();
+        try {
+            // JIKA LINK LAMA (Tanpa &f=)
+            if (!folder) {
+                document.getElementById('main-content').innerHTML = `
+                    <div style="text-align:center">
+                        <p>Optimizing database connection...</p>
+                        <div class="spinner"></div> 
+                    </div>`;
 
-    } catch (error) {
-        document.getElementById('main-content').innerHTML = "Game data not found.";
+                const batchSize = 10; 
+                for (let i = 0; i < 70; i += batchSize) {
+                    const promises = [];
+                    for (let j = i + 1; j <= i + batchSize && j <= 70; j++) {
+                        promises.push(
+                            fetch(`${githubRawBase}/lists/list_${j}.json`)
+                                .then(res => res.json())
+                                .then(data => {
+                                    const match = data.find(g => g.s === slug);
+                                    return match ? { folder: match.f, list: data } : null;
+                                })
+                                .catch(() => null)
+                        );
+                    }
+                    
+                    const results = await Promise.all(promises);
+                    const found = results.find(r => r !== null);
+                    
+                    if (found) {
+                        folder = found.folder;
+                        // Langsung render rekomendasi dari list yang sudah terlanjur didownload biar cepat
+                        const adsterra = "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164";
+                        const monetag = "https://otieu.com/4/8764643";
+                        renderRecommendations(adsterra, monetag, found.list);
+                        break; 
+                    }
+                }
+            }
+
+            if (!folder) throw new Error("Game not found");
+
+            // LOAD DATA DETAIL
+            const dataRes = await fetch(`${githubRawBase}/data/${folder}/${slug}.json`);
+            if (!dataRes.ok) throw new Error("File not found");
+            
+            const fullData = await dataRes.json();
+            renderPage(fullData);
+            
+            // JIKA FOLDER ADA (LINK BARU), ambil list random untuk rekomendasi
+            if (urlParams.get('f')) {
+                const randomShard = Math.floor(Math.random() * 70) + 1;
+                fetch(`${githubRawBase}/lists/list_${randomShard}.json`)
+                    .then(res => res.json())
+                    .then(listData => {
+                        const adsterra = "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164";
+                        const monetag = "https://otieu.com/4/8764643";
+                        renderRecommendations(adsterra, monetag, listData);
+                    });
+            }
+
+        } catch (error) {
+            console.error(error);
+            document.getElementById('main-content').innerHTML = "Game data not found.";
+        }
     }
-}
 
     function renderPage(data) {
         document.title = `${data.Name} - Gusku.site`;
