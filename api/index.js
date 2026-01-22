@@ -1,24 +1,27 @@
-
 module.exports = async (req, res) => {
-  const listUrl = 'https://raw.githubusercontent.com/dfgusss/gusku/main/list_games.json';
+  // 1. Pilih angka random antara 1 sampai 70
+  const randomShard = Math.floor(Math.random() * 70) + 1;
+  
+  // 2. Tentukan URL file list random tersebut
+  const listUrl = `https://raw.githubusercontent.com/dfgusss/gusku/main/lists/list_${randomShard}.json`;
 
   try {
     const response = await fetch(listUrl);
-    if (!response.ok) throw new Error('File list_games.json tidak ditemukan');
+    if (!response.ok) throw new Error('Gagal ambil data');
     
-    const allGames = await response.json();
+    const games = await response.json();
 
-    // Mengacak data dan mengambil tepat 10 game sesuai grid 5x2 di index.html
-    const shuffled = allGames.sort(() => 0.5 - Math.random());
-    const selectedGames = shuffled.slice(0, 10);
+    // 3. Acak isi di dalam file tersebut (shuffle)
+    const shuffled = games.sort(() => 0.5 - Math.random());
 
-    // Mengirimkan data dalam format JSON, bukan HTML
+    // 4. Ambil 10 game teratas hasil acak
+    const selected = shuffled.slice(0, 10);
+
+    // Kirim hasil ke browser
+    res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Content-Type', 'application/json');
-    res.setHeader('Access-Control-Allow-Origin', '*'); // Izin agar bisa dibaca oleh index.html
-    res.status(200).json(selectedGames);
-
+    res.status(200).json(selected);
   } catch (err) {
-    console.error(err);
-    res.status(500).json({ error: "Gagal memuat data game dari GitHub" });
+    res.status(500).json({ error: "Gagal memproses data game" });
   }
 };
