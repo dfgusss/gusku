@@ -92,55 +92,62 @@
         document.head.appendChild(preLink);
     }
 
-    async function fetchGameData() {
-        if (!slug) {
-            document.getElementById('main-content').innerHTML = "No game selected.";
-            return;
-        }
+   async function fetchGameData() {
+    if (!slug) {
+        document.getElementById('main-content').innerHTML = "No game selected.";
+        return;
+    }
 
-        let folder = urlParams.get('f');
+    let folder = urlParams.get('f');
 
-        try {
-            // LOGIKA PENYELAMAT: Jika link Google lama (tidak ada &f=)
-            if (!folder) {
-                document.getElementById('main-content').innerHTML = "<p style='text-align:center'>Checking database...</p>";
-                for (let i = 1; i <= 70; i++) {
-                    const listRes = await fetch(`${githubRawBase}/lists/list_${i}.json`);
-                    const listData = await listRes.json();
-                    const match = listData.find(g => g.s === slug);
-                    if (match) {
-                        folder = match.f;
-                        break; 
-                    }
+    try {
+        // JIKA LINK LAMA (Tanpa &f=)
+        if (!folder) {
+            document.getElementById('main-content').innerHTML = `
+                <div style="text-align:center">
+                    <p>Optimizing database connection...</p>
+                    <div class="spinner"></div> 
+                </div>`;
+
+            // MENCARI SECARA PARALEL (Bagi 70 file jadi 7 grup biar gak crash)
+            const batchSize = 10; 
+            for (let i = 0; i < 70; i += batchSize) {
+                const promises = [];
+                for (let j = i + 1; j <= i + batchSize && j <= 70; j++) {
+                    promises.push(
+                        fetch(`${githubRawBase}/lists/list_${j}.json`)
+                            .then(res => res.json())
+                            .then(data => data.find(g => g.s === slug))
+                            .catch(() => null)
+                    );
+                }
+                
+                const results = await Promise.all(promises);
+                const found = results.find(match => match !== null && match !== undefined);
+                
+                if (found) {
+                    folder = found.f;
+                    break; // Berhenti jika sudah ketemu!
                 }
             }
-
-            if (!folder) throw new Error("Game not found in any shard");
-
-            // Tembak langsung ke file detail
-            const dataPath = `${githubRawBase}/data/${folder}/${slug}.json`;
-            const dataRes = await fetch(dataPath);
-            
-            if (!dataRes.ok) throw new Error("Game file not found");
-            
-            const fullData = await dataRes.json();
-            renderPage(fullData);
-
-            // Rekomendasi
-            const randomShard = Math.floor(Math.random() * 70) + 1;
-            const listRes = await fetch(`${githubRawBase}/lists/list_${randomShard}.json`);
-            const listData = await listRes.json();
-            
-            const adsterra = "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164";
-            const monetag = "https://otieu.com/4/8764643";
-            
-            renderRecommendations(adsterra, monetag, listData);
-
-        } catch (error) {
-            console.error(error);
-            document.getElementById('main-content').innerHTML = "Error loading game details. This game might be missing from our records.";
         }
+
+        if (!folder) throw new Error("Game not found");
+
+        // LOAD DATA DETAIL (Jalur Cepat)
+        const dataRes = await fetch(`${githubRawBase}/data/${folder}/${slug}.json`);
+        if (!dataRes.ok) throw new Error("File not found");
+        
+        const fullData = await dataRes.json();
+        renderPage(fullData);
+        
+        // Load Rekomendasi (Tetap jalan di background)
+        loadRecommendations();
+
+    } catch (error) {
+        document.getElementById('main-content').innerHTML = "Game data not found.";
     }
+}
 
     function renderPage(data) {
         document.title = `${data.Name} - Gusku.site`;
