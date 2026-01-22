@@ -7,68 +7,38 @@
     <meta name="description" content="Explore the most comprehensive steam video game dataset. Real-time insights for over 70k+ titles.">
     
     <style>
-        /* CSS Murni ala Pico - Fokus Speed 100/100 */
         :root { --brand: #00d1b2; --dark: #1a1a1a; --light: #f4f4f4; }
         body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; margin: 0; color: var(--dark); background: #fff; font-display: swap; }
-        
-        /* Header & Tagline */
         header { padding: 3rem 1rem; text-align: center; border-bottom: 1px solid #eee; background: linear-gradient(to bottom, #ffffff, #fafafa); }
         header h1 { margin: 0; font-size: 3rem; color: var(--brand); letter-spacing: -1px; }
         header h1 a { text-decoration: none; color: inherit; }
         header p { margin: 10px 0 0; color: #666; font-size: 1.1rem; font-weight: 300; }
-
-        /* Navigasi */
         nav { padding: 0.7rem; text-align: center; background: var(--dark); color: white; position: sticky; top: 0; z-index: 100; }
         nav a { color: white; text-decoration: none; font-weight: 500; font-size: 0.9rem; transition: color 0.2s; }
         nav a:hover { color: var(--brand); }
-
-        /* Grid System 5x2 */
         .container { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
-        .grid { 
-            display: grid; 
-            grid-template-columns: repeat(5, 1fr); /* Desktop 5 Kolom */
-            gap: 20px; 
-        }
-        #game-grid {
-            min-height: 600px; /* CLS fix: reservasi ruang sebelum JS render */
-        }
-        
-        /* Card Style */
+        .grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; }
+        #game-grid { min-height: 600px; } /* CLS fix */
         .card { border: 1px solid #eee; border-radius: 12px; overflow: hidden; background: white; transition: all 0.3s ease; display: flex; flex-direction: column; }
         .card:hover { transform: translateY(-8px); box-shadow: 0 10px 20px rgba(0,0,0,0.05); border-color: var(--brand); }
         .card img { width: 100%; height: 120px; object-fit: cover; background: var(--light); border-bottom: 1px solid #eee; cursor: pointer; }
         .card-body { padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between; }
-        
-        /* Judul sekarang standar, tidak pakai pointer cursor */
         .card-body h3 { font-size: 0.95rem; margin: 0 0 10px; color: var(--dark); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; height: 2.8rem; cursor: default; }
-        
         .rating { color: #f39c12; font-weight: bold; font-size: 0.85rem; margin-bottom: 15px; }
         .btn { background: var(--brand); color: white; text-align: center; padding: 8px; text-decoration: none; border-radius: 6px; font-size: 0.8rem; font-weight: 600; cursor: pointer; border: none; display: block; width: 100%; box-sizing: border-box; }
-
-        /* UPDATE: Explore More Button Styling */
         .explore-container { text-align: center; margin-top: 40px; }
-        .btn-explore { 
-            background: transparent; border: 2px solid var(--brand); color: var(--brand); 
-            padding: 12px 30px; text-decoration: none; border-radius: 30px; 
-            font-weight: bold; cursor: pointer; transition: all 0.3s;
-        }
+        .btn-explore { background: transparent; border: 2px solid var(--brand); color: var(--brand); padding: 12px 30px; text-decoration: none; border-radius: 30px; font-weight: bold; cursor: pointer; transition: all 0.3s; }
         .btn-explore:hover { background: var(--brand); color: white; }
-
-        /* Footer & Popup Style */
         footer { text-align: center; padding: 3rem 1rem; border-top: 1px solid #eee; margin-top: 4rem; background: #fafafa; }
         footer p { font-size: 0.8rem; color: #888; margin-top: 1rem; }
         footer a { margin: 0 10px; color: var(--dark); text-decoration: none; font-size: 0.9rem; cursor: pointer; border-bottom: 1px solid transparent; }
         footer a:hover { border-bottom: 1px solid var(--brand); }
-
-        /* CSS Modal Popup */
         .modal { display: none; position: fixed; z-index: 999; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); backdrop-filter: blur(4px); align-items: center; justify-content: center; }
         .modal:target { display: flex; }
         .modal-content { background: white; padding: 30px; border-radius: 15px; max-width: 450px; width: 90%; position: relative; box-shadow: 0 20px 40px rgba(0,0,0,0.2); }
         .modal-content h2 { margin-top: 0; color: var(--brand); }
         .close { position: absolute; top: 15px; right: 20px; text-decoration: none; color: #aaa; font-size: 2rem; line-height: 1; }
         .close:hover { color: #000; }
-
-        /* Responsive Mobile */
         @media (max-width: 1024px) { .grid { grid-template-columns: repeat(3, 1fr); } }
         @media (max-width: 600px) { .grid { grid-template-columns: repeat(2, 1fr); } }
     </style>
@@ -84,14 +54,12 @@
     <a href="/">Home</a>
 </nav>
 
-<div class="container">
-    <div class="grid" id="game-grid">
-        </div>
-    
+<main class="container">
+    <div class="grid" id="game-grid"></div>
     <div class="explore-container">
         <button onclick="renderGrid()" class="btn-explore">Explore More Games</button>
     </div>
-</div>
+</main>
 
 <footer>
     <a href="#about">About</a>
@@ -105,73 +73,48 @@
 <div id="contact" class="modal"><div class="modal-content"><a href="#" class="close">&times;</a><h2>Contact Support</h2><p>For inquiries, please reach out to us at:<br><strong>santrisetia@yahoo.com</strong></p></div></div>
 
 <script>
-    // 1. Fungsi Render Dinamis menggunakan API Serverless
-    async function renderGrid() {
-        const grid = document.getElementById('game-grid');
-        
-        // Menampilkan indikator loading sederhana
-        if (grid.innerHTML === "") {
-            grid.innerHTML = '<p style="grid-column: 1 / -1; text-align: center;">Loading Games...</p>';
-        }
-
-        try {
-            // Mengambil 10 data game acak dari API
-            const response = await fetch('/api/index');
-            const selected = await response.json();
-
-            // Mapping data ke struktur kartu asli
-            grid.innerHTML = selected.map(g => {
-                const seed = g.name.length + g.name.charCodeAt(0);
-                const rating = (4.0 + (seed % 10) / 10).toFixed(1);
-                
-                return `
-                    <div class="card">
-                        <img src="${g.img}" 
-                             alt="${g.name}" 
-                             title="View details for ${g.name}"
-                             width="100" height="120"
-                             onclick="handleAdClick(event, '${g.slug}', 'adsterra')"
-                             loading="lazy" 
-                             style="background-color: var(--brand);" 
-                             onerror="this.style.visibility='hidden'; this.parentElement.style.backgroundColor='var(--brand)';">
-                        <div class="card-body">
-                            <h3>${g.name}</h3>
-                            <div class="rating">⭐ ${rating}/5</div>
-                            <button class="btn" onclick="handleAdClick(event, '${g.slug}', 'monetag')">View Details</button>
-                        </div>
-                    </div>
-                `;
-            }).join('');
-            
-            // Scroll otomatis jika sudah berada di bawah
-            if(window.scrollY > 500) {
-                window.scrollTo({ top: document.querySelector('.grid').offsetTop - 100, behavior: 'smooth' });
-            }
-        } catch (error) {
-            console.error("Fetch Error:", error);
-            grid.innerHTML = '<p style="grid-column: 1 / -1; text-align: center;">Error loading games. Please check connection.</p>';
-        }
+async function renderGrid() {
+    const grid = document.getElementById('game-grid');
+    if (grid.innerHTML === "") {
+        grid.innerHTML = '<p style="grid-column: 1 / -1; text-align: center;">Loading Games...</p>';
     }
-
-    // 2. Logika Iklan (Sesuai Asli: Klik Img = Adsterra, Klik Button = Monetag)
-    function handleAdClick(event, slug, adType) {
-        if (event) event.preventDefault();
-        
-        // Link testing dummy sesuai instruksi (untuk menghindari ban saat koding)
-        const adLink = adType === 'adsterra' ? 'https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164' : 'https://otieu.com/4/8764643';
-        
-        // Diarahkan ke single.html?id=slug (Sesuai kode asli kamu)
-        const gameLink = `single.html?id=${slug}`;
-
-        window.open(adLink, '_blank');
-
-        setTimeout(() => {
-            window.location.href = gameLink;
-        }, 300);
+    try {
+        const response = await fetch('/api/index');
+        const selected = await response.json();
+        grid.innerHTML = selected.map(g => {
+            const seed = g.name.length + g.name.charCodeAt(0);
+            const rating = (4.0 + (seed % 10) / 10).toFixed(1);
+            return `
+            <div class="card">
+                <img src="${g.img}" alt="${g.name}" title="View details for ${g.name}" width="100" height="120"
+                     onclick="handleAdClick(event, '${g.slug}', 'adsterra')" loading="lazy"
+                     style="background-color: var(--brand);" 
+                     onerror="this.style.visibility='hidden'; this.parentElement.style.backgroundColor='var(--brand)';">
+                <div class="card-body">
+                    <h3>${g.name}</h3>
+                    <div class="rating">⭐ ${rating}/5</div>
+                    <button class="btn" onclick="handleAdClick(event, '${g.slug}', 'monetag')">View Details</button>
+                </div>
+            </div>`;
+        }).join('');
+        if(window.scrollY > 500) {
+            window.scrollTo({ top: document.querySelector('.grid').offsetTop - 100, behavior: 'smooth' });
+        }
+    } catch (error) {
+        console.error("Fetch Error:", error);
+        grid.innerHTML = '<p style="grid-column: 1 / -1; text-align: center;">Error loading games. Please check connection.</p>';
     }
+}
 
-    // Jalankan render pertama kali saat halaman dimuat
-    renderGrid();
+function handleAdClick(event, slug, adType) {
+    if (event) event.preventDefault();
+    const adLink = adType === 'adsterra' ? 'https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164' : 'https://otieu.com/4/8764643';
+    const gameLink = `single.html?id=${slug}`;
+    window.open(adLink, '_blank');
+    setTimeout(() => { window.location.href = gameLink; }, 300);
+}
+
+renderGrid();
 </script>
 
 </body>
