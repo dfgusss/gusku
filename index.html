@@ -113,13 +113,12 @@
         grid.innerHTML = '<p style="grid-column: 1 / -1; text-align: center;">Loading Games...</p>';
 
         try {
-            // Memanggil API /api/index yang sudah kita update tadi (70 shards)
+            // Memanggil API /api/index (70 shards)
             const response = await fetch('/api/index');
             const selected = await response.json();
 
-            // Mapping data baru (n=name, s=slug, i=img)
+            // Mapping data baru (n=name, s=slug, i=img, f=folder)
             grid.innerHTML = selected.map(g => {
-                // Kalkulasi rating dummy agar tetap konsisten
                 const seed = g.n.length + g.n.charCodeAt(0);
                 const rating = (4.0 + (seed % 10) / 10).toFixed(1);
                 
@@ -129,35 +128,36 @@
                              alt="${g.n}" 
                              title="View details for ${g.n}"
                              width="200" height="120"
-                             onclick="handleAdClick(event, '${g.s}', 'adsterra')"
+                             onclick="handleAdClick(event, '${g.s}', '${g.f}', 'adsterra')"
                              loading="lazy" 
                              style="background-color: var(--brand);" 
                              onerror="this.style.visibility='hidden'; this.parentElement.style.backgroundColor='var(--brand)';">
                         <div class="card-body">
                             <h3>${g.n}</h3>
                             <div class="rating">⭐ ${rating}/5</div>
-                            <button class="btn" onclick="handleAdClick(event, '${g.s}', 'monetag')">View Details</button>
+                            <button class="btn" onclick="handleAdClick(event, '${g.s}', '${g.f}', 'monetag')">View Details</button>
                         </div>
                     </div>
                 `;
             }).join('');
             
-            // Scroll otomatis ke grid jika User klik "Explore More"
             if(window.scrollY > 300) {
                 window.scrollTo({ top: grid.offsetTop - 100, behavior: 'smooth' });
             }
         } catch (error) {
             console.error("Fetch Error:", error);
-            grid.innerHTML = '<p style="grid-column: 1 / -1; text-align: center;">Error loading games. Please check connection.</p>';
+            grid.innerHTML = '<p style="grid-column: 1 / -1; text-align: center;">Error loading games.</p>';
         }
     }
 
-    // 2. Logika Iklan (Sesuai Asli)
-    function handleAdClick(event, slug, adType) {
+    // 2. Logika Iklan (Sekarang membawa info FOLDER)
+    function handleAdClick(event, slug, folder, adType) {
         if (event) event.preventDefault();
         
         const adLink = adType === 'adsterra' ? 'https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164' : 'https://otieu.com/4/8764643';
-        const gameLink = `single.html?id=${slug}`;
+        
+        // Menambahkan parameter folder (&f=) agar single.html tahu tempat datanya
+        const gameLink = `single.html?id=${slug}&f=${folder}`;
 
         window.open(adLink, '_blank');
 
@@ -166,7 +166,6 @@
         }, 300);
     }
 
-    // Jalankan render pertama kali saat halaman dimuat
     renderGrid();
 </script>
 
