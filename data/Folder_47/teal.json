@@ -1,0 +1,21 @@
+{
+    "AppID": 658760,
+    "Name": "Teal",
+    "Release date": "Dec 14, 2017",
+    "About the game": "Teal is a turn based multiplayer strategy game with simultaneous turns; think chess with guns, that have mind bending trajectories. Games are played on a variety of maps, each with a different focus. Adapting your team composition and anticipating the opponent's next move is the key to victory. Two players compete against one another and take their turns at the same time. The turns are then merged once both have finished their turn. Then all units execute their moves at the same time. This means that you have to predict the opponent's next move to be able to hit their units and avoid their projectiles. Teal features 5 maps, 8 weapons and 3 map objectives that can be utilized to gain an advantage. Each game is also saved as a replay that can be re-watched to analyze your strategy. Teal offers online and local multiplayer with a Hot-Seat Mode.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/658760/header.jpg?t=1572304213",
+    "Price": 1.99,
+    "Developers": "TealDev",
+    "Publishers": "TealDev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/658760/ss_c4aff19c25ad16cdff12afc22f8149db2a493b79.1920x1080.jpg?t=1572304213,https://cdn.akamai.steamstatic.com/steam/apps/658760/ss_68937c76288c481f5ce0de138b2c069efe71d1ca.1920x1080.jpg?t=1572304213,https://cdn.akamai.steamstatic.com/steam/apps/658760/ss_4efd3713691f76e9139c60ac63b81e035c53fcdc.1920x1080.jpg?t=1572304213,https://cdn.akamai.steamstatic.com/steam/apps/658760/ss_c371f9404d16d8919cc455f981ddc0c081991b29.1920x1080.jpg?t=1572304213,https://cdn.akamai.steamstatic.com/steam/apps/658760/ss_501e5be6dadcf7610f6a53e14ef3017d69bbfe5a.1920x1080.jpg?t=1572304213,https://cdn.akamai.steamstatic.com/steam/apps/658760/ss_77f8dc7f8ece9f4fa3ce7e04a0e1ba87420aebcb.1920x1080.jpg?t=1572304213,https://cdn.akamai.steamstatic.com/steam/apps/658760/ss_6faadd7bb6683c337a822089483a049675528b33.1920x1080.jpg?t=1572304213",
+    "Slug": "teal",
+    "Meta Title": "Teal: Dec 14, 2017, TealDev and Full Overview",
+    "Meta Description": "Looking for information on Teal? Check out the release date (Dec 14, 2017), developer insights from TealDev, and a complete game summary.",
+    "Alt Text Image": "Official header image for Teal game - Steam 658760",
+    "Canonical URL": "https://gusku.site/game/teal",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Teal\", \"description\": \"Looking for information on Teal? Check out the release date (Dec 14, 2017), developer insights from TealDev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 14, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"TealDev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TealDev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/658760/header.jpg?t=1572304213\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 497780,
+    "Name": "Recursed",
+    "Release date": "Sep 30, 2016",
+    "About the game": "Recursed is a 2D puzzle-platform game where the structure of the world can be twisted. Stack up boxes and use keys to unlock doors to get the crystal at the end of each level. Jump into chests to enter other rooms, or pick up the chests and move the rooms around. Duplicate, destroy or alter the structure of the level to solve the puzzles. There's no way to die, no enemies to fight and no holes to fall in or spikes to hit. The only tool you need is logic. Features Over 60 levels with hundreds of rooms. Hidden bonus puzzles. An extensive, atmospheric soundtrack. Large amounts of acid. Several sound effects. Graphics.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603",
+    "Price": 7.99,
+    "Developers": "Portponky",
+    "Publishers": "Shambles Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/497780/ss_4a8bda8795d87e8eb6f4ec47c37d781390328dc2.1920x1080.jpg?t=1572396603,https://cdn.akamai.steamstatic.com/steam/apps/497780/ss_3f9406a04b2be61eec1ffcfd60dbe439dd1d561e.1920x1080.jpg?t=1572396603,https://cdn.akamai.steamstatic.com/steam/apps/497780/ss_dca5433d81db2ba254cdbf43f89b9fb772407dc8.1920x1080.jpg?t=1572396603,https://cdn.akamai.steamstatic.com/steam/apps/497780/ss_42533f3e18e89191b8e38f9a44d7e66f90d9cae6.1920x1080.jpg?t=1572396603,https://cdn.akamai.steamstatic.com/steam/apps/497780/ss_7baf005fef6e56facb6cb56edbae60e4729d7fe4.1920x1080.jpg?t=1572396603,https://cdn.akamai.steamstatic.com/steam/apps/497780/ss_809332c44bdacb014d2531260a572b85b6f13c6f.1920x1080.jpg?t=1572396603,https://cdn.akamai.steamstatic.com/steam/apps/497780/ss_c1712eb19e362293e1c2d99e2e06084601a3b245.1920x1080.jpg?t=1572396603,https://cdn.akamai.steamstatic.com/steam/apps/497780/ss_c0c14998bef66a9aa493bc97cf67a65927603a8e.1920x1080.jpg?t=1572396603",
+    "Slug": "recursed",
+    "Meta Title": "Recursed: Sep 30, 2016, Portponky and Full Overview",
+    "Meta Description": "Looking for information on Recursed? Check out the release date (Sep 30, 2016), developer insights from Portponky, and a complete game summary.",
+    "Alt Text Image": "Official header image for Recursed game - Steam 497780",
+    "Canonical URL": "https://gusku.site/game/recursed",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Recursed\", \"description\": \"Looking for information on Recursed? Check out the release date (Sep 30, 2016), developer insights from Portponky, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 30, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Portponky\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Shambles Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/497780/header.jpg?t=1572396603\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

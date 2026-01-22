@@ -1,0 +1,21 @@
+{
+    "AppID": 1429680,
+    "Name": "Space Plane",
+    "Release date": "Mar 9, 2021",
+    "About the game": "Short, turn based puzzle game drawn and coded by Artur Petrov. His second project after the Ink Plane Play time: somewhere between 10 – 15 minutes. • Simple gameplay; • 20 levels; • Soft music playing;",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1429680/header.jpg?t=1615277909",
+    "Price": 0.99,
+    "Developers": "Artur Petrov",
+    "Publishers": "Artur Petrov",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1429680/ss_87792f5e9036ca3dfcdc4929b1597f6af3d7bb1f.1920x1080.jpg?t=1615277909,https://cdn.akamai.steamstatic.com/steam/apps/1429680/ss_1ab86a9ea6b3c6d3af036ad73bf4b687bf04ee2d.1920x1080.jpg?t=1615277909,https://cdn.akamai.steamstatic.com/steam/apps/1429680/ss_ec10aa9cfd8f1ba24ec51dd9753940422030fdd8.1920x1080.jpg?t=1615277909,https://cdn.akamai.steamstatic.com/steam/apps/1429680/ss_c7cd50939537a02559e19113a8224c1cc1998d19.1920x1080.jpg?t=1615277909,https://cdn.akamai.steamstatic.com/steam/apps/1429680/ss_267371a85a2d09619115aa94a29c0a66474c2338.1920x1080.jpg?t=1615277909",
+    "Slug": "space-plane",
+    "Meta Title": "Space Plane: Mar 9, 2021, Artur Petrov and Full Overview",
+    "Meta Description": "Looking for information on Space Plane? Check out the release date (Mar 9, 2021), developer insights from Artur Petrov, and a complete game summary.",
+    "Alt Text Image": "Official header image for Space Plane game - Steam 1429680",
+    "Canonical URL": "https://gusku.site/game/space-plane",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Space Plane\", \"description\": \"Looking for information on Space Plane? Check out the release date (Mar 9, 2021), developer insights from Artur Petrov, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 9, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Artur Petrov\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Artur Petrov\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1429680/header.jpg?t=1615277909\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1218140,
+    "Name": "Marble Computing",
+    "Release date": "Dec 21, 2021",
+    "About the game": "Marble Computing: A game about engineering solutions to a selection of 20+ (and counting) fantasy, and real world logic puzzles. No manual, no instructions, just a set of inputs, outputs, and you. Learn to solve computational problems in surprising ways using only marbles and gravity! Experimentation is key, carefully pick apart how the system works. Design Using a 2D tile based system, infer, test, and design a set of tracks to take control of how the marbles move. Solve Complete the assignments! Become a qualified marble engineer, with many hand-crafted levels to work through and learn from.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1218140/header.jpg?t=1652667640",
+    "Price": 4.99,
+    "Developers": "Harry Godden",
+    "Publishers": "Harry Godden",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1218140/ss_c7985a87b45f0381857fbc7f589ba0094a466858.1920x1080.jpg?t=1652667640,https://cdn.akamai.steamstatic.com/steam/apps/1218140/ss_0692067b03abe4b168905536908ce93115d3ca8c.1920x1080.jpg?t=1652667640,https://cdn.akamai.steamstatic.com/steam/apps/1218140/ss_0ce896b8d9c4568db648f1657116bf3653682b98.1920x1080.jpg?t=1652667640,https://cdn.akamai.steamstatic.com/steam/apps/1218140/ss_eefed3b4c62a7f48d67910d56149049113973212.1920x1080.jpg?t=1652667640,https://cdn.akamai.steamstatic.com/steam/apps/1218140/ss_04912f09d9be448e6014e16283d30dddb5b54c8b.1920x1080.jpg?t=1652667640",
+    "Slug": "marble-computing",
+    "Meta Title": "Marble Computing: Dec 21, 2021, Harry Godden and Full Ove...",
+    "Meta Description": "Looking for information on Marble Computing? Check out the release date (Dec 21, 2021), developer insights from Harry Godden, and a complete game summary.",
+    "Alt Text Image": "Official header image for Marble Computing game - Steam 1218140",
+    "Canonical URL": "https://gusku.site/game/marble-computing",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Marble Computing\", \"description\": \"Looking for information on Marble Computing? Check out the release date (Dec 21, 2021), developer insights from Harry Godden, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 21, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Harry Godden\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Harry Godden\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1218140/header.jpg?t=1652667640\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1988890,
+    "Name": "Little Rhapsody of Game",
+    "Release date": "Jun 3, 2022",
+    "About the game": "Several players fight each other in a small map, and there is only one winner. The basic combat system is block can block common attack, heavy attack can break block, roll can avoid heavy attack. There are many beads that can be picked up. The bead of life can increase maximum life, the bead of strength can increase strength, the bead of speed can increase speed, the bead of blood can fill up blood，the bead of flash can flash once. there are also beads of character that can be dropped when kill a player，pick it up and equip it can become his character (but at present, only one character is released, so no matter how you change it, it is the same character). I don't have a server. You create rooms with your own computers. Homeowners can set attack speed, number of beads, time per game and other coefficients to adapt to the player level of each game. If you think the attack speed is fast, change it slower, otherwise change it faster. No one helped me to test, so I demonstrated and played with AI, so I don't know what BUGs there are when it's online, how many players it can accommodate and isn't lag, whether the balance of the game is good, whether it can find a room, whether it can join and invite friends, etc.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1988890/header.jpg?t=1654240251",
+    "Price": 0.0,
+    "Developers": "PSJ",
+    "Publishers": "PSJ",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1988890/ss_5ddd11d7e9b48c9dfca7a52426b22af6f9b23d02.1920x1080.jpg?t=1654240251,https://cdn.akamai.steamstatic.com/steam/apps/1988890/ss_d56ceec9997b526befe6fc83f5d20e9c4a8ed66e.1920x1080.jpg?t=1654240251,https://cdn.akamai.steamstatic.com/steam/apps/1988890/ss_ef6e9fccbe6b00c819b09506bacecffe950e8b7c.1920x1080.jpg?t=1654240251,https://cdn.akamai.steamstatic.com/steam/apps/1988890/ss_c200e172b10ff6ed6ee6e7fc363be9292284fa50.1920x1080.jpg?t=1654240251,https://cdn.akamai.steamstatic.com/steam/apps/1988890/ss_e5919372be3d78d18af675e2cb55ff897a346810.1920x1080.jpg?t=1654240251",
+    "Slug": "little-rhapsody-of-game",
+    "Meta Title": "Little Rhapsody of Game: Jun 3, 2022, PSJ and Full Overview",
+    "Meta Description": "Looking for information on Little Rhapsody of Game? Check out the release date (Jun 3, 2022), developer insights from PSJ, and a complete game summary.",
+    "Alt Text Image": "Official header image for Little Rhapsody of Game game - Steam 1988890",
+    "Canonical URL": "https://gusku.site/game/little-rhapsody-of-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Little Rhapsody of Game\", \"description\": \"Looking for information on Little Rhapsody of Game? Check out the release date (Jun 3, 2022), developer insights from PSJ, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 3, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"PSJ\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PSJ\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1988890/header.jpg?t=1654240251\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

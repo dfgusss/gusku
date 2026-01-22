@@ -1,0 +1,21 @@
+{
+    "AppID": 1990810,
+    "Name": "Monkey Adventure",
+    "Release date": "May 24, 2022",
+    "About the game": "Monkey Adventure is a 2D platform game. You, as Chikka the monkey, are exploring the jungle and stumble upon a shiny coin, it turns out to be a time-lost Atstek gold coin, collect all the gold coins, exchange them to improve your character for further searches. Also collect peach kernels to always be alert and not lose stamina. Be careful, on your way there will be monsters that will let you go further, only your dexterity, skill and advancement of the character will allow you to defeat them. Features: - 36 classic levels - Each level has its own gorgeous scene - Many different monsters and obstacles - Each character has their own way of attacking",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1990810/header.jpg?t=1653396514",
+    "Price": 10.99,
+    "Developers": "LokkinSOY",
+    "Publishers": "kovalevviktor",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1990810/ss_c831c34cdb5ec8b48e130e5785448b7fa9d6ab03.1920x1080.jpg?t=1653396514,https://cdn.akamai.steamstatic.com/steam/apps/1990810/ss_344610e8ba21dc7d30a9aa61c3c1b986546af535.1920x1080.jpg?t=1653396514,https://cdn.akamai.steamstatic.com/steam/apps/1990810/ss_5487683b8b0b8822749a69e73e0ae6958cfe275e.1920x1080.jpg?t=1653396514,https://cdn.akamai.steamstatic.com/steam/apps/1990810/ss_5fc99eb73f5220e0930d95c665666c9794af2800.1920x1080.jpg?t=1653396514,https://cdn.akamai.steamstatic.com/steam/apps/1990810/ss_5eb244f05de5f90f147c6aa8e8728076102319dc.1920x1080.jpg?t=1653396514",
+    "Slug": "monkey-adventure",
+    "Meta Title": "Monkey Adventure: May 24, 2022, LokkinSOY and Full Overview",
+    "Meta Description": "Looking for information on Monkey Adventure? Check out the release date (May 24, 2022), developer insights from LokkinSOY, and a complete game summary.",
+    "Alt Text Image": "Official header image for Monkey Adventure game - Steam 1990810",
+    "Canonical URL": "https://gusku.site/game/monkey-adventure",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Monkey Adventure\", \"description\": \"Looking for information on Monkey Adventure? Check out the release date (May 24, 2022), developer insights from LokkinSOY, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 24, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"LokkinSOY\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"kovalevviktor\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1990810/header.jpg?t=1653396514\", \"offers\": {\"@type\": \"Offer\", \"price\": 10.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

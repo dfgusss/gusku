@@ -1,0 +1,21 @@
+{
+    "AppID": 655500,
+    "Name": "MX Bikes",
+    "Release date": "Oct 7, 2019",
+    "About the game": "MX Bikes is a realistic motocross simulator, based on a scratch built physics engine that accurately simulates motorcycle dynamics and setup options. MX Bikes also allows to host and join online races. During events data is collected, to provide statistics for riders' comparison. Please note that there are neither AI nor a career mode. More features: automotive industry-standard tyre model chassis flex simulation dynamic terrain deformation wet terrain simulation and wet weather user-selectable rider gestures a plugins interface allows external programs to receive realtime data from the simulated bike LAN and online racing. Dedicated server available possibility to paint bike, helmet, kit, boots and gloves tools and documentation are provided to allow advanced users to build and integrate new tracks, bikes, helmets, protections and more Native Oculus Rift and SteamVR ( HTC Vive, Valve Index ) support FreeTrack support EDTracker support",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/655500/header.jpg?t=1645550702",
+    "Price": 34.99,
+    "Developers": "PiBoSo",
+    "Publishers": "PiBoSo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/655500/ss_6dcdaca42867284baf1e9626d31fcf578954b2b2.1920x1080.jpg?t=1645550702,https://cdn.akamai.steamstatic.com/steam/apps/655500/ss_c1c36013f456534abe62f15af14287699a6237f1.1920x1080.jpg?t=1645550702,https://cdn.akamai.steamstatic.com/steam/apps/655500/ss_2d6ed210892f2e00f11f81a6426e7ee1490240bd.1920x1080.jpg?t=1645550702,https://cdn.akamai.steamstatic.com/steam/apps/655500/ss_4342af83f48a59db03308e3274a35e5174d31ff1.1920x1080.jpg?t=1645550702,https://cdn.akamai.steamstatic.com/steam/apps/655500/ss_eb64d757a1de0f3b2f58a8bb137284468b1034ba.1920x1080.jpg?t=1645550702,https://cdn.akamai.steamstatic.com/steam/apps/655500/ss_ccdfdb72950b8b741fa791f8d5a80cbae8a08867.1920x1080.jpg?t=1645550702,https://cdn.akamai.steamstatic.com/steam/apps/655500/ss_cc1c4dc5c32ebed061d90499c67a10e2abd10181.1920x1080.jpg?t=1645550702,https://cdn.akamai.steamstatic.com/steam/apps/655500/ss_8a5d106c85091d463f1e1eb45a2a1289f5e245ea.1920x1080.jpg?t=1645550702",
+    "Slug": "mx-bikes",
+    "Meta Title": "MX Bikes: Oct 7, 2019, PiBoSo and Full Overview",
+    "Meta Description": "Looking for information on MX Bikes? Check out the release date (Oct 7, 2019), developer insights from PiBoSo, and a complete game summary.",
+    "Alt Text Image": "Official header image for MX Bikes game - Steam 655500",
+    "Canonical URL": "https://gusku.site/game/mx-bikes",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MX Bikes\", \"description\": \"Looking for information on MX Bikes? Check out the release date (Oct 7, 2019), developer insights from PiBoSo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 7, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"PiBoSo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PiBoSo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/655500/header.jpg?t=1645550702\", \"offers\": {\"@type\": \"Offer\", \"price\": 34.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

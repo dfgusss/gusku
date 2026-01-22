@@ -1,0 +1,21 @@
+{
+    "AppID": 486850,
+    "Name": "Card of spirits",
+    "Release date": "Jun 21, 2016",
+    "About the game": "Game rule Every turn, the player of that turn must play a card that give you a total value greater or equal the total value of the opponent, in case of a draw, both player's cards on the field is removed, and both players draw 1 card. (For example, if i have 3 on the field, and my opponent have 2+3, you must play a card that added to your current value gives you 5 or higher, so in this case any number higher or equal than 2 are good.) At the end of the game, which is when both player have no cards in their hand, the player that have higher value will win. Also you must surpass your opponent every turn, if you don’t you will lose even if you still have in your hand. Card type Cards are divided into two types, 1~8 are ordinary cards, J, Q, K, Z are special cards, special cards can reverse the situation. *This work is suspected of plagiarism, do not buy.*",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/486850/header.jpg?t=1640064074",
+    "Price": 0.99,
+    "Developers": "RMking",
+    "Publishers": "RMking",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/486850/ss_ec77ae5b3779450b45c972d6060b3b3dd4e1da38.1920x1080.jpg?t=1640064074,https://cdn.akamai.steamstatic.com/steam/apps/486850/ss_a216a7f12caaf0ccd3050815b398096643101d96.1920x1080.jpg?t=1640064074,https://cdn.akamai.steamstatic.com/steam/apps/486850/ss_756339d55227fe7fb12735409e46c401bca0be5c.1920x1080.jpg?t=1640064074,https://cdn.akamai.steamstatic.com/steam/apps/486850/ss_51b84547f0166a4ed6c1a2af25628ca9a37c6883.1920x1080.jpg?t=1640064074,https://cdn.akamai.steamstatic.com/steam/apps/486850/ss_66fa35bc083ccebba91631a4a9c99e7acfe143fa.1920x1080.jpg?t=1640064074",
+    "Slug": "card-of-spirits",
+    "Meta Title": "Card of spirits: Jun 21, 2016, RMking and Full Overview",
+    "Meta Description": "Looking for information on Card of spirits? Check out the release date (Jun 21, 2016), developer insights from RMking, and a complete game summary.",
+    "Alt Text Image": "Official header image for Card of spirits game - Steam 486850",
+    "Canonical URL": "https://gusku.site/game/card-of-spirits",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Card of spirits\", \"description\": \"Looking for information on Card of spirits? Check out the release date (Jun 21, 2016), developer insights from RMking, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 21, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"RMking\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"RMking\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/486850/header.jpg?t=1640064074\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

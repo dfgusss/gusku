@@ -1,0 +1,21 @@
+{
+    "AppID": 1966940,
+    "Name": "Automata Ecosystem - Cellular Automata Simulation",
+    "Release date": "May 30, 2022",
+    "About the game": "Automata Ecosystem is a sandbox simulation game that lets you experiment with all kinds of cellular automata in an environment that lets them interact with each other. Not only that, this is a sandbox built for customizability: you can create your own species and customize their behavior, appearance and sound. Yes, their sound too! Automata Ecosystem is also built to turn cellular automata into a complete, interactive and evolving audiovisual experience. Large scale cellular automata simulation powered by the GPU Automata Ecosystem's simulation model runs almost entirely on the GPU, allowing grids that fit millions of units to run at more than 30 turns per second. Play with how many different species you want! The only limit is how big of a grid fits in your VRAM. Customizable species interacting with each other Putting a twist on Life-like cellular automata. More than one species of cellular automata may live and interact on the same grid, and you can decide how they act, when they die and reproduce, and which species they consider friendly or hostile Turning cellular automata into an audiovisual experience. Each species' look and sound can be customized. You can have flat or animated colors that change each turn, for an ecosystem that also evolves in appearance; you can also import images into the simulation to easily bring your own art to life. As for sound, each species can be assigned a sample to be played with dynamic effects that change depending on the simulation's state.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1966940/header.jpg?t=1654126332",
+    "Price": 5.99,
+    "Developers": "Giuseppe La Malfa",
+    "Publishers": "Giuseppe La Malfa",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1966940/ss_38d9d46000e32a56559246da5ec7bc5895b21655.1920x1080.jpg?t=1654126332,https://cdn.akamai.steamstatic.com/steam/apps/1966940/ss_2a6dc59dbf366bed23fc1dd855e9c05087909d07.1920x1080.jpg?t=1654126332,https://cdn.akamai.steamstatic.com/steam/apps/1966940/ss_c2dec4aff8f65b152ddbbfcf3948ff94aa5b28c7.1920x1080.jpg?t=1654126332,https://cdn.akamai.steamstatic.com/steam/apps/1966940/ss_5247b8624cfd36ebf2d8304fcee7e93912f39068.1920x1080.jpg?t=1654126332,https://cdn.akamai.steamstatic.com/steam/apps/1966940/ss_8034b7b5a159282aa135eb2371eb43bdc053ecd5.1920x1080.jpg?t=1654126332",
+    "Slug": "automata-ecosystem-cellular-automata-simulation",
+    "Meta Title": "Automata Ecosystem - Cellular Automata Simulation: May 30...",
+    "Meta Description": "Looking for information on Automata Ecosystem - Cellular Automata Simulation? Check out the release date (May 30, 2022), developer insights from Giusepp...",
+    "Alt Text Image": "Official header image for Automata Ecosystem - Cellular Automata Simulation game - Steam 1966940",
+    "Canonical URL": "https://gusku.site/game/automata-ecosystem-cellular-automata-simulation",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Automata Ecosystem - Cellular Automata Simulation\", \"description\": \"Looking for information on Automata Ecosystem - Cellular Automata Simulation? Check out the release date (May 30, 2022), developer insights from Giusepp...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 30, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Giuseppe La Malfa\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Giuseppe La Malfa\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1966940/header.jpg?t=1654126332\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

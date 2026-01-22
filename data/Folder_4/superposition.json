@@ -1,0 +1,21 @@
+{
+    "AppID": 1825540,
+    "Name": "Superposition",
+    "Release date": "Dec 15, 2021",
+    "About the game": "Superposition is a simple sokoban style puzzle game about duplication. By splitting yourself into multiple copies you have to maneuver onto all goal tiles simultaneously to progress. The goal with this game was to iterate on a few novel mechanics in a sokoban world, and play with the consequences to discover interesting scenarios. The game contains 50 puzzles that intend to explore those mechanics.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1825540/header.jpg?t=1639579547",
+    "Price": 4.99,
+    "Developers": "Anadodic LLC",
+    "Publishers": "Anadodic LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1825540/ss_788d4664fa4b0d6441772a183823ef3a3a746be1.1920x1080.jpg?t=1639579547,https://cdn.akamai.steamstatic.com/steam/apps/1825540/ss_735f06582b345103841a3b1e894ac345d6fb016d.1920x1080.jpg?t=1639579547,https://cdn.akamai.steamstatic.com/steam/apps/1825540/ss_d7fa255b36e7857ee7170da088501e837eca1df9.1920x1080.jpg?t=1639579547,https://cdn.akamai.steamstatic.com/steam/apps/1825540/ss_ca7454d2932a290cb120f9c348ff52aedb95d8e6.1920x1080.jpg?t=1639579547,https://cdn.akamai.steamstatic.com/steam/apps/1825540/ss_b4945d66f0dbcafebf93938376c37fe4c20d961e.1920x1080.jpg?t=1639579547,https://cdn.akamai.steamstatic.com/steam/apps/1825540/ss_b6327520e500f954535ea2cbd99299b53b26f0aa.1920x1080.jpg?t=1639579547,https://cdn.akamai.steamstatic.com/steam/apps/1825540/ss_6abbb9e3376d4613dc9eff3b7ee9d54df522f56f.1920x1080.jpg?t=1639579547",
+    "Slug": "superposition",
+    "Meta Title": "Superposition: Dec 15, 2021, Anadodic LLC and Full Overview",
+    "Meta Description": "Looking for information on Superposition? Check out the release date (Dec 15, 2021), developer insights from Anadodic LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for Superposition game - Steam 1825540",
+    "Canonical URL": "https://gusku.site/game/superposition",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Superposition\", \"description\": \"Looking for information on Superposition? Check out the release date (Dec 15, 2021), developer insights from Anadodic LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 15, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Anadodic LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Anadodic LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1825540/header.jpg?t=1639579547\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

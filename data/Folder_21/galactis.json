@@ -1,0 +1,21 @@
+{
+    "AppID": 906460,
+    "Name": "Galactis",
+    "Release date": "Aug 6, 2018",
+    "About the game": "Revive the glory of bygone space shooter arcade days in Galactis! FEATURES: -Single player space shooter emphazised in one-on-one battles. -Choose from three spaceships, each with unique characteristics and weaponry. -Spend credits to upgrade your ship's weapons, shields, armor, speed and install modules. -Good reflexes are critical to survive each fight. Having good equipments helps too! -Ammunition is a valuable resource; time your attacks wisely to minimize waste. -Difficulty escalates as each boss is defeated, providing greater challenge.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/906460/header.jpg?t=1533570003",
+    "Price": 0.99,
+    "Developers": "Gustavo Contreras",
+    "Publishers": "Gustavo Contreras",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/906460/ss_142a9c0be1f952c96ebf3a9a2aac161b4a056dbd.1920x1080.jpg?t=1533570003,https://cdn.akamai.steamstatic.com/steam/apps/906460/ss_c4d6c890c86ce693910df8e69f88110bd28572e6.1920x1080.jpg?t=1533570003,https://cdn.akamai.steamstatic.com/steam/apps/906460/ss_45ee5535d7772b6805b45559b60a27d24b9903f9.1920x1080.jpg?t=1533570003,https://cdn.akamai.steamstatic.com/steam/apps/906460/ss_b33efccdf52505fc910e47c531cf82c64bfdd612.1920x1080.jpg?t=1533570003,https://cdn.akamai.steamstatic.com/steam/apps/906460/ss_0aca0568095f47ab8fcc52d68d36a96cdf5499ab.1920x1080.jpg?t=1533570003,https://cdn.akamai.steamstatic.com/steam/apps/906460/ss_b8e365e9bc735babb0159a759ed0d9a3b51d444d.1920x1080.jpg?t=1533570003,https://cdn.akamai.steamstatic.com/steam/apps/906460/ss_b67fcb3723a8eafd7384d8a0788fe7ccb6bd3d44.1920x1080.jpg?t=1533570003,https://cdn.akamai.steamstatic.com/steam/apps/906460/ss_32510de52a3d2e7a78cc1982d803cf6d282d9518.1920x1080.jpg?t=1533570003",
+    "Slug": "galactis",
+    "Meta Title": "Galactis: Aug 6, 2018, Gustavo Contreras and Full Overview",
+    "Meta Description": "Looking for information on Galactis? Check out the release date (Aug 6, 2018), developer insights from Gustavo Contreras, and a complete game summary.",
+    "Alt Text Image": "Official header image for Galactis game - Steam 906460",
+    "Canonical URL": "https://gusku.site/game/galactis",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Galactis\", \"description\": \"Looking for information on Galactis? Check out the release date (Aug 6, 2018), developer insights from Gustavo Contreras, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 6, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gustavo Contreras\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gustavo Contreras\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/906460/header.jpg?t=1533570003\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

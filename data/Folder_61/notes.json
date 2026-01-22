@@ -1,0 +1,21 @@
+{
+    "AppID": 1070250,
+    "Name": "NOTES",
+    "Release date": "Jul 11, 2019",
+    "About the game": "A small puzzle game, based on connecting musical notes. The game is for everyone, no musical knowledge is required. Features 50 levels Guitar soundtrack",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1070250/header.jpg?t=1615729646",
+    "Price": 0.99,
+    "Developers": "Miro Jankura",
+    "Publishers": "Miro Jankura",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1070250/ss_9f224cfd7a99aecc704e3ca83869253713c0f275.1920x1080.jpg?t=1615729646,https://cdn.akamai.steamstatic.com/steam/apps/1070250/ss_9cdc5874178ee6eae84e3fc448b68efb48a8d09c.1920x1080.jpg?t=1615729646,https://cdn.akamai.steamstatic.com/steam/apps/1070250/ss_37af02c47726558483f280e3e544ca1cf2e17f7c.1920x1080.jpg?t=1615729646,https://cdn.akamai.steamstatic.com/steam/apps/1070250/ss_7679e8c4a41e9cd8f5c165ab8a685fd4ba0f49c7.1920x1080.jpg?t=1615729646,https://cdn.akamai.steamstatic.com/steam/apps/1070250/ss_e286f4189e00a588ebd57d574d39c94011f479a3.1920x1080.jpg?t=1615729646",
+    "Slug": "notes",
+    "Meta Title": "NOTES: Jul 11, 2019, Miro Jankura and Full Overview",
+    "Meta Description": "Looking for information on NOTES? Check out the release date (Jul 11, 2019), developer insights from Miro Jankura, and a complete game summary.",
+    "Alt Text Image": "Official header image for NOTES game - Steam 1070250",
+    "Canonical URL": "https://gusku.site/game/notes",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"NOTES\", \"description\": \"Looking for information on NOTES? Check out the release date (Jul 11, 2019), developer insights from Miro Jankura, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 11, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Miro Jankura\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Miro Jankura\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1070250/header.jpg?t=1615729646\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

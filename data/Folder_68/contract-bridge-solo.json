@@ -1,0 +1,21 @@
+{
+    "AppID": 2225500,
+    "Name": "Contract Bridge Solo",
+    "Release date": "Dec 22, 2022",
+    "About the game": "This game is a single-player game based on the contract bridge rules. Without auction/bidding, it automatically determines how many tricks the declarer should win. How many tricks you and your AI partner win together is the key to winning the game. You should have tricks no less than the standard (as the par for the declarer) to get the points. Although you have a very powerful AI partner, it's not easy to play against the other two. If failed, you can try the replay feature at the end of the deck to improve your skill. Ironman mode is available when your score is no less than 500. Keyboard and Controller Support Previous card: Left, A, D-Pad Left, Left Stick Left Next card: Right, D, D-Pad Right, Left Stick Right First card: Home, Right Stick Left Last card: End, Right Stick Right Previous suit: PgUp, Controller L/L1 Next suit: PgDn, Controller R/R1 Accept: Space, Enter, PlayStation Cross, XBox A, Nintendo B Light switch: P, Ctrl, L2, R2 Game Logs %appdata%\\Godot\\app_userdata\\Contract Bridge Solo\\logs",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2225500/header.jpg?t=1671757359",
+    "Price": 1.99,
+    "Developers": "Feiyun Wang",
+    "Publishers": "Feiyun Wang",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2225500/ss_fc5d38c35d69da794ac3282f111bd96c4d2a911c.1920x1080.jpg?t=1671757359,https://cdn.akamai.steamstatic.com/steam/apps/2225500/ss_bc5f998736dea8c8dfa03e485ac6bd67f7289428.1920x1080.jpg?t=1671757359,https://cdn.akamai.steamstatic.com/steam/apps/2225500/ss_82de02e082ee371834d512b4b42a5641f6bf0171.1920x1080.jpg?t=1671757359,https://cdn.akamai.steamstatic.com/steam/apps/2225500/ss_a8b82e88de3c2b59a632a6869f787718cba776aa.1920x1080.jpg?t=1671757359,https://cdn.akamai.steamstatic.com/steam/apps/2225500/ss_8889d1438f56d837901e599f4489b84d309ed8bd.1920x1080.jpg?t=1671757359,https://cdn.akamai.steamstatic.com/steam/apps/2225500/ss_9103c6da59b992f21c4659ba5ab7027be64e9a2e.1920x1080.jpg?t=1671757359",
+    "Slug": "contract-bridge-solo",
+    "Meta Title": "Contract Bridge Solo: Dec 22, 2022, Feiyun Wang and Full ...",
+    "Meta Description": "Looking for information on Contract Bridge Solo? Check out the release date (Dec 22, 2022), developer insights from Feiyun Wang, and a complete game sum...",
+    "Alt Text Image": "Official header image for Contract Bridge Solo game - Steam 2225500",
+    "Canonical URL": "https://gusku.site/game/contract-bridge-solo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Contract Bridge Solo\", \"description\": \"Looking for information on Contract Bridge Solo? Check out the release date (Dec 22, 2022), developer insights from Feiyun Wang, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 22, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Feiyun Wang\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Feiyun Wang\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2225500/header.jpg?t=1671757359\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

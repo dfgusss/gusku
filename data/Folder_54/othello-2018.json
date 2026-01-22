@@ -1,0 +1,21 @@
+{
+    "AppID": 874140,
+    "Name": "Othello 2018",
+    "Release date": "Jun 21, 2018",
+    "About the game": "Othello (Reversi) is a strategy board game for two players, played on an 8x8 uncheckered board. There are sixty-four identical game pieces called disks, which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. During a play, any disks of the opponent's color that are in a straight line (horizontal, vertical, or diagonal) and bounded by the disk just placed and another disk of the current player's color are turned over to the current player's color. Tips for possible moves are indicated by transparent parts. Players take alternate turns. If one player can not make a valid move, play passes back to the other player. The player with the most pieces on the board at the end of the game wins. When neither player can move, the game ends. The object of the game is to have the majority of disks turned to display your color when the last playable empty square is filled. Othello 2018 perfectly develops your logical thinking, strategy and attention. This game is suitable for young learners, teenagers and adults. You can play single player mode (against CPU) or with a friend on the same computer! Copyright: Design: Teinstud Music: Kevin MacLeod",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/874140/header.jpg?t=1610775190",
+    "Price": 0.99,
+    "Developers": "Albireo Games",
+    "Publishers": "Albireo Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/874140/ss_b2a3a6ababae8d4283807306f942e92d626cc751.1920x1080.jpg?t=1610775190,https://cdn.akamai.steamstatic.com/steam/apps/874140/ss_5c775fc20e0d10357ea87a0dff0e270e77fc42cc.1920x1080.jpg?t=1610775190,https://cdn.akamai.steamstatic.com/steam/apps/874140/ss_c8df4cb2a7276a0199f7d3460017caf1b254b50e.1920x1080.jpg?t=1610775190,https://cdn.akamai.steamstatic.com/steam/apps/874140/ss_dec5e3b4352b4be36d0ee90f36d5d91e4c7ff7da.1920x1080.jpg?t=1610775190,https://cdn.akamai.steamstatic.com/steam/apps/874140/ss_12e36e58b449a26a5ac284cbe5229c23ffd00479.1920x1080.jpg?t=1610775190",
+    "Slug": "othello-2018",
+    "Meta Title": "Othello 2018: Jun 21, 2018, Albireo Games and Full Overview",
+    "Meta Description": "Looking for information on Othello 2018? Check out the release date (Jun 21, 2018), developer insights from Albireo Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Othello 2018 game - Steam 874140",
+    "Canonical URL": "https://gusku.site/game/othello-2018",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Othello 2018\", \"description\": \"Looking for information on Othello 2018? Check out the release date (Jun 21, 2018), developer insights from Albireo Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 21, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Albireo Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Albireo Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/874140/header.jpg?t=1610775190\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

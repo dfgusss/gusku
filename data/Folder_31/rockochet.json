@@ -1,0 +1,21 @@
+{
+    "AppID": 761990,
+    "Name": "Rockochet",
+    "Release date": "Aug 6, 2018",
+    "About the game": "Rockochet is a VR Arcade-style game with two very simple mechanics: move and bounce. Your player's shield launches an energy ball that knocks ore stones from the large space rock. Keep the ball in play by orbiting around and bouncing it back towards the rock. Capture ore stones with your shield for points and upgrades.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/761990/header.jpg?t=1533569675",
+    "Price": 0.0,
+    "Developers": "PixPan Studios",
+    "Publishers": "PixPan Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/761990/ss_fae0865ca993a4dd32e94a781ef15472dcf8cdfb.1920x1080.jpg?t=1533569675,https://cdn.akamai.steamstatic.com/steam/apps/761990/ss_0e61e0696151e7380a9b5441f6f2e2d956a67e37.1920x1080.jpg?t=1533569675,https://cdn.akamai.steamstatic.com/steam/apps/761990/ss_b8ae03d8f833ec7524781f9272398d21632ca24e.1920x1080.jpg?t=1533569675,https://cdn.akamai.steamstatic.com/steam/apps/761990/ss_36a827fd45243d864f4984481636224135b98689.1920x1080.jpg?t=1533569675,https://cdn.akamai.steamstatic.com/steam/apps/761990/ss_ce5f73ab1e75d53411608e3e50420a96e62f7fb2.1920x1080.jpg?t=1533569675",
+    "Slug": "rockochet",
+    "Meta Title": "Rockochet: Aug 6, 2018, PixPan Studios and Full Overview",
+    "Meta Description": "Looking for information on Rockochet? Check out the release date (Aug 6, 2018), developer insights from PixPan Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Rockochet game - Steam 761990",
+    "Canonical URL": "https://gusku.site/game/rockochet",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Rockochet\", \"description\": \"Looking for information on Rockochet? Check out the release date (Aug 6, 2018), developer insights from PixPan Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 6, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"PixPan Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PixPan Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/761990/header.jpg?t=1533569675\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

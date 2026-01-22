@@ -1,0 +1,21 @@
+{
+    "AppID": 1561970,
+    "Name": "Young world",
+    "Release date": "Feb 6, 2023",
+    "About the game": "这是一个利用RMMZ轻松制作CRPG的代表作品，没有桌面规则原型， 我认为制作博德之门之类的MOD，并不利于想法的传播，即使我使用unity做出了自己的游戏 ，大多数人依旧被困难折磨。 忠于我自认为的CRPG三大原则， 1.网状叙事，游戏中游戏许多隐藏的线索（特定条件下解锁新对话），如果您没有完全找到，可能在观感上和我所描述的略有不同。 2.属性点自由分配，这对角色扮演至关重要。 3.授权协议层不禁止玩家修改本体，实际上我提供了友好的修改方案，但不等于会有创意工坊 目前仍是早期版本 抢先体验版目前是六个章节的前两个章节。大致拥有1小时左右的游玩时间。足够满足您对RPG游戏的体验。 用于二次创作mod支持已经全部实现，当前支持魔改 这个游戏可以用rmmZ编辑器直接打开修改，但是受限于部分素材使用协议，不可直接作为二次发布。 特征： 1.多分支对话 C&amp;C 2.自定义属性点分配 3.自定义角色外形，允许更换装备后，能够直观看到变化（这一部分仅通过编辑器编辑后可见，游戏内不可见） 4.隐藏对话解锁 5.大地图战棋战斗系统 关于游戏内容： 保留了继承自辐射以来的“身坚智残流”的有趣流程设计，故事发生在低魔时代的奇幻世界，玩家作为经历船难的东方人，开始了归家异途。 受制于道德限制，去掉了《神界原罪2》及《天外世界》的随意对游戏内人类做出攻击。 可以寻找队友，利用您的各种天赋特质在游戏中冒险，没有任务列表和该死的育碧式问号折磨人",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1561970/header.jpg?t=1675833557",
+    "Price": 4.99,
+    "Developers": "ZIWord Soft",
+    "Publishers": "ZIWord Soft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1561970/ss_22eaaa20891282a135ff87ef0e8a6f57a2705701.1920x1080.jpg?t=1675833557,https://cdn.akamai.steamstatic.com/steam/apps/1561970/ss_e043f6f251ab7f25eced98fc2161186d0f548d23.1920x1080.jpg?t=1675833557,https://cdn.akamai.steamstatic.com/steam/apps/1561970/ss_60b47b6ec0525ff9c9f782918a5d802e58b84400.1920x1080.jpg?t=1675833557,https://cdn.akamai.steamstatic.com/steam/apps/1561970/ss_dbb4890e171c94b43254520589a9b0987ed4d2b6.1920x1080.jpg?t=1675833557,https://cdn.akamai.steamstatic.com/steam/apps/1561970/ss_618acd7c5fe68f18390163f337e928be184abe94.1920x1080.jpg?t=1675833557",
+    "Slug": "young-world",
+    "Meta Title": "Young world: Feb 6, 2023, ZIWord Soft and Full Overview",
+    "Meta Description": "Looking for information on Young world? Check out the release date (Feb 6, 2023), developer insights from ZIWord Soft, and a complete game summary.",
+    "Alt Text Image": "Official header image for Young world game - Steam 1561970",
+    "Canonical URL": "https://gusku.site/game/young-world",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Young world\", \"description\": \"Looking for information on Young world? Check out the release date (Feb 6, 2023), developer insights from ZIWord Soft, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 6, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"ZIWord Soft\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ZIWord Soft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1561970/header.jpg?t=1675833557\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

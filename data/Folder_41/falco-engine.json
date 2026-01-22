@@ -1,0 +1,21 @@
+{
+    "AppID": 1112440,
+    "Name": "Falco Engine",
+    "Release date": "Aug 20, 2019",
+    "About the game": "Free 3D game engine with C# scripting, Bullet physics and OpenAL audio. Falco Engine comes with functional 3d editor which let you make games easily. GRAPHICS Falco Engine is based on OpenGL and supports GLSL shaders. User has full control on the graphics pipeline. FREE Falco Engine is a free game engine. You can make commercial games with no limitations. C# SCRIPTING Falco Engine provides C# scripting ability. Program your games with the powerful, wide popular and favourite programming language. PHYSICS Falco Engine supports 3D physics out of the box. You can create complex scenes with no performance hit. AUDIO Falco Engine includes OpenAL audio subsystem. It means you can play 3D sounds with different audio effects.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1112440/header.jpg?t=1624378299",
+    "Price": 0.0,
+    "Developers": "Falco Software",
+    "Publishers": "Falco Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1112440/ss_d432bde7e00017402929807e4d4644bf2fa4bdf4.1920x1080.jpg?t=1624378299,https://cdn.akamai.steamstatic.com/steam/apps/1112440/ss_89d68b2a43fbe5214f42c9ba64ced2cc1d83fc0d.1920x1080.jpg?t=1624378299,https://cdn.akamai.steamstatic.com/steam/apps/1112440/ss_31a1c345beede54cc6b5b84f3ca70b7f1c43714c.1920x1080.jpg?t=1624378299,https://cdn.akamai.steamstatic.com/steam/apps/1112440/ss_7449a696160d61cf58b9698e02db285acec596c2.1920x1080.jpg?t=1624378299,https://cdn.akamai.steamstatic.com/steam/apps/1112440/ss_e3cdd8ea52b0446ddc7bee66117be396ea31b3bf.1920x1080.jpg?t=1624378299,https://cdn.akamai.steamstatic.com/steam/apps/1112440/ss_5480f0de9f117e800f13b0b997179c987aa216ca.1920x1080.jpg?t=1624378299,https://cdn.akamai.steamstatic.com/steam/apps/1112440/ss_88357cab9a64abeb0b2bd25db3479854df7ac510.1920x1080.jpg?t=1624378299",
+    "Slug": "falco-engine",
+    "Meta Title": "Falco Engine: Aug 20, 2019, Falco Software and Full Overview",
+    "Meta Description": "Looking for information on Falco Engine? Check out the release date (Aug 20, 2019), developer insights from Falco Software, and a complete game summary.",
+    "Alt Text Image": "Official header image for Falco Engine game - Steam 1112440",
+    "Canonical URL": "https://gusku.site/game/falco-engine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Falco Engine\", \"description\": \"Looking for information on Falco Engine? Check out the release date (Aug 20, 2019), developer insights from Falco Software, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 20, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Falco Software\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Falco Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1112440/header.jpg?t=1624378299\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

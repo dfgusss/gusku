@@ -1,0 +1,21 @@
+{
+    "AppID": 1501470,
+    "Name": "tanxy",
+    "Release date": "Jan 11, 2021",
+    "About the game": "WHAT? tanxy is a game where you can program. In contrast to other games where you control your Units with keyboard and mouse, in tanxy you can write a JavaScript program to control any Unit on your behalf. Although manual control is also possible. Your goal is to destroy all enemy Units and to keep yours. WHY? JavaScript is the most popular programming language on this planet. If you have a kid who should be motivated to learn programming, tanxy could be a good option. If you are a programmer who wants to learn JavaScript with fun, tanxy is an option, too. HOW? You develop Tank control algorithms, you implement them in JavaScript , load them to Tanks and see how they fight.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1501470/header.jpg?t=1621210343",
+    "Price": 7.99,
+    "Developers": "IronRib",
+    "Publishers": "IronRib",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1501470/ss_28954f29dec24da18220b7756d03d13ee10aa211.1920x1080.jpg?t=1621210343,https://cdn.akamai.steamstatic.com/steam/apps/1501470/ss_96fd0c12149d3f8d5436650a23c37ef373d55318.1920x1080.jpg?t=1621210343,https://cdn.akamai.steamstatic.com/steam/apps/1501470/ss_57beedcbaa8f629f06b81e04185292f546364470.1920x1080.jpg?t=1621210343,https://cdn.akamai.steamstatic.com/steam/apps/1501470/ss_c58cecd325aae293958c7ea1c6266b7caf219d36.1920x1080.jpg?t=1621210343,https://cdn.akamai.steamstatic.com/steam/apps/1501470/ss_5be9533fbd427e4396719209e22fcaf9eb146f67.1920x1080.jpg?t=1621210343,https://cdn.akamai.steamstatic.com/steam/apps/1501470/ss_ffef0cc53c78f9bcfae5354ffe00a6740286b8a9.1920x1080.jpg?t=1621210343",
+    "Slug": "tanxy",
+    "Meta Title": "tanxy: Jan 11, 2021, IronRib and Full Overview",
+    "Meta Description": "Looking for information on tanxy? Check out the release date (Jan 11, 2021), developer insights from IronRib, and a complete game summary.",
+    "Alt Text Image": "Official header image for tanxy game - Steam 1501470",
+    "Canonical URL": "https://gusku.site/game/tanxy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"tanxy\", \"description\": \"Looking for information on tanxy? Check out the release date (Jan 11, 2021), developer insights from IronRib, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 11, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"IronRib\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"IronRib\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1501470/header.jpg?t=1621210343\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

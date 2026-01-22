@@ -1,0 +1,21 @@
+{
+    "AppID": 931120,
+    "Name": "Pixel Maze",
+    "Release date": "Sep 18, 2018",
+    "About the game": "The game was made entirely out of spare time. It was the first game I made independently. It took me about half a year from start to finish. The progress was slow because of full-time work. I hope that the friends who like this kind of game can support me more and let me continue to do it. Pixel Maze is not a simple coloring game. The game is quite difficult. The game fills the color with digital hints. All the numbers are interlocked. Every step must be patiently calculated to finally break the maze. If you like puzzle games, want to challenge and have a lot of time, try Pixel Maze! game introduction ·Each number represents the number of grids to be filled in the surrounding 9 grids (including itself), and the color of the number is the color to be filled by the grid. When the number of fills meets the numerical requirements, a black dot appears on the upper right of the number, and the level is successful after all the numbers meet the requirements. · The tools on the right side of the game can help you quickly find numbers that don't meet your requirements, zoom in, zoom out, and directly decrypt 9 squares. Click the color swatch on the right to switch colors, or click the selected color again to change the current color. · All the numbers in the game are interlocked, and every step must be patiently calculated. All the labyrinths can be solved by guessing! Don't guess! , · Each labyrinth of the game has a theme, with a variety of rich themes such as classic games, movies, and TV shows to see how much you can recognize. · There are more than 200 levels, the size is increased from small to large, I hope to bring you a quiet time.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/931120/header.jpg?t=1538914091",
+    "Price": 0.99,
+    "Developers": "PixelCat",
+    "Publishers": "PixelCat",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/931120/ss_7106cf8ee9854ab6ed1f9585209c6d027afdfc8a.1920x1080.jpg?t=1538914091,https://cdn.akamai.steamstatic.com/steam/apps/931120/ss_376ed6fc6fc8e059dca5e4b3a3764a1763c2dbb8.1920x1080.jpg?t=1538914091,https://cdn.akamai.steamstatic.com/steam/apps/931120/ss_2c9ac5a0078cd54d91144b08352f77da77c8ea6d.1920x1080.jpg?t=1538914091,https://cdn.akamai.steamstatic.com/steam/apps/931120/ss_cbda2721b6a4aa84fcecf186e6608d3c8a561202.1920x1080.jpg?t=1538914091,https://cdn.akamai.steamstatic.com/steam/apps/931120/ss_6f3996db2b89e99511f01def6b16456e555d4499.1920x1080.jpg?t=1538914091,https://cdn.akamai.steamstatic.com/steam/apps/931120/ss_dec8ea95b2821598aa4b1db96fd4cbb33d516198.1920x1080.jpg?t=1538914091,https://cdn.akamai.steamstatic.com/steam/apps/931120/ss_3832cc052c5801354eb73da7113acc2d32278539.1920x1080.jpg?t=1538914091,https://cdn.akamai.steamstatic.com/steam/apps/931120/ss_f35581742ca359bff28751fd472b9cfbb06c5b56.1920x1080.jpg?t=1538914091",
+    "Slug": "pixel-maze",
+    "Meta Title": "Pixel Maze: Sep 18, 2018, PixelCat and Full Overview",
+    "Meta Description": "Looking for information on Pixel Maze? Check out the release date (Sep 18, 2018), developer insights from PixelCat, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixel Maze game - Steam 931120",
+    "Canonical URL": "https://gusku.site/game/pixel-maze",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixel Maze\", \"description\": \"Looking for information on Pixel Maze? Check out the release date (Sep 18, 2018), developer insights from PixelCat, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 18, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"PixelCat\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PixelCat\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/931120/header.jpg?t=1538914091\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

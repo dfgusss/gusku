@@ -1,0 +1,21 @@
+{
+    "AppID": 1282540,
+    "Name": "Tales of Kongfu",
+    "Release date": "Jul 16, 2020",
+    "About the game": "游戏题材来源于中国武侠，采用类似杀戮尖塔的卡组构建玩法，并从格斗游戏当中获取灵感，游戏每张卡牌都代表一个招式，每个招式又分解为多个动作，这部分我是基于现实格斗当中，游戏采用一个动作一结算的方式，只有当你的招式完全行动完成后才会拥有使用下一张牌的机会。招式的动作分为四种攻击防御破绽警惕。游戏采用灵活的连招系统，只要两个招式间首尾有重叠，则可以省略前一个招式的重叠部分。玩家需要利用这项设定让自己的破绽尽量小，并且尽量利用对手的破绽。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1282540/header.jpg?t=1594900063",
+    "Price": 0.99,
+    "Developers": "Colddagger",
+    "Publishers": "YWY",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1282540/ss_fc6404a236f2140fb99815bb6e8cfe2e3154a530.1920x1080.jpg?t=1594900063,https://cdn.akamai.steamstatic.com/steam/apps/1282540/ss_0da5baf342d615b6d8d780ee3da0fc60778b0e64.1920x1080.jpg?t=1594900063,https://cdn.akamai.steamstatic.com/steam/apps/1282540/ss_caa1b87ea97f09abe94c56daae80960012e695bf.1920x1080.jpg?t=1594900063,https://cdn.akamai.steamstatic.com/steam/apps/1282540/ss_b05175e6019d29bb10cc08a2a0f091e1ba0ff760.1920x1080.jpg?t=1594900063,https://cdn.akamai.steamstatic.com/steam/apps/1282540/ss_06746614360b9ff806199eb7b247d846e6a18686.1920x1080.jpg?t=1594900063",
+    "Slug": "tales-of-kongfu",
+    "Meta Title": "Tales of Kongfu: Jul 16, 2020, Colddagger and Full Overview",
+    "Meta Description": "Looking for information on Tales of Kongfu? Check out the release date (Jul 16, 2020), developer insights from Colddagger, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tales of Kongfu game - Steam 1282540",
+    "Canonical URL": "https://gusku.site/game/tales-of-kongfu",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tales of Kongfu\", \"description\": \"Looking for information on Tales of Kongfu? Check out the release date (Jul 16, 2020), developer insights from Colddagger, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 16, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Colddagger\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"YWY\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1282540/header.jpg?t=1594900063\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

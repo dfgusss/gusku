@@ -1,0 +1,21 @@
+{
+    "AppID": 707750,
+    "Name": "DrumSim",
+    "Release date": "Sep 25, 2017",
+    "About the game": "Simple drumkit simulator. Can be played with either the Keyboard or the Vive Motion controllers. Roomscale. Best played seated. When playing with motion controllers, you can control the volume of the drums by how fast you hit them. Motion Controls Drumsticks: Motion control Hihat Pedal: Left Trigger Bass Pedal: Right Trigger Keyboard Controls Hihat: S Crash: W Ride: L Snare: D Toms: F, J, K Hihat Pedal: Left Shift Bass Drum Pedal: Spacebar",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/707750/header.jpg?t=1506350489",
+    "Price": 1.99,
+    "Developers": "The Holodeck",
+    "Publishers": "Revintu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/707750/ss_0773962d8752a83fa46127a66d8eec1ea8aa1afd.1920x1080.jpg?t=1506350489,https://cdn.akamai.steamstatic.com/steam/apps/707750/ss_99d783fc5049e4b0498fc69e5bf96379bf6d1708.1920x1080.jpg?t=1506350489,https://cdn.akamai.steamstatic.com/steam/apps/707750/ss_545bc1484ed319298f41430a03a661595854803c.1920x1080.jpg?t=1506350489,https://cdn.akamai.steamstatic.com/steam/apps/707750/ss_8f78e1e528065ffdcda011999802b80a58afc30b.1920x1080.jpg?t=1506350489,https://cdn.akamai.steamstatic.com/steam/apps/707750/ss_16488280843f130ad517840e6f1c368a8d7dcc49.1920x1080.jpg?t=1506350489,https://cdn.akamai.steamstatic.com/steam/apps/707750/ss_def940061c1f5782fbfa24e12f68f4fc3d33bc40.1920x1080.jpg?t=1506350489",
+    "Slug": "drumsim",
+    "Meta Title": "DrumSim: Sep 25, 2017, The Holodeck and Full Overview",
+    "Meta Description": "Looking for information on DrumSim? Check out the release date (Sep 25, 2017), developer insights from The Holodeck, and a complete game summary.",
+    "Alt Text Image": "Official header image for DrumSim game - Steam 707750",
+    "Canonical URL": "https://gusku.site/game/drumsim",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DrumSim\", \"description\": \"Looking for information on DrumSim? Check out the release date (Sep 25, 2017), developer insights from The Holodeck, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 25, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"The Holodeck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Revintu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/707750/header.jpg?t=1506350489\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

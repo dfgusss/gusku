@@ -1,0 +1,21 @@
+{
+    "AppID": 1415500,
+    "Name": "SUDOKU TIME",
+    "Release date": "Sep 22, 2020",
+    "About the game": "SUDOKU TIME is a classic logical puzzle with combinatorics of numbers. The goal of the puzzle is to fill in the empty cells with numbers from 1 to 9 so that in each row, in each column, and in each small square (region) 3 × 3, each digit occurs only once. Each puzzle has only one solution! The blue cells are empty, green means you're on the right way to the solution, red color signals about an error, grey cells are initial cells and they cannot be replaced. Hints will let you know whether you are acting correctly or not. Game Features: 40 new levels Increasing difficulty Nice graphics Pleasant music",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1415500/header.jpg?t=1658770431",
+    "Price": 1.99,
+    "Developers": "Garage Games",
+    "Publishers": "Garage Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1415500/ss_798e03bd7743d008c373692094f0c028b5696b8a.1920x1080.jpg?t=1658770431,https://cdn.akamai.steamstatic.com/steam/apps/1415500/ss_3565b304dafd10bc24b6bbf94ca7af34da8b866c.1920x1080.jpg?t=1658770431,https://cdn.akamai.steamstatic.com/steam/apps/1415500/ss_c64ecbcbd9f983f7590a7b6f979e4b99c9976eb1.1920x1080.jpg?t=1658770431,https://cdn.akamai.steamstatic.com/steam/apps/1415500/ss_8f562b3bae10fc22fdb4d5500a4ca0577ec2047a.1920x1080.jpg?t=1658770431,https://cdn.akamai.steamstatic.com/steam/apps/1415500/ss_a8965b17c6c2aaf635c46683b0f57f3c02101c67.1920x1080.jpg?t=1658770431,https://cdn.akamai.steamstatic.com/steam/apps/1415500/ss_e22a201a66310cd4006b7443aeb698f5a0fa3342.1920x1080.jpg?t=1658770431",
+    "Slug": "sudoku-time",
+    "Meta Title": "SUDOKU TIME: Sep 22, 2020, Garage Games and Full Overview",
+    "Meta Description": "Looking for information on SUDOKU TIME? Check out the release date (Sep 22, 2020), developer insights from Garage Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for SUDOKU TIME game - Steam 1415500",
+    "Canonical URL": "https://gusku.site/game/sudoku-time",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SUDOKU TIME\", \"description\": \"Looking for information on SUDOKU TIME? Check out the release date (Sep 22, 2020), developer insights from Garage Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 22, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Garage Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Garage Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1415500/header.jpg?t=1658770431\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

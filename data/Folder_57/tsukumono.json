@@ -1,0 +1,21 @@
+{
+    "AppID": 993850,
+    "Name": "Tsukumono / つくもの / 付者",
+    "Release date": "Jan 3, 2019",
+    "About the game": "Aim for a 999 chain! A brand new experience combining tower defence and matching tile puzzle games into a game you can easily play in 1-5 minute bursts! * To make sure chains don't create too big of a skill gap between players, chains do not provide bonuses. In the matching tiles game, by matching 3 or more blocks of the same colour you can summon a matching coloured unit. Your units will move and attack enemy units/players of their own volition, but can easily be damaged themselves. (Enemy units work the same way.) Support your units using 'Skills' assigned to each player character! (SP is necessary to use skills.) ************************************************** 　How to play ************************************************** 1．By touching the left and right arrows in the bottom left, or Press the 'A' 'D' key on the keyboard, you can move the next block to drop. 2．By touching the 'Drop Block' button in the bottom right, or Press the 'L' key on the keyboard, you can cause the next block to drop. 3．By connecting 3 or more blocks of the same colour you'll clear those blocks and summon a matching coloured unit. 4．Summoned units will act automatically and deal damage to enemy units/players. 5．While supporting your units with your player character's 'Skills', aim to reduce your opponent to 0HP for the victory. (Skills have an SP cost, as well as a fixed cooldown period.) 6．Clearing blocks consecutively will cause your chain to increase. Try and see how high you can get your chain! * Skills can be activated by tapping the 'Skill' button in the bottom right of the screen, or Press the 'A' 'D' key on the keyboard, once you've built up enough SP (required amounts differ per character.) * If you continue to stack blocks above the highest end of the puzzle field you will receive a penalty.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/993850/header.jpg?t=1617321315",
+    "Price": 2.99,
+    "Developers": "shinryu",
+    "Publishers": "shinryu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/993850/ss_ef68679984a6395f4f962ed9618bcc042ad049e7.1920x1080.jpg?t=1617321315,https://cdn.akamai.steamstatic.com/steam/apps/993850/ss_e6dccf0352ce9cadb8e21a7b645ebee6c8ca0ddb.1920x1080.jpg?t=1617321315,https://cdn.akamai.steamstatic.com/steam/apps/993850/ss_e66fc72cb917931d8153c85ccd7764748b460fc5.1920x1080.jpg?t=1617321315,https://cdn.akamai.steamstatic.com/steam/apps/993850/ss_a93109c889c2171f922da1026e60abd560b3b324.1920x1080.jpg?t=1617321315,https://cdn.akamai.steamstatic.com/steam/apps/993850/ss_3d21cc199a97bced79c5387d9cd4b29c6278d92d.1920x1080.jpg?t=1617321315",
+    "Slug": "tsukumono",
+    "Meta Title": "Tsukumono / つくもの / 付者: Jan 3, 2019, shinryu and Full Over...",
+    "Meta Description": "Looking for information on Tsukumono / つくもの / 付者? Check out the release date (Jan 3, 2019), developer insights from shinryu, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tsukumono / つくもの / 付者 game - Steam 993850",
+    "Canonical URL": "https://gusku.site/game/tsukumono",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tsukumono / \\u3064\\u304f\\u3082\\u306e / \\u4ed8\\u8005\", \"description\": \"Looking for information on Tsukumono / \\u3064\\u304f\\u3082\\u306e / \\u4ed8\\u8005? Check out the release date (Jan 3, 2019), developer insights from shinryu, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 3, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"shinryu\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"shinryu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/993850/header.jpg?t=1617321315\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

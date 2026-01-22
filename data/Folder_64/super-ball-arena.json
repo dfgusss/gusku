@@ -1,0 +1,21 @@
+{
+    "AppID": 2136450,
+    "Name": "Super Ball Arena",
+    "Release date": "Sep 17, 2022",
+    "About the game": "Multiplayer ‘couch game’ that can be played up to 4 players, gamepads are required to play locally. The primary purpose is to defeat others by hitting a ball so that it collides with the target, inflicting damage in the process. Each player has the ability to attack, dash and block, some actions require energy to be used. The attack can be held to increase its power, but there is also the possibility of using energy tokens to reach the full charge instantly. When played with the joystick, the left stick is used for movement and the right stick is used for aiming. There are also several special interactions to spice things up. For example, blocking a ball only reduces the damage, but doing it with a perfect timing will catch the ball and restore the energy token to the receiver. This project is still early in development and I am currently working on: -Online multiplayer (Photon PUN) -Several power-ups that players can use. -New game modes",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2136450/header.jpg?t=1663407768",
+    "Price": 0.0,
+    "Developers": "Infern",
+    "Publishers": "Infern",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2136450/ss_f71e599d5ebd62c30d03bc5a42adb9673c53be7d.1920x1080.jpg?t=1663407768,https://cdn.akamai.steamstatic.com/steam/apps/2136450/ss_2049df2aed6d7464dcc6c86c046c0068ef8bcf6d.1920x1080.jpg?t=1663407768,https://cdn.akamai.steamstatic.com/steam/apps/2136450/ss_55ce31dc9105b9a8e73fbe74e018306156f61686.1920x1080.jpg?t=1663407768,https://cdn.akamai.steamstatic.com/steam/apps/2136450/ss_c172ceb241d4474fabdd602aba94e5e9ddbbedeb.1920x1080.jpg?t=1663407768,https://cdn.akamai.steamstatic.com/steam/apps/2136450/ss_286ed0fe972657ab6864b103b7e9d3520f858b95.1920x1080.jpg?t=1663407768,https://cdn.akamai.steamstatic.com/steam/apps/2136450/ss_7bb8b337b0e42d80c3ad87244c0a7b4709b87a31.1920x1080.jpg?t=1663407768",
+    "Slug": "super-ball-arena",
+    "Meta Title": "Super Ball Arena: Sep 17, 2022, Infern and Full Overview",
+    "Meta Description": "Looking for information on Super Ball Arena? Check out the release date (Sep 17, 2022), developer insights from Infern, and a complete game summary.",
+    "Alt Text Image": "Official header image for Super Ball Arena game - Steam 2136450",
+    "Canonical URL": "https://gusku.site/game/super-ball-arena",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Super Ball Arena\", \"description\": \"Looking for information on Super Ball Arena? Check out the release date (Sep 17, 2022), developer insights from Infern, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Infern\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Infern\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2136450/header.jpg?t=1663407768\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

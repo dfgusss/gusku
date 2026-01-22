@@ -1,0 +1,21 @@
+{
+    "AppID": 1046770,
+    "Name": "Juice FX",
+    "Release date": "Mar 26, 2019",
+    "About the game": "EASILY CREATE JUICY ANIMATIONS Add any animation to your sprite to make them juicy! WHAT IS JUICE FX? Juice FX allows you to easily create in a matter of minutes ( usually even seconds ) beautiful animations for your sprites. Flash, Scale, Skew, Shake, Wobble, Jump, Wave, Outline, Dissolve the options are endless. FEATURES Add style to your sprites and animations with ease. Use the included presets to have some quick results. Change X/Y scale with damping and speed sliders. Skew and rotate the sprite with speed and damping. Quickly change between 'Pixel Art' and 'HD' to fulfill your needs. Change the origin of the sprites to perform different animations. Add color flash and screenshake. Over time effects including: wobbling, jumping and wave distortion. Use different layers and images to perform more complex. Add outline and blend/tint to the sprites. Save and load your own presets. Export your animations into a spritesheet, .GIF or export it by single frames. 128x128 max. Tool in continuous development, new features will be added over time.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1046770/header.jpg?t=1640118798",
+    "Price": 19.99,
+    "Developers": "CodeManu,Davit Masia",
+    "Publishers": "CodeManu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1046770/ss_e9d360162b6385a615f4ee0c519a4470bfcc350b.1920x1080.jpg?t=1640118798,https://cdn.akamai.steamstatic.com/steam/apps/1046770/ss_cc1fe75ca6e35e7bdd7057ae30543e48e54549f9.1920x1080.jpg?t=1640118798,https://cdn.akamai.steamstatic.com/steam/apps/1046770/ss_00af49f547c60effb46d07ae4027725af8ec11be.1920x1080.jpg?t=1640118798,https://cdn.akamai.steamstatic.com/steam/apps/1046770/ss_860ffce9bc42064fef9dda569063889b0090d508.1920x1080.jpg?t=1640118798,https://cdn.akamai.steamstatic.com/steam/apps/1046770/ss_ef15894a98386a4b28a7aea7b41041c22a3606fc.1920x1080.jpg?t=1640118798",
+    "Slug": "juice-fx",
+    "Meta Title": "Juice FX: Mar 26, 2019, CodeManu,Davit Masia and Full Ove...",
+    "Meta Description": "Looking for information on Juice FX? Check out the release date (Mar 26, 2019), developer insights from CodeManu,Davit Masia, and a complete game summary.",
+    "Alt Text Image": "Official header image for Juice FX game - Steam 1046770",
+    "Canonical URL": "https://gusku.site/game/juice-fx",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Juice FX\", \"description\": \"Looking for information on Juice FX? Check out the release date (Mar 26, 2019), developer insights from CodeManu,Davit Masia, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 26, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"CodeManu,Davit Masia\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CodeManu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1046770/header.jpg?t=1640118798\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

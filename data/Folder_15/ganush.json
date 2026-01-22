@@ -1,0 +1,21 @@
+{
+    "AppID": 983190,
+    "Name": "GANUSH",
+    "Release date": "Dec 5, 2018",
+    "About the game": "This is a puzzle game that uses the addition. A tile vanishes when match it with a target. It is cleared when erase all the tiles. Features: - It's easy to play by simple addition - Many exciting, brain-tickiling levels - Simple, addictive gameplay that's easy to learn, but hard to master We hope you enjoy it!!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/983190/header.jpg?t=1544063961",
+    "Price": 0.99,
+    "Developers": "CODE Co., Ltd.",
+    "Publishers": "CODE Co., Ltd.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/983190/ss_885caa2ea92a4b4353c167251ba4f36f273d1cb7.1920x1080.jpg?t=1544063961,https://cdn.akamai.steamstatic.com/steam/apps/983190/ss_bb6ccb0bbeb0b76019a4a030e61dc934f8d25ee0.1920x1080.jpg?t=1544063961,https://cdn.akamai.steamstatic.com/steam/apps/983190/ss_a70c717cb0fdd56fb5dcbeb04b8388f1047288de.1920x1080.jpg?t=1544063961,https://cdn.akamai.steamstatic.com/steam/apps/983190/ss_d52d0192c3c8246c7cddf9c4dcf58a7b007fc60d.1920x1080.jpg?t=1544063961,https://cdn.akamai.steamstatic.com/steam/apps/983190/ss_b8d83a365fd28fca723b5e6646a9d0330d9324b1.1920x1080.jpg?t=1544063961",
+    "Slug": "ganush",
+    "Meta Title": "GANUSH: Dec 5, 2018, CODE Co., Ltd. and Full Overview",
+    "Meta Description": "Looking for information on GANUSH? Check out the release date (Dec 5, 2018), developer insights from CODE Co., Ltd., and a complete game summary.",
+    "Alt Text Image": "Official header image for GANUSH game - Steam 983190",
+    "Canonical URL": "https://gusku.site/game/ganush",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GANUSH\", \"description\": \"Looking for information on GANUSH? Check out the release date (Dec 5, 2018), developer insights from CODE Co., Ltd., and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 5, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"CODE Co., Ltd.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CODE Co., Ltd.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/983190/header.jpg?t=1544063961\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

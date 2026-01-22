@@ -1,0 +1,21 @@
+{
+    "AppID": 1654330,
+    "Name": "AudioSpace",
+    "Release date": "Jun 30, 2021",
+    "About the game": "AudioSpace brings music visualization to a new level and to new venues, from home use to live stages. Enjoy it on your desktop PC or project it on a wall as a next-level party decoration, stream your audiovisual art performances, or get immersed in VR. Built from ground up to fully utilize the computing power of modern PCs, it provides unparalleled visual fidelity enabled by Unreal Engine. You'll be located in a virtual room that orbits a planet/star of your choice. On the walls of the room you may choose to display vectorscopes, phase wheels, spectrum columns, spectrograms and waveforms. Inside the room and in the surrounding space you have a selection of unique 3D visualization elements that you may combine and configure to your liking. Sound moves and shapes the elements, particles dance to the rhythm. Chill out watching the auroras, fly over rolling wavescapes, or engage full speed into a warp tunnel. Freely configurable scene presets can be instantly selected with keyboard or set to change at random (or in order) when silence is detected between tracks. Randomization can also be activated for visualization parameters and color palettes. Virtual Reality is supported through SteamVR; reference hardware is Pimax 5K Plus with Valve Index controllers (finger tracking included), but any SteamVR compatible VR headset should work. Controller support is readily available for Windows Mixed Reality and Oculus Touch, but can be customized and expanded via SteamVR Input. In VR, music and visualization can come together in a wonderful way. Nowhere else does one have the freedom to see absolutely anything, only limit is the imagination. AudioSpace puts this freedom into good use and creates an unprecedented way of experiencing music. Enjoy!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1654330/header.jpg?t=1652099622",
+    "Price": 10.79,
+    "Developers": "Ferrit",
+    "Publishers": "Ferrit",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1654330/ss_df6cb7815f9d206384a9f717bc2f9cef79dc89d0.1920x1080.jpg?t=1652099622,https://cdn.akamai.steamstatic.com/steam/apps/1654330/ss_b874270f25b1f37fc3c71ee65e094ae35a19888c.1920x1080.jpg?t=1652099622,https://cdn.akamai.steamstatic.com/steam/apps/1654330/ss_37cb35dcdb35dc473e65d652a97d5dad38135e41.1920x1080.jpg?t=1652099622,https://cdn.akamai.steamstatic.com/steam/apps/1654330/ss_44f408bfddbbf96b959a985bc088ea13ea14a985.1920x1080.jpg?t=1652099622,https://cdn.akamai.steamstatic.com/steam/apps/1654330/ss_e663488c53d4d9ba63f4f9e49c486e7bcd089e46.1920x1080.jpg?t=1652099622",
+    "Slug": "audiospace",
+    "Meta Title": "AudioSpace: Jun 30, 2021, Ferrit and Full Overview",
+    "Meta Description": "Looking for information on AudioSpace? Check out the release date (Jun 30, 2021), developer insights from Ferrit, and a complete game summary.",
+    "Alt Text Image": "Official header image for AudioSpace game - Steam 1654330",
+    "Canonical URL": "https://gusku.site/game/audiospace",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"AudioSpace\", \"description\": \"Looking for information on AudioSpace? Check out the release date (Jun 30, 2021), developer insights from Ferrit, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ferrit\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ferrit\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1654330/header.jpg?t=1652099622\", \"offers\": {\"@type\": \"Offer\", \"price\": 10.79, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

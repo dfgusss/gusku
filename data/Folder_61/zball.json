@@ -1,0 +1,21 @@
+{
+    "AppID": 1399740,
+    "Name": "Zball",
+    "Release date": "Sep 3, 2020",
+    "About the game": "Zball is a physics puzzle game. The goal is always the same - deliver the green ball to the green platform, but the ways change. Blocks can have different properties, some are destroyed when colliding with other objects or from an explosion, some are monolithic but mobile, some moves the green ball. Usually there is no specific algorithm of actions, you should rely only on your intuition to solve the problem. Every new level is more difficult. Some require dexterity and reaction, some will require patience and caution, others will make you think about the sequence of actions. You can see how to interact with an object by the color of the block. For example, green is the main ball, and you need to deliver it to the platform of the corresponding color. Yellow reacts to explosions from mouse clicks. Blue objects are destroyed when they collide with yellow ones. Blue ones are not destructible, but they can be moved by yellow objects. Red breaks down from the explosion… Gradually you will understand how the system works and will be able to pass all levels Exciting gameplay will not let you get bored! To the victory! Game Features: 40 levels Physics-related puzzles Challenging levels Nice casual gameplay",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1399740/header.jpg?t=1658770548",
+    "Price": 1.99,
+    "Developers": "334Sgame",
+    "Publishers": "Garage Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1399740/ss_63a4c99b42ff32308c9b254e6be418ee0fcbc73d.1920x1080.jpg?t=1658770548,https://cdn.akamai.steamstatic.com/steam/apps/1399740/ss_fe0f41791c9b4587b72778401f1b997daff42db8.1920x1080.jpg?t=1658770548,https://cdn.akamai.steamstatic.com/steam/apps/1399740/ss_ce496cc924be0f2795b98c5ccb9446f6bbf100ae.1920x1080.jpg?t=1658770548,https://cdn.akamai.steamstatic.com/steam/apps/1399740/ss_b3ede173ffa33841ccec998b68f586f95018de31.1920x1080.jpg?t=1658770548,https://cdn.akamai.steamstatic.com/steam/apps/1399740/ss_d57b2da6fe140e482d04865a3a5591b6f6443664.1920x1080.jpg?t=1658770548,https://cdn.akamai.steamstatic.com/steam/apps/1399740/ss_9d1ddb23fddc9d17ba3d71fc42958fec46911f16.1920x1080.jpg?t=1658770548",
+    "Slug": "zball",
+    "Meta Title": "Zball: Sep 3, 2020, 334Sgame and Full Overview",
+    "Meta Description": "Looking for information on Zball? Check out the release date (Sep 3, 2020), developer insights from 334Sgame, and a complete game summary.",
+    "Alt Text Image": "Official header image for Zball game - Steam 1399740",
+    "Canonical URL": "https://gusku.site/game/zball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Zball\", \"description\": \"Looking for information on Zball? Check out the release date (Sep 3, 2020), developer insights from 334Sgame, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 3, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"334Sgame\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Garage Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1399740/header.jpg?t=1658770548\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

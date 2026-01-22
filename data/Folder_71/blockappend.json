@@ -1,0 +1,21 @@
+{
+    "AppID": 2249120,
+    "Name": "Blockappend",
+    "Release date": "Mar 1, 2023",
+    "About the game": "A 3D isometric puzzle game where you create shapes by appending blocks together. When you flip a block next to a potential block, the potential block lights up and they move as one unit. Progress through the levels and find new and interesting ways to move these little blocks! Like this white block that bounces you off if you try to flip onto it. Or this black block that destroys the tile it touches.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2249120/header.jpg?t=1677672217",
+    "Price": 7.19,
+    "Developers": "Rupour",
+    "Publishers": "Rupour",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2249120/ss_73920d97ce056ec94a99c6397bef8dd717f89571.1920x1080.jpg?t=1677672217,https://cdn.akamai.steamstatic.com/steam/apps/2249120/ss_b02bee978d1eb27088daba524b84c509664ec1d5.1920x1080.jpg?t=1677672217,https://cdn.akamai.steamstatic.com/steam/apps/2249120/ss_e753fab6d6311ad2d3e3b712f2e14e7aeacc8c0c.1920x1080.jpg?t=1677672217,https://cdn.akamai.steamstatic.com/steam/apps/2249120/ss_786bc92a62eb287436a24203c2feb40405c08fe5.1920x1080.jpg?t=1677672217,https://cdn.akamai.steamstatic.com/steam/apps/2249120/ss_e9f34c31890e76cf5332009c50e9987dc09858df.1920x1080.jpg?t=1677672217,https://cdn.akamai.steamstatic.com/steam/apps/2249120/ss_2479725ae376b4094e6b31181d2c8467166b2e14.1920x1080.jpg?t=1677672217,https://cdn.akamai.steamstatic.com/steam/apps/2249120/ss_256e098f579b5872aa67d7fb689fc438ef2756bd.1920x1080.jpg?t=1677672217",
+    "Slug": "blockappend",
+    "Meta Title": "Blockappend: Mar 1, 2023, Rupour and Full Overview",
+    "Meta Description": "Looking for information on Blockappend? Check out the release date (Mar 1, 2023), developer insights from Rupour, and a complete game summary.",
+    "Alt Text Image": "Official header image for Blockappend game - Steam 2249120",
+    "Canonical URL": "https://gusku.site/game/blockappend",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Blockappend\", \"description\": \"Looking for information on Blockappend? Check out the release date (Mar 1, 2023), developer insights from Rupour, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 1, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rupour\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rupour\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2249120/header.jpg?t=1677672217\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.19, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

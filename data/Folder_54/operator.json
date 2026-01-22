@@ -1,0 +1,21 @@
+{
+    "AppID": 1358830,
+    "Name": "Operator",
+    "Release date": "Aug 5, 2020",
+    "About the game": "The game Operator is a minimalistic elevator strategy game. You start out with an empty building. Passengers appear randomly in every floor. Your job is to get them to their final destination on time before the floor gets too crowded and the passengers stress out. As time passes, more floors are added to the building, increasing the game complexity. You can pause the game at any time to plan your travel strategy. At the end of every day, you get to pick a power-up to use on your next day (faster elevator, faster passenger boarding/unboarding, higher elevator capacity, etc.). Each day lasts for about 1 minute or so. Development Operator is being developed as a 1 person side-project using the Godot game engine. I played a bit with the art style, from cartoonish, to futuristic neon-styles, but ultimately landed on this minimalistic look &amp; feel, as it also allowed me to make progress quickly. There are some sound effects and background music, but it's something that needs to be improved further. Feedback Development is still in progress, and I hope to update this game on a weekly basis. Feedback on the graphics, game play, fun factor, etc is very much appreciated. Thanks for checking it out!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1358830/header.jpg?t=1598278736",
+    "Price": 0.0,
+    "Developers": "30 Matches",
+    "Publishers": "30 Matches",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1358830/ss_20a836274b955756bfc91410c54904e8a807cb88.1920x1080.jpg?t=1598278736,https://cdn.akamai.steamstatic.com/steam/apps/1358830/ss_21dc4986399f8829723d0cb96e66d37a6870e334.1920x1080.jpg?t=1598278736,https://cdn.akamai.steamstatic.com/steam/apps/1358830/ss_12634f6dc8a94d22759afc52bb15ff7bfab4fa68.1920x1080.jpg?t=1598278736,https://cdn.akamai.steamstatic.com/steam/apps/1358830/ss_73df4da8f4940223ee9c9319856f943a7600aeed.1920x1080.jpg?t=1598278736,https://cdn.akamai.steamstatic.com/steam/apps/1358830/ss_0572d8f0d9b2df68b268de68aaee783b8d515edb.1920x1080.jpg?t=1598278736,https://cdn.akamai.steamstatic.com/steam/apps/1358830/ss_3580446e8a99311df9b13fd998484ec57cf9889d.1920x1080.jpg?t=1598278736,https://cdn.akamai.steamstatic.com/steam/apps/1358830/ss_67e3da0b0cba939d416acf0aafc4bed1ca60470e.1920x1080.jpg?t=1598278736,https://cdn.akamai.steamstatic.com/steam/apps/1358830/ss_06f2e299eb787c2ceb26444333a05298fa87acac.1920x1080.jpg?t=1598278736,https://cdn.akamai.steamstatic.com/steam/apps/1358830/ss_81b975302c1365a0a5028952b9eb6d27b1863af8.1920x1080.jpg?t=1598278736",
+    "Slug": "operator",
+    "Meta Title": "Operator: Aug 5, 2020, 30 Matches and Full Overview",
+    "Meta Description": "Looking for information on Operator? Check out the release date (Aug 5, 2020), developer insights from 30 Matches, and a complete game summary.",
+    "Alt Text Image": "Official header image for Operator game - Steam 1358830",
+    "Canonical URL": "https://gusku.site/game/operator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Operator\", \"description\": \"Looking for information on Operator? Check out the release date (Aug 5, 2020), developer insights from 30 Matches, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 5, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"30 Matches\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"30 Matches\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1358830/header.jpg?t=1598278736\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2191270,
+    "Name": "Ease Out",
+    "Release date": "Nov 17, 2022",
+    "About the game": "Overview Ease Out is a rhythm game that is inspired by the traditional multiple-track rhythm game, with a feature of track fading as the main gameplay. Game Feature Track Easing Out In this game, the track will fade away while you play, and the note will shift to neighboring tracks. Eventually, all the tracks will fade, and the game will end. So with the fading of the track, the game will become easier... will it? Fixed key, but not fixed track Rather than the original binding keys with tracks, every color of note in the game has a binding key with it. When the note falls onto the track, you should press the key for the corresponding color but not the corresponding track. Good news for low BPM song! Level Editor With the powerful level editor built by the almost-bald programmer, we now support converting Malody charts to Ease Out! Thanks to the powerful function of Godot Engine, we can now present both financially and spiritually free level editor to you! With the powerful editor, you may create astonishing effects for your chart and share your level with other players! Note: the Level editor and Steam Workshop function will be released in the future. Have suggestions? You are more than welcomed to post them! Official Discord:",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2191270/header.jpg?t=1668990354",
+    "Price": 0.0,
+    "Developers": "ON Gaming Studio",
+    "Publishers": "ON Gaming Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2191270/ss_02acd59e78de12cb75e366b2fa29696c767049c6.1920x1080.jpg?t=1668990354,https://cdn.akamai.steamstatic.com/steam/apps/2191270/ss_39ebb66b40165d088ab3bdd64b53bc0f8f9fa196.1920x1080.jpg?t=1668990354,https://cdn.akamai.steamstatic.com/steam/apps/2191270/ss_a7f96e34f6d9d5bcb4865663b156c9dab1d83f96.1920x1080.jpg?t=1668990354,https://cdn.akamai.steamstatic.com/steam/apps/2191270/ss_4f9a766d2425ebd212104c081d59b47a94e1cb4b.1920x1080.jpg?t=1668990354,https://cdn.akamai.steamstatic.com/steam/apps/2191270/ss_ac397ead478f25476af99cf1fc3f3774cac12326.1920x1080.jpg?t=1668990354,https://cdn.akamai.steamstatic.com/steam/apps/2191270/ss_63723c87fa35b004412961901ab2dbbd462321b7.1920x1080.jpg?t=1668990354",
+    "Slug": "ease-out",
+    "Meta Title": "Ease Out: Nov 17, 2022, ON Gaming Studio and Full Overview",
+    "Meta Description": "Looking for information on Ease Out? Check out the release date (Nov 17, 2022), developer insights from ON Gaming Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ease Out game - Steam 2191270",
+    "Canonical URL": "https://gusku.site/game/ease-out",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ease Out\", \"description\": \"Looking for information on Ease Out? Check out the release date (Nov 17, 2022), developer insights from ON Gaming Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"ON Gaming Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ON Gaming Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2191270/header.jpg?t=1668990354\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 375870,
+    "Name": "SLIDE: platformer",
+    "Release date": "Jul 16, 2015",
+    "About the game": "In some platformers you die a lot. Not because you are being killed by things you could not possibly know - you perfectly know what's what but you still can't pull off the moves. In some platformers you spend 10 minutes on a level that can be passed in under 15 seconds. You might look at SLIDE's footage and think that it's an easy game. But you would be wrong. SLIDE is a hardcore 2d platformer where you run, jump and (often) die. No enemies, no blowing stuff up. What makes this game stand out - for better or worse - is a system of contextual jumps which allows to perform dozens of jumps simply by combining direction keys with the 'jump'. You can even jump down. This feature not only makes for a unique paltforming experience but also adds a puzzle element where you need to figure out what jumps are available to you and which ones to perform in certain situations.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/375870/header.jpg?t=1457795276",
+    "Price": 4.99,
+    "Developers": "APAS games",
+    "Publishers": "APAS games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/375870/ss_8ffd19516cf9b96ecad4ea23c0342c2db111e375.1920x1080.jpg?t=1457795276,https://cdn.akamai.steamstatic.com/steam/apps/375870/ss_6daf351f6215c3873de6aa6f44a27940e6d27265.1920x1080.jpg?t=1457795276,https://cdn.akamai.steamstatic.com/steam/apps/375870/ss_54b53f380ecbd02122b5388a4edf9f3079a034eb.1920x1080.jpg?t=1457795276,https://cdn.akamai.steamstatic.com/steam/apps/375870/ss_42c559212de60f4777163e2e34e05483a72412be.1920x1080.jpg?t=1457795276,https://cdn.akamai.steamstatic.com/steam/apps/375870/ss_da52a5bffd072c5124a8240590eb32d70ee8d15a.1920x1080.jpg?t=1457795276,https://cdn.akamai.steamstatic.com/steam/apps/375870/ss_8e2e2b389fed875d2cfd4af2fd0e8e7e877a79a6.1920x1080.jpg?t=1457795276",
+    "Slug": "slide-platformer",
+    "Meta Title": "SLIDE: platformer: Jul 16, 2015, APAS games and Full Over...",
+    "Meta Description": "Looking for information on SLIDE: platformer? Check out the release date (Jul 16, 2015), developer insights from APAS games, and a complete game summary.",
+    "Alt Text Image": "Official header image for SLIDE: platformer game - Steam 375870",
+    "Canonical URL": "https://gusku.site/game/slide-platformer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SLIDE: platformer\", \"description\": \"Looking for information on SLIDE: platformer? Check out the release date (Jul 16, 2015), developer insights from APAS games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 16, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"APAS games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"APAS games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/375870/header.jpg?t=1457795276\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

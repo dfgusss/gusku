@@ -1,0 +1,21 @@
+{
+    "AppID": 691220,
+    "Name": "Parkour",
+    "Release date": "Sep 2, 2017",
+    "About the game": "Parkour is a runner game with tons of challenges. Your objective is simple - try to run as far as possible. The levels are randomly generated. The difficulty increases as you run farther. Lava, monsters, powerups &amp; your quick 'decision making' will change your fate. Features : - Randomly generated chunks - Powerups (speed, points, invincibility, health) - Various obstacles (lava, spikes, monsters) - Different levels can be explored as you run farther - Achievements &amp; leaderboard (Google Play, Steam)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/691220/header.jpg?t=1504363079",
+    "Price": 0.99,
+    "Developers": "Mubeat Studio",
+    "Publishers": "Mubeat Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/691220/ss_5f277753d9410280dce3a5fa88023114201d3674.1920x1080.jpg?t=1504363079,https://cdn.akamai.steamstatic.com/steam/apps/691220/ss_bfbc8f91fe5137b1315f67fccf3da01508f95cc9.1920x1080.jpg?t=1504363079,https://cdn.akamai.steamstatic.com/steam/apps/691220/ss_27430b13338f3122d398eeb91a039721baca1fa9.1920x1080.jpg?t=1504363079,https://cdn.akamai.steamstatic.com/steam/apps/691220/ss_b8cb5873a1a7d3283c8f7eb6e40a521c60ed3fbc.1920x1080.jpg?t=1504363079,https://cdn.akamai.steamstatic.com/steam/apps/691220/ss_6c9420d14a66e7589a800ea8e5fc582037cacaa1.1920x1080.jpg?t=1504363079,https://cdn.akamai.steamstatic.com/steam/apps/691220/ss_0b7e1334fe3dc387b9ce640004369b4b7e57a6d8.1920x1080.jpg?t=1504363079",
+    "Slug": "parkour",
+    "Meta Title": "Parkour: Sep 2, 2017, Mubeat Studio and Full Overview",
+    "Meta Description": "Looking for information on Parkour? Check out the release date (Sep 2, 2017), developer insights from Mubeat Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Parkour game - Steam 691220",
+    "Canonical URL": "https://gusku.site/game/parkour",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Parkour\", \"description\": \"Looking for information on Parkour? Check out the release date (Sep 2, 2017), developer insights from Mubeat Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 2, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mubeat Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mubeat Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/691220/header.jpg?t=1504363079\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1043240,
+    "Name": "Touhou Kishinjou ~ Double Dealing Character.",
+    "Release date": "Jun 18, 2019",
+    "About the game": "ゲームの進め方 敵弾に当たらないように避けて、敵を撃破するゲームです。 各ステージの最後にはボスが居ますので、それをやっつけると ステージクリアです。 そう、当たらなければ良いのです。 ストーリー 　付喪神化したのだろうか、お祓い棒が勝手に動き出した。 　霊夢は神職者の手前、このような妖しい出来事は忌み嫌うべき だと考えているが、便利なので放置してしまった。 　いつしかお祓い棒の事は、他の人には内緒にするようになった。 　 　しかし時は来る。 　空に広がる不安の雲。 　今まで大人しくしていた妖怪達が各所で暴れ始めたのだ。 　 　平和ボケしていた霊夢にも、ついに大きな異変が起こり始めた のだと感じさせた。 　霊夢は武器を手にこれらを征さねばならない。 　しかし、武器は付喪神化してしまっている。 　果たして大丈夫なのだろうか。 操作方法 ・上下左右　　　　　　 　 自機の操作 ・SHOTキー（Zキー）　　 ショット ・SPECIALキー（Xキー)　　スペルカード（回数制限有り） ・SLOWキー（Shiftキー）　低速移動 ・PAUSEキー（Escキー） 　ポーズ ＊特殊操作 　・メッセージのスキップ　　SHOTボタン押しっぱなし 　・高速リトライ　　　　　　ポーズ画面でRキー 　・スナップショット　　　　Pキー 　・ウィンドウ、フルスクリーン切替　　Alt+Enter 画面表示物 　・残り人数　　　ミスできる回数です 　　（かけら）　かけらが十分集まると残り人数が１増えます。 　・スペルカード　使用できるスペルカードの回数です。 　　（かけら）　かけらが十分集まると回数が１増えます。 　 　・霊力　　　　　ショットのパワーです。 　・最大得点　　　得点アイテムの最大得点です。 　・グレイズ　　　敵弾にかすった回数です。 アイテム Ｐ　霊力アップアイテム 　　沢山出ます 点　得点アイテム 　　画面上部で取るほど点数が高い ＊画面上部に自機を持っていくと自動的に回収出来ます。 同時に大量取得でボーナスが付きます。 点（緑）得点アイテムの最大点を引き上げます。 　　　　敵弾を消したり、低速移動ショットを当てると 　　　　出現する丸いアイテムです。 　　　　自動回収されます。 超重要！　攻略のかけらを集めよう 　ステージが進むにつれて敵の攻撃は熾烈になる一方です。 　全部、避けるだけでは攻略できないかも知れません。 　しかし、 「命のかけら」 と 「スペルカードのかけら」 を 大量に効率よく出すことが攻略の鍵となります。 かけらの出し方 ・アイテムを画面上部で（もしくはスペルカードで） 同時に沢山取る とボーナスが付く事があります。 ボーナスの度に「スペルカードのかけら」が出ます。 　＊命のかけらの出る条件 　　・１ステージでのボーナスの回数が一定数以上になる 　　・最高倍率（Ｘ２）のボーナスを出す 特殊なシステム 　・高速時ショットを敵に当てるとＰアイテム 　　低速時ショットを敵に当てると点（緑）アイテムが出ます。 　　（フルパワーアップ時は高速ショットでも点（緑）が 　　　出ます） 　・スペルカードを初期値以上持った状態でミスをすると 　　初期値に戻されてしまいます。 　　スペルカードは積極的に使っていきましょう。 　　各キャラには以下の特技があります。 　　　　　博麗　霊夢　　当たり判定が僅かに小さい 　　　　　霧雨　魔理沙　僅かに低い位置でアイテム回収出来る 　　　　　十六夜　咲夜　アイテムの落下速度が僅かに遅い 　・咲夜の「銀色のアナザーディメンジョン」はバリアです。 　　一定時間で消えてしまう代わりに、被弾しなければ 　　「スペルカードのかけら」が３個手に入ります。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1043240/header.jpg?t=1562315011",
+    "Price": 14.99,
+    "Developers": "上海アリス幻樂団",
+    "Publishers": "Mediascape Co., Ltd.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1043240/ss_35c604abff29d0aeb8cfceb2f89b2496fcd8a9e3.1920x1080.jpg?t=1562315011,https://cdn.akamai.steamstatic.com/steam/apps/1043240/ss_24009ff27e2b391bd5ca70146fc1be2590d63a0a.1920x1080.jpg?t=1562315011,https://cdn.akamai.steamstatic.com/steam/apps/1043240/ss_e96a330a69670beaf1258ce60a871386b7dd0b62.1920x1080.jpg?t=1562315011,https://cdn.akamai.steamstatic.com/steam/apps/1043240/ss_e8032adca56655a10a23ea70b80c77e076135fb9.1920x1080.jpg?t=1562315011,https://cdn.akamai.steamstatic.com/steam/apps/1043240/ss_e67e8ba19a6c6fe090bd0579ba367e3ac8276a5e.1920x1080.jpg?t=1562315011",
+    "Slug": "touhou-kishinjou-double-dealing-character",
+    "Meta Title": "Touhou Kishinjou ~ Double Dealing Character.: Jun 18, 201...",
+    "Meta Description": "Looking for information on Touhou Kishinjou ~ Double Dealing Character.? Check out the release date (Jun 18, 2019), developer insights from 上海アリス幻樂団, an...",
+    "Alt Text Image": "Official header image for Touhou Kishinjou ~ Double Dealing Character. game - Steam 1043240",
+    "Canonical URL": "https://gusku.site/game/touhou-kishinjou-double-dealing-character",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Touhou Kishinjou ~ Double Dealing Character.\", \"description\": \"Looking for information on Touhou Kishinjou ~ Double Dealing Character.? Check out the release date (Jun 18, 2019), developer insights from \\u4e0a\\u6d77\\u30a2\\u30ea\\u30b9\\u5e7b\\u6a02\\u56e3, an...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 18, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u4e0a\\u6d77\\u30a2\\u30ea\\u30b9\\u5e7b\\u6a02\\u56e3\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mediascape Co., Ltd.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1043240/header.jpg?t=1562315011\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

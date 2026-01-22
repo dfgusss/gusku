@@ -1,0 +1,21 @@
+{
+    "AppID": 1591650,
+    "Name": "Go home, go home?",
+    "Release date": "May 19, 2021",
+    "About the game": "大家好，我們是來自東南科技大學數位遊戲設計系的學生！\\(๑╹◡╹๑)ﾉ♬ 我們製作了一款以 RPG 形式、包含解謎探索元素的冒險遊戲「Go home, go home?」 基本玩法如下： WASD 移動角色 QE 旋轉視角 ESC 開啟手機或選單 F 與物品互動 章節： 序章：誤入仙境 第一章：迷宮秘境 - 找出所有掛飾並前往下一張地圖 第二章：毛毛蟲的問答 - 正確回答謎題並前往下一張地圖 (解答可以在迷宮中找到) 第三章：被詛咒的派對 - 進入並完成槌球小遊戲 (由 1 號門打到 10 號門) 第四章：帶刺的玫瑰花 終章：最終審判",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1591650/header.jpg?t=1650249685",
+    "Price": 1.99,
+    "Developers": "比爾呷可頌",
+    "Publishers": "比爾呷可頌,Light of Creators",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1591650/ss_70a7043d3c916292f4a560c72e087b0347ed086d.1920x1080.jpg?t=1650249685,https://cdn.akamai.steamstatic.com/steam/apps/1591650/ss_7ab8842ebfdba9c9818b4a0a1878a1b67cbcbe9b.1920x1080.jpg?t=1650249685,https://cdn.akamai.steamstatic.com/steam/apps/1591650/ss_8516ea971a336f5d77a7ac8e1019425740b4d6a4.1920x1080.jpg?t=1650249685,https://cdn.akamai.steamstatic.com/steam/apps/1591650/ss_3c5617a930b1f996548d103aa5eaef5263e7bb5c.1920x1080.jpg?t=1650249685,https://cdn.akamai.steamstatic.com/steam/apps/1591650/ss_f1f51288398315703631d00f391ca3c0a153ad0e.1920x1080.jpg?t=1650249685",
+    "Slug": "go-home-go-home",
+    "Meta Title": "Go home, go home?: May 19, 2021, 比爾呷可頌 and Full Overview",
+    "Meta Description": "Looking for information on Go home, go home?? Check out the release date (May 19, 2021), developer insights from 比爾呷可頌, and a complete game summary.",
+    "Alt Text Image": "Official header image for Go home, go home? game - Steam 1591650",
+    "Canonical URL": "https://gusku.site/game/go-home-go-home",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Go home, go home?\", \"description\": \"Looking for information on Go home, go home?? Check out the release date (May 19, 2021), developer insights from \\u6bd4\\u723e\\u5477\\u53ef\\u980c, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u6bd4\\u723e\\u5477\\u53ef\\u980c\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u6bd4\\u723e\\u5477\\u53ef\\u980c,Light of Creators\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1591650/header.jpg?t=1650249685\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

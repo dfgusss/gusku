@@ -1,0 +1,21 @@
+{
+    "AppID": 2115260,
+    "Name": "Real Virtual Desktops",
+    "Release date": "Sep 19, 2022",
+    "About the game": "Real Virtual Desktops extends the Virtual Desktops feature in Windows allowing for different desktop icons and layouts on each desktop. You can use the beautifully designed RVD client or switch desktops right from the Windows UI! RVD even implements hotkeys to move open windows between desktops. Although not required, it is designed to work alongside Wallpaper Engine which also has Virtual Desktop support. Note: RVD does not support renaming desktops on Windows 10 but to make up for it we added the ability to have different wallpapers for different Virtual Desktops, a feature previously exclusive to Windows 11.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2115260/header.jpg?t=1663578068",
+    "Price": 3.99,
+    "Developers": "Productivity Systems",
+    "Publishers": "Productivity Systems",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2115260/ss_f8002595932bd2c3e37551394c9c417cb10b0503.1920x1080.jpg?t=1663578068,https://cdn.akamai.steamstatic.com/steam/apps/2115260/ss_35e03071a37f78959329a37aacc1df2aea0aa820.1920x1080.jpg?t=1663578068,https://cdn.akamai.steamstatic.com/steam/apps/2115260/ss_7cf8a3ae32b583972cdf0d38f2f5a40b47de14d5.1920x1080.jpg?t=1663578068,https://cdn.akamai.steamstatic.com/steam/apps/2115260/ss_3a12cf14d3efa4e9accda79a335e2ea64d9b3557.1920x1080.jpg?t=1663578068,https://cdn.akamai.steamstatic.com/steam/apps/2115260/ss_a3506801041486290eec842baf175a53a5fe884f.1920x1080.jpg?t=1663578068",
+    "Slug": "real-virtual-desktops",
+    "Meta Title": "Real Virtual Desktops: Sep 19, 2022, Productivity Systems...",
+    "Meta Description": "Looking for information on Real Virtual Desktops? Check out the release date (Sep 19, 2022), developer insights from Productivity Systems, and a complet...",
+    "Alt Text Image": "Official header image for Real Virtual Desktops game - Steam 2115260",
+    "Canonical URL": "https://gusku.site/game/real-virtual-desktops",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Real Virtual Desktops\", \"description\": \"Looking for information on Real Virtual Desktops? Check out the release date (Sep 19, 2022), developer insights from Productivity Systems, and a complet...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 19, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Productivity Systems\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Productivity Systems\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2115260/header.jpg?t=1663578068\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

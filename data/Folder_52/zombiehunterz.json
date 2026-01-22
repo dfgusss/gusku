@@ -1,0 +1,21 @@
+{
+    "AppID": 857700,
+    "Name": "ZombieHunterZ",
+    "Release date": "May 25, 2018",
+    "About the game": "GamePlay: Find guns around town. Kill zombies in town and try to survive as long as possible. Features: • FPS: ZombieHunterZ is a first person shooter • Guns: Find guns and ammo around town • Survive: Survive as long as possible in a town filled with zombies • Health: 1 hit and it's game over • HardCore: No save/load, no hp or armor ui, and no checkpoints • KillCount: Keep track of zombies killed • Playtime: Keeps track of your time played ingame",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/857700/header.jpg?t=1527241677",
+    "Price": 5.99,
+    "Developers": "crowgames",
+    "Publishers": "crowgames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/857700/ss_448f4ec72b741aa715f962447ecca76e97511c87.1920x1080.jpg?t=1527241677,https://cdn.akamai.steamstatic.com/steam/apps/857700/ss_f2483f678826fc371f1210b4e45f4fcc04fc5a85.1920x1080.jpg?t=1527241677,https://cdn.akamai.steamstatic.com/steam/apps/857700/ss_d42ddefa318719ebf483d811f8a40d570aae1a3f.1920x1080.jpg?t=1527241677,https://cdn.akamai.steamstatic.com/steam/apps/857700/ss_dfe78d5d8575c4a9a84ec1dfc77194443cf56f19.1920x1080.jpg?t=1527241677,https://cdn.akamai.steamstatic.com/steam/apps/857700/ss_5e19457ed502d70ad1f13c3dba8020547e456b6d.1920x1080.jpg?t=1527241677,https://cdn.akamai.steamstatic.com/steam/apps/857700/ss_4e7d8122738929e5757ea9dae6dded0ac83a3ac3.1920x1080.jpg?t=1527241677",
+    "Slug": "zombiehunterz",
+    "Meta Title": "ZombieHunterZ: May 25, 2018, crowgames and Full Overview",
+    "Meta Description": "Looking for information on ZombieHunterZ? Check out the release date (May 25, 2018), developer insights from crowgames, and a complete game summary.",
+    "Alt Text Image": "Official header image for ZombieHunterZ game - Steam 857700",
+    "Canonical URL": "https://gusku.site/game/zombiehunterz",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ZombieHunterZ\", \"description\": \"Looking for information on ZombieHunterZ? Check out the release date (May 25, 2018), developer insights from crowgames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 25, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"crowgames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"crowgames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/857700/header.jpg?t=1527241677\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

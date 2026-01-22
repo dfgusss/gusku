@@ -1,0 +1,21 @@
+{
+    "AppID": 1771830,
+    "Name": "毛蟹穴",
+    "Release date": "Oct 20, 2021",
+    "About the game": "文化連結 毛蟹穴這個遊戲是改編自清朝嘉慶年間，臺中沙鹿地區活人陪葬真實事件，並加入愛情和復仇的劇情讓遊戲更豐富，結合臺灣傳統技藝皮影戲作為美術風格製作出這個遊戲，為此我們在製作過程中特別訪談了國內皮影戲專家黃興武老師，瞭解了皮影戲在臺灣的特色及發展，並實地訪查了林家花園、摘星山莊等古蹟，以在遊戲中展現清朝嘉慶年間的建築及文物風格。 遊戲類型 遊戲的類型採用2D橫向捲軸的解謎遊戲，利用調查及對話解決遊戲事件，中間加入了煎藥及抓雞的小遊戲，增添遊戲趣味性。我們遊戲劇本共分為五個章節，作為學生專題，我們把第一章的故事完整開發完成，遊戲時間約為40分鐘。整體的遊戲運行只需用到滑鼠左鍵，不需要用到鍵盤或其他按鍵，這點是方便將來移植手機時可以直接使用單點操控，減少移植不同平台的困難度。 視覺技術 遊戲的風格部份，我們採用臺灣皮影戲的視覺呈現，為了在電腦螢幕中達到皮影戲的質感，我們利用遊戲引擎的2D即時光源，並且加入光暈特效，加以調控並進行多種嘗試，終於在遊戲中營造出皮影戲微微過曝的特殊視覺體驗，並在某些場景中使用多層背景捲軸，讓平面的2D遊戲場景產生出深度感。 桿影特效 桿影是皮影戲的一項特色，因為皮影戲是利用木桿在布幕後進行操控，透過燈光將影偶打在布幕上時，同時也會將操控桿的影子投射在布幕上，因此會形成特殊的桿影，我們利用了程式和shader模擬出栩栩如生的桿影特效，讓遊戲過程中宛如觀賞真實皮影戲一樣。 片尾音樂 為了增加臺灣本土的元素，我們特別向可登唱片以及亞洲唱片合法授權紀露霞老師演唱的「望你早歸」這首歌作為故事結束時的片尾曲，這道歌的意境以及符號很適合本遊戲的情節，結合無接縫的即時遊戲動畫製作的片尾劇情，讓結束遊戲時留下進入下個章節的伏筆。 將來發展 本遊戲因為只有5個章節的第一章，因此定為免費取得的遊戲，待比賽結束後會開放下載，目前也正在處理上架steam相關事宜，現在正在送審中。期望本遊戲能對臺灣皮影戲的文化保存；以及本土歷史的探討，能盡一份心力。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1771830/header.jpg?t=1634729443",
+    "Price": 0.0,
+    "Developers": "紀曲峰,李珍,陳怡文,楊芷瑄,謝亞其,陳映慈",
+    "Publishers": "僑光科技大學多媒體與遊戲設計系",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1771830/ss_16dc86c358ed9b6453619212d510aa78d12930b3.1920x1080.jpg?t=1634729443,https://cdn.akamai.steamstatic.com/steam/apps/1771830/ss_961c7dc6149ae6a8e8ecf4237ed9ec9eabadd732.1920x1080.jpg?t=1634729443,https://cdn.akamai.steamstatic.com/steam/apps/1771830/ss_c9c3a2c6d6f4d4c68f6e35dbf7bbe91b110f17a2.1920x1080.jpg?t=1634729443,https://cdn.akamai.steamstatic.com/steam/apps/1771830/ss_7ceb8729f24fc6323ec2bc857b094cfacb394edd.1920x1080.jpg?t=1634729443,https://cdn.akamai.steamstatic.com/steam/apps/1771830/ss_a983bba77c65d997104b7faddcb86d1269b29111.1920x1080.jpg?t=1634729443,https://cdn.akamai.steamstatic.com/steam/apps/1771830/ss_b4267054343439272e805c6833b3b606e5668402.1920x1080.jpg?t=1634729443,https://cdn.akamai.steamstatic.com/steam/apps/1771830/ss_b07234d3a44a3c7ff5b3c568fa9737171226be0c.1920x1080.jpg?t=1634729443,https://cdn.akamai.steamstatic.com/steam/apps/1771830/ss_b99a57822a0cd4ca68daa6cc547bda1283792a4c.1920x1080.jpg?t=1634729443",
+    "Slug": "",
+    "Meta Title": "毛蟹穴: Oct 20, 2021, 紀曲峰,李珍,陳怡文,楊芷瑄,謝亞其,陳映慈 and Full Overview",
+    "Meta Description": "Looking for information on 毛蟹穴? Check out the release date (Oct 20, 2021), developer insights from 紀曲峰,李珍,陳怡文,楊芷瑄,謝亞其,陳映慈, and a complete game summary.",
+    "Alt Text Image": "Official header image for 毛蟹穴 game - Steam 1771830",
+    "Canonical URL": "https://gusku.site/game/",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u6bdb\\u87f9\\u7a74\", \"description\": \"Looking for information on \\u6bdb\\u87f9\\u7a74? Check out the release date (Oct 20, 2021), developer insights from \\u7d00\\u66f2\\u5cf0,\\u674e\\u73cd,\\u9673\\u6021\\u6587,\\u694a\\u82b7\\u7444,\\u8b1d\\u4e9e\\u5176,\\u9673\\u6620\\u6148, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 20, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u7d00\\u66f2\\u5cf0,\\u674e\\u73cd,\\u9673\\u6021\\u6587,\\u694a\\u82b7\\u7444,\\u8b1d\\u4e9e\\u5176,\\u9673\\u6620\\u6148\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u50d1\\u5149\\u79d1\\u6280\\u5927\\u5b78\\u591a\\u5a92\\u9ad4\\u8207\\u904a\\u6232\\u8a2d\\u8a08\\u7cfb\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1771830/header.jpg?t=1634729443\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

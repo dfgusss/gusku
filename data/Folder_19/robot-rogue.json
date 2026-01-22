@@ -1,0 +1,21 @@
+{
+    "AppID": 1429260,
+    "Name": "Robot Rogue",
+    "Release date": "Oct 14, 2020",
+    "About the game": "Robot Rogue is a turn-based roguelike game featuring skill system. Defeat the enemies by using skills and items wisely, and clear the dungeon! Story You made an emergency landing on unidentified planet, and lost. To get back to your spaceship, you decide to enter the dungeon with your robot. Skill System You have 3 skills and each skill have own attack area, attack damage, and cost of use. Cast best skill on situation. You can upgrade or install extra-effect to your skill. Make your strongest skill! Other System There are over 55 different items in this game, and each item have unique effect. There are crystals in the dungeons, and it activate various effect on crush.(explode, heal units near by, blow away units near by, etc.) This game is auto-save. You can quit and resume anytime you want.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1429260/header.jpg?t=1602709043",
+    "Price": 7.99,
+    "Developers": "Aineko Games",
+    "Publishers": "Aineko Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1429260/ss_15dc4a53c24da0c9283c1ac854b1cbbcb055ce90.1920x1080.jpg?t=1602709043,https://cdn.akamai.steamstatic.com/steam/apps/1429260/ss_6d53aac09306a299bf1f1e89fecaf257dc75796d.1920x1080.jpg?t=1602709043,https://cdn.akamai.steamstatic.com/steam/apps/1429260/ss_4ed06ffa0e02875a829626ffa2a970d9f7877756.1920x1080.jpg?t=1602709043,https://cdn.akamai.steamstatic.com/steam/apps/1429260/ss_ac9e015777692e75e89b2a7281f9ce25d4534451.1920x1080.jpg?t=1602709043,https://cdn.akamai.steamstatic.com/steam/apps/1429260/ss_6482bd59f1056d2a2daada54689a37831cf1c74c.1920x1080.jpg?t=1602709043,https://cdn.akamai.steamstatic.com/steam/apps/1429260/ss_d9228b1b7ffc73f39b1c177d5bda7ad81b43bdcb.1920x1080.jpg?t=1602709043,https://cdn.akamai.steamstatic.com/steam/apps/1429260/ss_1ab78b785bd4444aaceb456b679395cfc74d2635.1920x1080.jpg?t=1602709043",
+    "Slug": "robot-rogue",
+    "Meta Title": "Robot Rogue: Oct 14, 2020, Aineko Games and Full Overview",
+    "Meta Description": "Looking for information on Robot Rogue? Check out the release date (Oct 14, 2020), developer insights from Aineko Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Robot Rogue game - Steam 1429260",
+    "Canonical URL": "https://gusku.site/game/robot-rogue",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Robot Rogue\", \"description\": \"Looking for information on Robot Rogue? Check out the release date (Oct 14, 2020), developer insights from Aineko Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 14, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Aineko Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Aineko Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1429260/header.jpg?t=1602709043\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

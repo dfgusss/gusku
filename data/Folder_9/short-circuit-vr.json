@@ -1,0 +1,21 @@
+{
+    "AppID": 970800,
+    "Name": "Short Circuit VR",
+    "Release date": "Nov 19, 2018",
+    "About the game": "Short Circuit VR is an electronics lab simulator in Virtual Reality. You can build your own electronic circuits with the components provided, learn basic electronics by completing challenges and just have fun while experimenting and making awesome projects! For who is this game intended? While Short Circuit VR can be used as a learning tool for young and old, it can be used by hobbyists and anyone who wants to experiment and build things with electronic components. Main features Spawn components The player can spawn electronic components to build custom circuits. Here’s a list of components currently available: Wires Batteries (1.5V, 3V, 9V) Resistors Breadboard Diode LEDs (red, green, blue) Slide switch Pushbutton Potentiometers 7 Segment display (common cathode) Photoresistor Buzzers DC motor Protoboard Receive feedback Get information about circuit components values (voltage, current, voltage drop, resistance, …) when hovering over them with the controller. Easily detect errors in your circuit as you’ll get a warning when doing something wrong (short circuit, open circuit, too much current, …). Complete challenges The game includes several challenges to learn how to work with the basic components. Players will get a challenge description, a circuit diagram and some extra information to help them get started. Whiteboard Here you can find helpful information to complete the challenges. Save your work Short Circuit VR includes 10 save slots where you can save your progress in. It also gives you the ability to load save files from other users or save files downloaded from our website. Import custom models Users can import their own custom 3D models (.obj files) with a material. These models can be imported during gameplay to customise your projects. Available for Arcades on SpringboardVR",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/970800/header.jpg?t=1584006769",
+    "Price": 0.0,
+    "Developers": "Stefan Bauwens,Cindy Ho",
+    "Publishers": NaN,
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/970800/ss_836bdc4c76e97646ad60def0535b6b7b4d2cb635.1920x1080.jpg?t=1584006769,https://cdn.akamai.steamstatic.com/steam/apps/970800/ss_07efa1ed99fbbdefdb0d708054e3732d22805ddd.1920x1080.jpg?t=1584006769,https://cdn.akamai.steamstatic.com/steam/apps/970800/ss_d54f94caa49ff4c3b6af3aef279a68651ae61bec.1920x1080.jpg?t=1584006769,https://cdn.akamai.steamstatic.com/steam/apps/970800/ss_dbbdd3e3e620c00869800ba29146e2e289fb2703.1920x1080.jpg?t=1584006769,https://cdn.akamai.steamstatic.com/steam/apps/970800/ss_172de7417db037f6d571712e0e928d627ed745d0.1920x1080.jpg?t=1584006769",
+    "Slug": "short-circuit-vr",
+    "Meta Title": "Short Circuit VR: Nov 19, 2018, Stefan Bauwens,Cindy Ho a...",
+    "Meta Description": "Looking for information on Short Circuit VR? Check out the release date (Nov 19, 2018), developer insights from Stefan Bauwens,Cindy Ho, and a complete ...",
+    "Alt Text Image": "Official header image for Short Circuit VR game - Steam 970800",
+    "Canonical URL": "https://gusku.site/game/short-circuit-vr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Short Circuit VR\", \"description\": \"Looking for information on Short Circuit VR? Check out the release date (Nov 19, 2018), developer insights from Stefan Bauwens,Cindy Ho, and a complete ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 19, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Stefan Bauwens,Cindy Ho\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": NaN}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/970800/header.jpg?t=1584006769\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

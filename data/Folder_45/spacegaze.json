@@ -1,0 +1,21 @@
+{
+    "AppID": 1800900,
+    "Name": "SpaceGaze",
+    "Release date": "Nov 15, 2021",
+    "About the game": "SpaceGaze is a space arena shooter in which you have to destroy hordes of space invaders from another universe. Earn combat experience on the battlefields, use this experience to improve your spaceship and destroy even more enemies with an improved arsenal.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1800900/header.jpg?t=1650352712",
+    "Price": 4.99,
+    "Developers": "galesoozka",
+    "Publishers": "galesoozka",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1800900/ss_c1a376430aa028fdea0c5af0f0b7ed228513867a.1920x1080.jpg?t=1650352712,https://cdn.akamai.steamstatic.com/steam/apps/1800900/ss_e363993da3af954a4e5a81c6648e2acb852b8357.1920x1080.jpg?t=1650352712,https://cdn.akamai.steamstatic.com/steam/apps/1800900/ss_4c05f0c50c96e8a794959bfc736fabb5d39d2602.1920x1080.jpg?t=1650352712,https://cdn.akamai.steamstatic.com/steam/apps/1800900/ss_f8c52651fe5fcb7075264bde37133f10c9fd9901.1920x1080.jpg?t=1650352712,https://cdn.akamai.steamstatic.com/steam/apps/1800900/ss_6863c579d889cc3f0ed21c3fa479678f37969e57.1920x1080.jpg?t=1650352712",
+    "Slug": "spacegaze",
+    "Meta Title": "SpaceGaze: Nov 15, 2021, galesoozka and Full Overview",
+    "Meta Description": "Looking for information on SpaceGaze? Check out the release date (Nov 15, 2021), developer insights from galesoozka, and a complete game summary.",
+    "Alt Text Image": "Official header image for SpaceGaze game - Steam 1800900",
+    "Canonical URL": "https://gusku.site/game/spacegaze",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SpaceGaze\", \"description\": \"Looking for information on SpaceGaze? Check out the release date (Nov 15, 2021), developer insights from galesoozka, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 15, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"galesoozka\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"galesoozka\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1800900/header.jpg?t=1650352712\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

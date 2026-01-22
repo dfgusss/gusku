@@ -1,0 +1,21 @@
+{
+    "AppID": 1003690,
+    "Name": "CrossTrix",
+    "Release date": "Jan 3, 2019",
+    "About the game": "CrossTrix is a crossword based puzzle game, where you are given 20 mystery letters which are revealed individually each turn. Each player is given 3 re-rolls per game that they may use to replace newly-revealed letters with a different letter, for a chance at more matches on screen. The game features 3 game modes: * Score Attack - All instances of a revealed letter are awarded to the player. Player reveals all letters, then play switches to the next player. * Strategy Mode - Players can only select 3 of the instances of revealed letters on screen. When all letters have been revealed, play switches to the next player. * Versus Mode - Players can only select 3 of the instances of revealed letters on screen. Both players are working off the same screen and can absorb opponent pieces via having a scored tile to the opposing sides (of left and right, or above and bellow) of a piece or pieces to absorb them. Players take turns, as play changes to the next player after 'End Turn' is selected. Goal of the game is to get the best score. Scoring of complete words will earn the player bonus points.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1003690/header.jpg?t=1548903791",
+    "Price": 9.99,
+    "Developers": "Jason Free",
+    "Publishers": NaN,
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1003690/ss_04c14e01eb3b2b1381801e5964c7681797761857.1920x1080.jpg?t=1548903791,https://cdn.akamai.steamstatic.com/steam/apps/1003690/ss_f4a1b2fa94bb2180f751685c1219eff199fe0f6f.1920x1080.jpg?t=1548903791,https://cdn.akamai.steamstatic.com/steam/apps/1003690/ss_384b8e679b0c01d85af7b8bf6078c16be8a96ef1.1920x1080.jpg?t=1548903791,https://cdn.akamai.steamstatic.com/steam/apps/1003690/ss_5f0dee13cad4b10ebc64f819011733488303d06d.1920x1080.jpg?t=1548903791,https://cdn.akamai.steamstatic.com/steam/apps/1003690/ss_13a2011fa716b7292b6215214d999d0e4a495d34.1920x1080.jpg?t=1548903791",
+    "Slug": "crosstrix",
+    "Meta Title": "CrossTrix: Jan 3, 2019, Jason Free and Full Overview",
+    "Meta Description": "Looking for information on CrossTrix? Check out the release date (Jan 3, 2019), developer insights from Jason Free, and a complete game summary.",
+    "Alt Text Image": "Official header image for CrossTrix game - Steam 1003690",
+    "Canonical URL": "https://gusku.site/game/crosstrix",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CrossTrix\", \"description\": \"Looking for information on CrossTrix? Check out the release date (Jan 3, 2019), developer insights from Jason Free, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 3, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jason Free\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": NaN}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1003690/header.jpg?t=1548903791\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

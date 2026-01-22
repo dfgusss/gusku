@@ -1,0 +1,21 @@
+{
+    "AppID": 1612500,
+    "Name": "Dominoes3D Simulator",
+    "Release date": "Jul 2, 2022",
+    "About the game": "This game is a fun dominoes simulator! Do you remember how fun it was to knock them over?! No real dominoes required :P You can place your dominoes on the board, watch them fall and do it over and over! There are save and load options for those who want to keep their creations and show them off or edit them later to add more! Domino deletion real-time will be added in the future! There are 8 save slots available that can also be overwritten if you want to improve a current design! Feel free to report any errors and fixes needed. Don't forget to review! Enjoy! NOTE: Once I get some reviews/feedback, I will be able to further progress on the game :) Hoping all is well MAJOR BENEFITS: 1. Requires much less computation than other simulators of similar genre! 2. Continuously updated! 3. Less expensive to have fun! 4. Let me know what else is great about this simulator compared to others! -UPCOMING UPDATES (Some may already be implemented or expanded on): *better physics on gravity and collision *Starting Domino Rotation during editing *Graphical changes *Spawn collision changes for no colliding on drag *added objects *color dominoe abilities *Removing placement limitations on objects (no more 'X's!) *recoded drag and drop, less buggy *more...! Working on an Android/iPhone conversion of the game! Follow updates also on my Youtube. Nothing special, just videos of work :) Check out the game devlog on the menu page of the game!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1612500/header.jpg?t=1656805296",
+    "Price": 4.99,
+    "Developers": "MobileMojo",
+    "Publishers": "MobileMojo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1612500/ss_2d11598bfb762ae6984b4d273c0754c985def7f2.1920x1080.jpg?t=1656805296,https://cdn.akamai.steamstatic.com/steam/apps/1612500/ss_4b01eab2fbb5aa0c3a4e207bd48547d1757ddaf2.1920x1080.jpg?t=1656805296,https://cdn.akamai.steamstatic.com/steam/apps/1612500/ss_9e995e6e4ed36ae832cc3fa8e3ece18dacf510bd.1920x1080.jpg?t=1656805296,https://cdn.akamai.steamstatic.com/steam/apps/1612500/ss_928d75387312b8c42e35f52997c4f05fcda71e5e.1920x1080.jpg?t=1656805296,https://cdn.akamai.steamstatic.com/steam/apps/1612500/ss_80ddeab90bd2dbf41bdf778e298441ec67801b6a.1920x1080.jpg?t=1656805296,https://cdn.akamai.steamstatic.com/steam/apps/1612500/ss_5af3cf58ecaa34bc761ab5ffc5f5b46a5f3c8234.1920x1080.jpg?t=1656805296",
+    "Slug": "dominoes3d-simulator",
+    "Meta Title": "Dominoes3D Simulator: Jul 2, 2022, MobileMojo and Full Ov...",
+    "Meta Description": "Looking for information on Dominoes3D Simulator? Check out the release date (Jul 2, 2022), developer insights from MobileMojo, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dominoes3D Simulator game - Steam 1612500",
+    "Canonical URL": "https://gusku.site/game/dominoes3d-simulator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dominoes3D Simulator\", \"description\": \"Looking for information on Dominoes3D Simulator? Check out the release date (Jul 2, 2022), developer insights from MobileMojo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"MobileMojo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MobileMojo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1612500/header.jpg?t=1656805296\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

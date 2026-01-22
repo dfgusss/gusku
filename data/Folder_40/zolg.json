@@ -1,0 +1,21 @@
+{
+    "AppID": 555710,
+    "Name": "Zolg",
+    "Release date": "Dec 2, 2016",
+    "About the game": "Zolg is a minimalist top-down shooter where you explore, fight enemies, collect powerups, and defeat bosses. Move and aim with WASD + mouse or you can use a controller. Controllers can be configured from the main menu. There are 5 powerup types to collect, 6 bosses to fight, and various other enemies and obstacles in your path. This game also has Steam trading cards and 40 achievements of varying difficulty to unlock.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/555710/header.jpg?t=1627749107",
+    "Price": 0.99,
+    "Developers": "Robert Alvarez",
+    "Publishers": "Robert Alvarez",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/555710/ss_ed08cbba22b60a4edc22a1aa73397b7ee79819aa.1920x1080.jpg?t=1627749107,https://cdn.akamai.steamstatic.com/steam/apps/555710/ss_992f4490ab920b427a158352cc2f8e4bc22ace04.1920x1080.jpg?t=1627749107,https://cdn.akamai.steamstatic.com/steam/apps/555710/ss_41dc34ca3b38cfced6b480fee0de0280e1a3230c.1920x1080.jpg?t=1627749107,https://cdn.akamai.steamstatic.com/steam/apps/555710/ss_24aaad5972b9e7fa4101b0188f4fbaef64dd9604.1920x1080.jpg?t=1627749107,https://cdn.akamai.steamstatic.com/steam/apps/555710/ss_d7f22e949c8e073625e9c5f47ccd2ec6a550c2da.1920x1080.jpg?t=1627749107",
+    "Slug": "zolg",
+    "Meta Title": "Zolg: Dec 2, 2016, Robert Alvarez and Full Overview",
+    "Meta Description": "Looking for information on Zolg? Check out the release date (Dec 2, 2016), developer insights from Robert Alvarez, and a complete game summary.",
+    "Alt Text Image": "Official header image for Zolg game - Steam 555710",
+    "Canonical URL": "https://gusku.site/game/zolg",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Zolg\", \"description\": \"Looking for information on Zolg? Check out the release date (Dec 2, 2016), developer insights from Robert Alvarez, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 2, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Robert Alvarez\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Robert Alvarez\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/555710/header.jpg?t=1627749107\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

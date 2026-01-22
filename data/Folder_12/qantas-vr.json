@@ -1,0 +1,21 @@
+{
+    "AppID": 478000,
+    "Name": "Qantas VR",
+    "Release date": "Nov 14, 2016",
+    "About the game": "The Qantas VR HTC Vive and Oculus Rift experience will virtually transport you to Qantas destinations and unique Qantas experiences. With Qantas VR you can: 1. Escape to Qantas destinations: scuba dive the Great Barrier Reef, climb the Sydney Harbour Bridge, relax on a sunset river cruise in Kakadu and explore water holes in the Australian outback. 2. Access unique Qantas experiences: fly with the pilots in the cockpit of a Qantas aircraft and experience the Qantas A380 take-off, approach and land in front of where you stand. 3. Travel with Qantas: experience flying with Qantas as it lands at Hamilton Island airport and take a tour of the Los Angeles International First Lounge.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/478000/header.jpg?t=1486965167",
+    "Price": 0.0,
+    "Developers": "Start VR",
+    "Publishers": "Qantas",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/478000/ss_ac1e5f3b28141fff587011ff13234b5e3ba70ece.1920x1080.jpg?t=1486965167,https://cdn.akamai.steamstatic.com/steam/apps/478000/ss_1daa1641075d2ac099f565881ad317c3abf9ac98.1920x1080.jpg?t=1486965167,https://cdn.akamai.steamstatic.com/steam/apps/478000/ss_a37abc43007cbaa1b43389f23559714b29f39ddc.1920x1080.jpg?t=1486965167,https://cdn.akamai.steamstatic.com/steam/apps/478000/ss_8003256a0b31e4bf342e8c6bc0dcf2e865e5e817.1920x1080.jpg?t=1486965167,https://cdn.akamai.steamstatic.com/steam/apps/478000/ss_3ce7176f8eff0896789e028f692843e198706919.1920x1080.jpg?t=1486965167",
+    "Slug": "qantas-vr",
+    "Meta Title": "Qantas VR: Nov 14, 2016, Start VR and Full Overview",
+    "Meta Description": "Looking for information on Qantas VR? Check out the release date (Nov 14, 2016), developer insights from Start VR, and a complete game summary.",
+    "Alt Text Image": "Official header image for Qantas VR game - Steam 478000",
+    "Canonical URL": "https://gusku.site/game/qantas-vr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Qantas VR\", \"description\": \"Looking for information on Qantas VR? Check out the release date (Nov 14, 2016), developer insights from Start VR, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 14, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Start VR\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Qantas\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/478000/header.jpg?t=1486965167\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

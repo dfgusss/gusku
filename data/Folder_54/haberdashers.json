@@ -1,0 +1,21 @@
+{
+    "AppID": 1062100,
+    "Name": "HaberDashers",
+    "Release date": "May 27, 2020",
+    "About the game": "HaberDashers is a console-style arcade (kart) racer for the PC in which players control miniature humanoid inhabitants of an everyday home, racing past outsized household items and through rooms as they compete against human and AI opponents with both driving skills and item pick-ups. HaberDashers is being developed by graduate students at SMU Guildhall. The game is in pre-alpha development. Key Features: Single-player and couch multiplayer with split screens for up to 4 players Remote multiplayer using Steam's Remote Play Together feature 8 racers in each race (humans as well as AI) Modular car design featuring at least 4 car bodies, 4 car wheel types, and various paint jobs and decals 4 original characters that fit in the world 3-lap races lasting roughly 5 minutes each Surface types with varying drag Players have the ability to use a drifting mechanic to execute tighter turns One-time use weapons and abilities in the form of on-track pickups",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1062100/header.jpg?t=1651791922",
+    "Price": 0.0,
+    "Developers": "SMU Guildhall",
+    "Publishers": "SMU Guildhall",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1062100/ss_769b6fb3da8c3a3f30eb757d6c01129f83d6c563.1920x1080.jpg?t=1651791922,https://cdn.akamai.steamstatic.com/steam/apps/1062100/ss_a0e0116fecf86dbe907860ce07b15fc84466e9d6.1920x1080.jpg?t=1651791922,https://cdn.akamai.steamstatic.com/steam/apps/1062100/ss_9a231ce009531aaf34b0edfea896b9b0ee401133.1920x1080.jpg?t=1651791922,https://cdn.akamai.steamstatic.com/steam/apps/1062100/ss_3908adff898d71b8929348370cb5555d50a7b020.1920x1080.jpg?t=1651791922,https://cdn.akamai.steamstatic.com/steam/apps/1062100/ss_64659c5e8727ce725b17eb315ac58195bdca7823.1920x1080.jpg?t=1651791922,https://cdn.akamai.steamstatic.com/steam/apps/1062100/ss_94bad9b9712a771dd93e039999277e8d29180275.1920x1080.jpg?t=1651791922",
+    "Slug": "haberdashers",
+    "Meta Title": "HaberDashers: May 27, 2020, SMU Guildhall and Full Overview",
+    "Meta Description": "Looking for information on HaberDashers? Check out the release date (May 27, 2020), developer insights from SMU Guildhall, and a complete game summary.",
+    "Alt Text Image": "Official header image for HaberDashers game - Steam 1062100",
+    "Canonical URL": "https://gusku.site/game/haberdashers",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HaberDashers\", \"description\": \"Looking for information on HaberDashers? Check out the release date (May 27, 2020), developer insights from SMU Guildhall, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 27, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"SMU Guildhall\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SMU Guildhall\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1062100/header.jpg?t=1651791922\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1745170,
+    "Name": "Primitier",
+    "Release date": "Dec 2, 2021",
+    "About the game": "Attention: This game is for VR only. Primitier is an open-world sandbox game for VR. In the vast physics-based world, you can freely cut and combine objects to create tools and machines. True Craft System When you pick up a stone and hit a tree, the tree will be cut at the hit position. If you combine a wooden stick and a stone, it becomes a stone axe. In this way, you can literally 'craft' various tools. Not only wood and stones, but almost any object in the game can be used as a material. Vast World You can seamlessly move through the vast, procedurally generated world. You may encounter enemies while exploring the world. Craft your weapon and fight against them. Advanced Physics Simulation Every object, including crafted tools, behaves in physics simulation. For example, the ease of swinging and destructive power of a stone axe vary depending on the length of the handle and the weight of the stone. You can also build machines such as catapults and carts to physically operate them. Simulations of air resistance, lift, buoyancy, etc. are also included. Change Your Avatar You can change your avatar by loading a VRM format file (not all VRM files are supported). You can also take a selfie with a third person camera. (You also have the option to turn off your avatar)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1745170/header.jpg?t=1658319743",
+    "Price": 19.99,
+    "Developers": "ootamato",
+    "Publishers": "ootamato",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1745170/ss_7b6b442b1b846b49289ad9a1f92f7756a3369202.1920x1080.jpg?t=1658319743,https://cdn.akamai.steamstatic.com/steam/apps/1745170/ss_db8527ec16c583757e6cd0a2aa5b4fb907920312.1920x1080.jpg?t=1658319743,https://cdn.akamai.steamstatic.com/steam/apps/1745170/ss_8437a093c76aaf4cecae825ed5cfaed6302b52da.1920x1080.jpg?t=1658319743,https://cdn.akamai.steamstatic.com/steam/apps/1745170/ss_6fe4043a4d1d6d5b87a356a5523d2cc8a2e2fc3b.1920x1080.jpg?t=1658319743,https://cdn.akamai.steamstatic.com/steam/apps/1745170/ss_4c61fd6f87369946fa0e60095186d6d3179342b3.1920x1080.jpg?t=1658319743",
+    "Slug": "primitier",
+    "Meta Title": "Primitier: Dec 2, 2021, ootamato and Full Overview",
+    "Meta Description": "Looking for information on Primitier? Check out the release date (Dec 2, 2021), developer insights from ootamato, and a complete game summary.",
+    "Alt Text Image": "Official header image for Primitier game - Steam 1745170",
+    "Canonical URL": "https://gusku.site/game/primitier",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Primitier\", \"description\": \"Looking for information on Primitier? Check out the release date (Dec 2, 2021), developer insights from ootamato, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 2, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"ootamato\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ootamato\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1745170/header.jpg?t=1658319743\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

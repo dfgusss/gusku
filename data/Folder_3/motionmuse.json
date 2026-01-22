@@ -1,0 +1,21 @@
+{
+    "AppID": 1837020,
+    "Name": "MotionMuse",
+    "Release date": "Feb 16, 2022",
+    "About the game": "MotionMuse provides an easy to use animation tool-set for 3D character animation. No rigging of the character is required as the bone hierarchy itself is used for articulating motion. MotionMuse is an ideal tool for game developers, indie developers, freelancers and animators to quickly and easily prototype character animations. Features Retargeting: Transferring animation across characters, supports different skeletons. Motion-Editing: Spline based path editing of spatio-temporal constraints for limbs. Inverse Kinematics: Fast IK solver for partial or full body adjustment for quick posing. Spline Sketching: Pose limbs by drawing, sketch is converted to spline for fine adjustments. Curve Editor: Supports various tangents and interpolations for precise motion control. Media Overlays: Load/save images/videos in a scene to trace poses for quick prototyping. File Formats: Import support for fbx, dae, bvh, gltf/glb, vrm files with export to fbx/dae. Note: No rigging tools are available; only characters with bones are supported.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1837020/header.jpg?t=1657783958",
+    "Price": 34.99,
+    "Developers": "Muni Animation",
+    "Publishers": "Muni Animation",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1837020/ss_608f11d4816b0fa15ab9b450d4165e4e67a1464d.1920x1080.jpg?t=1657783958,https://cdn.akamai.steamstatic.com/steam/apps/1837020/ss_fb395e34d4f08b370b8310cfdf9f049724cf9ce5.1920x1080.jpg?t=1657783958,https://cdn.akamai.steamstatic.com/steam/apps/1837020/ss_5e4df10a3ac6add8a61a48d03947e67d4914326c.1920x1080.jpg?t=1657783958,https://cdn.akamai.steamstatic.com/steam/apps/1837020/ss_cbd825faa6f43ae1381efea0432b7f5ec769779a.1920x1080.jpg?t=1657783958,https://cdn.akamai.steamstatic.com/steam/apps/1837020/ss_5757d9f9d5b4842d508e872b2f6d01438dbe0b02.1920x1080.jpg?t=1657783958",
+    "Slug": "motionmuse",
+    "Meta Title": "MotionMuse: Feb 16, 2022, Muni Animation and Full Overview",
+    "Meta Description": "Looking for information on MotionMuse? Check out the release date (Feb 16, 2022), developer insights from Muni Animation, and a complete game summary.",
+    "Alt Text Image": "Official header image for MotionMuse game - Steam 1837020",
+    "Canonical URL": "https://gusku.site/game/motionmuse",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MotionMuse\", \"description\": \"Looking for information on MotionMuse? Check out the release date (Feb 16, 2022), developer insights from Muni Animation, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 16, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Muni Animation\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Muni Animation\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1837020/header.jpg?t=1657783958\", \"offers\": {\"@type\": \"Offer\", \"price\": 34.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

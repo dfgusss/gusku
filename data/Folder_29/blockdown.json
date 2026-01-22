@@ -1,0 +1,21 @@
+{
+    "AppID": 1505010,
+    "Name": "Blockdown",
+    "Release date": "Sep 17, 2021",
+    "About the game": "Roll your cube to get to the goal, but think before rolling! Sometimes you need to stand on a switch to raise a drawbridge and reach the goal, as seen below. In some levels you can morph into a different shape that lets you move exactly one tile at a time, but at the cost of not being able to stand up. In this mode, the only way you can change orientation is by moving across a bridge. You can also move your player from one side of the tile to the other, perhaps by traversing a Mobiüs strip. It's a topologist's dream! (or nightmare)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1505010/header.jpg?t=1650920885",
+    "Price": 0.0,
+    "Developers": "Vasona Studios",
+    "Publishers": "Vasona Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1505010/ss_93b023b121eaa8e32aa4ddbd274d430ded1832a5.1920x1080.jpg?t=1650920885,https://cdn.akamai.steamstatic.com/steam/apps/1505010/ss_824571f325d56e648ac5231bc0c0e0b72fa1272f.1920x1080.jpg?t=1650920885,https://cdn.akamai.steamstatic.com/steam/apps/1505010/ss_46eae26b4af769635f59a61bfaec34786d096028.1920x1080.jpg?t=1650920885,https://cdn.akamai.steamstatic.com/steam/apps/1505010/ss_1056afce991cf353a3898dfbb00ec085a89470f4.1920x1080.jpg?t=1650920885,https://cdn.akamai.steamstatic.com/steam/apps/1505010/ss_ece1100ea0ff08b9f249c1aa546a2bf3a7029793.1920x1080.jpg?t=1650920885",
+    "Slug": "blockdown",
+    "Meta Title": "Blockdown: Sep 17, 2021, Vasona Studios and Full Overview",
+    "Meta Description": "Looking for information on Blockdown? Check out the release date (Sep 17, 2021), developer insights from Vasona Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Blockdown game - Steam 1505010",
+    "Canonical URL": "https://gusku.site/game/blockdown",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Blockdown\", \"description\": \"Looking for information on Blockdown? Check out the release date (Sep 17, 2021), developer insights from Vasona Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 17, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vasona Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vasona Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1505010/header.jpg?t=1650920885\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

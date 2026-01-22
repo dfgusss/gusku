@@ -1,0 +1,21 @@
+{
+    "AppID": 2318860,
+    "Name": "Architecture Zeitgeist",
+    "Release date": "Mar 27, 2023",
+    "About the game": "Architecture Zeitgeist is a game created with great care by a student at the University of Brasília, with the aim of popularizing the teaching of architecture and making the experience of studying repertoire more immersive. The game has educational purposes and currently has two game modes: - Story mode: In this mode, the player will study the biography of a selected architect. He can walk through the projects and look for notes, which will tell the story of both the visited project and the architect responsible for the project. Once the player has collected all notes about the project, he will be able to move on to the architect's next project and deepen his studies. - Sandbox: In this mode, the player can walk freely through the project. Currently the game contains the following projects in each mode: - Story mode: Barcelona Pavilion (Ludwig mies van der Rohe) and Casa Azuma (Tadao Ando). - Sandbox: Barcelona Pavilion (Ludwig mies van der Rohe) and Casa Azuma (Tadao Ando). Below I will list, in order of priority, the plans for the future of the game: - Adding 5 new maps about the architect Tadao Ando and adding content for them in story mode. The preliminary list of projects to be contemplated are: 1 - Azuma House; 2- Church of Light; 3 - Koshino House; 4 - 4x4 House; 5 - Oval house; - Addition of 4 new maps about the architect Mies van der Rohe and addition of content for them in story mode. - Addition of 3 new architects with 5 works each in story mode.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2318860/header.jpg?t=1680464241",
+    "Price": 5.99,
+    "Developers": "Matheus Rudo",
+    "Publishers": "Rudo Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2318860/ss_40e33a9fab6ec745df518589f3b511f4b2311772.1920x1080.jpg?t=1680464241,https://cdn.akamai.steamstatic.com/steam/apps/2318860/ss_f8a61c050c97fbc69206dc2b80b33f51ee1ca381.1920x1080.jpg?t=1680464241,https://cdn.akamai.steamstatic.com/steam/apps/2318860/ss_cc958bbf7e5c18e41a6eadf6fd66419a148399ca.1920x1080.jpg?t=1680464241,https://cdn.akamai.steamstatic.com/steam/apps/2318860/ss_66ab2884baf08e0f212a41e7833da5ea8fef2f6c.1920x1080.jpg?t=1680464241,https://cdn.akamai.steamstatic.com/steam/apps/2318860/ss_365c89a7db4e05cb58a42a854fa2f80e3e1d12bb.1920x1080.jpg?t=1680464241",
+    "Slug": "architecture-zeitgeist",
+    "Meta Title": "Architecture Zeitgeist: Mar 27, 2023, Matheus Rudo and Fu...",
+    "Meta Description": "Looking for information on Architecture Zeitgeist? Check out the release date (Mar 27, 2023), developer insights from Matheus Rudo, and a complete game ...",
+    "Alt Text Image": "Official header image for Architecture Zeitgeist game - Steam 2318860",
+    "Canonical URL": "https://gusku.site/game/architecture-zeitgeist",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Architecture Zeitgeist\", \"description\": \"Looking for information on Architecture Zeitgeist? Check out the release date (Mar 27, 2023), developer insights from Matheus Rudo, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 27, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matheus Rudo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rudo Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2318860/header.jpg?t=1680464241\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

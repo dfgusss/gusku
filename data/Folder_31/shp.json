@@ -1,0 +1,21 @@
+{
+    "AppID": 727640,
+    "Name": "ШП - ShP",
+    "Release date": "Oct 31, 2017",
+    "About the game": "Incomprehensible interface errative puzzle game. No instructions! This product includes 3 different puzzles. Features: - Native Windows Forms interface. - The goal of each of these errative puzzle games is to set all the flags and then perform the final control activation, typically a scrollbar movement. - All the flags are hinted in a message box which is shown by pressing a certain button in a previously unknown place. - Every game has a way to close itself unexpectedly - this is a gameover and you have to restart it manually. - Some controls reset your progress, but sometimes it is necessary to advance. - In the end, the game also closes itself. There is only one way to finish each puzzle. ШП-7: ГАМЕБОЕ ПЕРЕЛЬНИЦА Release: sometime around 2008 Re-release: 15.07.2011 22:33 Clicks to solve: 1 for the first window, 54 for the second, 14 for the third. ШП-8 и ШП-87 Release: 26.07.2011 13:43 Clicks to solve: ШП-8: 41 ШП-87: 9 ШП-87 is available when you launch ШП-8 with ШП-7 already launched. ШП-9 Release: 28.07.2011 0:00 / 17.06.2011 21:31 (some kind of a time paradox) Clicks to solve: ???",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/727640/header.jpg?t=1568161602",
+    "Price": 1.99,
+    "Developers": "Xitilon",
+    "Publishers": "Xitilon",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/727640/ss_3e21195c685d602ce7efe8d03b828a67eab5d7f7.1920x1080.jpg?t=1568161602,https://cdn.akamai.steamstatic.com/steam/apps/727640/ss_c285c271391aefc209480ad87a81a2c32c6f0b4a.1920x1080.jpg?t=1568161602,https://cdn.akamai.steamstatic.com/steam/apps/727640/ss_6225734548eba87fff7c6c5a3062dad70f5529b1.1920x1080.jpg?t=1568161602,https://cdn.akamai.steamstatic.com/steam/apps/727640/ss_202ad4bfa9e3693a9e5729d256bddd4197e6fbae.1920x1080.jpg?t=1568161602,https://cdn.akamai.steamstatic.com/steam/apps/727640/ss_ae460f3690f3778bfa61c264a1c41a7db4d4f6b9.1920x1080.jpg?t=1568161602,https://cdn.akamai.steamstatic.com/steam/apps/727640/ss_b71b2030ca305abf3a1749b5e5a16498c96ed079.1920x1080.jpg?t=1568161602,https://cdn.akamai.steamstatic.com/steam/apps/727640/ss_13ceab12857b8b1adc21386b3c16fc989b92c97c.1920x1080.jpg?t=1568161602,https://cdn.akamai.steamstatic.com/steam/apps/727640/ss_8e22e07dd5e950fe2f2f54e5486a8046f3efdf0a.1920x1080.jpg?t=1568161602",
+    "Slug": "shp",
+    "Meta Title": "ШП - ShP: Oct 31, 2017, Xitilon and Full Overview",
+    "Meta Description": "Looking for information on ШП - ShP? Check out the release date (Oct 31, 2017), developer insights from Xitilon, and a complete game summary.",
+    "Alt Text Image": "Official header image for ШП - ShP game - Steam 727640",
+    "Canonical URL": "https://gusku.site/game/shp",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u0428\\u041f - ShP\", \"description\": \"Looking for information on \\u0428\\u041f - ShP? Check out the release date (Oct 31, 2017), developer insights from Xitilon, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 31, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Xitilon\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Xitilon\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/727640/header.jpg?t=1568161602\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

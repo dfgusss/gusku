@@ -1,0 +1,21 @@
+{
+    "AppID": 2207640,
+    "Name": "Little Circuit",
+    "Release date": "Mar 8, 2023",
+    "About the game": "Little Circuit invites you to delve into the exciting world of electrical circuits and experience the thrill of creation in a user-friendly virtual environment. As a logic simulation sandbox game, it provides a platform for you to unleash your imagination and build a wide range of complex and sophisticated circuits with ease. In Little Circuit, components serve as the building blocks for every circuit you create. With 22 unique and diverse components at your disposal in the current state of the game, the possibilities for circuit design are virtually endless. And with potential for more components to be added in future updates List of current components Relay Or Gate Not Gate And Gate Transistor LED Pixel RGB Pixel Touch Pixel Switch Button Knob Amplifier Diode Capacitor Resistor RNG (Random number generator) Bit Delay Clock Block Label Note box The Custom Component Creator is a feature in a circuit building game that enables players to abstract complex circuit designs into a single component. This tool allows players to create custom components and incorporate them into their circuit designs.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2207640/header.jpg?t=1678301740",
+    "Price": 8.09,
+    "Developers": "Kaz,Gen",
+    "Publishers": "Overcast Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2207640/ss_242ecde5d830a9539bd28ad9690889b6a57e1d96.1920x1080.jpg?t=1678301740,https://cdn.akamai.steamstatic.com/steam/apps/2207640/ss_a3149f3e15999f8f42ddf9c184b4ee2227cea9be.1920x1080.jpg?t=1678301740,https://cdn.akamai.steamstatic.com/steam/apps/2207640/ss_d0e8d0041b246f25eef439e09b325e2dc639ff4e.1920x1080.jpg?t=1678301740,https://cdn.akamai.steamstatic.com/steam/apps/2207640/ss_93954ce5a4813cb7830a0b5eea8de6b197dac817.1920x1080.jpg?t=1678301740,https://cdn.akamai.steamstatic.com/steam/apps/2207640/ss_7d8dd99275334bd8e512981071e5101bbad5b352.1920x1080.jpg?t=1678301740,https://cdn.akamai.steamstatic.com/steam/apps/2207640/ss_7e9ef0284d924d6d21cb9add6720e6e0dede4843.1920x1080.jpg?t=1678301740,https://cdn.akamai.steamstatic.com/steam/apps/2207640/ss_43427bc4572bda10bb0a05363bc39c449dea0707.1920x1080.jpg?t=1678301740,https://cdn.akamai.steamstatic.com/steam/apps/2207640/ss_60df18a39f2adfe1112b6e60398156bf2a9c9209.1920x1080.jpg?t=1678301740",
+    "Slug": "little-circuit",
+    "Meta Title": "Little Circuit: Mar 8, 2023, Kaz,Gen and Full Overview",
+    "Meta Description": "Looking for information on Little Circuit? Check out the release date (Mar 8, 2023), developer insights from Kaz,Gen, and a complete game summary.",
+    "Alt Text Image": "Official header image for Little Circuit game - Steam 2207640",
+    "Canonical URL": "https://gusku.site/game/little-circuit",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Little Circuit\", \"description\": \"Looking for information on Little Circuit? Check out the release date (Mar 8, 2023), developer insights from Kaz,Gen, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 8, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kaz,Gen\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Overcast Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2207640/header.jpg?t=1678301740\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.09, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1890010,
+    "Name": "OOZEscape",
+    "Release date": "Feb 17, 2022",
+    "About the game": "OOZEscape is a challenging 2D platformer where you play as Ooze, a slime creature formed in the depths of a mysterious factory. You guide this newborn life-form through 50 versatile levels while avoiding all the different dangers. The levels have colorful and atmospheric lighting that helps lead Ooze through this strange world. You can further challenge to yourself by trying to achieve the best possible times in all the levels or take your time to get all the collectibles.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1890010/header.jpg?t=1645108665",
+    "Price": 4.99,
+    "Developers": "Team Ooze",
+    "Publishers": "Team Ooze",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1890010/ss_0c49bf86441ec513e9056e46f3ed0f40251ad578.1920x1080.jpg?t=1645108665,https://cdn.akamai.steamstatic.com/steam/apps/1890010/ss_22ccd0d1fd0dfc2a0db31a4cb937f645b50bb07f.1920x1080.jpg?t=1645108665,https://cdn.akamai.steamstatic.com/steam/apps/1890010/ss_e20dafb0f16a51199d231b1ebd2e309b4299556f.1920x1080.jpg?t=1645108665,https://cdn.akamai.steamstatic.com/steam/apps/1890010/ss_b943ef54ae320ba2e712c2e0e9fc04364dc3a2a7.1920x1080.jpg?t=1645108665,https://cdn.akamai.steamstatic.com/steam/apps/1890010/ss_044aa96806583f3081e07b44e380ccd61aeccf35.1920x1080.jpg?t=1645108665,https://cdn.akamai.steamstatic.com/steam/apps/1890010/ss_29e48bb6984fd80fa905cd38bbb384eb093c2630.1920x1080.jpg?t=1645108665",
+    "Slug": "oozescape",
+    "Meta Title": "OOZEscape: Feb 17, 2022, Team Ooze and Full Overview",
+    "Meta Description": "Looking for information on OOZEscape? Check out the release date (Feb 17, 2022), developer insights from Team Ooze, and a complete game summary.",
+    "Alt Text Image": "Official header image for OOZEscape game - Steam 1890010",
+    "Canonical URL": "https://gusku.site/game/oozescape",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"OOZEscape\", \"description\": \"Looking for information on OOZEscape? Check out the release date (Feb 17, 2022), developer insights from Team Ooze, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Team Ooze\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Team Ooze\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1890010/header.jpg?t=1645108665\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

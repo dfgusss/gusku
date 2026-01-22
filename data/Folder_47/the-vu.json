@@ -1,0 +1,21 @@
+{
+    "AppID": 738310,
+    "Name": "The VU",
+    "Release date": "Nov 16, 2017",
+    "About the game": "The VU is a prototype content creation and exploration platform for Virtual Reality. Flying in the VU is weightless and is often a transcendent experience. The VU provides new insights into the nature of time, space, symmetry, and scale. The VU is also an experimental plasma dynamics simulator. The Platonic Solids provide a geometric scaffolding to create infinite spatial and temporal harmonies. Custom GPU compute shaders charge a plasma cloud each frame at 90 fps. Features Multi-Scalar Perspective and Navigation A key feature of The VU is the ability to experience the workspace at different scales. Three quick triggers on the Vive controller transforms the point of view from normal lab scale to 1/75th scale or VU mode. The experience can be profound where something you work on at room scale becomes the size of a jet hangar or larger. Precise Time Adjustment - Forward and Backward in Time Simulations can be adjusted forward and backward in time. The time control assembly provides fine tuning of the passage of time. The time adjustment UI is based on oscilloscope/signal generator time controls. Intuitive Flight Control Flight is controlled by the touchpad and trigger. Thumb movement on the touchpad adjusts the direction of flight. The orientation of the controller adjusts the rotation of the POV. The trigger can be used to adjust the velocity through space. Work-Space Customization The settings panel allows you to adjust your work-space to your liking. Tools, grid appearance and work-space scaling can be set or disabled depending on your preferences. GPU Based Point Cloud Dynamics All point cloud dynamics are processed on the GPU. Custom compute shaders provide a pipeline to process an large charged point cloud with up to twenty attractors active. The VU and your creativity await.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/738310/header.jpg?t=1510830671",
+    "Price": 0.0,
+    "Developers": "David W. Johnson",
+    "Publishers": "Argos.VU",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/738310/ss_6545b43f8a6eeb9eafefea35bfbd60f5e3cd5058.1920x1080.jpg?t=1510830671,https://cdn.akamai.steamstatic.com/steam/apps/738310/ss_5cfd2207fa24c193117710d489f280903095f4e2.1920x1080.jpg?t=1510830671,https://cdn.akamai.steamstatic.com/steam/apps/738310/ss_9eba823e5d7cf89d799cee160bf9334542ae5688.1920x1080.jpg?t=1510830671,https://cdn.akamai.steamstatic.com/steam/apps/738310/ss_26db81e6f8c6c38ec34e517cde10a163e0eaa9d1.1920x1080.jpg?t=1510830671,https://cdn.akamai.steamstatic.com/steam/apps/738310/ss_424c41c58ab9c4337fa0293368b6afee9832f3a7.1920x1080.jpg?t=1510830671,https://cdn.akamai.steamstatic.com/steam/apps/738310/ss_32d260ad9c45cb303851d93e00178891b5a0f87a.1920x1080.jpg?t=1510830671,https://cdn.akamai.steamstatic.com/steam/apps/738310/ss_a57c4496f4177678f6baa0d05751d5087b23f7ef.1920x1080.jpg?t=1510830671",
+    "Slug": "the-vu",
+    "Meta Title": "The VU: Nov 16, 2017, David W. Johnson and Full Overview",
+    "Meta Description": "Looking for information on The VU? Check out the release date (Nov 16, 2017), developer insights from David W. Johnson, and a complete game summary.",
+    "Alt Text Image": "Official header image for The VU game - Steam 738310",
+    "Canonical URL": "https://gusku.site/game/the-vu",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The VU\", \"description\": \"Looking for information on The VU? Check out the release date (Nov 16, 2017), developer insights from David W. Johnson, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 16, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"David W. Johnson\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Argos.VU\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/738310/header.jpg?t=1510830671\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

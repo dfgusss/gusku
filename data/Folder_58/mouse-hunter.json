@@ -1,0 +1,21 @@
+{
+    "AppID": 1659470,
+    "Name": "Mouse Hunter",
+    "Release date": "Jun 20, 2021",
+    "About the game": "Mouse Hunter - a puzzle game with a top view, executed in 2D graphics, where you have to catch the mouse. The essence of the game is simple - you need to prevent the mouse from reaching the cheese by placing mousetraps, but in reality this task is not an easy one. The course of the game: a mouse appears on the map with a heap of cheese and one by one you place a mousetrap that should prevent it, and it takes a step, including diagonally. Victory is awarded if the mouse is trapped or surrounded by them without the possibility of a move. Complete all 100 levels and catch annoying thief mice!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1659470/header.jpg?t=1624208451",
+    "Price": 9.99,
+    "Developers": "Stas Paty9mkin",
+    "Publishers": "Piece Of Voxel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1659470/ss_cce433ecb2654f92fc0e00a04e8efeb880e5f8c1.1920x1080.jpg?t=1624208451,https://cdn.akamai.steamstatic.com/steam/apps/1659470/ss_ff9780f8c08564a6d3b7062747c6cd8fea872712.1920x1080.jpg?t=1624208451,https://cdn.akamai.steamstatic.com/steam/apps/1659470/ss_3a8c59bd929c1ce758e2d47f35694a79ec16db52.1920x1080.jpg?t=1624208451,https://cdn.akamai.steamstatic.com/steam/apps/1659470/ss_b0bfa0dafae4fa09c0774606cee242e814fe58da.1920x1080.jpg?t=1624208451,https://cdn.akamai.steamstatic.com/steam/apps/1659470/ss_a79416f8090e358f7c4100d92b07ba419b41d0db.1920x1080.jpg?t=1624208451,https://cdn.akamai.steamstatic.com/steam/apps/1659470/ss_112f0a51250fc2f969ecd43beef496e9ba4952ce.1920x1080.jpg?t=1624208451",
+    "Slug": "mouse-hunter",
+    "Meta Title": "Mouse Hunter: Jun 20, 2021, Stas Paty9mkin and Full Overview",
+    "Meta Description": "Looking for information on Mouse Hunter? Check out the release date (Jun 20, 2021), developer insights from Stas Paty9mkin, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mouse Hunter game - Steam 1659470",
+    "Canonical URL": "https://gusku.site/game/mouse-hunter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mouse Hunter\", \"description\": \"Looking for information on Mouse Hunter? Check out the release date (Jun 20, 2021), developer insights from Stas Paty9mkin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 20, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Stas Paty9mkin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Piece Of Voxel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1659470/header.jpg?t=1624208451\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

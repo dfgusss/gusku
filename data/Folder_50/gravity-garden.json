@@ -1,0 +1,21 @@
+{
+    "AppID": 609360,
+    "Name": "Gravity Garden",
+    "Release date": "Nov 4, 2019",
+    "About the game": "Gravity Garden is a cosmic VR farming simulation. Development of this game has been cancelled. Please see the announcements page for more info. The free demo is still available. This is an open-world simulation of plants that live and grow according to the conditions in their environment. Plant your seeds anywhere - there are no rigid plots or grids. It's a sandbox experience where you are free to do as you please. Work towards a series of increasingly difficult achievements or simply grow a beautiful garden and admire the view. Features planned for the final version : Care for your plants by providing proper surroundings, water, and nutrients. Explore your MiniVerse filled with floating islands and organic, fractal structures. Discover dozens of bizarre plants and critters. Defend your garden from invading pests and weeds. Collect alien artifacts. Earn Achievements by completing fun challenges. Don't forget to sample to fruits of your labor. Gravity Garden is still in an early stage of development. There are about a dozen kinds of plant to care for, a few critters to observe, and a small world to explore. Not much actual 'game' in there yet, though. You can get a good feel for where the Garden is headed and help shape its progress by offering feedback and suggestions. I'm a solo game developer so every bit of feedback I get is very useful. I'm excited to hear your ideas and suggestions for the Garden. Check out the Community Hub for release notes, to-do lists, feedback, and suggestions Requires a SteamVR compatible headset. Not yet tested with Windows Mixed Reality or Index Headsets, but should work with standard button mappings. Conversion to the new SteamVR Input system is on the to-do list which will improve compatibility. A strong CPU and GPU will let you grow up to a thousand plants at once. A min-spec VR system will probably struggle after 50 or 100...at least for now.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/609360/header.jpg?t=1594522830",
+    "Price": 0.0,
+    "Developers": "Don Whitaker",
+    "Publishers": "Brain Blinks",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/609360/ss_c3bca929084908300f5a41580a7bf8e322978278.1920x1080.jpg?t=1594522830,https://cdn.akamai.steamstatic.com/steam/apps/609360/ss_a53ae0bac1fc692dc7fd36689c056a2eb28cc0f8.1920x1080.jpg?t=1594522830,https://cdn.akamai.steamstatic.com/steam/apps/609360/ss_6dcffaeefc9338da9a05ebb7baa880c74ee02d03.1920x1080.jpg?t=1594522830,https://cdn.akamai.steamstatic.com/steam/apps/609360/ss_0bdb84ab04ddac08df3ab97f279e65089219389b.1920x1080.jpg?t=1594522830,https://cdn.akamai.steamstatic.com/steam/apps/609360/ss_aea629f59473f1730372898683a9022e3cd9fa5d.1920x1080.jpg?t=1594522830",
+    "Slug": "gravity-garden",
+    "Meta Title": "Gravity Garden: Nov 4, 2019, Don Whitaker and Full Overview",
+    "Meta Description": "Looking for information on Gravity Garden? Check out the release date (Nov 4, 2019), developer insights from Don Whitaker, and a complete game summary.",
+    "Alt Text Image": "Official header image for Gravity Garden game - Steam 609360",
+    "Canonical URL": "https://gusku.site/game/gravity-garden",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Gravity Garden\", \"description\": \"Looking for information on Gravity Garden? Check out the release date (Nov 4, 2019), developer insights from Don Whitaker, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 4, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Don Whitaker\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Brain Blinks\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/609360/header.jpg?t=1594522830\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

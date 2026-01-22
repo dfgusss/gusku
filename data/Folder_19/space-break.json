@@ -1,0 +1,21 @@
+{
+    "AppID": 910700,
+    "Name": "Space Break",
+    "Release date": "Aug 12, 2018",
+    "About the game": "This is a casual, 3D game with space battles. The purpose of the game is to defeat opponents of 24 levels. There are 14 controlable ships on the player side (7 battleships, 2 frigates, 4 strikes, 1 carrier). The player controls five different spaceships at each level. During the battle you can switch ships and different ships can attack different opponents. Radar signs will always show you locations of opponents. There are two types of views: - the fixed view keeps the designated enemy ship at the top right corner of the screen - you can look around with the rotatable view Tactical element: - battleship bring on more hit (3x) to frigate - frigate bring on more hit (3x) to strike - strike bring on more hit (3x) to battleship The gameplay can be paused and resumed by pressing „P” key. Features: spaceship battles there are 14 controlable ships controlling five ships at the same time (during a battle) tactical element for battles 21 levels the gameplay can be paused and resumed by pressing „P”",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/910700/header.jpg?t=1606213235",
+    "Price": 1.99,
+    "Developers": "Dhause",
+    "Publishers": "Dhause",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/910700/ss_d6cc7cb5649d6e3c10cb81c982992b998c2341d1.1920x1080.jpg?t=1606213235,https://cdn.akamai.steamstatic.com/steam/apps/910700/ss_9452a33ea13d97ac61d72300a02b12206b30de5d.1920x1080.jpg?t=1606213235,https://cdn.akamai.steamstatic.com/steam/apps/910700/ss_676095197206b09250db62755d9b4bb26b31afd5.1920x1080.jpg?t=1606213235,https://cdn.akamai.steamstatic.com/steam/apps/910700/ss_7ba5305b5a591c6cd954d36f44c3882e1aea703c.1920x1080.jpg?t=1606213235,https://cdn.akamai.steamstatic.com/steam/apps/910700/ss_6646a338c7cb287f2d7586a5d42983d15b4ccaac.1920x1080.jpg?t=1606213235,https://cdn.akamai.steamstatic.com/steam/apps/910700/ss_0cf7ce93dd0c5dbeb13fe9372d9b64c240dc992b.1920x1080.jpg?t=1606213235,https://cdn.akamai.steamstatic.com/steam/apps/910700/ss_8e83fd464177ffa80acb539457247c2dec5cfaac.1920x1080.jpg?t=1606213235",
+    "Slug": "space-break",
+    "Meta Title": "Space Break: Aug 12, 2018, Dhause and Full Overview",
+    "Meta Description": "Looking for information on Space Break? Check out the release date (Aug 12, 2018), developer insights from Dhause, and a complete game summary.",
+    "Alt Text Image": "Official header image for Space Break game - Steam 910700",
+    "Canonical URL": "https://gusku.site/game/space-break",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Space Break\", \"description\": \"Looking for information on Space Break? Check out the release date (Aug 12, 2018), developer insights from Dhause, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 12, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dhause\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dhause\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/910700/header.jpg?t=1606213235\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

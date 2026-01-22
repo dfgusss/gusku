@@ -1,0 +1,21 @@
+{
+    "AppID": 2019220,
+    "Name": "Try Me",
+    "Release date": "Jul 11, 2022",
+    "About the game": "Try Me is a 3D Platform game where moving a ball to a floating square has never been more difficult. This game is completely torque based and all about momentum. This game offers multiple challenging levels with new mechanics the farther you get, as well as and endless mode to really test your skill.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2019220/header.jpg?t=1657584062",
+    "Price": 0.0,
+    "Developers": "Matthew Weston",
+    "Publishers": "ATR",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2019220/ss_340e4aacfd7df67fd7d6c31a55df2d751596b619.1920x1080.jpg?t=1657584062,https://cdn.akamai.steamstatic.com/steam/apps/2019220/ss_78795317371ba91aed1c8ac59bb966c48dcf0a89.1920x1080.jpg?t=1657584062,https://cdn.akamai.steamstatic.com/steam/apps/2019220/ss_bb8b5507aba2736d81308f06d282a42e12d49f86.1920x1080.jpg?t=1657584062,https://cdn.akamai.steamstatic.com/steam/apps/2019220/ss_9e43eb9701e06fb64310e715c91ce9f027fb98e5.1920x1080.jpg?t=1657584062,https://cdn.akamai.steamstatic.com/steam/apps/2019220/ss_2d217497853f4d991d93446f9bb7ba9fc9057dc5.1920x1080.jpg?t=1657584062",
+    "Slug": "try-me",
+    "Meta Title": "Try Me: Jul 11, 2022, Matthew Weston and Full Overview",
+    "Meta Description": "Looking for information on Try Me? Check out the release date (Jul 11, 2022), developer insights from Matthew Weston, and a complete game summary.",
+    "Alt Text Image": "Official header image for Try Me game - Steam 2019220",
+    "Canonical URL": "https://gusku.site/game/try-me",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Try Me\", \"description\": \"Looking for information on Try Me? Check out the release date (Jul 11, 2022), developer insights from Matthew Weston, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matthew Weston\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ATR\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2019220/header.jpg?t=1657584062\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1837920,
+    "Name": "Mining Cats",
+    "Release date": "Dec 16, 2021",
+    "About the game": "Now the kittens are working in gemstone mines. Every time a mine cart unloads at the end of the railway track, they go down the stairs to collect the gems. Each level has a grid of squares with colored gems occupying some of the squares. The objective is to connect gem mines of the same color by drawing 'gunpowder trail' between them such that when it explodes, the entire grid is occupied by railway tracks. However, railway tracks may not intersect. Difficulty is primarily determined by the size of the grid, ranging from 4x4 to 7x7 squares. 1 - Click on a gemstone mine and drag the mouse towards another gemstone mine of the same color: 2 - All barrels must be destroyed: 3 - Railway tracks may not intersect: 4 - The kittens go down the stairs to collect the gems: Features: Solve 200 puzzles carefully selected; Enjoy four different types of environments; Soundtrack to help you keep your focus and concentration; Everything in the game was made with a lot of love and craftsmanship.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1837920/header.jpg?t=1645709526",
+    "Price": 1.99,
+    "Developers": "Minicactus Games",
+    "Publishers": "Minicactus Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1837920/ss_c41d5d8c47c1412f646c2e3e9f887bd8d0431155.1920x1080.jpg?t=1645709526,https://cdn.akamai.steamstatic.com/steam/apps/1837920/ss_b9ed2050852e9f1f59984059dbcf0b6445dfcd3c.1920x1080.jpg?t=1645709526,https://cdn.akamai.steamstatic.com/steam/apps/1837920/ss_1fcc2d2a7d13781d02c2d6ff290f56508d6bf95f.1920x1080.jpg?t=1645709526,https://cdn.akamai.steamstatic.com/steam/apps/1837920/ss_e9c8d13ad72b5a2884e7181a96c547a378a6defb.1920x1080.jpg?t=1645709526,https://cdn.akamai.steamstatic.com/steam/apps/1837920/ss_ab2247eabcec6df78e11bd2ad32015c6989e346c.1920x1080.jpg?t=1645709526,https://cdn.akamai.steamstatic.com/steam/apps/1837920/ss_81f3851b245e0ee5c9d1522ae457017741c01f75.1920x1080.jpg?t=1645709526,https://cdn.akamai.steamstatic.com/steam/apps/1837920/ss_0700477c4ae1e34ebde0002ce9a8632e3b949bed.1920x1080.jpg?t=1645709526,https://cdn.akamai.steamstatic.com/steam/apps/1837920/ss_acbb90ce2312880d7c4e3edb483a93f3315e839a.1920x1080.jpg?t=1645709526,https://cdn.akamai.steamstatic.com/steam/apps/1837920/ss_c56ab49cca24a3b447bb5088b0f380a742557cdf.1920x1080.jpg?t=1645709526",
+    "Slug": "mining-cats",
+    "Meta Title": "Mining Cats: Dec 16, 2021, Minicactus Games and Full Over...",
+    "Meta Description": "Looking for information on Mining Cats? Check out the release date (Dec 16, 2021), developer insights from Minicactus Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mining Cats game - Steam 1837920",
+    "Canonical URL": "https://gusku.site/game/mining-cats",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mining Cats\", \"description\": \"Looking for information on Mining Cats? Check out the release date (Dec 16, 2021), developer insights from Minicactus Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 16, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Minicactus Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Minicactus Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1837920/header.jpg?t=1645709526\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

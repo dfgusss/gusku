@@ -1,0 +1,21 @@
+{
+    "AppID": 910750,
+    "Name": "Battle Species",
+    "Release date": "Oct 11, 2018",
+    "About the game": "Being a pirate doesn’t depend on the species. The battle for the dominance of the Caribbean is ruthless. Take a part in the epic struggle between moles, monkeys and other BATTLE SPECIES! Battle Species is a fast-paced game where animal characters are fighting against each other in a pirate theme. Playful game mechanics, destroyable terrain and clear graphics make the gaming experience interesting. Your job is to control a mole on a catapult and try to eliminate a bunch of pirate monkeys that have conquered your castles. Monkeys will use their cannons to make it as hard as possible for you as a player. Luckily you will constantly receive some help from above, in form of air drops containing special ammunition to be thrown at the monkeys. Air drops can also carry medikits and special kind of shields to protect you. The single player campaign includes ten different levels which can be played on three difficulty levels. Each level features a randomly generated terrain, which will be different every time you play. Levels do not have any time limits for completing them, but destructing terrain and slowly rising tide make the job harder as time passes. Default keyboard controls Arrows left / right : drive the catapult backwards and forwards Arrow up : the catapult jumps Arrow down + arrow left / right : see the ammo trajectory and adjust the catapult shooting force Enter : use the current special item you have collected Space : release the catapult arm == shoot! We also have preliminary gamepad support configured in. Feel free to experiment on that if you will (we have tested briefly with old Logitech pad). We know that the launcher provided input configuration is totally crappy, and we are sorry about that! The plan is to build proper configurability to the in-game options menu soon.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/910750/header.jpg?t=1547366971",
+    "Price": 3.99,
+    "Developers": "TeeKoo Games Ltd",
+    "Publishers": "TeeKoo Games Ltd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/910750/ss_dd4b23fb273a163ebaf98a2470d9b316be64239e.1920x1080.jpg?t=1547366971,https://cdn.akamai.steamstatic.com/steam/apps/910750/ss_2ed9987f82120248be90b1476c90f9041e1c2efd.1920x1080.jpg?t=1547366971,https://cdn.akamai.steamstatic.com/steam/apps/910750/ss_6c6513f08f3d4d4b246a08e69651ee3effd9bff8.1920x1080.jpg?t=1547366971,https://cdn.akamai.steamstatic.com/steam/apps/910750/ss_3caa1555f92086c8538b4f05d9b3fa799b3ff6e0.1920x1080.jpg?t=1547366971,https://cdn.akamai.steamstatic.com/steam/apps/910750/ss_b26a4919a400f21de688d37dedb774842d95ac54.1920x1080.jpg?t=1547366971,https://cdn.akamai.steamstatic.com/steam/apps/910750/ss_095018ea38615e94453e9859bd9cdf03015ab78c.1920x1080.jpg?t=1547366971",
+    "Slug": "battle-species",
+    "Meta Title": "Battle Species: Oct 11, 2018, TeeKoo Games Ltd and Full O...",
+    "Meta Description": "Looking for information on Battle Species? Check out the release date (Oct 11, 2018), developer insights from TeeKoo Games Ltd, and a complete game summ...",
+    "Alt Text Image": "Official header image for Battle Species game - Steam 910750",
+    "Canonical URL": "https://gusku.site/game/battle-species",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Battle Species\", \"description\": \"Looking for information on Battle Species? Check out the release date (Oct 11, 2018), developer insights from TeeKoo Games Ltd, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 11, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"TeeKoo Games Ltd\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TeeKoo Games Ltd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/910750/header.jpg?t=1547366971\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

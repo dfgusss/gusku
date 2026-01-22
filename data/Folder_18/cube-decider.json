@@ -1,0 +1,21 @@
+{
+    "AppID": 2008850,
+    "Name": "Cube Decider",
+    "Release date": "Jun 23, 2022",
+    "About the game": "You are a Cube with a sword; your default stats values are 1 damage point, 5 health points and 0 armor points. Your stats reset to the default values at the beginning of each game level. Then while you are making the way through the level, stats are changed depending on taken power-ups and defeated enemies. You initiate all attacks and decide whom to attack first. The fight is turn based. After you attack an enemy, the enemy will attack in turn if it is still alive. You can “die” if your health becomes below zero; but you can make successful attack even having zero health points. If you die, you will have to start the level from the beginning. Also you can restart the current level any time. You task is to attack enemies in the right order to have enough health, damage, and armor to be able to make it through the level to the exit point. Features: 50 levels 4 bonus levels 4 power-ups types 28 collectible cards turn based fights",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2008850/header.jpg?t=1658706079",
+    "Price": 3.99,
+    "Developers": "DillyFrame",
+    "Publishers": "DillyFrame",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2008850/ss_983374e7c7f0500077b8a474681b442d757c95f0.1920x1080.jpg?t=1658706079,https://cdn.akamai.steamstatic.com/steam/apps/2008850/ss_b56fdc244e70d8c7c936896461ca6136be5ba69a.1920x1080.jpg?t=1658706079,https://cdn.akamai.steamstatic.com/steam/apps/2008850/ss_9abbbfde64f8dcc66e1ec01d7aec753504667106.1920x1080.jpg?t=1658706079,https://cdn.akamai.steamstatic.com/steam/apps/2008850/ss_8a972a84a8c553259148eb3c3b2c8f448fb86bf6.1920x1080.jpg?t=1658706079,https://cdn.akamai.steamstatic.com/steam/apps/2008850/ss_8f0ff8dffb060d9e3cd894e62e880181515416eb.1920x1080.jpg?t=1658706079",
+    "Slug": "cube-decider",
+    "Meta Title": "Cube Decider: Jun 23, 2022, DillyFrame and Full Overview",
+    "Meta Description": "Looking for information on Cube Decider? Check out the release date (Jun 23, 2022), developer insights from DillyFrame, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cube Decider game - Steam 2008850",
+    "Canonical URL": "https://gusku.site/game/cube-decider",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cube Decider\", \"description\": \"Looking for information on Cube Decider? Check out the release date (Jun 23, 2022), developer insights from DillyFrame, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 23, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"DillyFrame\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DillyFrame\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2008850/header.jpg?t=1658706079\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

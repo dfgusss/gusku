@@ -1,0 +1,21 @@
+{
+    "AppID": 652140,
+    "Name": "Echo Nine",
+    "Release date": "Nov 7, 2017",
+    "About the game": "Echo Nine is intended to be reminiscent of the old arcade classic space shooters like Galaga or Gaplus. Pickups enhance the ship and its capabilities Enemies ships evolve and become more difficult Additional obstacles will be added as the game progresses Levels will also add new and exciting events and game mechanics The currently available game mode is called Survival. you get one life and your goal is to survive the round and score the most points possible. Can you set the high score? The current build is Windows only. There will be builds for Mac and Linux in the future. The development will be done on Windows and the alternate packages will come later. Future updates will include new game modes including Arcade and Campaign modes. In arcade mode you will play stage after stage, each getting tougher than the previous. How far you can make it depends on your skill and luck. Your ship upgrades stay with you into the next round and you only reset when you die. You will have a limited number of lives with the ability to earn more through in game pickups and score bonuses. When your last ship is destroyed your game is over. Campaign mode offers you the ability to save your progress. You will be able to acquire, sell, and buy ship upgrades. Before each round you can equip your ship with the upgrades you have available to you in your inventory. You will unlock the ability to purchase an upgrade in the ship store when you collect that upgrade in a game round/level. If you die you lose the equipped upgrades so be careful not to risk too much. In this mode you will be able to retry each level until you complete it and there will be boss fights. We hope you enjoy the game and we welcome your feedback.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/652140/header.jpg?t=1510434939",
+    "Price": 4.99,
+    "Developers": "EchoNineGames",
+    "Publishers": "Devil Dog Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/652140/ss_5c9a54fd82d6bc8ec31c01410f4b12281beeaac8.1920x1080.jpg?t=1510434939,https://cdn.akamai.steamstatic.com/steam/apps/652140/ss_acd9cd745180fb0ffbd69e1e08cac5c7f3c03730.1920x1080.jpg?t=1510434939,https://cdn.akamai.steamstatic.com/steam/apps/652140/ss_885d15735766850e369b8050ce0583576d941922.1920x1080.jpg?t=1510434939,https://cdn.akamai.steamstatic.com/steam/apps/652140/ss_d5eb4751e963ee8cdc60065c0dfe82fd357ac1f5.1920x1080.jpg?t=1510434939,https://cdn.akamai.steamstatic.com/steam/apps/652140/ss_13c245806f9575c214ae8b5cb3eaef113569a5a2.1920x1080.jpg?t=1510434939,https://cdn.akamai.steamstatic.com/steam/apps/652140/ss_7caf3cf7ce2ed893787dced7e9a4e5a413ca12d3.1920x1080.jpg?t=1510434939,https://cdn.akamai.steamstatic.com/steam/apps/652140/ss_f90c395345b5e89ac4ec3e82243705054ac205ce.1920x1080.jpg?t=1510434939",
+    "Slug": "echo-nine",
+    "Meta Title": "Echo Nine: Nov 7, 2017, EchoNineGames and Full Overview",
+    "Meta Description": "Looking for information on Echo Nine? Check out the release date (Nov 7, 2017), developer insights from EchoNineGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Echo Nine game - Steam 652140",
+    "Canonical URL": "https://gusku.site/game/echo-nine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Echo Nine\", \"description\": \"Looking for information on Echo Nine? Check out the release date (Nov 7, 2017), developer insights from EchoNineGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 7, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"EchoNineGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Devil Dog Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/652140/header.jpg?t=1510434939\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

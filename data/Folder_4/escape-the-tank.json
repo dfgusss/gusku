@@ -1,0 +1,21 @@
+{
+    "AppID": 1444370,
+    "Name": "Escape The Tank",
+    "Release date": "Feb 24, 2021",
+    "About the game": "solo project, this is the first game i have ever made and is the result of teaching myself how to use a game engine. this is a simple 3d platform game set inside a fish tank. 20 different levels to play through (+1 secret level) Explore the tank, avoid dangers, solve problems and jump around to find your way out. Pretty simple but surprisingly fun to play. this game is no triple-A blockbuster, but i am hoping this simple game might inspire others to try and learn developing as well. I intend to continually improve on this game over time. (NOTE: a rebuild of this game will be released in this place sometime in the future, however the time frame on which that will happen is uncertain. jump on this now before the price goes up with the next big update!!) thank you for your consideration :)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1444370/header.jpg?t=1629099196",
+    "Price": 1.99,
+    "Developers": "Beelson516",
+    "Publishers": "self published",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1444370/ss_05208612950cce987af6a40c5728c24e1eea0bef.1920x1080.jpg?t=1629099196,https://cdn.akamai.steamstatic.com/steam/apps/1444370/ss_af0213a5e99aa2d7cd0d37f83eebed424da43191.1920x1080.jpg?t=1629099196,https://cdn.akamai.steamstatic.com/steam/apps/1444370/ss_817441d6d0498b694766ba7e62976a43992c6525.1920x1080.jpg?t=1629099196,https://cdn.akamai.steamstatic.com/steam/apps/1444370/ss_16c96f86aaae1d61c93640628f6699fd7feb8624.1920x1080.jpg?t=1629099196,https://cdn.akamai.steamstatic.com/steam/apps/1444370/ss_0c5bf11aa10edc2d0da390f99ac9d328bd8c3ec5.1920x1080.jpg?t=1629099196",
+    "Slug": "escape-the-tank",
+    "Meta Title": "Escape The Tank: Feb 24, 2021, Beelson516 and Full Overview",
+    "Meta Description": "Looking for information on Escape The Tank? Check out the release date (Feb 24, 2021), developer insights from Beelson516, and a complete game summary.",
+    "Alt Text Image": "Official header image for Escape The Tank game - Steam 1444370",
+    "Canonical URL": "https://gusku.site/game/escape-the-tank",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Escape The Tank\", \"description\": \"Looking for information on Escape The Tank? Check out the release date (Feb 24, 2021), developer insights from Beelson516, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 24, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Beelson516\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"self published\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1444370/header.jpg?t=1629099196\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

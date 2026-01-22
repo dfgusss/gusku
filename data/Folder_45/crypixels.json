@@ -1,0 +1,21 @@
+{
+    "AppID": 776180,
+    "Name": "CryPixels",
+    "Release date": "May 22, 2020",
+    "About the game": "Procedural Pixel Art Generator Easily create hundreds of pixel art sprites for games or any other project, with an easy to use interface. Build your own generation grid using pre-defined options, then start generating using the different output settings. User has complete control over all the generation process, from the initial grid to the settings used during generation. Includes a collection of pre-built grids to get you up and running quickly, which can be edited to suit your needs. Some of the features included: Create .crypix generation grids using the 5 procedural grid brushes. Mirror the grid vertically, horizontally or in both directions. Switch between Grid View, Output view and a Split Panel View. Output up-to 500 sprites per re-generation. Change the output preview background colour. Scale the outputted sprites up-to 8x. Output .png sprite in original pixel size or scaled pixel size. Undo/Redo grid changes up-to 10 actions. Import/Export .crypix grid files. 1-bit mode for retro style sprites. And much more… All purchases include the following: 14 example generation grids to get you started. Free updates for the whole v1.x series up to v1.9. Priority support via email or the forum.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/776180/header.jpg?t=1632304829",
+    "Price": 19.99,
+    "Developers": "CrySoftware",
+    "Publishers": "CrySoftware",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/776180/ss_6501e5090ea247027426493c79161feb34807700.1920x1080.jpg?t=1632304829,https://cdn.akamai.steamstatic.com/steam/apps/776180/ss_d7e7d4dd10931e2836e6ed06af47ae78f86aafc3.1920x1080.jpg?t=1632304829,https://cdn.akamai.steamstatic.com/steam/apps/776180/ss_d9913fc0947eb982d2ca9f6772cd4c9a2458fd2e.1920x1080.jpg?t=1632304829,https://cdn.akamai.steamstatic.com/steam/apps/776180/ss_52d2a0a70a9bb80f9850e0889ef73d04d0687553.1920x1080.jpg?t=1632304829,https://cdn.akamai.steamstatic.com/steam/apps/776180/ss_0975d57e237b4a03eeaf828d090b1db12835a815.1920x1080.jpg?t=1632304829,https://cdn.akamai.steamstatic.com/steam/apps/776180/ss_95aadef5df9fbbf2a34989272c5dae6f93b722d7.1920x1080.jpg?t=1632304829,https://cdn.akamai.steamstatic.com/steam/apps/776180/ss_f476b581e0b83e8483e2c8736d3ed0fb90a77a77.1920x1080.jpg?t=1632304829",
+    "Slug": "crypixels",
+    "Meta Title": "CryPixels: May 22, 2020, CrySoftware and Full Overview",
+    "Meta Description": "Looking for information on CryPixels? Check out the release date (May 22, 2020), developer insights from CrySoftware, and a complete game summary.",
+    "Alt Text Image": "Official header image for CryPixels game - Steam 776180",
+    "Canonical URL": "https://gusku.site/game/crypixels",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CryPixels\", \"description\": \"Looking for information on CryPixels? Check out the release date (May 22, 2020), developer insights from CrySoftware, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 22, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"CrySoftware\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CrySoftware\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/776180/header.jpg?t=1632304829\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

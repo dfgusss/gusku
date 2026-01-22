@@ -1,0 +1,21 @@
+{
+    "AppID": 457690,
+    "Name": "Hotel Blind",
+    "Release date": "Apr 5, 2016",
+    "About the game": "Hotel Blind is a simulator of a blind person in a hotel room. Enter a new room and complete five objectives before leaving the room. Text popups and audio describe the objects in the room and the walls, allowing you to map out the room in your mind as you play. Navigate the room using movement keys or your gamepad. Completing all of the objectives will complete the room. Each play starts a random room. Hotel Blind can be a standard experience, or a VR experience on the Oculus Rift or HTC Vive. Hotel Blind is powered by Unreal Engine 4. It is inspired by this NPR Story: -archives/episode/464/invisible-made-visible",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/457690/header.jpg?t=1473804403",
+    "Price": 1.99,
+    "Developers": "Serellan LLC",
+    "Publishers": "Serellan LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/457690/ss_281cc41fcbb2eb0d7154f88783f30c423c7fc5cd.1920x1080.jpg?t=1473804403,https://cdn.akamai.steamstatic.com/steam/apps/457690/ss_071aaadbf6f4a15572c729f5577dbe6a5bbcea44.1920x1080.jpg?t=1473804403,https://cdn.akamai.steamstatic.com/steam/apps/457690/ss_36f2eea7a6f9a20da0405a550e03767141bd5123.1920x1080.jpg?t=1473804403,https://cdn.akamai.steamstatic.com/steam/apps/457690/ss_e5e9b459d8f49ec3612a270c20a6613259efc0f3.1920x1080.jpg?t=1473804403,https://cdn.akamai.steamstatic.com/steam/apps/457690/ss_8cfbee9b09183f0274ff48dce57d40c9179598bd.1920x1080.jpg?t=1473804403",
+    "Slug": "hotel-blind",
+    "Meta Title": "Hotel Blind: Apr 5, 2016, Serellan LLC and Full Overview",
+    "Meta Description": "Looking for information on Hotel Blind? Check out the release date (Apr 5, 2016), developer insights from Serellan LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hotel Blind game - Steam 457690",
+    "Canonical URL": "https://gusku.site/game/hotel-blind",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hotel Blind\", \"description\": \"Looking for information on Hotel Blind? Check out the release date (Apr 5, 2016), developer insights from Serellan LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 5, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Serellan LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Serellan LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/457690/header.jpg?t=1473804403\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

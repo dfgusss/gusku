@@ -1,0 +1,21 @@
+{
+    "AppID": 1951140,
+    "Name": "Kaiju",
+    "Release date": "Jun 2, 2022",
+    "About the game": "Kaiju is a collection of 2D and 3D audio visualizations ranging from calming waves to clinical spectra and psychedelic fractals. It makes waves. Kaiju listens to your system audio to drive its visualizations in real time. This means music and video streaming services, games, movies and even human voices from VOIP all work to power the effects; it hears what you hear. Alternatively, your microphone can be used to make your voice and the ambience of the room drive the system. Kaiju does not record any audio or require special permissions. It makes use of Windows' audio APIs commonly used for noise cancellation. Key Features Real time 2D and 3D visualizations Works with streaming services, VOIP, games and more... Themes and modulation of effects",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1951140/header.jpg?t=1656924675",
+    "Price": 2.99,
+    "Developers": "Minimal Studios",
+    "Publishers": "Minimal Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_997c67cf2e78cfbd37a512c513273a67ac2effa5.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_4746405708e527c362706187d7547499fcb2740e.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_c9533975c209144068ba47e2efb893da748fa743.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_bd81ddc25e7e6a89a78e210e81b01724da7536af.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_4a936755ac6a2a24604c4de05cd32f62edb583c9.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_08c790aa88aef149724c6d3aadcba54dbd704b77.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_6b504c7671b02a14fe63af2b8b28c43dbd0da9fc.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_dc3581b099d20212b4d0d18e856349fa2ab98e29.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_12f7ef7500330ba76572739cf3b7f26e416b5c47.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_00c165bbc3e17be04a69ccf0eecbdf7717516b36.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_331ed8d90a1e41aef9aae54f1aff0a25b8d93c1a.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_3a96b098702ab6abdce7d23a1296504b4946fb4b.1920x1080.jpg?t=1656924675,https://cdn.akamai.steamstatic.com/steam/apps/1951140/ss_62b738dca24a6855c46238e9186d451b33e1bb86.1920x1080.jpg?t=1656924675",
+    "Slug": "kaiju",
+    "Meta Title": "Kaiju: Jun 2, 2022, Minimal Studios and Full Overview",
+    "Meta Description": "Looking for information on Kaiju? Check out the release date (Jun 2, 2022), developer insights from Minimal Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kaiju game - Steam 1951140",
+    "Canonical URL": "https://gusku.site/game/kaiju",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kaiju\", \"description\": \"Looking for information on Kaiju? Check out the release date (Jun 2, 2022), developer insights from Minimal Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Minimal Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Minimal Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1951140/header.jpg?t=1656924675\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

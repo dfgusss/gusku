@@ -1,0 +1,21 @@
+{
+    "AppID": 630510,
+    "Name": "PsychLabVR",
+    "Release date": "May 4, 2017",
+    "About the game": "PsychLabVR is a virtual research center created through a team led by Noah Robinson, a clinical psychology doctoral student at Vanderbilt University. It is freely available on the Steam VR app store. With IRB consent we collect behavioral data and survey response questions in an Internet-connected immersive virtual environment. Our first alpha experiment involves simulated social scenes to measure social anxiety. This data will be used to create an empirical foundation for a free, automated intervention to treat social anxiety disorder. We also hope to open the platform to other researchers who can collected data with Unity-based environments in PsychLabVR. If you'd like to learn more, please contact Noah Robinson. PsychLabVR will be updated with future experiments and free treatments. **Loading times between scenes may take 1-5 minutes and the program may appear frozen. We are trying to fix this, but if you wait eventually it will load the next part of our experiment. Thank you for your patience! **",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/630510/header.jpg?t=1556056326",
+    "Price": 0.0,
+    "Developers": "Noah Robinson",
+    "Publishers": "Noah Robinson",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/630510/ss_750fc3427f4d68edb4af4017475c6f1f6a245422.1920x1080.jpg?t=1556056326,https://cdn.akamai.steamstatic.com/steam/apps/630510/ss_d94037343ee4061fe377c09ba11e0740a5e7112a.1920x1080.jpg?t=1556056326,https://cdn.akamai.steamstatic.com/steam/apps/630510/ss_7b3b41bc613722b4264d9c4af06ec0d1c82e3d3f.1920x1080.jpg?t=1556056326,https://cdn.akamai.steamstatic.com/steam/apps/630510/ss_8b29208eab36e3db1d7b4d23ac5e14e2e68acafd.1920x1080.jpg?t=1556056326,https://cdn.akamai.steamstatic.com/steam/apps/630510/ss_6a1d8211c7b68350c8b66d654e84367cbbdbc573.1920x1080.jpg?t=1556056326,https://cdn.akamai.steamstatic.com/steam/apps/630510/ss_d07d5d7eca1d93adeb8d49835329fd0b1b2b763a.1920x1080.jpg?t=1556056326",
+    "Slug": "psychlabvr",
+    "Meta Title": "PsychLabVR: May 4, 2017, Noah Robinson and Full Overview",
+    "Meta Description": "Looking for information on PsychLabVR? Check out the release date (May 4, 2017), developer insights from Noah Robinson, and a complete game summary.",
+    "Alt Text Image": "Official header image for PsychLabVR game - Steam 630510",
+    "Canonical URL": "https://gusku.site/game/psychlabvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PsychLabVR\", \"description\": \"Looking for information on PsychLabVR? Check out the release date (May 4, 2017), developer insights from Noah Robinson, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 4, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Noah Robinson\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Noah Robinson\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/630510/header.jpg?t=1556056326\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

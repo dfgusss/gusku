@@ -1,0 +1,21 @@
+{
+    "AppID": 721080,
+    "Name": "Bounce Ball",
+    "Release date": "Oct 13, 2017",
+    "About the game": "Bounce Ball is a physics based puzzle game. The objective is to get the Ball through the finish opening. The finish is usually not that easy to get to, so you have to place blocks with angled faces to deflect your Ball. When your Ball impacts the face of a Block, it will ricochet at an angle. You can use this to your advantage to help guide the Ball through the level. To make it more challenging, the color of the Ball must match the color of the level when you pass through the finish. The Ball will always start in white color, to change its color you must collect color orbs that are present on each level. The color orbs come in three primary colors of Red, Blue, and Yellow. When your white Ball collects a primary color, it will become that color. If your ball is already of a primary color, and picks up another primary color, it will mix to form a secondary color. You must be careful to collect only the color orbs that you need, otherwise the color of the Ball won't be correct. There are 40 challenging missions and a tutorial that introduces you to the game mechanics and controls. There are two difficulties; easy and hard. On hard difficulty you have a bounce limit, you must beat the levels within the allowable number of bounces.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/721080/header.jpg?t=1507934300",
+    "Price": 1.99,
+    "Developers": "SP Digital Arts Inc.",
+    "Publishers": "SP Digital Arts Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/721080/ss_9efc81f7c8f39970ed1841f59bd3c2543990f298.1920x1080.jpg?t=1507934300,https://cdn.akamai.steamstatic.com/steam/apps/721080/ss_7535276bd49912f758d6938a83815cfc85c287ac.1920x1080.jpg?t=1507934300,https://cdn.akamai.steamstatic.com/steam/apps/721080/ss_2ed1531d319e461f3a98a7af013511eb6644004e.1920x1080.jpg?t=1507934300,https://cdn.akamai.steamstatic.com/steam/apps/721080/ss_072ca67286d95a27970297daf344b998fd2be209.1920x1080.jpg?t=1507934300,https://cdn.akamai.steamstatic.com/steam/apps/721080/ss_b58e75b15f26dae1b31bc761fa688747ce001965.1920x1080.jpg?t=1507934300,https://cdn.akamai.steamstatic.com/steam/apps/721080/ss_c772458da61b2d740b08e6054977ebd12a2f7f65.1920x1080.jpg?t=1507934300",
+    "Slug": "bounce-ball",
+    "Meta Title": "Bounce Ball: Oct 13, 2017, SP Digital Arts Inc. and Full ...",
+    "Meta Description": "Looking for information on Bounce Ball? Check out the release date (Oct 13, 2017), developer insights from SP Digital Arts Inc., and a complete game sum...",
+    "Alt Text Image": "Official header image for Bounce Ball game - Steam 721080",
+    "Canonical URL": "https://gusku.site/game/bounce-ball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bounce Ball\", \"description\": \"Looking for information on Bounce Ball? Check out the release date (Oct 13, 2017), developer insights from SP Digital Arts Inc., and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 13, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"SP Digital Arts Inc.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SP Digital Arts Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/721080/header.jpg?t=1507934300\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

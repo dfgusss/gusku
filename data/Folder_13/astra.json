@@ -1,0 +1,21 @@
+{
+    "AppID": 1522190,
+    "Name": "ASTRA",
+    "Release date": "Feb 26, 2021",
+    "About the game": "ASTRAは、チップチューン専用シーケンサー（DAW）です。 作成された譜面を元に、波形を動的に生成し、楽曲を制作することができます。 チップチューンとは、今となっては大きな意味を持ちますが ここでの「チップチューン」は、「矩形波、三角波、のこぎり波、ノイズ」等の波形（音色）を使用した音楽のことを指します。 ASTRAには、音源データは含まれていません。そのかわりに、「計算式」が組み込まれています。 あなたが作成した譜面データにあわせて動的に波形を生成し、鳴らす。これが、ASTRAが「シーケンサー」である所以です。 シンプルかつ高機能なASTRAの特徴を紹介します。 ■ チップチューンの打ち込みの最適な、コンテナ・トラック方式 　▶「コンテナ」 　　ASTRAは、楽曲データを「コンテナ」たちによって形成されています。 　　プレイヤーは、コンテナを作成し、コンテナが内包する「トラック」を編集します。 　▶「トラック」 　　コンテナの中には、「トラック」が含まれています。 　　１つのトラックに、１つの音色を記入することができます。 　　そして、ピアノロール操作はこれに最適化されています。 　　トラックは最大１０個まで作成可能となっています。 ■すべてが集約されたコマンド方式 　プレイヤーは、コンソールにコマンドを打ち込むことで、 　再生、保存、ビブラートのかかり具合の調整から、ピッチの調整など、 　様々なことを行うことができます。 　ASTRAの機能はほぼすべてが、コマンドに集約されているため、 　非常にシンプルかつ高機能なデザインを保っています。 　「コマンド」というと一見敷居が高いように思えますが、そうではありません。 　プレイヤーはreadmeに書かれたコマンドを眺めるだけで、 　ASTRAのほぼすべての機能を網羅することができます。 　他社製の非常に高級で多機能なDAWを使用するとき、あなたは機能をすべて把握できるでしょうか？ 　まず、使い方をググることになるでしょう。 　ASTRAでは、それが必要ありません。 それではさっそく、チップチューンの制作に取り掛かりましょう。 ASTRAを使って。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1522190/header.jpg?t=1614330471",
+    "Price": 0.0,
+    "Developers": "Amemi Kinosuke",
+    "Publishers": "Personal",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1522190/ss_62e41081a522508bf3648f22cba9f335bf51e1f0.1920x1080.jpg?t=1614330471,https://cdn.akamai.steamstatic.com/steam/apps/1522190/ss_d7d35918c714eb106275b664f832f8732aeaf48f.1920x1080.jpg?t=1614330471,https://cdn.akamai.steamstatic.com/steam/apps/1522190/ss_22bee9a14c4c22e79ccffbd35177ebe38e2db469.1920x1080.jpg?t=1614330471,https://cdn.akamai.steamstatic.com/steam/apps/1522190/ss_02d5160a8a9bbe242fc6ed54b27f16eab652db6b.1920x1080.jpg?t=1614330471,https://cdn.akamai.steamstatic.com/steam/apps/1522190/ss_259f4340712880188cf6df4c52039da861edd243.1920x1080.jpg?t=1614330471",
+    "Slug": "astra",
+    "Meta Title": "ASTRA: Feb 26, 2021, Amemi Kinosuke and Full Overview",
+    "Meta Description": "Looking for information on ASTRA? Check out the release date (Feb 26, 2021), developer insights from Amemi Kinosuke, and a complete game summary.",
+    "Alt Text Image": "Official header image for ASTRA game - Steam 1522190",
+    "Canonical URL": "https://gusku.site/game/astra",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ASTRA\", \"description\": \"Looking for information on ASTRA? Check out the release date (Feb 26, 2021), developer insights from Amemi Kinosuke, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 26, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Amemi Kinosuke\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Personal\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1522190/header.jpg?t=1614330471\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

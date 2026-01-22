@@ -1,0 +1,21 @@
+{
+    "AppID": 526090,
+    "Name": "Very Real Chess",
+    "Release date": "Nov 11, 2016",
+    "About the game": "Very Real Chess is one of the first Virtual Reality chess games created specifically for a Steam VR experience. Compete one-on-one with AI in a fully featured chess environment. Key Features: Move around in a simplistic room-scale or standing-only game environment Play against the computer with one of the best AI in the world -- the Stockfish chess engine Play on either side as white or black Wrong move detection tells you when a move is not possible Overhead view allows the player to see the chessboard from above like a traditional 2D chess game Interested in developing your own virtual reality experience? Very Real Chess is released under the GPL 3.0 license, so contact the developer for source code!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/526090/header.jpg?t=1478923016",
+    "Price": 0.99,
+    "Developers": "Zachary Geier",
+    "Publishers": "Zachary Geier",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/526090/ss_1c32acebbb5cde3581ee0ed522b4c53641069b40.1920x1080.jpg?t=1478923016,https://cdn.akamai.steamstatic.com/steam/apps/526090/ss_391c10d94cd4102228ab32a787e046b5edf965d2.1920x1080.jpg?t=1478923016,https://cdn.akamai.steamstatic.com/steam/apps/526090/ss_1e67bb71fb4a6ff441b2787ab3e39bd9382eeaf1.1920x1080.jpg?t=1478923016,https://cdn.akamai.steamstatic.com/steam/apps/526090/ss_356007d0f329cdd1c347affcff7850fcdb689e1b.1920x1080.jpg?t=1478923016,https://cdn.akamai.steamstatic.com/steam/apps/526090/ss_bab0f197b4ff62c0bb159e5ec680af54c254090a.1920x1080.jpg?t=1478923016",
+    "Slug": "very-real-chess",
+    "Meta Title": "Very Real Chess: Nov 11, 2016, Zachary Geier and Full Ove...",
+    "Meta Description": "Looking for information on Very Real Chess? Check out the release date (Nov 11, 2016), developer insights from Zachary Geier, and a complete game summary.",
+    "Alt Text Image": "Official header image for Very Real Chess game - Steam 526090",
+    "Canonical URL": "https://gusku.site/game/very-real-chess",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Very Real Chess\", \"description\": \"Looking for information on Very Real Chess? Check out the release date (Nov 11, 2016), developer insights from Zachary Geier, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 11, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Zachary Geier\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Zachary Geier\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/526090/header.jpg?t=1478923016\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

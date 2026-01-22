@@ -1,0 +1,21 @@
+{
+    "AppID": 1147840,
+    "Name": "Hyper Storm",
+    "Release date": "Oct 3, 2019",
+    "About the game": "Hyper Storm is an arcade, thrilling shooter with backview. Defeat your enemies and compete for the best scores by controlling futuristic fighters that rush towards your enemies on a stage from ground to space. VR is supported and feedback motion data according to the fighter's movement or combat situation for the simulator is output to the UDP network. Support for SimTools plugins.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1147840/header.jpg?t=1571343912",
+    "Price": 0.99,
+    "Developers": "MotionHouse",
+    "Publishers": "MotionHouse",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1147840/ss_70b869f4f60af586755de83d0f344bf8798b73f8.1920x1080.jpg?t=1571343912,https://cdn.akamai.steamstatic.com/steam/apps/1147840/ss_4496ddbae794be08b0ae7794417fe2cd7fd897a5.1920x1080.jpg?t=1571343912,https://cdn.akamai.steamstatic.com/steam/apps/1147840/ss_932deab081f547b03d5bd634acf0f0385997f6f3.1920x1080.jpg?t=1571343912,https://cdn.akamai.steamstatic.com/steam/apps/1147840/ss_cc586e935b0e562db7c6bf102723d4c48aceda54.1920x1080.jpg?t=1571343912,https://cdn.akamai.steamstatic.com/steam/apps/1147840/ss_f7138a94ecdec2b4cd076a142ef5417abdb2a75f.1920x1080.jpg?t=1571343912,https://cdn.akamai.steamstatic.com/steam/apps/1147840/ss_c9b81f593bef7412c5c14bbe87d609c15853a83f.1920x1080.jpg?t=1571343912",
+    "Slug": "hyper-storm",
+    "Meta Title": "Hyper Storm: Oct 3, 2019, MotionHouse and Full Overview",
+    "Meta Description": "Looking for information on Hyper Storm? Check out the release date (Oct 3, 2019), developer insights from MotionHouse, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hyper Storm game - Steam 1147840",
+    "Canonical URL": "https://gusku.site/game/hyper-storm",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hyper Storm\", \"description\": \"Looking for information on Hyper Storm? Check out the release date (Oct 3, 2019), developer insights from MotionHouse, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 3, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"MotionHouse\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MotionHouse\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1147840/header.jpg?t=1571343912\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

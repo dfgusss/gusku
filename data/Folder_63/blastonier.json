@@ -1,0 +1,21 @@
+{
+    "AppID": 2027420,
+    "Name": "Blastonier",
+    "Release date": "Aug 25, 2022",
+    "About the game": "Blastonier is a short 2D physics-based experience with minimal neon graphics where your goal is to shoot a ball through a level full of obstacles and into a green win zone to win levels and move on to the next. To do this you only need your mouse to aim your shot, left click to fire a shot in the direction of your mouse, and space bar to retrieve your shots and refill your ammo (your only allowed 2 shots at a time). There are 100 handmade levels requiring a mixture of skill, timing, and luck to win.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2027420/header.jpg?t=1661471178",
+    "Price": 0.0,
+    "Developers": "Narcitheus",
+    "Publishers": "Narcitheus",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2027420/ss_129056902293908c0c016766d48848466698183f.1920x1080.jpg?t=1661471178,https://cdn.akamai.steamstatic.com/steam/apps/2027420/ss_ebdfa7d05b40ba8b9e5e69d1db0fab4f0c2ebe3a.1920x1080.jpg?t=1661471178,https://cdn.akamai.steamstatic.com/steam/apps/2027420/ss_9ef4243554c3bfd3df44c06389fe6b5d8f408133.1920x1080.jpg?t=1661471178,https://cdn.akamai.steamstatic.com/steam/apps/2027420/ss_c1ebdec581560e527b903e8c72dfc1cd0c88b136.1920x1080.jpg?t=1661471178,https://cdn.akamai.steamstatic.com/steam/apps/2027420/ss_8f92f578d4f79b388bd2ad63254c1cbd1b7a8a41.1920x1080.jpg?t=1661471178",
+    "Slug": "blastonier",
+    "Meta Title": "Blastonier: Aug 25, 2022, Narcitheus and Full Overview",
+    "Meta Description": "Looking for information on Blastonier? Check out the release date (Aug 25, 2022), developer insights from Narcitheus, and a complete game summary.",
+    "Alt Text Image": "Official header image for Blastonier game - Steam 2027420",
+    "Canonical URL": "https://gusku.site/game/blastonier",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Blastonier\", \"description\": \"Looking for information on Blastonier? Check out the release date (Aug 25, 2022), developer insights from Narcitheus, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 25, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Narcitheus\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Narcitheus\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2027420/header.jpg?t=1661471178\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 786140,
+    "Name": "Plat4mer",
+    "Release date": "Dec 17, 2018",
+    "About the game": "'climb. kill. survive.' Plat4mer is a simple 2D action platformer. The game is played in short rounds, where the goal is to accumulate as many points as possible. Points are earned by killing enemies. Your character has multiple combat and utility skills - use these to kill as many enemies as possible! Art by the amazing Casey Fallon!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/786140/header.jpg?t=1545120828",
+    "Price": 0.0,
+    "Developers": "sky-coding",
+    "Publishers": "sky-coding",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/786140/ss_bb6381920e5796ac758d81037cf2a6115e6b7495.1920x1080.jpg?t=1545120828,https://cdn.akamai.steamstatic.com/steam/apps/786140/ss_8dea71397546abc5b3cc1b3873d0a07c614974ef.1920x1080.jpg?t=1545120828,https://cdn.akamai.steamstatic.com/steam/apps/786140/ss_d540be48a5bb8a36141051b4bcfc488d8d94defb.1920x1080.jpg?t=1545120828,https://cdn.akamai.steamstatic.com/steam/apps/786140/ss_7e43859fd4c257d00c2db1a5df149b8a4482fff5.1920x1080.jpg?t=1545120828,https://cdn.akamai.steamstatic.com/steam/apps/786140/ss_602a977ba2181caed2375b75102d7a6b3723dfe6.1920x1080.jpg?t=1545120828",
+    "Slug": "plat4mer",
+    "Meta Title": "Plat4mer: Dec 17, 2018, sky-coding and Full Overview",
+    "Meta Description": "Looking for information on Plat4mer? Check out the release date (Dec 17, 2018), developer insights from sky-coding, and a complete game summary.",
+    "Alt Text Image": "Official header image for Plat4mer game - Steam 786140",
+    "Canonical URL": "https://gusku.site/game/plat4mer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Plat4mer\", \"description\": \"Looking for information on Plat4mer? Check out the release date (Dec 17, 2018), developer insights from sky-coding, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 17, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"sky-coding\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"sky-coding\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/786140/header.jpg?t=1545120828\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

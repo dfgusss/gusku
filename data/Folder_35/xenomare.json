@@ -1,0 +1,21 @@
+{
+    "AppID": 1683050,
+    "Name": "Xenomare",
+    "Release date": "Aug 29, 2021",
+    "About the game": "Survive Everyone is dead. Your only chance is the escape shuttle... but you need fuel and oxygen. And find the codes for the self-destruct... just hope IT does not find you first. What is it about? The basic idea was a 2D survival horror game, loosely base on the old ZX81 game 'Alien'. You are alone on a spaceship and have to survive long enough to get the lifeboat up and running and escape from the horror. There are some Rogue-like elements, since your objectives and the items you find in a level are randomized. The initial release contains a three part tutorial to get you familiar with the game concepts and three different levels for the main game. Replay value is achieved by combining the rogue-like elements with several difficulty levels. Initial Features 2D stealthy survival horror gameplay 3 tutorial levels 3 different levels for the single player 'Last Survivor' mode. Rogue-like randomized objectives and item placements 3 difficulty levels Early access? Once the basic gameplay works ('Last Survivor' mode), there are several directions I could take the game: 'Fire Team (single player)' : Survive with a team of four characters to add tactical depth to the game and allow more complex game play? 'Fire Team (couch co-op)' : This would also make couch co-op possible - why control all heroes when you can survive together with some friends? 'Escape from Hallas Prime' : Or maybe focus on single player and add a story campaign with NPCs, in-engine cutscenes and more complex gameplay? This is where your opinion comes in - if you like the gameplay and would like to see the game grow, which direction should I take?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1683050/header.jpg?t=1646298878",
+    "Price": 7.99,
+    "Developers": "eiloware",
+    "Publishers": "eiloware",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1683050/ss_47b47902d0d1ccc51bb7b2d916234eefe9c090ac.1920x1080.jpg?t=1646298878,https://cdn.akamai.steamstatic.com/steam/apps/1683050/ss_195b867298f7c779584a5a3818645fae2f1475e0.1920x1080.jpg?t=1646298878,https://cdn.akamai.steamstatic.com/steam/apps/1683050/ss_f938cfbcbf264fc46cca0fb90229c00eeb7c5341.1920x1080.jpg?t=1646298878,https://cdn.akamai.steamstatic.com/steam/apps/1683050/ss_6ab4bcef10a549c022a769d258c9b9a6a0828b99.1920x1080.jpg?t=1646298878,https://cdn.akamai.steamstatic.com/steam/apps/1683050/ss_df65f80c47e9b92b34042d7ed7f1745fa94578f3.1920x1080.jpg?t=1646298878,https://cdn.akamai.steamstatic.com/steam/apps/1683050/ss_9350f13ae863e645e4c951193ebb70d87aa4a708.1920x1080.jpg?t=1646298878",
+    "Slug": "xenomare",
+    "Meta Title": "Xenomare: Aug 29, 2021, eiloware and Full Overview",
+    "Meta Description": "Looking for information on Xenomare? Check out the release date (Aug 29, 2021), developer insights from eiloware, and a complete game summary.",
+    "Alt Text Image": "Official header image for Xenomare game - Steam 1683050",
+    "Canonical URL": "https://gusku.site/game/xenomare",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Xenomare\", \"description\": \"Looking for information on Xenomare? Check out the release date (Aug 29, 2021), developer insights from eiloware, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 29, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"eiloware\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"eiloware\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1683050/header.jpg?t=1646298878\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

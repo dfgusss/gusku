@@ -1,0 +1,21 @@
+{
+    "AppID": 2137800,
+    "Name": "Hi-Score Recorder",
+    "Release date": "Sep 28, 2022",
+    "About the game": "Hi-Score Recorder is a simple and intuitive program which allows you to keep track of all of you high scores from your favorite games. Find a new way to enjoy all of your favorite games. Features: - Add your own custom list of consoles and game titles - Keep track of high scores, speed runs, CC, characters used, games beaten, and difficulties - Add your own pictures for games and evidence of your scores",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2137800/header.jpg?t=1664409751",
+    "Price": 1.99,
+    "Developers": "Matthew Diaz",
+    "Publishers": "Matthew Diaz",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2137800/ss_3f0b1ee0934d1b23c0166d9769f2a3f7ecf96f40.1920x1080.jpg?t=1664409751,https://cdn.akamai.steamstatic.com/steam/apps/2137800/ss_4c0651cc92c546b4b9b4cd87d0c7193643f91360.1920x1080.jpg?t=1664409751,https://cdn.akamai.steamstatic.com/steam/apps/2137800/ss_900fad7d763f911fbeacd44f3ba52af5caad1b82.1920x1080.jpg?t=1664409751,https://cdn.akamai.steamstatic.com/steam/apps/2137800/ss_e49b80de31e33a411c8abfeecd842723306c77f0.1920x1080.jpg?t=1664409751,https://cdn.akamai.steamstatic.com/steam/apps/2137800/ss_1aaafb1ca698b0644c93617292ae1c107014abc9.1920x1080.jpg?t=1664409751",
+    "Slug": "hi-score-recorder",
+    "Meta Title": "Hi-Score Recorder: Sep 28, 2022, Matthew Diaz and Full Ov...",
+    "Meta Description": "Looking for information on Hi-Score Recorder? Check out the release date (Sep 28, 2022), developer insights from Matthew Diaz, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hi-Score Recorder game - Steam 2137800",
+    "Canonical URL": "https://gusku.site/game/hi-score-recorder",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hi-Score Recorder\", \"description\": \"Looking for information on Hi-Score Recorder? Check out the release date (Sep 28, 2022), developer insights from Matthew Diaz, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 28, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matthew Diaz\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matthew Diaz\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2137800/header.jpg?t=1664409751\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

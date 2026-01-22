@@ -1,0 +1,21 @@
+{
+    "AppID": 654580,
+    "Name": "Senalux",
+    "Release date": "Oct 16, 2017",
+    "About the game": "Senalux is a hex-based puzzle game about optics where you solve challenging puzzles with colorful lasers. Use the red, green and blue lasers, combine them to the right color and illuminate the target. Senalux comes with many different optical components and over 200 levels as well as a level editor, so you can make your own puzzles and share them with others. Overview based on real optics over 200 levels with more to come... two dozen different components level editor included community puzzles runs on Windows, Mac and Linux",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/654580/header.jpg?t=1563294666",
+    "Price": 7.99,
+    "Developers": "Pixel with Hat",
+    "Publishers": "Pixel with Hat",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/654580/ss_586fbba84eeeea2999ffbb2be4375bb5dc9e151b.1920x1080.jpg?t=1563294666,https://cdn.akamai.steamstatic.com/steam/apps/654580/ss_076e82efff0a4a6e2c91eaded481c2ad798b9917.1920x1080.jpg?t=1563294666,https://cdn.akamai.steamstatic.com/steam/apps/654580/ss_0df7299301c2538f5f33e08989fd58c94d6e17f9.1920x1080.jpg?t=1563294666,https://cdn.akamai.steamstatic.com/steam/apps/654580/ss_0e96b7883041d4e8101cbe0a52747d6f03de86c4.1920x1080.jpg?t=1563294666,https://cdn.akamai.steamstatic.com/steam/apps/654580/ss_79bf3b4b6b79f06bf6cace2dd144499e249a48ef.1920x1080.jpg?t=1563294666,https://cdn.akamai.steamstatic.com/steam/apps/654580/ss_9286020b28120dda5a421c1a3668facb9ea44971.1920x1080.jpg?t=1563294666,https://cdn.akamai.steamstatic.com/steam/apps/654580/ss_d2f920806f5427f5ea84c57c6a21f8626592bbbc.1920x1080.jpg?t=1563294666,https://cdn.akamai.steamstatic.com/steam/apps/654580/ss_0c5094d2478331e3c45476618efa3a074f8f2fb6.1920x1080.jpg?t=1563294666",
+    "Slug": "senalux",
+    "Meta Title": "Senalux: Oct 16, 2017, Pixel with Hat and Full Overview",
+    "Meta Description": "Looking for information on Senalux? Check out the release date (Oct 16, 2017), developer insights from Pixel with Hat, and a complete game summary.",
+    "Alt Text Image": "Official header image for Senalux game - Steam 654580",
+    "Canonical URL": "https://gusku.site/game/senalux",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Senalux\", \"description\": \"Looking for information on Senalux? Check out the release date (Oct 16, 2017), developer insights from Pixel with Hat, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 16, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pixel with Hat\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pixel with Hat\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/654580/header.jpg?t=1563294666\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

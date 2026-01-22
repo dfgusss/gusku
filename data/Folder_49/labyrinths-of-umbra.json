@@ -1,0 +1,21 @@
+{
+    "AppID": 860290,
+    "Name": "Labyrinths of Umbra",
+    "Release date": "Jun 27, 2018",
+    "About the game": "Deep beneath the mountains of Wildergrey, far to the north on the continent of Azmarin, a tangle of shadow attempts to ensnare one brave explorer. In the Labyrinths of Umbra, it is said only the dead can pass through easily. Now, alone in the deepest parts of the maze, you must flee from the pursuit of the darkness as the walls appear to close in around you... This game features an endless chain of randomly generated mazes filled to the brim with enemies and exciting loot. The object of the game is to continue for as long as you can using whatever you find to your advantage. Sound simple? The maze is also closing in behind as you go along, making swiftness all the more important. This was made for 1GAM's March 2018 game jam, where the theme was 'Permanence'. As such, you need to be very careful about which ways to turn, as the darkness may soon close off the area, leaving you unable to return. Also, be very careful on collecting any treasure you see along the way, as the dark magic within the labyrinth causes any weapon you pick up to replace the one you currently have. Of course this could be good, or it could not... Each level is procedurally generated, making it completely random each time you start a level.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/860290/header.jpg?t=1530117004",
+    "Price": 0.99,
+    "Developers": "Jonrador",
+    "Publishers": "Jonrador",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/860290/ss_e9ff97d9a56b8a49519923ae7ec592ce86caf98b.1920x1080.jpg?t=1530117004,https://cdn.akamai.steamstatic.com/steam/apps/860290/ss_c45bb9a63bb677b1dd907a40072c62a16b45b2fd.1920x1080.jpg?t=1530117004,https://cdn.akamai.steamstatic.com/steam/apps/860290/ss_6656bb1e9fc4caccdd0062f3b2928a6b141540ae.1920x1080.jpg?t=1530117004,https://cdn.akamai.steamstatic.com/steam/apps/860290/ss_f382ad44ed0f7f01b877a81f75f5cab09b43ce91.1920x1080.jpg?t=1530117004,https://cdn.akamai.steamstatic.com/steam/apps/860290/ss_5f09a58fc6ab7c87973b9531b2dc98653262ffec.1920x1080.jpg?t=1530117004",
+    "Slug": "labyrinths-of-umbra",
+    "Meta Title": "Labyrinths of Umbra: Jun 27, 2018, Jonrador and Full Over...",
+    "Meta Description": "Looking for information on Labyrinths of Umbra? Check out the release date (Jun 27, 2018), developer insights from Jonrador, and a complete game summary.",
+    "Alt Text Image": "Official header image for Labyrinths of Umbra game - Steam 860290",
+    "Canonical URL": "https://gusku.site/game/labyrinths-of-umbra",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Labyrinths of Umbra\", \"description\": \"Looking for information on Labyrinths of Umbra? Check out the release date (Jun 27, 2018), developer insights from Jonrador, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 27, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jonrador\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jonrador\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/860290/header.jpg?t=1530117004\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

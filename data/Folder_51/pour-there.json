@@ -1,0 +1,21 @@
+{
+    "AppID": 1500230,
+    "Name": "Pour There",
+    "Release date": "Jan 12, 2021",
+    "About the game": "Purpose of the game: Collect bonuses in the form of yellow ducks as you progress through the game. To get a bonus, wet the duck with a little water. Game controls: At the beginning of each level, you are given a limited amount of resources (water, sand, bombs, etc.). Use these resources on the playing field in such a way as to collect all the bonuses. Resources: Water - a stream of water falling on a yellow duck fills it, as a result of which you get a bonus. Bomb - detonate it to destroy the sand. This will allow water to flow in the resulting channel. It is important to direct the water towards the ducks. Sand - sprinkle on sand to keep water out. Latch - turn the latch so that it changes position and lets water flow. Switch - Direct water at it to act on the lever. Tube Stone Rocket Steam - direct it to the white duck, which gives you a bonus. Coals - Pour water over them to turn the water into steam. Icicles - direct steam at the icicle to turn it into water Bonuses: Yellow Duck - To get this bonus, wet the duck with a little water. Octopus - To get this bonus, wet the octopus with a little more water than the duck. Crab - To get this bonus, wet the crab with a little water. The crab has the ability to move around the field. White Duck - To get this bonus, steam the duck with a little steam.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1500230/header.jpg?t=1610500727",
+    "Price": 0.99,
+    "Developers": "Mikhail Markhel",
+    "Publishers": "MMA Mirkin Game",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1500230/ss_15c9662d8e0321bf38f3898f92b0750113b147f3.1920x1080.jpg?t=1610500727,https://cdn.akamai.steamstatic.com/steam/apps/1500230/ss_af02552a21afb8e652c51e0a2b576b765faf7aa8.1920x1080.jpg?t=1610500727,https://cdn.akamai.steamstatic.com/steam/apps/1500230/ss_b1239edf15fe667acbca29c24c152ca95ec7f56a.1920x1080.jpg?t=1610500727,https://cdn.akamai.steamstatic.com/steam/apps/1500230/ss_2d582787d8df080e75cfc80c24a814b79059d5cd.1920x1080.jpg?t=1610500727,https://cdn.akamai.steamstatic.com/steam/apps/1500230/ss_bdd681ec23601264a99399b4cd00fef64d237401.1920x1080.jpg?t=1610500727",
+    "Slug": "pour-there",
+    "Meta Title": "Pour There: Jan 12, 2021, Mikhail Markhel and Full Overview",
+    "Meta Description": "Looking for information on Pour There? Check out the release date (Jan 12, 2021), developer insights from Mikhail Markhel, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pour There game - Steam 1500230",
+    "Canonical URL": "https://gusku.site/game/pour-there",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pour There\", \"description\": \"Looking for information on Pour There? Check out the release date (Jan 12, 2021), developer insights from Mikhail Markhel, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 12, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mikhail Markhel\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MMA Mirkin Game\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1500230/header.jpg?t=1610500727\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

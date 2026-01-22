@@ -1,0 +1,21 @@
+{
+    "AppID": 940180,
+    "Name": "Hailey",
+    "Release date": "Oct 5, 2018",
+    "About the game": "Hailey is a casual, Traditional Japanese themed puzzle game. The goal is simple: place all tiles onto the board while still adhering to the laws of game. Each tile has a letter with a corresponding value. All tiles must be touching no more and no less than its value's amount of other tiles. Combined with the law that all tiles must be connected, it makes for a unique and surprisingly difficult puzzle experience. Hailey includes 10, expertly designed, increasingly difficult levels. Somehow you managed to complete all of the levels? That's OK, because there's a custom level editor for endless hours of even more serene, blissful puzzle solving. You can even share it with your friends! I can't wait to see what interesting combinations you create.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/940180/header.jpg?t=1538834594",
+    "Price": 2.99,
+    "Developers": "Evan Veinotte",
+    "Publishers": "Evan Veinotte",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/940180/ss_f2708f27cec4d9692c89cd0aac85951a32ca8b60.1920x1080.jpg?t=1538834594,https://cdn.akamai.steamstatic.com/steam/apps/940180/ss_1bb28ab8e4fdd8421bd1c41f8713542ccff5e530.1920x1080.jpg?t=1538834594,https://cdn.akamai.steamstatic.com/steam/apps/940180/ss_00fb174e895aa3aaf4c4b9eb4f737a561413afd4.1920x1080.jpg?t=1538834594,https://cdn.akamai.steamstatic.com/steam/apps/940180/ss_436b0893f7967ac6895a4740763131565051769b.1920x1080.jpg?t=1538834594,https://cdn.akamai.steamstatic.com/steam/apps/940180/ss_7d7c7b1b3b62d4ef4d64b1c8730da7c3172f7433.1920x1080.jpg?t=1538834594",
+    "Slug": "hailey",
+    "Meta Title": "Hailey: Oct 5, 2018, Evan Veinotte and Full Overview",
+    "Meta Description": "Looking for information on Hailey? Check out the release date (Oct 5, 2018), developer insights from Evan Veinotte, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hailey game - Steam 940180",
+    "Canonical URL": "https://gusku.site/game/hailey",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hailey\", \"description\": \"Looking for information on Hailey? Check out the release date (Oct 5, 2018), developer insights from Evan Veinotte, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 5, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Evan Veinotte\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Evan Veinotte\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/940180/header.jpg?t=1538834594\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

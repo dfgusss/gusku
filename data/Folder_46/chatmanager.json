@@ -1,0 +1,21 @@
+{
+    "AppID": 1520950,
+    "Name": "ChatManager",
+    "Release date": "Jan 27, 2021",
+    "About the game": "ChatManager is a powerful and useful tool for controlling chat and live streaming. Allows you to get rid of many routine actions and will diversify your streaming. The program interface is designed in a modular style, which simplifies interaction with it. Key features Bot with a combined system of conditions and results. Chat with various themes that can be displayed on the stream. Sound control module. Play different sound files on your broadcast. Keyboard control module. Send key presses or key combinations to a selected window. Streaming program control module (OBS). The program can send commands to control scenes, sources (change position, take screenshots, etc), live streaming and recording. Chatters module. Collects information about the viewers of your broadcast (messages, channel scores, subscriptions, etc). Module levels. Allows you to create levels for chatters, which you can use in the bot. All of these modules can be combined in the bot and create different scenarios for its work. Important note Supported streaming service - Twitch. For correct interaction with the streaming software (OBS) it is recommended to use its latest version.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1520950/header.jpg?t=1649081251",
+    "Price": 4.99,
+    "Developers": "Yevhenii Rabtsun",
+    "Publishers": "Yevhenii Rabtsun",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1520950/ss_c292a4cd3bf79f11275e0575110518b184b76a41.1920x1080.jpg?t=1649081251,https://cdn.akamai.steamstatic.com/steam/apps/1520950/ss_7e99b55864f7d557f0460300364c443b2b31ce18.1920x1080.jpg?t=1649081251,https://cdn.akamai.steamstatic.com/steam/apps/1520950/ss_767147ecb2628fbc6422cebaafc9ec360a836e25.1920x1080.jpg?t=1649081251,https://cdn.akamai.steamstatic.com/steam/apps/1520950/ss_3491a5407bdc82f6d6e15e667f6150858d6ae473.1920x1080.jpg?t=1649081251,https://cdn.akamai.steamstatic.com/steam/apps/1520950/ss_334a0153046e3f0ef613868e5a4a74a64574bc00.1920x1080.jpg?t=1649081251,https://cdn.akamai.steamstatic.com/steam/apps/1520950/ss_e78bf67edd4bd5e067d7577178c222eb5421820a.1920x1080.jpg?t=1649081251,https://cdn.akamai.steamstatic.com/steam/apps/1520950/ss_0b75654f9143921b377df63ab1b0a6b112b31cbc.1920x1080.jpg?t=1649081251,https://cdn.akamai.steamstatic.com/steam/apps/1520950/ss_b9942ea879d3871b6e98ef859e278481f5e06fc5.1920x1080.jpg?t=1649081251,https://cdn.akamai.steamstatic.com/steam/apps/1520950/ss_b81c1b8027001247ae8bb779b302926d5a35f34a.1920x1080.jpg?t=1649081251",
+    "Slug": "chatmanager",
+    "Meta Title": "ChatManager: Jan 27, 2021, Yevhenii Rabtsun and Full Over...",
+    "Meta Description": "Looking for information on ChatManager? Check out the release date (Jan 27, 2021), developer insights from Yevhenii Rabtsun, and a complete game summary.",
+    "Alt Text Image": "Official header image for ChatManager game - Steam 1520950",
+    "Canonical URL": "https://gusku.site/game/chatmanager",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ChatManager\", \"description\": \"Looking for information on ChatManager? Check out the release date (Jan 27, 2021), developer insights from Yevhenii Rabtsun, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Yevhenii Rabtsun\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Yevhenii Rabtsun\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1520950/header.jpg?t=1649081251\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

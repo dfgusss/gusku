@@ -1,0 +1,21 @@
+{
+    "AppID": 1770950,
+    "Name": "Batch Panorama Converter",
+    "Release date": "Dec 1, 2022",
+    "About the game": "What tool 'Batch Panorama Converter' is? Batch Panorama Converter can convert normal images into 360 degree panorama in batch! How to use this tool? Step1: Select folder including normal JPG, JPEG or PNG images. Step2: The tool will automatically load all JPG. JPEG and PNG images and convert them into cubemap. Step3: After images to cubemaps conversion is done. You can click the 'start' button, all cubemaps would be converted into 360 degree panoramas then.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1770950/header.jpg?t=1669910841",
+    "Price": 8.99,
+    "Developers": "Digital Sheep",
+    "Publishers": "Digital Sheep",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1770950/ss_c7c38988648e715d44e8c283fcf25e4831c4eb0b.1920x1080.jpg?t=1669910841,https://cdn.akamai.steamstatic.com/steam/apps/1770950/ss_a1a12afc4e1914dc4fe0131b2f836268821c2932.1920x1080.jpg?t=1669910841,https://cdn.akamai.steamstatic.com/steam/apps/1770950/ss_df102eb0c043e6ddff9a3d808ffe6f797938bab5.1920x1080.jpg?t=1669910841,https://cdn.akamai.steamstatic.com/steam/apps/1770950/ss_8b2eaeeb9c7d06a5b9b227417e63d27c483557c9.1920x1080.jpg?t=1669910841,https://cdn.akamai.steamstatic.com/steam/apps/1770950/ss_71a325fa75d976dc8deba6fce5367ab1fcdeb0fe.1920x1080.jpg?t=1669910841",
+    "Slug": "batch-panorama-converter",
+    "Meta Title": "Batch Panorama Converter: Dec 1, 2022, Digital Sheep and ...",
+    "Meta Description": "Looking for information on Batch Panorama Converter? Check out the release date (Dec 1, 2022), developer insights from Digital Sheep, and a complete gam...",
+    "Alt Text Image": "Official header image for Batch Panorama Converter game - Steam 1770950",
+    "Canonical URL": "https://gusku.site/game/batch-panorama-converter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Batch Panorama Converter\", \"description\": \"Looking for information on Batch Panorama Converter? Check out the release date (Dec 1, 2022), developer insights from Digital Sheep, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Digital Sheep\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Digital Sheep\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1770950/header.jpg?t=1669910841\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

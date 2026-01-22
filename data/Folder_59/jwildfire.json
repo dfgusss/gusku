@@ -1,0 +1,21 @@
+{
+    "AppID": 1445310,
+    "Name": "JWildfire",
+    "Release date": "Oct 30, 2020",
+    "About the game": "JWildfire is a very sophisticated flame fractal generator whose roots go back about 25 years. Key Features: - is probably the most versatile Flame fractal editor available - has lots of parameters, most of them can be animated by motion-curves/keyframes - visually appealing graphical user interface which is optimized for exploring the fractal realm in a very playful way - contains about 800 variations/formulas - lots of random-flame-generators which produce nice fractals forms as starting point for your own creations - numerous sub-modules like - MutaGen: for creating mutations of existings frames - Interactive/Infinite renderer - Dancing Flames: sound-synchronized animation of parameters - Java-based scripting-interface which easily lets you create your own fractals-generators - Continuous development/improvement since the last 10 years",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1445310/header.jpg?t=1604086669",
+    "Price": 11.99,
+    "Developers": "Andreas Maschke",
+    "Publishers": "Andreas Maschke",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1445310/ss_d229b9f766da786f52c368dab6e8070c03168e3d.1920x1080.jpg?t=1604086669,https://cdn.akamai.steamstatic.com/steam/apps/1445310/ss_84663b02a1912c2c3ab0318aa08ec85a982bf1ff.1920x1080.jpg?t=1604086669,https://cdn.akamai.steamstatic.com/steam/apps/1445310/ss_851300f53ace6b50e91a1bb552124a229c91d4eb.1920x1080.jpg?t=1604086669,https://cdn.akamai.steamstatic.com/steam/apps/1445310/ss_f19328f53dbcc52b433d6266d78536dc85d64dcf.1920x1080.jpg?t=1604086669,https://cdn.akamai.steamstatic.com/steam/apps/1445310/ss_7255439872369a8d1b7b6af98b61e14c8a64d53f.1920x1080.jpg?t=1604086669,https://cdn.akamai.steamstatic.com/steam/apps/1445310/ss_588cbffa2720ceb90365e5cedcf2513dfe726c9c.1920x1080.jpg?t=1604086669,https://cdn.akamai.steamstatic.com/steam/apps/1445310/ss_e573931d8fae48f77a23c9a05c7f95b0bf1878a9.1920x1080.jpg?t=1604086669",
+    "Slug": "jwildfire",
+    "Meta Title": "JWildfire: Oct 30, 2020, Andreas Maschke and Full Overview",
+    "Meta Description": "Looking for information on JWildfire? Check out the release date (Oct 30, 2020), developer insights from Andreas Maschke, and a complete game summary.",
+    "Alt Text Image": "Official header image for JWildfire game - Steam 1445310",
+    "Canonical URL": "https://gusku.site/game/jwildfire",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"JWildfire\", \"description\": \"Looking for information on JWildfire? Check out the release date (Oct 30, 2020), developer insights from Andreas Maschke, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 30, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Andreas Maschke\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Andreas Maschke\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1445310/header.jpg?t=1604086669\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

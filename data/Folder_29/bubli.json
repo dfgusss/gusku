@@ -1,0 +1,21 @@
+{
+    "AppID": 815100,
+    "Name": "Bubli",
+    "Release date": "Jan 25, 2019",
+    "About the game": "Bubli is a 2D platformer where you control all gameplay with just the mouse. Keep your eye out for faster routes and try to finish levels as quick as possible. Gameplay: All gameplay is controlled with the mouse. Propel yourself and dodge obstacles to find the end of each level. Collect energy on your way to refill your energy meter and finish the level as fast as you can. Be careful though, as a single hit will mean a game over and you will have to start the level again. Once you finish with the 50 levels from the main mode, try your hand at creating levels with the built-in level editor. Editor: Bubli comes with a full level editor. Create any map you can think of with the tools at your disposal. You can even quickly switch between editing and testing your level with the push of a button. Once you beat a level in the main mode, you can create a copy of it to edit however you please. You can make a level you thought was too easy into an overwhelming test of skill or add a shortcut to a level that gave you trouble.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/815100/header.jpg?t=1548437306",
+    "Price": 0.99,
+    "Developers": "LupolfLLC",
+    "Publishers": "LupolfLLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/815100/ss_5ee26845cdec5a94e912b52a4d47dfe7befde4c6.1920x1080.jpg?t=1548437306,https://cdn.akamai.steamstatic.com/steam/apps/815100/ss_b45b23c0f7c2c50ccba10d973523f37de3dba387.1920x1080.jpg?t=1548437306,https://cdn.akamai.steamstatic.com/steam/apps/815100/ss_0dfb51ea5354877dedc2b40ded7cc56e7b4e8d6b.1920x1080.jpg?t=1548437306,https://cdn.akamai.steamstatic.com/steam/apps/815100/ss_0a7a89e5f6e42697d3040b85c1b3e92a8c4ea0ae.1920x1080.jpg?t=1548437306,https://cdn.akamai.steamstatic.com/steam/apps/815100/ss_c3dc003a68277f02e57c622eb47a545b745812da.1920x1080.jpg?t=1548437306,https://cdn.akamai.steamstatic.com/steam/apps/815100/ss_7d70f2c1ce32a27c526032b8ef745021659d8e83.1920x1080.jpg?t=1548437306",
+    "Slug": "bubli",
+    "Meta Title": "Bubli: Jan 25, 2019, LupolfLLC and Full Overview",
+    "Meta Description": "Looking for information on Bubli? Check out the release date (Jan 25, 2019), developer insights from LupolfLLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bubli game - Steam 815100",
+    "Canonical URL": "https://gusku.site/game/bubli",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bubli\", \"description\": \"Looking for information on Bubli? Check out the release date (Jan 25, 2019), developer insights from LupolfLLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 25, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"LupolfLLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LupolfLLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/815100/header.jpg?t=1548437306\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

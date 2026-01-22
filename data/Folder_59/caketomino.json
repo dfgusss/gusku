@@ -1,0 +1,21 @@
+{
+    "AppID": 517770,
+    "Name": "Caketomino",
+    "Release date": "Sep 2, 2016",
+    "About the game": "A puzzle game about cakes. Build all 30 cake Pentomino (and other Polyomino) puzzles! Can you solve them all?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/517770/header.jpg?t=1473268232",
+    "Price": 0.99,
+    "Developers": "Smoketree Studios",
+    "Publishers": "Smoketree Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/517770/ss_c7444f8f0fa557e1cd8e006770862e364833eac3.1920x1080.jpg?t=1473268232,https://cdn.akamai.steamstatic.com/steam/apps/517770/ss_4dc45beae4278654dcf95c947d463f639ee1ba30.1920x1080.jpg?t=1473268232,https://cdn.akamai.steamstatic.com/steam/apps/517770/ss_64a3b2c8aef3f4da43f63a22aa1eeefa0e1c5d40.1920x1080.jpg?t=1473268232,https://cdn.akamai.steamstatic.com/steam/apps/517770/ss_31448cf10d7fe80c87bfddcad0354c2c5b8f1528.1920x1080.jpg?t=1473268232,https://cdn.akamai.steamstatic.com/steam/apps/517770/ss_679546ccc06c499e36f37afd637880ac04cfd015.1920x1080.jpg?t=1473268232,https://cdn.akamai.steamstatic.com/steam/apps/517770/ss_a7334c8de2273181fb129c781079b68e0dc8427b.1920x1080.jpg?t=1473268232,https://cdn.akamai.steamstatic.com/steam/apps/517770/ss_dc1606fce01e9678fc897f7988acf3d9875381ec.1920x1080.jpg?t=1473268232",
+    "Slug": "caketomino",
+    "Meta Title": "Caketomino: Sep 2, 2016, Smoketree Studios and Full Overview",
+    "Meta Description": "Looking for information on Caketomino? Check out the release date (Sep 2, 2016), developer insights from Smoketree Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Caketomino game - Steam 517770",
+    "Canonical URL": "https://gusku.site/game/caketomino",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Caketomino\", \"description\": \"Looking for information on Caketomino? Check out the release date (Sep 2, 2016), developer insights from Smoketree Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 2, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Smoketree Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Smoketree Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/517770/header.jpg?t=1473268232\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2265490,
+    "Name": "Chess Match",
+    "Release date": "Jan 19, 2023",
+    "About the game": "The pieces move like they do in the classic game of Chess. Don't play Chess? No problem! Click on a Chess piece to see where it can move and click again on another piece to swap those two pieces. Match 3 or more pieces in a row to earn points. All matches on the board are automatically counted after each move you make. The more pieces that match in a single row, the more points you will earn! Every level has a point goal you must reach within the number of moves provided. Levels are only complete once all moves have been made and the point goal has been reached. When matched, bonus pieces award you DOUBLE the points! You can also see which one is coming next. Matching bonus pieces should always be a priority for maximum points! Chessie Chips are earned by catching chickens trying to cross the Chessboard. Catch chickens by matching rows the chickens are currently standing on. If a chicken crosses the board, you receive 10 damage. Lose all your health and you will lose the level. Spend Chessie Chips to use special abilities! 1 Chessie Chip to shuffle the board. 6 Chessie Chips to temporarily slow time. 9 Chessie Chips to restore your health. Catch 2 birds with one match! Catch more than 1 chicken at a time to earn COMBO POINTS! These points are added to your score at the end of each level and do not count toward the point goal. Chess Match includes an in-game fully narrated and interactive tutorial. Keep track of how well you're doing with a robust leaderboard system. Every level has a unique leaderboard!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2265490/header.jpg?t=1674135664",
+    "Price": 3.74,
+    "Developers": "OMEGABYTE",
+    "Publishers": "OMEGABYTE",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2265490/ss_a54eee0f4536a5d622de41aa1b810c846abfbb94.1920x1080.jpg?t=1674135664,https://cdn.akamai.steamstatic.com/steam/apps/2265490/ss_0a4e1bf1b00a76a23767ff8cbd63f7cc8449f4f5.1920x1080.jpg?t=1674135664,https://cdn.akamai.steamstatic.com/steam/apps/2265490/ss_92167d5a3e57903625160fa368e03abd2fd980de.1920x1080.jpg?t=1674135664,https://cdn.akamai.steamstatic.com/steam/apps/2265490/ss_941d2a2315cc82a905a4b34c21a5da45b4a45285.1920x1080.jpg?t=1674135664,https://cdn.akamai.steamstatic.com/steam/apps/2265490/ss_458515c0b331358a059242ff9076f0a3cda8ecf0.1920x1080.jpg?t=1674135664,https://cdn.akamai.steamstatic.com/steam/apps/2265490/ss_a2826f4d1130b34968e6cb6a512fc15f44302e66.1920x1080.jpg?t=1674135664,https://cdn.akamai.steamstatic.com/steam/apps/2265490/ss_5484d2b5669c83b0a87f35de97e8dd0e29bbb40b.1920x1080.jpg?t=1674135664",
+    "Slug": "chess-match",
+    "Meta Title": "Chess Match: Jan 19, 2023, OMEGABYTE and Full Overview",
+    "Meta Description": "Looking for information on Chess Match? Check out the release date (Jan 19, 2023), developer insights from OMEGABYTE, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chess Match game - Steam 2265490",
+    "Canonical URL": "https://gusku.site/game/chess-match",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chess Match\", \"description\": \"Looking for information on Chess Match? Check out the release date (Jan 19, 2023), developer insights from OMEGABYTE, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 19, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"OMEGABYTE\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"OMEGABYTE\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2265490/header.jpg?t=1674135664\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.74, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

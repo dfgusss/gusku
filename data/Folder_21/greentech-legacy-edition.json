@@ -1,0 +1,21 @@
+{
+    "AppID": 841470,
+    "Name": "greenTech+ Legacy Edition",
+    "Release date": "May 9, 2018",
+    "About the game": "Take it back to the old school days of twitch reflexes, retroish graphics, and relaxing music! You control a hurricane that can guide toxic clouds into cleaning factories. Watch out for high pressure zones, as they can disperse the clouds into the atmosphere and increase the chance of destroying the world! Includes 30 levels with dozens of unlockable monitors, along with anaglyph 3D support! (red/blue glasses). NOTE: This is a Legacy release of Vertigo Gaming Inc.'s back catalog titles. Because it is an older game running on newer hardware there may be some unexpected errors. Here's how to solve them: If you have an error of 'Failed to load the game data, File seems corrupted.', you will need to disable the Print Spooler on your computer, as older GM8 games can have this issue. First, right click on This PC or My Computer and select Manage. Select Services and Applications on the left side bar and then select Services. Double click the 'Print Spooler' key and go to the General tab, select Startup Type, then select Disabled. Finally, select Stop below the Service Status and then click Apply. The game should now boot up correctly. If the game does not close properly and continues to run on Steam even after exiting the game, you will need to run it in compatibility mode to resolve this issue. Right click the game in your Steam Library, go to Properties, then Local Files, then Browse Local Files. Right click on the main .exe in the folder, and go to Properties. Click on the Compatibility tab, then click the 'Run this program in compatibility mode for:' box and select Windows XP, then Apply and OK. Restart your computer, and the game will now correctly close after exiting.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/841470/header.jpg?t=1597210976",
+    "Price": 3.99,
+    "Developers": "Vertigo Gaming Inc.",
+    "Publishers": "Vertigo Gaming Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/841470/ss_0ade0df117d2cb4ca29c86ff02225b7e232cb03b.1920x1080.jpg?t=1597210976,https://cdn.akamai.steamstatic.com/steam/apps/841470/ss_031c02c6aa98faafd2dda9eeda48e21b495a5fe3.1920x1080.jpg?t=1597210976,https://cdn.akamai.steamstatic.com/steam/apps/841470/ss_560a7a1c7481f16160aed05f6e7b7aacbb983850.1920x1080.jpg?t=1597210976,https://cdn.akamai.steamstatic.com/steam/apps/841470/ss_043a84b34a6da963a9dffeb634dfe8ac80be1bcc.1920x1080.jpg?t=1597210976,https://cdn.akamai.steamstatic.com/steam/apps/841470/ss_4fb468485e54628b78d24843c4a5e7b275190562.1920x1080.jpg?t=1597210976,https://cdn.akamai.steamstatic.com/steam/apps/841470/ss_52cc8b5532d6bed37f4722fe8c51d30784e4de5a.1920x1080.jpg?t=1597210976,https://cdn.akamai.steamstatic.com/steam/apps/841470/ss_94460f3dcc4692781d614fc5792f805c7e2aabc7.1920x1080.jpg?t=1597210976",
+    "Slug": "greentech-legacy-edition",
+    "Meta Title": "greenTech+ Legacy Edition: May 9, 2018, Vertigo Gaming In...",
+    "Meta Description": "Looking for information on greenTech+ Legacy Edition? Check out the release date (May 9, 2018), developer insights from Vertigo Gaming Inc., and a compl...",
+    "Alt Text Image": "Official header image for greenTech+ Legacy Edition game - Steam 841470",
+    "Canonical URL": "https://gusku.site/game/greentech-legacy-edition",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"greenTech+ Legacy Edition\", \"description\": \"Looking for information on greenTech+ Legacy Edition? Check out the release date (May 9, 2018), developer insights from Vertigo Gaming Inc., and a compl...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 9, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vertigo Gaming Inc.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vertigo Gaming Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/841470/header.jpg?t=1597210976\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

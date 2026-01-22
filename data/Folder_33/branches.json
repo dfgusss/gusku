@@ -1,0 +1,21 @@
+{
+    "AppID": 1717420,
+    "Name": "Branches",
+    "Release date": "Aug 27, 2021",
+    "About the game": "Branches is an arcade scoring runner game. You travel along an endless trunk from which branches constantly grow that block the path. By pressing the left mouse button you rotate the trunk so that the character can go further without lingering on the branches. Be careful when rotating so that the branches do not push the character off the trunk and do not stay too long so that the character does not fall out of the level. The pace of the game accelerates over time, and the sides of rotation of the trunk may change. Along the way, you collect coins that you can spend on a skin for your character.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1717420/header.jpg?t=1630053762",
+    "Price": 0.99,
+    "Developers": "beans rolls",
+    "Publishers": "beans rolls",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1717420/ss_02af8e5d30da239875795d9b6b5cf6b1044da0b2.1920x1080.jpg?t=1630053762,https://cdn.akamai.steamstatic.com/steam/apps/1717420/ss_878cd6f2b071112570229f98dcd2ab44d5c28b40.1920x1080.jpg?t=1630053762,https://cdn.akamai.steamstatic.com/steam/apps/1717420/ss_4856b174e9dd7c13ad87e5551d1163fbe391d7dc.1920x1080.jpg?t=1630053762,https://cdn.akamai.steamstatic.com/steam/apps/1717420/ss_5f256c4714a8e0545ed228240d69263b9b7d9338.1920x1080.jpg?t=1630053762,https://cdn.akamai.steamstatic.com/steam/apps/1717420/ss_99aa8d41d007af635196e289125dfbe0c9328a71.1920x1080.jpg?t=1630053762",
+    "Slug": "branches",
+    "Meta Title": "Branches: Aug 27, 2021, beans rolls and Full Overview",
+    "Meta Description": "Looking for information on Branches? Check out the release date (Aug 27, 2021), developer insights from beans rolls, and a complete game summary.",
+    "Alt Text Image": "Official header image for Branches game - Steam 1717420",
+    "Canonical URL": "https://gusku.site/game/branches",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Branches\", \"description\": \"Looking for information on Branches? Check out the release date (Aug 27, 2021), developer insights from beans rolls, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1717420/header.jpg?t=1630053762\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

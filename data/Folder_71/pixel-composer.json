@@ -1,0 +1,21 @@
+{
+    "AppID": 2299510,
+    "Name": "Pixel Composer",
+    "Release date": "Feb 23, 2023",
+    "About the game": "A Node-based, nondestructive, pixel art generator, editor, and VFX compositor. Pixel Composer comes with a powerful graph and node system that supports all types of operation and automation. Animate every property with a timeline system. Create feedback loops, particle effects, rigid body animation, fluid simulation, 3D animation, and more. Pixel Composer has support for .aseprite files with layer and tag features. Allowing for effects, and animation to be added without altering the original artwork. Pixel Composer supports array operation to manipulate multiple images and data in a single node, from import, edit, to export. Allowing for automation that speeds up your pixel art creation workflow. Pixel Composer contains over 200+ nodes for all types of generation, manipulation, and composition. With new nodes being added every update. The collection system allows node groups to be stored, reuse between projects, and shared quickly. Pixel composer Steam version also supports Steam Workshop. Sharing collections and projects has never been easier!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2299510/header.jpg?t=1677161380",
+    "Price": 3.99,
+    "Developers": "MakhamDev",
+    "Publishers": "MakhamDev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2299510/ss_3e2bf30a54746a664fc05e0459d5ae592e0dbe75.1920x1080.jpg?t=1677161380,https://cdn.akamai.steamstatic.com/steam/apps/2299510/ss_19d3ec7e83166d497a1791e8a1d99baf22ba9633.1920x1080.jpg?t=1677161380,https://cdn.akamai.steamstatic.com/steam/apps/2299510/ss_f092d9a25058d5d60e5410c685cccbfb671d7b06.1920x1080.jpg?t=1677161380,https://cdn.akamai.steamstatic.com/steam/apps/2299510/ss_0d17cff31190a02b0286c66c1efdd3c0eaefacb7.1920x1080.jpg?t=1677161380,https://cdn.akamai.steamstatic.com/steam/apps/2299510/ss_7afd155ed8c4fac3ec3714afcb2e3c6fe2682ca8.1920x1080.jpg?t=1677161380,https://cdn.akamai.steamstatic.com/steam/apps/2299510/ss_4d0d891629d6770aa977c604fd32f132b0957add.1920x1080.jpg?t=1677161380",
+    "Slug": "pixel-composer",
+    "Meta Title": "Pixel Composer: Feb 23, 2023, MakhamDev and Full Overview",
+    "Meta Description": "Looking for information on Pixel Composer? Check out the release date (Feb 23, 2023), developer insights from MakhamDev, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixel Composer game - Steam 2299510",
+    "Canonical URL": "https://gusku.site/game/pixel-composer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixel Composer\", \"description\": \"Looking for information on Pixel Composer? Check out the release date (Feb 23, 2023), developer insights from MakhamDev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 23, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"MakhamDev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MakhamDev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2299510/header.jpg?t=1677161380\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

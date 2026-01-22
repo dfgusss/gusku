@@ -1,0 +1,21 @@
+{
+    "AppID": 1486300,
+    "Name": "Death Cube",
+    "Release date": "May 12, 2022",
+    "About the game": "'Death Cube' is a 2D platformer where you need to cross a room full of obstacles to get to the exit. Spikes, saws, projectiles and lasers, survive through these obstacles and reach at the end of the level. And Remember... DO NOT KILL THE CUBE",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1486300/header.jpg?t=1652399175",
+    "Price": 0.99,
+    "Developers": "Little Nap Studio",
+    "Publishers": "Little Nap Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1486300/ss_52b0b2185cda1c75823d7c07c5a99e50b7bddc88.1920x1080.jpg?t=1652399175,https://cdn.akamai.steamstatic.com/steam/apps/1486300/ss_f7568dcc110f79911ac830c53716fbf3b4615884.1920x1080.jpg?t=1652399175,https://cdn.akamai.steamstatic.com/steam/apps/1486300/ss_f38c608b326c9de1fbaee79cedcb246193060fa1.1920x1080.jpg?t=1652399175,https://cdn.akamai.steamstatic.com/steam/apps/1486300/ss_c836aecacf3710782f3f269e2c03c41f1df89164.1920x1080.jpg?t=1652399175,https://cdn.akamai.steamstatic.com/steam/apps/1486300/ss_55331fcd79c2f9d0f2bb861bc97de9f994e9d565.1920x1080.jpg?t=1652399175",
+    "Slug": "death-cube",
+    "Meta Title": "Death Cube: May 12, 2022, Little Nap Studio and Full Over...",
+    "Meta Description": "Looking for information on Death Cube? Check out the release date (May 12, 2022), developer insights from Little Nap Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Death Cube game - Steam 1486300",
+    "Canonical URL": "https://gusku.site/game/death-cube",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Death Cube\", \"description\": \"Looking for information on Death Cube? Check out the release date (May 12, 2022), developer insights from Little Nap Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Little Nap Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Little Nap Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1486300/header.jpg?t=1652399175\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

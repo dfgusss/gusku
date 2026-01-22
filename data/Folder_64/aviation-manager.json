@@ -1,0 +1,21 @@
+{
+    "AppID": 2026060,
+    "Name": "Aviation Manager",
+    "Release date": "Sep 2, 2022",
+    "About the game": "Choose your origin, create a route to nearby airports, choose the right plane, set a schedule for your flight. Maximize the use of planes, airports, transit routes, etc. to earn wealth, and expand routes to the world. Route Each route starts from the starting point, passes through multiple airports, and finally returns to the starting point, waiting for the next dispatch. Reasonable route design enables passengers to reach their destination conveniently and improves the utilization rate of the route. Timetable Configure a schedule for each route, and when a certain time is reached, if there are planes waiting to be dispatched, the route will issue a flight. Configure the layover time of the flight through the airport to stagger the peak, improve the utilization of the airport, and reduce the waiting time of the aircraft. Transit When there is no direct flight, passengers will choose to make a reasonable connecting flight. Extension Expand the seats at the airport to increase the passenger capacity limit, and expand the airport gate to increase the maximum number of parked aircraft.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2026060/header.jpg?t=1662272105",
+    "Price": 3.59,
+    "Developers": "Light Game",
+    "Publishers": "Light Game",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2026060/ss_f69344da18ce38791449a03076c9469991eb6465.1920x1080.jpg?t=1662272105,https://cdn.akamai.steamstatic.com/steam/apps/2026060/ss_415b7174bb279cc4b67bd0f3810723da08d15485.1920x1080.jpg?t=1662272105,https://cdn.akamai.steamstatic.com/steam/apps/2026060/ss_09144680bbf82c7a0005294d79cdc15a02db3363.1920x1080.jpg?t=1662272105,https://cdn.akamai.steamstatic.com/steam/apps/2026060/ss_755eee18d94fcb07532dde7fdeb196d8fd180495.1920x1080.jpg?t=1662272105,https://cdn.akamai.steamstatic.com/steam/apps/2026060/ss_10ef8d1ba2d4db0b8b413614dcab5c33ecb4a155.1920x1080.jpg?t=1662272105",
+    "Slug": "aviation-manager",
+    "Meta Title": "Aviation Manager: Sep 2, 2022, Light Game and Full Overview",
+    "Meta Description": "Looking for information on Aviation Manager? Check out the release date (Sep 2, 2022), developer insights from Light Game, and a complete game summary.",
+    "Alt Text Image": "Official header image for Aviation Manager game - Steam 2026060",
+    "Canonical URL": "https://gusku.site/game/aviation-manager",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Aviation Manager\", \"description\": \"Looking for information on Aviation Manager? Check out the release date (Sep 2, 2022), developer insights from Light Game, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Light Game\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Light Game\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2026060/header.jpg?t=1662272105\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.59, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

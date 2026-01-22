@@ -1,0 +1,21 @@
+{
+    "AppID": 2022650,
+    "Name": "ENTRY",
+    "Release date": "Jul 8, 2022",
+    "About the game": "Hyperultrasupercasual turn-based game where you should create words by adding letters on the field and using it. The middle of the field is a random word with 5 letters. Every turn you can add only one letter and create only one word. Every letter equal one point, so to win just get more points. The game ends when all cells are filled with letters. There are 25 cells. And if you do quick maffs, you and your opponent have 10 moves both",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2022650/header.jpg?t=1657300805",
+    "Price": 0.99,
+    "Developers": "Laura",
+    "Publishers": "Laura",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2022650/ss_120c49687cb80ae88c6d6a783b1f62badc9db399.1920x1080.jpg?t=1657300805,https://cdn.akamai.steamstatic.com/steam/apps/2022650/ss_fcbd11bd4ffac862e8acb96c6b01e291d5fbc556.1920x1080.jpg?t=1657300805,https://cdn.akamai.steamstatic.com/steam/apps/2022650/ss_443e83aec562c852478eb7968235685a6dd57f6c.1920x1080.jpg?t=1657300805,https://cdn.akamai.steamstatic.com/steam/apps/2022650/ss_bb7305007e00ae6acf265af6d2769468cffee0e8.1920x1080.jpg?t=1657300805,https://cdn.akamai.steamstatic.com/steam/apps/2022650/ss_3a6676b88b9b2b7aa62bf6f5bd587593e662962c.1920x1080.jpg?t=1657300805,https://cdn.akamai.steamstatic.com/steam/apps/2022650/ss_5460803066888e3a8631f76ff7c45994ee4b24ee.1920x1080.jpg?t=1657300805",
+    "Slug": "entry",
+    "Meta Title": "ENTRY: Jul 8, 2022, Laura and Full Overview",
+    "Meta Description": "Looking for information on ENTRY? Check out the release date (Jul 8, 2022), developer insights from Laura, and a complete game summary.",
+    "Alt Text Image": "Official header image for ENTRY game - Steam 2022650",
+    "Canonical URL": "https://gusku.site/game/entry",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ENTRY\", \"description\": \"Looking for information on ENTRY? Check out the release date (Jul 8, 2022), developer insights from Laura, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 8, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Laura\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Laura\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2022650/header.jpg?t=1657300805\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

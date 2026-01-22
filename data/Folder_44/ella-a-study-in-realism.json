@@ -1,0 +1,21 @@
+{
+    "AppID": 1882590,
+    "Name": "Ella - a study in realism",
+    "Release date": "Feb 9, 2022",
+    "About the game": "Ella, a study in realism made in Godot Engine. Basically a technology showcase for Godot, you can watch it for a few minutes and look at the graphics and performance on your computer. A frames per second monitor is included (press Escape to open the menu) and you can also tweak the many graphics options. It includes 4 presets (Ultra, Quality, Performance, and Low Spec) and also allows you to change individual settings (for example, full screen mode or changing the render scaling, as well as visual settings like reflection and ambient occlusion). The experience features a cinematic camera that runs and loops by itself, so can be watched as a real time music video, a 3D graphics benchmark, or control the camera and fly around the environment. You can press the Space Bar to enable the camera control. The free camera control is like a spectator camera in games (with collision detection) and allows you to fly around freely and explore the environment and the graphics. Uses global illumination in Godot to achieve realistic lighting and shadow, all in real time (no baked lightmaps). The character model and some assets were made with photogrammetry for the highest possible quality. Press Escape to view the options. Space to toggle cinematic camera (be sure to close the menu before flying around). WASD or Arrow keys move around. Mouse to look.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1882590/header.jpg?t=1644418859",
+    "Price": 0.0,
+    "Developers": "cybereality",
+    "Publishers": "cybereality",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1882590/ss_0cc8e0642e7d94e31896597164b304c9787b30bf.1920x1080.jpg?t=1644418859,https://cdn.akamai.steamstatic.com/steam/apps/1882590/ss_5fca53c87ed8fb0dadccf563ffcc1d8393bf6cf3.1920x1080.jpg?t=1644418859,https://cdn.akamai.steamstatic.com/steam/apps/1882590/ss_e93c8ab3b3c9c2d9496cf3e8527850a98f6fb454.1920x1080.jpg?t=1644418859,https://cdn.akamai.steamstatic.com/steam/apps/1882590/ss_863fa65a1484e2d0c8a3dcb80798baf32bd43a45.1920x1080.jpg?t=1644418859,https://cdn.akamai.steamstatic.com/steam/apps/1882590/ss_1efe3a88c79cb7881b34d0c047600e2de8981213.1920x1080.jpg?t=1644418859",
+    "Slug": "ella-a-study-in-realism",
+    "Meta Title": "Ella - a study in realism: Feb 9, 2022, cybereality and F...",
+    "Meta Description": "Looking for information on Ella - a study in realism? Check out the release date (Feb 9, 2022), developer insights from cybereality, and a complete game...",
+    "Alt Text Image": "Official header image for Ella - a study in realism game - Steam 1882590",
+    "Canonical URL": "https://gusku.site/game/ella-a-study-in-realism",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ella - a study in realism\", \"description\": \"Looking for information on Ella - a study in realism? Check out the release date (Feb 9, 2022), developer insights from cybereality, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 9, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"cybereality\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"cybereality\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1882590/header.jpg?t=1644418859\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

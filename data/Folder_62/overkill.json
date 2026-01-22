@@ -1,0 +1,21 @@
+{
+    "AppID": 740950,
+    "Name": "OverKill",
+    "Release date": "Oct 23, 2017",
+    "About the game": "A fast paced top-down shooter made with Game Maker. Customize your robot with weapons and specials. Fight your way through 4 different stages against hordes of ever changing enemies. - CUSTOMIZABLE: robot with 12 very diferent weapons and 9 speciails and 4 chassis; - GAME MODES: four distinct game modes. Kill, Survive, Collect or Run!; - ENEMIES: Over 10 enemy types, each with an ability aimed to kill you; - ENDLESS: once you complete a certain amount of each level, the game automaticaly generates random levels for you; - FAST AND CASUAL: sometimes you just want to shot things, blow stuff up and have fun. This game have it in spades!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/740950/header.jpg?t=1560516211",
+    "Price": 0.99,
+    "Developers": "Kezarus",
+    "Publishers": "Kezarus",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/740950/ss_642532ab9d8f59129c244822059c414f1bd5f2bb.1920x1080.jpg?t=1560516211,https://cdn.akamai.steamstatic.com/steam/apps/740950/ss_4e8cc08fcefde3365ffdeb393a64ae829a25ae97.1920x1080.jpg?t=1560516211,https://cdn.akamai.steamstatic.com/steam/apps/740950/ss_55081b9aa5db6bdc1bb0ccf4b35dc0e81c21acc9.1920x1080.jpg?t=1560516211,https://cdn.akamai.steamstatic.com/steam/apps/740950/ss_05b9d96b51360af209af1790e9812ab4f43acb86.1920x1080.jpg?t=1560516211,https://cdn.akamai.steamstatic.com/steam/apps/740950/ss_f776f42107fc9ab3893ec1db2a426dadb42af44b.1920x1080.jpg?t=1560516211",
+    "Slug": "overkill",
+    "Meta Title": "OverKill: Oct 23, 2017, Kezarus and Full Overview",
+    "Meta Description": "Looking for information on OverKill? Check out the release date (Oct 23, 2017), developer insights from Kezarus, and a complete game summary.",
+    "Alt Text Image": "Official header image for OverKill game - Steam 740950",
+    "Canonical URL": "https://gusku.site/game/overkill",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"OverKill\", \"description\": \"Looking for information on OverKill? Check out the release date (Oct 23, 2017), developer insights from Kezarus, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 23, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kezarus\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kezarus\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/740950/header.jpg?t=1560516211\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

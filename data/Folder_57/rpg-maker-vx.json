@@ -1,0 +1,21 @@
+{
+    "AppID": 521880,
+    "Name": "RPG Maker VX",
+    "Release date": "Oct 20, 2016",
+    "About the game": "Simple enough for a child; powerful enough for a developer. RPG Maker VX allows you to make the role-playing games you’ve always dreamed of by being one of the easiest game engine software ever developed. With its enhanced auto-tile capabilities, quick event creation, and dungeon generator, you can have a game ready to play faster than ever before! With RPG Maker VX, you can create your own unique RPG, without the need to be a programmer, artist, or musician. Take advantage of the following features to make the game you’ve always wanted to: An easy to use mapping system, giving you the tools to build the look of your world. A GUI driven database, where you can create your heroes, villains, items, magic, and more. A powerful eventing system, allowing you to dictate the flow of your game using a simple point and click interface. A great default collection of graphics, sounds, and music, giving you all the materials you need to make your game. Easy To Use RPG Maker VX carries over all the easy to use features from RPG Maker XP, while adding a few more if its own. You can save time by making frequently occurring events (like chests, doors, etc.) with a single command. You can create maps faster than ever due to the simple layer system and revamped autotile tool. Pre-Made Graphics/Audio Don’t know how to create graphics? Can’t compose music? No problem. RPG Maker VX includes a large collection of pre-made, ready to use resources for you to create your own game with. You can also import new resources from the RPGMakerWeb blog, online communities, or even import resources you made yourself. Share Your Game Finished your game and ready to send it to your friends? With just a few clicks you can have a ready to go install file that includes everything they will need to play the game, without the need to have RPG Maker VX installed themselves.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/521880/header.jpg?t=1630988766",
+    "Price": 3.99,
+    "Developers": "Gotcha Gotcha Games,KADOKAWA,Yoji Ojima",
+    "Publishers": "Degica",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/521880/ss_e865e5c6c9b92c3ae7c2827d506e93d67f23e74e.1920x1080.jpg?t=1630988766,https://cdn.akamai.steamstatic.com/steam/apps/521880/ss_b10b30a243d2df110d58bdbd71b641b5d01996b5.1920x1080.jpg?t=1630988766,https://cdn.akamai.steamstatic.com/steam/apps/521880/ss_c11379367b6ce6060bfdc98ad1a2fe9ef514f2bb.1920x1080.jpg?t=1630988766,https://cdn.akamai.steamstatic.com/steam/apps/521880/ss_18d45f85b6cb1d5619fbe9daf296274065d7ef1f.1920x1080.jpg?t=1630988766,https://cdn.akamai.steamstatic.com/steam/apps/521880/ss_729e46b669435bd08e40b7333d4f13a9e4fc0f15.1920x1080.jpg?t=1630988766,https://cdn.akamai.steamstatic.com/steam/apps/521880/ss_4f519795b4f454aedb017562c0f993a821ea28c9.1920x1080.jpg?t=1630988766",
+    "Slug": "rpg-maker-vx",
+    "Meta Title": "RPG Maker VX: Oct 20, 2016, Gotcha Gotcha Games,KADOKAWA,...",
+    "Meta Description": "Looking for information on RPG Maker VX? Check out the release date (Oct 20, 2016), developer insights from Gotcha Gotcha Games,KADOKAWA,Yoji Ojima, and...",
+    "Alt Text Image": "Official header image for RPG Maker VX game - Steam 521880",
+    "Canonical URL": "https://gusku.site/game/rpg-maker-vx",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RPG Maker VX\", \"description\": \"Looking for information on RPG Maker VX? Check out the release date (Oct 20, 2016), developer insights from Gotcha Gotcha Games,KADOKAWA,Yoji Ojima, and...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 20, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gotcha Gotcha Games,KADOKAWA,Yoji Ojima\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Degica\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/521880/header.jpg?t=1630988766\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

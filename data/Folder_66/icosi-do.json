@@ -1,0 +1,21 @@
+{
+    "AppID": 2072540,
+    "Name": "icosi-do",
+    "Release date": "Nov 11, 2022",
+    "About the game": "This minimalist puzzle game is as much a game of logic as it is of patience. The objective of each puzzle is to swap pairs of colored rods such that all four rods that meet in any of 30 corners have different colors - a problem known as 'edge coloring' in mathematics. The catch is to solve each puzzle with a limited number of swaps (unless you deactivate that limit). The game offers thousands of procedurally generated puzzles in dozens of difficulty levels in various single-player modes as well as shared-screen cooperative and competitive multiplayer modes. The four single-player modes are: with and without limited number of swaps, and with the different kinds of rods visualized as colors or as rotations. The puzzles range in difficulty from very easy to extremely difficult. The most difficult puzzles will test the patience even of hard-core puzzle fans. Inspired by a fictional game of a popular sci-fi TV series, the puzzle design combines a mathematical problem (edge coloring an icosidodecahedral graph) with a comfortable learning curve and an extra challenging mode for the most devoted fans. Other Features Players may use keyboard, two-button mouse, Xbox controller, or any combination of them. Remote Play Together is supported. Settings are provided to customize sensitivity and rotation directions of controls, as well as many other aspects of the game. The innovative game menu is an unusual visual treat as all text is formed by the same 60 swirling rods that also form the puzzles. Each puzzle is represented by a 6-digit code such that it is easy to replay and share any puzzle. The background music consists of procedurally modified versions of three preludes by Johann Sebastian Bach in dozens of variations - from dreamily slow piano to blazingly fast guitar. Tilt Five™ Glasses are supported.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2072540/header.jpg?t=1668336680",
+    "Price": 6.74,
+    "Developers": "Martin Kraus",
+    "Publishers": "Martin Kraus",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2072540/ss_bcbbe3ba288ebd35a028d4e5310d6fa58908698e.1920x1080.jpg?t=1668336680,https://cdn.akamai.steamstatic.com/steam/apps/2072540/ss_a338fc8aa9cb33ae53ef088b2d5144f8f8e0a035.1920x1080.jpg?t=1668336680,https://cdn.akamai.steamstatic.com/steam/apps/2072540/ss_22073ad64799cbe3d5d9820c2e22de5a925e991f.1920x1080.jpg?t=1668336680,https://cdn.akamai.steamstatic.com/steam/apps/2072540/ss_db8e6aa1d904dc114bc70204392138c6ce2eb9b6.1920x1080.jpg?t=1668336680,https://cdn.akamai.steamstatic.com/steam/apps/2072540/ss_16a9ff5ef044ccb7039d4e2b7e98ff96f861765e.1920x1080.jpg?t=1668336680",
+    "Slug": "icosi-do",
+    "Meta Title": "icosi-do: Nov 11, 2022, Martin Kraus and Full Overview",
+    "Meta Description": "Looking for information on icosi-do? Check out the release date (Nov 11, 2022), developer insights from Martin Kraus, and a complete game summary.",
+    "Alt Text Image": "Official header image for icosi-do game - Steam 2072540",
+    "Canonical URL": "https://gusku.site/game/icosi-do",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"icosi-do\", \"description\": \"Looking for information on icosi-do? Check out the release date (Nov 11, 2022), developer insights from Martin Kraus, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Martin Kraus\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Martin Kraus\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2072540/header.jpg?t=1668336680\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.74, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1991790,
+    "Name": "Sudoqube",
+    "Release date": "Jun 20, 2022",
+    "About the game": "Sudoqube is a fully 3 dimensional sudoku puzzle game. Unlike other 3D sudoku games that only utilize the surface of a cube, Sudoqube also utilizes the internal space of the cube. The puzzle consists of 729 individual cubes that make a larger 9x9x9 cube and each puzzle technically consists of 27 individual sudokus (9 sudokus in each direction). The normal rules of sudoku apply to every slice of the cube when viewed in any direction. The player can randomly generate near infinite puzzles with a select-able difficulty setting.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1991790/header.jpg?t=1655750263",
+    "Price": 2.99,
+    "Developers": "Catalyst Cypher Games",
+    "Publishers": "Catalyst Cypher Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1991790/ss_a98de58b366a3deaeb4fd518b2b40928f5a5dfa4.1920x1080.jpg?t=1655750263,https://cdn.akamai.steamstatic.com/steam/apps/1991790/ss_cd5fbe54de74411f3c4d52a451903c7cebfb804d.1920x1080.jpg?t=1655750263,https://cdn.akamai.steamstatic.com/steam/apps/1991790/ss_0672883262e2ee058444c007064965406d9b5884.1920x1080.jpg?t=1655750263,https://cdn.akamai.steamstatic.com/steam/apps/1991790/ss_ef554d779c2a751b5922c9cb5d357e0a1e635f2a.1920x1080.jpg?t=1655750263,https://cdn.akamai.steamstatic.com/steam/apps/1991790/ss_6784e716b7612b53cbf812f6f7cfb262f8436866.1920x1080.jpg?t=1655750263",
+    "Slug": "sudoqube",
+    "Meta Title": "Sudoqube: Jun 20, 2022, Catalyst Cypher Games and Full Ov...",
+    "Meta Description": "Looking for information on Sudoqube? Check out the release date (Jun 20, 2022), developer insights from Catalyst Cypher Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sudoqube game - Steam 1991790",
+    "Canonical URL": "https://gusku.site/game/sudoqube",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sudoqube\", \"description\": \"Looking for information on Sudoqube? Check out the release date (Jun 20, 2022), developer insights from Catalyst Cypher Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Catalyst Cypher Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Catalyst Cypher Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1991790/header.jpg?t=1655750263\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

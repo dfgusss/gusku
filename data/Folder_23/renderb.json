@@ -1,0 +1,21 @@
+{
+    "AppID": 1706390,
+    "Name": "renderB",
+    "Release date": "Nov 23, 2021",
+    "About the game": "An unguided, free-to-roam, seamless, VR experience, centered around product and architecture visualization. Supports both VR and 2D modes. (renderB does NOT feature audio and is NOT a game) - Wander about in a furnished apartment; look around and see what you might find. - Build/unbuild the tower. - Get to the top of the tower. - Get inside a luxury sports car and admire the interiors or even articulate it. - Check out the intricate details on a modern luxury watch or just take a quiet peaceful walk in the gardens. ----------------- Usage: -Use the controllers to move/look around. -Use the grip buttons to cycle between locales. -Use the X/Y buttons to load/unload the building. -Use the UI to interact with objects. -Press the left thumbstick to crouch ----------------- -Features : -teleport and smooth locomotion -standing and seated play. -height adjustment -snap and smooth turning.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1706390/header.jpg?t=1637728090",
+    "Price": 0.0,
+    "Developers": "Atman Software",
+    "Publishers": "Atman Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1706390/ss_b56596f42165054ef24e01de4bf6d564844940ab.1920x1080.jpg?t=1637728090,https://cdn.akamai.steamstatic.com/steam/apps/1706390/ss_2587afa3c8b5f64e556ee691200f0f5d3dbfa40e.1920x1080.jpg?t=1637728090,https://cdn.akamai.steamstatic.com/steam/apps/1706390/ss_77bbc34b287d37e7e591b34856bc789818003d27.1920x1080.jpg?t=1637728090,https://cdn.akamai.steamstatic.com/steam/apps/1706390/ss_f1672df0229da10d65a2d973199260fb123bf9e2.1920x1080.jpg?t=1637728090,https://cdn.akamai.steamstatic.com/steam/apps/1706390/ss_d636dfadb733c4773e6856d584252c36c3c6b619.1920x1080.jpg?t=1637728090",
+    "Slug": "renderb",
+    "Meta Title": "renderB: Nov 23, 2021, Atman Software and Full Overview",
+    "Meta Description": "Looking for information on renderB? Check out the release date (Nov 23, 2021), developer insights from Atman Software, and a complete game summary.",
+    "Alt Text Image": "Official header image for renderB game - Steam 1706390",
+    "Canonical URL": "https://gusku.site/game/renderb",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"renderB\", \"description\": \"Looking for information on renderB? Check out the release date (Nov 23, 2021), developer insights from Atman Software, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Atman Software\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Atman Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1706390/header.jpg?t=1637728090\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

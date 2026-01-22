@@ -1,0 +1,21 @@
+{
+    "AppID": 1872730,
+    "Name": "Math Game",
+    "Release date": "Jan 28, 2022",
+    "About the game": "Math Game is a logic game for the speed of solving simple math problems. The game is a simple interface, where the player is presented with a problem divided into sections and given four options for solving it, one of which must be substituted into an empty section. There is also a timer during which you must have time to choose the correct solution to the problem. Over time, the timer gets smaller, and the tasks are more varied and you need to try to keep up with the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1872730/header.jpg?t=1643367072",
+    "Price": 0.99,
+    "Developers": "Simple Logic Games",
+    "Publishers": "Simple Logic Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1872730/ss_0fd58ffeae05cfd99ee98e2d2d329ef52792a8b6.1920x1080.jpg?t=1643367072,https://cdn.akamai.steamstatic.com/steam/apps/1872730/ss_06cad6b8eeeff7873ad1b4ba5f473c6235f29d50.1920x1080.jpg?t=1643367072,https://cdn.akamai.steamstatic.com/steam/apps/1872730/ss_072f6d95d204482f6c15e1aeed3670c96e349fd9.1920x1080.jpg?t=1643367072,https://cdn.akamai.steamstatic.com/steam/apps/1872730/ss_e5b5155e1924b36cf92f9ef3d812605ae35be0e8.1920x1080.jpg?t=1643367072,https://cdn.akamai.steamstatic.com/steam/apps/1872730/ss_6bb7f480ba93602f7dc60e60398f82e6a24c1d38.1920x1080.jpg?t=1643367072",
+    "Slug": "math-game",
+    "Meta Title": "Math Game: Jan 28, 2022, Simple Logic Games and Full Over...",
+    "Meta Description": "Looking for information on Math Game? Check out the release date (Jan 28, 2022), developer insights from Simple Logic Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Math Game game - Steam 1872730",
+    "Canonical URL": "https://gusku.site/game/math-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Math Game\", \"description\": \"Looking for information on Math Game? Check out the release date (Jan 28, 2022), developer insights from Simple Logic Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 28, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Simple Logic Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Simple Logic Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1872730/header.jpg?t=1643367072\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

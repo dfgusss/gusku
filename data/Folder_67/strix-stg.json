@@ -1,0 +1,21 @@
+{
+    "AppID": 2207600,
+    "Name": "Strix STG",
+    "Release date": "Nov 30, 2022",
+    "About the game": "'Strix STG' is a 'Communication-Synchronized Bullet-Hell Casual Vertical-Scrolling Shooting-Game'. Let's aim to capture all 5 stages while destroying enemies. You can also choose from 5 levels of difficulty. * Up to stage 2 has been implemented at the start of early access. * There is a possibility that the contents of the stage will be changed until the final version is released. The best feature of this game is the ability to play two-player co-op online. Simple chat with two types of fixed phrases is available, so please use it for role sharing. * Currently, there is no save function for play data, so it is not possible to record the score. I may add a save function in the future based on user feedback. Method of operation menu SHOT key (Z key): Confirm BOMB key (X key): cancel AUTO-SHOT key (C key): Confirm In-game SHOT key (Z key): shot BOMB key (X key): bomb AUTO-SHOT key (C key): Shot START key (ESC key): Pause menu (single play only) COMM1 key (A key): Send the message 'Leave the small enemy to me!' (co-op play only) COMM2 key (S key): Send the message 'Leave the large enemy to me!' (co-op play only) Common F4 key : Force quit the application This game supports some game controllers. (Only 'Real Arcade Pro.V HAYABUSA' has been confirmed to work.) If you have a compatible controller, you can assign any key. Powered by 'Strix Cloud'. Strix Cloud® is a registered trademark of Soft Gear Co., Ltd. in Japan",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2207600/header.jpg?t=1669820638",
+    "Price": 0.0,
+    "Developers": "Strix STG Dev",
+    "Publishers": "Strix STG Dev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2207600/ss_ba3ddeba2f2e6f42949d4b3fd1820459d1b5e25b.1920x1080.jpg?t=1669820638,https://cdn.akamai.steamstatic.com/steam/apps/2207600/ss_3658d80f1d10e42d8faec5c6dd9ba1003a20398c.1920x1080.jpg?t=1669820638,https://cdn.akamai.steamstatic.com/steam/apps/2207600/ss_cadd9f29dfad34a437c74d91c2f2188a8f32e895.1920x1080.jpg?t=1669820638,https://cdn.akamai.steamstatic.com/steam/apps/2207600/ss_2a66eb3646ece90ddc627d23b16515643c394144.1920x1080.jpg?t=1669820638,https://cdn.akamai.steamstatic.com/steam/apps/2207600/ss_b37710e1fa51d0581898d222ec063baeb80a0344.1920x1080.jpg?t=1669820638,https://cdn.akamai.steamstatic.com/steam/apps/2207600/ss_47ed72d00bd42c6f51eb181af3cd5bcc62447d69.1920x1080.jpg?t=1669820638",
+    "Slug": "strix-stg",
+    "Meta Title": "Strix STG: Nov 30, 2022, Strix STG Dev and Full Overview",
+    "Meta Description": "Looking for information on Strix STG? Check out the release date (Nov 30, 2022), developer insights from Strix STG Dev, and a complete game summary.",
+    "Alt Text Image": "Official header image for Strix STG game - Steam 2207600",
+    "Canonical URL": "https://gusku.site/game/strix-stg",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Strix STG\", \"description\": \"Looking for information on Strix STG? Check out the release date (Nov 30, 2022), developer insights from Strix STG Dev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 30, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Strix STG Dev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Strix STG Dev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2207600/header.jpg?t=1669820638\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

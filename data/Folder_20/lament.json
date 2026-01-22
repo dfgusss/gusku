@@ -1,0 +1,21 @@
+{
+    "AppID": 598340,
+    "Name": "Lament",
+    "Release date": "Mar 31, 2017",
+    "About the game": "Lament, an NES styled Action-Platformer about a wolf with a buster sword! Inspired mostly by Castlevania and Ninja Gaiden on the NES. Swing your way through countless enemies and try to restore the cursed sword to its former glory!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/598340/header.jpg?t=1490952468",
+    "Price": 0.99,
+    "Developers": "Radcroc",
+    "Publishers": "Radcroc",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/598340/ss_46c7d0b7b6815b77fcee146b8b7e82c8c296faa8.1920x1080.jpg?t=1490952468,https://cdn.akamai.steamstatic.com/steam/apps/598340/ss_fa7c15c50f26cda11c00fa1dd587a747c0bcda46.1920x1080.jpg?t=1490952468,https://cdn.akamai.steamstatic.com/steam/apps/598340/ss_bc90c71229eb03ef93040a454b2f8380eddc9b08.1920x1080.jpg?t=1490952468,https://cdn.akamai.steamstatic.com/steam/apps/598340/ss_6ed7fe6d9d57103f620efac8a5245e7c3eb54712.1920x1080.jpg?t=1490952468,https://cdn.akamai.steamstatic.com/steam/apps/598340/ss_19e29835411c3b85a7d1604cc7c362bafbaca34d.1920x1080.jpg?t=1490952468",
+    "Slug": "lament",
+    "Meta Title": "Lament: Mar 31, 2017, Radcroc and Full Overview",
+    "Meta Description": "Looking for information on Lament? Check out the release date (Mar 31, 2017), developer insights from Radcroc, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lament game - Steam 598340",
+    "Canonical URL": "https://gusku.site/game/lament",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lament\", \"description\": \"Looking for information on Lament? Check out the release date (Mar 31, 2017), developer insights from Radcroc, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 31, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Radcroc\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Radcroc\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/598340/header.jpg?t=1490952468\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

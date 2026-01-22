@@ -1,0 +1,21 @@
+{
+    "AppID": 1500400,
+    "Name": "Sokoban Gianta",
+    "Release date": "Dec 29, 2020",
+    "About the game": "Sokoban Gianta Sokoban Gianta is an implementation of the classic box-pushing puzzle game. A single giant level has the same objective; to push boxes to their destination locations. Although this may sound simple, the progressive difficulty of the level will certainly demand creativity, imagination and perseverance. The rules are simple. You can only walk or push. You cannot walk through walls or over boxes and you cannot pull. Enjoy! Features Player can choose between key board and mouse click mechanics Intuitive controls to undo, move, and push boxes Ability to save and review your path history Cheap and easy access to the solution to the giant level A giant level of varying difficulty",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1500400/header.jpg?t=1610516376",
+    "Price": 4.99,
+    "Developers": "JChip Game",
+    "Publishers": "JChip Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1500400/ss_3550387b6a1a5c898008e507dd5065fac310e0be.1920x1080.jpg?t=1610516376,https://cdn.akamai.steamstatic.com/steam/apps/1500400/ss_2c86e52e268d82c044997b2f2e1438c7ce490c56.1920x1080.jpg?t=1610516376,https://cdn.akamai.steamstatic.com/steam/apps/1500400/ss_b883bc3e2362f4910463b9054c3a733c14db0454.1920x1080.jpg?t=1610516376,https://cdn.akamai.steamstatic.com/steam/apps/1500400/ss_091c69496beb0ed41161659dac7482aad5d0f14f.1920x1080.jpg?t=1610516376",
+    "Slug": "sokoban-gianta",
+    "Meta Title": "Sokoban Gianta: Dec 29, 2020, JChip Game and Full Overview",
+    "Meta Description": "Looking for information on Sokoban Gianta? Check out the release date (Dec 29, 2020), developer insights from JChip Game, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sokoban Gianta game - Steam 1500400",
+    "Canonical URL": "https://gusku.site/game/sokoban-gianta",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sokoban Gianta\", \"description\": \"Looking for information on Sokoban Gianta? Check out the release date (Dec 29, 2020), developer insights from JChip Game, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 29, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"JChip Game\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"JChip Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1500400/header.jpg?t=1610516376\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

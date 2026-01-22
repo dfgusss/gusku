@@ -1,0 +1,21 @@
+{
+    "AppID": 706980,
+    "Name": "PaperCat",
+    "Release date": "Sep 28, 2017",
+    "About the game": "PaperCat is a game about Slick the cat and Frank his human, who loves him despite all the mess he make! It's a 2D puzzle platform game. Pursue butterfly and break things in the way! But shhh... don't awake Frank! In the game you control every Slick action: *move *jump *dash According the sequence of that action you will finish each stage. The game has 4 stage sets, each set has its own way to be solved. The stage is clear when all objects are broken or the time counter reachs 0.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/706980/header.jpg?t=1506697105",
+    "Price": 1.99,
+    "Developers": "ARS",
+    "Publishers": "ARS",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/706980/ss_ba90bd7258bff7724c7ceed0facb2ca049f12dfc.1920x1080.jpg?t=1506697105,https://cdn.akamai.steamstatic.com/steam/apps/706980/ss_e732d459b892cc91f6df2d29f87099dae320c477.1920x1080.jpg?t=1506697105,https://cdn.akamai.steamstatic.com/steam/apps/706980/ss_9c69336db0fe4629d4869997c900f7733d8d14a6.1920x1080.jpg?t=1506697105,https://cdn.akamai.steamstatic.com/steam/apps/706980/ss_81e9f5b405bc471d838b5216b7748ad80e16e0d4.1920x1080.jpg?t=1506697105,https://cdn.akamai.steamstatic.com/steam/apps/706980/ss_2b25783bd1b2a53dc888473857371ecfb7572c95.1920x1080.jpg?t=1506697105,https://cdn.akamai.steamstatic.com/steam/apps/706980/ss_1c40064f11a43077ba51152fb8f098851dd130bf.1920x1080.jpg?t=1506697105,https://cdn.akamai.steamstatic.com/steam/apps/706980/ss_80dade2d8a7d7871b9cfb4f493c87fe6c7d886a7.1920x1080.jpg?t=1506697105",
+    "Slug": "papercat",
+    "Meta Title": "PaperCat: Sep 28, 2017, ARS and Full Overview",
+    "Meta Description": "Looking for information on PaperCat? Check out the release date (Sep 28, 2017), developer insights from ARS, and a complete game summary.",
+    "Alt Text Image": "Official header image for PaperCat game - Steam 706980",
+    "Canonical URL": "https://gusku.site/game/papercat",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PaperCat\", \"description\": \"Looking for information on PaperCat? Check out the release date (Sep 28, 2017), developer insights from ARS, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 28, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"ARS\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ARS\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/706980/header.jpg?t=1506697105\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

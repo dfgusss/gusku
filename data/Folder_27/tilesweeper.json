@@ -1,0 +1,21 @@
+{
+    "AppID": 867180,
+    "Name": "Tilesweeper",
+    "Release date": "Aug 23, 2018",
+    "About the game": "Tilesweeper is a well-known game Minesweeper, but with stunning graphics. The game provides various themes for the levels. Currently in the game available one theme - Castle, later new themes will be available as DLC. In each theme there are two types of levels - classical and arcade. Classic levels are the usual levels of the classic Minesweeper: 9x9, 16x16 and 30x16, but in the design of the chosen theme. Arcade levels are levels of non-standard shapes and sizes.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/867180/header.jpg?t=1574111981",
+    "Price": 4.99,
+    "Developers": "IEVO",
+    "Publishers": "IEVO",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/867180/ss_690c339b1ddb229a10e25cfaf3922e0f2a1d9cf0.1920x1080.jpg?t=1574111981,https://cdn.akamai.steamstatic.com/steam/apps/867180/ss_0c2ec80bc1a3951a4614eb469caab9401c2ce22c.1920x1080.jpg?t=1574111981,https://cdn.akamai.steamstatic.com/steam/apps/867180/ss_5ea1de51f738c3f27dea3d9ae9ee65c8ebaf361c.1920x1080.jpg?t=1574111981,https://cdn.akamai.steamstatic.com/steam/apps/867180/ss_98971c1b3fde75813d57bf1ccee1bc641e64bd4c.1920x1080.jpg?t=1574111981,https://cdn.akamai.steamstatic.com/steam/apps/867180/ss_9e2d0a6fc507fa7738f53acf622c0633a275d8e1.1920x1080.jpg?t=1574111981",
+    "Slug": "tilesweeper",
+    "Meta Title": "Tilesweeper: Aug 23, 2018, IEVO and Full Overview",
+    "Meta Description": "Looking for information on Tilesweeper? Check out the release date (Aug 23, 2018), developer insights from IEVO, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tilesweeper game - Steam 867180",
+    "Canonical URL": "https://gusku.site/game/tilesweeper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tilesweeper\", \"description\": \"Looking for information on Tilesweeper? Check out the release date (Aug 23, 2018), developer insights from IEVO, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 23, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"IEVO\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"IEVO\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/867180/header.jpg?t=1574111981\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 647280,
+    "Name": "Pixel Shooter",
+    "Release date": "Jul 3, 2017",
+    "About the game": "In this 2D platformer game, get your gun and shoot all monsters in your way or just run away to the exit. Your mission is to find the exit on each level. All levels are filled with monsters. You can kill or just run, it's up to you to decide. This game is created using an old asset from the Unity Asset Store. I expect that you like it.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/647280/header.jpg?t=1649905293",
+    "Price": 9.99,
+    "Developers": "Sabrina Aridi",
+    "Publishers": "Sabrina Aridi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/647280/ss_43809cd598daa68dfe176de5f66ca1e0e389ef02.1920x1080.jpg?t=1649905293,https://cdn.akamai.steamstatic.com/steam/apps/647280/ss_5e366ca686f31e102b36be1aad0abf669ece8cbe.1920x1080.jpg?t=1649905293,https://cdn.akamai.steamstatic.com/steam/apps/647280/ss_02c292cb5a288d1877d650330e47436149e79bd9.1920x1080.jpg?t=1649905293,https://cdn.akamai.steamstatic.com/steam/apps/647280/ss_6b9056e3507b1b603dfc6d3214e82862b05ce05b.1920x1080.jpg?t=1649905293,https://cdn.akamai.steamstatic.com/steam/apps/647280/ss_49b9d7029fb0b62cbf09ff2239ff82d27ba20c6f.1920x1080.jpg?t=1649905293",
+    "Slug": "pixel-shooter",
+    "Meta Title": "Pixel Shooter: Jul 3, 2017, Sabrina Aridi and Full Overview",
+    "Meta Description": "Looking for information on Pixel Shooter? Check out the release date (Jul 3, 2017), developer insights from Sabrina Aridi, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixel Shooter game - Steam 647280",
+    "Canonical URL": "https://gusku.site/game/pixel-shooter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixel Shooter\", \"description\": \"Looking for information on Pixel Shooter? Check out the release date (Jul 3, 2017), developer insights from Sabrina Aridi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 3, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sabrina Aridi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sabrina Aridi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/647280/header.jpg?t=1649905293\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1304120,
+    "Name": "Color Game",
+    "Release date": "Jun 1, 2020",
+    "About the game": "Color Game is a puzzle game revolving around changing the color of your player to navigate a level and reach the end. Unlock doors, evade enemies, and figure out the best path to the black tile. This game is still in development, here are the things that have yet to be added: -5 more puzzle mechanics -Updated art assets -Rudimentary story",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1304120/header.jpg?t=1591032384",
+    "Price": 0.99,
+    "Developers": "Thomas Watson",
+    "Publishers": "Thomas Watson",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1304120/ss_4b4bcd374bb11127dbcd988d79f07e1bb515f97a.1920x1080.jpg?t=1591032384,https://cdn.akamai.steamstatic.com/steam/apps/1304120/ss_5c76340c1a1d6acb2de61bb481b023d9a8e37a87.1920x1080.jpg?t=1591032384,https://cdn.akamai.steamstatic.com/steam/apps/1304120/ss_b60fee81e4f4489dff2f6c4f523bc82e56d2a7ae.1920x1080.jpg?t=1591032384,https://cdn.akamai.steamstatic.com/steam/apps/1304120/ss_3df1c70f5d8bbce8e2c0d65b8bac903d205bdac1.1920x1080.jpg?t=1591032384,https://cdn.akamai.steamstatic.com/steam/apps/1304120/ss_efd3900878e66839941817f6edfa116a1b6845bb.1920x1080.jpg?t=1591032384",
+    "Slug": "color-game",
+    "Meta Title": "Color Game: Jun 1, 2020, Thomas Watson and Full Overview",
+    "Meta Description": "Looking for information on Color Game? Check out the release date (Jun 1, 2020), developer insights from Thomas Watson, and a complete game summary.",
+    "Alt Text Image": "Official header image for Color Game game - Steam 1304120",
+    "Canonical URL": "https://gusku.site/game/color-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Color Game\", \"description\": \"Looking for information on Color Game? Check out the release date (Jun 1, 2020), developer insights from Thomas Watson, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 1, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Thomas Watson\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Thomas Watson\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1304120/header.jpg?t=1591032384\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

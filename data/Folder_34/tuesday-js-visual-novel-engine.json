@@ -1,0 +1,21 @@
+{
+    "AppID": 1575970,
+    "Name": "Tuesday JS visual novel engine",
+    "Release date": "Apr 5, 2021",
+    "About the game": "The editor is designed to create interactive fiction, graphic or kinetic novels without knowledge of programming languages. It uses a drag and drop interface for scene editing and to make interfaces. The story script is displayed as a flowchart node with all plot elements and branches. This makes it easier to navigate and helps you create a great story with many plot options. This allows the use of any media format supported by browsers including vector graphics svg, gif animations and css styles. Attention! To add files to the project, you need to select only the folder containing the files for the project and not a specific file. Tutorial: -js/tutorial.html GitHub: -js",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1575970/header.jpg?t=1653241454",
+    "Price": 0.0,
+    "Developers": "kirill live",
+    "Publishers": "kirill live",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1575970/ss_ed10aaef766fa4c9839d4f96cc02b9a80f17adfd.1920x1080.jpg?t=1653241454,https://cdn.akamai.steamstatic.com/steam/apps/1575970/ss_96052af0b28af9070c4889aa177da3097b46d86d.1920x1080.jpg?t=1653241454,https://cdn.akamai.steamstatic.com/steam/apps/1575970/ss_51b42a40cc89ad9f9014b4a8d46064ee0ad749b8.1920x1080.jpg?t=1653241454,https://cdn.akamai.steamstatic.com/steam/apps/1575970/ss_c70e08e318981f68e15e3141b6bbcb4fd08e6bef.1920x1080.jpg?t=1653241454,https://cdn.akamai.steamstatic.com/steam/apps/1575970/ss_0d288d55fb0e2fc24242802556096c1de6f5ecde.1920x1080.jpg?t=1653241454,https://cdn.akamai.steamstatic.com/steam/apps/1575970/ss_0395aa9c2ebffbb430ebd49dd41d234ec59ac5dc.1920x1080.jpg?t=1653241454",
+    "Slug": "tuesday-js-visual-novel-engine",
+    "Meta Title": "Tuesday JS visual novel engine: Apr 5, 2021, kirill live ...",
+    "Meta Description": "Looking for information on Tuesday JS visual novel engine? Check out the release date (Apr 5, 2021), developer insights from kirill live, and a complete...",
+    "Alt Text Image": "Official header image for Tuesday JS visual novel engine game - Steam 1575970",
+    "Canonical URL": "https://gusku.site/game/tuesday-js-visual-novel-engine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tuesday JS visual novel engine\", \"description\": \"Looking for information on Tuesday JS visual novel engine? Check out the release date (Apr 5, 2021), developer insights from kirill live, and a complete...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 5, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"kirill live\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"kirill live\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1575970/header.jpg?t=1653241454\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

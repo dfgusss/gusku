@@ -1,0 +1,21 @@
+{
+    "AppID": 467650,
+    "Name": "Demolition",
+    "Release date": "Sep 5, 2019",
+    "About the game": "Had enough of the day? Need some escapism? Go blow up some stuff to relieve the stress but don't hurt anything or real. Place bombs in strategic places to cause maximum damage for high scores, choose from different bomb types and customisation. Almost everything in game can be blown up, it's just a matter of how you do it to get the points. Strategic placement is key, or create sequenced bomb explosions for arrays of destruction. The higher the damage the better for your score. Build your own objects / world to blow up too using the build system. Collect random/different colour upgrades like (amongst many) large explode, health restore or many fragments to get more power. Additional areas open up after reaching certain scores. Watch out for explosions, fires or fragments, they can damage your health. Check the top and bottom status text bars in game for information on bombs and health. Controls: -W,A,S,D and mouse for movement. -E to use build system (Left Mouse Button to place objects). -R Toggle Object remove, Left Mouse to remove highlighted object -SHIFT to sprint. -Mouse Scroll wheel to cycle bombs/weapons. -Right Mouse Button to place bombs, for timer bombs to start count press CTRL Key, -Left ALT for slomo mode. -C for Rewind mode (Note:If pressed you loose score slowly). -ESCAPE Key for pause menu. Choose between different game modes: Normal - Free mode, no limits on time or objects. Timed - 3 minutes to play, final score multiplier x4. Block - Weapons only work on cubes, score multiplier x4.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/467650/header.jpg?t=1567714452",
+    "Price": 6.99,
+    "Developers": "khos85",
+    "Publishers": "khos85",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/467650/ss_7613ef2e608d19aa8c40a254d5c7e6de1e5dd450.1920x1080.jpg?t=1567714452,https://cdn.akamai.steamstatic.com/steam/apps/467650/ss_eadf41f3832c0480e8d9305dede74c30c8919a36.1920x1080.jpg?t=1567714452,https://cdn.akamai.steamstatic.com/steam/apps/467650/ss_c89ac812d533f162afadeff44358f975b3d6e8df.1920x1080.jpg?t=1567714452,https://cdn.akamai.steamstatic.com/steam/apps/467650/ss_fb4f71c2d1ca6628b941647f73bd0fb5452bc71d.1920x1080.jpg?t=1567714452,https://cdn.akamai.steamstatic.com/steam/apps/467650/ss_83975f38feac5b0a4db7a9fc8e14ce0ecf8804cc.1920x1080.jpg?t=1567714452,https://cdn.akamai.steamstatic.com/steam/apps/467650/ss_b5307a1f2d83fefb4c8f6ca23418ed7b3c0e3322.1920x1080.jpg?t=1567714452,https://cdn.akamai.steamstatic.com/steam/apps/467650/ss_a7323311227aea3694c33e5265a4acd92c790aa6.1920x1080.jpg?t=1567714452,https://cdn.akamai.steamstatic.com/steam/apps/467650/ss_07a54fb6534908ac157ceb991d7b270917878f95.1920x1080.jpg?t=1567714452,https://cdn.akamai.steamstatic.com/steam/apps/467650/ss_7e553285fedd676b4c373b9052670dca839d8abd.1920x1080.jpg?t=1567714452",
+    "Slug": "demolition",
+    "Meta Title": "Demolition: Sep 5, 2019, khos85 and Full Overview",
+    "Meta Description": "Looking for information on Demolition? Check out the release date (Sep 5, 2019), developer insights from khos85, and a complete game summary.",
+    "Alt Text Image": "Official header image for Demolition game - Steam 467650",
+    "Canonical URL": "https://gusku.site/game/demolition",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Demolition\", \"description\": \"Looking for information on Demolition? Check out the release date (Sep 5, 2019), developer insights from khos85, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 5, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"khos85\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"khos85\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/467650/header.jpg?t=1567714452\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

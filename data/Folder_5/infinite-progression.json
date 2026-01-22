@@ -1,0 +1,21 @@
+{
+    "AppID": 1794710,
+    "Name": "Infinite Progression",
+    "Release date": "Nov 19, 2021",
+    "About the game": "Procedural Generation The game is formatted as a list of modules, all in a stack, These modules all interact with the ones above. Once you make 10000 currency, you can buy another module. This module will be randomly picked, yet with a seed, you can play the same sequence every time. Never Ending Incremental games have always had an end, whether it is because the effort to go on is impossible to put forth, or because the end is predefined, but not with this one. Every module in the base game is designed to allow you to play the game indefinitely. High Replayability Play the game with whatever combinations of mods you want. Mods can range from boosts to generators, to Plus-Mode where you can choose the next module. Easy To Learn Modding System With A Growing API Don't think there are enough modules in the game, just make another. With a python plugin system and a built-in mod maker, you can do anything you want. It doesn't end there, the majority of what future updates will contribute to the API of the game, making it easier to do what you would like.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1794710/header.jpg?t=1646678014",
+    "Price": 0.99,
+    "Developers": "Prestosilver",
+    "Publishers": "Prestosilver",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1794710/ss_211baed630dacd2eb69252cc8f5e6fe2c3d3f6d3.1920x1080.jpg?t=1646678014,https://cdn.akamai.steamstatic.com/steam/apps/1794710/ss_091d5d5176ba8116db280cb8524399ecfa6cb559.1920x1080.jpg?t=1646678014,https://cdn.akamai.steamstatic.com/steam/apps/1794710/ss_3d9a28cdcd0c6b2d578b855a209de534fea0d04b.1920x1080.jpg?t=1646678014,https://cdn.akamai.steamstatic.com/steam/apps/1794710/ss_70e1a11babc33318c06e86f3e801d4d8131f3feb.1920x1080.jpg?t=1646678014",
+    "Slug": "infinite-progression",
+    "Meta Title": "Infinite Progression: Nov 19, 2021, Prestosilver and Full...",
+    "Meta Description": "Looking for information on Infinite Progression? Check out the release date (Nov 19, 2021), developer insights from Prestosilver, and a complete game su...",
+    "Alt Text Image": "Official header image for Infinite Progression game - Steam 1794710",
+    "Canonical URL": "https://gusku.site/game/infinite-progression",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Infinite Progression\", \"description\": \"Looking for information on Infinite Progression? Check out the release date (Nov 19, 2021), developer insights from Prestosilver, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Prestosilver\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Prestosilver\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1794710/header.jpg?t=1646678014\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

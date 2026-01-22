@@ -1,0 +1,21 @@
+{
+    "AppID": 860590,
+    "Name": "MissileDancer",
+    "Release date": "Jun 1, 2018",
+    "About the game": "This is a vertical scroll shooting game. You can operate the fighter MissileDancer which implements lock-on missiles. The cursor for lock-on is displayed above your plane. While pushing the shot, the cursor zooms in. You can lock-on by matching the cursor with enemies. The range of cursor and the number of lock-on increases by taking the power-up item.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/860590/header.jpg?t=1658033643",
+    "Price": 8.99,
+    "Developers": "TERARIN GAMES",
+    "Publishers": "TERARIN GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/860590/ss_cbdd8b239406743b19474dca76674d273e10eeea.1920x1080.jpg?t=1658033643,https://cdn.akamai.steamstatic.com/steam/apps/860590/ss_6baf1b8a26a2640352763866c510667062fc9d39.1920x1080.jpg?t=1658033643,https://cdn.akamai.steamstatic.com/steam/apps/860590/ss_2ff3d1ee57bb2eee966e7029cfd71edd03f6781a.1920x1080.jpg?t=1658033643,https://cdn.akamai.steamstatic.com/steam/apps/860590/ss_d35e1f4e5a08cb7cedf23a2e08da86e7e13df410.1920x1080.jpg?t=1658033643,https://cdn.akamai.steamstatic.com/steam/apps/860590/ss_6b4d650e171a70900150a0ea07d1c092992c5e21.1920x1080.jpg?t=1658033643",
+    "Slug": "missiledancer",
+    "Meta Title": "MissileDancer: Jun 1, 2018, TERARIN GAMES and Full Overview",
+    "Meta Description": "Looking for information on MissileDancer? Check out the release date (Jun 1, 2018), developer insights from TERARIN GAMES, and a complete game summary.",
+    "Alt Text Image": "Official header image for MissileDancer game - Steam 860590",
+    "Canonical URL": "https://gusku.site/game/missiledancer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MissileDancer\", \"description\": \"Looking for information on MissileDancer? Check out the release date (Jun 1, 2018), developer insights from TERARIN GAMES, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 1, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"TERARIN GAMES\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TERARIN GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/860590/header.jpg?t=1658033643\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

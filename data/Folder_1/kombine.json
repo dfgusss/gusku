@@ -1,0 +1,21 @@
+{
+    "AppID": 539750,
+    "Name": "Kombine",
+    "Release date": "Oct 14, 2016",
+    "About the game": "Kombine is a minimalist puzzle game played on a grid. The goal is to remove all of the blocks that have borders by matching three or more of the same blocks together. When blocks are matched, a new block is created with the same color and a higher value. Three 1s create a 2, three 2s create a 3, etc. However, you can only place blocks with a 1 value, so it can become challenging to create a match with higher value blocks. There are 50 levels to play through in both normal and time trial modes. In time trial mode, you play quickly through 10 levels at a time trying to get the best time. Optional Keys M = mute/unmute sound B = toggle background scrolling Esc = exit game when on menu",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/539750/header.jpg?t=1631467632",
+    "Price": 0.51,
+    "Developers": "Robert Alvarez",
+    "Publishers": "Robert Alvarez",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/539750/ss_8b0f44c4ed493359db581044137ac00d60032a61.1920x1080.jpg?t=1631467632,https://cdn.akamai.steamstatic.com/steam/apps/539750/ss_18c56f93ba7ba53e31dbde96192d06c7d807cdb4.1920x1080.jpg?t=1631467632,https://cdn.akamai.steamstatic.com/steam/apps/539750/ss_5b1a7f9e4927a62202344d5e5ffa1d8d128cd915.1920x1080.jpg?t=1631467632,https://cdn.akamai.steamstatic.com/steam/apps/539750/ss_c2e90a6d124f21f7ecd90c963a2164469c434ddf.1920x1080.jpg?t=1631467632,https://cdn.akamai.steamstatic.com/steam/apps/539750/ss_451e33642acb0bfe8620f73d7ba1f49bb8dcafa9.1920x1080.jpg?t=1631467632",
+    "Slug": "kombine",
+    "Meta Title": "Kombine: Oct 14, 2016, Robert Alvarez and Full Overview",
+    "Meta Description": "Looking for information on Kombine? Check out the release date (Oct 14, 2016), developer insights from Robert Alvarez, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kombine game - Steam 539750",
+    "Canonical URL": "https://gusku.site/game/kombine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kombine\", \"description\": \"Looking for information on Kombine? Check out the release date (Oct 14, 2016), developer insights from Robert Alvarez, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 14, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Robert Alvarez\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Robert Alvarez\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/539750/header.jpg?t=1631467632\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.51, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

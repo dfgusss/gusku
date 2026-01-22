@@ -1,0 +1,21 @@
+{
+    "AppID": 2091610,
+    "Name": "MIDIToKey",
+    "Release date": "Aug 12, 2022",
+    "About the game": "Turn your MIDI keyboard into a computer keyboard You can use MIDI keyboard to type and play games just like using computer keyboard Or turn on [global monitor] to generate music when typing Please note that when your computer is connected to multiple MIDI devices, please select the correct [MIDI port] to listen (Normally, use 0)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2091610/header.jpg?t=1660287672",
+    "Price": 3.99,
+    "Developers": "srammark",
+    "Publishers": "srammark",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2091610/ss_13bf5fbcbf9a891b875c265628a01eddb837a068.1920x1080.jpg?t=1660287672,https://cdn.akamai.steamstatic.com/steam/apps/2091610/ss_80fcdb49f1329498ffb6e510e6c37da6e4d09026.1920x1080.jpg?t=1660287672,https://cdn.akamai.steamstatic.com/steam/apps/2091610/ss_5738daf2b960f15f6dc2d4a4c8fc09f4015e589e.1920x1080.jpg?t=1660287672,https://cdn.akamai.steamstatic.com/steam/apps/2091610/ss_77efd3ad20b07387ed53d296b36089943f88133d.1920x1080.jpg?t=1660287672,https://cdn.akamai.steamstatic.com/steam/apps/2091610/ss_72ae241aea3c8f77ac06499fc0d4dac7ad6ce2a5.1920x1080.jpg?t=1660287672",
+    "Slug": "miditokey",
+    "Meta Title": "MIDIToKey: Aug 12, 2022, srammark and Full Overview",
+    "Meta Description": "Looking for information on MIDIToKey? Check out the release date (Aug 12, 2022), developer insights from srammark, and a complete game summary.",
+    "Alt Text Image": "Official header image for MIDIToKey game - Steam 2091610",
+    "Canonical URL": "https://gusku.site/game/miditokey",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MIDIToKey\", \"description\": \"Looking for information on MIDIToKey? Check out the release date (Aug 12, 2022), developer insights from srammark, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"srammark\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"srammark\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2091610/header.jpg?t=1660287672\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

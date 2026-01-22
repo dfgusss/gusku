@@ -1,0 +1,21 @@
+{
+    "AppID": 2086980,
+    "Name": "The In Between",
+    "Release date": "Nov 6, 2022",
+    "About the game": "Overview The In Between is an online multiplayer game where you play as a hunter or a demon. The goal is simple: eliminate the other team! Hunter Gameplay Hunters can cast two spells: attack and protect. To power these spells, hunters must gather charges that are scattered throughout the map. The attack spell requires full charge, while the protect spell only requires some charge and lasts longer the more charge that you have. When protected, attack spells do not affect the hunter. Attack spells can result in four different outcomes: If another hunter is nearby and protected, nothing happens. If another hunter is nearby and possessed, the demon dies. Otherwise, if another hunter is nearby, they die. If no other hunter is nearby, the caster dies. As a hunter, you must be careful with your attack spell. Luckily, candles indicate when a hunter has been possessed and when a demon is nearby. Use them to your advantage! Demon Gameplay Demons can possess hunters. When possessing a hunter, a demon can use the hunter's spells. When used by a demon, the attack spell results in similar outcomes. The only difference is that if no other hunter is nearby and the demon casts the attack spell, the demon dies, not the host hunter. To gain more possession time, demons must gather charges, just like hunters do. The only way a demon can kill a hunter is to possess another hunter and use the attack spell.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2086980/header.jpg?t=1667773895",
+    "Price": 0.0,
+    "Developers": "Kyle Martin,Srujan Vajram",
+    "Publishers": "Kyle Martin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2086980/ss_6e5196e724c75266ba0f2bad4c6bf077990e42a9.1920x1080.jpg?t=1667773895,https://cdn.akamai.steamstatic.com/steam/apps/2086980/ss_6201ee296b54623a8977c25f7d6e74b43003598f.1920x1080.jpg?t=1667773895,https://cdn.akamai.steamstatic.com/steam/apps/2086980/ss_e21d1c01211f55f36cd496b5792d3fcc07df8f5b.1920x1080.jpg?t=1667773895,https://cdn.akamai.steamstatic.com/steam/apps/2086980/ss_e559eb4abdce0f9f6f37d4493c591e06211337a8.1920x1080.jpg?t=1667773895,https://cdn.akamai.steamstatic.com/steam/apps/2086980/ss_88cff2396ebba3fdcb7674d26a6467ef7f1f050a.1920x1080.jpg?t=1667773895",
+    "Slug": "the-in-between",
+    "Meta Title": "The In Between: Nov 6, 2022, Kyle Martin,Srujan Vajram an...",
+    "Meta Description": "Looking for information on The In Between? Check out the release date (Nov 6, 2022), developer insights from Kyle Martin,Srujan Vajram, and a complete g...",
+    "Alt Text Image": "Official header image for The In Between game - Steam 2086980",
+    "Canonical URL": "https://gusku.site/game/the-in-between",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The In Between\", \"description\": \"Looking for information on The In Between? Check out the release date (Nov 6, 2022), developer insights from Kyle Martin,Srujan Vajram, and a complete g...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 6, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kyle Martin,Srujan Vajram\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kyle Martin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2086980/header.jpg?t=1667773895\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

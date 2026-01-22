@@ -1,0 +1,21 @@
+{
+    "AppID": 719140,
+    "Name": "Entanglement",
+    "Release date": "Oct 17, 2017",
+    "About the game": "Entanglement is a puzzle game made for you by Gopherwood Studios. Try to make the longest path possible. Rotate and place hexagonal tiles etched with paths to extend your path without running into a wall. This web game includes: Solitaire - In this single-player mode, you try to beat your own record or compete against others on our daily, weekly, and all-time leaderboards. Multiplayer - Play against up to 5 other people on the same computer in this hot-seat variation. This mode offers a chance to challenge your friends head-to-head: try to grab the longest paths without running into each other or the wall. Daily Challenge - A new challenge every day for Entanglement players! All players are given the exact same set of tiles for the entire day, competing on strategy alone for the daily championship! This game includes all maps available in the original web app.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/719140/header.jpg?t=1508251484",
+    "Price": 4.99,
+    "Developers": "Gopherwood Studios LLC",
+    "Publishers": "Gopherwood Studios LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/719140/ss_01ad6193bc9b1a3c5445f379db9b86577427d8e3.1920x1080.jpg?t=1508251484,https://cdn.akamai.steamstatic.com/steam/apps/719140/ss_74cf40b826915f0650d03d266149c29113c19fd2.1920x1080.jpg?t=1508251484,https://cdn.akamai.steamstatic.com/steam/apps/719140/ss_11cbb93405247d330e1615a2f2d15d1c70e165f4.1920x1080.jpg?t=1508251484,https://cdn.akamai.steamstatic.com/steam/apps/719140/ss_e3cac732af4c7da89840cbadb311b6daa5af5c60.1920x1080.jpg?t=1508251484,https://cdn.akamai.steamstatic.com/steam/apps/719140/ss_98e2d3fc970339b16d34eb91f90a894de72537d5.1920x1080.jpg?t=1508251484,https://cdn.akamai.steamstatic.com/steam/apps/719140/ss_89d99ea3bbb322ea9be13d1cf20cb2a5cb6221e5.1920x1080.jpg?t=1508251484,https://cdn.akamai.steamstatic.com/steam/apps/719140/ss_cc3267f160214ee68674ad0ad45b315857f84ea1.1920x1080.jpg?t=1508251484",
+    "Slug": "entanglement",
+    "Meta Title": "Entanglement: Oct 17, 2017, Gopherwood Studios LLC and Fu...",
+    "Meta Description": "Looking for information on Entanglement? Check out the release date (Oct 17, 2017), developer insights from Gopherwood Studios LLC, and a complete game ...",
+    "Alt Text Image": "Official header image for Entanglement game - Steam 719140",
+    "Canonical URL": "https://gusku.site/game/entanglement",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Entanglement\", \"description\": \"Looking for information on Entanglement? Check out the release date (Oct 17, 2017), developer insights from Gopherwood Studios LLC, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 17, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gopherwood Studios LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gopherwood Studios LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/719140/header.jpg?t=1508251484\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

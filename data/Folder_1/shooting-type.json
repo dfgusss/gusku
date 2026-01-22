@@ -1,0 +1,21 @@
+{
+    "AppID": 1418650,
+    "Name": "Shooting Type",
+    "Release date": "Sep 29, 2020",
+    "About the game": "Shooting Type is a single-player side-scrolling shooter with 5 stages. You can clear the stage by defeating various enemies that appear on the stage and defeating the stage boss that appears at the end. However, the game is over when you run into an enemy or get hit by an enemy attack. You can clear the game by clearing all stages. 　There is a total of 26 types of enemies that appear on the stage, and they attack players in various ways, from enemies that shoot beams to attack the player to enemies with special behavior patterns that are hard to read. Some enemies will drop items that make player stronger. 　The first stage is simple in terms of enemy behavior and attacks, but the difficulty level increases as you progress through the stages, and you'll need to learn the enemy patterns and player skills to clear the stage. You will lose all the items if you are defeated by enemies, so you need to pick up a lot of items that appear on the stage to beat the enemies and clear the stage. Many kinds of enemies A satisfying level of difficulty The excitement and feel to beat many enemies that appear on the stage.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1418650/header.jpg?t=1606352489",
+    "Price": 3.99,
+    "Developers": "Matsuta App.",
+    "Publishers": "Matsuta App.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1418650/ss_fd68d00b724e785ccd4a708b42628ba88d4240a6.1920x1080.jpg?t=1606352489,https://cdn.akamai.steamstatic.com/steam/apps/1418650/ss_76af275c5fb9d9ee74e33a5cfc257aaaf6cb29ba.1920x1080.jpg?t=1606352489,https://cdn.akamai.steamstatic.com/steam/apps/1418650/ss_17242ddaf80b8a112330ea1373953c0ed50c4010.1920x1080.jpg?t=1606352489,https://cdn.akamai.steamstatic.com/steam/apps/1418650/ss_5086d7d21ad420ea7e882e5f7b1ebf10ca4bf641.1920x1080.jpg?t=1606352489,https://cdn.akamai.steamstatic.com/steam/apps/1418650/ss_3fca3022aac88373af0316fd0f62cb32736d5d71.1920x1080.jpg?t=1606352489",
+    "Slug": "shooting-type",
+    "Meta Title": "Shooting Type: Sep 29, 2020, Matsuta App. and Full Overview",
+    "Meta Description": "Looking for information on Shooting Type? Check out the release date (Sep 29, 2020), developer insights from Matsuta App., and a complete game summary.",
+    "Alt Text Image": "Official header image for Shooting Type game - Steam 1418650",
+    "Canonical URL": "https://gusku.site/game/shooting-type",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Shooting Type\", \"description\": \"Looking for information on Shooting Type? Check out the release date (Sep 29, 2020), developer insights from Matsuta App., and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 29, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matsuta App.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matsuta App.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1418650/header.jpg?t=1606352489\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

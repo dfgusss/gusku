@@ -1,0 +1,21 @@
+{
+    "AppID": 770790,
+    "Name": "FormFish",
+    "Release date": "Jan 14, 2018",
+    "About the game": "FormFish is a casual game. You must stay alert when forms arrive and try to catch them with the right 'trap'... before they cover all the screen. But take care ! The most forms you catch ... faster they will come !! Catch several shapes in a row and you will get combos !",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/770790/header.jpg?t=1516570412",
+    "Price": 0.99,
+    "Developers": "David CAYE",
+    "Publishers": "David CAYE",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/770790/ss_81d7a6e0cbbc0f2c69cc0947fa77d8972ab04ea1.1920x1080.jpg?t=1516570412,https://cdn.akamai.steamstatic.com/steam/apps/770790/ss_98f38aa33bce6833779ebc84dd78c419c6921e92.1920x1080.jpg?t=1516570412,https://cdn.akamai.steamstatic.com/steam/apps/770790/ss_a6dc2bdc13727c5434f2e8697aef7baa00664c50.1920x1080.jpg?t=1516570412,https://cdn.akamai.steamstatic.com/steam/apps/770790/ss_51f399051e9a973f4b71ee3f6e48a6bb682c4fd5.1920x1080.jpg?t=1516570412,https://cdn.akamai.steamstatic.com/steam/apps/770790/ss_20ea71af79078c9cc30c45cdf4a54197189d9249.1920x1080.jpg?t=1516570412",
+    "Slug": "formfish",
+    "Meta Title": "FormFish: Jan 14, 2018, David CAYE and Full Overview",
+    "Meta Description": "Looking for information on FormFish? Check out the release date (Jan 14, 2018), developer insights from David CAYE, and a complete game summary.",
+    "Alt Text Image": "Official header image for FormFish game - Steam 770790",
+    "Canonical URL": "https://gusku.site/game/formfish",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FormFish\", \"description\": \"Looking for information on FormFish? Check out the release date (Jan 14, 2018), developer insights from David CAYE, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 14, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"David CAYE\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"David CAYE\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/770790/header.jpg?t=1516570412\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

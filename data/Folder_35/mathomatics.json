@@ -1,0 +1,21 @@
+{
+    "AppID": 1847200,
+    "Name": "Mathomatics",
+    "Release date": "Jan 4, 2022",
+    "About the game": "Runner puzzle on reaction speed and ability in mathematics. You control a cube that moves towards math blocks. Some blocks adds points to your score, others are subtracting your points. You move in three lanes between which you can jump to get the best result or avoid subtraction and division blocks. As soon as your score reaches a negative value, the game will be over and your record will be saved for later overcoming. Also, you may come across decisive blocks, for which you should be well prepared ... The game has several difficulty modes for a larger challenge.Enjoy your game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1847200/header.jpg?t=1641306507",
+    "Price": 3.99,
+    "Developers": "QuickBobber",
+    "Publishers": "QuickBobber",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1847200/ss_1079662eae15a40c39cf3e1671e956cefc435552.1920x1080.jpg?t=1641306507,https://cdn.akamai.steamstatic.com/steam/apps/1847200/ss_f34e094f40d21946e36d12f5fafba2d6de9bd9bf.1920x1080.jpg?t=1641306507,https://cdn.akamai.steamstatic.com/steam/apps/1847200/ss_a1f1e35a2aeb1c94bdc228f1a546016659a7dd08.1920x1080.jpg?t=1641306507,https://cdn.akamai.steamstatic.com/steam/apps/1847200/ss_c54e522d7d69a4a5c9a9d1afc79f12905750fd1e.1920x1080.jpg?t=1641306507,https://cdn.akamai.steamstatic.com/steam/apps/1847200/ss_3d0f76f31b6006b99e006e2cc95a79f9afe0b187.1920x1080.jpg?t=1641306507,https://cdn.akamai.steamstatic.com/steam/apps/1847200/ss_a2cc066df90c0fc15c86900f810b74f226530014.1920x1080.jpg?t=1641306507",
+    "Slug": "mathomatics",
+    "Meta Title": "Mathomatics: Jan 4, 2022, QuickBobber and Full Overview",
+    "Meta Description": "Looking for information on Mathomatics? Check out the release date (Jan 4, 2022), developer insights from QuickBobber, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mathomatics game - Steam 1847200",
+    "Canonical URL": "https://gusku.site/game/mathomatics",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mathomatics\", \"description\": \"Looking for information on Mathomatics? Check out the release date (Jan 4, 2022), developer insights from QuickBobber, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 4, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1847200/header.jpg?t=1641306507\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2017910,
+    "Name": "PaperPlane",
+    "Release date": "Jun 17, 2022",
+    "About the game": "This is a game that simulates the fall of a paper plane. Avoid obstacles by controlling the direction of falling, and get high marks. Game features: 1. Press 'Left' or 'Right' to control the attitude of the paper airplane. 2. The speed of falling will change with the attitude. 3. The higher the score, the faster the speed and the greater the difficulty.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2017910/header.jpg?t=1657002574",
+    "Price": 0.99,
+    "Developers": "MirPro Studio",
+    "Publishers": "MirPro Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2017910/ss_b7e792eabce46af83c0f04e5946f182b4dfd21ba.1920x1080.jpg?t=1657002574,https://cdn.akamai.steamstatic.com/steam/apps/2017910/ss_753a43120d1f6feb43095abaad286e05672c7fee.1920x1080.jpg?t=1657002574,https://cdn.akamai.steamstatic.com/steam/apps/2017910/ss_16ff737bdf0855d0d9a32a7c3d2719dd8fe77c12.1920x1080.jpg?t=1657002574,https://cdn.akamai.steamstatic.com/steam/apps/2017910/ss_ee654d1e001eab52bf5a507512414757b4e6d104.1920x1080.jpg?t=1657002574,https://cdn.akamai.steamstatic.com/steam/apps/2017910/ss_0b918f52ba57b1a0c8577a622abfa6126b6cd0ee.1920x1080.jpg?t=1657002574",
+    "Slug": "paperplane",
+    "Meta Title": "PaperPlane: Jun 17, 2022, MirPro Studio and Full Overview",
+    "Meta Description": "Looking for information on PaperPlane? Check out the release date (Jun 17, 2022), developer insights from MirPro Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for PaperPlane game - Steam 2017910",
+    "Canonical URL": "https://gusku.site/game/paperplane",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PaperPlane\", \"description\": \"Looking for information on PaperPlane? Check out the release date (Jun 17, 2022), developer insights from MirPro Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"MirPro Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MirPro Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2017910/header.jpg?t=1657002574\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 636480,
+    "Name": "Ravenfield",
+    "Release date": "May 18, 2017",
+    "About the game": "Fight upon the Ravenfield together with your Blue allies! Take down those pesky Reds using helicopters, tanks, guns, and active ragdoll physics! Ravenfield is a singleplayer game in the vein of older team-vs-team AI shooters. The game is designed to be easy to pick up and play, but also rewarding for all skill levels! Key Features Easy-to-pickup, singleplayer mayhem Fight as infantry, or in ground vehicles, aircraft, or watercraft Active ragdoll physics combines tactical strategies with a sprinkle of silly fun The number of combatants is only limited by what your computer can handle! Damaged soldiers drop team-colored blood splats, indicating where battles have taken place Development Roadmap Ravenfield is being developed as an early access game, with major content updates scheduled to be released every 4-6 weeks. Additionally, incremental updates are distributed via a beta branch for those who do not fear slightly more buggy releases. While some content, such as new weapons, vehicles and maps will be released on a regular basis, other key features will be added roughly in the following order: Custom map support Steam Workshop integration AI Commanding Custom weapon support Custom vehicle support Conquest mode",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/636480/header.jpg?t=1625750153",
+    "Price": 14.99,
+    "Developers": "SteelRaven7",
+    "Publishers": "SteelRaven7",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/636480/ss_13b815d77ccc33e0173863b5745ac971a7ea4756.1920x1080.jpg?t=1625750153,https://cdn.akamai.steamstatic.com/steam/apps/636480/ss_068223a7c420da11898679ef729f46ce2b81a847.1920x1080.jpg?t=1625750153,https://cdn.akamai.steamstatic.com/steam/apps/636480/ss_3b5b2f68327308a28f89f6508cc44889f083c110.1920x1080.jpg?t=1625750153,https://cdn.akamai.steamstatic.com/steam/apps/636480/ss_104bc42bce80337989669e191cffdac6a1085569.1920x1080.jpg?t=1625750153,https://cdn.akamai.steamstatic.com/steam/apps/636480/ss_119579cb79a9469fa6d130a5b589bf307843fe6d.1920x1080.jpg?t=1625750153",
+    "Slug": "ravenfield",
+    "Meta Title": "Ravenfield: May 18, 2017, SteelRaven7 and Full Overview",
+    "Meta Description": "Looking for information on Ravenfield? Check out the release date (May 18, 2017), developer insights from SteelRaven7, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ravenfield game - Steam 636480",
+    "Canonical URL": "https://gusku.site/game/ravenfield",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ravenfield\", \"description\": \"Looking for information on Ravenfield? Check out the release date (May 18, 2017), developer insights from SteelRaven7, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 18, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"SteelRaven7\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SteelRaven7\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/636480/header.jpg?t=1625750153\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

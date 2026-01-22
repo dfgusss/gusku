@@ -1,0 +1,21 @@
+{
+    "AppID": 1950240,
+    "Name": "TERROVOX",
+    "Release date": "May 4, 2022",
+    "About the game": "Terravox is a 3D sandbox video game. features: - Big and open world - Procedural world generation - The world consists of destructible blocks (voxels) - Resource mining (coal, copper, iron, etc.) - Resource processing (iron to iron ingots, etc.) - Crafting items (picks, shovels, doors, anvil, etc.) - Creating blocks that don't exist in the world - Changing the time of day - First-person view You appear only with a set of simple tools - a pickaxe and an axe. Everything else will need to be obtained independently. You can create new blocks from the collected ones. For example, you can create planks from logs and steps from planks. With blocks collected and crafted, you can build buildings that are only limited by your imagination. To create weapons and items, you will have to extract resources using a pickaxe and a shovel. To build a house, you need to use an axe. There are no mandatory goals to achieve in the game, which gives players a lot of freedom in choosing how to play the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1950240/header.jpg?t=1651659580",
+    "Price": 1.99,
+    "Developers": "TeemTroom",
+    "Publishers": "TeemTroom",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1950240/ss_c477838e03f563e7c3132fd2bfad0a0825ca7966.1920x1080.jpg?t=1651659580,https://cdn.akamai.steamstatic.com/steam/apps/1950240/ss_93040f230f30ab1f34469781dd26410f94046438.1920x1080.jpg?t=1651659580,https://cdn.akamai.steamstatic.com/steam/apps/1950240/ss_72127d71124435c916d2186dd9287f961694f815.1920x1080.jpg?t=1651659580,https://cdn.akamai.steamstatic.com/steam/apps/1950240/ss_3815b7dfb25d2f10b327e6762cacaf07035f41b4.1920x1080.jpg?t=1651659580,https://cdn.akamai.steamstatic.com/steam/apps/1950240/ss_7813ee4b675d321bfeaa7be4fe42e8ac575203a2.1920x1080.jpg?t=1651659580",
+    "Slug": "terrovox",
+    "Meta Title": "TERROVOX: May 4, 2022, TeemTroom and Full Overview",
+    "Meta Description": "Looking for information on TERROVOX? Check out the release date (May 4, 2022), developer insights from TeemTroom, and a complete game summary.",
+    "Alt Text Image": "Official header image for TERROVOX game - Steam 1950240",
+    "Canonical URL": "https://gusku.site/game/terrovox",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TERROVOX\", \"description\": \"Looking for information on TERROVOX? Check out the release date (May 4, 2022), developer insights from TeemTroom, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 4, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"TeemTroom\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TeemTroom\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1950240/header.jpg?t=1651659580\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

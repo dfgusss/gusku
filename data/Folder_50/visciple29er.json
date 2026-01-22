@@ -1,0 +1,21 @@
+{
+    "AppID": 1327140,
+    "Name": "Visciple29er",
+    "Release date": "Jun 21, 2020",
+    "About the game": "Visciple29er is a face tracking application that uses face detection technology. It operates as a pseudo controller and can be used as a XInput general purpose device. It tells the pseudo controller the yaw, pitch, roll, distance, lean, and estimated gaze coordinates from the face position. Assignment: Yaw: Right analog stick X Pitch: Right analog stick Y Roll: Analog trigger LR Distance: Left analog stick Y Lean: Left analog stick X Pupil：HAT switch FAQ Q: This application network communication? A: It works without network communication. Q: What kind of webcam do you recommend? A: Recommend a camera with Pan/ Tilt/ Zoom (PTZ) .",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1327140/header.jpg?t=1608352920",
+    "Price": 44.99,
+    "Developers": "Xanaly Products LLC",
+    "Publishers": "Xanaly Products LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1327140/ss_f9e1511df438859644a05b70176c6f419e2f100f.1920x1080.jpg?t=1608352920,https://cdn.akamai.steamstatic.com/steam/apps/1327140/ss_8ec86b1cbd8edff6a1afb87aff9bf202a9667803.1920x1080.jpg?t=1608352920,https://cdn.akamai.steamstatic.com/steam/apps/1327140/ss_e1e884b61d43132470eef4de1d8a7210c031d611.1920x1080.jpg?t=1608352920,https://cdn.akamai.steamstatic.com/steam/apps/1327140/ss_aa4c68e94caf53963af6ae46921024ee0c217d4c.1920x1080.jpg?t=1608352920,https://cdn.akamai.steamstatic.com/steam/apps/1327140/ss_49b5700ab29bf7abe9c44bb4adeb6c24dc7cf013.1920x1080.jpg?t=1608352920",
+    "Slug": "visciple29er",
+    "Meta Title": "Visciple29er: Jun 21, 2020, Xanaly Products LLC and Full ...",
+    "Meta Description": "Looking for information on Visciple29er? Check out the release date (Jun 21, 2020), developer insights from Xanaly Products LLC, and a complete game sum...",
+    "Alt Text Image": "Official header image for Visciple29er game - Steam 1327140",
+    "Canonical URL": "https://gusku.site/game/visciple29er",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Visciple29er\", \"description\": \"Looking for information on Visciple29er? Check out the release date (Jun 21, 2020), developer insights from Xanaly Products LLC, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 21, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Xanaly Products LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Xanaly Products LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1327140/header.jpg?t=1608352920\", \"offers\": {\"@type\": \"Offer\", \"price\": 44.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

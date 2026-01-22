@@ -1,0 +1,21 @@
+{
+    "AppID": 2077800,
+    "Name": "Streamer's Court",
+    "Release date": "Jul 21, 2022",
+    "About the game": "Streamer's Court is an interactive game that can be played with your Twitch chat! You as a streamer are the judge of your chat. In this game, you will see the crimes of your viewers, get their defenses via chat (the game will do it for you), and decide whether they are guilty or not guilty. But your decision is not final. Your chat (other than the suspect) will vote whether the suspect is guilty or not guilty. If your decision is not same with your chat, your reputation will decrease. The progress of the game is as follows: -One of your viewers appears in court as a suspect (if there is no viewer, it will continue with the NPC), -The crime committed by the viewer is indicated, -The viewer presents the defense by writing to the chat, -The publisher, as a judge, decides whether the viewer is GUILTY or NOT GUILTY, -Viewers' voting begins and the viewers decide whether the suspect is GUILTY or NOT GUILTY, -Your reputation decreases when your decision conflicts with the viewers' decision, and increases if it matches. Reputation is everything. You will see Top 10 among the streamers which have the most reputation. So, if you want to be higher on the list, your chat should agree with your decisions. Streamer's Court is available in multiple languages with more coming soon! Have an interactive fun with your chat and be the reputable judge of your chat! Please note that you need to have a Twitch account to play the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2077800/header.jpg?t=1658405338",
+    "Price": 4.49,
+    "Developers": "Metehan SENER",
+    "Publishers": "Alcedo Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2077800/ss_1adca0132d2941c8e35a11b259eee0c0e947e615.1920x1080.jpg?t=1658405338,https://cdn.akamai.steamstatic.com/steam/apps/2077800/ss_ceeea847852137b2359d647936590287492a2412.1920x1080.jpg?t=1658405338,https://cdn.akamai.steamstatic.com/steam/apps/2077800/ss_02a2187897595626e4b709daf4a0c1582595a21d.1920x1080.jpg?t=1658405338,https://cdn.akamai.steamstatic.com/steam/apps/2077800/ss_40f8b774dbdf784b034918fb871511ab99a73568.1920x1080.jpg?t=1658405338,https://cdn.akamai.steamstatic.com/steam/apps/2077800/ss_0e919d8ea3e250de953545b1c82b32fadb4ee0a8.1920x1080.jpg?t=1658405338",
+    "Slug": "streamer-s-court",
+    "Meta Title": "Streamer's Court: Jul 21, 2022, Metehan SENER and Full Ov...",
+    "Meta Description": "Looking for information on Streamer's Court? Check out the release date (Jul 21, 2022), developer insights from Metehan SENER, and a complete game summary.",
+    "Alt Text Image": "Official header image for Streamer's Court game - Steam 2077800",
+    "Canonical URL": "https://gusku.site/game/streamer-s-court",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Streamer's Court\", \"description\": \"Looking for information on Streamer's Court? Check out the release date (Jul 21, 2022), developer insights from Metehan SENER, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Metehan SENER\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Alcedo Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2077800/header.jpg?t=1658405338\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

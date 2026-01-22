@@ -1,0 +1,21 @@
+{
+    "AppID": 1941720,
+    "Name": "Pico Link",
+    "Release date": "Jul 20, 2022",
+    "About the game": "Pico Link is a software that allows users to connect VR devices to computers to play games. If you have got a Pico VR device, you can quickly connect to the computer through this software, and configure the streaming options on the computer. Start to experience the exciting game content, the software interface is simple, the device connection process is displayed, you can connect to the device through 5G routing or DP cable. Software functions are still very simple, and detailed tutorials are also attached, allowing users to quickly configure VR devices to play games. There're several points you should know: 1、Pico Link only supports Pico VR devices , but not any other VR headset 2、When you choose DP link mode on this Pico VR devices, you should download and install this 'Pico Link' App first.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1941720/header.jpg?t=1658317953",
+    "Price": 0.0,
+    "Developers": "PICO",
+    "Publishers": "PICO",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1941720/ss_298d83c7be9d6a5428ee296feeae196c3928703c.1920x1080.jpg?t=1658317953,https://cdn.akamai.steamstatic.com/steam/apps/1941720/ss_ba4d2dcaadb468d6c309cafc003286070e0d33c5.1920x1080.jpg?t=1658317953,https://cdn.akamai.steamstatic.com/steam/apps/1941720/ss_7952aa86323b3b031346e60ac7f35eb8744bd63e.1920x1080.jpg?t=1658317953,https://cdn.akamai.steamstatic.com/steam/apps/1941720/ss_3e91d344294a6dd2bbedd537295b92b58add0ac6.1920x1080.jpg?t=1658317953,https://cdn.akamai.steamstatic.com/steam/apps/1941720/ss_5d35f05bf87f61b3810b42ca2871ea7d8aca6cb8.1920x1080.jpg?t=1658317953",
+    "Slug": "pico-link",
+    "Meta Title": "Pico Link: Jul 20, 2022, PICO and Full Overview",
+    "Meta Description": "Looking for information on Pico Link? Check out the release date (Jul 20, 2022), developer insights from PICO, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pico Link game - Steam 1941720",
+    "Canonical URL": "https://gusku.site/game/pico-link",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pico Link\", \"description\": \"Looking for information on Pico Link? Check out the release date (Jul 20, 2022), developer insights from PICO, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"PICO\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PICO\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1941720/header.jpg?t=1658317953\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

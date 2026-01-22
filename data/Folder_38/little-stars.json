@@ -1,0 +1,21 @@
+{
+    "AppID": 1794120,
+    "Name": "Little Stars",
+    "Release date": "Nov 11, 2021",
+    "About the game": "Description Little Stars is a relaxing puzzle game set in the ambience of the night sky. The puzzles in question are rooted in graph theory and inspired by the Icosian game, a mathematical game invented by William Rowen Hamilton in 1857. How to play Click and drag (or just click) to connect stars together. If the stars are white, then draw all the lines to clear the level. If the stars are pink, then draw a loop using every star exactly once. There is an option to skip a limited number of levels for those who are not interested by the more challenging puzzles.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1794120/header.jpg?t=1636657595",
+    "Price": 2.99,
+    "Developers": "Albert Kim",
+    "Publishers": "Albert Kim",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1794120/ss_f91fc37a35522c1a279e7d61ccc71e9b96f78448.1920x1080.jpg?t=1636657595,https://cdn.akamai.steamstatic.com/steam/apps/1794120/ss_bf3ccd1b7db12e803b4f9e85878b1fb6b328029f.1920x1080.jpg?t=1636657595,https://cdn.akamai.steamstatic.com/steam/apps/1794120/ss_63f0a31a2fdcc26d9d8e61f8e140c32a9d40b22d.1920x1080.jpg?t=1636657595,https://cdn.akamai.steamstatic.com/steam/apps/1794120/ss_b3fbfbd4dd84b6ca3319ddd7a0ebbdea7e95c4a2.1920x1080.jpg?t=1636657595,https://cdn.akamai.steamstatic.com/steam/apps/1794120/ss_f870648aa5546847cc2834efd72c629cbf1b2e9a.1920x1080.jpg?t=1636657595",
+    "Slug": "little-stars",
+    "Meta Title": "Little Stars: Nov 11, 2021, Albert Kim and Full Overview",
+    "Meta Description": "Looking for information on Little Stars? Check out the release date (Nov 11, 2021), developer insights from Albert Kim, and a complete game summary.",
+    "Alt Text Image": "Official header image for Little Stars game - Steam 1794120",
+    "Canonical URL": "https://gusku.site/game/little-stars",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Little Stars\", \"description\": \"Looking for information on Little Stars? Check out the release date (Nov 11, 2021), developer insights from Albert Kim, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 11, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Albert Kim\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Albert Kim\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1794120/header.jpg?t=1636657595\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

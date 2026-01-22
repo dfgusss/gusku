@@ -1,0 +1,21 @@
+{
+    "AppID": 978660,
+    "Name": "Parity",
+    "Release date": "Dec 17, 2019",
+    "About the game": "Parity Compete with up to 8 players in this arcade multiplayer game! Use skills to get the edge on the opposing team - parry their shots or bamboozle the enemy with a bold spin-shot! You can choose between different stages and game modes and hone your Parity skills in thrilling fast-paced matches. Online Multiplayer While this game is optimized for controllers and local coop, we have recently added the first version of an online multiplayer! The netcode is not perfect yet, but we will make sure to continuously update it. Developers We are a group of avid local-coop gamers who decided to develop the video game we always wanted to play. Originally developed during a 48 hours game-jam, we decided to take the idea a step further and share our game with all the multiplayer-gamers out there! We hope you have as much fun with it as we do. Don't hesitate to give us feedback!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/978660/header.jpg?t=1577021179",
+    "Price": 5.99,
+    "Developers": "SG+T",
+    "Publishers": "Independent",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/978660/ss_d3eae9cec2ec5834c86c52d5196409acf9972977.1920x1080.jpg?t=1577021179,https://cdn.akamai.steamstatic.com/steam/apps/978660/ss_401664cde7cc24e3a8b2cfa91bf0f194813db26f.1920x1080.jpg?t=1577021179,https://cdn.akamai.steamstatic.com/steam/apps/978660/ss_87b56b609c4a3e5c7a0bfcfe3283c8631653939e.1920x1080.jpg?t=1577021179,https://cdn.akamai.steamstatic.com/steam/apps/978660/ss_fd1ed17c2507c2a8df5f5fba4ea5b2baa93caf66.1920x1080.jpg?t=1577021179,https://cdn.akamai.steamstatic.com/steam/apps/978660/ss_44e7b197d51d9f04ebf4727fc8d15a9269a69e1b.1920x1080.jpg?t=1577021179,https://cdn.akamai.steamstatic.com/steam/apps/978660/ss_f4425c96d36fd0473e9d2ef07a232c5a898e1a09.1920x1080.jpg?t=1577021179,https://cdn.akamai.steamstatic.com/steam/apps/978660/ss_e7ebf139e1d4c2578136aa557b99d16daa37222c.1920x1080.jpg?t=1577021179",
+    "Slug": "parity",
+    "Meta Title": "Parity: Dec 17, 2019, SG+T and Full Overview",
+    "Meta Description": "Looking for information on Parity? Check out the release date (Dec 17, 2019), developer insights from SG+T, and a complete game summary.",
+    "Alt Text Image": "Official header image for Parity game - Steam 978660",
+    "Canonical URL": "https://gusku.site/game/parity",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Parity\", \"description\": \"Looking for information on Parity? Check out the release date (Dec 17, 2019), developer insights from SG+T, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 17, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"SG+T\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Independent\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/978660/header.jpg?t=1577021179\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 931040,
+    "Name": "BreakHack",
+    "Release date": "Sep 25, 2018",
+    "About the game": "BreakHack is a casual roguelike intended to provide entertainment for 10-30 minutes when you are taking a break from anything else in your life. It's easy to learn but hard to beat, no save games, no extra lives no fuss. Just enter the dungeon kill the monsters and get the loot. Dungeons are procedurally generated on every playthrough. You will always get a unique new dungeon to explore every time you play. Currently you can play as the Warrior or the Rogue who have different skills and play styles. Once I get the time and there seems to be a demand (since I'm the only developer and I do this in my spare time) I will add additional playable classes to the game. Source code The source to this game is available on GitHub .",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/931040/header.jpg?t=1560966471",
+    "Price": 0.99,
+    "Developers": "Oliveshark",
+    "Publishers": "Oliveshark",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/931040/ss_1e570939e40573d312cab27260422b4d85e4c084.1920x1080.jpg?t=1560966471,https://cdn.akamai.steamstatic.com/steam/apps/931040/ss_a5056bf88d139bc361d44103328fbe7d7e652604.1920x1080.jpg?t=1560966471,https://cdn.akamai.steamstatic.com/steam/apps/931040/ss_e7813bdf9cb1827d13976543d9fc661de7c559c4.1920x1080.jpg?t=1560966471,https://cdn.akamai.steamstatic.com/steam/apps/931040/ss_857e12588287796d32c0e2c450b070fa9bcc3b64.1920x1080.jpg?t=1560966471,https://cdn.akamai.steamstatic.com/steam/apps/931040/ss_46400e8163dba8fdc11a409deb902f75707f37cb.1920x1080.jpg?t=1560966471,https://cdn.akamai.steamstatic.com/steam/apps/931040/ss_5785ef5e3dc7e7261bb690d893c610787921fcaa.1920x1080.jpg?t=1560966471,https://cdn.akamai.steamstatic.com/steam/apps/931040/ss_25c892a81ba156a3cac763e29beff398cb20ffca.1920x1080.jpg?t=1560966471,https://cdn.akamai.steamstatic.com/steam/apps/931040/ss_fc9bb44ec3cfcec38d6c6c13487583f3e32ca5a4.1920x1080.jpg?t=1560966471",
+    "Slug": "breakhack",
+    "Meta Title": "BreakHack: Sep 25, 2018, Oliveshark and Full Overview",
+    "Meta Description": "Looking for information on BreakHack? Check out the release date (Sep 25, 2018), developer insights from Oliveshark, and a complete game summary.",
+    "Alt Text Image": "Official header image for BreakHack game - Steam 931040",
+    "Canonical URL": "https://gusku.site/game/breakhack",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BreakHack\", \"description\": \"Looking for information on BreakHack? Check out the release date (Sep 25, 2018), developer insights from Oliveshark, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 25, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Oliveshark\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Oliveshark\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/931040/header.jpg?t=1560966471\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

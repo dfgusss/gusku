@@ -1,0 +1,21 @@
+{
+    "AppID": 764630,
+    "Name": "Alien Invaders from the Planet Plorth",
+    "Release date": "Jan 15, 2018",
+    "About the game": "Alien Invaders from the Planet Plorth is a shooter game in which the player moves sideways trying to dodge enemy bullets. The player is positioned in the center of the screen with top and bottom enemies moving closer towards the player. The game automatically ends if an enemy reaches the center of the screen. Shoot all enemies and move on to the next level. On every 10th level, you will have to defeat a more difficult 'boss' enemy that shoots orbs and brings down a beam toward the center line. You lose a life if one of those orbs or beam hits you. This game gives the player the option to play from 3 levels of difficulty: Easy mode: Player can shoot unlimited bullets. Normal mode: Player can shoot 2 bullets at a time. Bullets must hit enemies or disappear at top/bottom of the screen before player can shoot another 2 bullets. Hard mode: Player can only shoot 1 bullet at a time. Bullet must hit enemy or disappear at top/bottom of the screen before player can shoot another bullet. You also have the option to toggle between windowed/fullscreen mode and toggle music and sound on/off. High score feature automatically saves your high score at each level throughout the game and loads the saved high score next time you play. Key Features Mouse, keyboard and joystick support Choose between easy, normal and hard difficulty levels Toggle fullscreen and windowed mode option Toggle sound and music on/off",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/764630/header.jpg?t=1516286268",
+    "Price": 3.99,
+    "Developers": "Robert Lanthier",
+    "Publishers": "Robert Lanthier",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/764630/ss_eac1a5ddcb1e1bc31f6a2384921bc71e58b042ae.1920x1080.jpg?t=1516286268,https://cdn.akamai.steamstatic.com/steam/apps/764630/ss_7117e6bf6109856fae5e4bd868ed91c904badc14.1920x1080.jpg?t=1516286268,https://cdn.akamai.steamstatic.com/steam/apps/764630/ss_a69340399fdb6030e45ebf4aef0e6f753c1a1ca3.1920x1080.jpg?t=1516286268,https://cdn.akamai.steamstatic.com/steam/apps/764630/ss_5f917e463c1dad62d65bc8c3427d30ab837edfe2.1920x1080.jpg?t=1516286268,https://cdn.akamai.steamstatic.com/steam/apps/764630/ss_c61f3306e516373d754b3df58c20ebeddae7c0a3.1920x1080.jpg?t=1516286268,https://cdn.akamai.steamstatic.com/steam/apps/764630/ss_2c3d2b10cf8d1ca5dc0e9f71cb9359758eefbe93.1920x1080.jpg?t=1516286268,https://cdn.akamai.steamstatic.com/steam/apps/764630/ss_fd19382be6ac7a0103eac6f3651efbd7de3e1e4d.1920x1080.jpg?t=1516286268,https://cdn.akamai.steamstatic.com/steam/apps/764630/ss_b7f2355e40a526b4bc3fde624c5b37b9f6c9b3fc.1920x1080.jpg?t=1516286268",
+    "Slug": "alien-invaders-from-the-planet-plorth",
+    "Meta Title": "Alien Invaders from the Planet Plorth: Jan 15, 2018, Robe...",
+    "Meta Description": "Looking for information on Alien Invaders from the Planet Plorth? Check out the release date (Jan 15, 2018), developer insights from Robert Lanthier, an...",
+    "Alt Text Image": "Official header image for Alien Invaders from the Planet Plorth game - Steam 764630",
+    "Canonical URL": "https://gusku.site/game/alien-invaders-from-the-planet-plorth",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Alien Invaders from the Planet Plorth\", \"description\": \"Looking for information on Alien Invaders from the Planet Plorth? Check out the release date (Jan 15, 2018), developer insights from Robert Lanthier, an...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 15, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Robert Lanthier\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Robert Lanthier\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/764630/header.jpg?t=1516286268\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

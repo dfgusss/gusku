@@ -1,0 +1,21 @@
+{
+    "AppID": 1212290,
+    "Name": "Kubble Star",
+    "Release date": "Mar 2, 2020",
+    "About the game": "Destroy all the cubes! Use the laser to launch your cubes and match your colors by 3 or more. If you put a cube without color assembly by 3 minimum, the progress bar increases. When this one reaches at the end, a new layer of cube falls, the traditional plate advances, and the plate turning is reduced. To pass to the next level all the colored cubes must be destroyed while remaining within the limits of the game boards. To make your task easier, you have 4 types of bonus and it depends on your ability to use these bonuses or not, that you will earn stars at each end of level. The challenge is to get 3 stars per level. 4 different types of bonuses: - Heart : Resets the progress bar to zero to give you a second wind. - Cannon : gives the possibility of shooting to destroy cubes for a few seconds. - Bomb : Destroy the cubes where you sent it. - Magic ball : instantly deletes a color of your choice. 3 game modes: - Classic : here no time limit and a limited number of moves represented by the progress bar! Bonuses are mixed in the middle of the cubes - Rush : You are in limited time to destroy the cubes! the bonuses are permanently accessible, up to 6 at the same time. consume them to drop new ones and try to use as little as possible to get your three stars. Each combo stops the bar. It's up to you to challenge the chronometer! - Crazy : Watch your brains! In this mode the color of your cubes has no importance. A letter is written on each cube. Create your matches by combining letters without worrying about color.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1212290/header.jpg?t=1583188521",
+    "Price": 0.99,
+    "Developers": "Daniel Jeanneau",
+    "Publishers": "Daniel Jeanneau",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1212290/ss_7e56fcd0a310c0aa9d58dbcdee877f65a99ee374.1920x1080.jpg?t=1583188521,https://cdn.akamai.steamstatic.com/steam/apps/1212290/ss_1dedd12c80e4162684e3e5d058798f4012254104.1920x1080.jpg?t=1583188521,https://cdn.akamai.steamstatic.com/steam/apps/1212290/ss_37c2431ac073355b471a1e0696b8f8ca57d4a712.1920x1080.jpg?t=1583188521,https://cdn.akamai.steamstatic.com/steam/apps/1212290/ss_bee096ce62e04a3f2f0a0fb34f3fe2c5a7f30165.1920x1080.jpg?t=1583188521,https://cdn.akamai.steamstatic.com/steam/apps/1212290/ss_e32eaa9afe348938941f4f1570cf8f514d34a46e.1920x1080.jpg?t=1583188521",
+    "Slug": "kubble-star",
+    "Meta Title": "Kubble Star: Mar 2, 2020, Daniel Jeanneau and Full Overview",
+    "Meta Description": "Looking for information on Kubble Star? Check out the release date (Mar 2, 2020), developer insights from Daniel Jeanneau, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kubble Star game - Steam 1212290",
+    "Canonical URL": "https://gusku.site/game/kubble-star",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kubble Star\", \"description\": \"Looking for information on Kubble Star? Check out the release date (Mar 2, 2020), developer insights from Daniel Jeanneau, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 2, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Daniel Jeanneau\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Daniel Jeanneau\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1212290/header.jpg?t=1583188521\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

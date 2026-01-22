@@ -1,0 +1,21 @@
+{
+    "AppID": 630130,
+    "Name": "Top Punch",
+    "Release date": "Apr 24, 2018",
+    "About the game": "Top Punch is a quick match boxing game, just jump into the ring and start fighting your opponent. You may play with a friend on the same computer, LAN or Internet (the host must open the port on the router). To invite a friend to a on-line game, just create the lobby (remember to open the port, wich can be changed on options menu), and invite your friend to your lobby, as soon as you both are ready, the game will prepare everything to start fighting. Rules are easy, you have got two minutes to hit your opponent's head using either fists, the player who gets more hits win the match, there might be some testing on some new mechanics as blocking, read the Early Access description for more information. The game features quick two minutes combats, and will keep track of the score. More modes could be added based on players feedback. Inspired in old boxing titles, simple and fun. Still on early access, but fully functional, you may share your thoughts and help me finish the game, only new mechanics are missing. Achievements are coming soon!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/630130/header.jpg?t=1524589769",
+    "Price": 3.99,
+    "Developers": "Nuclear",
+    "Publishers": "Nuclear",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/630130/ss_1d8aa0691da316e775b37998c51b428cc1626db7.1920x1080.jpg?t=1524589769,https://cdn.akamai.steamstatic.com/steam/apps/630130/ss_fcba4a398313502378b1bdbc934290ba1450a8c0.1920x1080.jpg?t=1524589769,https://cdn.akamai.steamstatic.com/steam/apps/630130/ss_6416dd00a344b55f5f562752722190e26ee6f081.1920x1080.jpg?t=1524589769,https://cdn.akamai.steamstatic.com/steam/apps/630130/ss_0d3384dd7c8c596382439d05e84a032a0c3cb06a.1920x1080.jpg?t=1524589769,https://cdn.akamai.steamstatic.com/steam/apps/630130/ss_31a1aaacc67d03102fcfd3b667da84c9fb5ebed0.1920x1080.jpg?t=1524589769",
+    "Slug": "top-punch",
+    "Meta Title": "Top Punch: Apr 24, 2018, Nuclear and Full Overview",
+    "Meta Description": "Looking for information on Top Punch? Check out the release date (Apr 24, 2018), developer insights from Nuclear, and a complete game summary.",
+    "Alt Text Image": "Official header image for Top Punch game - Steam 630130",
+    "Canonical URL": "https://gusku.site/game/top-punch",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Top Punch\", \"description\": \"Looking for information on Top Punch? Check out the release date (Apr 24, 2018), developer insights from Nuclear, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 24, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nuclear\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nuclear\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/630130/header.jpg?t=1524589769\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

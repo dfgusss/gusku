@@ -1,0 +1,21 @@
+{
+    "AppID": 1882950,
+    "Name": "CycloHex",
+    "Release date": "Aug 15, 2022",
+    "About the game": "CycloHex is a twist on the classic board game Hex. The board has no 'edges' and going too far in one direction loops you to the other side like a PacMan level. The goal is to make a cycle that loops you though your color's edge and back to where you started before your opponent can. Despite it's simple rules, there's a world of strategy in CycloHex and countless ways to out-think your opponent! Play against your friends locally or online, or take on the built-in AI!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1882950/header.jpg?t=1660603280",
+    "Price": 0.0,
+    "Developers": "Alex Obatake",
+    "Publishers": "Alex Obatake",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1882950/ss_496d2036df63f8e01b1165a43a169093bf630ba4.1920x1080.jpg?t=1660603280,https://cdn.akamai.steamstatic.com/steam/apps/1882950/ss_efcc6ef0b77f2f12d17d23e05834c06374f2e3bd.1920x1080.jpg?t=1660603280,https://cdn.akamai.steamstatic.com/steam/apps/1882950/ss_b902c733ac1da8a30d38dd00107a59cef65ab6da.1920x1080.jpg?t=1660603280,https://cdn.akamai.steamstatic.com/steam/apps/1882950/ss_ac556c42176a08bb6fa7875548e407f036303596.1920x1080.jpg?t=1660603280,https://cdn.akamai.steamstatic.com/steam/apps/1882950/ss_5364c1990524b812fa3b007c7320ff824dae3b86.1920x1080.jpg?t=1660603280",
+    "Slug": "cyclohex",
+    "Meta Title": "CycloHex: Aug 15, 2022, Alex Obatake and Full Overview",
+    "Meta Description": "Looking for information on CycloHex? Check out the release date (Aug 15, 2022), developer insights from Alex Obatake, and a complete game summary.",
+    "Alt Text Image": "Official header image for CycloHex game - Steam 1882950",
+    "Canonical URL": "https://gusku.site/game/cyclohex",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CycloHex\", \"description\": \"Looking for information on CycloHex? Check out the release date (Aug 15, 2022), developer insights from Alex Obatake, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 15, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Alex Obatake\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Alex Obatake\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1882950/header.jpg?t=1660603280\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

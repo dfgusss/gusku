@@ -1,0 +1,21 @@
+{
+    "AppID": 768100,
+    "Name": "GizmoVR Video Player",
+    "Release date": "Jan 5, 2018",
+    "About the game": "GizmoVR is a virtual reality media player. GizmoVR features: - Support of all stereo formats with side by side and over under frame packing - Media library with option to add selected folders into favorites - Automatic frame packing detection when files are run from local storage - One click start from browser - Virtual desktop - Integrated download manager - Flexible playback settings - Automatic pause if headset removed - Ability to drag the player - Cinematic mode (curved or flat screen) - Control the app with gaze in the hands-free mode - Webcam motion detection - 2D mode - Playback from YouTube. Supported video formats: 2D/360/180 .avi, .mkv and .mov 4K, 8K(playback depends on installed codecs)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/768100/header.jpg?t=1597393074",
+    "Price": 0.0,
+    "Developers": "Gizmo VR LTD",
+    "Publishers": "Gizmo VR LTD",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/768100/ss_cc288ec03274d3c6c1ac02cda76c63ed7a000c26.1920x1080.jpg?t=1597393074,https://cdn.akamai.steamstatic.com/steam/apps/768100/ss_6cdf820f0dbcfb694aff9cda494eeae2791cb52d.1920x1080.jpg?t=1597393074,https://cdn.akamai.steamstatic.com/steam/apps/768100/ss_c16f4db1e05c3babbc0177b010b9406500945050.1920x1080.jpg?t=1597393074,https://cdn.akamai.steamstatic.com/steam/apps/768100/ss_49df281d05334c4b71cf268ec85fe9b8f1eacb16.1920x1080.jpg?t=1597393074,https://cdn.akamai.steamstatic.com/steam/apps/768100/ss_a0cedce651f7abac6c331a20bbb40ab55346220c.1920x1080.jpg?t=1597393074",
+    "Slug": "gizmovr-video-player",
+    "Meta Title": "GizmoVR Video Player: Jan 5, 2018, Gizmo VR LTD and Full ...",
+    "Meta Description": "Looking for information on GizmoVR Video Player? Check out the release date (Jan 5, 2018), developer insights from Gizmo VR LTD, and a complete game sum...",
+    "Alt Text Image": "Official header image for GizmoVR Video Player game - Steam 768100",
+    "Canonical URL": "https://gusku.site/game/gizmovr-video-player",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GizmoVR Video Player\", \"description\": \"Looking for information on GizmoVR Video Player? Check out the release date (Jan 5, 2018), developer insights from Gizmo VR LTD, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 5, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gizmo VR LTD\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gizmo VR LTD\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/768100/header.jpg?t=1597393074\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

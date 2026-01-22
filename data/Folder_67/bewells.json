@@ -1,0 +1,21 @@
+{
+    "AppID": 2207690,
+    "Name": "Bewells",
+    "Release date": "Nov 20, 2022",
+    "About the game": "Bewells is not exactly a classic three in a row game. You don't have to stack three identical stones in a row, but on the contrary, remove obstructing stones so that the stones that fall as a result form a horizontal or vertical row of identical stones. The game has a timer. Your time is also reduced when you remove a row of stones, and also added when a row is counted by the game. With the growth of points, move to another tier of difficulty and get less time for counted rows. When the timer reaches zero your game will be over and the points will be reset to zero. Minimal graphics Relaxed logic game",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2207690/header.jpg?t=1668936830",
+    "Price": 2.59,
+    "Developers": "GoMedia",
+    "Publishers": "GoMedia",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2207690/ss_7e3528c1d4368bb7d274298e061db1721ea2c6d6.1920x1080.jpg?t=1668936830,https://cdn.akamai.steamstatic.com/steam/apps/2207690/ss_d86bf0e4f8cb4fcd5568dab1a6fe1ef03beb8817.1920x1080.jpg?t=1668936830,https://cdn.akamai.steamstatic.com/steam/apps/2207690/ss_2d11a57d6dd3e933dc48372a1a3276439d3f8bb3.1920x1080.jpg?t=1668936830,https://cdn.akamai.steamstatic.com/steam/apps/2207690/ss_e97c247ba697f45606df2bb83599569ee74adb23.1920x1080.jpg?t=1668936830,https://cdn.akamai.steamstatic.com/steam/apps/2207690/ss_f3d0c8513b293f9721e6de300a022b0157b7a7b3.1920x1080.jpg?t=1668936830",
+    "Slug": "bewells",
+    "Meta Title": "Bewells: Nov 20, 2022, GoMedia and Full Overview",
+    "Meta Description": "Looking for information on Bewells? Check out the release date (Nov 20, 2022), developer insights from GoMedia, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bewells game - Steam 2207690",
+    "Canonical URL": "https://gusku.site/game/bewells",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bewells\", \"description\": \"Looking for information on Bewells? Check out the release date (Nov 20, 2022), developer insights from GoMedia, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"GoMedia\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"GoMedia\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2207690/header.jpg?t=1668936830\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.59, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

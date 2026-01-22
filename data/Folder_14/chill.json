@@ -1,0 +1,21 @@
+{
+    "AppID": 603010,
+    "Name": "Chill",
+    "Release date": "Jan 18, 2019",
+    "About the game": "Chill is a relaxing, minimalist maze game. FEATURES • Endless maze game • 5 levels of difficulty • Calm music • Achievements",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/603010/header.jpg?t=1614777983",
+    "Price": 0.99,
+    "Developers": "ZELENYUK",
+    "Publishers": "ZELENYUK",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/603010/ss_a60fab7c315411d71baa882455094b50baf902f1.1920x1080.jpg?t=1614777983,https://cdn.akamai.steamstatic.com/steam/apps/603010/ss_dc86d62432727151e53571c8094cc0114037e649.1920x1080.jpg?t=1614777983,https://cdn.akamai.steamstatic.com/steam/apps/603010/ss_03eb5e79ab4e7e464ec5c253580f88b016a71e5d.1920x1080.jpg?t=1614777983,https://cdn.akamai.steamstatic.com/steam/apps/603010/ss_eed471c5010d7762cf28fb0903f20036360f3359.1920x1080.jpg?t=1614777983,https://cdn.akamai.steamstatic.com/steam/apps/603010/ss_c4c1bf8c765f9e4443985dcbd1d933201e64bf13.1920x1080.jpg?t=1614777983",
+    "Slug": "chill",
+    "Meta Title": "Chill: Jan 18, 2019, ZELENYUK and Full Overview",
+    "Meta Description": "Looking for information on Chill? Check out the release date (Jan 18, 2019), developer insights from ZELENYUK, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chill game - Steam 603010",
+    "Canonical URL": "https://gusku.site/game/chill",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chill\", \"description\": \"Looking for information on Chill? Check out the release date (Jan 18, 2019), developer insights from ZELENYUK, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 18, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"ZELENYUK\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ZELENYUK\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/603010/header.jpg?t=1614777983\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

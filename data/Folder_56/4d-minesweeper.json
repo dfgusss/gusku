@@ -1,0 +1,21 @@
+{
+    "AppID": 787980,
+    "Name": "4D Minesweeper",
+    "Release date": "Feb 14, 2018",
+    "About the game": "4D Minesweeper brings the classic mechanics of Minesweeper into the fourth dimension. In four dimensions, each square can have up to 80 neighbors, giving you plenty of information. This means less chance that you have to guess to progress, and that the relations between the squares become more complex. It comes with over 80 games that you can load, which can be solved without ever needing to guess. To help you keep track of all those neighbors, the game highlights them for you, when you enter a square. Additionally the game comes with a delta mode, which displays the number of remaining mines for each square instead of the total number. Furthermore you have the option to make each dimension spherical, giving you the ability to play on tubes and tori as well as cubes. Of course, if you want to, you can play one-, two- or threedimensional Minesweeper with this game. (The game will always be presented in two dimensions) Want a nice start for your game? This game has a button to give you one! And if you want to stop playing but do not want to lose all your progress in a game, the autosave feature will let you pick right up where you stop the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/787980/header.jpg?t=1541187241",
+    "Price": 0.0,
+    "Developers": "Julian Schlüntz",
+    "Publishers": "Julian Schlüntz",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/787980/ss_1c13ed486ac8ab9a44a3b6e145c855d908af74d0.1920x1080.jpg?t=1541187241,https://cdn.akamai.steamstatic.com/steam/apps/787980/ss_e194bd3aeaa2fb6be94b6b7e2cdcdfe03c1cde5e.1920x1080.jpg?t=1541187241,https://cdn.akamai.steamstatic.com/steam/apps/787980/ss_d43d4b5820835bbe21ad3d5a72ce845705a8445d.1920x1080.jpg?t=1541187241,https://cdn.akamai.steamstatic.com/steam/apps/787980/ss_963e2df2d5ad981c5eec7aac0ac9aa804fef34c5.1920x1080.jpg?t=1541187241,https://cdn.akamai.steamstatic.com/steam/apps/787980/ss_e95743fb422881ab5e9f2204ad32f0e14c4cf94f.1920x1080.jpg?t=1541187241,https://cdn.akamai.steamstatic.com/steam/apps/787980/ss_f40a10daebf612d47b763e5af0f32e1e4abfcded.1920x1080.jpg?t=1541187241",
+    "Slug": "4d-minesweeper",
+    "Meta Title": "4D Minesweeper: Feb 14, 2018, Julian Schlüntz and Full Ov...",
+    "Meta Description": "Looking for information on 4D Minesweeper? Check out the release date (Feb 14, 2018), developer insights from Julian Schlüntz, and a complete game summary.",
+    "Alt Text Image": "Official header image for 4D Minesweeper game - Steam 787980",
+    "Canonical URL": "https://gusku.site/game/4d-minesweeper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"4D Minesweeper\", \"description\": \"Looking for information on 4D Minesweeper? Check out the release date (Feb 14, 2018), developer insights from Julian Schl\\u00fcntz, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 14, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Julian Schl\\u00fcntz\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Julian Schl\\u00fcntz\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/787980/header.jpg?t=1541187241\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

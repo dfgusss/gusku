@@ -1,0 +1,21 @@
+{
+    "AppID": 1957860,
+    "Name": "Anna VS the A.I.maze",
+    "Release date": "May 12, 2022",
+    "About the game": "A physics-based platforming game in which you escape a virtual maze. Solve some mini puzzles, fight some mechanic based bosses and perform awesome physics based platforming skills using jumping and grappling. The physics based elements were the primary focus of gameplay, hopefully you will enjoy them The bow is also a big focus, both for grappling and fighting certain enemies. Getting the aiming to work with both controller and mouse was a challenge but hopefully it is fun to use There are some casual platforming elements as well as some more challenging precision platforming elements. The game was created for a younger relative who is pretty good at platforming but hopefully all ages will enjoy. It also has some timed modes where the player can challenge their skills after completing the campaign. Troubleshooting: The game was created using the Xbox Controller as the primary input device. Testing in this regard is a bit limited but it should work with most controllers as long as they have triggers available. Keyboard and Mouse will also work but a controller is recommended for gameplay. The minimum requirements suggest a dedicated GPU and I think that is for the best. The game has been tested on laptops with integrated graphics and it will work at lower resolutions but might not be a very good experience. Testing in general has been somewhat limited due to the available devices available at the time. This is the first game I have created and I have tried to test it well but if there are any issues please email the link under support with the details and I will try my best to address them. Thank you",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1957860/header.jpg?t=1652403373",
+    "Price": 2.99,
+    "Developers": "Pishah LLC",
+    "Publishers": "Pishah LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1957860/ss_6c9c4d7289fe671a7d0ec0b2db400189f429b782.1920x1080.jpg?t=1652403373,https://cdn.akamai.steamstatic.com/steam/apps/1957860/ss_3457f541df4161de788e42f81bd76e2d0ea58071.1920x1080.jpg?t=1652403373,https://cdn.akamai.steamstatic.com/steam/apps/1957860/ss_79a08c3475c34b4075bde4032a02e04d89e25108.1920x1080.jpg?t=1652403373,https://cdn.akamai.steamstatic.com/steam/apps/1957860/ss_7d9868c5176e3977f6b89fd968f7492ccd15024f.1920x1080.jpg?t=1652403373,https://cdn.akamai.steamstatic.com/steam/apps/1957860/ss_fb4429eb507e41c7f2c9ad0fa6e7b59a0951600c.1920x1080.jpg?t=1652403373",
+    "Slug": "anna-vs-the-a-i-maze",
+    "Meta Title": "Anna VS the A.I.maze: May 12, 2022, Pishah LLC and Full O...",
+    "Meta Description": "Looking for information on Anna VS the A.I.maze? Check out the release date (May 12, 2022), developer insights from Pishah LLC, and a complete game summ...",
+    "Alt Text Image": "Official header image for Anna VS the A.I.maze game - Steam 1957860",
+    "Canonical URL": "https://gusku.site/game/anna-vs-the-a-i-maze",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Anna VS the A.I.maze\", \"description\": \"Looking for information on Anna VS the A.I.maze? Check out the release date (May 12, 2022), developer insights from Pishah LLC, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pishah LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pishah LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1957860/header.jpg?t=1652403373\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1111730,
+    "Name": "Red Ruin",
+    "Release date": "Jul 23, 2019",
+    "About the game": "Red Ruin is a Space-Arcade-Shooter, in which you have two space ships fighting on your side, the Red Ruin and Its phantom Nocturna . Both vessels have Different capabilities, the Red Ruin can move and shoot at Regular enemies while Nocturna is able to block enemy projectiles, pass trough walls and shoot Phantom enemies. Both ships are equipped with the Phantom-Drive which allows them to switch position with each other. Switching between both ships strategically will bring you victory. You will fight your way trough eight action packed levels and defeat eight powerfull Bosses. Furthermore you can collect Weapon-Upgrades and Repaire-Kits to aid your ship.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1111730/header.jpg?t=1563887727",
+    "Price": 4.99,
+    "Developers": "David Seifers",
+    "Publishers": "David Seifers",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1111730/ss_dcbbb79b761535ef109b66ce8abf589b195c8daa.1920x1080.jpg?t=1563887727,https://cdn.akamai.steamstatic.com/steam/apps/1111730/ss_691dc1f1068d04b58491a62a0f29f12af960a400.1920x1080.jpg?t=1563887727,https://cdn.akamai.steamstatic.com/steam/apps/1111730/ss_d7948e26570276e93b36c0ee0446101664fc1b6c.1920x1080.jpg?t=1563887727,https://cdn.akamai.steamstatic.com/steam/apps/1111730/ss_91f89b02e2e077004f284996f8a77b5459d07d10.1920x1080.jpg?t=1563887727,https://cdn.akamai.steamstatic.com/steam/apps/1111730/ss_3bd467dc2aed12480fd37e924b20dbb4cc39dc32.1920x1080.jpg?t=1563887727",
+    "Slug": "red-ruin",
+    "Meta Title": "Red Ruin: Jul 23, 2019, David Seifers and Full Overview",
+    "Meta Description": "Looking for information on Red Ruin? Check out the release date (Jul 23, 2019), developer insights from David Seifers, and a complete game summary.",
+    "Alt Text Image": "Official header image for Red Ruin game - Steam 1111730",
+    "Canonical URL": "https://gusku.site/game/red-ruin",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Red Ruin\", \"description\": \"Looking for information on Red Ruin? Check out the release date (Jul 23, 2019), developer insights from David Seifers, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 23, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"David Seifers\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"David Seifers\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1111730/header.jpg?t=1563887727\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

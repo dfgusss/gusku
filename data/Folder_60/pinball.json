@@ -1,0 +1,21 @@
+{
+    "AppID": 745120,
+    "Name": "Pinball",
+    "Release date": "Nov 10, 2017",
+    "About the game": "3D Pinball game with an amazing feature: a Table Editor for you to create and play your own tables. Pinball comes with 10 original tables and a growing number of online tables created by players around the world. Experience tons of amazing effects in this original, highly entertaining Pinball game. With realistic physics, cool sounds and unlimited tables, Pinball will have you coming back for more.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/745120/header.jpg?t=1510321117",
+    "Price": 4.99,
+    "Developers": "baKno Games",
+    "Publishers": "baKno Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/745120/ss_b95ff8d74460ac7e58f4284a8a425984d01fc265.1920x1080.jpg?t=1510321117,https://cdn.akamai.steamstatic.com/steam/apps/745120/ss_2ea3e10a335961039d4923e08caaa5be18d53774.1920x1080.jpg?t=1510321117,https://cdn.akamai.steamstatic.com/steam/apps/745120/ss_a9afc5d95ea55e919458f52d338d2272f3f83e15.1920x1080.jpg?t=1510321117,https://cdn.akamai.steamstatic.com/steam/apps/745120/ss_fee4d2048646f50066ad0ef9c7bb1bf72d3eb30a.1920x1080.jpg?t=1510321117,https://cdn.akamai.steamstatic.com/steam/apps/745120/ss_97ef80602f84a2514bf9e0f6c10d033dc5611d4c.1920x1080.jpg?t=1510321117",
+    "Slug": "pinball",
+    "Meta Title": "Pinball: Nov 10, 2017, baKno Games and Full Overview",
+    "Meta Description": "Looking for information on Pinball? Check out the release date (Nov 10, 2017), developer insights from baKno Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pinball game - Steam 745120",
+    "Canonical URL": "https://gusku.site/game/pinball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pinball\", \"description\": \"Looking for information on Pinball? Check out the release date (Nov 10, 2017), developer insights from baKno Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 10, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"baKno Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"baKno Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/745120/header.jpg?t=1510321117\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

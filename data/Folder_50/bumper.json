@@ -1,0 +1,21 @@
+{
+    "AppID": 509850,
+    "Name": "Bumper",
+    "Release date": "Sep 12, 2016",
+    "About the game": "BUMPER is a casual game made on Blender Game Engine where the player must to destroy the vehicles as much as possible, trying not to get caught by the police, reach the checkpoints to get time and improve your weapons. The player has a total of 9 challenges to complete and each challenge completed give a new improvement to the game. A new game mode will be unlocked after all challenges completed.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/509850/header.jpg?t=1658412460",
+    "Price": 0.49,
+    "Developers": "Artur Rezende",
+    "Publishers": "PROATIV GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/509850/ss_dcb4953f83bd2a46d1ca5bac336a860af95da4b6.1920x1080.jpg?t=1658412460,https://cdn.akamai.steamstatic.com/steam/apps/509850/ss_94782473ffa31b9710b949b26057912ff802902d.1920x1080.jpg?t=1658412460,https://cdn.akamai.steamstatic.com/steam/apps/509850/ss_85c003527c092e1d7fa424f707f173d9545dc191.1920x1080.jpg?t=1658412460,https://cdn.akamai.steamstatic.com/steam/apps/509850/ss_849054872baf058c5925448fd409dd64604c5595.1920x1080.jpg?t=1658412460,https://cdn.akamai.steamstatic.com/steam/apps/509850/ss_68a5f8a3a10deb3c2b544ef448547ece9cbfe9dd.1920x1080.jpg?t=1658412460,https://cdn.akamai.steamstatic.com/steam/apps/509850/ss_68a5f8a3a10deb3c2b544ef448547ece9cbfe9dd.1920x1080.jpg?t=1658412460,https://cdn.akamai.steamstatic.com/steam/apps/509850/ss_b5bde685597983adeb5dbee473446e8456a6acf4.1920x1080.jpg?t=1658412460,https://cdn.akamai.steamstatic.com/steam/apps/509850/ss_338ab3442680010922a397409438743d21d031be.1920x1080.jpg?t=1658412460,https://cdn.akamai.steamstatic.com/steam/apps/509850/ss_00cb68562996a50f4dad3a96ec893614830d3f8c.1920x1080.jpg?t=1658412460",
+    "Slug": "bumper",
+    "Meta Title": "Bumper: Sep 12, 2016, Artur Rezende and Full Overview",
+    "Meta Description": "Looking for information on Bumper? Check out the release date (Sep 12, 2016), developer insights from Artur Rezende, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bumper game - Steam 509850",
+    "Canonical URL": "https://gusku.site/game/bumper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bumper\", \"description\": \"Looking for information on Bumper? Check out the release date (Sep 12, 2016), developer insights from Artur Rezende, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 12, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Artur Rezende\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PROATIV GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/509850/header.jpg?t=1658412460\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

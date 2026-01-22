@@ -1,0 +1,21 @@
+{
+    "AppID": 1733230,
+    "Name": "Vortex",
+    "Release date": "Sep 9, 2021",
+    "About the game": "Using the handheld Vortex remote to open spatial doorways, and reach areas that would not usually be accessible, journey through the VortexLabs’ testing facility, solve various puzzles, as you attempt to escape the testing facility. Vortex is a 2D puzzle game which uses ‘Vortexes’, doorways which can transport you through space, to reach different areas in the level and complete a task, such as activating a button, in order to escape the testing room and move on to the next level. Product Features • Challenging puzzles that force you to think before acting. • Original background music Developer Note: This is the first game that I have made therefore it does contain a few bugs. However, as I improve my coding and game development skills I will go back to some of the older levels in order to fix any bugs that there may be to create a more enjoyable gameplay experience for you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1733230/header.jpg?t=1631199463",
+    "Price": 2.99,
+    "Developers": "Josh Woolley",
+    "Publishers": "Josh Woolley",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1733230/ss_e7917d5ef4f546ee1da551e82f373bd701eb86de.1920x1080.jpg?t=1631199463,https://cdn.akamai.steamstatic.com/steam/apps/1733230/ss_e9cc4161a10dbef7543732667f7362faef865e6e.1920x1080.jpg?t=1631199463,https://cdn.akamai.steamstatic.com/steam/apps/1733230/ss_a894852cc0502c2dd692fdce64df3554a0aea1c1.1920x1080.jpg?t=1631199463,https://cdn.akamai.steamstatic.com/steam/apps/1733230/ss_dc603c149e997d51bde61a9cd11eb47a7bef3d61.1920x1080.jpg?t=1631199463,https://cdn.akamai.steamstatic.com/steam/apps/1733230/ss_521e3a128c7f9cc4587a70f58b76bfe7603e2093.1920x1080.jpg?t=1631199463",
+    "Slug": "vortex",
+    "Meta Title": "Vortex: Sep 9, 2021, Josh Woolley and Full Overview",
+    "Meta Description": "Looking for information on Vortex? Check out the release date (Sep 9, 2021), developer insights from Josh Woolley, and a complete game summary.",
+    "Alt Text Image": "Official header image for Vortex game - Steam 1733230",
+    "Canonical URL": "https://gusku.site/game/vortex",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Vortex\", \"description\": \"Looking for information on Vortex? Check out the release date (Sep 9, 2021), developer insights from Josh Woolley, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 9, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Josh Woolley\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Josh Woolley\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1733230/header.jpg?t=1631199463\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1202570,
+    "Name": "Aquarius",
+    "Release date": "Mar 10, 2020",
+    "About the game": "Reminiscent of early arcade games, Aquarius is a randomly generated, wave-based combat game where you harpoon fish, collect treasure, and compete for the high score! Although it seems easy at the start, Aquarius can become surprisingly challenging. Stay alert - if you lose, you'll be sent back to the start of the previous level! Controls WASD and Arrow Keys / Gamepad Left Analog Stick - Move Mouse / Gamepad Right Analog Stick - Aim weapon Left Mouse Button / Gamepad Right Bumper and Trigger - Fire weapon TAB / Gamepad Top Button - Show score C / P1 Gamepad Select - Toggle camera F11 - Toggle fullscreen Gamepad Setup Auto Setup On: Connecting two gamepads will enable the second player Auto Setup Off: Setting any gamepad to P2 will enable the second player",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1202570/header.jpg?t=1608064033",
+    "Price": 0.0,
+    "Developers": "Iron Stag Games",
+    "Publishers": "Iron Stag Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1202570/ss_0be2fa28048275749315627a0565a2a73d8b8fc7.1920x1080.jpg?t=1608064033,https://cdn.akamai.steamstatic.com/steam/apps/1202570/ss_d4b35cad1cf0159c5f4b092f0778b74aea4c9c1c.1920x1080.jpg?t=1608064033,https://cdn.akamai.steamstatic.com/steam/apps/1202570/ss_358f94e6c776e3d29fafcadf40bde521696086a6.1920x1080.jpg?t=1608064033,https://cdn.akamai.steamstatic.com/steam/apps/1202570/ss_b4e06915f56ec7741c35aae3f269dccf3f17625d.1920x1080.jpg?t=1608064033,https://cdn.akamai.steamstatic.com/steam/apps/1202570/ss_c3cef7bd613ddc7c5ce9b7168c0f83c42d07ef1d.1920x1080.jpg?t=1608064033",
+    "Slug": "aquarius",
+    "Meta Title": "Aquarius: Mar 10, 2020, Iron Stag Games and Full Overview",
+    "Meta Description": "Looking for information on Aquarius? Check out the release date (Mar 10, 2020), developer insights from Iron Stag Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Aquarius game - Steam 1202570",
+    "Canonical URL": "https://gusku.site/game/aquarius",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Aquarius\", \"description\": \"Looking for information on Aquarius? Check out the release date (Mar 10, 2020), developer insights from Iron Stag Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 10, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Iron Stag Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Iron Stag Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1202570/header.jpg?t=1608064033\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

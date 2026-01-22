@@ -1,0 +1,21 @@
+{
+    "AppID": 697860,
+    "Name": "Cathodemer",
+    "Release date": "Sep 8, 2017",
+    "About the game": "Remember all those commercial animations, production logos and music videos from the 70's and 80's, that were created with expensive analog/digital hybrid video computing systems like the custom Scanimate systems, Fairlight CVS and later the accessible Video Toaster for Amiga computers. That warm and organic analog picture can't really be compared to the digital sterile picture in modern video software systems. The old real-time hybrid systems were also playable live to create video effects, realtime animations and more just like with an expressive musical instrument - but with video! Cathodemer is a realtime video production instrument with a CRT display simulator. It features analog-style RGB signal oscillation synthesis, input source mixing and manipulation, recursive color shape synthesis, sprite animation engine and various classic video effects. All parameters can be controlled via MIDI and audio input. Video output can be projected to video projector, rendered to file or routed to other video applications via frame sharing.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/697860/header.jpg?t=1581644537",
+    "Price": 19.99,
+    "Developers": "Joel Kivelä",
+    "Publishers": "Joel Kivelä",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/697860/ss_bae95c85dbffcd92d7861fe3740c1c501313e5e3.1920x1080.jpg?t=1581644537,https://cdn.akamai.steamstatic.com/steam/apps/697860/ss_da269c0f54c7cb7861a27debf5ccdfbbc63e5cdd.1920x1080.jpg?t=1581644537,https://cdn.akamai.steamstatic.com/steam/apps/697860/ss_718aa830f8607aac24dee3e0e5a098c35dc8a228.1920x1080.jpg?t=1581644537,https://cdn.akamai.steamstatic.com/steam/apps/697860/ss_11f3f0344d816ed7410998547d3669622aaca600.1920x1080.jpg?t=1581644537,https://cdn.akamai.steamstatic.com/steam/apps/697860/ss_df13fdcccfe8de67aad868a4d863456fcc259adb.1920x1080.jpg?t=1581644537",
+    "Slug": "cathodemer",
+    "Meta Title": "Cathodemer: Sep 8, 2017, Joel Kivelä and Full Overview",
+    "Meta Description": "Looking for information on Cathodemer? Check out the release date (Sep 8, 2017), developer insights from Joel Kivelä, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cathodemer game - Steam 697860",
+    "Canonical URL": "https://gusku.site/game/cathodemer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cathodemer\", \"description\": \"Looking for information on Cathodemer? Check out the release date (Sep 8, 2017), developer insights from Joel Kivel\\u00e4, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 8, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Joel Kivel\\u00e4\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Joel Kivel\\u00e4\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/697860/header.jpg?t=1581644537\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

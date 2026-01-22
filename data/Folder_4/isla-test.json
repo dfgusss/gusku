@@ -1,0 +1,21 @@
+{
+    "AppID": 1154800,
+    "Name": "ISLA test",
+    "Release date": "Oct 26, 2019",
+    "About the game": "ISLA test - this is a casual game with elements of physics. You control the green square and you need to collect pink objects, for each object you get points. But you will be disturbed by red objects that appear by chance, when you touch at least one of them, you lose. They will have different properties and behavior, some objects will try to make a sharp jerk towards you, while others will just slowly go down and disappear in the future. Apply your reaction, try to think outside the box. And how many points will you get? Features: - Interesting gameplay - Use of physics - Pleasant music - Relaxing graphics",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1154800/header.jpg?t=1574746321",
+    "Price": 0.99,
+    "Developers": "Areta Watanabe",
+    "Publishers": "Areta Watanabe",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1154800/ss_9cf097243103330afc55474a23f34caf05f8e6d6.1920x1080.jpg?t=1574746321,https://cdn.akamai.steamstatic.com/steam/apps/1154800/ss_b0d878a011f562d607e124078484a7f6d221f22c.1920x1080.jpg?t=1574746321,https://cdn.akamai.steamstatic.com/steam/apps/1154800/ss_fe2d0b15730914b9235fd78ff37691f48726dba3.1920x1080.jpg?t=1574746321,https://cdn.akamai.steamstatic.com/steam/apps/1154800/ss_3d475d4c2d7dbe90f323578553526e5121b3d87a.1920x1080.jpg?t=1574746321,https://cdn.akamai.steamstatic.com/steam/apps/1154800/ss_dd17a8017d0bfa1c056eb1fa9cc78a7e48d14693.1920x1080.jpg?t=1574746321",
+    "Slug": "isla-test",
+    "Meta Title": "ISLA test: Oct 26, 2019, Areta Watanabe and Full Overview",
+    "Meta Description": "Looking for information on ISLA test? Check out the release date (Oct 26, 2019), developer insights from Areta Watanabe, and a complete game summary.",
+    "Alt Text Image": "Official header image for ISLA test game - Steam 1154800",
+    "Canonical URL": "https://gusku.site/game/isla-test",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ISLA test\", \"description\": \"Looking for information on ISLA test? Check out the release date (Oct 26, 2019), developer insights from Areta Watanabe, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 26, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Areta Watanabe\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Areta Watanabe\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1154800/header.jpg?t=1574746321\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

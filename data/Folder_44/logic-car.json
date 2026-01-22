@@ -1,0 +1,21 @@
+{
+    "AppID": 1631160,
+    "Name": "Logic Car",
+    "Release date": "Jul 9, 2021",
+    "About the game": "Logic Car is a coding-based puzzle game in which you program cars to achieve goals. Check the conditions given in each unique stage and take advantage of the various features installed in the vehicle. Sometimes the laws of physics can be the solution. Now is the time to unleash your creativity. 55 stages Each unique 55 stages are implemented, from simple goals to complex stages that will give you a headache. Clearing the multiple of 5 stage unlocks the next 5 stages. Various vehicle functions The functions given to the vehicle in each stage are different. Think about how to solve the problem with nitro, rope, obstacle sensors, and velocity sensors. Node programming Visual programming of connecting nodes with lines allows you to define how your vehicle will behave. Various nodes are supported for programming. Objects and Interactions Understand and use interactive objects such as wooden boxes, winds, moving platforms, traffic lights and buttons. Laws of physics Various physical laws such as gravity, action and reaction, friction, inertia, and the pendulum motion of a rope are implemented in logic cars.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1631160/header.jpg?t=1632540819",
+    "Price": 7.99,
+    "Developers": "Gatolab",
+    "Publishers": "Gatolab",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1631160/ss_8e6a2b9a447c530c3c38860756dc8545e2fc2e95.1920x1080.jpg?t=1632540819,https://cdn.akamai.steamstatic.com/steam/apps/1631160/ss_5970245874f3b2da5820de39c5f7f3adf40c2ed0.1920x1080.jpg?t=1632540819,https://cdn.akamai.steamstatic.com/steam/apps/1631160/ss_fd57c6dcbc3aece4d4a17129a39a1da8fa60fc2e.1920x1080.jpg?t=1632540819,https://cdn.akamai.steamstatic.com/steam/apps/1631160/ss_41d561e9fc87e6b45b012748555b18fc1fb262dd.1920x1080.jpg?t=1632540819,https://cdn.akamai.steamstatic.com/steam/apps/1631160/ss_6faf417aa7ed2ab0adbf9b5a75a7c7260cb0c057.1920x1080.jpg?t=1632540819",
+    "Slug": "logic-car",
+    "Meta Title": "Logic Car: Jul 9, 2021, Gatolab and Full Overview",
+    "Meta Description": "Looking for information on Logic Car? Check out the release date (Jul 9, 2021), developer insights from Gatolab, and a complete game summary.",
+    "Alt Text Image": "Official header image for Logic Car game - Steam 1631160",
+    "Canonical URL": "https://gusku.site/game/logic-car",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Logic Car\", \"description\": \"Looking for information on Logic Car? Check out the release date (Jul 9, 2021), developer insights from Gatolab, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 9, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gatolab\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gatolab\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1631160/header.jpg?t=1632540819\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

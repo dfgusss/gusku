@@ -1,0 +1,21 @@
+{
+    "AppID": 906880,
+    "Name": "goto",
+    "Release date": "Aug 17, 2018",
+    "About the game": "goto is a minimalistic maze game which leads you to finish each level by moving in 4 directions, avoiding obstacles and clearing the path. Every level has its own record amount of moves. For example, you have to complete level 0 by moving only 7 times. If you fail, you get 2 or 1 cube out of 3 (stars rating analogue). But if you beat the record, you'll get a special achievement for each level. Levels' complexity increases every time you pass a level. Can you beat the highest one? There is no plot included. Player can't die by touching obstacles. Main features : — 50 mind testing levels : can you beat all the levels achieving 3 cubes? Let's figure that out! — 100 Steam achievements : you have to achieve 'em all you know. — Retro atmosphere : pixel-art graphics and chiptune soundtrack are here for you! — Xbox controller support : you obviously should try it if you have one! Controls : Arrow keys / WASD (left stick or Dpad) — Movement. Enter (A button) — Select. Esc (Back) — Return to main menu. R (Start) — Restart level. Music by Xenon Odyssey",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/906880/header.jpg?t=1592910804",
+    "Price": 1.99,
+    "Developers": "Alien Jellyfish",
+    "Publishers": "Alien Jellyfish",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/906880/ss_bcda50e0be24e73e6896f2b8a3ad5750eb65523b.1920x1080.jpg?t=1592910804,https://cdn.akamai.steamstatic.com/steam/apps/906880/ss_98869bfc3197acfc50916fa21e90cb07de790514.1920x1080.jpg?t=1592910804,https://cdn.akamai.steamstatic.com/steam/apps/906880/ss_f54baa294cd03d39ee5c496cb96fef78bdd16f3a.1920x1080.jpg?t=1592910804,https://cdn.akamai.steamstatic.com/steam/apps/906880/ss_18d2e35772029084ae3cd2ac0a3144343fb7542b.1920x1080.jpg?t=1592910804,https://cdn.akamai.steamstatic.com/steam/apps/906880/ss_225550bcdc464c2a0dbd6530e57f79265a86fd51.1920x1080.jpg?t=1592910804,https://cdn.akamai.steamstatic.com/steam/apps/906880/ss_50fc00aec1c2acbae0f10fe26bd3c9fbada1e7eb.1920x1080.jpg?t=1592910804,https://cdn.akamai.steamstatic.com/steam/apps/906880/ss_da8163377f3052a1f38d034c8fe104a316b3231a.1920x1080.jpg?t=1592910804,https://cdn.akamai.steamstatic.com/steam/apps/906880/ss_ffa1ba9a81992cdda9043b48ff6d3e36963dc227.1920x1080.jpg?t=1592910804",
+    "Slug": "goto",
+    "Meta Title": "goto: Aug 17, 2018, Alien Jellyfish and Full Overview",
+    "Meta Description": "Looking for information on goto? Check out the release date (Aug 17, 2018), developer insights from Alien Jellyfish, and a complete game summary.",
+    "Alt Text Image": "Official header image for goto game - Steam 906880",
+    "Canonical URL": "https://gusku.site/game/goto",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"goto\", \"description\": \"Looking for information on goto? Check out the release date (Aug 17, 2018), developer insights from Alien Jellyfish, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 17, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Alien Jellyfish\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Alien Jellyfish\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/906880/header.jpg?t=1592910804\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

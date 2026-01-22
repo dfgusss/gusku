@@ -1,0 +1,21 @@
+{
+    "AppID": 448010,
+    "Name": "RePete",
+    "Release date": "Mar 9, 2016",
+    "About the game": "RePete is a pixel art puzzle platformer about time travel and self-cooperation. You play as Pete, a special guy that can loop back in time to help his past self solve problems, collect gems, and reach new heights. RePete features four worlds, each introducing new gameplay elements, with over 60 challenging levels to test your ability to work with yourself.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/448010/header.jpg?t=1572360241",
+    "Price": 1.99,
+    "Developers": "Luke Godfrey",
+    "Publishers": "Luke Godfrey",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/448010/ss_bdfa50bbf7791992e652b211e91cbb4ce9bbe48a.1920x1080.jpg?t=1572360241,https://cdn.akamai.steamstatic.com/steam/apps/448010/ss_90da73ebd4ce609843c44c93535c38f10193209b.1920x1080.jpg?t=1572360241,https://cdn.akamai.steamstatic.com/steam/apps/448010/ss_ef13aa681a67aa579fa3b513f4621d2b5f766abc.1920x1080.jpg?t=1572360241,https://cdn.akamai.steamstatic.com/steam/apps/448010/ss_3bdfbb7f91f0fc7d3ec075d8af914a634dae8d58.1920x1080.jpg?t=1572360241,https://cdn.akamai.steamstatic.com/steam/apps/448010/ss_64a648fb13b7de55b90cb67f000af06ff22c2dc0.1920x1080.jpg?t=1572360241,https://cdn.akamai.steamstatic.com/steam/apps/448010/ss_e871e28630a18255ea852b2bb17f31c9ff326631.1920x1080.jpg?t=1572360241",
+    "Slug": "repete",
+    "Meta Title": "RePete: Mar 9, 2016, Luke Godfrey and Full Overview",
+    "Meta Description": "Looking for information on RePete? Check out the release date (Mar 9, 2016), developer insights from Luke Godfrey, and a complete game summary.",
+    "Alt Text Image": "Official header image for RePete game - Steam 448010",
+    "Canonical URL": "https://gusku.site/game/repete",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RePete\", \"description\": \"Looking for information on RePete? Check out the release date (Mar 9, 2016), developer insights from Luke Godfrey, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 9, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Luke Godfrey\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Luke Godfrey\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/448010/header.jpg?t=1572360241\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

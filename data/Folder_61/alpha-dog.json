@@ -1,0 +1,21 @@
+{
+    "AppID": 1102700,
+    "Name": "Alpha Dog",
+    "Release date": "Aug 30, 2019",
+    "About the game": "As a criminal on death row you can choose... Die quietly or die in the Alpha Dog dungeon! Choosing the dungeon will still bring certain death, but it may also grant you immortality if you can become the Alpha Dog champion by defeating the hordes of Cur over multiple levels using all your wits and the many weapons scattered throughout. FEATURES Alpha dog is an ultra-low-rez arena shooter with procedurally generated levels. You start the game with a simple pistol, but as you continue you can buy or find more weapons and upgrade your health. The game has the following features: Infinite levels of procedurally generated mayhem 19 different weapons, all with their own unique handling and effects Multiple different enemy types, each with their own distinct AI Secret areas with special weapons that just can't be bought Online highscores so you can compete against the world WHY SO SMALL? This game started from a simple premise - what's the smallest resolution that I can make a playable game in? After making some prototypes I realised that 90x45 was viable and set about making something that would be fun to play in such a small amount of pixels... and so Alpha Dog was born! I've always loved arena shooters, and the small play area lent itself nicely to this kind of casual shooter game. I've packed as much as possible into the tiny space available and I hope you enjoy playing it! Remember, it's not the size that counts, but what you do with it... ;)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1102700/header.jpg?t=1567185575",
+    "Price": 1.99,
+    "Developers": "Nocturne Games",
+    "Publishers": "Nocturne Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1102700/ss_8ded5d9b48e53ebfa8ec9e6a5be4a359ce620eff.1920x1080.jpg?t=1567185575,https://cdn.akamai.steamstatic.com/steam/apps/1102700/ss_b596e2883d4a847b08c87cd16bfe18c68c3137ba.1920x1080.jpg?t=1567185575,https://cdn.akamai.steamstatic.com/steam/apps/1102700/ss_1a5690b3927f6b519d136b816b8d583c402758d6.1920x1080.jpg?t=1567185575,https://cdn.akamai.steamstatic.com/steam/apps/1102700/ss_f517e8ddd042d3e69a6e4099b6b0d080238042dd.1920x1080.jpg?t=1567185575,https://cdn.akamai.steamstatic.com/steam/apps/1102700/ss_36b78f29e21fb75fc9abf434d644a0b4d08e660e.1920x1080.jpg?t=1567185575",
+    "Slug": "alpha-dog",
+    "Meta Title": "Alpha Dog: Aug 30, 2019, Nocturne Games and Full Overview",
+    "Meta Description": "Looking for information on Alpha Dog? Check out the release date (Aug 30, 2019), developer insights from Nocturne Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Alpha Dog game - Steam 1102700",
+    "Canonical URL": "https://gusku.site/game/alpha-dog",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Alpha Dog\", \"description\": \"Looking for information on Alpha Dog? Check out the release date (Aug 30, 2019), developer insights from Nocturne Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 30, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nocturne Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nocturne Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1102700/header.jpg?t=1567185575\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

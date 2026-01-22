@@ -1,0 +1,21 @@
+{
+    "AppID": 1650570,
+    "Name": "Red and White",
+    "Release date": "Jun 29, 2021",
+    "About the game": "Red and White combines metroidvania-style exploration with puzzle elements and an abstract art style. Explore a vast world and restore to it the colors it once used to have. Each time a color is restored, the walls that used to be of that color will act differently, and with clever use of them, you'll be able to reach new areas you couldn't previously.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1650570/header.jpg?t=1650989823",
+    "Price": 11.99,
+    "Developers": "Rukashi",
+    "Publishers": "Rukashi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1650570/ss_a886cbca5dae0b9ccd76a232af7e60ccf58a9fc8.1920x1080.jpg?t=1650989823,https://cdn.akamai.steamstatic.com/steam/apps/1650570/ss_bcfbf2122f0a1e0b1b90c62b6381432a35096220.1920x1080.jpg?t=1650989823,https://cdn.akamai.steamstatic.com/steam/apps/1650570/ss_da382987911352ea10ffdc4c86cf53e19087bd77.1920x1080.jpg?t=1650989823,https://cdn.akamai.steamstatic.com/steam/apps/1650570/ss_db5b0488b6bf31d231bfe2d2dc0f1097f84c0535.1920x1080.jpg?t=1650989823,https://cdn.akamai.steamstatic.com/steam/apps/1650570/ss_0abca1a8c9054e22434e5695d62b11afb868b593.1920x1080.jpg?t=1650989823",
+    "Slug": "red-and-white",
+    "Meta Title": "Red and White: Jun 29, 2021, Rukashi and Full Overview",
+    "Meta Description": "Looking for information on Red and White? Check out the release date (Jun 29, 2021), developer insights from Rukashi, and a complete game summary.",
+    "Alt Text Image": "Official header image for Red and White game - Steam 1650570",
+    "Canonical URL": "https://gusku.site/game/red-and-white",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Red and White\", \"description\": \"Looking for information on Red and White? Check out the release date (Jun 29, 2021), developer insights from Rukashi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 29, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rukashi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rukashi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1650570/header.jpg?t=1650989823\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

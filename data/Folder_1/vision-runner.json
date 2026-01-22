@@ -1,0 +1,21 @@
+{
+    "AppID": 429480,
+    "Name": "Vision Runner",
+    "Release date": "Oct 19, 2016",
+    "About the game": "Vision Runner is a First Person Parkour game currently in development with Unreal Engine 4. The concept of Vision Runner is the Build, Share &amp; Play principle. You got the opportunity to make your own maps/parkour’s with the In-Game map editor and then sharing them by uploading it automatically after the press of a button to our servers. Then all players can download and play the map in a race against the clock from the map browser or as we call it “Parkour Central”. The Editor is easy to use, since we’ve made it completely grid-based. Players can simply place Blocks or Objects on the floor or other blocks. Early Access Features In-Game map editor with basic features and map sharing Parkour Central (map browser) Playing maps from us or other players against the time. Basic parkour movement: climbing, sliding, wall running, jump over Planned Features Multiplayer More Game Modes like Trick Running Various Textures for Objects More Content for the Editor More Tricks Various Characters Weather Map Locations Mini-Story Creator* *Low Priority",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/429480/header.jpg?t=1493674541",
+    "Price": 9.99,
+    "Developers": "Snowbit Interactive",
+    "Publishers": "Snowbit Interactive",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/429480/ss_1268561b24f2b7320580da55679bec38e90dc6c2.1920x1080.jpg?t=1493674541,https://cdn.akamai.steamstatic.com/steam/apps/429480/ss_71e5b595705748b2ced3df46f56e34ec982e7aec.1920x1080.jpg?t=1493674541,https://cdn.akamai.steamstatic.com/steam/apps/429480/ss_ff1009f8a0f91dc38464336da14418b128b9608a.1920x1080.jpg?t=1493674541,https://cdn.akamai.steamstatic.com/steam/apps/429480/ss_a40074aac9a80ba8c58000e2332f1d337eddc821.1920x1080.jpg?t=1493674541,https://cdn.akamai.steamstatic.com/steam/apps/429480/ss_968cb895a5220b51554c0d93a6a59522d0cd52df.1920x1080.jpg?t=1493674541",
+    "Slug": "vision-runner",
+    "Meta Title": "Vision Runner: Oct 19, 2016, Snowbit Interactive and Full...",
+    "Meta Description": "Looking for information on Vision Runner? Check out the release date (Oct 19, 2016), developer insights from Snowbit Interactive, and a complete game su...",
+    "Alt Text Image": "Official header image for Vision Runner game - Steam 429480",
+    "Canonical URL": "https://gusku.site/game/vision-runner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Vision Runner\", \"description\": \"Looking for information on Vision Runner? Check out the release date (Oct 19, 2016), developer insights from Snowbit Interactive, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 19, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Snowbit Interactive\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Snowbit Interactive\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/429480/header.jpg?t=1493674541\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

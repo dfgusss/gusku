@@ -1,0 +1,21 @@
+{
+    "AppID": 1474840,
+    "Name": "Among Stars and Robots",
+    "Release date": "Jan 28, 2021",
+    "About the game": "Among Stars and Robots is a puzzle game where you control the robot Cubot with visual programming. Cubot needs to navigate the tricky terrain with its (somewhat limited) processing power. Use the commands at your disposal to design a loop of instructions that will help Cubot find its way to the exit!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1474840/header.jpg?t=1631305192",
+    "Price": 4.99,
+    "Developers": "Haunted Pig",
+    "Publishers": "Blackdrop Interactive",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1474840/ss_8829919f7f1a15c2b4b523997586fc022ae38468.1920x1080.jpg?t=1631305192,https://cdn.akamai.steamstatic.com/steam/apps/1474840/ss_663219651e2e350cc244e2a3f73b690720772202.1920x1080.jpg?t=1631305192,https://cdn.akamai.steamstatic.com/steam/apps/1474840/ss_7166d0bcf32f61f037c4ef0d7d0dcc7710f15155.1920x1080.jpg?t=1631305192,https://cdn.akamai.steamstatic.com/steam/apps/1474840/ss_b88364a77315d14b8ece8724d7d03dc277d9a290.1920x1080.jpg?t=1631305192,https://cdn.akamai.steamstatic.com/steam/apps/1474840/ss_45b15b01f8b14e09678249d3809e53bcc334e184.1920x1080.jpg?t=1631305192,https://cdn.akamai.steamstatic.com/steam/apps/1474840/ss_9000852317e66770c0bc1bde0934bf1ffe097ec2.1920x1080.jpg?t=1631305192",
+    "Slug": "among-stars-and-robots",
+    "Meta Title": "Among Stars and Robots: Jan 28, 2021, Haunted Pig and Ful...",
+    "Meta Description": "Looking for information on Among Stars and Robots? Check out the release date (Jan 28, 2021), developer insights from Haunted Pig, and a complete game s...",
+    "Alt Text Image": "Official header image for Among Stars and Robots game - Steam 1474840",
+    "Canonical URL": "https://gusku.site/game/among-stars-and-robots",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Among Stars and Robots\", \"description\": \"Looking for information on Among Stars and Robots? Check out the release date (Jan 28, 2021), developer insights from Haunted Pig, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 28, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Haunted Pig\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Blackdrop Interactive\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1474840/header.jpg?t=1631305192\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

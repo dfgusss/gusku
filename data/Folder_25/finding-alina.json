@@ -1,0 +1,21 @@
+{
+    "AppID": 1480570,
+    "Name": "Finding Alina",
+    "Release date": "Dec 15, 2020",
+    "About the game": "Point-and-click in first person view built with static images. Click on the screen to change scenes/rooms. Click on items on a scene to put them on your inventory. Click on items on inventory to use them on a scene. Click 'Drop' area to return an item to your inventory. Use keybord and mouse to input passwords. You can not combine items in your inventory or outside.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1480570/header.jpg?t=1609169261",
+    "Price": 0.99,
+    "Developers": "Ricardo",
+    "Publishers": "Ricardo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1480570/ss_854e6354320fc362e46d45cf5a276b84eeadd7ab.1920x1080.jpg?t=1609169261,https://cdn.akamai.steamstatic.com/steam/apps/1480570/ss_fa9ff2ffd2dddefbbfeb1dafbb43d64785c0f1e1.1920x1080.jpg?t=1609169261,https://cdn.akamai.steamstatic.com/steam/apps/1480570/ss_89790043071aafa7e2fc4cc4cedd5478ee4ad5eb.1920x1080.jpg?t=1609169261,https://cdn.akamai.steamstatic.com/steam/apps/1480570/ss_13b39b42937fc73885966b090e7c2a5290dc26c9.1920x1080.jpg?t=1609169261,https://cdn.akamai.steamstatic.com/steam/apps/1480570/ss_ba152296407c04aaa3771cf2f7ec47d0345ed070.1920x1080.jpg?t=1609169261",
+    "Slug": "finding-alina",
+    "Meta Title": "Finding Alina: Dec 15, 2020, Ricardo and Full Overview",
+    "Meta Description": "Looking for information on Finding Alina? Check out the release date (Dec 15, 2020), developer insights from Ricardo, and a complete game summary.",
+    "Alt Text Image": "Official header image for Finding Alina game - Steam 1480570",
+    "Canonical URL": "https://gusku.site/game/finding-alina",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Finding Alina\", \"description\": \"Looking for information on Finding Alina? Check out the release date (Dec 15, 2020), developer insights from Ricardo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 15, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ricardo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ricardo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1480570/header.jpg?t=1609169261\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

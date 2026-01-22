@@ -1,0 +1,21 @@
+{
+    "AppID": 1764030,
+    "Name": "PixGirls",
+    "Release date": "Oct 16, 2021",
+    "About the game": "PixGirls - The objective is quite simple: each level contains numerous uncolored pixels and it is your job to color them in. Each pixel is numbered; this number corresponds with a color in your palette. Select a color from the palette and paint each of its corresponding pixels. Correctly color all pixels in a level to finish it! Features High score table(Leaderboards) Achievements Gallery Relaxing music",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1764030/header.jpg?t=1658667939",
+    "Price": 0.99,
+    "Developers": "sixteen bars",
+    "Publishers": "sixteen bars",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1764030/ss_2e4fc638f39d1acdc1dfd0cf46f3f73849b1cf45.1920x1080.jpg?t=1658667939,https://cdn.akamai.steamstatic.com/steam/apps/1764030/ss_41400750ac7e24970d34f16c704eb9bc887602cd.1920x1080.jpg?t=1658667939,https://cdn.akamai.steamstatic.com/steam/apps/1764030/ss_e9cd37097173802efc798bfceccdd1c5776b9322.1920x1080.jpg?t=1658667939,https://cdn.akamai.steamstatic.com/steam/apps/1764030/ss_7ff99dcce84a53a83ce6b251e6f1cb6f86ef4caf.1920x1080.jpg?t=1658667939,https://cdn.akamai.steamstatic.com/steam/apps/1764030/ss_588acadd010af7894e8bf2002cf49db1abd8c0b1.1920x1080.jpg?t=1658667939",
+    "Slug": "pixgirls",
+    "Meta Title": "PixGirls: Oct 16, 2021, sixteen bars and Full Overview",
+    "Meta Description": "Looking for information on PixGirls? Check out the release date (Oct 16, 2021), developer insights from sixteen bars, and a complete game summary.",
+    "Alt Text Image": "Official header image for PixGirls game - Steam 1764030",
+    "Canonical URL": "https://gusku.site/game/pixgirls",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PixGirls\", \"description\": \"Looking for information on PixGirls? Check out the release date (Oct 16, 2021), developer insights from sixteen bars, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 16, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"sixteen bars\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"sixteen bars\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1764030/header.jpg?t=1658667939\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

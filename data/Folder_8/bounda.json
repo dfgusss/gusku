@@ -1,0 +1,21 @@
+{
+    "AppID": 1968530,
+    "Name": "Bounda",
+    "Release date": "May 3, 2022",
+    "About the game": "A cute 2D physics game. In the game，you will control a red panda or cat to defeat cunning greedy enemies, and protect kind animals and beautiful nature. Interface operations: Click 'Start Game' button to enter the save menu. Select a save or click 'New' button to create a new save. Then click 'Confirm' button to enter the character menu. Click red panda or cat to chose character and enter map. Select a level to play game. Game operations: Move mouse to close to red panda, then press left button of mouse to make a link. Drag mouse to pull red panda. Release left button to throw red panda. When red panda hit targets, it will make damage to them. When red panda hit enemies or trap, it will hurt itself.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1968530/header.jpg?t=1651561573",
+    "Price": 4.99,
+    "Developers": "Pan Bi Zheng",
+    "Publishers": "Pan Bi Zheng",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1968530/ss_329dfa766d3674a782bd3f5bacf9b55b486a1988.1920x1080.jpg?t=1651561573,https://cdn.akamai.steamstatic.com/steam/apps/1968530/ss_4232aa8ef4f1d595b93da3908029ed9695ea7af0.1920x1080.jpg?t=1651561573,https://cdn.akamai.steamstatic.com/steam/apps/1968530/ss_d562b9b595d367d8a1ab8ee9401f2a8042d68be3.1920x1080.jpg?t=1651561573,https://cdn.akamai.steamstatic.com/steam/apps/1968530/ss_77fd6d7633063dd0f88a183d7bb6dfb68e4f3770.1920x1080.jpg?t=1651561573,https://cdn.akamai.steamstatic.com/steam/apps/1968530/ss_be0a1d582638615d3bb1582a26257b4df95b0ecb.1920x1080.jpg?t=1651561573",
+    "Slug": "bounda",
+    "Meta Title": "Bounda: May 3, 2022, Pan Bi Zheng and Full Overview",
+    "Meta Description": "Looking for information on Bounda? Check out the release date (May 3, 2022), developer insights from Pan Bi Zheng, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bounda game - Steam 1968530",
+    "Canonical URL": "https://gusku.site/game/bounda",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bounda\", \"description\": \"Looking for information on Bounda? Check out the release date (May 3, 2022), developer insights from Pan Bi Zheng, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 3, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pan Bi Zheng\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pan Bi Zheng\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1968530/header.jpg?t=1651561573\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

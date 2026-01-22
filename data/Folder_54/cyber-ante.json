@@ -1,0 +1,21 @@
+{
+    "AppID": 1110090,
+    "Name": "Cyber-Ante",
+    "Release date": "Dec 30, 2020",
+    "About the game": "This is a puzzle game where you (the green node) have to go around the screen and hit switches that are color coded to the different hacker lines coming in. The game starts simple enough, but quickly gets really complicated as more mechanics are added every 5 or so levels. Mechanics (powers, hazards, etc.) never go away. When they are introduced, they will stay for the rest of the game. Get ready for one of the most challenging puzzle games you'll ever play!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1110090/header.jpg?t=1609394432",
+    "Price": 0.99,
+    "Developers": "Junction Games",
+    "Publishers": "Junction Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1110090/ss_c870ce5745231288adcbb3043546c6b10afc17da.1920x1080.jpg?t=1609394432,https://cdn.akamai.steamstatic.com/steam/apps/1110090/ss_7062b951b1e48b43df9a06b07237653d79fb434d.1920x1080.jpg?t=1609394432,https://cdn.akamai.steamstatic.com/steam/apps/1110090/ss_38e6abeedb62c8d585fd2b3dfa63c8b726d24889.1920x1080.jpg?t=1609394432,https://cdn.akamai.steamstatic.com/steam/apps/1110090/ss_afca568affee5bd401f2595cbd6c56a87f340b7a.1920x1080.jpg?t=1609394432,https://cdn.akamai.steamstatic.com/steam/apps/1110090/ss_dd14a61388f21f77f89b87f410cbea54a1c87b02.1920x1080.jpg?t=1609394432,https://cdn.akamai.steamstatic.com/steam/apps/1110090/ss_27bb339691cf920b796d4d01c1071490af2170f4.1920x1080.jpg?t=1609394432,https://cdn.akamai.steamstatic.com/steam/apps/1110090/ss_5dafea156dd019e2f2cf0c411a6107b08662be3f.1920x1080.jpg?t=1609394432,https://cdn.akamai.steamstatic.com/steam/apps/1110090/ss_52a7ba2f35aee24e292701491b2e53a5b209276e.1920x1080.jpg?t=1609394432",
+    "Slug": "cyber-ante",
+    "Meta Title": "Cyber-Ante: Dec 30, 2020, Junction Games and Full Overview",
+    "Meta Description": "Looking for information on Cyber-Ante? Check out the release date (Dec 30, 2020), developer insights from Junction Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cyber-Ante game - Steam 1110090",
+    "Canonical URL": "https://gusku.site/game/cyber-ante",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cyber-Ante\", \"description\": \"Looking for information on Cyber-Ante? Check out the release date (Dec 30, 2020), developer insights from Junction Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 30, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Junction Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Junction Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1110090/header.jpg?t=1609394432\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1189120,
+    "Name": "Posibility",
+    "Release date": "Dec 12, 2019",
+    "About the game": "Is this a simple little game? You need to play as a monster, gain the opponent's ability through battle, improve your attributes, remove various obstacles, and finally defeat the leader. It is better to eat without watching the strategy! !! Basic operation: '0000': Start a new game '0001': Continue the game '9999': Exit the game 'W': Move up (available for some characters) 'A': move left 'S': move down (available for some characters) 'D': move right 'J': Attack (automatically used by some characters) 'K': Jump (some characters are unavailable) 'I': View transformation list '1'-'5': turn into a shortcut",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1189120/header.jpg?t=1576546888",
+    "Price": 4.99,
+    "Developers": "UGtobest",
+    "Publishers": "UGtobest",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1189120/ss_896188d9db89b0fc1b812d386d0386b03bbbed3e.1920x1080.jpg?t=1576546888,https://cdn.akamai.steamstatic.com/steam/apps/1189120/ss_2bfa3465e60f4f88f0614fdb008e9038cd5730e6.1920x1080.jpg?t=1576546888,https://cdn.akamai.steamstatic.com/steam/apps/1189120/ss_2f866cb24c6b3b007c1afe495d5236212771c234.1920x1080.jpg?t=1576546888,https://cdn.akamai.steamstatic.com/steam/apps/1189120/ss_a6e0aea0e8bcb32f9f1eaf31b59f3cc53f7bcb1e.1920x1080.jpg?t=1576546888,https://cdn.akamai.steamstatic.com/steam/apps/1189120/ss_460f0607929f3e78cfafc2ccf2b0103178f5f6a0.1920x1080.jpg?t=1576546888",
+    "Slug": "posibility",
+    "Meta Title": "Posibility: Dec 12, 2019, UGtobest and Full Overview",
+    "Meta Description": "Looking for information on Posibility? Check out the release date (Dec 12, 2019), developer insights from UGtobest, and a complete game summary.",
+    "Alt Text Image": "Official header image for Posibility game - Steam 1189120",
+    "Canonical URL": "https://gusku.site/game/posibility",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Posibility\", \"description\": \"Looking for information on Posibility? Check out the release date (Dec 12, 2019), developer insights from UGtobest, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 12, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"UGtobest\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"UGtobest\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1189120/header.jpg?t=1576546888\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

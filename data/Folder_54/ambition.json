@@ -1,0 +1,21 @@
+{
+    "AppID": 1845180,
+    "Name": "Ambition",
+    "Release date": "Jan 3, 2022",
+    "About the game": "因个人技术原因，所以只能推出'精简版'，本游戏没有练级系统，收集系统，主角开局便能使用所有技能，主角的实力与玩家挂钩，难度中下水准，并不会很受苦，大部分素材均来自Unity商城，如有雷同纯属巧合(都是购入过的素材)， 游戏并没有随时保存的系统 ，所以请务必不要随意退出，否则可能会导致的Boss明明打过了却又要再受苦一次的情况。游戏共有四大区域，每个区域都有各个区域的传送点。本游戏共有五个Boss，击败Boss后可在出生点位置重新挑战该Boss。玩家能够使用三种不同的剑技，可以使用剑技弹开敌人攻击，或击毁敌人飞行道具。玩家可以选择格挡或是使用滑铲躲避敌人攻击，但都需要消耗精力。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1845180/header.jpg?t=1641234151",
+    "Price": 0.99,
+    "Developers": "ChenZhiyu",
+    "Publishers": "ChenZhiyu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1845180/ss_fd6c99cd99959ec19c9a44823af319d2972ec3dd.1920x1080.jpg?t=1641234151,https://cdn.akamai.steamstatic.com/steam/apps/1845180/ss_d796a3acc9380189af682501c0f6c12d8d8875d9.1920x1080.jpg?t=1641234151,https://cdn.akamai.steamstatic.com/steam/apps/1845180/ss_015445bee9762e27aeb684f917969fe9d89afb8e.1920x1080.jpg?t=1641234151,https://cdn.akamai.steamstatic.com/steam/apps/1845180/ss_c6c1cfd3a97a8806e8dcbbbbe252bf9634925169.1920x1080.jpg?t=1641234151,https://cdn.akamai.steamstatic.com/steam/apps/1845180/ss_3ba1cb6ec315782d365b799dd83783cbb2ab3d82.1920x1080.jpg?t=1641234151,https://cdn.akamai.steamstatic.com/steam/apps/1845180/ss_c245ef780d5b365b1c34816d0c65af1cb063a54d.1920x1080.jpg?t=1641234151",
+    "Slug": "ambition",
+    "Meta Title": "Ambition: Jan 3, 2022, ChenZhiyu and Full Overview",
+    "Meta Description": "Looking for information on Ambition? Check out the release date (Jan 3, 2022), developer insights from ChenZhiyu, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ambition game - Steam 1845180",
+    "Canonical URL": "https://gusku.site/game/ambition",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ambition\", \"description\": \"Looking for information on Ambition? Check out the release date (Jan 3, 2022), developer insights from ChenZhiyu, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 3, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"ChenZhiyu\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ChenZhiyu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1845180/header.jpg?t=1641234151\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

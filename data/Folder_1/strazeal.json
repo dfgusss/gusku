@@ -1,0 +1,21 @@
+{
+    "AppID": 1126970,
+    "Name": "Strazeal",
+    "Release date": "Aug 26, 2019",
+    "About the game": "A digital strategy board game for 2 - 4 players with online play. Capture your opponent's bases while protecting all of your own using land, water and special weapons. Invite your friends and prepare your strategy to invade territories. Watch from your towers or sail with your boats to cross the seas. Find your way in the world of Strazeal! Features - Special weapons (undergrounds, traps, towers, chimneys and more) - Defence upgrades (walls and floor upgrades) - Water transport (boats and ships) - Multiplayer (local and online) - Advanced AI (Easy, Medium and Hard) - Multiple maps with customization - Graphic with game statistics This game has been developed as a solo project in 2017 - 2019 using my own network, audio and graphics engines in C++. It is currently available in Beta. Thank you for playing and have fun!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1126970/header.jpg?t=1646351465",
+    "Price": 1.99,
+    "Developers": "Tradosoft,Michiel Pater",
+    "Publishers": "Tradosoft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1126970/ss_e7ff0983c5047dd18f99b630ddea6656b8e6ef83.1920x1080.jpg?t=1646351465,https://cdn.akamai.steamstatic.com/steam/apps/1126970/ss_517fd87271e90f5f142428f39d5f8375ae7e80fe.1920x1080.jpg?t=1646351465,https://cdn.akamai.steamstatic.com/steam/apps/1126970/ss_d27393d4f2170c2cf66456fe1392b0102bf2d2e3.1920x1080.jpg?t=1646351465,https://cdn.akamai.steamstatic.com/steam/apps/1126970/ss_a121c5809e853fa153e1032c5a8cacb4fc173df8.1920x1080.jpg?t=1646351465",
+    "Slug": "strazeal",
+    "Meta Title": "Strazeal: Aug 26, 2019, Tradosoft,Michiel Pater and Full ...",
+    "Meta Description": "Looking for information on Strazeal? Check out the release date (Aug 26, 2019), developer insights from Tradosoft,Michiel Pater, and a complete game sum...",
+    "Alt Text Image": "Official header image for Strazeal game - Steam 1126970",
+    "Canonical URL": "https://gusku.site/game/strazeal",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Strazeal\", \"description\": \"Looking for information on Strazeal? Check out the release date (Aug 26, 2019), developer insights from Tradosoft,Michiel Pater, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 26, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tradosoft,Michiel Pater\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tradosoft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1126970/header.jpg?t=1646351465\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

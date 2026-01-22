@@ -1,0 +1,21 @@
+{
+    "AppID": 517190,
+    "Name": "Rebound",
+    "Release date": "Nov 23, 2016",
+    "About the game": "Rebound is a physics based reflex arcade game where the player must keep a ball within bounds of the screen, while aiming for the most points and longest time survived possible in a single round. Sounds simple, right? Maybe so, but along the way you’ll have plenty of obstacles, such as killer robots, but you’ll also have assistance in the form of powerups. As the player, you’re responsible for using your force gun to bounce the ball away from the screen boundaries, into powerups, and against pesky enemies! In the game, you'll be able to best yourself by reaching new high scores, reaching your longest time survived, or even through mastering enemy wave challenges! Just don't drop the balls. Rebound is all about one simple task: don't drop the ball. You must use your force gun to properly guide your ball with the power of physics! However, as the timer ticks, things get dangerous. Random enemy spawning events occur, and these guys will stop at nothing to block you from performing your task. Why don't we investigate some of these guys? Now you might be thinking, 'I never thought I'd be using balls to smash killer robots and stop the singularity,' and you'd be wrong. Because you'll be doing that in Rebound. In the game, you can guide your ball as a weapon and smash enemy robots that fire lasers, and sometimes blow themselves up just to cause you harm! Some of these guys are bigger and stronger than others, so you have to be ready to fight challenging bosses as well. But be careful, as hitting these guys from the wrong angle might knock you out of bounds and fulfill their goal! Cloning. Rapid fire. Hyperspeed. Weapons. The powerups in Rebound can do it all! Don't let these enemies get you down, because at the end of day, you'll still get some help. Like events, powerup spawns will occur based on the tick of the clock. Patience is a virtue - plus it will get you another rockin' ball.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/517190/header.jpg?t=1543763940",
+    "Price": 1.99,
+    "Developers": "Omnirift",
+    "Publishers": "Omnirift",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/517190/ss_807b22a4f15619d8e728d0be7db53f8feb13c120.1920x1080.jpg?t=1543763940,https://cdn.akamai.steamstatic.com/steam/apps/517190/ss_a7bccc915aec37a303867b3c66f7d8b2ce049e64.1920x1080.jpg?t=1543763940,https://cdn.akamai.steamstatic.com/steam/apps/517190/ss_bcd52d7a606c47304227e7ace914f1b630708b6f.1920x1080.jpg?t=1543763940,https://cdn.akamai.steamstatic.com/steam/apps/517190/ss_c9c643bcaf2cae8872ca392a124d54cff50e2193.1920x1080.jpg?t=1543763940,https://cdn.akamai.steamstatic.com/steam/apps/517190/ss_5ccb693bb600fe26643a9471fb85c6e741ab9bae.1920x1080.jpg?t=1543763940",
+    "Slug": "rebound",
+    "Meta Title": "Rebound: Nov 23, 2016, Omnirift and Full Overview",
+    "Meta Description": "Looking for information on Rebound? Check out the release date (Nov 23, 2016), developer insights from Omnirift, and a complete game summary.",
+    "Alt Text Image": "Official header image for Rebound game - Steam 517190",
+    "Canonical URL": "https://gusku.site/game/rebound",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Rebound\", \"description\": \"Looking for information on Rebound? Check out the release date (Nov 23, 2016), developer insights from Omnirift, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 23, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Omnirift\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Omnirift\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/517190/header.jpg?t=1543763940\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

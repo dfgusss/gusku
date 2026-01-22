@@ -1,0 +1,21 @@
+{
+    "AppID": 1700380,
+    "Name": "Twin Balls",
+    "Release date": "Aug 2, 2021",
+    "About the game": "You control two balls that rotate on their axis and fly down through various obstacles. You need to slow down their fall by clicking the mouse so that they successfully pass through obstacles. For successfully passing an obstacle, you get points. On your way through the obstacles, you can collect coins and save up for new skins for balls.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1700380/header.jpg?t=1627894882",
+    "Price": 0.99,
+    "Developers": "beans rolls",
+    "Publishers": "beans rolls",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1700380/ss_9e353f52d1f15c73e9d115f189c9ba37565eaae9.1920x1080.jpg?t=1627894882,https://cdn.akamai.steamstatic.com/steam/apps/1700380/ss_345978f5aebcc86363017ac128e226ace06c80ed.1920x1080.jpg?t=1627894882,https://cdn.akamai.steamstatic.com/steam/apps/1700380/ss_eae9e098179b4e7b5045bff2046be857259e2339.1920x1080.jpg?t=1627894882,https://cdn.akamai.steamstatic.com/steam/apps/1700380/ss_6c2f0a7ef10a8750e8dccad4ec643a8aa1cdf328.1920x1080.jpg?t=1627894882,https://cdn.akamai.steamstatic.com/steam/apps/1700380/ss_5df8bdb565c97dc4eef7a8b762be4250180bc19b.1920x1080.jpg?t=1627894882",
+    "Slug": "twin-balls",
+    "Meta Title": "Twin Balls: Aug 2, 2021, beans rolls and Full Overview",
+    "Meta Description": "Looking for information on Twin Balls? Check out the release date (Aug 2, 2021), developer insights from beans rolls, and a complete game summary.",
+    "Alt Text Image": "Official header image for Twin Balls game - Steam 1700380",
+    "Canonical URL": "https://gusku.site/game/twin-balls",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Twin Balls\", \"description\": \"Looking for information on Twin Balls? Check out the release date (Aug 2, 2021), developer insights from beans rolls, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 2, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1700380/header.jpg?t=1627894882\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

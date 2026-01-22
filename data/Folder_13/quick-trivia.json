@@ -1,0 +1,21 @@
+{
+    "AppID": 1247250,
+    "Name": "Quick Trivia",
+    "Release date": "Mar 17, 2020",
+    "About the game": "Quick Trivia is where you guess words from hints. The game tests your experience in gaming (and more broadly, gaming community), while allowing you to join others and build your answers together. Gameplay Once you join or create a match you will spawn as a character with a random question appearing on the display. Control your character and type each letter in squares on the ground (case/space insensitive) from left to right (you can start from the middle). If you don't know the answer at all, ask the internet. Once you finished, step onto the count icon to check if the answer is correct - if it is, the next question will be randomly picked. Answer all the questions and you will beat the game. Contents The questions vary and are of the following types: - Recollection of game's events, places - facts; - Quotes of characters you ought to recognise; - Correct a sentense so the statement is true; - Guess a game by it's features; - Retranslate — guess what a translation meant in origin; - And others. Although what's more exciting in my opinion is being forced to go back in your mind so that while searching for your answers you also get to reflect on how it has been in reality.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1247250/header.jpg?t=1584470629",
+    "Price": 0.99,
+    "Developers": "Cyril",
+    "Publishers": "Cyril",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1247250/ss_ca1b34167a6b186041539e089b058ee1a0d994b3.1920x1080.jpg?t=1584470629,https://cdn.akamai.steamstatic.com/steam/apps/1247250/ss_2e3a36acf75bd98751ee9297750c44066505b13b.1920x1080.jpg?t=1584470629,https://cdn.akamai.steamstatic.com/steam/apps/1247250/ss_30dc00e4e85ce686f4f8921d67d4b4b0b3353b65.1920x1080.jpg?t=1584470629,https://cdn.akamai.steamstatic.com/steam/apps/1247250/ss_485367523c5bf129832cc72df325eced77260358.1920x1080.jpg?t=1584470629,https://cdn.akamai.steamstatic.com/steam/apps/1247250/ss_24ef472ca1e9a0d18c329c4bbef40b53e27b7269.1920x1080.jpg?t=1584470629",
+    "Slug": "quick-trivia",
+    "Meta Title": "Quick Trivia: Mar 17, 2020, Cyril and Full Overview",
+    "Meta Description": "Looking for information on Quick Trivia? Check out the release date (Mar 17, 2020), developer insights from Cyril, and a complete game summary.",
+    "Alt Text Image": "Official header image for Quick Trivia game - Steam 1247250",
+    "Canonical URL": "https://gusku.site/game/quick-trivia",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Quick Trivia\", \"description\": \"Looking for information on Quick Trivia? Check out the release date (Mar 17, 2020), developer insights from Cyril, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 17, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cyril\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cyril\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1247250/header.jpg?t=1584470629\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

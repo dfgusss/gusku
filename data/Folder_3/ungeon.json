@@ -1,0 +1,21 @@
+{
+    "AppID": 1303270,
+    "Name": "Ungeon",
+    "Release date": "Oct 30, 2020",
+    "About the game": "Your father is missing, and the only trace left behind is a mysterious watch seemingly randomly placed in your home. Follow the lead, and discover the ancient curse bound to your family by blood. Ungeon is a randomly generated dungeon crawler with rogue-lite and Hack&amp;Slash elements. Fight your way through the dungeon in search of the exit. Running out of time or getting killed has dire consequences. Use items, weapons and armor found in the dungeon to elevate your chances, or bring them back to the temple to build an arsenal for your final run. The game is estimated to last between an hour or two, with a quick introduction to the main gameplay, and an ending if the exit is found Known bugs: -Setting music volume to 0 will result in no music at all until the game is restarted with volume set to over 0. -If you click outside a button in any of the menus, the gamepad will not work for navigating the menu until you click a button with your mouse. It is looked into, and will be updated as soon as a fix is found.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1303270/header.jpg?t=1604073066",
+    "Price": 3.99,
+    "Developers": "Jonas Dall",
+    "Publishers": "Jonas Dall",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1303270/ss_6ae99d215c932b78bd7a2086ec3a70520938fbf6.1920x1080.jpg?t=1604073066,https://cdn.akamai.steamstatic.com/steam/apps/1303270/ss_713dea29184269479a168ebb649a9b0efa389423.1920x1080.jpg?t=1604073066,https://cdn.akamai.steamstatic.com/steam/apps/1303270/ss_28d96ee562e60e0796a6358bd709f567b703fb55.1920x1080.jpg?t=1604073066,https://cdn.akamai.steamstatic.com/steam/apps/1303270/ss_257e464f102a3e732172680748751245e26fd7a8.1920x1080.jpg?t=1604073066,https://cdn.akamai.steamstatic.com/steam/apps/1303270/ss_d7d4916595dd0e21943afede6565e4887efef9df.1920x1080.jpg?t=1604073066",
+    "Slug": "ungeon",
+    "Meta Title": "Ungeon: Oct 30, 2020, Jonas Dall and Full Overview",
+    "Meta Description": "Looking for information on Ungeon? Check out the release date (Oct 30, 2020), developer insights from Jonas Dall, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ungeon game - Steam 1303270",
+    "Canonical URL": "https://gusku.site/game/ungeon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ungeon\", \"description\": \"Looking for information on Ungeon? Check out the release date (Oct 30, 2020), developer insights from Jonas Dall, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 30, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jonas Dall\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jonas Dall\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1303270/header.jpg?t=1604073066\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

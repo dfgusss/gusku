@@ -1,0 +1,21 @@
+{
+    "AppID": 530820,
+    "Name": "Subject A-119",
+    "Release date": "Jun 9, 2017",
+    "About the game": "Description Subject A-119 is a puzzle/adventure game about Subject A-119(the player), you are the first successful experiment in a series of clones. You wake up unintentionally and you don't know who, what or where you are. Your goal find out what you are, you do this by wandering around the facility and solving numerous puzzles. Spells/Abilities Energy Ball To make for example a hole in a wall, move physics objects and hit a button Tele Energy Ball If this hits a physics objects it gets moved to the player, can also be used to destroy stuff and hit buttons. Energy Beam Can’t shoot up or down, destroys stuff but can also be used to hit buttons. Time Travel Shield This effect lasts for 10 seconds, you get teleported to the past and if you put a physics object in the shield you can bring it with you to the future. Telekinesis For picking up and throwing physics objects. Turn back time Move objects back in time, for example, you put a cube on button A, then move the cube to button B, cast this spell, the object will move from button B to button A at the same path as you took it.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/530820/header.jpg?t=1547585614",
+    "Price": 0.0,
+    "Developers": "Heekdevelopment",
+    "Publishers": "Heekdevelopment",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/530820/ss_2a93978bcb165b28de72aa848318be45587f0b78.1920x1080.jpg?t=1547585614,https://cdn.akamai.steamstatic.com/steam/apps/530820/ss_24e2e1c86302ba2197b47dcf445109d699f9e259.1920x1080.jpg?t=1547585614,https://cdn.akamai.steamstatic.com/steam/apps/530820/ss_a2548cd2c5a032c3f51870523b604793481aeb1d.1920x1080.jpg?t=1547585614,https://cdn.akamai.steamstatic.com/steam/apps/530820/ss_3283d12a41e31df5dbff1b3e5f043d1a60111d5d.1920x1080.jpg?t=1547585614,https://cdn.akamai.steamstatic.com/steam/apps/530820/ss_0df6b7184fb2f6dc48c497d300e7dbaec77e9578.1920x1080.jpg?t=1547585614,https://cdn.akamai.steamstatic.com/steam/apps/530820/ss_a68410946c7c0f2c36a7a92970d8ac466ab0eb0a.1920x1080.jpg?t=1547585614,https://cdn.akamai.steamstatic.com/steam/apps/530820/ss_31e52fb402151f31f1f664bc5c5765696ae5a01a.1920x1080.jpg?t=1547585614,https://cdn.akamai.steamstatic.com/steam/apps/530820/ss_2e4edcf5962f60c0ee93ea3796ccefa917c56e0d.1920x1080.jpg?t=1547585614",
+    "Slug": "subject-a-119",
+    "Meta Title": "Subject A-119: Jun 9, 2017, Heekdevelopment and Full Over...",
+    "Meta Description": "Looking for information on Subject A-119? Check out the release date (Jun 9, 2017), developer insights from Heekdevelopment, and a complete game summary.",
+    "Alt Text Image": "Official header image for Subject A-119 game - Steam 530820",
+    "Canonical URL": "https://gusku.site/game/subject-a-119",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Subject A-119\", \"description\": \"Looking for information on Subject A-119? Check out the release date (Jun 9, 2017), developer insights from Heekdevelopment, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 9, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Heekdevelopment\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Heekdevelopment\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/530820/header.jpg?t=1547585614\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

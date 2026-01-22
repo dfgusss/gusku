@@ -1,0 +1,21 @@
+{
+    "AppID": 491380,
+    "Name": "SteamVR Driver for Razer™ Hydra",
+    "Release date": "Jul 28, 2016",
+    "About the game": "This driver adds support for the Razer Hydra motion controller in SteamVR. IMPORTANT! Before installation, make sure to uninstall 'OpenVR Driver for Razer Hydra' from your programs list in Windows! Not doing so can lead to unexpected behaviour. Compatibility To emulate a touch gesture on the Vive's trackpad (e.g. swiping), press and hold BUTTON3 to start 'touching the trackpad', and then use the joystick to make the gesture. UE4 games need to be run in compatibility mode. Check this thread for instructions: /",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/491380/header.jpg?t=1469807458",
+    "Price": 0.0,
+    "Developers": "Andras Beck",
+    "Publishers": "betaVR",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/491380/ss_91e0d4f333ae4448d5e87c95bf9b0fbd3dfd2e8c.1920x1080.jpg?t=1469807458,https://cdn.akamai.steamstatic.com/steam/apps/491380/ss_5e58415b14760f3e69f46836ae1e8e3913eb9d9f.1920x1080.jpg?t=1469807458,https://cdn.akamai.steamstatic.com/steam/apps/491380/ss_1fc77e21fef6c8f6d5e46169271bbe702e0e2900.1920x1080.jpg?t=1469807458",
+    "Slug": "steamvr-driver-for-razer-hydra",
+    "Meta Title": "SteamVR Driver for Razer™ Hydra: Jul 28, 2016, Andras Bec...",
+    "Meta Description": "Looking for information on SteamVR Driver for Razer™ Hydra? Check out the release date (Jul 28, 2016), developer insights from Andras Beck, and a comple...",
+    "Alt Text Image": "Official header image for SteamVR Driver for Razer™ Hydra game - Steam 491380",
+    "Canonical URL": "https://gusku.site/game/steamvr-driver-for-razer-hydra",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SteamVR Driver for Razer\\u2122 Hydra\", \"description\": \"Looking for information on SteamVR Driver for Razer\\u2122 Hydra? Check out the release date (Jul 28, 2016), developer insights from Andras Beck, and a comple...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 28, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Andras Beck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"betaVR\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/491380/header.jpg?t=1469807458\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

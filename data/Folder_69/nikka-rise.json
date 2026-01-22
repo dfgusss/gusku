@@ -1,0 +1,21 @@
+{
+    "AppID": 2230300,
+    "Name": "NIKKA : RISE",
+    "Release date": "Jan 6, 2023",
+    "About the game": "This is a casual game with connection elimination. It is different from the previous simple elimination games, but more tests your spatial imagination. Please don't complain about the difficulty. The exquisite CG collected after successfully passing the level will satisfy you... Play: Hold down the left mouse button to connect the same and adjacent patterns with lines and eliminate them. Players in each level can choose a pattern from the bottom as their first starting position, and reach the top level by eliminating, that is, completing the level task. The position of the last pattern in each connection is the new position reached by the player, but if the pattern below the new position reached is also eliminated, the new position will fall down accordingly. At least 2 identical patterns must be removed from the first departure, and only 1 pattern can be removed from the second departure. If the life value is exhausted and still does not reach the top level, you will fail to pass. Eliminating the pattern can obtain a basic score reward. In the level, the basic score of the reward can be used to purchase HP. After passing the level, the unused basic score can be converted into the final score, and the player can use the final score to unlock the CG.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2230300/header.jpg?t=1672996464",
+    "Price": 1.39,
+    "Developers": "NIKKA  Works",
+    "Publishers": "NIKKA  Works",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2230300/ss_cae8682a40b48423d6c0299f1f40fcc5702a5d82.1920x1080.jpg?t=1672996464,https://cdn.akamai.steamstatic.com/steam/apps/2230300/ss_16f5574986a82a8c155bce856136828570df2f9c.1920x1080.jpg?t=1672996464,https://cdn.akamai.steamstatic.com/steam/apps/2230300/ss_b6afcd7cf8b809ae41de821121b49a9ee820307b.1920x1080.jpg?t=1672996464,https://cdn.akamai.steamstatic.com/steam/apps/2230300/ss_89f14bbab7d4def826ed81afde9753a627e4191e.1920x1080.jpg?t=1672996464,https://cdn.akamai.steamstatic.com/steam/apps/2230300/ss_4eb87ada05eaab6893ead9d2c4651c790ee7373a.1920x1080.jpg?t=1672996464,https://cdn.akamai.steamstatic.com/steam/apps/2230300/ss_b228d93eedb324fec3ca4a3ab1233eb77291c5cf.1920x1080.jpg?t=1672996464,https://cdn.akamai.steamstatic.com/steam/apps/2230300/ss_7d64feb347a1868033743df2345140c0c6ce0fd0.1920x1080.jpg?t=1672996464,https://cdn.akamai.steamstatic.com/steam/apps/2230300/ss_bdfd0a7c6c2caf43c0b7bb0eee88cadcafd3f46e.1920x1080.jpg?t=1672996464,https://cdn.akamai.steamstatic.com/steam/apps/2230300/ss_f90afc05d205466a261b201ffc79ef19620fa246.1920x1080.jpg?t=1672996464",
+    "Slug": "nikka-rise",
+    "Meta Title": "NIKKA : RISE: Jan 6, 2023, NIKKA  Works and Full Overview",
+    "Meta Description": "Looking for information on NIKKA : RISE? Check out the release date (Jan 6, 2023), developer insights from NIKKA  Works, and a complete game summary.",
+    "Alt Text Image": "Official header image for NIKKA : RISE game - Steam 2230300",
+    "Canonical URL": "https://gusku.site/game/nikka-rise",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"NIKKA : RISE\", \"description\": \"Looking for information on NIKKA : RISE? Check out the release date (Jan 6, 2023), developer insights from NIKKA  Works, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 6, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"NIKKA  Works\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"NIKKA  Works\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2230300/header.jpg?t=1672996464\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

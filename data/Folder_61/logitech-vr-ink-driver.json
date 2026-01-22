@@ -1,0 +1,21 @@
+{
+    "AppID": 1068300,
+    "Name": "Logitech VR Ink Driver",
+    "Release date": "Jan 27, 2020",
+    "About the game": "This driver enables customization of certain features of your VR Ink, such as changing parameters for the analog inputs (tip and primary), changing the activation threshold of the grip buttons and reviewing the status of the stylus. Ultimately it will allow you to tailor the behaviour of VR Ink to your specific needs. The main UI allows you control over: Pressure response for the Analog Tip (Drawing on a surface) Pressure response for the Primary Button (Drawing in Air) Adjusting the threshold for the Grip Buttons (Grip action) Settings for the Touchstrip The UI is accessible from the Desktop (Windows system tray). Your device specific settings are stored on your PC. The VR Ink Driver creates a “virtual device” (identified with a different icon in the SteamVR status window). This is essentially a software duplicate of a physical device, via which the driver applies specific smart processing on the raw inputs of the device such as pressure curves, touchstrip rejection handling, etc.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1068300/header.jpg?t=1592322822",
+    "Price": 0.0,
+    "Developers": "Logitech Inc.",
+    "Publishers": "Logitech Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1068300/ss_064302921d1a84b12a858e992b20d66f9862de40.1920x1080.jpg?t=1592322822,https://cdn.akamai.steamstatic.com/steam/apps/1068300/ss_1e47147863ab7e390f8c9cb3683589f72ac724ed.1920x1080.jpg?t=1592322822,https://cdn.akamai.steamstatic.com/steam/apps/1068300/ss_724ea453f0ac8bf752d03ab57b2565a9aa985a93.1920x1080.jpg?t=1592322822,https://cdn.akamai.steamstatic.com/steam/apps/1068300/ss_7f92d3b7f9ceb7f9f6d1f3ec297bd1d1842ac0e2.1920x1080.jpg?t=1592322822,https://cdn.akamai.steamstatic.com/steam/apps/1068300/ss_7ba569f22973284d5dc0972559efbb7353d8a179.1920x1080.jpg?t=1592322822",
+    "Slug": "logitech-vr-ink-driver",
+    "Meta Title": "Logitech VR Ink Driver: Jan 27, 2020, Logitech Inc. and F...",
+    "Meta Description": "Looking for information on Logitech VR Ink Driver? Check out the release date (Jan 27, 2020), developer insights from Logitech Inc., and a complete game...",
+    "Alt Text Image": "Official header image for Logitech VR Ink Driver game - Steam 1068300",
+    "Canonical URL": "https://gusku.site/game/logitech-vr-ink-driver",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Logitech VR Ink Driver\", \"description\": \"Looking for information on Logitech VR Ink Driver? Check out the release date (Jan 27, 2020), developer insights from Logitech Inc., and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 27, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Logitech Inc.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Logitech Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1068300/header.jpg?t=1592322822\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

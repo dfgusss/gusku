@@ -1,0 +1,21 @@
+{
+    "AppID": 1173510,
+    "Name": "XSOverlay",
+    "Release date": "Mar 3, 2020",
+    "About the game": "XSOverlay is a Desktop Overlay application for OpenVR. This means that you can access your desktop, or specific applications, and interact with them however you'd like to.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1173510/header.jpg?t=1638418853",
+    "Price": 9.99,
+    "Developers": "Xiexe",
+    "Publishers": "Xiexe",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1173510/ss_5d58ecf73a1893de81df1d8a9288559bd561eb86.1920x1080.jpg?t=1638418853,https://cdn.akamai.steamstatic.com/steam/apps/1173510/ss_ff4f7af313863c41442fab16dd9317e6aa61f9bb.1920x1080.jpg?t=1638418853,https://cdn.akamai.steamstatic.com/steam/apps/1173510/ss_fc2b3ee5ca490cee459e9fb42ca6da5edadaeb9a.1920x1080.jpg?t=1638418853,https://cdn.akamai.steamstatic.com/steam/apps/1173510/ss_3c227dd66306ce4ff194113ecd80faea8951edb9.1920x1080.jpg?t=1638418853,https://cdn.akamai.steamstatic.com/steam/apps/1173510/ss_a99842aad6fd4c5bc89453e52b8003511ed162b3.1920x1080.jpg?t=1638418853",
+    "Slug": "xsoverlay",
+    "Meta Title": "XSOverlay: Mar 3, 2020, Xiexe and Full Overview",
+    "Meta Description": "Looking for information on XSOverlay? Check out the release date (Mar 3, 2020), developer insights from Xiexe, and a complete game summary.",
+    "Alt Text Image": "Official header image for XSOverlay game - Steam 1173510",
+    "Canonical URL": "https://gusku.site/game/xsoverlay",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"XSOverlay\", \"description\": \"Looking for information on XSOverlay? Check out the release date (Mar 3, 2020), developer insights from Xiexe, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 3, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Xiexe\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Xiexe\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1173510/header.jpg?t=1638418853\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1361950,
+    "Name": "Input Out",
+    "Release date": "Oct 19, 2020",
+    "About the game": "Input Out is a Puzzle game where the player commands a circle to the goal by Inputting movement commands. After Inputting movement directions the circle takes off and follows the players Inputs over and over again until the goal is reached or an obstacle is hit. During the course of the game the player encounters multiple obstacles and many different Input solutions. Some of these obstacles include: - Turrets - Portals - Locked Pathways - And More! With 100 levels currently there's only one question remaining. Can you Input your way Out?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1361950/header.jpg?t=1603120348",
+    "Price": 2.99,
+    "Developers": "Miles Lepine",
+    "Publishers": "Miles Lepine",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1361950/ss_2525ddc850f20cb354aeb8042fe5b3d49868c6b8.1920x1080.jpg?t=1603120348,https://cdn.akamai.steamstatic.com/steam/apps/1361950/ss_05ef64debe364aad05c71d0fd82cbe2881987730.1920x1080.jpg?t=1603120348,https://cdn.akamai.steamstatic.com/steam/apps/1361950/ss_40ea02a3058ba5db6b0267b9b34f775970d7e16f.1920x1080.jpg?t=1603120348,https://cdn.akamai.steamstatic.com/steam/apps/1361950/ss_812da7ac6f9045a1e6a20d2f73ebd35302695f05.1920x1080.jpg?t=1603120348,https://cdn.akamai.steamstatic.com/steam/apps/1361950/ss_c6e6e5be7c69ecf95cbbf6dc2f90c4bd935eceb9.1920x1080.jpg?t=1603120348,https://cdn.akamai.steamstatic.com/steam/apps/1361950/ss_36b6d8761dc2afe37501c6d25f173444fb9c605d.1920x1080.jpg?t=1603120348",
+    "Slug": "input-out",
+    "Meta Title": "Input Out: Oct 19, 2020, Miles Lepine and Full Overview",
+    "Meta Description": "Looking for information on Input Out? Check out the release date (Oct 19, 2020), developer insights from Miles Lepine, and a complete game summary.",
+    "Alt Text Image": "Official header image for Input Out game - Steam 1361950",
+    "Canonical URL": "https://gusku.site/game/input-out",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Input Out\", \"description\": \"Looking for information on Input Out? Check out the release date (Oct 19, 2020), developer insights from Miles Lepine, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 19, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Miles Lepine\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Miles Lepine\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1361950/header.jpg?t=1603120348\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 861270,
+    "Name": "Sudoku Killer / 杀手数独",
+    "Release date": "Oct 19, 2018",
+    "About the game": "Sudoku (数独 sūdoku, digit-single) - is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called 'boxes', 'blocks', or 'regions') contains all of the digits from 1 to 9. Killer Sudoku puzzles include all the rules of regular Sudoku but add in dashed-line 'cages' which must sum to given values. Killer Sudoku is also sometimes known as Sumdoku, Mathdoku or Addoku. The name 'Killer' Sudoku arises because of the wicked twist on the standard Sudoku puzzle, since you must not only place each of the numbers 1 to 9 (or 1 to the size of the puzzle) into each of the rows, columns and bold-lined 3x3 (or other size) boxes but you must also place the numbers into each dashed-line cage so that they add up to its given total - and without repeating a digit in a dashed-line cage. © 100 killer Sudoku Killer puzzles Level's progress save Beautiful minimalist design, multiple color themes 10 ambient relaxing soundtracks Steam Achievements Trading Cards, Badge, Emoticons and Backgrounds (Coming soon) Cross-platform Steam Cloud saves As always - Windows, Mac and Linux support",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/861270/header.jpg?t=1646329081",
+    "Price": 1.99,
+    "Developers": "Konstructors",
+    "Publishers": "Hook Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/861270/ss_8c6dde91663e7524c2db4b7a24b9c38cb11aa033.1920x1080.jpg?t=1646329081,https://cdn.akamai.steamstatic.com/steam/apps/861270/ss_e20ce64e21913e75e61e264338df7f51261ac47e.1920x1080.jpg?t=1646329081,https://cdn.akamai.steamstatic.com/steam/apps/861270/ss_b8391ece035138fc5933cf573c014cb152cfbc7e.1920x1080.jpg?t=1646329081,https://cdn.akamai.steamstatic.com/steam/apps/861270/ss_cb2f83ea86e94472df7b620d20aacb1d87fb2418.1920x1080.jpg?t=1646329081,https://cdn.akamai.steamstatic.com/steam/apps/861270/ss_9ee5c40329518432791e72e8e1eb96e4733e4a8c.1920x1080.jpg?t=1646329081",
+    "Slug": "sudoku-killer",
+    "Meta Title": "Sudoku Killer / 杀手数独: Oct 19, 2018, Konstructors and Full...",
+    "Meta Description": "Looking for information on Sudoku Killer / 杀手数独? Check out the release date (Oct 19, 2018), developer insights from Konstructors, and a complete game su...",
+    "Alt Text Image": "Official header image for Sudoku Killer / 杀手数独 game - Steam 861270",
+    "Canonical URL": "https://gusku.site/game/sudoku-killer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sudoku Killer / \\u6740\\u624b\\u6570\\u72ec\", \"description\": \"Looking for information on Sudoku Killer / \\u6740\\u624b\\u6570\\u72ec? Check out the release date (Oct 19, 2018), developer insights from Konstructors, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 19, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Konstructors\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hook Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/861270/header.jpg?t=1646329081\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1599540,
+    "Name": "Topsy Turvy",
+    "Release date": "May 13, 2021",
+    "About the game": "Race the clock in this fast paced, precise pseudo-3D platformer. Move Topsy through 24 distinct and challenging levels to reach the finish line. Levels are divided between three difficulties: bronze, silver, and gold. Progress through each difficulty to unlock the levels they hold. Each level has a variety of tools that can help you or hurt you . Bumpers, jump blocks, and boost panels can either speed you along, or send you off the edge. Take a second thought before you trust a block, it may be a trap! Precision, fast reflexes, and quick judgment are needed to make it to the end of each level. Each level has a record time, can you beat the record or will you be left topsy-turvy?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1599540/header.jpg?t=1620899985",
+    "Price": 2.99,
+    "Developers": "Brian Duhaime",
+    "Publishers": "Brian Duhaime",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1599540/ss_f8c757aa3210e4a41cbabf3cf9e22671a6c3d429.1920x1080.jpg?t=1620899985,https://cdn.akamai.steamstatic.com/steam/apps/1599540/ss_4e282c79d97333df14b7c427b809ed12a2a05e6c.1920x1080.jpg?t=1620899985,https://cdn.akamai.steamstatic.com/steam/apps/1599540/ss_6393dea12c3d89a90f965182762b91084db34baf.1920x1080.jpg?t=1620899985,https://cdn.akamai.steamstatic.com/steam/apps/1599540/ss_f8b9375f1e1cff965ba3dfeddee05b4d579e3f7b.1920x1080.jpg?t=1620899985,https://cdn.akamai.steamstatic.com/steam/apps/1599540/ss_7cbcc903dc97e2b7fd3bb61513d0489db834f5d4.1920x1080.jpg?t=1620899985",
+    "Slug": "topsy-turvy",
+    "Meta Title": "Topsy Turvy: May 13, 2021, Brian Duhaime and Full Overview",
+    "Meta Description": "Looking for information on Topsy Turvy? Check out the release date (May 13, 2021), developer insights from Brian Duhaime, and a complete game summary.",
+    "Alt Text Image": "Official header image for Topsy Turvy game - Steam 1599540",
+    "Canonical URL": "https://gusku.site/game/topsy-turvy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Topsy Turvy\", \"description\": \"Looking for information on Topsy Turvy? Check out the release date (May 13, 2021), developer insights from Brian Duhaime, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 13, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Brian Duhaime\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Brian Duhaime\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1599540/header.jpg?t=1620899985\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

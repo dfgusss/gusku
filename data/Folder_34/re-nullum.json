@@ -1,0 +1,21 @@
+{
+    "AppID": 1481120,
+    "Name": "Re-Nullum",
+    "Release date": "Dec 15, 2020",
+    "About the game": "Re-Nullum is a minimalist puzzle game about combining numbers. On each level, you must clear the board by connecting numbered tiles. Click on one tile and drag towards a neighboring tile to connect them. If the numbers match, both pieces are removed. Otherwise, the pieces connect and their values are added together. Be careful not to isolate a tile by connecting the wrong pieces. Now follow this simple logic and try to clear all levels! Key features: - 40 handcrafted levels - Original music composed specially for Re-Nullum - No timers, no scores, no pressure",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1481120/header.jpg?t=1637753678",
+    "Price": 0.49,
+    "Developers": "Misc.261",
+    "Publishers": "Misc.261",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1481120/ss_300d8ee21541dc525b3705a7a362efa70f4f8e0f.1920x1080.jpg?t=1637753678,https://cdn.akamai.steamstatic.com/steam/apps/1481120/ss_5c4015525a6be38a0b01d89f235b69f2252df16d.1920x1080.jpg?t=1637753678,https://cdn.akamai.steamstatic.com/steam/apps/1481120/ss_bc1ea7e1b359f7a371fd8177b6368267ccf3265c.1920x1080.jpg?t=1637753678,https://cdn.akamai.steamstatic.com/steam/apps/1481120/ss_3c137fc47cd43b3a00f509b03c80df74b01b8b0f.1920x1080.jpg?t=1637753678,https://cdn.akamai.steamstatic.com/steam/apps/1481120/ss_ee1c9cf9e8854ca816c54905e44c2806c6f80813.1920x1080.jpg?t=1637753678",
+    "Slug": "re-nullum",
+    "Meta Title": "Re-Nullum: Dec 15, 2020, Misc.261 and Full Overview",
+    "Meta Description": "Looking for information on Re-Nullum? Check out the release date (Dec 15, 2020), developer insights from Misc.261, and a complete game summary.",
+    "Alt Text Image": "Official header image for Re-Nullum game - Steam 1481120",
+    "Canonical URL": "https://gusku.site/game/re-nullum",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Re-Nullum\", \"description\": \"Looking for information on Re-Nullum? Check out the release date (Dec 15, 2020), developer insights from Misc.261, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 15, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Misc.261\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Misc.261\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1481120/header.jpg?t=1637753678\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

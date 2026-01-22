@@ -1,0 +1,21 @@
+{
+    "AppID": 1518890,
+    "Name": "Triblock",
+    "Release date": "Jan 27, 2021",
+    "About the game": "It's puzzle game. Combine 3 or more same block in any direction for remove defined figure. Sounds easy. Game features simple graphics, nothing more; 60 puzzle levels for spending your time; infinity mode for spending your time more; changeable pictures for blocks; simple control, maximum enjoy.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1518890/header.jpg?t=1612026870",
+    "Price": 0.99,
+    "Developers": "Sergey Marchenko",
+    "Publishers": "Sergey Marchenko",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1518890/ss_c50b3ad728f7ccb0cdabefb21770b022d28eed8f.1920x1080.jpg?t=1612026870,https://cdn.akamai.steamstatic.com/steam/apps/1518890/ss_f969633aaab9770cc4d6fc54f49b3818e90b6bf7.1920x1080.jpg?t=1612026870,https://cdn.akamai.steamstatic.com/steam/apps/1518890/ss_ce4cf027d5cbeb9823752fb759dc6323afdd20a9.1920x1080.jpg?t=1612026870,https://cdn.akamai.steamstatic.com/steam/apps/1518890/ss_7a237a7dd1345476b49fe74096e1c526efecbdd9.1920x1080.jpg?t=1612026870,https://cdn.akamai.steamstatic.com/steam/apps/1518890/ss_3457b92529e1c93152ff0a264d11f7434346d881.1920x1080.jpg?t=1612026870",
+    "Slug": "triblock",
+    "Meta Title": "Triblock: Jan 27, 2021, Sergey Marchenko and Full Overview",
+    "Meta Description": "Looking for information on Triblock? Check out the release date (Jan 27, 2021), developer insights from Sergey Marchenko, and a complete game summary.",
+    "Alt Text Image": "Official header image for Triblock game - Steam 1518890",
+    "Canonical URL": "https://gusku.site/game/triblock",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Triblock\", \"description\": \"Looking for information on Triblock? Check out the release date (Jan 27, 2021), developer insights from Sergey Marchenko, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sergey Marchenko\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sergey Marchenko\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1518890/header.jpg?t=1612026870\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

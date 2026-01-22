@@ -1,0 +1,21 @@
+{
+    "AppID": 1142730,
+    "Name": "Player Power",
+    "Release date": "May 14, 2020",
+    "About the game": "A 2D, pixel art football arcade game in which your ability is determined by your level of power (And speed). Avoid referees and manager's who'll try to take that power away, but seek out agents and physios who'll do their darnedest to give it back to you, all in the name of scoring more sweet, sweet goals. Timed Arcade Challenge Score as many goals as you can inside the allotted time! Buffs and Debuffs Your ability to run quickly and kick the ball hard can be affected both for better and worse by the NPCs who'll spawn more frequently the more goals you've scored: Physio: Buffs your Speed &amp; Power by 10% of their initial value, adds an extra 10 seconds to the game timer with a magic sponge. Thank you, physios. Manager: Buffs your Speed but debuffs your Power by 5% of their initial value. They'll get you fitter, then put you in your place. Agent: Buffs your Power but debuffs your Speed by 5% of their initial value. As long as you hold the Power, Agents are happy. Referee: Debuffs your Speed &amp; Power by 10% of their initial value with a stern talking to. Come on, ref. 20 Wearable kits, 9 Unlockable Costumes You can start the game by wearing any of the 20 initial kits, but the better you do, the more costumes you'll be able to unlock!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1142730/header.jpg?t=1589452084",
+    "Price": 0.99,
+    "Developers": "Dave O'Leary",
+    "Publishers": "Dave O'Leary",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1142730/ss_a8df2210139b7019ef4affc12e777d5cdbe6af41.1920x1080.jpg?t=1589452084,https://cdn.akamai.steamstatic.com/steam/apps/1142730/ss_87b7a742f45e7d4c4748d36c34a556b9b2456fe6.1920x1080.jpg?t=1589452084,https://cdn.akamai.steamstatic.com/steam/apps/1142730/ss_bda496047960b06595e3f32629e5c90349918e5b.1920x1080.jpg?t=1589452084,https://cdn.akamai.steamstatic.com/steam/apps/1142730/ss_073e89f4fdc5f2f092dd33fb5744907f3a3d6908.1920x1080.jpg?t=1589452084,https://cdn.akamai.steamstatic.com/steam/apps/1142730/ss_a5afb8330bfc033ab3f5377468fa5a576917829e.1920x1080.jpg?t=1589452084",
+    "Slug": "player-power",
+    "Meta Title": "Player Power: May 14, 2020, Dave O'Leary and Full Overview",
+    "Meta Description": "Looking for information on Player Power? Check out the release date (May 14, 2020), developer insights from Dave O'Leary, and a complete game summary.",
+    "Alt Text Image": "Official header image for Player Power game - Steam 1142730",
+    "Canonical URL": "https://gusku.site/game/player-power",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Player Power\", \"description\": \"Looking for information on Player Power? Check out the release date (May 14, 2020), developer insights from Dave O'Leary, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 14, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dave O'Leary\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dave O'Leary\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1142730/header.jpg?t=1589452084\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

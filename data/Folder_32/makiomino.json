@@ -1,0 +1,21 @@
+{
+    "AppID": 1177840,
+    "Name": "Makiomino",
+    "Release date": "Apr 19, 2022",
+    "About the game": "Makiomino is a game about sushi I developed by my son's idea. Tile-matching turn-based puzzle mixed on classical mechanics. Sushi-master makes maki rolls by five pieces at a time, but maki rolls should be served to clients as sets of six pieces aligned straight or in rectangle. You have to slide maki by table in four directions to combine them into neat sets, so you free up space for new workpieces. Soy sauce will help if you're not coping fast enough. There is no need to hurry, but you need to think ahead, keep track of which figure will be next and rely on the probabilities of where it will appear. Each level, until you reach the final ones, the table will expand, but also the variety of elements too. Watch the countdown to soy sauce, it can greatly change the situation on the table.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1177840/header.jpg?t=1650756675",
+    "Price": 0.0,
+    "Developers": "Roman Chumak",
+    "Publishers": "Roman Chumak",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1177840/ss_559a8b8a709b5878fa4ae5d89f1f7807a04a54b3.1920x1080.jpg?t=1650756675,https://cdn.akamai.steamstatic.com/steam/apps/1177840/ss_291483c96bb500e9a51a2bf915b85db5739b1a40.1920x1080.jpg?t=1650756675,https://cdn.akamai.steamstatic.com/steam/apps/1177840/ss_cd6d0aaf8f9be6ea51880d83cfde43e8157836f6.1920x1080.jpg?t=1650756675,https://cdn.akamai.steamstatic.com/steam/apps/1177840/ss_beb2dcca61e65021e0d8c2448a2808d187d2e1c9.1920x1080.jpg?t=1650756675,https://cdn.akamai.steamstatic.com/steam/apps/1177840/ss_25335ce73d2e6782537e285f929c1289f0ed9d02.1920x1080.jpg?t=1650756675",
+    "Slug": "makiomino",
+    "Meta Title": "Makiomino: Apr 19, 2022, Roman Chumak and Full Overview",
+    "Meta Description": "Looking for information on Makiomino? Check out the release date (Apr 19, 2022), developer insights from Roman Chumak, and a complete game summary.",
+    "Alt Text Image": "Official header image for Makiomino game - Steam 1177840",
+    "Canonical URL": "https://gusku.site/game/makiomino",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Makiomino\", \"description\": \"Looking for information on Makiomino? Check out the release date (Apr 19, 2022), developer insights from Roman Chumak, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 19, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Roman Chumak\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Roman Chumak\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1177840/header.jpg?t=1650756675\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

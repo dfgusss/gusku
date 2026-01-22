@@ -1,0 +1,21 @@
+{
+    "AppID": 1655840,
+    "Name": "Turbo Tempest",
+    "Release date": "Jul 8, 2021",
+    "About the game": "Turbo Tempest is a multiplayer speedboat battle arena where you fight to be the last one standing. Use 8 distinct weapons to fight your opponents and pick between 6 different speedboats Battle in the jungle, in the desert or in the artic with up to 8 players This game was developed as a learning project by me, thus why it is free and only supports player hosted games. I plan on doing some bug fixing once the game is released but no plans of adding extra or paid content, unless there is major interest. Bots have been added to fill games, simply add how many bots you want in the lobby, note that only a combined total of 8 players and bots can spawn on any map. The bots aren't very smart and are meant to be filler, but they are fun to shoot at!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1655840/header.jpg?t=1625792466",
+    "Price": 0.0,
+    "Developers": "Ugly Zebra Interactive",
+    "Publishers": "Ugly Zebra Interactive",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1655840/ss_f765d74f786d25ec8d2f59eaaab11fccf1c09b96.1920x1080.jpg?t=1625792466,https://cdn.akamai.steamstatic.com/steam/apps/1655840/ss_43eaa4b0a23ff01da28e8900a718a8237a3821e3.1920x1080.jpg?t=1625792466,https://cdn.akamai.steamstatic.com/steam/apps/1655840/ss_5e40569cfd79e251871c810fe95564d8d7c89f96.1920x1080.jpg?t=1625792466,https://cdn.akamai.steamstatic.com/steam/apps/1655840/ss_8676c2bcfb9e13585f8f0337058a06a74d116a41.1920x1080.jpg?t=1625792466,https://cdn.akamai.steamstatic.com/steam/apps/1655840/ss_89fea4d5e97af6c52a0b688129121fde3a3705af.1920x1080.jpg?t=1625792466",
+    "Slug": "turbo-tempest",
+    "Meta Title": "Turbo Tempest: Jul 8, 2021, Ugly Zebra Interactive and Fu...",
+    "Meta Description": "Looking for information on Turbo Tempest? Check out the release date (Jul 8, 2021), developer insights from Ugly Zebra Interactive, and a complete game ...",
+    "Alt Text Image": "Official header image for Turbo Tempest game - Steam 1655840",
+    "Canonical URL": "https://gusku.site/game/turbo-tempest",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Turbo Tempest\", \"description\": \"Looking for information on Turbo Tempest? Check out the release date (Jul 8, 2021), developer insights from Ugly Zebra Interactive, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 8, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ugly Zebra Interactive\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ugly Zebra Interactive\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1655840/header.jpg?t=1625792466\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

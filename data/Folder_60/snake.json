@@ -1,0 +1,21 @@
+{
+    "AppID": 1332800,
+    "Name": "Snake",
+    "Release date": "Jun 22, 2020",
+    "About the game": "Snake is everything you'd expect plus a little extra ;) Game Modes Classic : The classic game of Snake. Eat food and grow as long as you can without hitting the walls or yourself. Open : This is the same as classic but without the walls, traveling off screen wraps you around to the opposite side of the screen. Levels : This is where the 'extra' comes in. There are 12 levels available, each requiring you to get a minimum score on the previous level to unlock. Levels consist of various obstacles that make growing your snake more challenging such as additional walls and portals to take you to various sections of the screen. Speeds The game includes Slow, Medium, and Fast speeds to accommodate to any skill level. Levels can be unlocked by playing on any speed, so if you are struggling with a level feel free to slow it down. Themes Don't like the original green tint of Snake? No worries, the game includes 9 themes that change the color palette and design of the entire game. Controls WASD / ←↑→↓ : Move Spacebar : Pause ESC / Backspace : Exit F11 : Toggle Fullscreen Source Code -I-XVI/MonoGame-Snake",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1332800/header.jpg?t=1592917985",
+    "Price": 1.99,
+    "Developers": "Romans I XVI Gaming",
+    "Publishers": "Romans I XVI Gaming",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1332800/ss_8c35cc7b3aaf689b6628d4d18eb84ee599026636.1920x1080.jpg?t=1592917985,https://cdn.akamai.steamstatic.com/steam/apps/1332800/ss_608bf635aa16448c89b4006beaad0b2d31362419.1920x1080.jpg?t=1592917985,https://cdn.akamai.steamstatic.com/steam/apps/1332800/ss_02124ac3f95febf86fbd534f0be2fd164d77f131.1920x1080.jpg?t=1592917985,https://cdn.akamai.steamstatic.com/steam/apps/1332800/ss_f5f8ded53861d818ae9ed52f6ae34b5ffc602420.1920x1080.jpg?t=1592917985,https://cdn.akamai.steamstatic.com/steam/apps/1332800/ss_3303ddf0672ce541abc2952811bda77b1e68db03.1920x1080.jpg?t=1592917985",
+    "Slug": "snake",
+    "Meta Title": "Snake: Jun 22, 2020, Romans I XVI Gaming and Full Overview",
+    "Meta Description": "Looking for information on Snake? Check out the release date (Jun 22, 2020), developer insights from Romans I XVI Gaming, and a complete game summary.",
+    "Alt Text Image": "Official header image for Snake game - Steam 1332800",
+    "Canonical URL": "https://gusku.site/game/snake",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Snake\", \"description\": \"Looking for information on Snake? Check out the release date (Jun 22, 2020), developer insights from Romans I XVI Gaming, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 22, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Romans I XVI Gaming\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Romans I XVI Gaming\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1332800/header.jpg?t=1592917985\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

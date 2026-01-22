@@ -1,0 +1,21 @@
+{
+    "AppID": 1865590,
+    "Name": "BombSweeperVR",
+    "Release date": "Jan 25, 2022",
+    "About the game": "Don't get stuck in your old minesweeper style games with just a basic grid. Challenge yourself on a virtual reality version set on a variety of islands in all shapes and sizes. Virtually dig the ground and locate the landmines without blowing yourself up. Each tile with a number defines how many landmines are adjacent to it. Each tile has eight possible locations. Test your skills and be the best. This game is in Beta release. I'll soon be adding many more levels and soon adding a level editor to share levels amongst your friends. Sorry for the slow updates, I've been busy with year 12 studies and preparing for University. Update: 14th April 2022 09:00 The latest updates have fixed comparability issues with various branded headsets. I am still working on user made maps importer. New levels will be coming soon If your game hasn't updated please reinstall to get the latest version",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1865590/header.jpg?t=1649890522",
+    "Price": 9.99,
+    "Developers": "Jaydan Lunt",
+    "Publishers": "Jay'n'Son",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1865590/ss_a7fe0480927176e15d1b2918047dd864be6b55f9.1920x1080.jpg?t=1649890522,https://cdn.akamai.steamstatic.com/steam/apps/1865590/ss_5a5554af63d6abe08e66bcbdd4b360b0f5bc1889.1920x1080.jpg?t=1649890522,https://cdn.akamai.steamstatic.com/steam/apps/1865590/ss_a77f308a6a0e73a17c2674ab1b11e0d16e9843d7.1920x1080.jpg?t=1649890522,https://cdn.akamai.steamstatic.com/steam/apps/1865590/ss_5bf98f953a86f095c277bdd15eb57b4ddb1984b7.1920x1080.jpg?t=1649890522,https://cdn.akamai.steamstatic.com/steam/apps/1865590/ss_1d7cb37138a69f54d2bd8aa2e2d45863307b9f99.1920x1080.jpg?t=1649890522,https://cdn.akamai.steamstatic.com/steam/apps/1865590/ss_ff012e8e9960d257ea08d819121a20a0fc98e1cd.1920x1080.jpg?t=1649890522",
+    "Slug": "bombsweepervr",
+    "Meta Title": "BombSweeperVR: Jan 25, 2022, Jaydan Lunt and Full Overview",
+    "Meta Description": "Looking for information on BombSweeperVR? Check out the release date (Jan 25, 2022), developer insights from Jaydan Lunt, and a complete game summary.",
+    "Alt Text Image": "Official header image for BombSweeperVR game - Steam 1865590",
+    "Canonical URL": "https://gusku.site/game/bombsweepervr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BombSweeperVR\", \"description\": \"Looking for information on BombSweeperVR? Check out the release date (Jan 25, 2022), developer insights from Jaydan Lunt, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 25, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jaydan Lunt\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jay'n'Son\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1865590/header.jpg?t=1649890522\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

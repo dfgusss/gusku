@@ -1,0 +1,21 @@
+{
+    "AppID": 770200,
+    "Name": "Squally",
+    "Release date": "Nov 6, 2018",
+    "About the game": "Squally is a 2D puzzle RPG game that teaches video game hacking! In other words: this game teaches you the 'hardest' parts of computer science in the coolest way possible. After crash landing on a strange planet, Squally must help the inhabitants to fight the evil forces plaguing their lands. Squally can make use of their supernatural powers to manipulate the world around them -- using x86/x64 assembly. We're constantly pushing out updates, and appreciate your early support! To get in touch, join our Discord at Who is this game for? A 12 year old should be able to complete the main storyline in this game. For the veteran hackers out there, there will be more challenging side content. This game does not assume you have any background in programming. Anybody can play! What does it teach? The main skill that Squally aims to teach is assembly language (x86/x64). Assembly language is one of the most crucial but difficult to master skills for an aspiring hacker. However do not fear! Assembly language is not as hard as people think! Unfortunately, it is often taught in a very poor manner. Squally is a game to solve this problem by assembly language approachable and fun. Supplementary topics like binary and hex are taught through puzzles and gameplay. Looking for more learning material on hacking? Check out our free YouTube videos here:",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/770200/header.jpg?t=1593140842",
+    "Price": 24.99,
+    "Developers": "Zachary Canann",
+    "Publishers": "Squalr, Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/770200/ss_2ad207358f62c64f5a28d1522ee59a0dbba187a5.1920x1080.jpg?t=1593140842,https://cdn.akamai.steamstatic.com/steam/apps/770200/ss_1fa2d68aa35344f049cdc9f5d53c623ee8cbb347.1920x1080.jpg?t=1593140842,https://cdn.akamai.steamstatic.com/steam/apps/770200/ss_b54695812fd803b1c40de8350ddbe5fe788942fd.1920x1080.jpg?t=1593140842,https://cdn.akamai.steamstatic.com/steam/apps/770200/ss_9e20a9e3d9022612cb40a78c41fb1a199c62d284.1920x1080.jpg?t=1593140842,https://cdn.akamai.steamstatic.com/steam/apps/770200/ss_4365921d11e074079cb16ecadb79a6fb102dd116.1920x1080.jpg?t=1593140842,https://cdn.akamai.steamstatic.com/steam/apps/770200/ss_3b50ddb2495f88334bb27ec77bb41cf86c1a468f.1920x1080.jpg?t=1593140842,https://cdn.akamai.steamstatic.com/steam/apps/770200/ss_35c809822916d0c76618a53cc5b5e594d2b45b54.1920x1080.jpg?t=1593140842,https://cdn.akamai.steamstatic.com/steam/apps/770200/ss_81cafa813fcd25847a74874696d4eacd3307ff4a.1920x1080.jpg?t=1593140842",
+    "Slug": "squally",
+    "Meta Title": "Squally: Nov 6, 2018, Zachary Canann and Full Overview",
+    "Meta Description": "Looking for information on Squally? Check out the release date (Nov 6, 2018), developer insights from Zachary Canann, and a complete game summary.",
+    "Alt Text Image": "Official header image for Squally game - Steam 770200",
+    "Canonical URL": "https://gusku.site/game/squally",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Squally\", \"description\": \"Looking for information on Squally? Check out the release date (Nov 6, 2018), developer insights from Zachary Canann, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 6, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Zachary Canann\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Squalr, Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/770200/header.jpg?t=1593140842\", \"offers\": {\"@type\": \"Offer\", \"price\": 24.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

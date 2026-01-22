@@ -1,0 +1,21 @@
+{
+    "AppID": 400030,
+    "Name": "Cloney",
+    "Release date": "Jan 19, 2016",
+    "About the game": "Cloney is a dragon looking for coins, all you need to do is tap your way through this endless runner collecting as many coins as you can without flying into anything. Sounds easy enough? Built with cross platform competition in mind, Cloney is available across a wide variety of platforms. With options to submit your scores to our worldwide leaderboard, no matter where you play, you will be able to compare and compete with your friends. Created during a 24 hour GameJam, we decided to release it for public consumption! Enjoy!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/400030/header.jpg?t=1566327134",
+    "Price": 0.0,
+    "Developers": "dotBunny",
+    "Publishers": "dotBunny",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/400030/ss_58c960f4b7bd12e668663ae3b5d64f9ebad6aa0a.1920x1080.jpg?t=1566327134,https://cdn.akamai.steamstatic.com/steam/apps/400030/ss_41480a33e7a8291e6700de23be79da6232f27678.1920x1080.jpg?t=1566327134,https://cdn.akamai.steamstatic.com/steam/apps/400030/ss_0c807914d33badda67beba2dc0d194bf6e1e0f82.1920x1080.jpg?t=1566327134,https://cdn.akamai.steamstatic.com/steam/apps/400030/ss_51309adfb701a39662493580b86519c3ea8d329d.1920x1080.jpg?t=1566327134,https://cdn.akamai.steamstatic.com/steam/apps/400030/ss_b786230420415c0fe4d63c9b8873ba257b5a7e07.1920x1080.jpg?t=1566327134,https://cdn.akamai.steamstatic.com/steam/apps/400030/ss_693616536511f316f27907f1f9adef10768a599b.1920x1080.jpg?t=1566327134",
+    "Slug": "cloney",
+    "Meta Title": "Cloney: Jan 19, 2016, dotBunny and Full Overview",
+    "Meta Description": "Looking for information on Cloney? Check out the release date (Jan 19, 2016), developer insights from dotBunny, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cloney game - Steam 400030",
+    "Canonical URL": "https://gusku.site/game/cloney",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cloney\", \"description\": \"Looking for information on Cloney? Check out the release date (Jan 19, 2016), developer insights from dotBunny, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 19, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"dotBunny\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"dotBunny\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/400030/header.jpg?t=1566327134\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

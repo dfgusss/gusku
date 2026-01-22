@@ -1,0 +1,21 @@
+{
+    "AppID": 777890,
+    "Name": "Primitive",
+    "Release date": "Jan 23, 2019",
+    "About the game": "Primitive Immersive Development Environment Code Immersion in Primitive Software development teams are only as good as their ability to rapidly comprehend and integrate the work of many different authors. At Primitive, we believe that collaboration and immersive visualization are the future of software development. The arrival of virtual reality has provided a tremendous new platform to visualize data and collaborate in advanced ways. The Primitive programming interface is taking advantage of everything that VR can offer while applying the best practices of software analysis tools. Spatial Interpretation Primitive turns the output of software analyses into interactive 3D structures that are displayed in immersive VR. A team of developers will see: Architectural Overviews - up to several million lines of code 3D Call Graphs - spatial layouts that are clearer and more memorable Multi-thread Runtime Animations - allowing collaboration in debugging and performance evaluation",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/777890/header.jpg?t=1618077094",
+    "Price": 0.0,
+    "Developers": "John Voorhees",
+    "Publishers": "Prime Software Systems, Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/777890/ss_cf43cac7ea9268446fe846c2547c7b9439df17f0.1920x1080.jpg?t=1618077094,https://cdn.akamai.steamstatic.com/steam/apps/777890/ss_fc49e9f7388de2a8b4d4a78ed52b9764601c9e44.1920x1080.jpg?t=1618077094,https://cdn.akamai.steamstatic.com/steam/apps/777890/ss_360abc1679a30445de88c8c6ef61b93a37bba3e8.1920x1080.jpg?t=1618077094,https://cdn.akamai.steamstatic.com/steam/apps/777890/ss_3159de0713a41d64857fed92840d1dfcc7858e58.1920x1080.jpg?t=1618077094,https://cdn.akamai.steamstatic.com/steam/apps/777890/ss_af0e4ecef64d4c97c9dbd69eb13c3742cc2ef58e.1920x1080.jpg?t=1618077094,https://cdn.akamai.steamstatic.com/steam/apps/777890/ss_1fc36372688eb9655a7368edcc685fd7fb2e79d8.1920x1080.jpg?t=1618077094",
+    "Slug": "primitive",
+    "Meta Title": "Primitive: Jan 23, 2019, John Voorhees and Full Overview",
+    "Meta Description": "Looking for information on Primitive? Check out the release date (Jan 23, 2019), developer insights from John Voorhees, and a complete game summary.",
+    "Alt Text Image": "Official header image for Primitive game - Steam 777890",
+    "Canonical URL": "https://gusku.site/game/primitive",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Primitive\", \"description\": \"Looking for information on Primitive? Check out the release date (Jan 23, 2019), developer insights from John Voorhees, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 23, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"John Voorhees\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Prime Software Systems, Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/777890/header.jpg?t=1618077094\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

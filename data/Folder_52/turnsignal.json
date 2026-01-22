@@ -1,0 +1,21 @@
+{
+    "AppID": 689580,
+    "Name": "TurnSignal",
+    "Release date": "Aug 28, 2017",
+    "About the game": "TurnSignal is a small, Free, (Hopefully) minimally invasive VR utility to assist with preventing Headsets Cords from becoming twisted and tangled up. It utilizes a simple graphic, dubbed The 'Flower', overlaid in-game on your play-space floor, that visually represents your turns by twisting with you! Since everybody's different, the app includes some settings to help ensure it's not intrusive on anyone's play style! Added Menu to Main Window to not waste space! A Button Toggle to enable/disable the tools in-game display A Button to Reset the utilities Rotation Tracking An Opacity / Transparency / Height Setting A Scale Setting A Twist Rate Setting for manipulating the twist-i-ness levels A Toggle to Hide the Main Window A Toggle for auto-starting and closing the utility with SteamVR A Toggle to use Chaperone Color instead of white (real time too!) A Toggle to Link Opacity and Twist'ed-ness together, so it becomes more visible the more twisted you are A Toggle to only display the Flower / Floor Overlay when the Dashboard is Open A link to Controller Settings Menu, for placing flower on hand instead of the floor A Toggle to allow the Flower / Floor Overlay to follow the player, and a speed setting slider That's All! Progress is ongoing, and bug / feature requests / feedback is always welcome!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/689580/header.jpg?t=1516160283",
+    "Price": 0.0,
+    "Developers": "Ben Otter",
+    "Publishers": "Otter-Co",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/689580/ss_a30b6e2b46b3f77682c79b9cae062c298206f9f6.1920x1080.jpg?t=1516160283,https://cdn.akamai.steamstatic.com/steam/apps/689580/ss_f458ddebf3b73bed9b827c03f4e37e0b4b96b307.1920x1080.jpg?t=1516160283,https://cdn.akamai.steamstatic.com/steam/apps/689580/ss_1d2882b6d5e2409075e05ef7380a9ac072d29f08.1920x1080.jpg?t=1516160283,https://cdn.akamai.steamstatic.com/steam/apps/689580/ss_6dac7a2b8e5612ea6716c2517c7eaf26751da891.1920x1080.jpg?t=1516160283,https://cdn.akamai.steamstatic.com/steam/apps/689580/ss_2f43ef812608a29931278521726a0507617c29f3.1920x1080.jpg?t=1516160283,https://cdn.akamai.steamstatic.com/steam/apps/689580/ss_fc2c4a214e824f7ba16c508837102819aac85157.1920x1080.jpg?t=1516160283,https://cdn.akamai.steamstatic.com/steam/apps/689580/ss_eff75e4ab57d472d07c02426e7f316b378d93a9b.1920x1080.jpg?t=1516160283",
+    "Slug": "turnsignal",
+    "Meta Title": "TurnSignal: Aug 28, 2017, Ben Otter and Full Overview",
+    "Meta Description": "Looking for information on TurnSignal? Check out the release date (Aug 28, 2017), developer insights from Ben Otter, and a complete game summary.",
+    "Alt Text Image": "Official header image for TurnSignal game - Steam 689580",
+    "Canonical URL": "https://gusku.site/game/turnsignal",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TurnSignal\", \"description\": \"Looking for information on TurnSignal? Check out the release date (Aug 28, 2017), developer insights from Ben Otter, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 28, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ben Otter\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Otter-Co\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/689580/header.jpg?t=1516160283\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

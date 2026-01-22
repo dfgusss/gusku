@@ -1,0 +1,21 @@
+{
+    "AppID": 2307570,
+    "Name": "Speedrush",
+    "Release date": "Feb 24, 2023",
+    "About the game": "Welcome to Speedrush! Speedrush is an endless challenging platformer which can be played alone, or with other users. It is the perfect game to use to chill out with friends, to challenge yourself, or to practice your platforming skills. Mechanics Spike - Instantly kills you when you land on top of one! Acid block - Instantly kills you when you either land on top of one, or simply touch the acidic top of the block! Glue Block - Stops your movement while you are grounded! Controls Dash - Acquire a small boost of speed for a short period of time, can only be used once while airborne (Grounding will allow you to use it again). Run - Move across the map at normal speed on the X axis! Jump - Jump over obstacles and blocks! FAQ: How do I join a friend's server? Your friend must first be hosting a server, which can easily be done by checking the 'Host' checkbox when joining in multiplayer mode, if so, ask them for their P u b l i c IP address, as this is a requirement to connect to the server. Ask your friend to port forward their router if they are comfortable doing so, and ask them to send you the port they chose. If all these steps are completed, you can open up speedrush, select multiplayer after hitting the play button on the title screen, and enter the info you have obtained into the 'Server Address' text box in the following format {Server Address}:{Server port} Why do the animations look wobbly? This is intentional, as the animations are frame by framed. What engine was used to make the game? Unity.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2307570/header.jpg?t=1677288419",
+    "Price": 3.99,
+    "Developers": "Steve Studios",
+    "Publishers": "Steve Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2307570/ss_31e28366f2d7a3418efbce18dffc80a80e409dc7.1920x1080.jpg?t=1677288419,https://cdn.akamai.steamstatic.com/steam/apps/2307570/ss_0d763938a09595eee06f6e6e03cbaedf1080a867.1920x1080.jpg?t=1677288419,https://cdn.akamai.steamstatic.com/steam/apps/2307570/ss_5f40f0b87c28a3f6c7ebd914480414855ce10922.1920x1080.jpg?t=1677288419,https://cdn.akamai.steamstatic.com/steam/apps/2307570/ss_3d3cf60bf2585466c81db792323bdce47758c6e4.1920x1080.jpg?t=1677288419,https://cdn.akamai.steamstatic.com/steam/apps/2307570/ss_76335f68bdccfc3048321f0f6054eaa0805fa24c.1920x1080.jpg?t=1677288419",
+    "Slug": "speedrush",
+    "Meta Title": "Speedrush: Feb 24, 2023, Steve Studios and Full Overview",
+    "Meta Description": "Looking for information on Speedrush? Check out the release date (Feb 24, 2023), developer insights from Steve Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Speedrush game - Steam 2307570",
+    "Canonical URL": "https://gusku.site/game/speedrush",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Speedrush\", \"description\": \"Looking for information on Speedrush? Check out the release date (Feb 24, 2023), developer insights from Steve Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 24, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Steve Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Steve Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2307570/header.jpg?t=1677288419\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

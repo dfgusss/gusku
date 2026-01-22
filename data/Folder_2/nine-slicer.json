@@ -1,0 +1,21 @@
+{
+    "AppID": 839180,
+    "Name": "Nine-Slicer",
+    "Release date": "Aug 22, 2019",
+    "About the game": "Easily reduce the atlas sizes in your games! Optimize large images for your UI by creating sliced versions. 1. Mock up your UI in your image editing program (such as Photoshop). 2. Export each full-sized UI element from your image editing program as png files. 3. Load the full sized UI element png into Nine-Slicer. 4. Define your slicing margins. 5. Preview the results side-by-side with the original. 6. Export the optimized image, along with a text file to remember the margins that were used. 7. Use the optimized exported image in an app that supports nine-sliced images. Nine-sliced images can be used in various game engines, including Unity. No more labor-intensive manual slicing work in Photoshop. Spend seconds on what would take several minutes to do manually, on each UI image. The saved time adds up! To see a full demonstration video, click the 'View the manual' link on the right.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/839180/header.jpg?t=1566486547",
+    "Price": 9.99,
+    "Developers": "Gilligames",
+    "Publishers": "Gilligames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/839180/ss_1c3e75fb758ec6a8679f6a4f70f5a59efb51f7ec.1920x1080.jpg?t=1566486547,https://cdn.akamai.steamstatic.com/steam/apps/839180/ss_a35a4b1f06659401218603ae4d43807aeb6be191.1920x1080.jpg?t=1566486547,https://cdn.akamai.steamstatic.com/steam/apps/839180/ss_723c682d16a7c3eb5caaded3506fc376ddea19a0.1920x1080.jpg?t=1566486547,https://cdn.akamai.steamstatic.com/steam/apps/839180/ss_56009ab75fd4dd225b5fb03426e5d5b8ce2bb95a.1920x1080.jpg?t=1566486547,https://cdn.akamai.steamstatic.com/steam/apps/839180/ss_9ecd3353f4b80468bf59f09519ccf547d3a50472.1920x1080.jpg?t=1566486547,https://cdn.akamai.steamstatic.com/steam/apps/839180/ss_46e0471ca5374c235e77c7df696781f6dab158f5.1920x1080.jpg?t=1566486547",
+    "Slug": "nine-slicer",
+    "Meta Title": "Nine-Slicer: Aug 22, 2019, Gilligames and Full Overview",
+    "Meta Description": "Looking for information on Nine-Slicer? Check out the release date (Aug 22, 2019), developer insights from Gilligames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Nine-Slicer game - Steam 839180",
+    "Canonical URL": "https://gusku.site/game/nine-slicer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nine-Slicer\", \"description\": \"Looking for information on Nine-Slicer? Check out the release date (Aug 22, 2019), developer insights from Gilligames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 22, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gilligames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gilligames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/839180/header.jpg?t=1566486547\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

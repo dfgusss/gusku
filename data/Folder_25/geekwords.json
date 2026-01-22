@@ -1,0 +1,21 @@
+{
+    "AppID": 1558850,
+    "Name": "Geekwords",
+    "Release date": "Mar 18, 2021",
+    "About the game": "Geekwords is a TV series based trivia crossword game. Each puzzle references an episode of a TV episode and asks questions about events and characters from the show. Do you remember everything or do you need a hint to refresh your memory? Puzzles will remind you of critical events and characters, as well as test your knowledge of the show making it the perfect companion for re-watching the series.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1558850/header.jpg?t=1646682809",
+    "Price": 19.99,
+    "Developers": "DesignerDave,AzureDev",
+    "Publishers": "DesignerDave",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1558850/ss_0b42a1a48d69090959533832d324af1fb08fc81e.1920x1080.jpg?t=1646682809,https://cdn.akamai.steamstatic.com/steam/apps/1558850/ss_00e41501cab111034600cbdb6adc86325e215196.1920x1080.jpg?t=1646682809,https://cdn.akamai.steamstatic.com/steam/apps/1558850/ss_a3ed26bf8e2d6c4228d4a72278a0039175a6a195.1920x1080.jpg?t=1646682809,https://cdn.akamai.steamstatic.com/steam/apps/1558850/ss_4dd5286666e17ec2d02eda4da4e067522084ea62.1920x1080.jpg?t=1646682809,https://cdn.akamai.steamstatic.com/steam/apps/1558850/ss_9bd0efbd8ba758db40902192c13a0a72689249f4.1920x1080.jpg?t=1646682809,https://cdn.akamai.steamstatic.com/steam/apps/1558850/ss_8410d40c9217beb0a8d60231027e6d10877b221a.1920x1080.jpg?t=1646682809",
+    "Slug": "geekwords",
+    "Meta Title": "Geekwords: Mar 18, 2021, DesignerDave,AzureDev and Full O...",
+    "Meta Description": "Looking for information on Geekwords? Check out the release date (Mar 18, 2021), developer insights from DesignerDave,AzureDev, and a complete game summ...",
+    "Alt Text Image": "Official header image for Geekwords game - Steam 1558850",
+    "Canonical URL": "https://gusku.site/game/geekwords",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Geekwords\", \"description\": \"Looking for information on Geekwords? Check out the release date (Mar 18, 2021), developer insights from DesignerDave,AzureDev, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 18, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"DesignerDave,AzureDev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DesignerDave\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1558850/header.jpg?t=1646682809\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

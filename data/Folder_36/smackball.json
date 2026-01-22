@@ -1,0 +1,21 @@
+{
+    "AppID": 1554520,
+    "Name": "Smackball",
+    "Release date": "May 27, 2021",
+    "About the game": "Smackball is a fast-paced, competitive sports game for two players, inspired by sports like tennis, squash and air-hockey. The rules are simple: smack the ball across half court before your timer runs out, and try to score a goal against your opponent! Features: Play locally, against your friends or the AI. Play online, in private matches against your friends, or match up against random players. 5 different game modes. 8 color palettes to personalize the look of the game. Customize the gameplay and create your own game modes. Note: You’ll need at least one controller for local multiplayer matches.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1554520/header.jpg?t=1629493853",
+    "Price": 4.99,
+    "Developers": "Vidak Mijanovic",
+    "Publishers": "Mijan Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1554520/ss_27106119e615a35fa3c25ea43786dfaeee672ad6.1920x1080.jpg?t=1629493853,https://cdn.akamai.steamstatic.com/steam/apps/1554520/ss_1f36d17ed6433ec18c63db8dc1868f16311393a0.1920x1080.jpg?t=1629493853,https://cdn.akamai.steamstatic.com/steam/apps/1554520/ss_a7d299a7142d9f49e31d950b850022b0184bee23.1920x1080.jpg?t=1629493853,https://cdn.akamai.steamstatic.com/steam/apps/1554520/ss_5a8c7fc9f914625bf97549cce83129dca8668a89.1920x1080.jpg?t=1629493853,https://cdn.akamai.steamstatic.com/steam/apps/1554520/ss_829f17d73fd0306179c951eb76d2067d6d66f672.1920x1080.jpg?t=1629493853",
+    "Slug": "smackball",
+    "Meta Title": "Smackball: May 27, 2021, Vidak Mijanovic and Full Overview",
+    "Meta Description": "Looking for information on Smackball? Check out the release date (May 27, 2021), developer insights from Vidak Mijanovic, and a complete game summary.",
+    "Alt Text Image": "Official header image for Smackball game - Steam 1554520",
+    "Canonical URL": "https://gusku.site/game/smackball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Smackball\", \"description\": \"Looking for information on Smackball? Check out the release date (May 27, 2021), developer insights from Vidak Mijanovic, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vidak Mijanovic\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mijan Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1554520/header.jpg?t=1629493853\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

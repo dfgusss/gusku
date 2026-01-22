@@ -1,0 +1,21 @@
+{
+    "AppID": 1225660,
+    "Name": "Athena Trivia",
+    "Release date": "May 18, 2021",
+    "About the game": "Athena Trivial is a general trivia game which you can play on your own to enhance your knowledge. Features: - 100 uniquely crafted questions which are not taken from public trivia sources - 10 different categories - Detailed explanation for each correct answer, to help you enhance your knowledge. - scoring system based on how quickly you can answer a question.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1225660/header.jpg?t=1621402614",
+    "Price": 4.99,
+    "Developers": "DIG Publishing",
+    "Publishers": "DIG Publishing",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1225660/ss_91d01a6c1854ddbc4ce4083d502bfce22348d3d7.1920x1080.jpg?t=1621402614,https://cdn.akamai.steamstatic.com/steam/apps/1225660/ss_bffed652219bb21f9357c1366080ad2a930272db.1920x1080.jpg?t=1621402614,https://cdn.akamai.steamstatic.com/steam/apps/1225660/ss_7b01b9a77cf0768f08f99f6520be34463effc604.1920x1080.jpg?t=1621402614,https://cdn.akamai.steamstatic.com/steam/apps/1225660/ss_db0ca7dfaa06f3dcbc143ee88a909996f2cd0819.1920x1080.jpg?t=1621402614,https://cdn.akamai.steamstatic.com/steam/apps/1225660/ss_1f9cd3000795c7118f78ce34ff7cd47d1efda479.1920x1080.jpg?t=1621402614",
+    "Slug": "athena-trivia",
+    "Meta Title": "Athena Trivia: May 18, 2021, DIG Publishing and Full Over...",
+    "Meta Description": "Looking for information on Athena Trivia? Check out the release date (May 18, 2021), developer insights from DIG Publishing, and a complete game summary.",
+    "Alt Text Image": "Official header image for Athena Trivia game - Steam 1225660",
+    "Canonical URL": "https://gusku.site/game/athena-trivia",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Athena Trivia\", \"description\": \"Looking for information on Athena Trivia? Check out the release date (May 18, 2021), developer insights from DIG Publishing, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 18, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"DIG Publishing\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DIG Publishing\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1225660/header.jpg?t=1621402614\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 293200,
+    "Name": "Sentinel",
+    "Release date": "Apr 22, 2014",
+    "About the game": "Sentinel is an interactive audio tower defense game. It mixes strategic game play with a dynamic music system. The game takes place on a sequencer-like grid. As you add defenses, collect resources and destroy enemies, musical elements are triggered in time to the music. Fight through 31 levels to clear the virus from the system.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/293200/header.jpg?t=1473099393",
+    "Price": 0.0,
+    "Developers": "Matthew Brown",
+    "Publishers": "Matthew Brown",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/293200/ss_28b75279bb8bd6f36b4364934ada697c7e63828b.1920x1080.jpg?t=1473099393,https://cdn.akamai.steamstatic.com/steam/apps/293200/ss_5fc83090c586278bec144e9ad4f97a814d133813.1920x1080.jpg?t=1473099393,https://cdn.akamai.steamstatic.com/steam/apps/293200/ss_d2ccfccc25c1a99a5bf03a7d3c45e72e3e0b8c18.1920x1080.jpg?t=1473099393,https://cdn.akamai.steamstatic.com/steam/apps/293200/ss_5b49050ae364d58e73441ad52131f7424ccb3c10.1920x1080.jpg?t=1473099393,https://cdn.akamai.steamstatic.com/steam/apps/293200/ss_35f5c96ac1e155ea13ad491049782d6c80913592.1920x1080.jpg?t=1473099393,https://cdn.akamai.steamstatic.com/steam/apps/293200/ss_ec752dd377a31ac730dec9ff752b3387b2683adf.1920x1080.jpg?t=1473099393",
+    "Slug": "sentinel",
+    "Meta Title": "Sentinel: Apr 22, 2014, Matthew Brown and Full Overview",
+    "Meta Description": "Looking for information on Sentinel? Check out the release date (Apr 22, 2014), developer insights from Matthew Brown, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sentinel game - Steam 293200",
+    "Canonical URL": "https://gusku.site/game/sentinel",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sentinel\", \"description\": \"Looking for information on Sentinel? Check out the release date (Apr 22, 2014), developer insights from Matthew Brown, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 22, 2014\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matthew Brown\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matthew Brown\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/293200/header.jpg?t=1473099393\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1638530,
+    "Name": "Sprite Generator",
+    "Release date": "Sep 26, 2021",
+    "About the game": "Sprite Generator lets you rapidly create thousands of interesting procedurally generated sprites for prototyping in video game. Features: Quickly generate pixel art sprites. Bulk export as sprite sheet or separate files. Export individual sprites you like by left clicking on them. Customizable color palette generator or import your own palette.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1638530/header.jpg?t=1632661228",
+    "Price": 5.99,
+    "Developers": "Jean-Michel Nadeau",
+    "Publishers": "Jean-Michel Nadeau",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1638530/ss_5c63758f6b7606ae3e5b7b39439cec3f56e058fc.1920x1080.jpg?t=1632661228,https://cdn.akamai.steamstatic.com/steam/apps/1638530/ss_14302b6a8446ab89db163d7e9ebf5021bbec5c5f.1920x1080.jpg?t=1632661228,https://cdn.akamai.steamstatic.com/steam/apps/1638530/ss_41c44c21e2dd990004367af46a7846c9c3ae7295.1920x1080.jpg?t=1632661228,https://cdn.akamai.steamstatic.com/steam/apps/1638530/ss_8fc8779489a3b84cc1290d716ace44caa5311864.1920x1080.jpg?t=1632661228,https://cdn.akamai.steamstatic.com/steam/apps/1638530/ss_eaa285bb8fc8331dffbb42f9298c5a5be900a558.1920x1080.jpg?t=1632661228",
+    "Slug": "sprite-generator",
+    "Meta Title": "Sprite Generator: Sep 26, 2021, Jean-Michel Nadeau and Fu...",
+    "Meta Description": "Looking for information on Sprite Generator? Check out the release date (Sep 26, 2021), developer insights from Jean-Michel Nadeau, and a complete game ...",
+    "Alt Text Image": "Official header image for Sprite Generator game - Steam 1638530",
+    "Canonical URL": "https://gusku.site/game/sprite-generator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sprite Generator\", \"description\": \"Looking for information on Sprite Generator? Check out the release date (Sep 26, 2021), developer insights from Jean-Michel Nadeau, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 26, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jean-Michel Nadeau\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jean-Michel Nadeau\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1638530/header.jpg?t=1632661228\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1741230,
+    "Name": "Fantasy Heroes: 4-Directional Character Editor & Sprite Sheet Maker",
+    "Release date": "Sep 27, 2021",
+    "About the game": "Fantasy Heroes 4D is a 4-directional character editor. Create and customize human characters, save them as sprite sheets and use with different game engines to make your game! You can also use Fantasy Heroes 4D for prototyping and visual reference. Asset included: Fantasy Heroes Goblin Heroes Undead Heroes Features: Create and customize characters Save and load characters as JSON Save characters as sprite sheets (flipbooks) for frame-by-frame animation Notes: Some optional animations are present for side view only and may be added with future updates. Please leave a review with your requests. Sprite sheet export options: Animations that can be exported: Idle, Walk, Run, Slash, Jab, Bow Shot, Cast, Death. Frame size: 128-512 px Frames per animation: 4-16 I'm always opened for your suggestions about new features, feel free to leave your feedback!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1741230/header.jpg?t=1653928685",
+    "Price": 19.99,
+    "Developers": "Hippo Games",
+    "Publishers": "Hippo Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1741230/ss_0f436f91efe1b0c60ca512947de351f4a32cbf6b.1920x1080.jpg?t=1653928685,https://cdn.akamai.steamstatic.com/steam/apps/1741230/ss_0b67a3c6af3930b76cc23b69c0dcc415e10b10d5.1920x1080.jpg?t=1653928685,https://cdn.akamai.steamstatic.com/steam/apps/1741230/ss_e2c34ca2876923d3d372e2d19a1d9d1d26c274c7.1920x1080.jpg?t=1653928685,https://cdn.akamai.steamstatic.com/steam/apps/1741230/ss_7a0c95f6857d162c89f6250db678be3676d6e099.1920x1080.jpg?t=1653928685,https://cdn.akamai.steamstatic.com/steam/apps/1741230/ss_1602e04812930f93cbb772a37ff6c2cdc541b42c.1920x1080.jpg?t=1653928685,https://cdn.akamai.steamstatic.com/steam/apps/1741230/ss_8953782987aa3d1444a3d231e501e614b0f4eb49.1920x1080.jpg?t=1653928685",
+    "Slug": "fantasy-heroes-4-directional-character-editor-sprite-sheet-maker",
+    "Meta Title": "Fantasy Heroes: 4-Directional Character Editor & Sprite S...",
+    "Meta Description": "Looking for information on Fantasy Heroes: 4-Directional Character Editor & Sprite Sheet Maker? Check out the release date (Sep 27, 2021), developer ins...",
+    "Alt Text Image": "Official header image for Fantasy Heroes: 4-Directional Character Editor & Sprite Sheet Maker game - Steam 1741230",
+    "Canonical URL": "https://gusku.site/game/fantasy-heroes-4-directional-character-editor-sprite-sheet-maker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fantasy Heroes: 4-Directional Character Editor & Sprite Sheet Maker\", \"description\": \"Looking for information on Fantasy Heroes: 4-Directional Character Editor & Sprite Sheet Maker? Check out the release date (Sep 27, 2021), developer ins...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hippo Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hippo Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1741230/header.jpg?t=1653928685\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2115300,
+    "Name": "Chroma Key",
+    "Release date": "Sep 5, 2022",
+    "About the game": "Chroma key is a puzzle platformer about swapping a colored lens to activate/deactivate objects in the world! Only platforms and objects whose color matches your lens will be active. Think and maneuver through 14 levels with lacks, keys, buttons &amp; receivers, bouncing balls, portal &amp; more! Accessibility is at the center of Chroma Key. Toggleable slow motion to help with difficult platforming, mouse controls as well as keyboard for most actions, fully rebindable keyboard controls, ambient hints and customizable colorblind options ensure that Chroma Key is for everyone!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2115300/header.jpg?t=1662383655",
+    "Price": 1.99,
+    "Developers": "Max Wilde",
+    "Publishers": "Max Wilde",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2115300/ss_9651c739b50d66aa630a8cd30a0a7a831922428a.1920x1080.jpg?t=1662383655,https://cdn.akamai.steamstatic.com/steam/apps/2115300/ss_9042a2eec2d9a90c8cba38d3914a5f918ef90c91.1920x1080.jpg?t=1662383655,https://cdn.akamai.steamstatic.com/steam/apps/2115300/ss_76ab6089d838fe2372e58af408fb2744b6e0edec.1920x1080.jpg?t=1662383655,https://cdn.akamai.steamstatic.com/steam/apps/2115300/ss_7284b00bafc38e9568dfa940a5234b8aa76ee80a.1920x1080.jpg?t=1662383655,https://cdn.akamai.steamstatic.com/steam/apps/2115300/ss_11e8827319695095f6086af2509d881aec7dc7d0.1920x1080.jpg?t=1662383655",
+    "Slug": "chroma-key",
+    "Meta Title": "Chroma Key: Sep 5, 2022, Max Wilde and Full Overview",
+    "Meta Description": "Looking for information on Chroma Key? Check out the release date (Sep 5, 2022), developer insights from Max Wilde, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chroma Key game - Steam 2115300",
+    "Canonical URL": "https://gusku.site/game/chroma-key",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chroma Key\", \"description\": \"Looking for information on Chroma Key? Check out the release date (Sep 5, 2022), developer insights from Max Wilde, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 5, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Max Wilde\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Max Wilde\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2115300/header.jpg?t=1662383655\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

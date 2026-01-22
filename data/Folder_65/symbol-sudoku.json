@@ -1,0 +1,21 @@
+{
+    "AppID": 1564400,
+    "Name": "Symbol Sudoku",
+    "Release date": "Oct 19, 2022",
+    "About the game": "A classic Sudoku puzzle is a puzzle in which you have to place the numbers 1-9 in 9 cells that are in one of nine boxes. The cells are arranged in 3x3 grids and the boxes are also arranged in a 3x3 grid. The numbers must be placed in such a way that no digit is duplicated within a row, column, or box. Symbol Sudoku takes this idea to another level by replacing the numbers with Greek symbols. As you solve the puzzles, you can mark the ones you like as favorites and can then generate new custom puzzles based on those favorites for infinite replayability! The following options can be enabled/disabled: Candidates/pencil marks turn red if they are invalid Candidates/pencil marks are removed when a value is placed that invalidates the mark Undo/redo moves Use alternate symbols (Greek symbols) Whether the grid layout starts with 1 in the upper-left or mimics the numpad and starts in the lower-left Features Minimalist design Keyboard shortcuts Relaxing music 5 different difficulty levels Comes with 250 puzzles Can generate infinite puzzles based on your favorites",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1564400/header.jpg?t=1666208796",
+    "Price": 2.54,
+    "Developers": "Powerline Games",
+    "Publishers": "Powerline Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1564400/ss_f7a1c88a060e70c28518f99ee77604452874d79b.1920x1080.jpg?t=1666208796,https://cdn.akamai.steamstatic.com/steam/apps/1564400/ss_d9407c49df3aebf14b1a2890e9938ec413f0333e.1920x1080.jpg?t=1666208796,https://cdn.akamai.steamstatic.com/steam/apps/1564400/ss_adec7dcf07ce1bfb7b70d3823f65f9748d0a6a19.1920x1080.jpg?t=1666208796,https://cdn.akamai.steamstatic.com/steam/apps/1564400/ss_2b55e1194342bc202aa70bae663e068c2f443751.1920x1080.jpg?t=1666208796,https://cdn.akamai.steamstatic.com/steam/apps/1564400/ss_5be198fa362f8caf92424040718a1eb9f2ec4efb.1920x1080.jpg?t=1666208796",
+    "Slug": "symbol-sudoku",
+    "Meta Title": "Symbol Sudoku: Oct 19, 2022, Powerline Games and Full Ove...",
+    "Meta Description": "Looking for information on Symbol Sudoku? Check out the release date (Oct 19, 2022), developer insights from Powerline Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Symbol Sudoku game - Steam 1564400",
+    "Canonical URL": "https://gusku.site/game/symbol-sudoku",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Symbol Sudoku\", \"description\": \"Looking for information on Symbol Sudoku? Check out the release date (Oct 19, 2022), developer insights from Powerline Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 19, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Powerline Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Powerline Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1564400/header.jpg?t=1666208796\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.54, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

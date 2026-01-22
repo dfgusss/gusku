@@ -1,0 +1,21 @@
+{
+    "AppID": 1600810,
+    "Name": "Pixel Speedrun",
+    "Release date": "May 21, 2021",
+    "About the game": "Hi! Once a small project, now on Steam! A few years ago I made a game that had found great favor in the Scirra community. With still increasing 150'000+ plays it ended up on the third page of the top games. This motivated me extremely to create a new game. New/More Levels New Obstacles a... proper Timer Endscreen Stats / Graphs to compare your run to your Personal Best I am really happy to have made it to this point. Thank you to everyone who supports my project!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1600810/header.jpg?t=1623138374",
+    "Price": 2.99,
+    "Developers": "vendara",
+    "Publishers": "Indie Falcon",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1600810/ss_9d5241d1dd4bd3d03b9a5ccb6809e549ba4be58e.1920x1080.jpg?t=1623138374,https://cdn.akamai.steamstatic.com/steam/apps/1600810/ss_388de4acacb2758a7bd7170370a363675c7554ed.1920x1080.jpg?t=1623138374,https://cdn.akamai.steamstatic.com/steam/apps/1600810/ss_4368679300909143e47430cf4924a1434b8f70a1.1920x1080.jpg?t=1623138374,https://cdn.akamai.steamstatic.com/steam/apps/1600810/ss_bee247e31211bbce794ab59acae6bf5a183b8a67.1920x1080.jpg?t=1623138374,https://cdn.akamai.steamstatic.com/steam/apps/1600810/ss_a7bbc42900390588aa40e957fe608441aa2f4d00.1920x1080.jpg?t=1623138374,https://cdn.akamai.steamstatic.com/steam/apps/1600810/ss_47cd9c0b2d305f903d9c726c030aaab8b5cb5c8b.1920x1080.jpg?t=1623138374",
+    "Slug": "pixel-speedrun",
+    "Meta Title": "Pixel Speedrun: May 21, 2021, vendara and Full Overview",
+    "Meta Description": "Looking for information on Pixel Speedrun? Check out the release date (May 21, 2021), developer insights from vendara, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixel Speedrun game - Steam 1600810",
+    "Canonical URL": "https://gusku.site/game/pixel-speedrun",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixel Speedrun\", \"description\": \"Looking for information on Pixel Speedrun? Check out the release date (May 21, 2021), developer insights from vendara, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 21, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"vendara\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Indie Falcon\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1600810/header.jpg?t=1623138374\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

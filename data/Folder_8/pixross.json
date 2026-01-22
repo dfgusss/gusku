@@ -1,0 +1,21 @@
+{
+    "AppID": 1489680,
+    "Name": "Pixross",
+    "Release date": "Dec 15, 2020",
+    "About the game": "Pixross is a picture logic puzzle game featuring 170+ unique puzzles, customization and extra challenges for each puzzle. Unlock new puzzle packs or customization options by completing puzzles! Hundreds of challenging puzzles – Each puzzle pack has a specific theme, you can unlock new packs by completing puzzles. Add extra challenges – Add challenges to puzzles like clues that disappear, mirroring or only allowing a single mistake to be made! Customize to your liking – Next to changing the game rules you'll also be able to unlock and customize the visuals like backgrounds, tiles and fonts (50 options). The game can only be played using a mouse. Windows and Linux compatible, not compatible with other operating systems.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1489680/header.jpg?t=1634034822",
+    "Price": 3.99,
+    "Developers": "Kenney",
+    "Publishers": "Kenney",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1489680/ss_913c06ff8b72d448746d6994429307da2c2d6f99.1920x1080.jpg?t=1634034822,https://cdn.akamai.steamstatic.com/steam/apps/1489680/ss_180473917275f4d63fa611b5dde6f6b8558c7414.1920x1080.jpg?t=1634034822,https://cdn.akamai.steamstatic.com/steam/apps/1489680/ss_38689bb95bb9be99f4369ca687d7f6b2edcf8976.1920x1080.jpg?t=1634034822,https://cdn.akamai.steamstatic.com/steam/apps/1489680/ss_a2156df45cf044e48a59986281d04a5118621d91.1920x1080.jpg?t=1634034822,https://cdn.akamai.steamstatic.com/steam/apps/1489680/ss_020bd5e74bcecbde3d6b8020461602996a51c2d3.1920x1080.jpg?t=1634034822",
+    "Slug": "pixross",
+    "Meta Title": "Pixross: Dec 15, 2020, Kenney and Full Overview",
+    "Meta Description": "Looking for information on Pixross? Check out the release date (Dec 15, 2020), developer insights from Kenney, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixross game - Steam 1489680",
+    "Canonical URL": "https://gusku.site/game/pixross",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixross\", \"description\": \"Looking for information on Pixross? Check out the release date (Dec 15, 2020), developer insights from Kenney, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 15, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kenney\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kenney\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1489680/header.jpg?t=1634034822\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

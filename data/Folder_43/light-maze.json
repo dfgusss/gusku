@@ -1,0 +1,21 @@
+{
+    "AppID": 2023910,
+    "Name": "Light Maze",
+    "Release date": "Jul 18, 2022",
+    "About the game": "Gameplay: You will be controlling a cube around multiple levels with varying degrees of difficulty. As you navigate, the tile underneath you will light up and stay lit until you complete the level. Features: Simple controls. Move up, down, left, or right. As a tile lights up, the level gradually illuminates. 100 different levels. Varying levels of difficulty. Save system. Delete it too if you want. Controls: WASD IJKL 8456 or 8426 on the Numpad Arrow Keys This list of controls is accessible in the game. Other Keybinds: P or Escape Key to pause the game. R key to restart the level. Bugs, Issues, Feedback, Suggestions, etc: Whatever it is, please feel free go to the Community Hub Discussion section for this game and ask away.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2023910/header.jpg?t=1658833995",
+    "Price": 0.0,
+    "Developers": "catgrease",
+    "Publishers": "catgrease",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2023910/ss_84af7f8b4d64b518c215d19132a045615c5108c4.1920x1080.jpg?t=1658833995,https://cdn.akamai.steamstatic.com/steam/apps/2023910/ss_632d83839f48825fd4fd48f200666862d944e51f.1920x1080.jpg?t=1658833995,https://cdn.akamai.steamstatic.com/steam/apps/2023910/ss_e0f119d854849207250f6072d21940b9afddee3b.1920x1080.jpg?t=1658833995,https://cdn.akamai.steamstatic.com/steam/apps/2023910/ss_81bbf9de48bf7742143e01b046eff6dac68fd0a1.1920x1080.jpg?t=1658833995,https://cdn.akamai.steamstatic.com/steam/apps/2023910/ss_6833e3346e9cb18b33d2cc521a0481aa9be741fa.1920x1080.jpg?t=1658833995",
+    "Slug": "light-maze",
+    "Meta Title": "Light Maze: Jul 18, 2022, catgrease and Full Overview",
+    "Meta Description": "Looking for information on Light Maze? Check out the release date (Jul 18, 2022), developer insights from catgrease, and a complete game summary.",
+    "Alt Text Image": "Official header image for Light Maze game - Steam 2023910",
+    "Canonical URL": "https://gusku.site/game/light-maze",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Light Maze\", \"description\": \"Looking for information on Light Maze? Check out the release date (Jul 18, 2022), developer insights from catgrease, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 18, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"catgrease\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"catgrease\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2023910/header.jpg?t=1658833995\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

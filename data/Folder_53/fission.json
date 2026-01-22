@@ -1,0 +1,21 @@
+{
+    "AppID": 1492990,
+    "Name": "Fission",
+    "Release date": "Dec 18, 2020",
+    "About the game": "Fission - is a casual game where you control a dark cube that moves forward and your task is to break rotating golden cubes. For each broken gold cube, you get one point. The difficulty is that on your way you come across gray cubes and parallelepipeds, if you come across at least one of them, you will immediately lose and you will have to start over. Also, over time, your speed increases, which gradually complicates the gameplay as well. How many points can you collect? Features: - Simple gameplay - Increasing difficulty - Pleasant music - Minimalistic graphics",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1492990/header.jpg?t=1608306886",
+    "Price": 0.99,
+    "Developers": "kashW",
+    "Publishers": "kash gry",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1492990/ss_8222ee72e7720b51b437e54632d53300103a3e21.1920x1080.jpg?t=1608306886,https://cdn.akamai.steamstatic.com/steam/apps/1492990/ss_793dbac17238faa12b2512e2782cc525122fdf8f.1920x1080.jpg?t=1608306886,https://cdn.akamai.steamstatic.com/steam/apps/1492990/ss_d613205f2e624b1d7646694d158ce018f4ab41be.1920x1080.jpg?t=1608306886,https://cdn.akamai.steamstatic.com/steam/apps/1492990/ss_55a8cd98f0c3d814b15204c4dc7f3cdfe1e5dfa7.1920x1080.jpg?t=1608306886,https://cdn.akamai.steamstatic.com/steam/apps/1492990/ss_1fcd5b972403490da0bac1ecd44569021a6557d6.1920x1080.jpg?t=1608306886",
+    "Slug": "fission",
+    "Meta Title": "Fission: Dec 18, 2020, kashW and Full Overview",
+    "Meta Description": "Looking for information on Fission? Check out the release date (Dec 18, 2020), developer insights from kashW, and a complete game summary.",
+    "Alt Text Image": "Official header image for Fission game - Steam 1492990",
+    "Canonical URL": "https://gusku.site/game/fission",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fission\", \"description\": \"Looking for information on Fission? Check out the release date (Dec 18, 2020), developer insights from kashW, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 18, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"kashW\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"kash gry\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1492990/header.jpg?t=1608306886\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

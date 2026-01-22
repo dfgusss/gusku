@@ -1,0 +1,21 @@
+{
+    "AppID": 1243580,
+    "Name": "Stalker",
+    "Release date": "Jul 28, 2020",
+    "About the game": "Further development of a game started since the Global Game Jam 2020 for steam publishing. The background story of 'Stalker' is that a teenager encounters various events on the road following a young girl. The teenager (player) can selectively interact and give repairs / help due to these events. How the teenager (player) choose will lead to different ending. You may meet a patient with heart disease, but in order not to lose the girl, you ignore his heart attack and doesn't provide help; you may also encounter a falling cat. Even if the cat will not die, you still hugged her in time because of her cuteness; you may pass by a residential area on a stormy day. Trash cans are all overturned, and you choose to fix them for a better world. The game can be played many times to achieve different achievements and unlock various CGs.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1243580/header.jpg?t=1595940619",
+    "Price": 0.99,
+    "Developers": "NetBit @UW,UWNBoundless",
+    "Publishers": "NetBit @UW",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1243580/ss_b78c27db41f3d98baab5300cf123ac6faa1c397f.1920x1080.jpg?t=1595940619,https://cdn.akamai.steamstatic.com/steam/apps/1243580/ss_d4d963e8d7371b162e54c810384d7998729226b3.1920x1080.jpg?t=1595940619,https://cdn.akamai.steamstatic.com/steam/apps/1243580/ss_6c9cbf821cadbf22b6d2b29fa3541d7617030be8.1920x1080.jpg?t=1595940619,https://cdn.akamai.steamstatic.com/steam/apps/1243580/ss_a545c831586be7a2121f5d01645eebdea295630a.1920x1080.jpg?t=1595940619,https://cdn.akamai.steamstatic.com/steam/apps/1243580/ss_942c3c4e9987683c1fc5c28f9bb17b33c3aeea42.1920x1080.jpg?t=1595940619,https://cdn.akamai.steamstatic.com/steam/apps/1243580/ss_c56f12741ec7eb25b87bcbcb6d12eb3eb5bc7c8d.1920x1080.jpg?t=1595940619",
+    "Slug": "stalker",
+    "Meta Title": "Stalker: Jul 28, 2020, NetBit @UW,UWNBoundless and Full O...",
+    "Meta Description": "Looking for information on Stalker? Check out the release date (Jul 28, 2020), developer insights from NetBit @UW,UWNBoundless, and a complete game summ...",
+    "Alt Text Image": "Official header image for Stalker game - Steam 1243580",
+    "Canonical URL": "https://gusku.site/game/stalker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Stalker\", \"description\": \"Looking for information on Stalker? Check out the release date (Jul 28, 2020), developer insights from NetBit @UW,UWNBoundless, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 28, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"NetBit @UW,UWNBoundless\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"NetBit @UW\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1243580/header.jpg?t=1595940619\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

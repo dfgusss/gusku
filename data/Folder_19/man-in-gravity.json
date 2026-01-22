@@ -1,0 +1,21 @@
+{
+    "AppID": 1386810,
+    "Name": "Man in gravity",
+    "Release date": "Aug 11, 2020",
+    "About the game": "Man in gravity - a runner in which the player is able to control the force of gravity (change the gravity up and down). The goal of the player is to run as far as possible, and preferably get a better result than other players (the game has a leaderboard). The visual design of the game was designed in minimalism. The entire game world is generated from pre-prepared sections of tunnels. In this game, the key role is played not only by the skill of dexterity of the player, but also his luck. Press space bar to change the gravity! Key features: - Procedural generation; - Minimalism; - 6 easy achievements; - Nice soundtrack.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1386810/header.jpg?t=1597250172",
+    "Price": 24.99,
+    "Developers": "Laush Dmitriy Sergeevich",
+    "Publishers": "Laush Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1386810/ss_193ac4aa0dc3f42fb3904191c98721021d1b0bd2.1920x1080.jpg?t=1597250172,https://cdn.akamai.steamstatic.com/steam/apps/1386810/ss_63292a520a6b29b5b282d08dcfacecc3d479b4e4.1920x1080.jpg?t=1597250172,https://cdn.akamai.steamstatic.com/steam/apps/1386810/ss_df7429b5a3ed7203cc7dd35712f9ccb9ff31a920.1920x1080.jpg?t=1597250172,https://cdn.akamai.steamstatic.com/steam/apps/1386810/ss_55eec10a8d64e13454ffc0da29df348fb41a7205.1920x1080.jpg?t=1597250172,https://cdn.akamai.steamstatic.com/steam/apps/1386810/ss_b1989d56280a13fbc3eb94762ba7173d7396db0c.1920x1080.jpg?t=1597250172",
+    "Slug": "man-in-gravity",
+    "Meta Title": "Man in gravity: Aug 11, 2020, Laush Dmitriy Sergeevich an...",
+    "Meta Description": "Looking for information on Man in gravity? Check out the release date (Aug 11, 2020), developer insights from Laush Dmitriy Sergeevich, and a complete g...",
+    "Alt Text Image": "Official header image for Man in gravity game - Steam 1386810",
+    "Canonical URL": "https://gusku.site/game/man-in-gravity",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Man in gravity\", \"description\": \"Looking for information on Man in gravity? Check out the release date (Aug 11, 2020), developer insights from Laush Dmitriy Sergeevich, and a complete g...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 11, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Laush Dmitriy Sergeevich\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Laush Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1386810/header.jpg?t=1597250172\", \"offers\": {\"@type\": \"Offer\", \"price\": 24.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

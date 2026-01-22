@@ -1,0 +1,21 @@
+{
+    "AppID": 1707310,
+    "Name": "Rue",
+    "Release date": "Aug 26, 2021",
+    "About the game": "State: The game is currently in Alpha and under active development. Some polish and features are missing, but feel free to enjoy the game until those are done. A card game where all the players are sitting around a table. A rose appears on the table that moves around. The aim of the game is for each player to have the rose in front of them at the end of the round. Each player can use cards that influence the rose’s movement.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1707310/header.jpg?t=1629973793",
+    "Price": 0.0,
+    "Developers": "Dark Dimension",
+    "Publishers": "Dark Dimension",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1707310/ss_8d0bd5ac76421a48c439d625853f990bad990d5a.1920x1080.jpg?t=1629973793,https://cdn.akamai.steamstatic.com/steam/apps/1707310/ss_97ea68dbfa6bd5c765e455563c730839f9194fbd.1920x1080.jpg?t=1629973793,https://cdn.akamai.steamstatic.com/steam/apps/1707310/ss_246b5688a3c46a3c02650ccfb5709e154586f4b4.1920x1080.jpg?t=1629973793,https://cdn.akamai.steamstatic.com/steam/apps/1707310/ss_42858b8ad71976e43d927e9d9947920bce02e125.1920x1080.jpg?t=1629973793,https://cdn.akamai.steamstatic.com/steam/apps/1707310/ss_f6cfeb55273234705d5adb7151f1374abfec9399.1920x1080.jpg?t=1629973793",
+    "Slug": "rue",
+    "Meta Title": "Rue: Aug 26, 2021, Dark Dimension and Full Overview",
+    "Meta Description": "Looking for information on Rue? Check out the release date (Aug 26, 2021), developer insights from Dark Dimension, and a complete game summary.",
+    "Alt Text Image": "Official header image for Rue game - Steam 1707310",
+    "Canonical URL": "https://gusku.site/game/rue",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Rue\", \"description\": \"Looking for information on Rue? Check out the release date (Aug 26, 2021), developer insights from Dark Dimension, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 26, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dark Dimension\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dark Dimension\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1707310/header.jpg?t=1629973793\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1829620,
+    "Name": "Late Bird",
+    "Release date": "Jan 20, 2022",
+    "About the game": "Late Bird is a short (10 min), experimental interactive story about birds, movies, suicidal thoughts and not growing up in time. Go through three chapters, reflecting the author's views on life, meaning and emotional maturity. This interactive experience is an attempt to process my own feelings about life and constantly feeling like an angsty teenager despite being 32 at the moment of making this. In case you feel like you 'need to do grownup things because I am a grownup' - you might relate to this. If you are struggling with suicidal thoughts, please look up international suicide hotlines and reach out to somebody.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1829620/header.jpg?t=1642698016",
+    "Price": 0.99,
+    "Developers": "Vladimir Slav",
+    "Publishers": "Coldwild Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1829620/ss_14d082eae12b1f88995164712419ca4ff2dca0e0.1920x1080.jpg?t=1642698016,https://cdn.akamai.steamstatic.com/steam/apps/1829620/ss_931ad84c287c7786261a1a1fc90acbc7e6e52610.1920x1080.jpg?t=1642698016,https://cdn.akamai.steamstatic.com/steam/apps/1829620/ss_0242841f75c9c31343ec688a0d21ce91bf45178a.1920x1080.jpg?t=1642698016,https://cdn.akamai.steamstatic.com/steam/apps/1829620/ss_7308c4fb93fc62585909b69e857b8e14ae498f88.1920x1080.jpg?t=1642698016,https://cdn.akamai.steamstatic.com/steam/apps/1829620/ss_4c5081d11d659cd9fa6f598069153ee5dbefb291.1920x1080.jpg?t=1642698016",
+    "Slug": "late-bird",
+    "Meta Title": "Late Bird: Jan 20, 2022, Vladimir Slav and Full Overview",
+    "Meta Description": "Looking for information on Late Bird? Check out the release date (Jan 20, 2022), developer insights from Vladimir Slav, and a complete game summary.",
+    "Alt Text Image": "Official header image for Late Bird game - Steam 1829620",
+    "Canonical URL": "https://gusku.site/game/late-bird",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Late Bird\", \"description\": \"Looking for information on Late Bird? Check out the release date (Jan 20, 2022), developer insights from Vladimir Slav, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vladimir Slav\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Coldwild Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1829620/header.jpg?t=1642698016\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

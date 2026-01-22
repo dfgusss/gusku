@@ -1,0 +1,21 @@
+{
+    "AppID": 870150,
+    "Name": "Jumponaut",
+    "Release date": "Jun 16, 2018",
+    "About the game": "Jumponaut is a minimalist game about mastering strategic platforming. The game is designed for people who enjoy short bursts of intense action and strive to improve their rhythm and platforming skills. Several difficulty settings and a training mode help to become gradually better at the game. Features &amp; Properties Smooth 60 fps and clockwork perfect game mechanics Deterministic game rules (randomness only in visual effects) Single-player and 2-player local multi-player in all game modes Meaningful achievements encouraging diverse styles of play Highscore Arcade mode Score Rush - Chase score in a limited amount of time. Survival - Battery is rechargeable but draining. Extend survival. Co-op mode Versus mode Training mode Rebindable keys Gamepad support Custom-built engine: C++ &amp; SDL",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/870150/header.jpg?t=1530931579",
+    "Price": 0.99,
+    "Developers": "Juri Schupilo",
+    "Publishers": "Juri Schupilo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/870150/ss_7068c1ca275d04e0e8cc1bc418a6cc625927a0ce.1920x1080.jpg?t=1530931579,https://cdn.akamai.steamstatic.com/steam/apps/870150/ss_c4960b5b626d3e4182e4a2fc5d7ce99306f53c45.1920x1080.jpg?t=1530931579,https://cdn.akamai.steamstatic.com/steam/apps/870150/ss_28c8c53a1a99773a37c133a9cef20d1d7f978015.1920x1080.jpg?t=1530931579,https://cdn.akamai.steamstatic.com/steam/apps/870150/ss_33ecabcf3631aa91d0742ac72f92eb6a7d9d6613.1920x1080.jpg?t=1530931579,https://cdn.akamai.steamstatic.com/steam/apps/870150/ss_ba88591cf3c77fa542dbc6e29426bd6ce126f2d2.1920x1080.jpg?t=1530931579,https://cdn.akamai.steamstatic.com/steam/apps/870150/ss_9628cdb670de3e2c1fc14f63c635524f43a4f6eb.1920x1080.jpg?t=1530931579,https://cdn.akamai.steamstatic.com/steam/apps/870150/ss_e937367a7230bfc98faf28fef850d75d1678300b.1920x1080.jpg?t=1530931579",
+    "Slug": "jumponaut",
+    "Meta Title": "Jumponaut: Jun 16, 2018, Juri Schupilo and Full Overview",
+    "Meta Description": "Looking for information on Jumponaut? Check out the release date (Jun 16, 2018), developer insights from Juri Schupilo, and a complete game summary.",
+    "Alt Text Image": "Official header image for Jumponaut game - Steam 870150",
+    "Canonical URL": "https://gusku.site/game/jumponaut",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Jumponaut\", \"description\": \"Looking for information on Jumponaut? Check out the release date (Jun 16, 2018), developer insights from Juri Schupilo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 16, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Juri Schupilo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Juri Schupilo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/870150/header.jpg?t=1530931579\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

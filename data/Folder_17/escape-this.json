@@ -1,0 +1,21 @@
+{
+    "AppID": 467370,
+    "Name": "Escape This",
+    "Release date": "May 4, 2016",
+    "About the game": "Escape This is a casual puzzle game where the main objective is for the player to complete the given stage. Each stage is selected at random. All maps can be edited and you are also able to create your own unique maps and share them with the rest of the community. Can you escape?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/467370/header.jpg?t=1618885661",
+    "Price": 0.99,
+    "Developers": "Four Winged Studio",
+    "Publishers": "Four Winged Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/467370/ss_2a87e086c2696d7cb8db79f44a3e98d43c180451.1920x1080.jpg?t=1618885661,https://cdn.akamai.steamstatic.com/steam/apps/467370/ss_4323161f32fcba58314ff6023dd4e473415e8ddc.1920x1080.jpg?t=1618885661,https://cdn.akamai.steamstatic.com/steam/apps/467370/ss_ce471b3c48af58beac75e00872b794da8909aec5.1920x1080.jpg?t=1618885661,https://cdn.akamai.steamstatic.com/steam/apps/467370/ss_c12423a76bc7c9c432bc43fe79a81c31c8b27396.1920x1080.jpg?t=1618885661,https://cdn.akamai.steamstatic.com/steam/apps/467370/ss_4bf8dc0b2a6ab78165f0688f8bfb1dcc5e426bab.1920x1080.jpg?t=1618885661",
+    "Slug": "escape-this",
+    "Meta Title": "Escape This: May 4, 2016, Four Winged Studio and Full Ove...",
+    "Meta Description": "Looking for information on Escape This? Check out the release date (May 4, 2016), developer insights from Four Winged Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Escape This game - Steam 467370",
+    "Canonical URL": "https://gusku.site/game/escape-this",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Escape This\", \"description\": \"Looking for information on Escape This? Check out the release date (May 4, 2016), developer insights from Four Winged Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 4, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Four Winged Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Four Winged Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/467370/header.jpg?t=1618885661\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2156010,
+    "Name": "Wallpaper Web",
+    "Release date": "Oct 28, 2022",
+    "About the game": "allows you to get the system information and interaction of your local computer with your web wallpaper: open the local APP, get the volume of the computer, cpu usage...You will need to use the api provided by the software to make your own html web wallpaper! Use it together with other web wallpaper software!DLC will be updated in the future with standalone support for setting wallpapers. No UI, Automatic startup after startup, Mini memory footprint",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2156010/header.jpg?t=1666979919",
+    "Price": 0.99,
+    "Developers": "QingShirt",
+    "Publishers": "QingShirt",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2156010/ss_931a8cc4495a980319a413c44f23c58a589796f6.1920x1080.jpg?t=1666979919,https://cdn.akamai.steamstatic.com/steam/apps/2156010/ss_a642c0e095cb9e46eb14dbf9e8d51811484d60f8.1920x1080.jpg?t=1666979919,https://cdn.akamai.steamstatic.com/steam/apps/2156010/ss_6e69535aa2e9187347dfd3b3faa9a757f7085c15.1920x1080.jpg?t=1666979919,https://cdn.akamai.steamstatic.com/steam/apps/2156010/ss_d0b0a9fbb21a87a366dd1e4543ae44a3e1ab8a20.1920x1080.jpg?t=1666979919,https://cdn.akamai.steamstatic.com/steam/apps/2156010/ss_f38ad4a3a00831f474567e0263d26a4bf1cc4aca.1920x1080.jpg?t=1666979919",
+    "Slug": "wallpaper-web",
+    "Meta Title": "Wallpaper Web: Oct 28, 2022, QingShirt and Full Overview",
+    "Meta Description": "Looking for information on Wallpaper Web? Check out the release date (Oct 28, 2022), developer insights from QingShirt, and a complete game summary.",
+    "Alt Text Image": "Official header image for Wallpaper Web game - Steam 2156010",
+    "Canonical URL": "https://gusku.site/game/wallpaper-web",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Wallpaper Web\", \"description\": \"Looking for information on Wallpaper Web? Check out the release date (Oct 28, 2022), developer insights from QingShirt, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 28, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"QingShirt\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QingShirt\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2156010/header.jpg?t=1666979919\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

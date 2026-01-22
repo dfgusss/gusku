@@ -1,0 +1,21 @@
+{
+    "AppID": 1509960,
+    "Name": "PICO PARK",
+    "Release date": "May 7, 2021",
+    "About the game": "* If you are connecting more than 5 Xbox controllers, please enable 'Xbox Extended Feature Support' in Controller Settings. PICO PARK is a cooperative local/online multiplay action puzzle game for 2-8 players. The rule is quite simple: 'Get all the keys and get to the goal and clear', but all 48 levels have special gimmicks designed specifically for multiplayer. At most levels, different gimmicks will appear as you move forward, and you will need to consult with your peers and think about new ways to cooperate. This version is essentially a port of the one we released on the Nintendo Switch in 2019. However, it's not just a port, it now supports online play. The 2016 version of this link has been renamed 'PICO PARK:Classic Edition' / [Flexible Level] Each level of PICO PARK can be cleared when players get the key,unlock the door and all players reach it.But, every level requires cooperation to complete.. [Battle Mode] Co-op play is the main work of this game, but let's compete with friends in BATTLE MODE once co-op play is completed. [Endless Mode] Even if you complete all 48 stages, you can play ENDLESS mode to aim at high score by collaborating with friends. By collaborating with friends, your score will grow faster. [Online Play Mode] You can play together online with people who are far away from you. However, this is a game where communication is very important, so we recommend using Discord or Zoom to play while talking. [TecoGamePad] TecoGamePad change your smartphone turn to gamepad (for local play mode) Android: iOS: Let's have fun playing PICO PARK with your friends!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1509960/header.jpg?t=1627200665",
+    "Price": 4.99,
+    "Developers": "TECOPARK",
+    "Publishers": "TECOPARK",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1509960/ss_d54c6fd82d8c804939d136356eda364295a788cd.1920x1080.jpg?t=1627200665,https://cdn.akamai.steamstatic.com/steam/apps/1509960/ss_f356434b667dd6f5ff948a87d4d8486d29e31b36.1920x1080.jpg?t=1627200665,https://cdn.akamai.steamstatic.com/steam/apps/1509960/ss_4c0452c49441d29f962b9b5f15299edff26a5d0a.1920x1080.jpg?t=1627200665,https://cdn.akamai.steamstatic.com/steam/apps/1509960/ss_a2075d021825129e4b297d217f517cc8ea410d45.1920x1080.jpg?t=1627200665,https://cdn.akamai.steamstatic.com/steam/apps/1509960/ss_829139a0569f3a9f02786c7729800d9e4354814a.1920x1080.jpg?t=1627200665",
+    "Slug": "pico-park",
+    "Meta Title": "PICO PARK: May 7, 2021, TECOPARK and Full Overview",
+    "Meta Description": "Looking for information on PICO PARK? Check out the release date (May 7, 2021), developer insights from TECOPARK, and a complete game summary.",
+    "Alt Text Image": "Official header image for PICO PARK game - Steam 1509960",
+    "Canonical URL": "https://gusku.site/game/pico-park",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PICO PARK\", \"description\": \"Looking for information on PICO PARK? Check out the release date (May 7, 2021), developer insights from TECOPARK, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 7, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"TECOPARK\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TECOPARK\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1509960/header.jpg?t=1627200665\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

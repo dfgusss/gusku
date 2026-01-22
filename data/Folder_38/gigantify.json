@@ -1,0 +1,21 @@
+{
+    "AppID": 1858580,
+    "Name": "巨 ~Gigantify~",
+    "Release date": "Jan 23, 2022",
+    "About the game": "This is a small Puzzle Platformer where you dynamically scaling through the game. You can precisely move around, get blocked everywhere; Or become giant but bulky, destroy obstacles with your body weight. Chain the advantages of different sizes to clear the level! Mechanics: 巨 (Gigantify): This will make you big for 5 seconds. You will have all sorts of power, but to go anywhere, You'll have to build up speed beforehand. Solid Brick: It's solid. There is no way to break it. There are some fake ones with the same texture though. Breakable Brick: If you are big, this can be broken. Otherwise it will block you when you're small. Spring: When you're big, you can compress them; If you are small and tough the compressed spring, It will release and give you a huge amount of velocity. There are 6 levels, each has 2 exits while 1 hidden somewhere. Find each one of them for...nothing. Have fun!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1858580/header.jpg?t=1643158560",
+    "Price": 0.99,
+    "Developers": "EviTRea",
+    "Publishers": "EviTRea",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1858580/ss_f7f236e395b24ce6a156f77dfb3336f891d06ab9.1920x1080.jpg?t=1643158560,https://cdn.akamai.steamstatic.com/steam/apps/1858580/ss_9a9e08d5665a888b6b1897ba78e7a0edee877ded.1920x1080.jpg?t=1643158560,https://cdn.akamai.steamstatic.com/steam/apps/1858580/ss_be702d2db578ca327c95177171a73d84392e69af.1920x1080.jpg?t=1643158560,https://cdn.akamai.steamstatic.com/steam/apps/1858580/ss_f71390ac40488b5a4d2ceaf07a37bc3828b57ffd.1920x1080.jpg?t=1643158560,https://cdn.akamai.steamstatic.com/steam/apps/1858580/ss_4c90276e5f7b802777957cd26b7eab401bb8c860.1920x1080.jpg?t=1643158560",
+    "Slug": "gigantify",
+    "Meta Title": "巨 ~Gigantify~: Jan 23, 2022, EviTRea and Full Overview",
+    "Meta Description": "Looking for information on 巨 ~Gigantify~? Check out the release date (Jan 23, 2022), developer insights from EviTRea, and a complete game summary.",
+    "Alt Text Image": "Official header image for 巨 ~Gigantify~ game - Steam 1858580",
+    "Canonical URL": "https://gusku.site/game/gigantify",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u5de8 ~Gigantify~\", \"description\": \"Looking for information on \\u5de8 ~Gigantify~? Check out the release date (Jan 23, 2022), developer insights from EviTRea, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 23, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"EviTRea\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"EviTRea\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1858580/header.jpg?t=1643158560\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1588390,
+    "Name": "FaceWorld",
+    "Release date": "Jul 16, 2022",
+    "About the game": "basic introduction: 'FaceWorld' is a software that only requires a normal camera and a normal CPU to perform facial expressions and motion capture to operate pre-made or custom 3D virtual images and Live2d images. The development of five-finger gesture recognition and half-length body motion recognition that do not require motion capture equipment and depth cameras only require ordinary cameras. It has a wide range of application scenarios such as live broadcast, scene animation, video and film creation, education, web conference, video chat, KTV, etc. Compared with similar software, the problems that I hope to solve include cross-platform support such as support for multiple platforms such as MAC, support for weak light sources, face occlusion such as glasses and even masks, and solve the obvious jitter problem during motion capture. Relying only on ordinary cameras, five-finger gesture recognition, half-length and full-body motion capture without additional professional equipment.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1588390/header.jpg?t=1658426127",
+    "Price": 3.99,
+    "Developers": "wk",
+    "Publishers": "wk",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1588390/ss_919eec01e831ec9e3a42e6c0d63c9cad0d5e56ec.1920x1080.jpg?t=1658426127,https://cdn.akamai.steamstatic.com/steam/apps/1588390/ss_75c02600b770e54e195a871964b3dd1bc0f666d0.1920x1080.jpg?t=1658426127,https://cdn.akamai.steamstatic.com/steam/apps/1588390/ss_0e2277f419d4b1e9c3bfed0c94cd42a2823adb08.1920x1080.jpg?t=1658426127,https://cdn.akamai.steamstatic.com/steam/apps/1588390/ss_10b19e150d2f0e56aaa7c2161e9683a38bd81589.1920x1080.jpg?t=1658426127,https://cdn.akamai.steamstatic.com/steam/apps/1588390/ss_fe895b64c97a48d7374353a1baa79de4391e5b9b.1920x1080.jpg?t=1658426127,https://cdn.akamai.steamstatic.com/steam/apps/1588390/ss_82c1eae7a970cb6fcb9be11c31cc5375ab7de760.1920x1080.jpg?t=1658426127,https://cdn.akamai.steamstatic.com/steam/apps/1588390/ss_6d46ec28187499e243a42f55289a131d8ab1f426.1920x1080.jpg?t=1658426127",
+    "Slug": "faceworld",
+    "Meta Title": "FaceWorld: Jul 16, 2022, wk and Full Overview",
+    "Meta Description": "Looking for information on FaceWorld? Check out the release date (Jul 16, 2022), developer insights from wk, and a complete game summary.",
+    "Alt Text Image": "Official header image for FaceWorld game - Steam 1588390",
+    "Canonical URL": "https://gusku.site/game/faceworld",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FaceWorld\", \"description\": \"Looking for information on FaceWorld? Check out the release date (Jul 16, 2022), developer insights from wk, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 16, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"wk\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"wk\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1588390/header.jpg?t=1658426127\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

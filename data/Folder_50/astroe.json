@@ -1,0 +1,21 @@
+{
+    "AppID": 705800,
+    "Name": "Astroe",
+    "Release date": "Sep 29, 2017",
+    "About the game": "Astroe is a multiplayer 2D space battle game. Destroy asteroids to mine gold and to upgrade your ship. Team up and play with other players from around the world. Game Modes Satellites - Players are split into two teams. A team wins by capturing all of the satellites. To capture a satellite move your ship inside the circle around the satellite. If a player stays in the circle for 5 seconds they will capture the satellite for their team. Satellites give gold to all players on the team every 30 seconds. 12 satellites. 30 players max. Free for All - No rules, just a bunch of ships destroying each other. 50 players max. Game restarts every 6 hours. Controls Left mouse button to fire. Right mouse button or spacebar for main engines. Arrow keys or WASD keys for directional engines. The Steam version of Astroe has no ads or wait time between respawning. Play for free with ads on the website.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/705800/header.jpg?t=1534881028",
+    "Price": 0.0,
+    "Developers": "Superstruct",
+    "Publishers": "Superstruct",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/705800/ss_062af27d2a183bf7b06cbd2bc96e73f74cc51d32.1920x1080.jpg?t=1534881028,https://cdn.akamai.steamstatic.com/steam/apps/705800/ss_67cd282f21ddff2501079415e870b90d33e60bf2.1920x1080.jpg?t=1534881028,https://cdn.akamai.steamstatic.com/steam/apps/705800/ss_cd747d9a6e83215da3a928de162749dff20aafae.1920x1080.jpg?t=1534881028,https://cdn.akamai.steamstatic.com/steam/apps/705800/ss_4225593fe88fa8b07992fd1f3900dd14d68f207c.1920x1080.jpg?t=1534881028,https://cdn.akamai.steamstatic.com/steam/apps/705800/ss_db1e18e566d86752e58fa196d97222ac193bdadd.1920x1080.jpg?t=1534881028",
+    "Slug": "astroe",
+    "Meta Title": "Astroe: Sep 29, 2017, Superstruct and Full Overview",
+    "Meta Description": "Looking for information on Astroe? Check out the release date (Sep 29, 2017), developer insights from Superstruct, and a complete game summary.",
+    "Alt Text Image": "Official header image for Astroe game - Steam 705800",
+    "Canonical URL": "https://gusku.site/game/astroe",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Astroe\", \"description\": \"Looking for information on Astroe? Check out the release date (Sep 29, 2017), developer insights from Superstruct, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 29, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Superstruct\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Superstruct\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/705800/header.jpg?t=1534881028\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

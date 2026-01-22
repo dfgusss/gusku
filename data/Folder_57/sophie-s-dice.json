@@ -1,0 +1,21 @@
+{
+    "AppID": 1067350,
+    "Name": "Sophie's Dice",
+    "Release date": "Jun 17, 2019",
+    "About the game": "The ultimate 3D dice roller: roll many kinds of virtual dice, and make custom dice suited for almost any game. Features: Select dice from your collection, or enter roll expressions using standard dice notation Support for many roll behaviours such as keeping or dropping highest/lowest X dice, explosion, dice pool counting, and more Save roll expressions you frequently use, to easily re-roll them Includes dice for most table-top RPGs* Easily edit dice to make them your own Includes many pre-made dice, over 300 rollable dice shapes, and lots of images/sound &amp; visual effects for all kinds of custom dice Display your own images on dice faces, and your own sound effects for when they come up** Dice are saved as .xml files which you can share with other people who have Sophie's Dice * d20 system (DnD), Fudge/Fate, Narrative system (Star Wars, Genesys), Storytelling (Vampire). If your RPG needs some other kind of dice, you can make them pretty easily :) ** Your image and audio files are loaded from a 'Custom Dice' folder, just place them there and then you can use them after opening Sophie's Dice.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1067350/header.jpg?t=1634815862",
+    "Price": 4.99,
+    "Developers": "Sophie Houlden",
+    "Publishers": "Sophie Houlden",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_4dffa0622211ab9e0a9c7e963b3affbca96024b2.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_870cf2ffdede690e279185a34ea806c7e6b292e6.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_ad714c9fc62f7a36372e05e3132727a15f1939ae.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_ae23661859e3a28367deccfd0a482e6af6b77959.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_2aa97867a573b5911fb4ae45388d669fac4d3340.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_d08114432b80c34e5af19e5727c1f09d57795ae5.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_5ab3790985a87b1cdc95b77d3407b1922dd33f46.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_66331132a8de8ca9d9928ebfa7048fb2331c03a9.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_6719a8c71e8e512aa9847b013655a526b25661f1.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_60b9c3b20d8b3b0a5daccf222e8c7a2f779ae365.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_097d62b1a87406910619dfe2e4e16fd3d8862269.1920x1080.jpg?t=1634815862,https://cdn.akamai.steamstatic.com/steam/apps/1067350/ss_bd34d2e6d3ef04706103f45ec82b13f8d3516740.1920x1080.jpg?t=1634815862",
+    "Slug": "sophie-s-dice",
+    "Meta Title": "Sophie's Dice: Jun 17, 2019, Sophie Houlden and Full Over...",
+    "Meta Description": "Looking for information on Sophie's Dice? Check out the release date (Jun 17, 2019), developer insights from Sophie Houlden, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sophie's Dice game - Steam 1067350",
+    "Canonical URL": "https://gusku.site/game/sophie-s-dice",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sophie's Dice\", \"description\": \"Looking for information on Sophie's Dice? Check out the release date (Jun 17, 2019), developer insights from Sophie Houlden, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 17, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sophie Houlden\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sophie Houlden\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1067350/header.jpg?t=1634815862\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

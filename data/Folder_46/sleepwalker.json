@@ -1,0 +1,21 @@
+{
+    "AppID": 1040190,
+    "Name": "SleepWalker",
+    "Release date": "May 30, 2019",
+    "About the game": "Sleepwalker is an isometric puzzle where a sleepwalking man in his pajamas needs to be guided to safety. The character walks automatically and cannot be controlled directly. Instead the player needs to put up signs and objects in the environment to help him around and to avoid contact with monsters. Signs are collected in a vertical bar on the right side of the screen. Farther levels include new types of items. The game contains about 100 levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1040190/header.jpg?t=1559210201",
+    "Price": 5.99,
+    "Developers": "Exelweiss",
+    "Publishers": "Erbe Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1040190/ss_ff0336153289e95b7aa7259c322abb043562aa45.1920x1080.jpg?t=1559210201,https://cdn.akamai.steamstatic.com/steam/apps/1040190/ss_0219549bbb2ac07234dadf724083963ecfdef8f0.1920x1080.jpg?t=1559210201,https://cdn.akamai.steamstatic.com/steam/apps/1040190/ss_b6221e8d39fe296f9eee2a6349ee3c7430e405a2.1920x1080.jpg?t=1559210201,https://cdn.akamai.steamstatic.com/steam/apps/1040190/ss_823638f71a048c9c8b02f833292119ce4e78afd9.1920x1080.jpg?t=1559210201,https://cdn.akamai.steamstatic.com/steam/apps/1040190/ss_4ee3185032f8d2f1f5c4ca88f61efabe5e32fde1.1920x1080.jpg?t=1559210201,https://cdn.akamai.steamstatic.com/steam/apps/1040190/ss_c80b17c898aba32c9d67a61d45dbbe2970f7a01b.1920x1080.jpg?t=1559210201",
+    "Slug": "sleepwalker",
+    "Meta Title": "SleepWalker: May 30, 2019, Exelweiss and Full Overview",
+    "Meta Description": "Looking for information on SleepWalker? Check out the release date (May 30, 2019), developer insights from Exelweiss, and a complete game summary.",
+    "Alt Text Image": "Official header image for SleepWalker game - Steam 1040190",
+    "Canonical URL": "https://gusku.site/game/sleepwalker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SleepWalker\", \"description\": \"Looking for information on SleepWalker? Check out the release date (May 30, 2019), developer insights from Exelweiss, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 30, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Exelweiss\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Erbe Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1040190/header.jpg?t=1559210201\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1114720,
+    "Name": "四景山水圖．秋景 Landscapes of the Four Seasons",
+    "Release date": "Jul 27, 2019",
+    "About the game": "This is a presentation of bachelor thesis: The application of Unity game engine in landscape visual simulation-taking the garden display in the Song dynasty painting as an example. In this research, the author begins with literal review of game engines and Unity's features, then analyzes Jie hua(界畫) and gardens in the Song Dynasty as reference for floor plan. After that, this floor plan will be made into a 3D model and textualized. Finally, this model will be imported into Unity in compatible format before being customized for better visual effects and interactive options. The result of this project will be made into a virtual reality software with Unity, in which features a garden designed according to Jie hua from the Song dynasty, and the users can visit or interact with. Nonetheless, this software also provides knowledge about features of Song gardens, Shan Shui painting and Jie hua. The author is recently working on a URP remake.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1114720/header.jpg?t=1629303259",
+    "Price": 0.0,
+    "Developers": "Chen Si-Yu",
+    "Publishers": "Chen Si-Yu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1114720/ss_216b2eac79e65c8e793dea08b52326de578b752e.1920x1080.jpg?t=1629303259,https://cdn.akamai.steamstatic.com/steam/apps/1114720/ss_0578f1db2d900fb9ea09fda9ee6fab8f6a7407c5.1920x1080.jpg?t=1629303259,https://cdn.akamai.steamstatic.com/steam/apps/1114720/ss_2a0dca06ec60607056a2ef86ca5afd102c1dcf45.1920x1080.jpg?t=1629303259,https://cdn.akamai.steamstatic.com/steam/apps/1114720/ss_878a319868baf71f6523f650b189c828a8bed8a8.1920x1080.jpg?t=1629303259,https://cdn.akamai.steamstatic.com/steam/apps/1114720/ss_a0ba7b477b6df69a89782c0847d22cc99f578e86.1920x1080.jpg?t=1629303259",
+    "Slug": "landscapes-of-the-four-seasons",
+    "Meta Title": "四景山水圖．秋景 Landscapes of the Four Seasons: Jul 27, 2019, Ch...",
+    "Meta Description": "Looking for information on 四景山水圖．秋景 Landscapes of the Four Seasons? Check out the release date (Jul 27, 2019), developer insights from Chen Si-Yu, and a...",
+    "Alt Text Image": "Official header image for 四景山水圖．秋景 Landscapes of the Four Seasons game - Steam 1114720",
+    "Canonical URL": "https://gusku.site/game/landscapes-of-the-four-seasons",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u56db\\u666f\\u5c71\\u6c34\\u5716\\uff0e\\u79cb\\u666f Landscapes of the Four Seasons\", \"description\": \"Looking for information on \\u56db\\u666f\\u5c71\\u6c34\\u5716\\uff0e\\u79cb\\u666f Landscapes of the Four Seasons? Check out the release date (Jul 27, 2019), developer insights from Chen Si-Yu, and a...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 27, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Chen Si-Yu\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Chen Si-Yu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1114720/header.jpg?t=1629303259\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

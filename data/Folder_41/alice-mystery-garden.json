@@ -1,0 +1,21 @@
+{
+    "AppID": 751300,
+    "Name": "Alice Mystery Garden",
+    "Release date": "Dec 20, 2017",
+    "About the game": "Join Alice, who has wandered into the wondrous land of Alice Mystery Garden, to overcome adversity in this VR action-puzzle game. Control Alice's movements while switching back and forth between a top-down player perspective and Alice's in-world perspective to collect scattered looking-glass fragments and clear each stage. Features Search for looking-glass fragments scattered throughout each stage by switching between the expansive player perspective of the world and Alice's view from inside the world. Unlock the looking-glass gate by collecting 5 looking-glass fragments to clear each stage. Alice's perspective reveals caverns unseen from player perspective, and allows for underground investigation. In player perspective, it is possible to confirm the route to the goal, and to directly grab and place blocks atop the stage to create new paths for Alice. For instance, if there is a location that Alice cannot get across to, the player can place a block as a bridge to allow her to cross. There is no single route to the goal: finding new paths is part of the fun. A full 17 stages at a variety of difficulty levels make the game enjoyable for action-puzzle beginners and veterans alike.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/751300/header.jpg?t=1517455119",
+    "Price": 4.99,
+    "Developers": "AMG GAMES",
+    "Publishers": "AMG GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/751300/ss_0582636a6fa4089a7d9c4fe1e5e6c1e7f086db21.1920x1080.jpg?t=1517455119,https://cdn.akamai.steamstatic.com/steam/apps/751300/ss_aac6db1f7f1f49abe4b31142c717273938a28896.1920x1080.jpg?t=1517455119,https://cdn.akamai.steamstatic.com/steam/apps/751300/ss_5acde3e6506e7f47e2c5281b923d58a17ab7a42b.1920x1080.jpg?t=1517455119,https://cdn.akamai.steamstatic.com/steam/apps/751300/ss_60853d71e940707caf78bb677421abac72d56ea1.1920x1080.jpg?t=1517455119,https://cdn.akamai.steamstatic.com/steam/apps/751300/ss_16b646db97a8bf40160d033b066a12c7021b013f.1920x1080.jpg?t=1517455119",
+    "Slug": "alice-mystery-garden",
+    "Meta Title": "Alice Mystery Garden: Dec 20, 2017, AMG GAMES and Full Ov...",
+    "Meta Description": "Looking for information on Alice Mystery Garden? Check out the release date (Dec 20, 2017), developer insights from AMG GAMES, and a complete game summary.",
+    "Alt Text Image": "Official header image for Alice Mystery Garden game - Steam 751300",
+    "Canonical URL": "https://gusku.site/game/alice-mystery-garden",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Alice Mystery Garden\", \"description\": \"Looking for information on Alice Mystery Garden? Check out the release date (Dec 20, 2017), developer insights from AMG GAMES, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 20, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"AMG GAMES\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"AMG GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/751300/header.jpg?t=1517455119\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

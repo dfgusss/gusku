@@ -1,0 +1,21 @@
+{
+    "AppID": 1118310,
+    "Name": "RetroArch",
+    "Release date": "May 27, 2022",
+    "About the game": "RetroArch is an open source and cross platform frontend/framework for emulators, game engines, video games, media players and other applications. While it can do many things besides this, it is most widely known for enabling you to run classic games on a wide range of computers and consoles through a slick graphical interface. Settings are also unified so configuration is done once and for all. In addition to this, you will soon be able to run original game discs (CDs) from RetroArch. We take videogame preservation seriously and want to ensure you can run your originally bought content on modern day PCs. RetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, and more! Maybe there is no rewind in real life, but there is a rewind in RetroArch! You can go back in time and correct your mistakes! Seeing things as we remembered was our first priority, so with our Shading feature, you can change colors, smooth pixels or recreate your bedroom TV from 1995! You think the excitement of playing elbow-to-elbow with friends is a bygone memory? No! With our rollback-based, latency-hiding Netplay, your Player 2 is beside you again! Fight the competition not the lag!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1118310/header.jpg?t=1656587289",
+    "Price": 0.0,
+    "Developers": "Libretro",
+    "Publishers": "Libretro",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1118310/ss_7d22920f44e8e06aa8b652235219db9a548cbeab.1920x1080.jpg?t=1656587289,https://cdn.akamai.steamstatic.com/steam/apps/1118310/ss_46b57ccd4e0f9720bd5aa70a7d1d81eb37953da2.1920x1080.jpg?t=1656587289,https://cdn.akamai.steamstatic.com/steam/apps/1118310/ss_2fc57b0a052a628a1d836bd874d4a2b6924858f9.1920x1080.jpg?t=1656587289,https://cdn.akamai.steamstatic.com/steam/apps/1118310/ss_fbf9d575f278b354cf49b439a8b323f08f1bbe33.1920x1080.jpg?t=1656587289,https://cdn.akamai.steamstatic.com/steam/apps/1118310/ss_e5a84e63acb80385b81d5a4fe8642c0bd2121aea.1920x1080.jpg?t=1656587289,https://cdn.akamai.steamstatic.com/steam/apps/1118310/ss_8478c6e576c3ed6fce1910d5d74f1a50a3939037.1920x1080.jpg?t=1656587289",
+    "Slug": "retroarch",
+    "Meta Title": "RetroArch: May 27, 2022, Libretro and Full Overview",
+    "Meta Description": "Looking for information on RetroArch? Check out the release date (May 27, 2022), developer insights from Libretro, and a complete game summary.",
+    "Alt Text Image": "Official header image for RetroArch game - Steam 1118310",
+    "Canonical URL": "https://gusku.site/game/retroarch",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RetroArch\", \"description\": \"Looking for information on RetroArch? Check out the release date (May 27, 2022), developer insights from Libretro, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 27, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Libretro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Libretro\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1118310/header.jpg?t=1656587289\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

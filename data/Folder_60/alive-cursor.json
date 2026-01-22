@@ -1,0 +1,21 @@
+{
+    "AppID": 1606490,
+    "Name": "Alive Cursor",
+    "Release date": "May 6, 2021",
+    "About the game": "Still using the default cursor? meh! How about...turn your cursor into 3D? Fancy Effect！ Click the middle mouse button and be ready to be surprised ！ Change Any Size You Want！ Invisible when you don't need it! It's convenient when you are watching video or viewing the webpage! Wander when it's bored！ Support Multi-Display ! Notes Right click the AliveCursor icon on Taskbar and the setting menu will pop out. More Crazy themes Are Coming Up! Please stay tuned! Workshop is valid on beta version, switch to this version and find out the wonderful cursor made by Creative Master around the world! Warning If you see a little steam window popup on right-bottom corner once you start it, just do so: before you run this app, please open Steam Library, right click on the App, select Properties-General and uncheck [Enable the Steam Overlay while in-game]. Because this app use GlobalHook，some anti-virus software may popup with a Intercept notification. If the whole window turn black when you open this app, please quit this app using Tray Icon, then open 'Nvidia Control Panel', Turn off the 'Antialiasing - FXAA' setting for this app in 'Program Settings' Tab, or for all apps in 'Global Settings' Tab. This app will hide system cursor on start, and restore it on quit, so please wait for it to exit when you trying to shut down or logoff. If the app unexpectedly shuts down and casue the missing system cursor, you can just reopen the app, and you are good to go. Other apps which mark as 'TopMost' (eg: TaskManager or Windows Start Menu) may overlay this app, it's inevitable and may cause you inconvenient. I am working on it, but any help would be greatly appreciated! If you have any suggestion, fell free to commit, thanks! big Thanks: Space Ship model by Iggy-design:(-starship-71439)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1606490/header.jpg?t=1658918336",
+    "Price": 3.99,
+    "Developers": "Threeyes",
+    "Publishers": "Threeyes",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1606490/ss_0747afc16fabf57619276ec49620913cc477ec01.1920x1080.jpg?t=1658918336,https://cdn.akamai.steamstatic.com/steam/apps/1606490/ss_bf4c0b1e9aeae26bbad98b39eccb80d43a6670b6.1920x1080.jpg?t=1658918336,https://cdn.akamai.steamstatic.com/steam/apps/1606490/ss_58ef34c4cb2a2e52b14ee9f997cba111b5ed7ad2.1920x1080.jpg?t=1658918336,https://cdn.akamai.steamstatic.com/steam/apps/1606490/ss_903c9bb06ae92b0ba79f5301c19d4708d8e5fbfd.1920x1080.jpg?t=1658918336,https://cdn.akamai.steamstatic.com/steam/apps/1606490/ss_9de0dd2d431b70ede274840e77988df2f41516f8.1920x1080.jpg?t=1658918336",
+    "Slug": "alive-cursor",
+    "Meta Title": "Alive Cursor: May 6, 2021, Threeyes and Full Overview",
+    "Meta Description": "Looking for information on Alive Cursor? Check out the release date (May 6, 2021), developer insights from Threeyes, and a complete game summary.",
+    "Alt Text Image": "Official header image for Alive Cursor game - Steam 1606490",
+    "Canonical URL": "https://gusku.site/game/alive-cursor",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Alive Cursor\", \"description\": \"Looking for information on Alive Cursor? Check out the release date (May 6, 2021), developer insights from Threeyes, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 6, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Threeyes\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Threeyes\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1606490/header.jpg?t=1658918336\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1412540,
+    "Name": "Zball IV",
+    "Release date": "Sep 22, 2020",
+    "About the game": "Zball IV is the return of physics puzzles series. Now there are portals that instantly move objects to another location. When moving, the speed of the object is saved, so you should be careful when moving. The rest of the game rules remain the same. You can use 2 types of objects to change the direction of gravity. The 1st one is a button - just press it to change the direction of gravity. The 2nd one is an activated object that change gravity when it collides with a green ball. Blocks can have different powers - some can be destroyed when colliding with other objects or from an explosion, some are monolithic but mobile, some can mve the green ball. Most often, there is no specific algorithm of actions, you should rely only on your intuition to solve the problem. Platforms interact with objects in different ways. For example, there are platforms that make round objects roll in a certain direction. There are transparent platforms that are divided into colors and can only interact with objects of their own color. There are game levels of different difficulty and types. Some levels require dexterity and reaction, some will require patience and caution, others will make you think about the sequence of actions. You can see how to interact with an object by its color. For example, green is the main color, and you need to deliver it to the platform of the corresponding color. Yellow object reacts to explosions from mouse clicks. Blue objects are destroyed when they collide with yellow ones. Blue ones are not destructible, but they can be moved by yellow objects. Red objects break down from the explosion… Gradually you will understand how the system works and will be able to cope with any task! Exciting gameplay will not let you get bored! Game Features: 40 new levels Interesting puzzle New portals mechanics Steam achievements Some levels are really hard!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1412540/header.jpg?t=1658770450",
+    "Price": 1.99,
+    "Developers": "334Sgame",
+    "Publishers": "Garage Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1412540/ss_8ce20b707af2f7106d1c8dafd06eb53a18a67db2.1920x1080.jpg?t=1658770450,https://cdn.akamai.steamstatic.com/steam/apps/1412540/ss_7d94c6eba22cf770d2e1badd01954dbf3d35c32c.1920x1080.jpg?t=1658770450,https://cdn.akamai.steamstatic.com/steam/apps/1412540/ss_54ac25abdb12fdcfcda316a6984f65f61bf30a85.1920x1080.jpg?t=1658770450,https://cdn.akamai.steamstatic.com/steam/apps/1412540/ss_13ac0fe3be3aec03a10515fd0cddf27fbdf0ec95.1920x1080.jpg?t=1658770450,https://cdn.akamai.steamstatic.com/steam/apps/1412540/ss_222824e32732f7f68f0dca9f9301fe2da055fc70.1920x1080.jpg?t=1658770450,https://cdn.akamai.steamstatic.com/steam/apps/1412540/ss_fee606bb19c74f8d4b5af815700f571cdc7e5263.1920x1080.jpg?t=1658770450",
+    "Slug": "zball-iv",
+    "Meta Title": "Zball IV: Sep 22, 2020, 334Sgame and Full Overview",
+    "Meta Description": "Looking for information on Zball IV? Check out the release date (Sep 22, 2020), developer insights from 334Sgame, and a complete game summary.",
+    "Alt Text Image": "Official header image for Zball IV game - Steam 1412540",
+    "Canonical URL": "https://gusku.site/game/zball-iv",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Zball IV\", \"description\": \"Looking for information on Zball IV? Check out the release date (Sep 22, 2020), developer insights from 334Sgame, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 22, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"334Sgame\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Garage Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1412540/header.jpg?t=1658770450\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

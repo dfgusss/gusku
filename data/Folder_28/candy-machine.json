@@ -1,0 +1,21 @@
+{
+    "AppID": 581980,
+    "Name": "Candy Machine",
+    "Release date": "Apr 24, 2017",
+    "About the game": "Candy Machine is a game about running a candy factory. Place machines and conveyors and feed them different mixtures of ingredients to create candy, also push them through heaters and condensers to increase their heat and moisture. Inspired by Big Pharma and many business games. Run a candy factory and deal with contracts and a changing demand for candy - which affects the price. Purchase upgrades and build your factory in your own way. Several objectives and game modes: Campaign mode and set your own challenges. Each machine has a specific function, such as importing raw ingredients or mixing ingredients together. A new feature I'm messing with which isn't in the trailer is having heaters and condensers to heat and add moisture to a mixture, to make the recipes a little more complex. Various machines: Conveyor - Conveys items Importer - Imports raw ingredients Mixer - Mixes multiple ingredients together Maker - Makes candy out of a mixture Exporter - Packages candy for sale Heater - Increases mixture heat Condenser - Adds moisture to mixture Evaporator - Removes moisture from mixture",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/581980/header.jpg?t=1605899318",
+    "Price": 8.99,
+    "Developers": "Colossal Wreck",
+    "Publishers": "Colossal Wreck",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_405b03059c6683b984344dbcd06107a33dd183e2.1920x1080.jpg?t=1605899318,https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_27653df9455f303eb628165d50375bdc71f7a6fb.1920x1080.jpg?t=1605899318,https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_ac7c10b0eb63c8c4cc68a91fa46a2a3556760b1f.1920x1080.jpg?t=1605899318,https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_33b18cb4c57339745785414e58493a92b614314e.1920x1080.jpg?t=1605899318,https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_7829b84c9570c5b488ae88b59a887858c187fa24.1920x1080.jpg?t=1605899318,https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_fa39e1007b5699bd0e440d198b51bfd5a125830b.1920x1080.jpg?t=1605899318,https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_2c340471d7bdc2fe402d8ae006783d985620e88b.1920x1080.jpg?t=1605899318,https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_a17f15a56db9bdfa254e3090efeab5fb50a102d1.1920x1080.jpg?t=1605899318,https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_d42206ffa22e06602dea8b50717add27f07ca232.1920x1080.jpg?t=1605899318,https://cdn.akamai.steamstatic.com/steam/apps/581980/ss_5eadc7c57ae29c8ce09e3ba731687f52565189ba.1920x1080.jpg?t=1605899318",
+    "Slug": "candy-machine",
+    "Meta Title": "Candy Machine: Apr 24, 2017, Colossal Wreck and Full Over...",
+    "Meta Description": "Looking for information on Candy Machine? Check out the release date (Apr 24, 2017), developer insights from Colossal Wreck, and a complete game summary.",
+    "Alt Text Image": "Official header image for Candy Machine game - Steam 581980",
+    "Canonical URL": "https://gusku.site/game/candy-machine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Candy Machine\", \"description\": \"Looking for information on Candy Machine? Check out the release date (Apr 24, 2017), developer insights from Colossal Wreck, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 24, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Colossal Wreck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Colossal Wreck\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/581980/header.jpg?t=1605899318\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

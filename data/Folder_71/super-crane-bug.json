@@ -1,0 +1,21 @@
+{
+    "AppID": 2318570,
+    "Name": "Super Crane Bug",
+    "Release date": "Mar 10, 2023",
+    "About the game": "Match tiles of the same color to score points, the board will bring more tiles over time, you lose if the board is filled up! - - - - - - - - - - - - - - - - - - Special tool tiles will give you bonus points, but will also change the game you play so watch out. Each time you match one of these you will play with the next tool in rotation 1. SWAP: Swap two tiles horizontally by pressing O  2. CRANE: Hold O to grab a tile and push it around  3. DRILL: Hold O, then press LEFT or RIGHT to rotate a 2x2 space  4. SHOVEL: Pick a tile and toss it away to a random position  5. WAGON: Hold O to move a 2x2 space horizontally  6. HOSE: Swap tiles positions as you move. Can't be turned off. - - - - - - - - - - - - - - - - - - For more specialized work play in Advanced Mode, score is doubled and will give you extra components, but random debris will spawn constantly. Make chains near them to clear or activate them. EMPTY - Occupies space, falls in big groups   DIRTY - Reveals its color when cleared  BOMB - Tosses a bunch of EMPTY tiles if moved  FREEZE - Time freezes for a while  PRISM - Clears up a big space - - - - - - - - - - - - - - - - - - OTHER OPTIONS Zen Mode: Relax and practice.   The game won't speed up and score will constantly go down to 0. Styles: Icons or Blobs.  You can switch between Colored Blobs or Squared Tiles to play the game with",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2318570/header.jpg?t=1678482747",
+    "Price": 5.19,
+    "Developers": "CalixJumio",
+    "Publishers": "CalixJumio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2318570/ss_c82ecf4885936b37c7e9142edf8bd5ff24bffb13.1920x1080.jpg?t=1678482747,https://cdn.akamai.steamstatic.com/steam/apps/2318570/ss_cca83d736ac6f63c639859bc49caa8a78e672626.1920x1080.jpg?t=1678482747,https://cdn.akamai.steamstatic.com/steam/apps/2318570/ss_f4610a9f4cac826116f0728dfb9e5594006defd6.1920x1080.jpg?t=1678482747,https://cdn.akamai.steamstatic.com/steam/apps/2318570/ss_8cad52c16229531b42e22d474965908b3e930fb7.1920x1080.jpg?t=1678482747,https://cdn.akamai.steamstatic.com/steam/apps/2318570/ss_91c101019444ddb538246fe5b1b7a9c59a9ea738.1920x1080.jpg?t=1678482747",
+    "Slug": "super-crane-bug",
+    "Meta Title": "Super Crane Bug: Mar 10, 2023, CalixJumio and Full Overview",
+    "Meta Description": "Looking for information on Super Crane Bug? Check out the release date (Mar 10, 2023), developer insights from CalixJumio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Super Crane Bug game - Steam 2318570",
+    "Canonical URL": "https://gusku.site/game/super-crane-bug",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Super Crane Bug\", \"description\": \"Looking for information on Super Crane Bug? Check out the release date (Mar 10, 2023), developer insights from CalixJumio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 10, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"CalixJumio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CalixJumio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2318570/header.jpg?t=1678482747\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.19, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

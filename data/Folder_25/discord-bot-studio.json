@@ -1,0 +1,21 @@
+{
+    "AppID": 1118380,
+    "Name": "Discord Bot Studio",
+    "Release date": "May 12, 2020",
+    "About the game": "Discord Bot Studio is a tool that allows you to make your own custom Discord bots, without any coding. Slash Commands, Buttons, and Select Dropdowns Allow your users to interact with your bots using buttons, selects, and slash commands. These components offer endless customization options for your bots. Text Commands Create custom text commands which can be used to trigger responses by the bot. Examples of command responses: - Message (Send message, send image, send emoji, send random, etc) - User Action (Kick user, ban user, add role to user, etc) - Server Action (Add new role to server, etc) - Variables (Store values in variables and use them in other responses for truly custom bots) Server Events You can also create actions that will run when various server events occur, such as a new user joining the server. Examples of event triggers: - When a user joins the server - When any message is sent Mods Discord Bot Studio is developed in a manner which lends itself to third party mod creation. This gives the community a chance to create more content that they are passionate about for DBS.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1118380/header.jpg?t=1652414863",
+    "Price": 9.99,
+    "Developers": "Discord Bot Studio",
+    "Publishers": "Discord Bot Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1118380/ss_6999f0d6eece4e58fdbd805d7b46c3a0f2658031.1920x1080.jpg?t=1652414863,https://cdn.akamai.steamstatic.com/steam/apps/1118380/ss_ad8626d0299794fa0ce46db2e4de5713b074051c.1920x1080.jpg?t=1652414863,https://cdn.akamai.steamstatic.com/steam/apps/1118380/ss_0c3c2130e3dbda2e8bfa65d6f5a11dc5032d33c8.1920x1080.jpg?t=1652414863,https://cdn.akamai.steamstatic.com/steam/apps/1118380/ss_0cdc45f7cba921e0acea1897c2218cd7d2c4f398.1920x1080.jpg?t=1652414863,https://cdn.akamai.steamstatic.com/steam/apps/1118380/ss_76f5d3e73336e0dd0ec8867c91c2b734d97ada57.1920x1080.jpg?t=1652414863",
+    "Slug": "discord-bot-studio",
+    "Meta Title": "Discord Bot Studio: May 12, 2020, Discord Bot Studio and ...",
+    "Meta Description": "Looking for information on Discord Bot Studio? Check out the release date (May 12, 2020), developer insights from Discord Bot Studio, and a complete gam...",
+    "Alt Text Image": "Official header image for Discord Bot Studio game - Steam 1118380",
+    "Canonical URL": "https://gusku.site/game/discord-bot-studio",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Discord Bot Studio\", \"description\": \"Looking for information on Discord Bot Studio? Check out the release date (May 12, 2020), developer insights from Discord Bot Studio, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 12, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Discord Bot Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Discord Bot Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1118380/header.jpg?t=1652414863\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

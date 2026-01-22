@@ -1,0 +1,21 @@
+{
+    "AppID": 2099220,
+    "Name": "Mobmania",
+    "Release date": "Aug 18, 2022",
+    "About the game": "Inspired by games of a similar design, Mobmania is a bullet-hell roguelike where you must take down thousands of monsters (no, seriously) during your epic attempt to survive. Defeat various bosses that get thrown at you using an arsenal of unique weapons, items, and character abilities. Can you survive the onslaught of monsters? Here's a sneak peek (artwork may change)!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2099220/header.jpg?t=1660968250",
+    "Price": 4.99,
+    "Developers": "azndesserts,justjayem,wolfbyte131",
+    "Publishers": "azndesserts",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2099220/ss_d97517ca16b10f120915b9e03f689905ccafd796.1920x1080.jpg?t=1660968250,https://cdn.akamai.steamstatic.com/steam/apps/2099220/ss_42220b83476ddf6b15c0b086130dffbc1e0ec0ef.1920x1080.jpg?t=1660968250,https://cdn.akamai.steamstatic.com/steam/apps/2099220/ss_7749e741884a66c37cd4b8003aa64ad52a22219e.1920x1080.jpg?t=1660968250,https://cdn.akamai.steamstatic.com/steam/apps/2099220/ss_73922aaff3c951e22f22adaa7ec56f02df009d83.1920x1080.jpg?t=1660968250,https://cdn.akamai.steamstatic.com/steam/apps/2099220/ss_c5465684c5603488326b6fd70998a2216e09df48.1920x1080.jpg?t=1660968250,https://cdn.akamai.steamstatic.com/steam/apps/2099220/ss_7313677dfed1d9528b357284b10022767b78ba73.1920x1080.jpg?t=1660968250,https://cdn.akamai.steamstatic.com/steam/apps/2099220/ss_480b9b37ca9fa407b0709c90aa6173e2bb6e31c7.1920x1080.jpg?t=1660968250,https://cdn.akamai.steamstatic.com/steam/apps/2099220/ss_e8fbb7d9a7e1ffefeccad5936ca871fcf064748c.1920x1080.jpg?t=1660968250",
+    "Slug": "mobmania",
+    "Meta Title": "Mobmania: Aug 18, 2022, azndesserts,justjayem,wolfbyte131...",
+    "Meta Description": "Looking for information on Mobmania? Check out the release date (Aug 18, 2022), developer insights from azndesserts,justjayem,wolfbyte131, and a complet...",
+    "Alt Text Image": "Official header image for Mobmania game - Steam 2099220",
+    "Canonical URL": "https://gusku.site/game/mobmania",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mobmania\", \"description\": \"Looking for information on Mobmania? Check out the release date (Aug 18, 2022), developer insights from azndesserts,justjayem,wolfbyte131, and a complet...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 18, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"azndesserts,justjayem,wolfbyte131\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"azndesserts\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2099220/header.jpg?t=1660968250\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

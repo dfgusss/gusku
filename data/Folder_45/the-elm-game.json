@@ -1,0 +1,21 @@
+{
+    "AppID": 1740490,
+    "Name": "The Elm Game",
+    "Release date": "Sep 20, 2021",
+    "About the game": "An abstract board game for two players - human or AI - that is easy to learn yet hard to master, played on a tree stump with beautiful procedurally generated backgrounds. GAMEPLAY The players Black and White take turns. Each turn a player chooses to either place a stone on any free point of the board or to change the color of any trapped stone. A stone is trapped if at least two stones of different color lie next to it. The game ends when there is no free point left and whoever has the most stones on the board wins. CPU PLAYER You can play with a friend locally or remotely, or you can choose from three different CPU players: The Fly is the easiest AI, meant for casual players or beginners. The Beetle is a more advanced AI for people who want a challenge. The Snail is the hardest AI, meant for highly professional players. FEATURES Online multiplayer, local multiplayer, single-player, Remote Play Together Computer player with three difficulty levels Steam achievements Simple controls suited for mouse, controller and touch input Quick reference describing the rules, controls and some tips for beginners Nature theme with randomly generated backgrounds. Alternatively a clean, classic look Runs on low end hardware FREE DEMO There is a free to play demo available for download. These are the differences to the full version: No online multiplayer. The randomly generated nature-themed backgrounds with the tree stump etc. are not included. Saves are not synchronized with the Steam Cloud. There are no trophies to achieve like in the full version. You will see a banner in the top left corner telling you it is the demo version.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1740490/header.jpg?t=1656021202",
+    "Price": 4.99,
+    "Developers": "Michel",
+    "Publishers": "Michel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1740490/ss_ac6cebf2c408f260c83b6ee116038b918d299e48.1920x1080.jpg?t=1656021202,https://cdn.akamai.steamstatic.com/steam/apps/1740490/ss_010eefda8662a0beec36f3210458ddccbca07a49.1920x1080.jpg?t=1656021202,https://cdn.akamai.steamstatic.com/steam/apps/1740490/ss_da0bb01f3fdd3df88706ed4e4f166ecf5f7aad1d.1920x1080.jpg?t=1656021202,https://cdn.akamai.steamstatic.com/steam/apps/1740490/ss_454f69a93ba9593aad2be9adbb0f331baf2b3670.1920x1080.jpg?t=1656021202,https://cdn.akamai.steamstatic.com/steam/apps/1740490/ss_cb868299212c6407fd35e342b488fdbbf775b8dd.1920x1080.jpg?t=1656021202,https://cdn.akamai.steamstatic.com/steam/apps/1740490/ss_74e722645362db381edbe19d8bab9089151fbce8.1920x1080.jpg?t=1656021202,https://cdn.akamai.steamstatic.com/steam/apps/1740490/ss_3ef641dd69122fbefd1ef7f4801f900c61194617.1920x1080.jpg?t=1656021202,https://cdn.akamai.steamstatic.com/steam/apps/1740490/ss_3af8ab1d4e914c9851945a42066daaef8ee8eea7.1920x1080.jpg?t=1656021202",
+    "Slug": "the-elm-game",
+    "Meta Title": "The Elm Game: Sep 20, 2021, Michel and Full Overview",
+    "Meta Description": "Looking for information on The Elm Game? Check out the release date (Sep 20, 2021), developer insights from Michel, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Elm Game game - Steam 1740490",
+    "Canonical URL": "https://gusku.site/game/the-elm-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Elm Game\", \"description\": \"Looking for information on The Elm Game? Check out the release date (Sep 20, 2021), developer insights from Michel, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 20, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Michel\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Michel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1740490/header.jpg?t=1656021202\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

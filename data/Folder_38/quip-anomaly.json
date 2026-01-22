@@ -1,0 +1,21 @@
+{
+    "AppID": 506470,
+    "Name": "Quip Anomaly",
+    "Release date": "Aug 8, 2016",
+    "About the game": "Quip Anomaly is a deep space dodge 'em up game. Guide Virnu to dodge hazards, acquire research, and obtain power ups. As you unlock each level, you will learn more about Virnu and her story. Features Play 34 Levels of increasing difficulty Endure as long as you can in Endless mode Move with accurate space physics-based movement Screen-edge arrows indicate direction of incoming Avoid 3 enemy types Leverage 3 types of special defense Hear voice over for the story and reactions Listen to original music and sound effects Compete with others on the online leaderboard Gameplay The game is played in 2D though some visual effects are in 3D. Click where you want to go and Virnu will accelerate/decelerate to arrive at that location. Hazards will come from all directions. Indicators at the edges of the screen will show which direction items are traveling off-screen to help you avoid or obtain them. Use the number keys 1,2,3 to activate power ups after you have obtained them. Virnu's trajectory is calculated with Newtonian physics. There may seem to be a delay before Virnu moves, especially if she has to overcome existing velocity. Setting Quip Anomaly takes place shortly after the dark ages of the universe. In this volatile time of new and emerging stars, a particularly curious nebula had within it a unique and confusing anomaly. The player character Virnu is a Quip, which are sentient spheroid entities that travel freely through space. They consist of a 'quantum brain' surrounded by an aura that provides sensory input and propulsion. Virnu is a curious but timid scholar. The game begins after she enters the spatial anomaly. There she discovers this place is not only enigmatic, it's downright hostile.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/506470/header.jpg?t=1473002450",
+    "Price": 1.99,
+    "Developers": "mentics",
+    "Publishers": "mentics",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/506470/ss_2dd7b6e3e424452ee9b71b6cc5cf12f7c1214941.1920x1080.jpg?t=1473002450,https://cdn.akamai.steamstatic.com/steam/apps/506470/ss_26131e6bc4845eb09d9c30a8e4ec4941e2030925.1920x1080.jpg?t=1473002450,https://cdn.akamai.steamstatic.com/steam/apps/506470/ss_8aa77472601fab19d52788722bf046f8e4ee8d21.1920x1080.jpg?t=1473002450,https://cdn.akamai.steamstatic.com/steam/apps/506470/ss_bfbbc3632348111aa3e5520c674b0e34f39492af.1920x1080.jpg?t=1473002450,https://cdn.akamai.steamstatic.com/steam/apps/506470/ss_59ea10de8ebf87fbb38c212e560db919f8ded8f8.1920x1080.jpg?t=1473002450,https://cdn.akamai.steamstatic.com/steam/apps/506470/ss_a1963e6682a6fa60d9848ea38094446a0683ffce.1920x1080.jpg?t=1473002450",
+    "Slug": "quip-anomaly",
+    "Meta Title": "Quip Anomaly: Aug 8, 2016, mentics and Full Overview",
+    "Meta Description": "Looking for information on Quip Anomaly? Check out the release date (Aug 8, 2016), developer insights from mentics, and a complete game summary.",
+    "Alt Text Image": "Official header image for Quip Anomaly game - Steam 506470",
+    "Canonical URL": "https://gusku.site/game/quip-anomaly",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Quip Anomaly\", \"description\": \"Looking for information on Quip Anomaly? Check out the release date (Aug 8, 2016), developer insights from mentics, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 8, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"mentics\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"mentics\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/506470/header.jpg?t=1473002450\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

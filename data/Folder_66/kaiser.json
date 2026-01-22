@@ -1,0 +1,21 @@
+{
+    "AppID": 2186100,
+    "Name": "Kaiser",
+    "Release date": "Nov 3, 2022",
+    "About the game": "Kaiser Try to defeat the enemies wandering the land to gain XP and level up your character. Enemies may drop artefacts that allow you to become more powerful in various ways. These enemies may in fact drop an artefact of them self, allowing you to implement a unit of their race in you own forces. Defeat the grand armies send your way. The last army send your way will that of the kaiser. The kaiser's army being the army of the last time you won the game. Controls WASD: Move around E: Pick up artefacts Mouse click: Level up unit slot Mouse Drag : drag artefacts from inventory to unit slot Shift: Guide units to mouse Esc: Quit Join the Discord!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2186100/header.jpg?t=1667471511",
+    "Price": 1.99,
+    "Developers": "Yann Annaert",
+    "Publishers": "Yann Annaert",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2186100/ss_c2755929d83ff646c4d09eb44c200dbd63ea341c.1920x1080.jpg?t=1667471511,https://cdn.akamai.steamstatic.com/steam/apps/2186100/ss_6cbc88d9cb713cef8934c394589325f147ee732b.1920x1080.jpg?t=1667471511,https://cdn.akamai.steamstatic.com/steam/apps/2186100/ss_ad8c40a54c53128741cff2c970cede79d5225d2d.1920x1080.jpg?t=1667471511,https://cdn.akamai.steamstatic.com/steam/apps/2186100/ss_e5913476872cc25b15c8006040f6c832eeca3dc0.1920x1080.jpg?t=1667471511,https://cdn.akamai.steamstatic.com/steam/apps/2186100/ss_93ed8012ae0b7d519d72ad6060ac632494e57306.1920x1080.jpg?t=1667471511,https://cdn.akamai.steamstatic.com/steam/apps/2186100/ss_fafbca7554f65bc93aaf2af4e91fa9c47975c76f.1920x1080.jpg?t=1667471511",
+    "Slug": "kaiser",
+    "Meta Title": "Kaiser: Nov 3, 2022, Yann Annaert and Full Overview",
+    "Meta Description": "Looking for information on Kaiser? Check out the release date (Nov 3, 2022), developer insights from Yann Annaert, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kaiser game - Steam 2186100",
+    "Canonical URL": "https://gusku.site/game/kaiser",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kaiser\", \"description\": \"Looking for information on Kaiser? Check out the release date (Nov 3, 2022), developer insights from Yann Annaert, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 3, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Yann Annaert\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Yann Annaert\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2186100/header.jpg?t=1667471511\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

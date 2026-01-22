@@ -1,0 +1,21 @@
+{
+    "AppID": 1569760,
+    "Name": "Lab BreakOut",
+    "Release date": "Mar 19, 2021",
+    "About the game": "Lab BreakOut is a hardcore precision gravity-shifting platformer with minimal graphics. The creature, the victim of the experiment, has to escape from the laboratory in which it was created. Saws, thorns, lasers - everything around and strives to kill the main character. You should be careful and careful, because there are no checkpoints at the levels. Take control of the creature and set it free!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1569760/header.jpg?t=1616141112",
+    "Price": 9.99,
+    "Developers": "Pinochet Lab",
+    "Publishers": "Piece Of Voxel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1569760/ss_8dc2845595c92e7e93ede20a60de5cb5d29ea172.1920x1080.jpg?t=1616141112,https://cdn.akamai.steamstatic.com/steam/apps/1569760/ss_be895358e41bce9405e8e1516d26f4d9d7cbf5f9.1920x1080.jpg?t=1616141112,https://cdn.akamai.steamstatic.com/steam/apps/1569760/ss_dddfeb12e96504ce613a5e4ab0e1f70fb77e9ff2.1920x1080.jpg?t=1616141112,https://cdn.akamai.steamstatic.com/steam/apps/1569760/ss_a499d7cc4874b46339fa320936fddd63a3228124.1920x1080.jpg?t=1616141112,https://cdn.akamai.steamstatic.com/steam/apps/1569760/ss_8ee4412de21711cf42baac90c35ed32d3675d255.1920x1080.jpg?t=1616141112,https://cdn.akamai.steamstatic.com/steam/apps/1569760/ss_f1aa36da935473142c27e00d715ff4fe6dafd071.1920x1080.jpg?t=1616141112",
+    "Slug": "lab-breakout",
+    "Meta Title": "Lab BreakOut: Mar 19, 2021, Pinochet Lab and Full Overview",
+    "Meta Description": "Looking for information on Lab BreakOut? Check out the release date (Mar 19, 2021), developer insights from Pinochet Lab, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lab BreakOut game - Steam 1569760",
+    "Canonical URL": "https://gusku.site/game/lab-breakout",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lab BreakOut\", \"description\": \"Looking for information on Lab BreakOut? Check out the release date (Mar 19, 2021), developer insights from Pinochet Lab, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pinochet Lab\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Piece Of Voxel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1569760/header.jpg?t=1616141112\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

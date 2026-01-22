@@ -1,0 +1,21 @@
+{
+    "AppID": 1287370,
+    "Name": "Colorful Snake",
+    "Release date": "May 2, 2020",
+    "About the game": "This is an alternative game. The protagonist has unlimited interest in five colors from the beginning of nothingness, thus starting an incredible magical journey.From the beginning of swallowing all kinds of color balls, constantly obtaining scores, actively upgrading and defeating all kinds of monsters; to the discovery of magical functions of all kinds of colors, red represents power, which can produce extremely powerful destructive power; finally, the discovery of new continents, each new continent is connected with all kinds of colors, producing all kinds of wonderful chemical reactions, and of course, every adventure is rare Can't shut Lord, what else can you find? What are you waiting for? Hurry to start the mysterious adventure! From the beginning of the idea of the game is to start with the simplest steps, so that I can quickly enter the project state, so I used a few colors to directly start the basic element design. Then the basic function and elimination function are realized. Add fractional mechanism and algorithm. After the completion, several new ideas jumped out and began the design of props, from simple actual props to various items, synthetic materials, formulas, and upgrading mechanisms of items. Then I came up with several ideas in playing methods, from simple obstacles to mazes, to level design. Gradually completed this kind of work! Introduction to the game: The game has three main modes: snake mode, RPG mode and platform mode. The score is the basis of the game. If the score returns to zero, the game will end. At the same time, grade upgrade, purchase of props and items, and challenge of boss are also required. When reaching a certain level, the protagonist can shed his skin. The game is saved automatically, and some special scenes cannot be saved. There are equipment systems, weapon systems. Accessories can be synthesized and upgraded. These special equipment can help you play better.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1287370/header.jpg?t=1591583549",
+    "Price": 2.99,
+    "Developers": "langzat",
+    "Publishers": "langzat",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1287370/ss_35548413e6ce757505d15f4587325f13d7c43e6c.1920x1080.jpg?t=1591583549,https://cdn.akamai.steamstatic.com/steam/apps/1287370/ss_e4b9a10a992f2567ed4284f46a4ae27dc54a1e29.1920x1080.jpg?t=1591583549,https://cdn.akamai.steamstatic.com/steam/apps/1287370/ss_0014223ccccdd1c3fbb1fa590ff5064bb8a1ca74.1920x1080.jpg?t=1591583549,https://cdn.akamai.steamstatic.com/steam/apps/1287370/ss_506fe122795526739ef005843811189621134453.1920x1080.jpg?t=1591583549,https://cdn.akamai.steamstatic.com/steam/apps/1287370/ss_dc62a6d84c86c093170db967695e9cad18d00467.1920x1080.jpg?t=1591583549,https://cdn.akamai.steamstatic.com/steam/apps/1287370/ss_dbe738504e192327de1bb86a680f4220dce8077e.1920x1080.jpg?t=1591583549",
+    "Slug": "colorful-snake",
+    "Meta Title": "Colorful Snake: May 2, 2020, langzat and Full Overview",
+    "Meta Description": "Looking for information on Colorful Snake? Check out the release date (May 2, 2020), developer insights from langzat, and a complete game summary.",
+    "Alt Text Image": "Official header image for Colorful Snake game - Steam 1287370",
+    "Canonical URL": "https://gusku.site/game/colorful-snake",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Colorful Snake\", \"description\": \"Looking for information on Colorful Snake? Check out the release date (May 2, 2020), developer insights from langzat, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 2, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"langzat\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"langzat\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1287370/header.jpg?t=1591583549\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

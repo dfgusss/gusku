@@ -1,0 +1,21 @@
+{
+    "AppID": 847530,
+    "Name": "HyperBowl",
+    "Release date": "Jul 20, 2018",
+    "About the game": "Be the ball! This remake of the classic arcade bowling game brings you the original six HyperBowl lanes and some new ones. Enjoy the scenery, but remember to head for the pins before time runs out! Play 1-4 players in the original Arcade Mode or quick-play in single-player mode. Roll the ball forward, left, right, even backwards by pushing the mouse, swiping the trackpad, or pressing the AWSD keys. Special thanks to the HyperBowl Facebook fans, especially localization, testing, and bug-squashing help from Ischa Bijl, Raymond Chow, Frank Lin, Lien Luong, Adam Pavlakos, Ian Schwabe, Harrison Sotoloff and Elijah Taylor. This version of HyperBowl by Technicat LLC is built with the original HyperBowl art and sound assets licensed from Absolute Certainty Inc., the Unity game engine, Lens Flare and Simple Particle Pack from Unity Technologies, Selected U3D Japanese Font from Masashi Wada, Particle Scaler by Roel Ezendam, Real Flames by BlackFire FX, FontLibrary from MacXWare, iTween by Pixel Placement, Flocks package from soodaq, Lean Localization from Carlos Wilkes, Finger Gestures from Fatal Frog Software, and Steamworks.NET by Riley Labreque. New lanes are made with the Penelope sample from Unity Technologies, Cartoon Snowboard Funpark from Stefan M., Mushroom Land from Manufactura4K, Grass Road Race from Sugar Assets, and the Campfire Pack from Dreamdev Studios. HyperBowl is a trademark of Absolute Certainty Inc.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/847530/header.jpg?t=1571090077",
+    "Price": 0.99,
+    "Developers": "Technicat LLC",
+    "Publishers": "Technicat LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/847530/ss_1fc9f51ed66eaf0c28ab64f60c692ac823c3278d.1920x1080.jpg?t=1571090077,https://cdn.akamai.steamstatic.com/steam/apps/847530/ss_8ff98a70660400f87b6748d22e3bc9c89d54722c.1920x1080.jpg?t=1571090077,https://cdn.akamai.steamstatic.com/steam/apps/847530/ss_0d516eff294d7b3658b7886626e2caec8f0e2a8a.1920x1080.jpg?t=1571090077,https://cdn.akamai.steamstatic.com/steam/apps/847530/ss_d1de3cf9fa3eb43e7e7a045d3c31026587a3f71d.1920x1080.jpg?t=1571090077,https://cdn.akamai.steamstatic.com/steam/apps/847530/ss_4483ff3964c44fec448da217ab50d74aa2dcf6a8.1920x1080.jpg?t=1571090077,https://cdn.akamai.steamstatic.com/steam/apps/847530/ss_8e0e6909e17f55bb881518649dfe40fee249a055.1920x1080.jpg?t=1571090077,https://cdn.akamai.steamstatic.com/steam/apps/847530/ss_b1f282c646abe8c5e462e7067854685d990339c6.1920x1080.jpg?t=1571090077,https://cdn.akamai.steamstatic.com/steam/apps/847530/ss_bd5c1b6f5156695e3cc6f54e99dd67313fb09b9c.1920x1080.jpg?t=1571090077",
+    "Slug": "hyperbowl",
+    "Meta Title": "HyperBowl: Jul 20, 2018, Technicat LLC and Full Overview",
+    "Meta Description": "Looking for information on HyperBowl? Check out the release date (Jul 20, 2018), developer insights from Technicat LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for HyperBowl game - Steam 847530",
+    "Canonical URL": "https://gusku.site/game/hyperbowl",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HyperBowl\", \"description\": \"Looking for information on HyperBowl? Check out the release date (Jul 20, 2018), developer insights from Technicat LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 20, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Technicat LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Technicat LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/847530/header.jpg?t=1571090077\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1964610,
+    "Name": "GUTTERBRAWLERS",
+    "Release date": "Mar 28, 2023",
+    "About the game": "A fast-paced 2D fighting game with a colorful, retro feel. Inspired by the 90's classic Kombat-style of games that use the digital pad: 5 buttons ( two for punches, two for kicks and one for blocking ) and a basic move set for all characters with up to 4 unique special moves each. Features : Online mode : fight other players with insta rematches ( with rollback netcode ) Arcade mode : face the AI for warmups or just for fun Versus mode : local 2P matches Training mode : viewable hitboxes and dummy recording 6 characters/stages FM synth soundtrack and sound effects Timeless pixel art",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1964610/header.jpg?t=1680376846",
+    "Price": 3.99,
+    "Developers": "hslentz",
+    "Publishers": "hslentz",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1964610/ss_cc90be729992a258077ca684f9066f929967e026.1920x1080.jpg?t=1680376846,https://cdn.akamai.steamstatic.com/steam/apps/1964610/ss_871813d0013551bdcb182c656b6225012358eb1f.1920x1080.jpg?t=1680376846,https://cdn.akamai.steamstatic.com/steam/apps/1964610/ss_95a79aa844b1139a9d732badd63f73e165db07d2.1920x1080.jpg?t=1680376846,https://cdn.akamai.steamstatic.com/steam/apps/1964610/ss_4e7ef111328d056ccc54b761ada372fbf72d403a.1920x1080.jpg?t=1680376846,https://cdn.akamai.steamstatic.com/steam/apps/1964610/ss_193e36baf47d447e01bc034ef8bf539ff1db6e5b.1920x1080.jpg?t=1680376846",
+    "Slug": "gutterbrawlers",
+    "Meta Title": "GUTTERBRAWLERS: Mar 28, 2023, hslentz and Full Overview",
+    "Meta Description": "Looking for information on GUTTERBRAWLERS? Check out the release date (Mar 28, 2023), developer insights from hslentz, and a complete game summary.",
+    "Alt Text Image": "Official header image for GUTTERBRAWLERS game - Steam 1964610",
+    "Canonical URL": "https://gusku.site/game/gutterbrawlers",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GUTTERBRAWLERS\", \"description\": \"Looking for information on GUTTERBRAWLERS? Check out the release date (Mar 28, 2023), developer insights from hslentz, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 28, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"hslentz\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"hslentz\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1964610/header.jpg?t=1680376846\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

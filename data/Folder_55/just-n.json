@@ -1,0 +1,21 @@
+{
+    "AppID": 1095610,
+    "Name": "Just N",
+    "Release date": "Jun 14, 2019",
+    "About the game": "The purpose of this game is to put operators in numbers and to make the calculation result the target value. Let's decide the number from 1 to 10 at random and use that value. There are four game modes. Aim for a high score! Game The target value is randomly determined from 1 to 10. Assign 1 to 10 randomly determined numbers to the 5 x 5 panel. Operators are randomly placed in 4 panels each. If the result is the target value, the numbers disappear and the score is added. Game mode ・ Classic It is a normal mode without any change. If you can not put numbers on the panel, the game is over. Perhaps this mode will be the longest continuous play mode. ・ Time attack We will compete how many numbers can be erased in 120 seconds. Believe in your judgment and intuition and aim for a high score. ・ Move mode Numbers can be placed up to 30 times. Erase multiple numbers at the same time and get high points with combo bonus. ・ Zen Unlike other modes, it is possible to replace numbers. You can continue indefinitely. Tutorial Click the panel on the game to put the left most number of 'Number:'. If you put a number, it will be left-justified and the new number will be decided randomly. Place the numbers between operators. If you set the number so that the calculation result is the value of * of 'Just *', the two numbers disappear and the score increases. It is also possible to erase multiple numbers at the same time. It is game over when all the panels are filled. If E has a number in the panel you clicked, you can delete that number. Appears once in 15 times.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1095610/header.jpg?t=1561109843",
+    "Price": 0.99,
+    "Developers": "sakastudio",
+    "Publishers": "sakastudio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1095610/ss_6442bf0e5151a19b4fa2e5c1bcfcfc94f881be38.1920x1080.jpg?t=1561109843,https://cdn.akamai.steamstatic.com/steam/apps/1095610/ss_fcd06a31821d5a212b4f32d0a498c5dc72b7282a.1920x1080.jpg?t=1561109843,https://cdn.akamai.steamstatic.com/steam/apps/1095610/ss_5c4484e20e7a11aef4c7ec08ffa620d57ed6122c.1920x1080.jpg?t=1561109843,https://cdn.akamai.steamstatic.com/steam/apps/1095610/ss_97573b79b1241b8bf7b6bf5e16f32de6d54c07f1.1920x1080.jpg?t=1561109843,https://cdn.akamai.steamstatic.com/steam/apps/1095610/ss_6557a29bb18ab0c9b1b454c600a04ebb0a6f27ce.1920x1080.jpg?t=1561109843,https://cdn.akamai.steamstatic.com/steam/apps/1095610/ss_ae78457e4a9592a9a3c2c8e2bc73779f11d75240.1920x1080.jpg?t=1561109843",
+    "Slug": "just-n",
+    "Meta Title": "Just N: Jun 14, 2019, sakastudio and Full Overview",
+    "Meta Description": "Looking for information on Just N? Check out the release date (Jun 14, 2019), developer insights from sakastudio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Just N game - Steam 1095610",
+    "Canonical URL": "https://gusku.site/game/just-n",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Just N\", \"description\": \"Looking for information on Just N? Check out the release date (Jun 14, 2019), developer insights from sakastudio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 14, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"sakastudio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"sakastudio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1095610/header.jpg?t=1561109843\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

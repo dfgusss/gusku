@@ -1,0 +1,21 @@
+{
+    "AppID": 935660,
+    "Name": "Pixel Robot Hunter",
+    "Release date": "Oct 31, 2018",
+    "About the game": "Introduction: Pixel Robot Hunter is simplistic 2d shooter platformer with pixel graphics. Player is robot who want gold. So kill enemies in different levels and find gold treasure. Levels contain different enemies : flying and running goblins, enemy bats and spike bosses in end of every levels. Also different traps like firespikes which will kill player. Player can also collect different weapons like spacerifle and firebomb weapons which is powerful weapon against bosses. Also health pick-ups are available. Game contains also checkpoint system where player will respawn after death. First version contains 9 levels and test level where player can check out different enemies, pick-ups and features. Robot player and enemies can also shoot through walls Features: - 9 levels - checkpoint system - Double-jump - Health system - Player sliding feature - Test level which show all important features of game - 3 different weapons: normal rifle, laser rifle and firebomb weapon - Ammo pick-ups - Health pick-ups - 4 different enemies: flying goblin, running goblin, bats, spike bosses with weapons - Camera shakes - Flying platformers - Super jump barrels - Controller/gamepad support Read manual file where is added gamepad and keyboard controllers",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/935660/header.jpg?t=1544708330",
+    "Price": 0.49,
+    "Developers": "Tero Lunkka",
+    "Publishers": "Tero Lunkka",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/935660/ss_db85ba5c8c7eb961b4c6ac67dd4c79e12922e043.1920x1080.jpg?t=1544708330,https://cdn.akamai.steamstatic.com/steam/apps/935660/ss_225b49b0bf30c9d8cb7652da0a983b967a7ecb7f.1920x1080.jpg?t=1544708330,https://cdn.akamai.steamstatic.com/steam/apps/935660/ss_29cdf5c76c33213efe7ed56b98775f035a40b1f9.1920x1080.jpg?t=1544708330,https://cdn.akamai.steamstatic.com/steam/apps/935660/ss_70ac911aa435b23ccdcbaedbfdee82693583346c.1920x1080.jpg?t=1544708330,https://cdn.akamai.steamstatic.com/steam/apps/935660/ss_4f1390cb9a3af8de8a875bedf104bfba8981ce4b.1920x1080.jpg?t=1544708330",
+    "Slug": "pixel-robot-hunter",
+    "Meta Title": "Pixel Robot Hunter: Oct 31, 2018, Tero Lunkka and Full Ov...",
+    "Meta Description": "Looking for information on Pixel Robot Hunter? Check out the release date (Oct 31, 2018), developer insights from Tero Lunkka, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixel Robot Hunter game - Steam 935660",
+    "Canonical URL": "https://gusku.site/game/pixel-robot-hunter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixel Robot Hunter\", \"description\": \"Looking for information on Pixel Robot Hunter? Check out the release date (Oct 31, 2018), developer insights from Tero Lunkka, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 31, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tero Lunkka\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tero Lunkka\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/935660/header.jpg?t=1544708330\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

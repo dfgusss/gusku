@@ -1,0 +1,21 @@
+{
+    "AppID": 1787100,
+    "Name": "Out of Bounds",
+    "Release date": "Dec 16, 2022",
+    "About the game": "Originally started at a game jam, Out of Bounds is a short title about 'creating' a game and 'fixing' bugs. You have 15 minutes to package your creation by compiling blueprints, shaders and testing sound effects. But watch out for the bugs! Grab your Line Tracer and get rid of them 💥🔫 Out of Bounds also features Full controller support Steam leaderboard More than 30 Steam achievements More than 70 languages",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1787100/header.jpg?t=1671332517",
+    "Price": 4.49,
+    "Developers": "Tobias Rusjan",
+    "Publishers": "Saibot Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_0b98530381e10d10fb24c1efe474a46f07751b13.1920x1080.jpg?t=1671332517,https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_6cd4be0739d7a06fc31e77bd94d83c02531ee15d.1920x1080.jpg?t=1671332517,https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_18962cf22a898ce133cf77e4b17dedba49476413.1920x1080.jpg?t=1671332517,https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_e0312d1130980d2a815f608784b0181e9d3a8384.1920x1080.jpg?t=1671332517,https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_5942b1d94971ce6efd2165007f8aa05f0d0cbb58.1920x1080.jpg?t=1671332517,https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_e0244d4f75c8703fe33fd0f02f48fe0a95f5a29d.1920x1080.jpg?t=1671332517,https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_87350adac5dbe2035e10f26b810ee3c20950c308.1920x1080.jpg?t=1671332517,https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_cd1c1aebcc2154a453c2865e2b6c59ec54f70cee.1920x1080.jpg?t=1671332517,https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_2b1b8c8027298c25ea8b51716489d3f59f299c1b.1920x1080.jpg?t=1671332517,https://cdn.akamai.steamstatic.com/steam/apps/1787100/ss_8be71091d44388c2ea78d9bc8e3cc73964f631ac.1920x1080.jpg?t=1671332517",
+    "Slug": "out-of-bounds",
+    "Meta Title": "Out of Bounds: Dec 16, 2022, Tobias Rusjan and Full Overview",
+    "Meta Description": "Looking for information on Out of Bounds? Check out the release date (Dec 16, 2022), developer insights from Tobias Rusjan, and a complete game summary.",
+    "Alt Text Image": "Official header image for Out of Bounds game - Steam 1787100",
+    "Canonical URL": "https://gusku.site/game/out-of-bounds",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Out of Bounds\", \"description\": \"Looking for information on Out of Bounds? Check out the release date (Dec 16, 2022), developer insights from Tobias Rusjan, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 16, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tobias Rusjan\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Saibot Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1787100/header.jpg?t=1671332517\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

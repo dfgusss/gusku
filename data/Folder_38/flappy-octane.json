@@ -1,0 +1,21 @@
+{
+    "AppID": 1772270,
+    "Name": "Flappy Octane",
+    "Release date": "Nov 1, 2021",
+    "About the game": "Flappy Octane is an endless level, speed increasing game. It's game set in the future where cars can fly and all we do is jump through rings. It is currently in early access but will be developed in to a much larger game. Things planned to be implemented before full release are: - Full leaderboard system (global, friends and custom). - Different levels of difficulty (easy, medium and hard modes). - Multiple choices of music. - Progression levelling system (unlockable cars, music, levels, power ups). - Multiplayer replays/ghosts for the levels that aren't procedurally generated.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1772270/header.jpg?t=1635758873",
+    "Price": 0.99,
+    "Developers": "NomadApps,ncj",
+    "Publishers": "NomadApps,ncj",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1772270/ss_29c5428cc4d535e2966a9391668022a7dd364377.1920x1080.jpg?t=1635758873,https://cdn.akamai.steamstatic.com/steam/apps/1772270/ss_ea9c50a304393a919eceb35ad55d4ce16d4b6f41.1920x1080.jpg?t=1635758873,https://cdn.akamai.steamstatic.com/steam/apps/1772270/ss_b86855cb72b4476630973f4133853127c5ad1dc6.1920x1080.jpg?t=1635758873,https://cdn.akamai.steamstatic.com/steam/apps/1772270/ss_21e41717e11e20820fed551eda78d803c0f36f1a.1920x1080.jpg?t=1635758873,https://cdn.akamai.steamstatic.com/steam/apps/1772270/ss_c7e91cbd9c9150e2c98f6af31ea5da93570a00a7.1920x1080.jpg?t=1635758873",
+    "Slug": "flappy-octane",
+    "Meta Title": "Flappy Octane: Nov 1, 2021, NomadApps,ncj and Full Overview",
+    "Meta Description": "Looking for information on Flappy Octane? Check out the release date (Nov 1, 2021), developer insights from NomadApps,ncj, and a complete game summary.",
+    "Alt Text Image": "Official header image for Flappy Octane game - Steam 1772270",
+    "Canonical URL": "https://gusku.site/game/flappy-octane",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Flappy Octane\", \"description\": \"Looking for information on Flappy Octane? Check out the release date (Nov 1, 2021), developer insights from NomadApps,ncj, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"NomadApps,ncj\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"NomadApps,ncj\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1772270/header.jpg?t=1635758873\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

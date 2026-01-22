@@ -1,0 +1,21 @@
+{
+    "AppID": 1765240,
+    "Name": "RollingBall",
+    "Release date": "Oct 6, 2021",
+    "About the game": "RollingBall is a physical simulation rolling ball game. The idea was from Hamster Ball. You will control the rolling ball to move to the destination across platforms. You can move with WASD, jump with spacebar, hook with left click, super jump with right click, use items with Q,and more and more....",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1765240/header.jpg?t=1633521916",
+    "Price": 0.99,
+    "Developers": "BluePrinting",
+    "Publishers": "BluePrinting",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1765240/ss_14c711f61dae8c19e24ead7261c01c94186b802f.1920x1080.jpg?t=1633521916,https://cdn.akamai.steamstatic.com/steam/apps/1765240/ss_8f2efc10b2febfb895112f6d675b39024247ab24.1920x1080.jpg?t=1633521916,https://cdn.akamai.steamstatic.com/steam/apps/1765240/ss_f7138423175e900a0e84c4b40e6609e874576c6b.1920x1080.jpg?t=1633521916,https://cdn.akamai.steamstatic.com/steam/apps/1765240/ss_69a111091ed4ab42699ae00af05e9702b63d87be.1920x1080.jpg?t=1633521916,https://cdn.akamai.steamstatic.com/steam/apps/1765240/ss_5f5655db31123a2a6104dc7afe083f563854259d.1920x1080.jpg?t=1633521916,https://cdn.akamai.steamstatic.com/steam/apps/1765240/ss_706d62a5e27dcba6b087deef77481a36ec96255e.1920x1080.jpg?t=1633521916,https://cdn.akamai.steamstatic.com/steam/apps/1765240/ss_93a66992e079ac56a28e6520d7ebeb415fe4131b.1920x1080.jpg?t=1633521916",
+    "Slug": "rollingball",
+    "Meta Title": "RollingBall: Oct 6, 2021, BluePrinting and Full Overview",
+    "Meta Description": "Looking for information on RollingBall? Check out the release date (Oct 6, 2021), developer insights from BluePrinting, and a complete game summary.",
+    "Alt Text Image": "Official header image for RollingBall game - Steam 1765240",
+    "Canonical URL": "https://gusku.site/game/rollingball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RollingBall\", \"description\": \"Looking for information on RollingBall? Check out the release date (Oct 6, 2021), developer insights from BluePrinting, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 6, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"BluePrinting\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"BluePrinting\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1765240/header.jpg?t=1633521916\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

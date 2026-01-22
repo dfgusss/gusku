@@ -1,0 +1,21 @@
+{
+    "AppID": 2072520,
+    "Name": "Gravity Flux",
+    "Release date": "Sep 29, 2022",
+    "About the game": "Gravity Flux is a local multiplayer 2D shooter game, where gravity changes. You play as robots that have been built for testing in an environment where the gravity changes randomly throughout the game. Shoot at other players to try to get kills! Get the most kills to win! (in the allocated time) When gravity changes, the gameplay changes, so things become less about platforming, more about flying around. 3 levels (more planned) Controller support* Windows and Linux support Player statistics that you can see in-game Very simple, but addictive! More features are planned! Such as Full controller support Color-blind mode Localisation More levels MacOS support Aiming to get the game released in a fully-functional state first, then time-permitting, these features will be added inevitably. First made at a local Tasmanian game jam in 2018, the game has been expanded into a full game. Please see my Discord server or contact page if you have any issues or feedback. * Controller support - Despite not having 'Full/partial controller support' on launch, most controllers will work, but some may not work perfectly. Currently, there are only 4 Xbox controllers supported due to a software limitation that cannot be fixed in time. A fix is planned after release, so that 'Full controller support' will be verified.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2072520/header.jpg?t=1664489861",
+    "Price": 1.79,
+    "Developers": "Motley Pixels",
+    "Publishers": "Motley Pixels",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2072520/ss_f10967dd51ad04045398d2ddde472f2f6bee1b68.1920x1080.jpg?t=1664489861,https://cdn.akamai.steamstatic.com/steam/apps/2072520/ss_1cc4088b34bbe78e369b52be4485904f0d845178.1920x1080.jpg?t=1664489861,https://cdn.akamai.steamstatic.com/steam/apps/2072520/ss_6eabd231e13dd417914767f09f1abf1bb3932bd2.1920x1080.jpg?t=1664489861,https://cdn.akamai.steamstatic.com/steam/apps/2072520/ss_5e967824a7bd1d3e3266fe47f8ed7602e03435d4.1920x1080.jpg?t=1664489861,https://cdn.akamai.steamstatic.com/steam/apps/2072520/ss_f14766598c70700e80622ab4c7cb3fd82ab1e5f9.1920x1080.jpg?t=1664489861",
+    "Slug": "gravity-flux",
+    "Meta Title": "Gravity Flux: Sep 29, 2022, Motley Pixels and Full Overview",
+    "Meta Description": "Looking for information on Gravity Flux? Check out the release date (Sep 29, 2022), developer insights from Motley Pixels, and a complete game summary.",
+    "Alt Text Image": "Official header image for Gravity Flux game - Steam 2072520",
+    "Canonical URL": "https://gusku.site/game/gravity-flux",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Gravity Flux\", \"description\": \"Looking for information on Gravity Flux? Check out the release date (Sep 29, 2022), developer insights from Motley Pixels, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 29, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Motley Pixels\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Motley Pixels\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2072520/header.jpg?t=1664489861\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.79, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

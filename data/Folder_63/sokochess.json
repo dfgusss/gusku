@@ -1,0 +1,21 @@
+{
+    "AppID": 1960400,
+    "Name": "SokoChess",
+    "Release date": "Aug 12, 2022",
+    "About the game": "What is SokoChess? SokoChess is a minimalistic puzzle game that combines Chess with the Sokoban block-pushing formula. The goal of each level is to push black pieces to predetermined positions while making sure they don't capture all your pieces. Push the black pieces The goal of each level is to push all the black pieces to their destination. Careful where you move The black pieces will only move if you give them an opportunity to capture one of your pieces. 70 levels Infinite undos Don't like a level you are playing? Skip it Puzzle elements you won't see in Chess Unique gameplay combining Chess and Sokoban /",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1960400/header.jpg?t=1660316412",
+    "Price": 4.49,
+    "Developers": "Daisy Games",
+    "Publishers": "Daisy Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1960400/ss_59e5fc0b9f0af9b4ee025c1d095b83300c47834a.1920x1080.jpg?t=1660316412,https://cdn.akamai.steamstatic.com/steam/apps/1960400/ss_f81dcb4fa0d5f035b5de9c86dbad5ab35e5f02c9.1920x1080.jpg?t=1660316412,https://cdn.akamai.steamstatic.com/steam/apps/1960400/ss_ddabca59599f499cedf9a8639379b98541a87933.1920x1080.jpg?t=1660316412,https://cdn.akamai.steamstatic.com/steam/apps/1960400/ss_13214d8bde9c176e2d4b21ccb959f29a8a850cc0.1920x1080.jpg?t=1660316412,https://cdn.akamai.steamstatic.com/steam/apps/1960400/ss_00292628c555b784f4a513d4380686fa3a637c34.1920x1080.jpg?t=1660316412",
+    "Slug": "sokochess",
+    "Meta Title": "SokoChess: Aug 12, 2022, Daisy Games and Full Overview",
+    "Meta Description": "Looking for information on SokoChess? Check out the release date (Aug 12, 2022), developer insights from Daisy Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for SokoChess game - Steam 1960400",
+    "Canonical URL": "https://gusku.site/game/sokochess",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SokoChess\", \"description\": \"Looking for information on SokoChess? Check out the release date (Aug 12, 2022), developer insights from Daisy Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Daisy Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Daisy Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1960400/header.jpg?t=1660316412\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

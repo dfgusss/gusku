@@ -1,0 +1,21 @@
+{
+    "AppID": 2196100,
+    "Name": "Barren Depths",
+    "Release date": "Nov 9, 2022",
+    "About the game": "Swim as fast as you can to escape a terrifying monster in Barren Depths. Barren Depths has two distinct sections. The Start - A vast area covered in rocks, an eerie fog hinders your vision as you explore. Two 'objectives' can be found here, with one lying at some old ruins. The Cave - A confusing cave system with many twists and turns. Try and navigate your way out of the cave without being eaten alive! In order to exit the cave you must first break the wall blocking the exit by finding a mysterious statue. The End - Once you've escaped the cave you will trigger one of the two endings based on the 'objectives' from the start.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2196100/header.jpg?t=1668034254",
+    "Price": 3.99,
+    "Developers": "Kyle Obranovic",
+    "Publishers": "Kyle Obranovic",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2196100/ss_24c2aa1975322d5e57f49bb6b37381aa21dfa657.1920x1080.jpg?t=1668034254,https://cdn.akamai.steamstatic.com/steam/apps/2196100/ss_247d360fec026249135d56be0e9f5027be389cc1.1920x1080.jpg?t=1668034254,https://cdn.akamai.steamstatic.com/steam/apps/2196100/ss_7af17581f6ae1a82fa73479e614f0c8b7841c195.1920x1080.jpg?t=1668034254,https://cdn.akamai.steamstatic.com/steam/apps/2196100/ss_588d2727dda8a6430c921ff9f2033299b3507081.1920x1080.jpg?t=1668034254,https://cdn.akamai.steamstatic.com/steam/apps/2196100/ss_a92043454c08afcee59f7a5f6695c702178747bb.1920x1080.jpg?t=1668034254",
+    "Slug": "barren-depths",
+    "Meta Title": "Barren Depths: Nov 9, 2022, Kyle Obranovic and Full Overview",
+    "Meta Description": "Looking for information on Barren Depths? Check out the release date (Nov 9, 2022), developer insights from Kyle Obranovic, and a complete game summary.",
+    "Alt Text Image": "Official header image for Barren Depths game - Steam 2196100",
+    "Canonical URL": "https://gusku.site/game/barren-depths",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Barren Depths\", \"description\": \"Looking for information on Barren Depths? Check out the release date (Nov 9, 2022), developer insights from Kyle Obranovic, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 9, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kyle Obranovic\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kyle Obranovic\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2196100/header.jpg?t=1668034254\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

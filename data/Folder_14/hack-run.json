@@ -1,0 +1,21 @@
+{
+    "AppID": 378110,
+    "Name": "Hack RUN",
+    "Release date": "Jun 17, 2015",
+    "About the game": "Ever wanted to be a hacker? Hack your way into the heart of a mysterious organization to uncover their secrets. Hack RUN® is a game which uses 'old school' command prompts (like DOS or UNIX) that simulate a real operating system. Learn the commands of each system to help you navigate through your adventure. As you hack into their systems, you will learn about the organization and the people who work there. Read files and emails to find clues and riddles which will give you access to more accounts. Data found on their systems will help you learn about the motives of the organization, and how dark their plans can get. You may also discover dirty little secrets about the employees as well. Hacking into new accounts or discovering key information will increase your skill level. As you achieve your goals, you will move closer and closer to the final achievement; over 50 levels deep! It's time for a Hack RUN!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/378110/header.jpg?t=1499888635",
+    "Price": 2.99,
+    "Developers": "i273 LLC",
+    "Publishers": "i273 LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/378110/ss_c6377cde7b73ec0ebb83c654b918c4432bccc7c3.1920x1080.jpg?t=1499888635,https://cdn.akamai.steamstatic.com/steam/apps/378110/ss_65e93e1a54e7f62452cf91d5504c15b64c81708d.1920x1080.jpg?t=1499888635,https://cdn.akamai.steamstatic.com/steam/apps/378110/ss_3ffb50f27aec104fd5b56bcfb046d8b8dba875bd.1920x1080.jpg?t=1499888635,https://cdn.akamai.steamstatic.com/steam/apps/378110/ss_93fd976439259403d90911a85f9f414c225cc91e.1920x1080.jpg?t=1499888635,https://cdn.akamai.steamstatic.com/steam/apps/378110/ss_2b776276c3306e79be63197b63b6e81ea1e80237.1920x1080.jpg?t=1499888635",
+    "Slug": "hack-run",
+    "Meta Title": "Hack RUN: Jun 17, 2015, i273 LLC and Full Overview",
+    "Meta Description": "Looking for information on Hack RUN? Check out the release date (Jun 17, 2015), developer insights from i273 LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hack RUN game - Steam 378110",
+    "Canonical URL": "https://gusku.site/game/hack-run",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hack RUN\", \"description\": \"Looking for information on Hack RUN? Check out the release date (Jun 17, 2015), developer insights from i273 LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 17, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"i273 LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"i273 LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/378110/header.jpg?t=1499888635\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

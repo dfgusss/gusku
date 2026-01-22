@@ -1,0 +1,21 @@
+{
+    "AppID": 1423830,
+    "Name": "Cave Crawl",
+    "Release date": "Oct 25, 2020",
+    "About the game": "Cave crawl is an action-packed first-person melee adventure where you navigate your way through chambers of enemies to hopefully climb out alive. On the way you may find mysterious merchants who sell strange and curious items to aid you on your journey. Game mechanics Fight your way through 5 levels containing 4 rooms with random layouts of enemies and objects. Use your sword to defeat your enemies with either a slower heavy attack dealing more damage or a quicker attack dealing less damage. Deflect incoming damage with a well-timed deflect to be able to buy you some time for your next attack. If your back is against the wall you can always try to escape with a rechargeable dash to increase the distance between you and the enemy. Buy upgrades from the store to modify your sword to be longer for reach, heavier for dealing more damage, more health, faster attack speed or faster dash recharge.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1423830/header.jpg?t=1603652735",
+    "Price": 5.99,
+    "Developers": "Henrik Pira",
+    "Publishers": "Henrik Pira",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1423830/ss_8acb55be5ca52e899c552efb8514b156d64d5e54.1920x1080.jpg?t=1603652735,https://cdn.akamai.steamstatic.com/steam/apps/1423830/ss_4664df09dc66442d18f13c87fa0244305fe3854d.1920x1080.jpg?t=1603652735,https://cdn.akamai.steamstatic.com/steam/apps/1423830/ss_d78cbd4b4b8571ec614eb05e2b51b803ad817939.1920x1080.jpg?t=1603652735,https://cdn.akamai.steamstatic.com/steam/apps/1423830/ss_61f57116bbd234786da63c0d3df501c0b6b59f9f.1920x1080.jpg?t=1603652735,https://cdn.akamai.steamstatic.com/steam/apps/1423830/ss_00bbf30f2ee71f7f5d915a0cb963a74103d8bfab.1920x1080.jpg?t=1603652735",
+    "Slug": "cave-crawl",
+    "Meta Title": "Cave Crawl: Oct 25, 2020, Henrik Pira and Full Overview",
+    "Meta Description": "Looking for information on Cave Crawl? Check out the release date (Oct 25, 2020), developer insights from Henrik Pira, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cave Crawl game - Steam 1423830",
+    "Canonical URL": "https://gusku.site/game/cave-crawl",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cave Crawl\", \"description\": \"Looking for information on Cave Crawl? Check out the release date (Oct 25, 2020), developer insights from Henrik Pira, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 25, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Henrik Pira\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Henrik Pira\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1423830/header.jpg?t=1603652735\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

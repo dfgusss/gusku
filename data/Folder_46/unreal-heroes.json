@@ -1,0 +1,21 @@
+{
+    "AppID": 514510,
+    "Name": "Unreal Heroes",
+    "Release date": "Feb 3, 2017",
+    "About the game": "Unreal Heroes is a 2D game inspired by strike force heroes and built on unreal engine 4. This game only have deathmatch mode at the moment but he will receive few major update after his release with new game mods , characthers,levels and weapons.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/514510/header.jpg?t=1487749962",
+    "Price": 9.99,
+    "Developers": "OxPrime Studio",
+    "Publishers": "OxPrime Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/514510/ss_496a9843d2e4767f185d769b41aa754240d87bf6.1920x1080.jpg?t=1487749962,https://cdn.akamai.steamstatic.com/steam/apps/514510/ss_09ae20abdb06a9d1e3107fbf2ed841bfc8f10404.1920x1080.jpg?t=1487749962,https://cdn.akamai.steamstatic.com/steam/apps/514510/ss_998ae54b3887eec9da987f9ca927914e2eace300.1920x1080.jpg?t=1487749962,https://cdn.akamai.steamstatic.com/steam/apps/514510/ss_a8f442a632348a3c64de37cf07879713ebd3fb50.1920x1080.jpg?t=1487749962,https://cdn.akamai.steamstatic.com/steam/apps/514510/ss_9c2e0433e7c23cb4bf84498aba65dc04173435a4.1920x1080.jpg?t=1487749962",
+    "Slug": "unreal-heroes",
+    "Meta Title": "Unreal Heroes: Feb 3, 2017, OxPrime Studio and Full Overview",
+    "Meta Description": "Looking for information on Unreal Heroes? Check out the release date (Feb 3, 2017), developer insights from OxPrime Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Unreal Heroes game - Steam 514510",
+    "Canonical URL": "https://gusku.site/game/unreal-heroes",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Unreal Heroes\", \"description\": \"Looking for information on Unreal Heroes? Check out the release date (Feb 3, 2017), developer insights from OxPrime Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 3, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"OxPrime Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"OxPrime Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/514510/header.jpg?t=1487749962\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

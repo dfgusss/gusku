@@ -1,0 +1,21 @@
+{
+    "AppID": 1054980,
+    "Name": "The Cat and the Box",
+    "Release date": "Apr 20, 2019",
+    "About the game": "The Cat and the Box is a story-rich game in which a brave player might struggle to save their soul. Explore 12 levels and complete 5 2D arcade games Meet fallen creatures in the only City Fight with a demon for your soul Controls WASD to move Esc or Alt+Tab to pause and view options Space to jump E to interact static int[][][][] universe = new int[∞][∞][∞][?]",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1054980/header.jpg?t=1650461080",
+    "Price": 0.0,
+    "Developers": "Eli Schroeder",
+    "Publishers": "Eli Schroeder",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1054980/ss_986d3bc8371e9a1ae16e2aff10fa0420c91203dd.1920x1080.jpg?t=1650461080,https://cdn.akamai.steamstatic.com/steam/apps/1054980/ss_da0d5d57f2fce6fafab91858513fa74d2595c4bf.1920x1080.jpg?t=1650461080,https://cdn.akamai.steamstatic.com/steam/apps/1054980/ss_635455fca6067cee759a8273b3f14ab793f63ceb.1920x1080.jpg?t=1650461080,https://cdn.akamai.steamstatic.com/steam/apps/1054980/ss_595c38fe257f63dc996c8952658d955ef01bcf4c.1920x1080.jpg?t=1650461080,https://cdn.akamai.steamstatic.com/steam/apps/1054980/ss_1631d8584588714f285e48d9305a43c9a624f6f1.1920x1080.jpg?t=1650461080,https://cdn.akamai.steamstatic.com/steam/apps/1054980/ss_3d10021ad8c63922b344181a2f68b0688594cca9.1920x1080.jpg?t=1650461080",
+    "Slug": "the-cat-and-the-box",
+    "Meta Title": "The Cat and the Box: Apr 20, 2019, Eli Schroeder and Full...",
+    "Meta Description": "Looking for information on The Cat and the Box? Check out the release date (Apr 20, 2019), developer insights from Eli Schroeder, and a complete game su...",
+    "Alt Text Image": "Official header image for The Cat and the Box game - Steam 1054980",
+    "Canonical URL": "https://gusku.site/game/the-cat-and-the-box",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Cat and the Box\", \"description\": \"Looking for information on The Cat and the Box? Check out the release date (Apr 20, 2019), developer insights from Eli Schroeder, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 20, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eli Schroeder\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Eli Schroeder\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1054980/header.jpg?t=1650461080\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 772650,
+    "Name": "R.A.F.A.",
+    "Release date": "Apr 6, 2018",
+    "About the game": "R.A.F.A. is a 3rd person view platformer happening in a solar system. Explore, jump, shoot and have some fun across space You control an astronaut, he starts the game by appearing on a particular planet. The planets have two different types of fuel (blue and green) and are distributed randomly on each half of a planet each. A single type of fuel is not very useful, it is required to accumulate both to give some use to it. Fuel may be used to use a sort of railgun (sorry quake) and / or to power the astronaut jetpack. So it is understood that you can freely explore the planet, dodging enemies and collecting score, and / or you can use the fuel acquired to try to travel to another planet. I mean “try” because fuel is not abundant and may not be enough to reach another planet. As the solar system is dynamic one must be cautious and try to wait for the moment your planet and your destination get as close as possible. What sets this project apart? - Indie development - Gameplay across an entire solar system (generated procedurally) - Sort of 16 bit Arcade style but in 3D. 2 types of games modes, time attack and story mode. • In time attack you will challenge yourself to explore all planets as quick as possible. • In story mode you will find a new friend that will help you revealing mysteries around you. Important regarding gameplay: R.A.F.A. is really simple, one button to shoot and one to jump....and if you maintain the jump for a while you will activate the jetpack. There are some tutorial messages right before the action starts but If you have a fast computer maybe you wont see it ;)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/772650/header.jpg?t=1532654141",
+    "Price": 0.99,
+    "Developers": "Cristian Villalba",
+    "Publishers": "Cristian Villalba",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/772650/ss_d657b3ce44ef28712808b1238b4a00c9866db24f.1920x1080.jpg?t=1532654141,https://cdn.akamai.steamstatic.com/steam/apps/772650/ss_ff7a3389f1a55b1dce4059ec26b743b247fc05bc.1920x1080.jpg?t=1532654141,https://cdn.akamai.steamstatic.com/steam/apps/772650/ss_7dcd9150a8493975cba1f5434467a1008c68460c.1920x1080.jpg?t=1532654141,https://cdn.akamai.steamstatic.com/steam/apps/772650/ss_ad6bf8845a293c53b7e7cf4d2ab96bc2093c05d7.1920x1080.jpg?t=1532654141,https://cdn.akamai.steamstatic.com/steam/apps/772650/ss_cb721a40374302d2449bbe9adcae2fd25f8b8daf.1920x1080.jpg?t=1532654141,https://cdn.akamai.steamstatic.com/steam/apps/772650/ss_9e2b278ef53f76b26d71f4d11c790b2b9d17846f.1920x1080.jpg?t=1532654141,https://cdn.akamai.steamstatic.com/steam/apps/772650/ss_39547379a6818edec176222520c87faef901d348.1920x1080.jpg?t=1532654141,https://cdn.akamai.steamstatic.com/steam/apps/772650/ss_6656d0d3e348d53204718aafa180f11d5e0f1ec0.1920x1080.jpg?t=1532654141",
+    "Slug": "r-a-f-a",
+    "Meta Title": "R.A.F.A.: Apr 6, 2018, Cristian Villalba and Full Overview",
+    "Meta Description": "Looking for information on R.A.F.A.? Check out the release date (Apr 6, 2018), developer insights from Cristian Villalba, and a complete game summary.",
+    "Alt Text Image": "Official header image for R.A.F.A. game - Steam 772650",
+    "Canonical URL": "https://gusku.site/game/r-a-f-a",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"R.A.F.A.\", \"description\": \"Looking for information on R.A.F.A.? Check out the release date (Apr 6, 2018), developer insights from Cristian Villalba, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 6, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cristian Villalba\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cristian Villalba\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/772650/header.jpg?t=1532654141\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

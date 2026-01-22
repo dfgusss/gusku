@@ -1,0 +1,21 @@
+{
+    "AppID": 765100,
+    "Name": "Labirinto",
+    "Release date": "Jan 9, 2018",
+    "About the game": "Labirinto this is a simple 2D game in which you need to get square to the other end of the maze. - 30 levels. - Possibility to choose any level. - Different complexity. - Сlassical music soundtrack",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/765100/header.jpg?t=1628794587",
+    "Price": 1.99,
+    "Developers": "Iriya72",
+    "Publishers": "Iriya72",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/765100/ss_9a343da75ce346e01f62002a197a1db579a07d74.1920x1080.jpg?t=1628794587,https://cdn.akamai.steamstatic.com/steam/apps/765100/ss_b18548e1e726b99703f5e69b39278f26c39cb914.1920x1080.jpg?t=1628794587,https://cdn.akamai.steamstatic.com/steam/apps/765100/ss_4ac0bc38dd9f7457c549cf392b7e78fd932d9df2.1920x1080.jpg?t=1628794587,https://cdn.akamai.steamstatic.com/steam/apps/765100/ss_cad904d7f858b667ea71d5815df88c1298518ff1.1920x1080.jpg?t=1628794587,https://cdn.akamai.steamstatic.com/steam/apps/765100/ss_05764a99a0678ad6f46ccc6f0027138dbbba12e4.1920x1080.jpg?t=1628794587",
+    "Slug": "labirinto",
+    "Meta Title": "Labirinto: Jan 9, 2018, Iriya72 and Full Overview",
+    "Meta Description": "Looking for information on Labirinto? Check out the release date (Jan 9, 2018), developer insights from Iriya72, and a complete game summary.",
+    "Alt Text Image": "Official header image for Labirinto game - Steam 765100",
+    "Canonical URL": "https://gusku.site/game/labirinto",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Labirinto\", \"description\": \"Looking for information on Labirinto? Check out the release date (Jan 9, 2018), developer insights from Iriya72, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 9, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Iriya72\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Iriya72\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/765100/header.jpg?t=1628794587\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

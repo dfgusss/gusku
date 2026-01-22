@@ -1,0 +1,21 @@
+{
+    "AppID": 2152060,
+    "Name": "Astraea",
+    "Release date": "Oct 10, 2022",
+    "About the game": "Astraea is a 2D Shoot 'em up game where you fight through enemies of increasing strength and frequency. Features Defeat enemies to gain energy to upgrade your ship Moving to the top of the screen will collect all energy blobs on screen If you are in danger, you can use your warp to go through enemies and lasers Compete for a high score on the Steam Leaderboards Full controller support",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2152060/header.jpg?t=1665608658",
+    "Price": 2.99,
+    "Developers": "AurumKitsune",
+    "Publishers": "AurumKitsune",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2152060/ss_bef302a263cb5d84a5a1b5badb12d7409e1b0ac7.1920x1080.jpg?t=1665608658,https://cdn.akamai.steamstatic.com/steam/apps/2152060/ss_5bc9e36f2acaeb19b3e85ed62780a97597665ddd.1920x1080.jpg?t=1665608658,https://cdn.akamai.steamstatic.com/steam/apps/2152060/ss_a62264de5da0a967ef0ecc2db127239b7a255e61.1920x1080.jpg?t=1665608658,https://cdn.akamai.steamstatic.com/steam/apps/2152060/ss_8739c4e79d30d71970cafa1d0b7c2f6f0478ff62.1920x1080.jpg?t=1665608658,https://cdn.akamai.steamstatic.com/steam/apps/2152060/ss_3da47ca60731fef607119a218b430deb3a847f91.1920x1080.jpg?t=1665608658",
+    "Slug": "astraea",
+    "Meta Title": "Astraea: Oct 10, 2022, AurumKitsune and Full Overview",
+    "Meta Description": "Looking for information on Astraea? Check out the release date (Oct 10, 2022), developer insights from AurumKitsune, and a complete game summary.",
+    "Alt Text Image": "Official header image for Astraea game - Steam 2152060",
+    "Canonical URL": "https://gusku.site/game/astraea",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Astraea\", \"description\": \"Looking for information on Astraea? Check out the release date (Oct 10, 2022), developer insights from AurumKitsune, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 10, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"AurumKitsune\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"AurumKitsune\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2152060/header.jpg?t=1665608658\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 314370,
+    "Name": "boxlife",
+    "Release date": "Jan 14, 2016",
+    "About the game": "boxlife is a tiny first person metroidvania, where you gain abilities, find secrets and escape from the box",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/314370/header.jpg?t=1461024717",
+    "Price": 1.99,
+    "Developers": "tequibo",
+    "Publishers": "tequibo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/314370/ss_6e3d56bdbaae0c1348980cca3d76699feb119c45.1920x1080.jpg?t=1461024717,https://cdn.akamai.steamstatic.com/steam/apps/314370/ss_8b3f242902824f8b606d8ba7483fdf1d3b39f3a2.1920x1080.jpg?t=1461024717,https://cdn.akamai.steamstatic.com/steam/apps/314370/ss_0fa81ea9ed517d3f18fec68969a7418c2647505b.1920x1080.jpg?t=1461024717,https://cdn.akamai.steamstatic.com/steam/apps/314370/ss_923c08cf74fb07f0d495f9afa5f9cd38ee0a3aff.1920x1080.jpg?t=1461024717,https://cdn.akamai.steamstatic.com/steam/apps/314370/ss_e478019a470cca3cf84eb29d5620c53c6217f0d8.1920x1080.jpg?t=1461024717",
+    "Slug": "boxlife",
+    "Meta Title": "boxlife: Jan 14, 2016, tequibo and Full Overview",
+    "Meta Description": "Looking for information on boxlife? Check out the release date (Jan 14, 2016), developer insights from tequibo, and a complete game summary.",
+    "Alt Text Image": "Official header image for boxlife game - Steam 314370",
+    "Canonical URL": "https://gusku.site/game/boxlife",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"boxlife\", \"description\": \"Looking for information on boxlife? Check out the release date (Jan 14, 2016), developer insights from tequibo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 14, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"tequibo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"tequibo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/314370/header.jpg?t=1461024717\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

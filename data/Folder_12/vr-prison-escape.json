@@ -1,0 +1,21 @@
+{
+    "AppID": 1566700,
+    "Name": "VR Prison Escape",
+    "Release date": "May 19, 2021",
+    "About the game": "This is a VR immersive simulation game that simulates prison escape. As a prisoner, the player is locked in a separate cell and needs to use operating tools to unlock the lock. In the process, there will be other obstacles, knock them down, and try to unlock the last door and escape this prison. Left controller: Press Grip button for select; the menu button for the menu Right controller: Touchpad for movement; Grip button for unlocking door with tools When picking the lock, press the grip button of the left controller to rotate the lock picking tool, and then touch the Touchpad of the left controller to rotate the lock cylinder. Try to find the best unlocking point, otherwise the picking tool will break. If you can't find the keys, the picture below is a clue for you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1566700/header.jpg?t=1621433465",
+    "Price": 0.99,
+    "Developers": "William at Oxford",
+    "Publishers": "William at Oxford",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1566700/ss_5377a53e00e00f4e944af5e2620c88d7816a3113.1920x1080.jpg?t=1621433465,https://cdn.akamai.steamstatic.com/steam/apps/1566700/ss_c7e71ff90db6c159402b5cc545209b83b7611cf7.1920x1080.jpg?t=1621433465,https://cdn.akamai.steamstatic.com/steam/apps/1566700/ss_023c78489a4ab8b12c06a6bc6bdfec6f362703fc.1920x1080.jpg?t=1621433465,https://cdn.akamai.steamstatic.com/steam/apps/1566700/ss_c080753f3d8f7ec83c20d182d1543616d3b83878.1920x1080.jpg?t=1621433465,https://cdn.akamai.steamstatic.com/steam/apps/1566700/ss_d5118d7f92726be09f9a9af1792f3b09b856a3ba.1920x1080.jpg?t=1621433465,https://cdn.akamai.steamstatic.com/steam/apps/1566700/ss_be29d65c0cb9c09b927afb64c815a5f421ea8189.1920x1080.jpg?t=1621433465",
+    "Slug": "vr-prison-escape",
+    "Meta Title": "VR Prison Escape: May 19, 2021, William at Oxford and Ful...",
+    "Meta Description": "Looking for information on VR Prison Escape? Check out the release date (May 19, 2021), developer insights from William at Oxford, and a complete game s...",
+    "Alt Text Image": "Official header image for VR Prison Escape game - Steam 1566700",
+    "Canonical URL": "https://gusku.site/game/vr-prison-escape",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VR Prison Escape\", \"description\": \"Looking for information on VR Prison Escape? Check out the release date (May 19, 2021), developer insights from William at Oxford, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"William at Oxford\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"William at Oxford\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1566700/header.jpg?t=1621433465\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

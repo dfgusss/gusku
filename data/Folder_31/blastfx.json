@@ -1,0 +1,21 @@
+{
+    "AppID": 940920,
+    "Name": "BlastFX",
+    "Release date": "Oct 5, 2018",
+    "About the game": "BlastFX is a tool that allows you to easily create complex particle systems and save the resulting animation as a sprite sheet or individual images for use in your games or other projects. Pre-rendering complex particle systems like this can allow weaker systems such as mobile devices or even HTML5 games to have impressive effects without the slow down that would be incurred from real-time simulations. BlastFX also offers customizable image effect post-processing allowing you to tweak the look of the final render. Use effects like palette-remapping and pixellation to easily turn the high-resolution particles into 8/16 bit assets, perfect for any retro game. Of course you don't have to give your animations a retro look, you can completely by-pass the effects chain and render the particle effect as-is, great for high-definition games. Trailer music:",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/940920/header.jpg?t=1538753235",
+    "Price": 19.99,
+    "Developers": "Ben Hickling",
+    "Publishers": "Ben Hickling",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/940920/ss_020f27fa4ead6b733cde77df1d466481391ce047.1920x1080.jpg?t=1538753235,https://cdn.akamai.steamstatic.com/steam/apps/940920/ss_8ad836de7caddfa0176a7e84e81c316bdea02bfb.1920x1080.jpg?t=1538753235,https://cdn.akamai.steamstatic.com/steam/apps/940920/ss_8887d86bf4719b726c50c2485c07dad395f4d554.1920x1080.jpg?t=1538753235,https://cdn.akamai.steamstatic.com/steam/apps/940920/ss_2f06abde86b20224e9d74c6e13c1c4e2b658dc11.1920x1080.jpg?t=1538753235,https://cdn.akamai.steamstatic.com/steam/apps/940920/ss_bbb57585dfb483f873d05ab01b2b1d789be1b028.1920x1080.jpg?t=1538753235",
+    "Slug": "blastfx",
+    "Meta Title": "BlastFX: Oct 5, 2018, Ben Hickling and Full Overview",
+    "Meta Description": "Looking for information on BlastFX? Check out the release date (Oct 5, 2018), developer insights from Ben Hickling, and a complete game summary.",
+    "Alt Text Image": "Official header image for BlastFX game - Steam 940920",
+    "Canonical URL": "https://gusku.site/game/blastfx",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BlastFX\", \"description\": \"Looking for information on BlastFX? Check out the release date (Oct 5, 2018), developer insights from Ben Hickling, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 5, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ben Hickling\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ben Hickling\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/940920/header.jpg?t=1538753235\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

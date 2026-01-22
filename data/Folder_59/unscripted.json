@@ -1,0 +1,21 @@
+{
+    "AppID": 1379980,
+    "Name": "Unscripted",
+    "Release date": "Dec 17, 2020",
+    "About the game": "Take on your developer dream in Catalina City in Unscripted! Follow the journey of a software developer aspiring to publish their video game into the PackStore's prestigious arcade while starting a new life in Catalina City, the city for software developers. Reconnect and meet close friends like Zen'no, new peers like Katorin, the Kotlin-loving developer, and possibly new enemies like Christina, an enigmatic Python developer. Features Discord rich presence integration with each chapter* (opt-in by default) Personalized routes based on choices and story maps (four base routes) Ambient sounds and support for emphasizing sound effects and ambience over music Ability to switch to the Lexend font and variant to increase readability Puzzle mini-game with advanced scripting support Rich notifications and realistic desktop via AliceOS",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1379980/header.jpg?t=1631557546",
+    "Price": 6.99,
+    "Developers": "Marquis Kurt",
+    "Publishers": "Marquis Kurt",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1379980/ss_487e2ee9be510e990cb4dc3e02e674e565c98908.1920x1080.jpg?t=1631557546,https://cdn.akamai.steamstatic.com/steam/apps/1379980/ss_24e0caf53fae3d74291a992c3669590bf7e5459b.1920x1080.jpg?t=1631557546,https://cdn.akamai.steamstatic.com/steam/apps/1379980/ss_4baa11fa3e319908d8587343763122f19d51e849.1920x1080.jpg?t=1631557546,https://cdn.akamai.steamstatic.com/steam/apps/1379980/ss_887a7a7000d7297aff9f2c37e4173e159892e77c.1920x1080.jpg?t=1631557546,https://cdn.akamai.steamstatic.com/steam/apps/1379980/ss_ef3255ef3f129c1ab2086a8d2b3958e8b3675087.1920x1080.jpg?t=1631557546",
+    "Slug": "unscripted",
+    "Meta Title": "Unscripted: Dec 17, 2020, Marquis Kurt and Full Overview",
+    "Meta Description": "Looking for information on Unscripted? Check out the release date (Dec 17, 2020), developer insights from Marquis Kurt, and a complete game summary.",
+    "Alt Text Image": "Official header image for Unscripted game - Steam 1379980",
+    "Canonical URL": "https://gusku.site/game/unscripted",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Unscripted\", \"description\": \"Looking for information on Unscripted? Check out the release date (Dec 17, 2020), developer insights from Marquis Kurt, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 17, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Marquis Kurt\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Marquis Kurt\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1379980/header.jpg?t=1631557546\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

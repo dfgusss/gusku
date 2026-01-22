@@ -1,0 +1,21 @@
+{
+    "AppID": 1133520,
+    "Name": "ICONIC",
+    "Release date": "Sep 9, 2020",
+    "About the game": "In this obstacle &amp; puzzle-based arcade, you are an arrow icon, navigating a 2D environment of visual communication without words. How fast can you clear all the levels? Or can you clear them all with just a handful of lives? Created by A Single Developer : All core gameplay, Art, Animation, and Programming are by a single developer. - Music by John Naeder - Sound effects are in development. Early Access - Version 0.30.0 (ALPHA): ICONIC currently has 19/100 levels completed. I am working on a 3D version of this game which will be free to people who have purchased this game before the launch of ICONIC 3D. CURRENT Features: Adventure &amp; Random Mode. A calming minimalistic art style free of noise and distraction. 15-second to 1-minute micro-levels for quick gameplay. Level completion &amp; time tracking for each playthrough. A variety of traps, tricks, obstacles &amp; puzzles. Almost no sound effects have been implemented into the game yet! A World of Visual Communication: ICONIC features gameplay without text-based language, the experience is communicated directly through forms of visual display to help the player progress. Colors are used sparingly to indicate importance or to catch the eye and offer hints where the focus should be directed. The simplicity and minimalism are intentional and based on the concept of 'Lagom' which roughly translates to 'Not too little, not too much' in Swedish.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1133520/header.jpg?t=1639524890",
+    "Price": 2.99,
+    "Developers": "Cody Rauh",
+    "Publishers": "Optimistic Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1133520/ss_4e60d04df0a13660e5b0768e295190ed260aec34.1920x1080.jpg?t=1639524890,https://cdn.akamai.steamstatic.com/steam/apps/1133520/ss_c6ab7e264a7e411419461509c57f365db349020c.1920x1080.jpg?t=1639524890,https://cdn.akamai.steamstatic.com/steam/apps/1133520/ss_9b56d369b1d00fda85c43047acb0005a97c743ec.1920x1080.jpg?t=1639524890,https://cdn.akamai.steamstatic.com/steam/apps/1133520/ss_2cad8f79b1d2f09f65645964ed1cb17e398da932.1920x1080.jpg?t=1639524890,https://cdn.akamai.steamstatic.com/steam/apps/1133520/ss_ca3180b418b3fc95626cec04c3360047cb1963d3.1920x1080.jpg?t=1639524890",
+    "Slug": "iconic",
+    "Meta Title": "ICONIC: Sep 9, 2020, Cody Rauh and Full Overview",
+    "Meta Description": "Looking for information on ICONIC? Check out the release date (Sep 9, 2020), developer insights from Cody Rauh, and a complete game summary.",
+    "Alt Text Image": "Official header image for ICONIC game - Steam 1133520",
+    "Canonical URL": "https://gusku.site/game/iconic",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ICONIC\", \"description\": \"Looking for information on ICONIC? Check out the release date (Sep 9, 2020), developer insights from Cody Rauh, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 9, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cody Rauh\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Optimistic Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1133520/header.jpg?t=1639524890\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

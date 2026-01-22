@@ -1,0 +1,21 @@
+{
+    "AppID": 693320,
+    "Name": "Chinomikon",
+    "Release date": "Sep 1, 2017",
+    "About the game": "Chinomikon is an adventure-learning game about a Hero who arrives in China. Hero wants to earn some money by teaching English, but, due to unxexpected set of events, he starts fighting with fearsome monsters for Chinomikon pages. Which is, bytheway, a book of great value. In order to survive, our Hero must complete a set of challlenges and acquire 34 Chinomikon pages. RPG maker battle system, but with a slightly different approach. Algorithm of learning process: 1. You are seaching certain location for items - words that connected to this location. Any item has pinyin (romazition) and tranlation. 2. After searching all of the possible items, you are gaining an access to battle zone's portal of this location. 3. During fight, you have to use right item on an any giving monster. All Monsters, on their part, have chinese characters atop them. 4. Monsters have a chance to drop key item, which you need in order to continue story and learning process. So, during multiple fights you could remember chinese characters and their translation. Learn and play at the same time! - 34 chinese words, that you could learn; - fast storytelling; - simple gameplay.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/693320/header.jpg?t=1513130158",
+    "Price": 0.99,
+    "Developers": "dimosha_92",
+    "Publishers": "dimosha_92",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/693320/ss_3d94daeabdcc7fdf0dfac00c54b31ba51442f042.1920x1080.jpg?t=1513130158,https://cdn.akamai.steamstatic.com/steam/apps/693320/ss_b8dd499bac5f7097a858be739fe48d3cdf72ff6b.1920x1080.jpg?t=1513130158,https://cdn.akamai.steamstatic.com/steam/apps/693320/ss_da743a539453aa2a15ffd307e823a03dc36ed618.1920x1080.jpg?t=1513130158,https://cdn.akamai.steamstatic.com/steam/apps/693320/ss_52c8095c52b1a06b0ad9f0d7b4732ea5e4ce234a.1920x1080.jpg?t=1513130158,https://cdn.akamai.steamstatic.com/steam/apps/693320/ss_d8a9d7eaf228185e8f1f55d7d5f39b67dcc00829.1920x1080.jpg?t=1513130158",
+    "Slug": "chinomikon",
+    "Meta Title": "Chinomikon: Sep 1, 2017, dimosha_92 and Full Overview",
+    "Meta Description": "Looking for information on Chinomikon? Check out the release date (Sep 1, 2017), developer insights from dimosha_92, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chinomikon game - Steam 693320",
+    "Canonical URL": "https://gusku.site/game/chinomikon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chinomikon\", \"description\": \"Looking for information on Chinomikon? Check out the release date (Sep 1, 2017), developer insights from dimosha_92, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"dimosha_92\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"dimosha_92\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/693320/header.jpg?t=1513130158\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

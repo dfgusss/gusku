@@ -1,0 +1,21 @@
+{
+    "AppID": 770170,
+    "Name": "EzBench Benchmark",
+    "Release date": "May 13, 2022",
+    "About the game": "General Info: Ezbench is a FREE Stress test tool with next generation technologies from Unreal Engine 5. Test your computer versus 8K textures, Cinematic quality assets and raytracing. EzBench started out as a easter jam project and turned into a graphical stress test tool. It is still early in development and is worked on as a side project. UI improvements, more scenes are coming. The current version includes a stylized scene of a fantasy island. In the future we plan to add photorealistic scenes showcasing the true graphical capabilities of the engine. The current scene is a stress test rather than a showcase of the engine. This tool is a stress test and does represent a worst case scenario. You should expect higher frame rates in optimized games. FAQ: What is the resolution? - The stress test forces 1080P or 4K *render resolution* in order to ensure comparison . What is a stress test? - A stress test is designed to load the GPU as much as possible. In particular this test is extremely heavy on memory. A stress test is great for testing thermals or stability. It isn't intended to showcase game performance, or graphical capabilities of the engine itself. Will you add a Unreal Engine 5 Showcase later on? - We might add a graphical showcase in June! Are there more features planned? Yes! We plan to add a torture test (Loop) as well as improving the UI. Including options to mute the game. This tool was made by: Ezekiel Hauge | Twitter: @Eztheory - Environment - Lighting - Design Chris Lucca | Twitter: @FlipLucca - Sound Design - Music Pablo Muñoz | Twitter: @Shikopaleta - Programming - Technical Design Marius Andre Elgsaas | Twitter: @Oppne - VFX / Niagara - Cavern Exterior We strongly recommend using a video card with minimum 8GB of video memory. Will give any PC a challenge. While it runs on lower end systems as well, this test will make your RTX 3090 sweat. Logo by: Kalin Mihaylov | Twitter: @Voodoo_KalinMih",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/770170/header.jpg?t=1652885670",
+    "Price": 0.0,
+    "Developers": "Eztheory AS",
+    "Publishers": "Wise Serpent Studios AS",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/770170/ss_83b660c89ab05fccd8d82f8277ce016ea5e71d10.1920x1080.jpg?t=1652885670,https://cdn.akamai.steamstatic.com/steam/apps/770170/ss_8d10a2bd5d32da25f2c5b4b27a9a95132adea1c8.1920x1080.jpg?t=1652885670,https://cdn.akamai.steamstatic.com/steam/apps/770170/ss_2be13bfee809a253b4d0cd68b9985ce61a28c6a7.1920x1080.jpg?t=1652885670,https://cdn.akamai.steamstatic.com/steam/apps/770170/ss_7b0ed4d70771e8388086396eb828fcaa3f909ee9.1920x1080.jpg?t=1652885670,https://cdn.akamai.steamstatic.com/steam/apps/770170/ss_1b67e51a66a38c4c752f86c786de4c810815341a.1920x1080.jpg?t=1652885670",
+    "Slug": "ezbench-benchmark",
+    "Meta Title": "EzBench Benchmark: May 13, 2022, Eztheory AS and Full Ove...",
+    "Meta Description": "Looking for information on EzBench Benchmark? Check out the release date (May 13, 2022), developer insights from Eztheory AS, and a complete game summary.",
+    "Alt Text Image": "Official header image for EzBench Benchmark game - Steam 770170",
+    "Canonical URL": "https://gusku.site/game/ezbench-benchmark",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"EzBench Benchmark\", \"description\": \"Looking for information on EzBench Benchmark? Check out the release date (May 13, 2022), developer insights from Eztheory AS, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 13, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eztheory AS\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Wise Serpent Studios AS\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/770170/header.jpg?t=1652885670\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

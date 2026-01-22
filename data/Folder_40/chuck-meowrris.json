@@ -1,0 +1,21 @@
+{
+    "AppID": 1245730,
+    "Name": "Chuck Meowrris",
+    "Release date": "Feb 28, 2020",
+    "About the game": "Chuck Meowrris is a Roguelike/Roguelite/whatever this genre is. You have nine lives to complete the game and get through nine different levels. Every time you complete three levels, you face a boss. Every time you lose a life or complete a level you move to one the nine levels that you haven't completed at random. You can play as five different classes however, the class you play as is actually chosen for you instead of you choosing it. Nine lives, nine levels, three bosses, and one final boss. Can you complete Dr. Kibblesworth's Gauntlet of Randomness? If you run into any bugs or concerns with the game, feel free to email me at whynotfailagain@gmail.com about them!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1245730/header.jpg?t=1641930231",
+    "Price": 0.0,
+    "Developers": "WhyNot?",
+    "Publishers": "WhyNot?",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1245730/ss_1a574bd37dce45e438edcaffa2184452ad894689.1920x1080.jpg?t=1641930231,https://cdn.akamai.steamstatic.com/steam/apps/1245730/ss_4e58d58bb2ea823cf6247c7b43dbe4c6f96078b3.1920x1080.jpg?t=1641930231,https://cdn.akamai.steamstatic.com/steam/apps/1245730/ss_e57329c820e5efe77ae7cdd93e121c73b130bb0e.1920x1080.jpg?t=1641930231,https://cdn.akamai.steamstatic.com/steam/apps/1245730/ss_ef67e9131fba2bd8dd92502a7ebc974c50cfe590.1920x1080.jpg?t=1641930231,https://cdn.akamai.steamstatic.com/steam/apps/1245730/ss_0738d0a3d7cd5f4ed51557a945c80fa3f3522265.1920x1080.jpg?t=1641930231",
+    "Slug": "chuck-meowrris",
+    "Meta Title": "Chuck Meowrris: Feb 28, 2020, WhyNot? and Full Overview",
+    "Meta Description": "Looking for information on Chuck Meowrris? Check out the release date (Feb 28, 2020), developer insights from WhyNot?, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chuck Meowrris game - Steam 1245730",
+    "Canonical URL": "https://gusku.site/game/chuck-meowrris",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chuck Meowrris\", \"description\": \"Looking for information on Chuck Meowrris? Check out the release date (Feb 28, 2020), developer insights from WhyNot?, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 28, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"WhyNot?\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"WhyNot?\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1245730/header.jpg?t=1641930231\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

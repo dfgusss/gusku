@@ -1,0 +1,21 @@
+{
+    "AppID": 1517890,
+    "Name": "SynthVR",
+    "Release date": "Jan 31, 2021",
+    "About the game": "SynthVR is the synth nerd’s sci-fi fantasy: A modular synthesizer environment built from the ground up for virtual reality. Based on the Eurorack standard and reimagined for VR, SynthVR offers an exciting and accesible path into the world of modular synth music. It comes packed with studio-quality synth modules including oscillators, sequencers, effects, logic and more. If you built something cool you can share it in a heartbeat and if you're looking for inspiration you can surf amazing community patches at random. What will you make today? Mad-scientist-style electronica, ambient drones or hard techno? If you build it, they will come. Key features: Fully modular signal flow 30+ synth modules to play with Easily share and discover new creations online Control signals run at audio rate, just like real modular Animate the environment with your sounds Multichannel audio recording options Limitless supply of bleeps and bloops Warning: This application contains flashing lights that may make it unsuitable for people with photosensitive epilepsy or other photosensitive conditions. Player discretion is advised.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1517890/header.jpg?t=1650126435",
+    "Price": 24.99,
+    "Developers": "42tones",
+    "Publishers": "42tones",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1517890/ss_b2da9038ba7158ad1dc8c7d68dc9888cdedafe7a.1920x1080.jpg?t=1650126435,https://cdn.akamai.steamstatic.com/steam/apps/1517890/ss_2bef36caac8a64860971f0d307eac31379e2a213.1920x1080.jpg?t=1650126435,https://cdn.akamai.steamstatic.com/steam/apps/1517890/ss_3fd035e7518101aff5e412d3975d42291c7e874e.1920x1080.jpg?t=1650126435,https://cdn.akamai.steamstatic.com/steam/apps/1517890/ss_b30d63f0e864f93397fafa8fdcff852f0e15fa7f.1920x1080.jpg?t=1650126435,https://cdn.akamai.steamstatic.com/steam/apps/1517890/ss_ad2a33a396d1e9ee97b6e1fe7e7ecd6e3de6a554.1920x1080.jpg?t=1650126435,https://cdn.akamai.steamstatic.com/steam/apps/1517890/ss_ad13bb3a0f9cca8e9851be649b9be4c034b038fa.1920x1080.jpg?t=1650126435",
+    "Slug": "synthvr",
+    "Meta Title": "SynthVR: Jan 31, 2021, 42tones and Full Overview",
+    "Meta Description": "Looking for information on SynthVR? Check out the release date (Jan 31, 2021), developer insights from 42tones, and a complete game summary.",
+    "Alt Text Image": "Official header image for SynthVR game - Steam 1517890",
+    "Canonical URL": "https://gusku.site/game/synthvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SynthVR\", \"description\": \"Looking for information on SynthVR? Check out the release date (Jan 31, 2021), developer insights from 42tones, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 31, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"42tones\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"42tones\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1517890/header.jpg?t=1650126435\", \"offers\": {\"@type\": \"Offer\", \"price\": 24.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

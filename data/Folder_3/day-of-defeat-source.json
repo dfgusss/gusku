@@ -1,0 +1,21 @@
+{
+    "AppID": 300,
+    "Name": "Day of Defeat: Source",
+    "Release date": "Jul 12, 2010",
+    "About the game": "Day of Defeat offers intense online action gameplay set in Europe during WWII. Assume the role of infantry, sniper or machine-gunner classes, and more. DoD:S features enhanced graphics and sounds design to leverage the power of Source, Valve's new engine technology.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/300/header.jpg?t=1570137070",
+    "Price": 9.99,
+    "Developers": "Valve",
+    "Publishers": "Valve",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/300/0000000023.1920x1080.jpg?t=1570137070,https://cdn.akamai.steamstatic.com/steam/apps/300/0000000042.1920x1080.jpg?t=1570137070,https://cdn.akamai.steamstatic.com/steam/apps/300/0000000043.1920x1080.jpg?t=1570137070,https://cdn.akamai.steamstatic.com/steam/apps/300/0000000044.1920x1080.jpg?t=1570137070,https://cdn.akamai.steamstatic.com/steam/apps/300/0000000045.1920x1080.jpg?t=1570137070",
+    "Slug": "day-of-defeat-source",
+    "Meta Title": "Day of Defeat: Source: Jul 12, 2010, Valve and Full Overview",
+    "Meta Description": "Looking for information on Day of Defeat: Source? Check out the release date (Jul 12, 2010), developer insights from Valve, and a complete game summary.",
+    "Alt Text Image": "Official header image for Day of Defeat: Source game - Steam 300",
+    "Canonical URL": "https://gusku.site/game/day-of-defeat-source",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Day of Defeat: Source\", \"description\": \"Looking for information on Day of Defeat: Source? Check out the release date (Jul 12, 2010), developer insights from Valve, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 12, 2010\", \"author\": {\"@type\": \"Organization\", \"name\": \"Valve\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Valve\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/300/header.jpg?t=1570137070\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

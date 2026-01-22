@@ -1,0 +1,21 @@
+{
+    "AppID": 1209750,
+    "Name": "FlowState",
+    "Release date": "Feb 28, 2020",
+    "About the game": "Simulator Philosophy This simulator is a true FPV Drone Racing simulator. The goal is to make it look and feel as similar to a standard racing drone as possible. As such, the goal is not to make the most HD/GoPro-esque visuals. Instead the focus is on simulating what pilots see through the goggles, static and all! This sim is also open source! So if you would like to contribute find us on github. Here are some of the founding principles players' and contributors' consideration. - Flight feel is #1 priority - This means lowest (realistic) possible input latency - Use as a practice tool - Lap times should be similar for most pilots/setups/tracks - Editable maps with commonly used track elements - Realistic video static/interference like what you'd see in an actual FPV race - Competitive - The sim does not provide significant advantages to those with high end gaming rigs - The 'sim quads' could be flown 'against' real quads, and yield a fair competition - Field friendly (works on recent lower end laptops) - Usable with or without internet connection",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1209750/header.jpg?t=1592176859",
+    "Price": 0.0,
+    "Developers": "Timothy Ichiyasu,Joshua Rice",
+    "Publishers": NaN,
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1209750/ss_738e9d6ec631ca4380d8c9e52d069cf51a48cae7.1920x1080.jpg?t=1592176859,https://cdn.akamai.steamstatic.com/steam/apps/1209750/ss_13517a9a4f6b801253a338ce39856b30cc05d6aa.1920x1080.jpg?t=1592176859,https://cdn.akamai.steamstatic.com/steam/apps/1209750/ss_d22b8396c84f38360dfb7b42b6c938371c7dcafb.1920x1080.jpg?t=1592176859,https://cdn.akamai.steamstatic.com/steam/apps/1209750/ss_b505788239736e9ea28c207d630fbbe976a27fae.1920x1080.jpg?t=1592176859,https://cdn.akamai.steamstatic.com/steam/apps/1209750/ss_35df78b43fbd155b8b942507ba45968f344bd454.1920x1080.jpg?t=1592176859",
+    "Slug": "flowstate",
+    "Meta Title": "FlowState: Feb 28, 2020, Timothy Ichiyasu,Joshua Rice and...",
+    "Meta Description": "Looking for information on FlowState? Check out the release date (Feb 28, 2020), developer insights from Timothy Ichiyasu,Joshua Rice, and a complete ga...",
+    "Alt Text Image": "Official header image for FlowState game - Steam 1209750",
+    "Canonical URL": "https://gusku.site/game/flowstate",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FlowState\", \"description\": \"Looking for information on FlowState? Check out the release date (Feb 28, 2020), developer insights from Timothy Ichiyasu,Joshua Rice, and a complete ga...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 28, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Timothy Ichiyasu,Joshua Rice\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": NaN}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1209750/header.jpg?t=1592176859\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1448900,
+    "Name": "StreamUsers",
+    "Release date": "Nov 3, 2020",
+    "About the game": "StreamUsers is a program that allows streamers to always know who is watching their broadcast. It is enough to connect your channel in the settings and the main window will display a list of viewers, which is divided into three categories: common viewers, moderators and VIPs. An additional category, favorite viewers, is optional. It will display viewers that you mark as favorites. Of additional, but no less important functionality is the chat. It can be opened either in a separate window or as a browser source in a streaming program (OBS, XSplit, PlayClaw). Main Features Real-time viewer list tracking Adding favorite viewers Display online difference Appearance customization Stopwatch and timer Chat Display icons for moderators, VIPs, turbos, etc. Default smileys display BTTV smilies support. Ability to display in the stream program: OBS, XSplit, PlayClaw Supported streaming platform: Twitch",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1448900/header.jpg?t=1649081180",
+    "Price": 2.99,
+    "Developers": "Yevhenii Rabtsun",
+    "Publishers": "Yevhenii Rabtsun",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1448900/ss_b3f95b681f350cf037b976707edc5255568fe279.1920x1080.jpg?t=1649081180,https://cdn.akamai.steamstatic.com/steam/apps/1448900/ss_cbe961f5a2bc4b81e46123cb02881b8743fb9dda.1920x1080.jpg?t=1649081180,https://cdn.akamai.steamstatic.com/steam/apps/1448900/ss_7ca5f051c55714754bb11d8bbbd73bbd9964b8cd.1920x1080.jpg?t=1649081180,https://cdn.akamai.steamstatic.com/steam/apps/1448900/ss_366df8095dd6be933f6a8614c8dae0badf687498.1920x1080.jpg?t=1649081180,https://cdn.akamai.steamstatic.com/steam/apps/1448900/ss_751c5e385c589402696ad39c238261dbbe0d64e1.1920x1080.jpg?t=1649081180",
+    "Slug": "streamusers",
+    "Meta Title": "StreamUsers: Nov 3, 2020, Yevhenii Rabtsun and Full Overview",
+    "Meta Description": "Looking for information on StreamUsers? Check out the release date (Nov 3, 2020), developer insights from Yevhenii Rabtsun, and a complete game summary.",
+    "Alt Text Image": "Official header image for StreamUsers game - Steam 1448900",
+    "Canonical URL": "https://gusku.site/game/streamusers",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"StreamUsers\", \"description\": \"Looking for information on StreamUsers? Check out the release date (Nov 3, 2020), developer insights from Yevhenii Rabtsun, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 3, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Yevhenii Rabtsun\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Yevhenii Rabtsun\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1448900/header.jpg?t=1649081180\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

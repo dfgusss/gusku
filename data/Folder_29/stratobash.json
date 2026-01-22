@@ -1,0 +1,21 @@
+{
+    "AppID": 615550,
+    "Name": "StratoBash",
+    "Release date": "Jun 2, 2017",
+    "About the game": "Welcome to StratoBash! Want to win some cash? Up for a game of StratoBash? Good luck getting to the top, you'll need it! Puzzles, combatants, earthquakes, wind storms, explosive traps &amp; more will stand in your way. Complete each island's requirement to ride a portal up to the next. The quicker you move &amp; the better your stats -- the better your prize will be. The more damage you take, the easier it will be to be knocked off. Same goes for your enemies, whose eyes will grow redder from each hit. ... now what to do about that big mysterious ship? VR Support If you have a VR headset &amp; tracked controllers, you can throw the bashers -- the harder the throw, the harder the knock! When landing a hit, extra bonus throws will be made for you. StratoBash uses a hybrid 'dash teleport' system to prevent nausea while still allowing the player to move. You can teleport to nearby locations &amp; enemy knocks will be applied as additional, forced teleports. No VR? That's OK! If you do not have a VR headset, StratoBash is still completely playable with a mouse &amp; keyboard. Modding Support You can edit &amp; import your own models to help construct levels (by modifying the contents of the TerrainParts local directory). Also, you can rewrite the word puzzles (by modifying the Riddles/lines.txt file). Read more about this in the discussion forums!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/615550/header.jpg?t=1532439727",
+    "Price": 3.99,
+    "Developers": "Phr00t's Software",
+    "Publishers": "Phr00t's Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/615550/ss_609fba749349f07a49de451793b14a87399d173c.1920x1080.jpg?t=1532439727,https://cdn.akamai.steamstatic.com/steam/apps/615550/ss_b97ed593302134a9f8739a2ec15d1326ec7f2127.1920x1080.jpg?t=1532439727,https://cdn.akamai.steamstatic.com/steam/apps/615550/ss_a061532086143c105f02a1fff5f0cdee6e3e78ed.1920x1080.jpg?t=1532439727,https://cdn.akamai.steamstatic.com/steam/apps/615550/ss_58d219e6fa4820f3765e4fef40c89ae511fe81b4.1920x1080.jpg?t=1532439727,https://cdn.akamai.steamstatic.com/steam/apps/615550/ss_f0eea9642394124def0a4aa9739a322864ab1917.1920x1080.jpg?t=1532439727",
+    "Slug": "stratobash",
+    "Meta Title": "StratoBash: Jun 2, 2017, Phr00t's Software and Full Overview",
+    "Meta Description": "Looking for information on StratoBash? Check out the release date (Jun 2, 2017), developer insights from Phr00t's Software, and a complete game summary.",
+    "Alt Text Image": "Official header image for StratoBash game - Steam 615550",
+    "Canonical URL": "https://gusku.site/game/stratobash",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"StratoBash\", \"description\": \"Looking for information on StratoBash? Check out the release date (Jun 2, 2017), developer insights from Phr00t's Software, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 2, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Phr00t's Software\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Phr00t's Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/615550/header.jpg?t=1532439727\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

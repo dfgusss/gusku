@@ -1,0 +1,21 @@
+{
+    "AppID": 1305350,
+    "Name": "C-4",
+    "Release date": "Aug 27, 2021",
+    "About the game": "Do you want to be the best in your favorite game? Never stop training! C-4 enhances players' skills making them superior to their opponents; You don't need to leave your favorite game to practice with it; Runs on top of any game using 'Full Screen Windowed' mode; Can be minimized anytime by pressing 'Esc'. Launch C-4 and then your favorite game; (favorite game should be in 'Full Screen Windowed' mode) Enable 'Play Audio When Game In Background' in your favorite game; (enable developer console and type snd_mute_losefocus #) Increase the background FPS limit of your favorite game; (enable developer console and type engine_no_focus_sleep 0) C-4 has no impact on the players' performance, nor record data or tamper with game settings files.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1305350/header.jpg?t=1648312110",
+    "Price": 1.09,
+    "Developers": "Microblast Games",
+    "Publishers": "SA Industry",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1305350/ss_4fea769709efd9f70633e258d6c8ae7f4849af94.1920x1080.jpg?t=1648312110,https://cdn.akamai.steamstatic.com/steam/apps/1305350/ss_9826dd74dbd77e6131318575d26d57224712959c.1920x1080.jpg?t=1648312110,https://cdn.akamai.steamstatic.com/steam/apps/1305350/ss_6a683fbcea43b7234553de930690f6fa9cc143c6.1920x1080.jpg?t=1648312110,https://cdn.akamai.steamstatic.com/steam/apps/1305350/ss_9206721f950c910b5400e39599deffc5e7540273.1920x1080.jpg?t=1648312110,https://cdn.akamai.steamstatic.com/steam/apps/1305350/ss_3668941272600595d515d602e783446f3a6cde68.1920x1080.jpg?t=1648312110,https://cdn.akamai.steamstatic.com/steam/apps/1305350/ss_fc68d3e03d2f228c817d7489a49bac5750697bfe.1920x1080.jpg?t=1648312110",
+    "Slug": "c-4",
+    "Meta Title": "C-4: Aug 27, 2021, Microblast Games and Full Overview",
+    "Meta Description": "Looking for information on C-4? Check out the release date (Aug 27, 2021), developer insights from Microblast Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for C-4 game - Steam 1305350",
+    "Canonical URL": "https://gusku.site/game/c-4",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"C-4\", \"description\": \"Looking for information on C-4? Check out the release date (Aug 27, 2021), developer insights from Microblast Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Microblast Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SA Industry\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1305350/header.jpg?t=1648312110\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.09, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

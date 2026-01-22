@@ -1,0 +1,21 @@
+{
+    "AppID": 1516440,
+    "Name": "ATC Infinite",
+    "Release date": "Jun 9, 2021",
+    "About the game": "ATC Infinite challenges you to manage and control arrival and departing aircraft. As a controller you can head for different and unique airports from all over the world. There are different game modes to play. Which one will you choose? Infinite, 15 min challenge or 10 min challenge? Test your skills by coordinating the aircrafts to their destination without crashing into one another. For controlling the airplanes use the command line: click on an airplane to get its name into the command line, then type: LH201 TR 120 The airplane LH201 will turn right to heading 120. or LH201 DOMEG LH201 will go directly to the waypoint DOMEG In this game you can play the following airports: Los Angeles International Airport (LAX) Tokyo Haneda Airport (HND) London Heathrow Airport (LHR) Amsterdam Airport Schiphol (AMS) Frankfurt Airport (FRA) John F. Kennedy International Airport (JFK) Dusseldorf International Airport (DUS) O. R. Tambo International Airport (JNB) Princess Juliana International Airport (SXM) Beijing Capital International Airport (PEK) We will add more maps in the future! You can request them in the community tab.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1516440/header.jpg?t=1626209253",
+    "Price": 1.99,
+    "Developers": "Framebar Studio",
+    "Publishers": "Framebar Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1516440/ss_5a1874443d6da84507a3d82d0c6272f0a88d95fe.1920x1080.jpg?t=1626209253,https://cdn.akamai.steamstatic.com/steam/apps/1516440/ss_bf83fee22a438df4f7f2f60f8a2dc446952eb6df.1920x1080.jpg?t=1626209253,https://cdn.akamai.steamstatic.com/steam/apps/1516440/ss_ba18ec911b33ff520b1e9397c5f5832a64cfbe15.1920x1080.jpg?t=1626209253,https://cdn.akamai.steamstatic.com/steam/apps/1516440/ss_64f1180f127f5dad43595663e893942f27331bd2.1920x1080.jpg?t=1626209253,https://cdn.akamai.steamstatic.com/steam/apps/1516440/ss_112c9834431f64bd751d82dfa36c8e3c349ccf1d.1920x1080.jpg?t=1626209253,https://cdn.akamai.steamstatic.com/steam/apps/1516440/ss_18fc2c5549b5182f02631ddd3d829c67fbaef293.1920x1080.jpg?t=1626209253",
+    "Slug": "atc-infinite",
+    "Meta Title": "ATC Infinite: Jun 9, 2021, Framebar Studio and Full Overview",
+    "Meta Description": "Looking for information on ATC Infinite? Check out the release date (Jun 9, 2021), developer insights from Framebar Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for ATC Infinite game - Steam 1516440",
+    "Canonical URL": "https://gusku.site/game/atc-infinite",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ATC Infinite\", \"description\": \"Looking for information on ATC Infinite? Check out the release date (Jun 9, 2021), developer insights from Framebar Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 9, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Framebar Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Framebar Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1516440/header.jpg?t=1626209253\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

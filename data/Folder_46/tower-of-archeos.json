@@ -1,0 +1,21 @@
+{
+    "AppID": 499370,
+    "Name": "Tower of Archeos",
+    "Release date": "Sep 7, 2016",
+    "About the game": "Tower of Archeos is a mix between a roguelike and a puzzlegame. Group monsters of same type to kill as many as possible in one stroke. Rules Attack group of monsters with the same type. Monsters will retaliate but group size dont affect final damage, so try to destroy large groups first. When they die monsters will drop some gold. You need this gold to level up your character. You need a key to open doors and chest Opening a door will refill the level with monsters and recharge your items. Blocked door can be unblocked by killing monsters next to it Reach the 10th floor to fight Archeos",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/499370/header.jpg?t=1574694605",
+    "Price": 12.99,
+    "Developers": "Benjamin Soulé",
+    "Publishers": "Benjamin Soulé",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/499370/ss_be10e690cfb0e26788871ec98d6346b435cc557c.1920x1080.jpg?t=1574694605,https://cdn.akamai.steamstatic.com/steam/apps/499370/ss_e99dc8938975ea994e2adcfb03a735f70e59e543.1920x1080.jpg?t=1574694605,https://cdn.akamai.steamstatic.com/steam/apps/499370/ss_97465020406a75a9989c0de345b249a84c081266.1920x1080.jpg?t=1574694605,https://cdn.akamai.steamstatic.com/steam/apps/499370/ss_e24696185e29e58e74c3a3c1a1fd882ddf690a69.1920x1080.jpg?t=1574694605,https://cdn.akamai.steamstatic.com/steam/apps/499370/ss_90620b0bad073ca1a3be57e3d3d70c6dd75280c3.1920x1080.jpg?t=1574694605,https://cdn.akamai.steamstatic.com/steam/apps/499370/ss_657884d89a7d3e8704998e53f133387e22c438a5.1920x1080.jpg?t=1574694605,https://cdn.akamai.steamstatic.com/steam/apps/499370/ss_8c5839d2bc23dbec82d6d0236180801019722ba4.1920x1080.jpg?t=1574694605,https://cdn.akamai.steamstatic.com/steam/apps/499370/ss_eb4f7813ccaa7cf6b90d4c87ebe570c122e50e6c.1920x1080.jpg?t=1574694605,https://cdn.akamai.steamstatic.com/steam/apps/499370/ss_b74463c71461a6848dd035607ec061114389b59e.1920x1080.jpg?t=1574694605",
+    "Slug": "tower-of-archeos",
+    "Meta Title": "Tower of Archeos: Sep 7, 2016, Benjamin Soulé and Full Ov...",
+    "Meta Description": "Looking for information on Tower of Archeos? Check out the release date (Sep 7, 2016), developer insights from Benjamin Soulé, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tower of Archeos game - Steam 499370",
+    "Canonical URL": "https://gusku.site/game/tower-of-archeos",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tower of Archeos\", \"description\": \"Looking for information on Tower of Archeos? Check out the release date (Sep 7, 2016), developer insights from Benjamin Soul\\u00e9, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 7, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Benjamin Soul\\u00e9\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Benjamin Soul\\u00e9\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/499370/header.jpg?t=1574694605\", \"offers\": {\"@type\": \"Offer\", \"price\": 12.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

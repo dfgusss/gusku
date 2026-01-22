@@ -1,0 +1,21 @@
+{
+    "AppID": 508690,
+    "Name": "AnimVR",
+    "Release date": "Dec 19, 2018",
+    "About the game": "TRADITIONAL ANIMATION - ALL AROUND YOU Hand-drawn animation in VR combines the best parts of traditional animation with the advantages of digital content creation tools. Jump right into story telling, without worrying about topology, rigging or skinning. Create environment layouts, 3D story boards, animatics and whole experiences! According to industry animators, drawing 3D story boards in VR is just as fast as the traditional 2D workflow, but it gives you the freedom to move the camera anywhere you want! TELL STORIES - FOR VR IN VR We've worked hard to make storytelling straightforward and fun. Lay out your shots in AnimVRs timeline, fade layers with customizable transitions and sync your animation to music or dialog! Our cinematography tools allow you to record camera movements with a digital steady-cam system, cross fade between shots and easily preview and tweak Stereo 3D settings. Record and edit audio directly in AnimVR using the headset, or any connected microphone! You don't even have to leave VR to create the final executable! AnimVRs Story Export allows you to compile your experience into an executable that you can freely share. USE THE TOOLS YOU KNOW AND LOVE Wether you are used to working in Maya, Houdini, Blender or even Unity, we provide exporters and importers so you can easily integrate AnimVR into your production pipeline. AnimVR natively supports importing many standard file formats, from FBX and OBJ over GTLF to Universal Scene Description (USD) files. Export your animations as Alembic Cache or USD and continue working on them in traditional content creation tools. Thanks to our Unity Toolkit you can directly use your stage files in Unity, no export or import required.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/508690/header.jpg?t=1585649745",
+    "Price": 29.99,
+    "Developers": "NVRMIND",
+    "Publishers": "NVRMIND",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/508690/ss_1e4b2f96abae59237578904b6ee4d6ae47b33793.1920x1080.jpg?t=1585649745,https://cdn.akamai.steamstatic.com/steam/apps/508690/ss_b287e64682adff2edc78d4d94159dda56eff2f3a.1920x1080.jpg?t=1585649745,https://cdn.akamai.steamstatic.com/steam/apps/508690/ss_7618598ea7d30746e0950be01cf9e6162b0abc65.1920x1080.jpg?t=1585649745,https://cdn.akamai.steamstatic.com/steam/apps/508690/ss_75c6e4d043d45a0e12ce149b2904d4c4858a4979.1920x1080.jpg?t=1585649745,https://cdn.akamai.steamstatic.com/steam/apps/508690/ss_cdcc7d08489a582403a3f4b3170909b491880c6d.1920x1080.jpg?t=1585649745,https://cdn.akamai.steamstatic.com/steam/apps/508690/ss_02aed6173f2ee2c24434bbc58204ce1f2a683c83.1920x1080.jpg?t=1585649745",
+    "Slug": "animvr",
+    "Meta Title": "AnimVR: Dec 19, 2018, NVRMIND and Full Overview",
+    "Meta Description": "Looking for information on AnimVR? Check out the release date (Dec 19, 2018), developer insights from NVRMIND, and a complete game summary.",
+    "Alt Text Image": "Official header image for AnimVR game - Steam 508690",
+    "Canonical URL": "https://gusku.site/game/animvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"AnimVR\", \"description\": \"Looking for information on AnimVR? Check out the release date (Dec 19, 2018), developer insights from NVRMIND, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 19, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"NVRMIND\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"NVRMIND\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/508690/header.jpg?t=1585649745\", \"offers\": {\"@type\": \"Offer\", \"price\": 29.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

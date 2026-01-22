@@ -1,0 +1,21 @@
+{
+    "AppID": 1828090,
+    "Name": "Krypt",
+    "Release date": "Jun 21, 2022",
+    "About the game": "Krypt is an old-school text adventure filled with excitement and peril. Fight monsters, make choices, and travel through forests and mountains to defeat the evil King Krypt in this epic fantasy tale. But watch out as you try to discover all the paths, because not every choice ends in victory. Key Features include turn-based combat, riddles, and a thrilling story that will keep you reading until the very end. (Currently the game does have some bugs, as it was developed by two novice coders. These bugs likely won't be resolved soon; however, we hope this doesn't limit your enjoyment of the game.)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1828090/header.jpg?t=1655956233",
+    "Price": 1.99,
+    "Developers": "Sean Murley,Billy Coe",
+    "Publishers": "SW Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1828090/ss_ef11257401c9f21ed0dd10d87802c39a436d1bcd.1920x1080.jpg?t=1655956233,https://cdn.akamai.steamstatic.com/steam/apps/1828090/ss_d7c6ce6e32a8ffc3470d7044d0d75fecaaa0caee.1920x1080.jpg?t=1655956233,https://cdn.akamai.steamstatic.com/steam/apps/1828090/ss_165a71869300f0ca3ce374db9d63d5c66fdf4952.1920x1080.jpg?t=1655956233,https://cdn.akamai.steamstatic.com/steam/apps/1828090/ss_41ae85b53e4362ee228592da47df83bc8822e487.1920x1080.jpg?t=1655956233,https://cdn.akamai.steamstatic.com/steam/apps/1828090/ss_943952b943c29cb4e3e57494a3a2a1cf9a83053e.1920x1080.jpg?t=1655956233",
+    "Slug": "krypt",
+    "Meta Title": "Krypt: Jun 21, 2022, Sean Murley,Billy Coe and Full Overview",
+    "Meta Description": "Looking for information on Krypt? Check out the release date (Jun 21, 2022), developer insights from Sean Murley,Billy Coe, and a complete game summary.",
+    "Alt Text Image": "Official header image for Krypt game - Steam 1828090",
+    "Canonical URL": "https://gusku.site/game/krypt",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Krypt\", \"description\": \"Looking for information on Krypt? Check out the release date (Jun 21, 2022), developer insights from Sean Murley,Billy Coe, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sean Murley,Billy Coe\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SW Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1828090/header.jpg?t=1655956233\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 863690,
+    "Name": "Blueprint",
+    "Release date": "May 31, 2018",
+    "About the game": "You can stack blocks to make your own building. There are several obstructions. You should overcome earthquake, cat, bomb. Your goal is to maintain the building height after disaster. There are 6 shapes and 3 material of block. weight, restitution coefficient, friction are different by material. There are total 48 levels. Also, You can make your own map. There are 3 slots to save your own map. This game is 2d graphic, blocks move by physics law.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/863690/header.jpg?t=1527755763",
+    "Price": 2.99,
+    "Developers": "purol",
+    "Publishers": "purol",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/863690/ss_675845e1aede70b8ac3200e1c1119f9dcd39275d.1920x1080.jpg?t=1527755763,https://cdn.akamai.steamstatic.com/steam/apps/863690/ss_5ac7d4ea3e2e608ad6849bc623601effc09ec163.1920x1080.jpg?t=1527755763,https://cdn.akamai.steamstatic.com/steam/apps/863690/ss_b3437a78f385d7350f1cf08e87e260c674d7010e.1920x1080.jpg?t=1527755763,https://cdn.akamai.steamstatic.com/steam/apps/863690/ss_b63de52941090a539338dddba2dd381c6e408857.1920x1080.jpg?t=1527755763,https://cdn.akamai.steamstatic.com/steam/apps/863690/ss_d93be7b0a37fad164909fa8679d4f0984ee41c66.1920x1080.jpg?t=1527755763,https://cdn.akamai.steamstatic.com/steam/apps/863690/ss_fedd79c7feeac6557c31e9d456402d6d9e912a40.1920x1080.jpg?t=1527755763,https://cdn.akamai.steamstatic.com/steam/apps/863690/ss_9445a5d72252be851fc81f30e60103de58e226d5.1920x1080.jpg?t=1527755763,https://cdn.akamai.steamstatic.com/steam/apps/863690/ss_9aa098016642e6c757aed69580509d1b42c218f7.1920x1080.jpg?t=1527755763,https://cdn.akamai.steamstatic.com/steam/apps/863690/ss_3c8d97c92ee6f3d20498d2104db0598d72bb1d28.1920x1080.jpg?t=1527755763",
+    "Slug": "blueprint",
+    "Meta Title": "Blueprint: May 31, 2018, purol and Full Overview",
+    "Meta Description": "Looking for information on Blueprint? Check out the release date (May 31, 2018), developer insights from purol, and a complete game summary.",
+    "Alt Text Image": "Official header image for Blueprint game - Steam 863690",
+    "Canonical URL": "https://gusku.site/game/blueprint",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Blueprint\", \"description\": \"Looking for information on Blueprint? Check out the release date (May 31, 2018), developer insights from purol, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 31, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"purol\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"purol\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/863690/header.jpg?t=1527755763\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

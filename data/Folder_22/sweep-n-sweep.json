@@ -1,0 +1,21 @@
+{
+    "AppID": 552400,
+    "Name": "Sweep'n'Sweep",
+    "Release date": "Mar 20, 2018",
+    "About the game": "Sweep'n'Sweep is an exciting puzzle game very similar to Minesweeper, but with an upgrade: when you fill a line completely, it disappears and a new empty one appears on the top. Whether you're a hardcore Minesweeper enthusiast or just someone who wants to spend their five-minute break on something fun, this is the game for you. As you clear more and more lines, the difficulty increases making it harder and harder to play. Try to beat your friends and reach the highest difficulty level! Apart from the obviuos fun gameplay, this game also features a trendy look and plenty of fun achievements. With everything combined, Sweep'n'Sweep will keep you busy for tens of hours!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/552400/header.jpg?t=1643973549",
+    "Price": 2.99,
+    "Developers": "SweepBros",
+    "Publishers": "SweepBros",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/552400/ss_9c12ccd4273fb1cdd4e28bd0d68caa375d4edf4b.1920x1080.jpg?t=1643973549,https://cdn.akamai.steamstatic.com/steam/apps/552400/ss_5803b18d010224c68cc8431ee711e9a03590d8a8.1920x1080.jpg?t=1643973549,https://cdn.akamai.steamstatic.com/steam/apps/552400/ss_3e600c917e82812cd88dd1fdf042a217ee8ac2a6.1920x1080.jpg?t=1643973549,https://cdn.akamai.steamstatic.com/steam/apps/552400/ss_d1a77defc43245bbcc5093229cb762269f8b82cb.1920x1080.jpg?t=1643973549,https://cdn.akamai.steamstatic.com/steam/apps/552400/ss_8ff609847ecc6ab022468a9b3a23c2946a4fce79.1920x1080.jpg?t=1643973549",
+    "Slug": "sweep-n-sweep",
+    "Meta Title": "Sweep'n'Sweep: Mar 20, 2018, SweepBros and Full Overview",
+    "Meta Description": "Looking for information on Sweep'n'Sweep? Check out the release date (Mar 20, 2018), developer insights from SweepBros, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sweep'n'Sweep game - Steam 552400",
+    "Canonical URL": "https://gusku.site/game/sweep-n-sweep",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sweep'n'Sweep\", \"description\": \"Looking for information on Sweep'n'Sweep? Check out the release date (Mar 20, 2018), developer insights from SweepBros, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 20, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"SweepBros\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SweepBros\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/552400/header.jpg?t=1643973549\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

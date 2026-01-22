@@ -1,0 +1,21 @@
+{
+    "AppID": 1147200,
+    "Name": "SnL",
+    "Release date": "Sep 5, 2019",
+    "About the game": "The essence of the game is very simple and understandable even to younger children (despite the fact that adults play this game with great interest !!). Players take turns to roll a die and move to a certain number of cells. Some cells in the field are ordinary, cells with stairs and snakes move the player’s chip to another cell. The player who first got to the finish line wins. Before the start of the game, chips are placed in front of the playing field. The sequence of the move is determined by lot. Then the players take turns to roll the die and, according to the numbers that have been dropped, move their chips to the appropriate number of cells on the field. The goal of the game is to get to the finish line first - cells with number 100. If a chip has stopped on a cell with a ladder (green), the player moves the chip up to the end of the ladder. If the chip stopped at the cell with the head of the snake (red) - the chip goes down to the very tip of the tail.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1147200/header.jpg?t=1567669756",
+    "Price": 0.99,
+    "Developers": "cBlck",
+    "Publishers": "cBlck",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1147200/ss_9cfcc0a36fb0990d58ea25cb2d9e3f56e8154de4.1920x1080.jpg?t=1567669756,https://cdn.akamai.steamstatic.com/steam/apps/1147200/ss_201c228aa60058c74cdb228e1034df510f396148.1920x1080.jpg?t=1567669756,https://cdn.akamai.steamstatic.com/steam/apps/1147200/ss_953f35a1cbe5d1c4274b9bf0222090aa9b90e3b3.1920x1080.jpg?t=1567669756,https://cdn.akamai.steamstatic.com/steam/apps/1147200/ss_6b1773b7c6d4906790f0d77e100faea3136134a5.1920x1080.jpg?t=1567669756,https://cdn.akamai.steamstatic.com/steam/apps/1147200/ss_d65e5df363e718b82ded23f8ab5e35e5a07cb81a.1920x1080.jpg?t=1567669756",
+    "Slug": "snl",
+    "Meta Title": "SnL: Sep 5, 2019, cBlck and Full Overview",
+    "Meta Description": "Looking for information on SnL? Check out the release date (Sep 5, 2019), developer insights from cBlck, and a complete game summary.",
+    "Alt Text Image": "Official header image for SnL game - Steam 1147200",
+    "Canonical URL": "https://gusku.site/game/snl",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SnL\", \"description\": \"Looking for information on SnL? Check out the release date (Sep 5, 2019), developer insights from cBlck, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 5, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"cBlck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"cBlck\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1147200/header.jpg?t=1567669756\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

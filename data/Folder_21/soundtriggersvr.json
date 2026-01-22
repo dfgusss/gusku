@@ -1,0 +1,21 @@
+{
+    "AppID": 1148250,
+    "Name": "SoundTriggersVR",
+    "Release date": "Oct 10, 2019",
+    "About the game": "SoundTriggersVR offers many different ways to trigger notes, chords and effects with almost zero latency. Setting up the instrument consists of: On section Set what triggers notes, chords and  effects. Use: - controller buttons - values of objects (positions, rotations, trigger and pads values) - distance between objects (controllers, head, point, line, plane) - 1D zone between two values ( positions, rotations, trigger and pads values) - 2D zone between two values ( positions, rotations, trigger and pads values) - 3D zone cube, cylinder, tube, sphere - direction change of a value - velocity of a object - acceleration of the object - always on Off section Set what turns notes, chords and  effects off. Use the same options as in On section with addition of time limit option. Intensity section Set the velocity of notes, chords and  effects. Pitch section Set the pitch of notes, chords and  effects. Pitch shift section Set the shift of pitch. Chord section Set all the available chords and how to switch between them. Pitch bend section Choose between: - no pitch bend - pitch bend before the start of the note - pitch bend after the start of the note - always pitch bend Requirements In order to send MIDI signals a MIDI output is needed and selected in settings. Virtual MIDI cable can be used for output. Recommended third party software: Virtual loopback MIDI cable (Copyright 2010-2019 by Tobias Erichsen)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1148250/header.jpg?t=1598864889",
+    "Price": 9.99,
+    "Developers": "Codekus",
+    "Publishers": "Codekus",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1148250/ss_ce49d390de117b29cf5d7978d74c69b5d9d3ac71.1920x1080.jpg?t=1598864889,https://cdn.akamai.steamstatic.com/steam/apps/1148250/ss_9b2fd8f3b0e2d55455e263af2a155f46533a76ec.1920x1080.jpg?t=1598864889,https://cdn.akamai.steamstatic.com/steam/apps/1148250/ss_425ab4645b69f45e867655714aa347f0d689e85c.1920x1080.jpg?t=1598864889,https://cdn.akamai.steamstatic.com/steam/apps/1148250/ss_8241b0cc4f1dface2ccb317d7d370045d1a05a9d.1920x1080.jpg?t=1598864889,https://cdn.akamai.steamstatic.com/steam/apps/1148250/ss_96190507657bd5bd220b9fad88a628e79797eb14.1920x1080.jpg?t=1598864889",
+    "Slug": "soundtriggersvr",
+    "Meta Title": "SoundTriggersVR: Oct 10, 2019, Codekus and Full Overview",
+    "Meta Description": "Looking for information on SoundTriggersVR? Check out the release date (Oct 10, 2019), developer insights from Codekus, and a complete game summary.",
+    "Alt Text Image": "Official header image for SoundTriggersVR game - Steam 1148250",
+    "Canonical URL": "https://gusku.site/game/soundtriggersvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SoundTriggersVR\", \"description\": \"Looking for information on SoundTriggersVR? Check out the release date (Oct 10, 2019), developer insights from Codekus, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 10, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Codekus\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Codekus\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1148250/header.jpg?t=1598864889\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1795170,
+    "Name": "超将棋",
+    "Release date": "Nov 8, 2021",
+    "About the game": "はじめに 「ゲームはもっと、シンプルでいい。」 この理念のもと、物理演算と将棋を掛け合わせた超将棋は制作されました。 あなたが友人や世界の強敵たちと切磋琢磨しながら、この懐かしい、それでいて 未知のボードゲームを楽しんで頂ければそれ以上の喜びはありません。 ゲームのルール 　このゲームでは世界中のプレイヤーと戦うことができる対戦モードと、1人で遊ぶ 詰将棋モードの二つが用意されています。 　対戦モードでは、互いのプレイヤーは自分の駒を物理的に動かすことができ、相手の 王将を盤外に落とせば勝ちとなります。ここでいう「物理的に動かす」というのは、 駒をデコピンで吹っ飛ばす感覚に近いです。 　詰将棋モードは、それぞれの課題において指定された手数内で 全ての 敵の駒を 落とすことが目的のゲームです。課題によっては、王以外を落としてしまうと失格となる ものもあります。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1795170/header.jpg?t=1636408889",
+    "Price": 0.0,
+    "Developers": "Fortgs",
+    "Publishers": "Fortgs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1795170/ss_ffd41ae5cce8689833b995e303d51dc4d38e25a5.1920x1080.jpg?t=1636408889,https://cdn.akamai.steamstatic.com/steam/apps/1795170/ss_cb5b269f107d3ab4d4b0865bb4fe38a9737b988f.1920x1080.jpg?t=1636408889,https://cdn.akamai.steamstatic.com/steam/apps/1795170/ss_54776b64c4312ea226bf84dba50bea18f09c8cf1.1920x1080.jpg?t=1636408889,https://cdn.akamai.steamstatic.com/steam/apps/1795170/ss_126e50cfff9844ee7ff20c190dd864443927fe3a.1920x1080.jpg?t=1636408889,https://cdn.akamai.steamstatic.com/steam/apps/1795170/ss_820ad69fd707066f0da1df5265bf2bec8404c066.1920x1080.jpg?t=1636408889,https://cdn.akamai.steamstatic.com/steam/apps/1795170/ss_8b406797d29dba33a5df07b1fc321c2b1ea76104.1920x1080.jpg?t=1636408889,https://cdn.akamai.steamstatic.com/steam/apps/1795170/ss_dd888f522b21e11da001819912c906945e82f83e.1920x1080.jpg?t=1636408889,https://cdn.akamai.steamstatic.com/steam/apps/1795170/ss_a2800d68590b8bc007d874e8f58aaee7235c02aa.1920x1080.jpg?t=1636408889,https://cdn.akamai.steamstatic.com/steam/apps/1795170/ss_c2c83a81f11f1d90ffb500fceae8e858482fc7a2.1920x1080.jpg?t=1636408889",
+    "Slug": "",
+    "Meta Title": "超将棋: Nov 8, 2021, Fortgs and Full Overview",
+    "Meta Description": "Looking for information on 超将棋? Check out the release date (Nov 8, 2021), developer insights from Fortgs, and a complete game summary.",
+    "Alt Text Image": "Official header image for 超将棋 game - Steam 1795170",
+    "Canonical URL": "https://gusku.site/game/",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u8d85\\u5c06\\u68cb\", \"description\": \"Looking for information on \\u8d85\\u5c06\\u68cb? Check out the release date (Nov 8, 2021), developer insights from Fortgs, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 8, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fortgs\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fortgs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1795170/header.jpg?t=1636408889\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

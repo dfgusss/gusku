@@ -1,0 +1,21 @@
+{
+    "AppID": 357600,
+    "Name": "Unium",
+    "Release date": "Mar 27, 2015",
+    "About the game": "Your task is to draw a line. A single line. How complex can that be? Start with one tile and trace a line to the next, then the next. Each tile you pass over flips from black to white, or back again. Using only a single line, can you flip all the black tiles? The simplest puzzle can have hundreds of solutions, and Unium features over 100 levels to solve your way through. Unlock harder puzzles by solving easier ones, learn what works and what doesn't, and solve puzzles in multiple ways to earn achievements. Even better, use the built-in level editor to create your own puzzles, and share them on Steam Workshop! Unium is a fantastic pick up and play puzzle game that can entertain for a minute or an hour.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/357600/header.jpg?t=1572571260",
+    "Price": 1.99,
+    "Developers": "Kittehface Software",
+    "Publishers": "Kittehface Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/357600/ss_d351699035528113a090b39d3c9b9589e7a928ad.1920x1080.jpg?t=1572571260,https://cdn.akamai.steamstatic.com/steam/apps/357600/ss_4d50d602aa2a618eacdb3874bca3267e14e26655.1920x1080.jpg?t=1572571260,https://cdn.akamai.steamstatic.com/steam/apps/357600/ss_8e780884ee2c98536090cab369c1aac3e7aaf846.1920x1080.jpg?t=1572571260,https://cdn.akamai.steamstatic.com/steam/apps/357600/ss_ba167292448cb86bf9b37a19439e14d91cb3a9d8.1920x1080.jpg?t=1572571260,https://cdn.akamai.steamstatic.com/steam/apps/357600/ss_88f916993f77665033c654bf83713210be6ab3b0.1920x1080.jpg?t=1572571260,https://cdn.akamai.steamstatic.com/steam/apps/357600/ss_16e75ed4088afffc6aded3f491bb1f2d69f8c9e4.1920x1080.jpg?t=1572571260",
+    "Slug": "unium",
+    "Meta Title": "Unium: Mar 27, 2015, Kittehface Software and Full Overview",
+    "Meta Description": "Looking for information on Unium? Check out the release date (Mar 27, 2015), developer insights from Kittehface Software, and a complete game summary.",
+    "Alt Text Image": "Official header image for Unium game - Steam 357600",
+    "Canonical URL": "https://gusku.site/game/unium",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Unium\", \"description\": \"Looking for information on Unium? Check out the release date (Mar 27, 2015), developer insights from Kittehface Software, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 27, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kittehface Software\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kittehface Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/357600/header.jpg?t=1572571260\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

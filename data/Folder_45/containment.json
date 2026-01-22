@@ -1,0 +1,21 @@
+{
+    "AppID": 771010,
+    "Name": "Containment",
+    "Release date": "Feb 9, 2018",
+    "About the game": "Containment is a small, minimalist strategy/simulation game where you try to maintain the growth of bacteria. The core gameplay is easy to pick up but very challenging to master. The game can be completed in one sitting, but has leaderboards and challenging goals to accomplish that might take longer! Core Gameplay Containment is turn-based; the bacteria proliferate, you fight back, and the cycle continues. There are a number of rules that give depth to the strategy involved in achieving three stars on each level: You have a limited number of doses Intentionally ending your turn early and letting the bacteria grow lets you research stronger antibiotics All bacteria lose one health per turn Any bacteria without neighbors die the next turn Every isolated bacteria gains you bonus points Each extra dose at the end of the game earns you bonus points Aesthetic The game features a mix of cute and sleek design with a visually pleasing color palette and satisfying interactions in every corner. The music is soothing and relaxing to listen to while you battle the unending bacterial proliferation. Content The game contains the following amount of content: Comprehensive and interactive tutorial 9 brain-teasing and challenging levels A creative sandbox mode (unlocked at the end of the game)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/771010/header.jpg?t=1569555198",
+    "Price": 1.99,
+    "Developers": "Finite Reflection Studios",
+    "Publishers": "Finite Reflection Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/771010/ss_5013aba656e297273aa3213b89a3fed56f5fe845.1920x1080.jpg?t=1569555198,https://cdn.akamai.steamstatic.com/steam/apps/771010/ss_2fa311d1acbba0de924d6a344af8ea2724af1dcf.1920x1080.jpg?t=1569555198,https://cdn.akamai.steamstatic.com/steam/apps/771010/ss_ceac17b40640ea9b5f2581cd871e095613a1865a.1920x1080.jpg?t=1569555198,https://cdn.akamai.steamstatic.com/steam/apps/771010/ss_2e2bf54367bc5a0318bc4db2d927b6d8bd83757f.1920x1080.jpg?t=1569555198,https://cdn.akamai.steamstatic.com/steam/apps/771010/ss_06689b4841f9d8296e89c0da644f020ac7ebd807.1920x1080.jpg?t=1569555198",
+    "Slug": "containment",
+    "Meta Title": "Containment: Feb 9, 2018, Finite Reflection Studios and F...",
+    "Meta Description": "Looking for information on Containment? Check out the release date (Feb 9, 2018), developer insights from Finite Reflection Studios, and a complete game...",
+    "Alt Text Image": "Official header image for Containment game - Steam 771010",
+    "Canonical URL": "https://gusku.site/game/containment",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Containment\", \"description\": \"Looking for information on Containment? Check out the release date (Feb 9, 2018), developer insights from Finite Reflection Studios, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 9, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Finite Reflection Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Finite Reflection Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/771010/header.jpg?t=1569555198\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

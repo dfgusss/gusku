@@ -1,0 +1,21 @@
+{
+    "AppID": 1677130,
+    "Name": "ColorDip",
+    "Release date": "Jan 20, 2022",
+    "About the game": "ColorDip is a small game to pass the time. The goal of the game is to put one color (of your choice) on all tiles. Depending on the level of difficulty there are more or less color variations. But be careful - it looks easy - but it is not.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1677130/header.jpg?t=1642700419",
+    "Price": 3.99,
+    "Developers": "vfsoft.lu",
+    "Publishers": "vfsoft.lu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1677130/ss_36fe090bc8b0ed04f44fc214f885a76d6a6bbcb3.1920x1080.jpg?t=1642700419,https://cdn.akamai.steamstatic.com/steam/apps/1677130/ss_e99dd108d98ca1dc321ea2f350e9c171274f9d6c.1920x1080.jpg?t=1642700419,https://cdn.akamai.steamstatic.com/steam/apps/1677130/ss_3b51c30c8ace7af44d4b04dab1e9eab829493f57.1920x1080.jpg?t=1642700419,https://cdn.akamai.steamstatic.com/steam/apps/1677130/ss_7946ef4de446f32ae0e251f2e93966700b257718.1920x1080.jpg?t=1642700419,https://cdn.akamai.steamstatic.com/steam/apps/1677130/ss_cdf42c06b09ae1b8b1ee81e3de84d685a65a7f2e.1920x1080.jpg?t=1642700419",
+    "Slug": "colordip",
+    "Meta Title": "ColorDip: Jan 20, 2022, vfsoft.lu and Full Overview",
+    "Meta Description": "Looking for information on ColorDip? Check out the release date (Jan 20, 2022), developer insights from vfsoft.lu, and a complete game summary.",
+    "Alt Text Image": "Official header image for ColorDip game - Steam 1677130",
+    "Canonical URL": "https://gusku.site/game/colordip",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ColorDip\", \"description\": \"Looking for information on ColorDip? Check out the release date (Jan 20, 2022), developer insights from vfsoft.lu, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"vfsoft.lu\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"vfsoft.lu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1677130/header.jpg?t=1642700419\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

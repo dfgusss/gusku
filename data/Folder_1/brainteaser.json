@@ -1,0 +1,21 @@
+{
+    "AppID": 1623720,
+    "Name": "BrainTeaser",
+    "Release date": "May 16, 2021",
+    "About the game": "BrainTeaser is an arcade scoring puzzle. You need to rotate the circles so that the projectiles flying into them hit the desired color. The game provides several levels of difficulty, each with a new color compartment on each of the circles. Over time, the pace of the game accelerates and you will have to try not to lose.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1623720/header.jpg?t=1623779652",
+    "Price": 0.99,
+    "Developers": "INFINITE BRIDGE",
+    "Publishers": "INFINITE BRIDGE",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1623720/ss_0052316f5207618bb0578a896787b1ef4f82efd1.1920x1080.jpg?t=1623779652,https://cdn.akamai.steamstatic.com/steam/apps/1623720/ss_912ad717469084c071a3e8a7d5f1982afb1c6131.1920x1080.jpg?t=1623779652,https://cdn.akamai.steamstatic.com/steam/apps/1623720/ss_2fc23e784a264ba0efef15fd72ebeaaf113157c4.1920x1080.jpg?t=1623779652,https://cdn.akamai.steamstatic.com/steam/apps/1623720/ss_3ecd5354b070f6a31800b29c339889ce10636b2d.1920x1080.jpg?t=1623779652,https://cdn.akamai.steamstatic.com/steam/apps/1623720/ss_b8908995aa9dfb2941d787ced3d147bb26796902.1920x1080.jpg?t=1623779652",
+    "Slug": "brainteaser",
+    "Meta Title": "BrainTeaser: May 16, 2021, INFINITE BRIDGE and Full Overview",
+    "Meta Description": "Looking for information on BrainTeaser? Check out the release date (May 16, 2021), developer insights from INFINITE BRIDGE, and a complete game summary.",
+    "Alt Text Image": "Official header image for BrainTeaser game - Steam 1623720",
+    "Canonical URL": "https://gusku.site/game/brainteaser",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BrainTeaser\", \"description\": \"Looking for information on BrainTeaser? Check out the release date (May 16, 2021), developer insights from INFINITE BRIDGE, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 16, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"INFINITE BRIDGE\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"INFINITE BRIDGE\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1623720/header.jpg?t=1623779652\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

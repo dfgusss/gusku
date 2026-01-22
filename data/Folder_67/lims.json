@@ -1,0 +1,21 @@
+{
+    "AppID": 2210410,
+    "Name": "Lims",
+    "Release date": "Nov 21, 2022",
+    "About the game": "Manage your lims to fight through the ring and reach the king. A sci-fi robot management game. Position your lims around your lam to fight through groups of enemies. Research, craft, and manage to succeed. You play as a lam. A lam controls lims to interact with the world. Lims will automatically do the job they were built for, such as this retriever lim that you start with. It will collect any items on the ground that are close by. You use those items to research and craft more lims. Research is somewhat automatic with each item gathered ticking it up to completion. There are 18 lims to research and 20 to build. Crafting is done by assigning factories to certain recipes. Once you have the proper supplies, the item will begin crafting and be placed in your inventory when built. This manufacturing process will continue unless you de-allocate the factories or tell that recipe to finish the current process. You'll need to be prepared for the enemies lurking in the world, such as these Chompsos. They and many other machines will attack you on sight. You'll travel through many environments, such as this little village. Travel across all 9 sections of the ring to face the king and reclaim the ring!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2210410/header.jpg?t=1669033396",
+    "Price": 3.99,
+    "Developers": "Liam Clift",
+    "Publishers": "Liam Clift",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2210410/ss_a35ea70371e1cd3c94b5cd17879263230d6af589.1920x1080.jpg?t=1669033396,https://cdn.akamai.steamstatic.com/steam/apps/2210410/ss_cb6c597f2cbc32532712b4f77941396086b5d3b9.1920x1080.jpg?t=1669033396,https://cdn.akamai.steamstatic.com/steam/apps/2210410/ss_fcbf5280184507e4562412e4a732b7dd197db59c.1920x1080.jpg?t=1669033396,https://cdn.akamai.steamstatic.com/steam/apps/2210410/ss_ec38a3a2d050fd280b7f8505c66a9face1652894.1920x1080.jpg?t=1669033396,https://cdn.akamai.steamstatic.com/steam/apps/2210410/ss_172b85c462b8a1644c69b7aa733c4d3080b27e95.1920x1080.jpg?t=1669033396,https://cdn.akamai.steamstatic.com/steam/apps/2210410/ss_489b0339ebaec0c34ee89deb9e238aad5c38edcf.1920x1080.jpg?t=1669033396,https://cdn.akamai.steamstatic.com/steam/apps/2210410/ss_b90b5e8371e425375593fb0d4f30587c9e2e2df1.1920x1080.jpg?t=1669033396,https://cdn.akamai.steamstatic.com/steam/apps/2210410/ss_6d29974bf0e71faea0768e521039c7f34f6ad3a5.1920x1080.jpg?t=1669033396",
+    "Slug": "lims",
+    "Meta Title": "Lims: Nov 21, 2022, Liam Clift and Full Overview",
+    "Meta Description": "Looking for information on Lims? Check out the release date (Nov 21, 2022), developer insights from Liam Clift, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lims game - Steam 2210410",
+    "Canonical URL": "https://gusku.site/game/lims",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lims\", \"description\": \"Looking for information on Lims? Check out the release date (Nov 21, 2022), developer insights from Liam Clift, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Liam Clift\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Liam Clift\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2210410/header.jpg?t=1669033396\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

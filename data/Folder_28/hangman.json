@@ -1,0 +1,21 @@
+{
+    "AppID": 1105730,
+    "Name": "HANGMAN",
+    "Release date": "Jul 24, 2019",
+    "About the game": "The purpose of the puzzle is to guess the unknown word by adding the correct letters. For every unsuccessful attempt, a part of the human body will appear on the gallows.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1105730/header.jpg?t=1583392062",
+    "Price": 0.99,
+    "Developers": "Useless Studio",
+    "Publishers": "Useless Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1105730/ss_12a6ba4e732be22f0f44042c6edfcfaea4f11407.1920x1080.jpg?t=1583392062,https://cdn.akamai.steamstatic.com/steam/apps/1105730/ss_0322964a1c38950390b8b60609b7a4208d3390b3.1920x1080.jpg?t=1583392062,https://cdn.akamai.steamstatic.com/steam/apps/1105730/ss_32e5ef4cfa7ef289957d684da1df7abc6d939ced.1920x1080.jpg?t=1583392062,https://cdn.akamai.steamstatic.com/steam/apps/1105730/ss_f60c0bec5975e378e26426e9fad42f94aa1e9d0f.1920x1080.jpg?t=1583392062,https://cdn.akamai.steamstatic.com/steam/apps/1105730/ss_0cc09f95c992abcfe360545bde9be6f30546f4ea.1920x1080.jpg?t=1583392062",
+    "Slug": "hangman",
+    "Meta Title": "HANGMAN: Jul 24, 2019, Useless Studio and Full Overview",
+    "Meta Description": "Looking for information on HANGMAN? Check out the release date (Jul 24, 2019), developer insights from Useless Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for HANGMAN game - Steam 1105730",
+    "Canonical URL": "https://gusku.site/game/hangman",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HANGMAN\", \"description\": \"Looking for information on HANGMAN? Check out the release date (Jul 24, 2019), developer insights from Useless Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 24, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Useless Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Useless Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1105730/header.jpg?t=1583392062\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

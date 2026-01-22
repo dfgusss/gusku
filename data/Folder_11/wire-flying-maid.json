@@ -1,0 +1,21 @@
+{
+    "AppID": 1234070,
+    "Name": "Wire Flying Maid",
+    "Release date": "Feb 12, 2020",
+    "About the game": "!!! NOTE !!! Full-screen mode will not work properly if the display aspect ratio is not 16:9. Wire Flying Maid is a 2D action game where a maid flies using wires. - Use only left and right clicks and mouse wheel - Hook the wire on the flapping ring and fly in the sky - Collect rings to unlock 7 maid costumes and 7 wire colors - Keep flying for high score",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1234070/header.jpg?t=1657714871",
+    "Price": 0.99,
+    "Developers": "IzukawaN",
+    "Publishers": "IzukawaN",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1234070/ss_f36e24938ec65e42889a4d51ffafdab86be6fe5a.1920x1080.jpg?t=1657714871,https://cdn.akamai.steamstatic.com/steam/apps/1234070/ss_d814e7317143d5be9386582c00062681a84cdcf1.1920x1080.jpg?t=1657714871,https://cdn.akamai.steamstatic.com/steam/apps/1234070/ss_ddd058cf65a20272e9d7362365fabc2917c45dba.1920x1080.jpg?t=1657714871,https://cdn.akamai.steamstatic.com/steam/apps/1234070/ss_522c8232642d8e0e7d056e4022148409016747c7.1920x1080.jpg?t=1657714871,https://cdn.akamai.steamstatic.com/steam/apps/1234070/ss_40d9823c74846493852a950716690ba40af52fc5.1920x1080.jpg?t=1657714871",
+    "Slug": "wire-flying-maid",
+    "Meta Title": "Wire Flying Maid: Feb 12, 2020, IzukawaN and Full Overview",
+    "Meta Description": "Looking for information on Wire Flying Maid? Check out the release date (Feb 12, 2020), developer insights from IzukawaN, and a complete game summary.",
+    "Alt Text Image": "Official header image for Wire Flying Maid game - Steam 1234070",
+    "Canonical URL": "https://gusku.site/game/wire-flying-maid",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Wire Flying Maid\", \"description\": \"Looking for information on Wire Flying Maid? Check out the release date (Feb 12, 2020), developer insights from IzukawaN, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 12, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"IzukawaN\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"IzukawaN\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1234070/header.jpg?t=1657714871\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

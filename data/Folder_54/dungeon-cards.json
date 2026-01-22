@@ -1,0 +1,21 @@
+{
+    "AppID": 1209430,
+    "Name": "Dungeon Cards",
+    "Release date": "Jan 27, 2020",
+    "About the game": "Dungeon Cards is an exciting mix of puzzle, card game, and a classical roguelike. Each movement of your card creates a unique and challenging situation, a mini-puzzle which requires strategic thinking to solve. In this card roguelike, you move your character card about a field of nine cards. You have to clash your card with neighboring cards to move it. Monster cards and trap cards will decrease your card's health, healing cards will... well, heal you, cards with gold will increase your game score and there are also many other cards with unique abilities and behaviors. The game is built with a classical roguelike formula: it is a turn-based dungeon crawler in a fantasy setting with selectable characters, procedurally generated dungeons, pixel art graphics, and the permadeath. Choose one of the ten heroes, descend into the magical dungeon and slay hordes of monsters in quest of epic loot!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1209430/header.jpg?t=1580251906",
+    "Price": 1.99,
+    "Developers": "717 pixels",
+    "Publishers": "717 pixels",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1209430/ss_c3835591cfa5c12c179af9d2834c80315774ffdd.1920x1080.jpg?t=1580251906,https://cdn.akamai.steamstatic.com/steam/apps/1209430/ss_16863cefc1105abe176a99313b9f60812bca8f87.1920x1080.jpg?t=1580251906,https://cdn.akamai.steamstatic.com/steam/apps/1209430/ss_6a51e0eddfa0b8a93ee34ee3d18b507fcab10d2b.1920x1080.jpg?t=1580251906,https://cdn.akamai.steamstatic.com/steam/apps/1209430/ss_2a1136d45ab3938b48e35635b55ad2a5d2853dfd.1920x1080.jpg?t=1580251906,https://cdn.akamai.steamstatic.com/steam/apps/1209430/ss_39d0e464dbb79cdb2db95ed90f058657c2e5d791.1920x1080.jpg?t=1580251906",
+    "Slug": "dungeon-cards",
+    "Meta Title": "Dungeon Cards: Jan 27, 2020, 717 pixels and Full Overview",
+    "Meta Description": "Looking for information on Dungeon Cards? Check out the release date (Jan 27, 2020), developer insights from 717 pixels, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dungeon Cards game - Steam 1209430",
+    "Canonical URL": "https://gusku.site/game/dungeon-cards",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dungeon Cards\", \"description\": \"Looking for information on Dungeon Cards? Check out the release date (Jan 27, 2020), developer insights from 717 pixels, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 27, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"717 pixels\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"717 pixels\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1209430/header.jpg?t=1580251906\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

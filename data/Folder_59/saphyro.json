@@ -1,0 +1,21 @@
+{
+    "AppID": 1569920,
+    "Name": "Saphyro",
+    "Release date": "Mar 19, 2021",
+    "About the game": "Saphyro is a casual physics game. Your task is to collect white cubes that randomly appear on the playing area, for each cube you get one point. The difficulty is that multicolored platforms appear in random places that move in a random direction, and if you hit at least one of them, you will lose and you will have to start over. Also, the cube that you control is constantly in motion, and you can only change the direction of this movement. Use your reaction speed and ingenuity. How many points can you collect? Features - Simple gameplay - Minimalistic graphics - Pleasant music",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1569920/header.jpg?t=1616187937",
+    "Price": 0.99,
+    "Developers": "A Korh",
+    "Publishers": "AlKorh",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1569920/ss_a2a272a08c496c076c823c32443ff0278fc706af.1920x1080.jpg?t=1616187937,https://cdn.akamai.steamstatic.com/steam/apps/1569920/ss_7ffa92dabe80faf15957f0460d98207a9db817d3.1920x1080.jpg?t=1616187937,https://cdn.akamai.steamstatic.com/steam/apps/1569920/ss_68374f717fdbf6d68c8e3a9cbcd23d32dead19f5.1920x1080.jpg?t=1616187937,https://cdn.akamai.steamstatic.com/steam/apps/1569920/ss_7f41cdbdf50cf931b98f0461687a2974b293a892.1920x1080.jpg?t=1616187937,https://cdn.akamai.steamstatic.com/steam/apps/1569920/ss_08770692b6ac0059f5569d0eeb9074b03e72134a.1920x1080.jpg?t=1616187937",
+    "Slug": "saphyro",
+    "Meta Title": "Saphyro: Mar 19, 2021, A Korh and Full Overview",
+    "Meta Description": "Looking for information on Saphyro? Check out the release date (Mar 19, 2021), developer insights from A Korh, and a complete game summary.",
+    "Alt Text Image": "Official header image for Saphyro game - Steam 1569920",
+    "Canonical URL": "https://gusku.site/game/saphyro",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Saphyro\", \"description\": \"Looking for information on Saphyro? Check out the release date (Mar 19, 2021), developer insights from A Korh, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"A Korh\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"AlKorh\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1569920/header.jpg?t=1616187937\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

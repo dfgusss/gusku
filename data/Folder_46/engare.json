@@ -1,0 +1,21 @@
+{
+    "AppID": 415170,
+    "Name": "Engare",
+    "Release date": "Oct 23, 2017",
+    "About the game": "Engare is a game about motion and geometry. Part puzzle game, part drawing tool, Engare is all about your geometric imagination. By selecting a point on a moving object, players trace delicate shapes in the air and hopefully match the target glyph for that level. It’s a meditation on the dynamics of simple machines and the beauty buried deep within repeating motion. The game also offers a sandbox where players can draw their own geometric shapes and patterns using the systems introduced in the game. It allows the player to export their drawings as images or 3D models.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/415170/header.jpg?t=1651568211",
+    "Price": 9.99,
+    "Developers": "Mahdi Bahrami",
+    "Publishers": "Mahdi Bahrami",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/415170/ss_b52486a1eaa047c483824b0c545d73be3a20e498.1920x1080.jpg?t=1651568211,https://cdn.akamai.steamstatic.com/steam/apps/415170/ss_587386f79a478aff006ea7596221a381f9538455.1920x1080.jpg?t=1651568211,https://cdn.akamai.steamstatic.com/steam/apps/415170/ss_d0d60a1a0f4cc57393b8fd46e6488db492b35e16.1920x1080.jpg?t=1651568211,https://cdn.akamai.steamstatic.com/steam/apps/415170/ss_120e5d73329e2dfdacc9cd5c60475144b1c82941.1920x1080.jpg?t=1651568211,https://cdn.akamai.steamstatic.com/steam/apps/415170/ss_b4db9d77d0b849d5e4b08f47d103c092f1dc909d.1920x1080.jpg?t=1651568211,https://cdn.akamai.steamstatic.com/steam/apps/415170/ss_9c6fe9aeddb6ff1b03d75d14f437da9b70eb847c.1920x1080.jpg?t=1651568211,https://cdn.akamai.steamstatic.com/steam/apps/415170/ss_ea304d1e331d5373dcb057b6023edffd1ee86769.1920x1080.jpg?t=1651568211,https://cdn.akamai.steamstatic.com/steam/apps/415170/ss_ae9a44203445b5b86d14bed1ecc58fe469726430.1920x1080.jpg?t=1651568211",
+    "Slug": "engare",
+    "Meta Title": "Engare: Oct 23, 2017, Mahdi Bahrami and Full Overview",
+    "Meta Description": "Looking for information on Engare? Check out the release date (Oct 23, 2017), developer insights from Mahdi Bahrami, and a complete game summary.",
+    "Alt Text Image": "Official header image for Engare game - Steam 415170",
+    "Canonical URL": "https://gusku.site/game/engare",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Engare\", \"description\": \"Looking for information on Engare? Check out the release date (Oct 23, 2017), developer insights from Mahdi Bahrami, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 23, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mahdi Bahrami\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mahdi Bahrami\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/415170/header.jpg?t=1651568211\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

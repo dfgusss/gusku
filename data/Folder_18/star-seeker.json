@@ -1,0 +1,21 @@
+{
+    "AppID": 1250420,
+    "Name": "Star Seeker",
+    "Release date": "Mar 7, 2020",
+    "About the game": "テトリスライクの対戦パズルゲームです。 モンスターを召喚したり、魔法を使いながら勝利を目指します。 詳しい説明は「マニュアルを見る」にあります。 ソースコード このゲームはオープンソースです。ソースコードは「Web サイトにアクセス」にあります。 ゲームモード Duel 相手を選んで対戦。 ゲームに勝つと★（勝利数）が増えます。 4つのレベルがあります。 Endless ランダムな相手と連戦。 ゲームに勝つと相手のカードを取得できます。 Versus ジョイパッドを使った対人戦。 ジョイパッドが2つ必要です。 Customize 装備設定。 アイテムの装備と購入、スキル設定、デッキ設定を行います。 アイテム プレイヤーの装備。攻撃・防御の強化を行います。 特殊効果を持つものもあります。 武器 攻撃強化、相手フィールドへの効果。 頭防具 防御強化、自分のフィールド変化。 体防具 防御強化、相手からの変化効果防止。 指輪 防御強化、ホールドブロックの変化。 アルカナ 魔法のカード。取得したスターを消費して、手札のカードを発動できます。 サモン モンスターを召喚します。 モンスターは自分の攻撃の強化と、相手の攻撃の防御を行います。 ソーサリー 魔法を使います。自分と相手に様々な効果を発動します。 シールド 相手の魔法に反応→無効化して効果を発動します。 サポート 手札に持っている間、効果を発揮します。 ジョーカー 自分に悪性の効果を発動します。 手札に持っている間、スターが減少します。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1250420/header.jpg?t=1588649252",
+    "Price": 12.99,
+    "Developers": "Yukio Kuro",
+    "Publishers": "Yukio Kuro",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1250420/ss_4b4b74e29f13256a809df74e7339efdd502bdb43.1920x1080.jpg?t=1588649252,https://cdn.akamai.steamstatic.com/steam/apps/1250420/ss_0358eca03c841066faffbbede29b154a1641eb0e.1920x1080.jpg?t=1588649252,https://cdn.akamai.steamstatic.com/steam/apps/1250420/ss_5652a3fc4d207e7f152f9c26281aaf600e026966.1920x1080.jpg?t=1588649252,https://cdn.akamai.steamstatic.com/steam/apps/1250420/ss_38856c17f100c195f4bcda8988f605a5f954f794.1920x1080.jpg?t=1588649252,https://cdn.akamai.steamstatic.com/steam/apps/1250420/ss_0f373234d6ff2f27961817bc438ec09122df63f9.1920x1080.jpg?t=1588649252",
+    "Slug": "star-seeker",
+    "Meta Title": "Star Seeker: Mar 7, 2020, Yukio Kuro and Full Overview",
+    "Meta Description": "Looking for information on Star Seeker? Check out the release date (Mar 7, 2020), developer insights from Yukio Kuro, and a complete game summary.",
+    "Alt Text Image": "Official header image for Star Seeker game - Steam 1250420",
+    "Canonical URL": "https://gusku.site/game/star-seeker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Star Seeker\", \"description\": \"Looking for information on Star Seeker? Check out the release date (Mar 7, 2020), developer insights from Yukio Kuro, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 7, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Yukio Kuro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Yukio Kuro\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1250420/header.jpg?t=1588649252\", \"offers\": {\"@type\": \"Offer\", \"price\": 12.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

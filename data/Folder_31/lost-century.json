@@ -1,0 +1,21 @@
+{
+    "AppID": 1381260,
+    "Name": "Lost Century",
+    "Release date": "Aug 26, 2020",
+    "About the game": "Just run and shoot. Easy game. This game is a third-person fps game. User should avoid bullets. And User must fire a gun to subdue AI. In early access version user can choose AI Level. (1~6) Or You can enjoy AI infinity mode. In this version user can use 8 guns. Purple gauge is seeing auto they have reload. Avoid yellow. Your character becomes rigid. Armor type AI have big HP. But they get All damage from gun. So if you fight them, laser guns(have big damage) will be effective. In infinity mode User can heal self by take pink capsule. And green box is gun. Take them with g key. In full ver. 1. User can use More guns. 2. User can use other charater. 3. User can fight new boss. 4. Main story and ending. keys----------------------------------------------------- Your character will shoot follow your mouse. Right click and move around. WASD-move / space-jump (if you charging you can jump more higher) left ctrl - charging 1~8 change gun i to use inventory q,e,z,x,c,v left shift use skill m - open map in defense mode left shift = normal skill Tab and Y Marking Enemy I Key to open inventory. You can upgrade your guns in inventory. If you want it. You need same gun. --------------------------------------------------------- You can change option in option UI. You can fix sound for you. Can change cursor mode. And camera fix. --------------------------------------------------------------------- now you can use defense mode. In defense mode user must remove spawn portal. And save the core. In worldmap you can see number of corrosion by enemy. if the number goes up. It will be hard to save core. And Users can make a block to defend the core. --------------------------------------------------------------------2020.11.22 Now if User get down. then just end the game. But next patch user can respawn from respawner. I love bug report. If you throw it to me. It will be fixed as soon as possible. And any suggestions will be considered. Thank you for read this.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1381260/header.jpg?t=1623020512",
+    "Price": 15.99,
+    "Developers": "OhF",
+    "Publishers": "OhF",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1381260/ss_1576847d7aa85c88b4c9e8805792734fd535c7a6.1920x1080.jpg?t=1623020512,https://cdn.akamai.steamstatic.com/steam/apps/1381260/ss_c39e9df54c88889108fe169f61a26ddc5c02deec.1920x1080.jpg?t=1623020512,https://cdn.akamai.steamstatic.com/steam/apps/1381260/ss_17efbd6f2e5941ec58c38dcedda084a71037215e.1920x1080.jpg?t=1623020512",
+    "Slug": "lost-century",
+    "Meta Title": "Lost Century: Aug 26, 2020, OhF and Full Overview",
+    "Meta Description": "Looking for information on Lost Century? Check out the release date (Aug 26, 2020), developer insights from OhF, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lost Century game - Steam 1381260",
+    "Canonical URL": "https://gusku.site/game/lost-century",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lost Century\", \"description\": \"Looking for information on Lost Century? Check out the release date (Aug 26, 2020), developer insights from OhF, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 26, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"OhF\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"OhF\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1381260/header.jpg?t=1623020512\", \"offers\": {\"@type\": \"Offer\", \"price\": 15.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

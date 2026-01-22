@@ -1,0 +1,21 @@
+{
+    "AppID": 1715490,
+    "Name": "Lonely Tribes",
+    "Release date": "Mar 1, 2022",
+    "About the game": "Lonely Tribes is a puzzle game in which you beat each level by moving the characters such that they all merge together, using walls and the environment to push them together. Later levels include special modes which allow you to completely change the method of play, such as Frenzy which moves everything 3x as far, allowing you to clip through walls, but at a cost. There are currently 7 levels, with a level generator that can create over 4 billion different levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1715490/header.jpg?t=1646342222",
+    "Price": 1.99,
+    "Developers": "Jack Maguire",
+    "Publishers": "Jack Maguire",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1715490/ss_7479acf769c504bcdadb3176d0b12d32cf319207.1920x1080.jpg?t=1646342222,https://cdn.akamai.steamstatic.com/steam/apps/1715490/ss_37c7839119d8c795ee5a2f981fd9ed7dfcf9286c.1920x1080.jpg?t=1646342222,https://cdn.akamai.steamstatic.com/steam/apps/1715490/ss_05f7ca2b7440e735f33aac4d12eaece25a6adca5.1920x1080.jpg?t=1646342222,https://cdn.akamai.steamstatic.com/steam/apps/1715490/ss_aa7ec10a958d523ae8b0db7e90aca2b24a4c1cb2.1920x1080.jpg?t=1646342222,https://cdn.akamai.steamstatic.com/steam/apps/1715490/ss_a692b5133d244401e82b026e10783a81016801e2.1920x1080.jpg?t=1646342222",
+    "Slug": "lonely-tribes",
+    "Meta Title": "Lonely Tribes: Mar 1, 2022, Jack Maguire and Full Overview",
+    "Meta Description": "Looking for information on Lonely Tribes? Check out the release date (Mar 1, 2022), developer insights from Jack Maguire, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lonely Tribes game - Steam 1715490",
+    "Canonical URL": "https://gusku.site/game/lonely-tribes",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lonely Tribes\", \"description\": \"Looking for information on Lonely Tribes? Check out the release date (Mar 1, 2022), developer insights from Jack Maguire, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jack Maguire\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jack Maguire\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1715490/header.jpg?t=1646342222\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

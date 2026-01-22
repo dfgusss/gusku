@@ -1,0 +1,21 @@
+{
+    "AppID": 1584350,
+    "Name": "Battle for Sea 3D",
+    "Release date": "Apr 8, 2021",
+    "About the game": "Naval battles of ships. Turn-based tactical battles. • Player 1 places his boats. Boats are placed by clicking on the grid and rotating the boat in the four possible directions. A magenta line will appear around the ship. • Player 2 places hisboats. Same process as shown before but this time it is player 2 who places the boats in the screen. • Player 1 turn. The player can select a square from the enemy grid and it will show the “shooting button”. Once pressed, the missile will launch.If the player hit the water a blue marker will stay over the grid, while a red marker will appear if the player hits an enemy boat. • Player 2 turn. The player can select a square from the enemy grid and it will show the “shooting button”. Once pressed, the missile will launch. Same process than in player 1. In this case the player can check the state of his boats on the grid.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1584350/header.jpg?t=1645498210",
+    "Price": 9.99,
+    "Developers": "Hede",
+    "Publishers": "Hede",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1584350/ss_806625d1dc26930216dfc0d061c4cfb319ff8bfb.1920x1080.jpg?t=1645498210,https://cdn.akamai.steamstatic.com/steam/apps/1584350/ss_bb75d4195a8ee73fb6a8fad2d12f748f6c0c1816.1920x1080.jpg?t=1645498210,https://cdn.akamai.steamstatic.com/steam/apps/1584350/ss_86186e6fe343261d510ab2bea31a9c225b3ef59b.1920x1080.jpg?t=1645498210,https://cdn.akamai.steamstatic.com/steam/apps/1584350/ss_e6c49e905281096adce7c72961e071ab0ac50566.1920x1080.jpg?t=1645498210,https://cdn.akamai.steamstatic.com/steam/apps/1584350/ss_ee9016cb6966ca31c004eafdbe8612228ed2bc8f.1920x1080.jpg?t=1645498210",
+    "Slug": "battle-for-sea-3d",
+    "Meta Title": "Battle for Sea 3D: Apr 8, 2021, Hede and Full Overview",
+    "Meta Description": "Looking for information on Battle for Sea 3D? Check out the release date (Apr 8, 2021), developer insights from Hede, and a complete game summary.",
+    "Alt Text Image": "Official header image for Battle for Sea 3D game - Steam 1584350",
+    "Canonical URL": "https://gusku.site/game/battle-for-sea-3d",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Battle for Sea 3D\", \"description\": \"Looking for information on Battle for Sea 3D? Check out the release date (Apr 8, 2021), developer insights from Hede, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 8, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hede\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hede\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1584350/header.jpg?t=1645498210\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

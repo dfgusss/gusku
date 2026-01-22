@@ -1,0 +1,21 @@
+{
+    "AppID": 40,
+    "Name": "Deathmatch Classic",
+    "Release date": "Jun 1, 2001",
+    "About the game": "Enjoy fast-paced multiplayer gaming with Deathmatch Classic (a.k.a. DMC). Valve's tribute to the work of id software, DMC invites players to grab their rocket launchers and put their reflexes to the test in a collection of futuristic settings.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/40/header.jpg?t=1568752159",
+    "Price": 4.99,
+    "Developers": "Valve",
+    "Publishers": "Valve",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/40/0000000142.1920x1080.jpg?t=1568752159,https://cdn.akamai.steamstatic.com/steam/apps/40/0000000143.1920x1080.jpg?t=1568752159,https://cdn.akamai.steamstatic.com/steam/apps/40/0000000144.1920x1080.jpg?t=1568752159,https://cdn.akamai.steamstatic.com/steam/apps/40/0000000145.1920x1080.jpg?t=1568752159",
+    "Slug": "deathmatch-classic",
+    "Meta Title": "Deathmatch Classic: Jun 1, 2001, Valve and Full Overview",
+    "Meta Description": "Looking for information on Deathmatch Classic? Check out the release date (Jun 1, 2001), developer insights from Valve, and a complete game summary.",
+    "Alt Text Image": "Official header image for Deathmatch Classic game - Steam 40",
+    "Canonical URL": "https://gusku.site/game/deathmatch-classic",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Deathmatch Classic\", \"description\": \"Looking for information on Deathmatch Classic? Check out the release date (Jun 1, 2001), developer insights from Valve, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 1, 2001\", \"author\": {\"@type\": \"Organization\", \"name\": \"Valve\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Valve\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/40/header.jpg?t=1568752159\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

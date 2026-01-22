@@ -1,0 +1,21 @@
+{
+    "AppID": 863980,
+    "Name": "ORIX!",
+    "Release date": "May 29, 2018",
+    "About the game": "ORIX! - a puzzle game - where you need to find the right path and get to the yellow cube. Features: Simple controls (W,A,S,D or arrows) Pleasant music. Over 10+ levels. Credits: Programming: AFBIK Studio Music and effects: zapsplat",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/863980/header.jpg?t=1580497094",
+    "Price": 0.99,
+    "Developers": "AFBIK Studio",
+    "Publishers": "AFBIK Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/863980/ss_3a6a6a3e6626dd9500a0c6435652ec720fd81366.1920x1080.jpg?t=1580497094,https://cdn.akamai.steamstatic.com/steam/apps/863980/ss_19570aa0582da4279d003efbdadc61f2fd241ded.1920x1080.jpg?t=1580497094,https://cdn.akamai.steamstatic.com/steam/apps/863980/ss_f0f5e8f94968b9496d4e758a6ac34b3cc6341fde.1920x1080.jpg?t=1580497094,https://cdn.akamai.steamstatic.com/steam/apps/863980/ss_fe24607758913bf08ce9f3ed29cffdcbcb8f7535.1920x1080.jpg?t=1580497094,https://cdn.akamai.steamstatic.com/steam/apps/863980/ss_2fbc1ac5328809c7d7f507b678f135b9e53cba05.1920x1080.jpg?t=1580497094",
+    "Slug": "orix",
+    "Meta Title": "ORIX!: May 29, 2018, AFBIK Studio and Full Overview",
+    "Meta Description": "Looking for information on ORIX!? Check out the release date (May 29, 2018), developer insights from AFBIK Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for ORIX! game - Steam 863980",
+    "Canonical URL": "https://gusku.site/game/orix",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ORIX!\", \"description\": \"Looking for information on ORIX!? Check out the release date (May 29, 2018), developer insights from AFBIK Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 29, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"AFBIK Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"AFBIK Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/863980/header.jpg?t=1580497094\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

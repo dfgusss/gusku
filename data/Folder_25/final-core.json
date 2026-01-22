@@ -1,0 +1,21 @@
+{
+    "AppID": 556250,
+    "Name": "Final Core",
+    "Release date": "Jan 11, 2017",
+    "About the game": "/!\\ Servers are down and I do not have a build of the game I can fix to point to new servers. /!\\ This means global chat, online PvP and challenging other players' designs is broken. /!\\ I apologize for the issue and the fact that the trailer depicts now broken features. /!\\ There have also been reports of the game crashing on some setups, which I also cannot fix as this project predates me learning to use proper versioning tools, and the original source files are now lost. Final Core is a top down arena shooter game in which you get to build your battleships from a selection of diverse parts, each carefully designed to ensure a wide range of viable strategies. Each part can be individually placed and angled on your design, allowing for complex and interesting setups, from broadside laser equipped corvettes to teleporting stealthed harpooners and armoured drone spawning dreadnoughts! Features Buy and upgrade parts to improve your ships as you progress through the game. Control your design in the arena and fight off waves of opponents, challenging bosses. Level up your core as you progress through the game, and use active skills and powerups to gain the upper hand. Over 300 possible Arena modifier setups that change how the game plays. Want a change of pace? Start a skirmish, build and manage a base while spawning and controlling an army based off of your designs.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/556250/header.jpg?t=1618101571",
+    "Price": 0.99,
+    "Developers": "Tabc3dd",
+    "Publishers": "Tabc3dd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/556250/ss_a41eb1e8c56871d4b809084441be25ad728cf37a.1920x1080.jpg?t=1618101571,https://cdn.akamai.steamstatic.com/steam/apps/556250/ss_44b62329ad1ba99be21ce7c91e968a5c7d6d1775.1920x1080.jpg?t=1618101571,https://cdn.akamai.steamstatic.com/steam/apps/556250/ss_ced3212ddfbff5d9568ba7808a2da2674646bf4c.1920x1080.jpg?t=1618101571,https://cdn.akamai.steamstatic.com/steam/apps/556250/ss_a266b466d4dfa5520cb2fd7654a001b18056cd25.1920x1080.jpg?t=1618101571,https://cdn.akamai.steamstatic.com/steam/apps/556250/ss_11510ced61e7cd46fe490d55bfa5bed7e6942767.1920x1080.jpg?t=1618101571",
+    "Slug": "final-core",
+    "Meta Title": "Final Core: Jan 11, 2017, Tabc3dd and Full Overview",
+    "Meta Description": "Looking for information on Final Core? Check out the release date (Jan 11, 2017), developer insights from Tabc3dd, and a complete game summary.",
+    "Alt Text Image": "Official header image for Final Core game - Steam 556250",
+    "Canonical URL": "https://gusku.site/game/final-core",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Final Core\", \"description\": \"Looking for information on Final Core? Check out the release date (Jan 11, 2017), developer insights from Tabc3dd, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 11, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tabc3dd\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tabc3dd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/556250/header.jpg?t=1618101571\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1454090,
+    "Name": "Army of Numbers",
+    "Release date": "Jun 22, 2021",
+    "About the game": "Just put the arithmetic symbol under the two numbers to calculate the result. You need to quickly and cleverly place the arithmetic symbols according to the scene. The experience of the game is very similar to the 24 point game played when I was a child (part of the inspiration comes from this), but this work has different variability and stimulation. The game itself has no level, only two modes, rush mode and survival mode, which are randomly generated levels. There is no levels in the game, but you can pursue higher scores, and unlock some new stuff while playing. Put the constant and calculator on the panel, and the calculator will automatically calculate the upper left and upper right numbers. Your goal is to work out a specific number to defeat the monster!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1454090/header.jpg?t=1637072617",
+    "Price": 1.99,
+    "Developers": "maou",
+    "Publishers": "maou",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1454090/ss_d25eb44cd7809182a729fe62598375a1a7d1f103.1920x1080.jpg?t=1637072617,https://cdn.akamai.steamstatic.com/steam/apps/1454090/ss_84e6d252d6350d1259bfe1d7b5aa8b6a58b17f5d.1920x1080.jpg?t=1637072617,https://cdn.akamai.steamstatic.com/steam/apps/1454090/ss_4487997ee8c8e705dfc5d06e397052421f978f06.1920x1080.jpg?t=1637072617,https://cdn.akamai.steamstatic.com/steam/apps/1454090/ss_3816299da4850eff85c4732dd1565a7a637c1292.1920x1080.jpg?t=1637072617,https://cdn.akamai.steamstatic.com/steam/apps/1454090/ss_854c994c7c0afb6be5b131f2fd984242170f1442.1920x1080.jpg?t=1637072617",
+    "Slug": "army-of-numbers",
+    "Meta Title": "Army of Numbers: Jun 22, 2021, maou and Full Overview",
+    "Meta Description": "Looking for information on Army of Numbers? Check out the release date (Jun 22, 2021), developer insights from maou, and a complete game summary.",
+    "Alt Text Image": "Official header image for Army of Numbers game - Steam 1454090",
+    "Canonical URL": "https://gusku.site/game/army-of-numbers",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Army of Numbers\", \"description\": \"Looking for information on Army of Numbers? Check out the release date (Jun 22, 2021), developer insights from maou, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 22, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"maou\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"maou\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1454090/header.jpg?t=1637072617\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

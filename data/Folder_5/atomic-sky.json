@@ -1,0 +1,21 @@
+{
+    "AppID": 675980,
+    "Name": "Atomic Sky",
+    "Release date": "Aug 29, 2017",
+    "About the game": "Atomic Sky this is a small arcade casual game. Unlike classic match-3 games, the action takes place in three-dimensional space. There are 6 game modes in this game: 3x3x3, 3x6x3, 4x4x4, 5x5x5, 6x6x6 and 7x7x7 Simple modes of 3x3x3 and 3x6x3 for a short game For advanced players - 6x6x6 and 7x7x7 The goal of the game is to score the maximum points. Put in the rows of balls of the same color and earn more points. The fewer balls in the game, the more points per turn. The more balls destroyed in one turn, the more points. If the column with the balls is empty - a new column with balls appears and plus 100 points for each new ball. If the layer of balls is empty - a new layer of balls will appear and plus 100 points for each new ball. Control: Left mouse button - select the ball. Right mouse button, as well as the WASD, Arrow keys - the rotation around the playing space F1 or move the cursor to 'Atomic Sky' - about game. F2 or move the mouse cursor to the timer - view the next move F3 - Results Table",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/675980/header.jpg?t=1504110618",
+    "Price": 1.99,
+    "Developers": "Evgeniy Alemzhin",
+    "Publishers": "Евгений Алемжин",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/675980/ss_17b2ac79592aae434cc9ca20e5eb4473e13147b4.1920x1080.jpg?t=1504110618,https://cdn.akamai.steamstatic.com/steam/apps/675980/ss_8aff3b607d767d74cf56be1981c9f06f991a9daf.1920x1080.jpg?t=1504110618,https://cdn.akamai.steamstatic.com/steam/apps/675980/ss_150429431a413d8ae78792483929c38c678ab91f.1920x1080.jpg?t=1504110618,https://cdn.akamai.steamstatic.com/steam/apps/675980/ss_eabd9e93be7d62005b8b88d5ed28a9a19b18a100.1920x1080.jpg?t=1504110618,https://cdn.akamai.steamstatic.com/steam/apps/675980/ss_c86269fa987eb9d85bf8b59b182ccc6224ffa186.1920x1080.jpg?t=1504110618,https://cdn.akamai.steamstatic.com/steam/apps/675980/ss_4165ddb628b851d9538b5e47cebf1a7b045ed17c.1920x1080.jpg?t=1504110618,https://cdn.akamai.steamstatic.com/steam/apps/675980/ss_2617a402461eb9c7fecdaccb7f98ee90dce4f0ac.1920x1080.jpg?t=1504110618,https://cdn.akamai.steamstatic.com/steam/apps/675980/ss_054d14a1664a04fdd4c398e0447fe6b31f6ee955.1920x1080.jpg?t=1504110618",
+    "Slug": "atomic-sky",
+    "Meta Title": "Atomic Sky: Aug 29, 2017, Evgeniy Alemzhin and Full Overview",
+    "Meta Description": "Looking for information on Atomic Sky? Check out the release date (Aug 29, 2017), developer insights from Evgeniy Alemzhin, and a complete game summary.",
+    "Alt Text Image": "Official header image for Atomic Sky game - Steam 675980",
+    "Canonical URL": "https://gusku.site/game/atomic-sky",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Atomic Sky\", \"description\": \"Looking for information on Atomic Sky? Check out the release date (Aug 29, 2017), developer insights from Evgeniy Alemzhin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 29, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Evgeniy Alemzhin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u0415\\u0432\\u0433\\u0435\\u043d\\u0438\\u0439 \\u0410\\u043b\\u0435\\u043c\\u0436\\u0438\\u043d\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/675980/header.jpg?t=1504110618\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1122440,
+    "Name": "Proxyah v3.1",
+    "Release date": "Aug 6, 2019",
+    "About the game": "Proxyah is a collage-based, closed-world, first-person escape room game. You are tasked with getting to the exit of a single, three-dimensional room. However, there are a number of things that intertwine to complicate this simple task. These include the existence of a two-dimensional snake game that plays out in your HUD, your controls being periodically rewired, the room occasionally filling with water, the walls responding to your movements, etc. The energy you expend getting to the exit constitutes your score, which at the end of your session is converted into a uniquely terraformed landscape. For all specific questions and FAQs, please see the guide. Proxyah was inspired by thoughts on the amount of unknown unknowns regarding the functions of the human body, speculations about the near-future state of HUDs, imaginings about quantum entanglement, and curious experimentation with the Unity Engine. Proxyah was exhibited as an art installation at kim? Contemporary Art Space in Riga, Latvia. It was written during the winter of 2014 at Jupiter Woods in London and during an artist residency at Rupert outside of Vilnius, Lithuania. The version presented here (v3.1) is the final build of the game and was made specifically for playing at home.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1122440/header.jpg?t=1586377985",
+    "Price": 3.99,
+    "Developers": "Viktor Timofeev",
+    "Publishers": "Viktor Timofeev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1122440/ss_f46d5318d9db75d59112226ce6f564e38af3e12a.1920x1080.jpg?t=1586377985,https://cdn.akamai.steamstatic.com/steam/apps/1122440/ss_9cf8f9af02cf6edd89ebd0b32a0fd3221c7e7f16.1920x1080.jpg?t=1586377985,https://cdn.akamai.steamstatic.com/steam/apps/1122440/ss_e7098f091818258fb9b40b2c6b39817bd6c31cdc.1920x1080.jpg?t=1586377985,https://cdn.akamai.steamstatic.com/steam/apps/1122440/ss_2b542d9cb84e4a05b912c48aabd34987a7f9b80b.1920x1080.jpg?t=1586377985,https://cdn.akamai.steamstatic.com/steam/apps/1122440/ss_9e95e50af5e9794122804e5118a81571ddbf6008.1920x1080.jpg?t=1586377985",
+    "Slug": "proxyah-v3-1",
+    "Meta Title": "Proxyah v3.1: Aug 6, 2019, Viktor Timofeev and Full Overview",
+    "Meta Description": "Looking for information on Proxyah v3.1? Check out the release date (Aug 6, 2019), developer insights from Viktor Timofeev, and a complete game summary.",
+    "Alt Text Image": "Official header image for Proxyah v3.1 game - Steam 1122440",
+    "Canonical URL": "https://gusku.site/game/proxyah-v3-1",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Proxyah v3.1\", \"description\": \"Looking for information on Proxyah v3.1? Check out the release date (Aug 6, 2019), developer insights from Viktor Timofeev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 6, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Viktor Timofeev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Viktor Timofeev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1122440/header.jpg?t=1586377985\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

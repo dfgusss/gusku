@@ -1,0 +1,21 @@
+{
+    "AppID": 1686250,
+    "Name": "StickyOrbs",
+    "Release date": "Jul 27, 2021",
+    "About the game": "Sticky Orbs is an addictive physics-based game with a one simple aim: Transport orbs from their initial location to pre-defined finish. In each level of Sticky Orbs, the player is given a number of orbs, and he needs to move them to a final location. But it’s not that easy! To move orbs, the player has only available a limited number of anchor points where an elastic band is stretched until it sticks to the orb. Once the elastic band is released, the force built through the tension will catapult the orb, thus providing the required propulsion. When the player identifies that the power and trajectory is good, he clicks on the screen to remove the anchor, and the orb will move towards the planned destination. Each anchor point has a set length, which the player cannot stretch more The player passes the level when the objective of the level i.e. managing to move the required number of orbs from their initial position to the ending location. Conversely, the player will have to start the level from the beginning if he fails this objective by not managing to arrive at the minimum required orbs.Upon progressing throughout the levels, new elements will try to stop him from completing this task including platforms, sticking elements and force fields.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1686250/header.jpg?t=1627396170",
+    "Price": 3.99,
+    "Developers": "Sticky Orbs",
+    "Publishers": "Sticky Orbs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1686250/ss_4263f9209ff9158c0d878987c55e39c0ae050ad2.1920x1080.jpg?t=1627396170,https://cdn.akamai.steamstatic.com/steam/apps/1686250/ss_581533827e9299c425caa3f6956d47ec94f1f5ed.1920x1080.jpg?t=1627396170,https://cdn.akamai.steamstatic.com/steam/apps/1686250/ss_65d8fb9cbb05c243e0b876014ccb2d0ef97bd473.1920x1080.jpg?t=1627396170,https://cdn.akamai.steamstatic.com/steam/apps/1686250/ss_0d0ee029321d0c0245d04440c79c56bc1ef554ee.1920x1080.jpg?t=1627396170,https://cdn.akamai.steamstatic.com/steam/apps/1686250/ss_89dc432deb8d521d6a616f6f9954943369d572d1.1920x1080.jpg?t=1627396170",
+    "Slug": "stickyorbs",
+    "Meta Title": "StickyOrbs: Jul 27, 2021, Sticky Orbs and Full Overview",
+    "Meta Description": "Looking for information on StickyOrbs? Check out the release date (Jul 27, 2021), developer insights from Sticky Orbs, and a complete game summary.",
+    "Alt Text Image": "Official header image for StickyOrbs game - Steam 1686250",
+    "Canonical URL": "https://gusku.site/game/stickyorbs",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"StickyOrbs\", \"description\": \"Looking for information on StickyOrbs? Check out the release date (Jul 27, 2021), developer insights from Sticky Orbs, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sticky Orbs\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sticky Orbs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1686250/header.jpg?t=1627396170\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

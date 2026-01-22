@@ -1,0 +1,21 @@
+{
+    "AppID": 497150,
+    "Name": "DJ Streamer",
+    "Release date": "Jul 7, 2016",
+    "About the game": "The DJ Streamer plays your audio files out to other programs with a virtual microphone. You can now quickly create a play list from existing files on your computer to broadcast to others. Many popular file formats are supported, such as wave, ogg, windows media and MP3. Files can be paused, stopped, skipped, and the order of the play list changed. The DJ Streamer also works alongside MorphVOX to take advantage of built-in sound effects and backgrounds and provide a seamless mixing of the audio output to your chat or game application. The audio files in your playlist are cleanly mixed in, and have an independent volume control so you can determine how loud your morphed voice is above the music (or other content) you are sharing with others. The DJ Streamer is a great way to share audio with your friends, in-game and online.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/497150/header.jpg?t=1525884973",
+    "Price": 9.99,
+    "Developers": "Screaming Bee",
+    "Publishers": "Screaming Bee",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/497150/ss_3d9144161b52eb9bc5a4dbef7e75e27f4934fd03.1920x1080.jpg?t=1525884973,https://cdn.akamai.steamstatic.com/steam/apps/497150/ss_7c246f46d7e87a655c73c26afec345b79386af43.1920x1080.jpg?t=1525884973,https://cdn.akamai.steamstatic.com/steam/apps/497150/ss_5800c2496cc2a51e6772d8cba66503faac7670a8.1920x1080.jpg?t=1525884973,https://cdn.akamai.steamstatic.com/steam/apps/497150/ss_7ab48f3ec49961890de7912eafa3ccf0a4ca4923.1920x1080.jpg?t=1525884973,https://cdn.akamai.steamstatic.com/steam/apps/497150/ss_79953f36e8ad84e74c4707d272d451af4e3f3676.1920x1080.jpg?t=1525884973",
+    "Slug": "dj-streamer",
+    "Meta Title": "DJ Streamer: Jul 7, 2016, Screaming Bee and Full Overview",
+    "Meta Description": "Looking for information on DJ Streamer? Check out the release date (Jul 7, 2016), developer insights from Screaming Bee, and a complete game summary.",
+    "Alt Text Image": "Official header image for DJ Streamer game - Steam 497150",
+    "Canonical URL": "https://gusku.site/game/dj-streamer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DJ Streamer\", \"description\": \"Looking for information on DJ Streamer? Check out the release date (Jul 7, 2016), developer insights from Screaming Bee, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 7, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Screaming Bee\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Screaming Bee\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/497150/header.jpg?t=1525884973\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

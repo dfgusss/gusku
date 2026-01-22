@@ -1,0 +1,21 @@
+{
+    "AppID": 1730160,
+    "Name": "MoveUp",
+    "Release date": "Sep 15, 2021",
+    "About the game": "In MoveUp, you control moving blocks as they jet across the sky. Your mission is to stop them precisely on top of one another to stack them. If you do the job well, you are rewarded with another block of the same size. However, if you fail to line up the blocks, the part left outside of the underlying block disappears and the next block you get is smaller. The smaller the blocks, the more challenging it is to stack them. Despite its simplicity, MoveUp can get highly engrossing. Each time a piece of your block disappears and the next blocks get smaller, you become more absorbed since you see the end of the game getting closer. Fortunately, you can gradually grow back your blocks by landing several perfect landings in a row. All in all, MoveUp is an excellent choice for some casual VR gaming, especially after a long day. Fire it up, get stacking, and put reality on the back burner, even if for a few minutes. You will not regret it.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1730160/header.jpg?t=1631713326",
+    "Price": 2.99,
+    "Developers": "Voxel LLC",
+    "Publishers": "ExAbsentia",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1730160/ss_2cd3a2ca182635b4c9627c6253237f333eb72869.1920x1080.jpg?t=1631713326,https://cdn.akamai.steamstatic.com/steam/apps/1730160/ss_1b3e69892493fa0a6985a13c65ac707e3f4623b3.1920x1080.jpg?t=1631713326,https://cdn.akamai.steamstatic.com/steam/apps/1730160/ss_989aa10e7c95ed950b1353faa7e708a265ec9bbc.1920x1080.jpg?t=1631713326,https://cdn.akamai.steamstatic.com/steam/apps/1730160/ss_5ce8659ea7eea35b568dbab4515e9be8519b7fc0.1920x1080.jpg?t=1631713326,https://cdn.akamai.steamstatic.com/steam/apps/1730160/ss_9897bd7827ece8391b6611a990ce1428f4b4d91d.1920x1080.jpg?t=1631713326",
+    "Slug": "moveup",
+    "Meta Title": "MoveUp: Sep 15, 2021, Voxel LLC and Full Overview",
+    "Meta Description": "Looking for information on MoveUp? Check out the release date (Sep 15, 2021), developer insights from Voxel LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for MoveUp game - Steam 1730160",
+    "Canonical URL": "https://gusku.site/game/moveup",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MoveUp\", \"description\": \"Looking for information on MoveUp? Check out the release date (Sep 15, 2021), developer insights from Voxel LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 15, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Voxel LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ExAbsentia\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1730160/header.jpg?t=1631713326\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

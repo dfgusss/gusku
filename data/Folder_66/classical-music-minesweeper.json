@@ -1,0 +1,21 @@
+{
+    "AppID": 2168820,
+    "Name": "Classical Music Minesweeper",
+    "Release date": "Nov 3, 2022",
+    "About the game": "Although it is a music game, it does not require complicated controls or memorization of musical scores. What is required is the ability to distinguish sounds. The number of mines in a traditional minesweeper is represented by a number. In this game, the number of mines is represented by the sound of a piano. If there is one mine in the vicinity, one type of sound will be played. If there are three mines, three different sounds will sound simultaneously. When you left-click, a sound is played if there are mines in the surrounding 8 squares. In addition, if the center square is unopened, it will be disclosed. With the right click, mines can be marked. And each mine has a different phrase. Unlike regular minesweepers, it is possible to identify not only the number of mines, but also the type of mine, so that there are very few cases where you are dependent on luck. There are also other elements that make the game more than just a minesweeper, such as squares where the sound cannot be confirmed after it has been disclosed. 16 stages 8 pieces of classical music 4 arrangements of classical music (The reason why the total number of songs does not add up to 16 is that there are overlapping stages.)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2168820/header.jpg?t=1667514188",
+    "Price": 2.54,
+    "Developers": "Kiki Castella",
+    "Publishers": "Kiki Castella",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2168820/ss_19f44fc2c652f3e797f72357d643ef202a1afdd6.1920x1080.jpg?t=1667514188,https://cdn.akamai.steamstatic.com/steam/apps/2168820/ss_5b688152b9af49492274d85f3903d5ac0c9f3109.1920x1080.jpg?t=1667514188,https://cdn.akamai.steamstatic.com/steam/apps/2168820/ss_8c298f176fc3b29efc2a2374914063ef968b52e1.1920x1080.jpg?t=1667514188,https://cdn.akamai.steamstatic.com/steam/apps/2168820/ss_bcf400ec3b5c3743c8c8529808fdbc163c92edf6.1920x1080.jpg?t=1667514188,https://cdn.akamai.steamstatic.com/steam/apps/2168820/ss_59380496167cffd49cc98e618cccc2e48a617a60.1920x1080.jpg?t=1667514188",
+    "Slug": "classical-music-minesweeper",
+    "Meta Title": "Classical Music Minesweeper: Nov 3, 2022, Kiki Castella a...",
+    "Meta Description": "Looking for information on Classical Music Minesweeper? Check out the release date (Nov 3, 2022), developer insights from Kiki Castella, and a complete ...",
+    "Alt Text Image": "Official header image for Classical Music Minesweeper game - Steam 2168820",
+    "Canonical URL": "https://gusku.site/game/classical-music-minesweeper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Classical Music Minesweeper\", \"description\": \"Looking for information on Classical Music Minesweeper? Check out the release date (Nov 3, 2022), developer insights from Kiki Castella, and a complete ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 3, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kiki Castella\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kiki Castella\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2168820/header.jpg?t=1667514188\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.54, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

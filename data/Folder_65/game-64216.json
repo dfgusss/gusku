@@ -1,0 +1,21 @@
+{
+    "AppID": 2124470,
+    "Name": "活字引擎",
+    "Release date": "Sep 29, 2022",
+    "About the game": "活字引擎是国内最早的 跑团Replay 制作软件，能直接导入 聊天记录 或各种来源的 Log 、提供 38种不同的配音 （每种皆可设置音调、语速等）、提供所有跑团Replay所需演出（从最基础的角色发言到十分酷炫的 掷骰演出 ）、 无需任何编程或视频制作基础 。 黏贴Log，自动生成剧本与角色 创建角色、选择立绘、选择配音、移动位置 调整对话框 导入素材/h2] 大功告成！最后润色一下剧本，点击导出按钮就可以了！ 关于活字引擎 活字引擎是我为了帮助大家省去Replay制作过程中所有繁琐步骤（如合成配音、对轴等）从2020年开始开发的软件，活字1与活字2在前几年里都已免费发布，是国内最早的跑团Replay制作工具，在Replay制作者间以便捷性与低门槛闻名，已经有数千名制作者用活字1与活字2制作Replay并发布到B站等平台，如今与大家在steam上见面的是用了一年重新开发的活字3，在进一步降低门槛的同时极大地丰富了功能和演出效果。 爱发电链接： 活字引擎的QQ群：1132302303 （群内会发布免费预览版，遇到问题也可以在群内提问喔！）",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2124470/header.jpg?t=1664440930",
+    "Price": 11.19,
+    "Developers": "狸子Neazle",
+    "Publishers": "狸子Neazle",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2124470/ss_05f2d8ef4c79e840ae1618fdec285fc6eaa9916f.1920x1080.jpg?t=1664440930,https://cdn.akamai.steamstatic.com/steam/apps/2124470/ss_a9bfb2c44f68062b155fe75ac6864f1b7d7eb75c.1920x1080.jpg?t=1664440930,https://cdn.akamai.steamstatic.com/steam/apps/2124470/ss_e8200a13a2fa1afe00722c19747d89575b90cce0.1920x1080.jpg?t=1664440930,https://cdn.akamai.steamstatic.com/steam/apps/2124470/ss_a19b68c47876f748fe4f72f75d2251100a0b97cf.1920x1080.jpg?t=1664440930,https://cdn.akamai.steamstatic.com/steam/apps/2124470/ss_2cf00c54481e9727cefb01e75647cd924cb24356.1920x1080.jpg?t=1664440930",
+    "Slug": "",
+    "Meta Title": "活字引擎: Sep 29, 2022, 狸子Neazle and Full Overview",
+    "Meta Description": "Looking for information on 活字引擎? Check out the release date (Sep 29, 2022), developer insights from 狸子Neazle, and a complete game summary.",
+    "Alt Text Image": "Official header image for 活字引擎 game - Steam 2124470",
+    "Canonical URL": "https://gusku.site/game/",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u6d3b\\u5b57\\u5f15\\u64ce\", \"description\": \"Looking for information on \\u6d3b\\u5b57\\u5f15\\u64ce? Check out the release date (Sep 29, 2022), developer insights from \\u72f8\\u5b50Neazle, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 29, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u72f8\\u5b50Neazle\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u72f8\\u5b50Neazle\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2124470/header.jpg?t=1664440930\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.19, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2284950,
+    "Name": "SimpleClock",
+    "Release date": "Mar 4, 2023",
+    "About the game": "SimpleClock places a customizable clock onto your desktop. This is a single, small (46MB) executable which can be moved out of steam so it wont effect your Steam playtime. There are no timeservers to configure and no network connections. Syncs with your system clock. Comes with 11 fonts to choose from Customizable color and outline color Customizable font size Optionally show and format the calendar date 12 or 24 Hour Formatting Settings and positioning automatically saved to small text file in the same directory as the executable",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2284950/header.jpg?t=1677957465",
+    "Price": 0.99,
+    "Developers": "Tlalocan Gaming LLC",
+    "Publishers": "Tlalocan Gaming LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2284950/ss_10dc3aafbcdbc02aa84ccee256759b474fc5d1c1.1920x1080.jpg?t=1677957465,https://cdn.akamai.steamstatic.com/steam/apps/2284950/ss_c280e4e5a51b41ac17fe1b7b55a4a3a6145e954d.1920x1080.jpg?t=1677957465,https://cdn.akamai.steamstatic.com/steam/apps/2284950/ss_60b849ec76f5cf5d2a4532a5a2ee664973d1c48f.1920x1080.jpg?t=1677957465,https://cdn.akamai.steamstatic.com/steam/apps/2284950/ss_d7d822b06baaa1c3ce183b412f296325ce2a9915.1920x1080.jpg?t=1677957465,https://cdn.akamai.steamstatic.com/steam/apps/2284950/ss_8a812c26cdc3cfb690c97952159e8513a6da0d23.1920x1080.jpg?t=1677957465,https://cdn.akamai.steamstatic.com/steam/apps/2284950/ss_8a6eaf96055aedf28fa7497103850d34d3c30d86.1920x1080.jpg?t=1677957465",
+    "Slug": "simpleclock",
+    "Meta Title": "SimpleClock: Mar 4, 2023, Tlalocan Gaming LLC and Full Ov...",
+    "Meta Description": "Looking for information on SimpleClock? Check out the release date (Mar 4, 2023), developer insights from Tlalocan Gaming LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for SimpleClock game - Steam 2284950",
+    "Canonical URL": "https://gusku.site/game/simpleclock",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SimpleClock\", \"description\": \"Looking for information on SimpleClock? Check out the release date (Mar 4, 2023), developer insights from Tlalocan Gaming LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 4, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tlalocan Gaming LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tlalocan Gaming LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2284950/header.jpg?t=1677957465\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

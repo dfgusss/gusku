@@ -1,0 +1,21 @@
+{
+    "AppID": 725640,
+    "Name": "DUEL",
+    "Release date": "Oct 16, 2017",
+    "About the game": "This game is for controlling the robot for fun",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/725640/header.jpg?t=1637813951",
+    "Price": 1.99,
+    "Developers": "DUEL",
+    "Publishers": "DUEL",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/725640/ss_f2406f503042880f332c506c68d0c31b879152e3.1920x1080.jpg?t=1637813951,https://cdn.akamai.steamstatic.com/steam/apps/725640/ss_4bb935f0d3eea50a806304576bf88a55fcbc59c0.1920x1080.jpg?t=1637813951,https://cdn.akamai.steamstatic.com/steam/apps/725640/ss_4ae0576715aa75e99dbd65d3b36144ae65abbec1.1920x1080.jpg?t=1637813951,https://cdn.akamai.steamstatic.com/steam/apps/725640/ss_8ba38beadd302b9f5961eea67319c3fb4666088c.1920x1080.jpg?t=1637813951,https://cdn.akamai.steamstatic.com/steam/apps/725640/ss_4f3d20bebfc739412826d610c1395176f8884885.1920x1080.jpg?t=1637813951",
+    "Slug": "duel",
+    "Meta Title": "DUEL: Oct 16, 2017, DUEL and Full Overview",
+    "Meta Description": "Looking for information on DUEL? Check out the release date (Oct 16, 2017), developer insights from DUEL, and a complete game summary.",
+    "Alt Text Image": "Official header image for DUEL game - Steam 725640",
+    "Canonical URL": "https://gusku.site/game/duel",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DUEL\", \"description\": \"Looking for information on DUEL? Check out the release date (Oct 16, 2017), developer insights from DUEL, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 16, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"DUEL\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DUEL\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/725640/header.jpg?t=1637813951\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1824430,
+    "Name": "Rezonator",
+    "Release date": "Jan 3, 2022",
+    "About the game": "Rezonator provides tools for functional linguistics, with a focus on annotating and visualizing patterns of language use in naturally occurring conversation. Rezonator supports multiple types of linguistic analysis including resonance, coreference, anaphora, syntactic dependency, topic marking, search, and concordance. Rezonator provides Unicode support for any language, including right-to-left text direction. Users can import 7 different data types, including plain text, interlinear glossed text (IGT), transcription, Elan, one-word-per-line (OWPL), and CoNLL-U.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1824430/header.jpg?t=1641235300",
+    "Price": 0.0,
+    "Developers": "Rezonator Analytics, Inc.",
+    "Publishers": "Rezonator Analytics, Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1824430/ss_951557187f29a5bbbfacd26353d02ad338acfdd4.1920x1080.jpg?t=1641235300,https://cdn.akamai.steamstatic.com/steam/apps/1824430/ss_8a5ac82d234a41de3954c4ab3efc8d790b485f40.1920x1080.jpg?t=1641235300,https://cdn.akamai.steamstatic.com/steam/apps/1824430/ss_e63ad7fd3b39dbd17087daf351f45ed1ea2d9d98.1920x1080.jpg?t=1641235300,https://cdn.akamai.steamstatic.com/steam/apps/1824430/ss_776a75f91efba183af824952f85cf0708595dde1.1920x1080.jpg?t=1641235300,https://cdn.akamai.steamstatic.com/steam/apps/1824430/ss_9f506d1ad1bc7168d99f8c395580eeaecd7ebca7.1920x1080.jpg?t=1641235300",
+    "Slug": "rezonator",
+    "Meta Title": "Rezonator: Jan 3, 2022, Rezonator Analytics, Inc. and Ful...",
+    "Meta Description": "Looking for information on Rezonator? Check out the release date (Jan 3, 2022), developer insights from Rezonator Analytics, Inc., and a complete game s...",
+    "Alt Text Image": "Official header image for Rezonator game - Steam 1824430",
+    "Canonical URL": "https://gusku.site/game/rezonator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Rezonator\", \"description\": \"Looking for information on Rezonator? Check out the release date (Jan 3, 2022), developer insights from Rezonator Analytics, Inc., and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 3, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rezonator Analytics, Inc.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rezonator Analytics, Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1824430/header.jpg?t=1641235300\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2120750,
+    "Name": "The First Step",
+    "Release date": "Sep 21, 2022",
+    "About the game": "I want to start off by mentioning that this project is a learning project for me. I am trying to learn how to use Unreal Engine, and for this purpose I have created this game. It is a very simple item collection game. And only has 2 levels. The entire game can be completed in a few minutes. Still, I have tried to make the levels interesting enough to explore for a bit. As well as added a timer, so you can try to find the quickest ways to complete the levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2120750/header.jpg?t=1663743829",
+    "Price": 0.0,
+    "Developers": "Nifty Red Panda",
+    "Publishers": "Nifty Red Panda",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2120750/ss_2c7d15646ff44a6dc062c07b062ad38ed665541c.1920x1080.jpg?t=1663743829,https://cdn.akamai.steamstatic.com/steam/apps/2120750/ss_1d967b2a0d98e509be5b2c777a380ca562777326.1920x1080.jpg?t=1663743829,https://cdn.akamai.steamstatic.com/steam/apps/2120750/ss_1e9e7a7d18d4459487365a796e8174359dadb9c5.1920x1080.jpg?t=1663743829,https://cdn.akamai.steamstatic.com/steam/apps/2120750/ss_9dfd6e9afb0b5270bb894ab705cc9035b1e7d517.1920x1080.jpg?t=1663743829,https://cdn.akamai.steamstatic.com/steam/apps/2120750/ss_e63f8218302c12c318615a24d3d499436942da7b.1920x1080.jpg?t=1663743829,https://cdn.akamai.steamstatic.com/steam/apps/2120750/ss_f203309f4a063bc183c07cd2e1ac30b72a619fd1.1920x1080.jpg?t=1663743829",
+    "Slug": "the-first-step",
+    "Meta Title": "The First Step: Sep 21, 2022, Nifty Red Panda and Full Ov...",
+    "Meta Description": "Looking for information on The First Step? Check out the release date (Sep 21, 2022), developer insights from Nifty Red Panda, and a complete game summary.",
+    "Alt Text Image": "Official header image for The First Step game - Steam 2120750",
+    "Canonical URL": "https://gusku.site/game/the-first-step",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The First Step\", \"description\": \"Looking for information on The First Step? Check out the release date (Sep 21, 2022), developer insights from Nifty Red Panda, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nifty Red Panda\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nifty Red Panda\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2120750/header.jpg?t=1663743829\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

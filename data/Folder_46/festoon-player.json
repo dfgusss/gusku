@@ -1,0 +1,21 @@
+{
+    "AppID": 1393010,
+    "Name": "Festoon Player",
+    "Release date": "Oct 7, 2020",
+    "About the game": "Festoon Player  For 360 media enthusiasts, Fulldome Distributors, Exhibitors and Festival Curators.   Playback existing fulldome content in a virtual dome from any video or still image format (PNG,JPG). Includes four pre-set virtual environments (standard dome, flat dome, cinema, equirectangular). Playback of Mono, Stereo (Over Under) and Stereo (Side by Side). Both VR and none VR support provided with anaglyph options for desktop stereo footage. Media Support Media Foundation Media Foundation offers good support for most video formats. It comes as standard on both Windows 8 and 10. DirectShow If the video format you wish to use isn't support by Media Foundation then Directshow support is also offered allowing you to install any codecs needed for your media. Image Support Festoon Player image support includes PNG and JPG formats.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1393010/header.jpg?t=1602085133",
+    "Price": 15.99,
+    "Developers": "phileday@yahoo.co.uk",
+    "Publishers": "Arcus Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1393010/ss_254cf4559a7b0802a7350dded2ef5cbf6a7e781e.1920x1080.jpg?t=1602085133,https://cdn.akamai.steamstatic.com/steam/apps/1393010/ss_7cd1d6cc8ca67079a6d2d2d682f1dd32bc2a628d.1920x1080.jpg?t=1602085133,https://cdn.akamai.steamstatic.com/steam/apps/1393010/ss_084a35406c442dea7df1d662de9aa8a8b7940b68.1920x1080.jpg?t=1602085133,https://cdn.akamai.steamstatic.com/steam/apps/1393010/ss_17586a7d1d3495c43242d839d9ceb4be522031d2.1920x1080.jpg?t=1602085133,https://cdn.akamai.steamstatic.com/steam/apps/1393010/ss_8721d07bdf8c6c3fa170729086a0adfbfba02800.1920x1080.jpg?t=1602085133",
+    "Slug": "festoon-player",
+    "Meta Title": "Festoon Player: Oct 7, 2020, phileday@yahoo.co.uk and Ful...",
+    "Meta Description": "Looking for information on Festoon Player? Check out the release date (Oct 7, 2020), developer insights from phileday@yahoo.co.uk, and a complete game s...",
+    "Alt Text Image": "Official header image for Festoon Player game - Steam 1393010",
+    "Canonical URL": "https://gusku.site/game/festoon-player",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Festoon Player\", \"description\": \"Looking for information on Festoon Player? Check out the release date (Oct 7, 2020), developer insights from phileday@yahoo.co.uk, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 7, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"phileday@yahoo.co.uk\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Arcus Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1393010/header.jpg?t=1602085133\", \"offers\": {\"@type\": \"Offer\", \"price\": 15.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

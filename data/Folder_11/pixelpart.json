@@ -1,0 +1,21 @@
+{
+    "AppID": 1734820,
+    "Name": "Pixelpart",
+    "Release date": "Jan 4, 2022",
+    "About the game": "Create visual effects in this particle-based editor! Import the effects into your favorite game engine and fill your game world with colorful animations by rendering them to sprite sheets , image sequences and videos or using the runtime plugins for common game engines. Unity Engine (Unity 2017+) Godot Engine (Godot 3.3+) Download: -m.itch.io/pixelpart",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1734820/header.jpg?t=1652443269",
+    "Price": 15.99,
+    "Developers": "Sören Möllers",
+    "Publishers": "Sören Möllers",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1734820/ss_d1c2019acc264a5e010e052d3e9ec60be180450b.1920x1080.jpg?t=1652443269,https://cdn.akamai.steamstatic.com/steam/apps/1734820/ss_4111a1f2917590a5d34d51fad86151482fe194bb.1920x1080.jpg?t=1652443269,https://cdn.akamai.steamstatic.com/steam/apps/1734820/ss_0deacee6d8a47d26cbb4053779ccb97ed8d91bfe.1920x1080.jpg?t=1652443269,https://cdn.akamai.steamstatic.com/steam/apps/1734820/ss_35abddee503dab1088e6be80a01e46c906d83bc8.1920x1080.jpg?t=1652443269,https://cdn.akamai.steamstatic.com/steam/apps/1734820/ss_b672a3031a0d4e789798c880f7220c2bec9c11db.1920x1080.jpg?t=1652443269",
+    "Slug": "pixelpart",
+    "Meta Title": "Pixelpart: Jan 4, 2022, Sören Möllers and Full Overview",
+    "Meta Description": "Looking for information on Pixelpart? Check out the release date (Jan 4, 2022), developer insights from Sören Möllers, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixelpart game - Steam 1734820",
+    "Canonical URL": "https://gusku.site/game/pixelpart",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixelpart\", \"description\": \"Looking for information on Pixelpart? Check out the release date (Jan 4, 2022), developer insights from S\\u00f6ren M\\u00f6llers, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 4, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"S\\u00f6ren M\\u00f6llers\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"S\\u00f6ren M\\u00f6llers\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1734820/header.jpg?t=1652443269\", \"offers\": {\"@type\": \"Offer\", \"price\": 15.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

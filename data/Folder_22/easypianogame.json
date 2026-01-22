@@ -1,0 +1,21 @@
+{
+    "AppID": 1126220,
+    "Name": "EasyPianoGame",
+    "Release date": "Oct 3, 2019",
+    "About the game": "A rhythm game that allows you to play any song on the piano in different ways. EasyPianoGame uses MIDI files. Songs in MIDI files are very common and you can easily find the one you need. At the moment, the game has 2 game modes: Falling Notes mode This mode uses MIDI files to auto-generate a large number of note patterns with various customizable difficulties and numbers of keys. Notes fall from top to bottom and the player will have to press the correct key for that specific note in time. Сustomize the difficulty to suit your skills. Play in 4 - 5 - 6 - 7 - 8 - 9 - 10 key modes. EasyPiano mode This mode uses a simple musical notation that anyone can figure out. Start playing your favorite piano songs by sheet music using just 8 PC keyboard keys. Play in a unique way - Play the piano fully in a simple and convenient way, using only 8 keys of the PC keyboard instead of 88. In order to play your favorite melody, you don’t need to think and remember which key to press. Leave it to the computer – press any key. Learn to play notes - EasyPianoGame uses an original interface based on standard musical notation, only without the pitch of notes. This allows you to understand the reading of notes in just a couple of minutes. Make sure to join our Discord to follow and take part in the game's development progress!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1126220/header.jpg?t=1604903991",
+    "Price": 5.99,
+    "Developers": "EVT Games",
+    "Publishers": "EVT Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1126220/ss_90fddebe60f95349d4e31a9283400a8b0493bff4.1920x1080.jpg?t=1604903991,https://cdn.akamai.steamstatic.com/steam/apps/1126220/ss_64b8ec087a75cb67dcbd96a186c98337ad724068.1920x1080.jpg?t=1604903991,https://cdn.akamai.steamstatic.com/steam/apps/1126220/ss_f60cfed0c2e649a3447c98b98b437d56b7d8d639.1920x1080.jpg?t=1604903991,https://cdn.akamai.steamstatic.com/steam/apps/1126220/ss_197d1be82c3c644b37caa1871866c8ed0105a9de.1920x1080.jpg?t=1604903991,https://cdn.akamai.steamstatic.com/steam/apps/1126220/ss_39f9e1cd29f25f0b69d3fd6a8de29c09e351ee20.1920x1080.jpg?t=1604903991,https://cdn.akamai.steamstatic.com/steam/apps/1126220/ss_4e5ceb5ca5163a2ce2ee6467ba27f4c79dc10013.1920x1080.jpg?t=1604903991,https://cdn.akamai.steamstatic.com/steam/apps/1126220/ss_f375480ad889ebdc3f21416d37618cd4ca196fb0.1920x1080.jpg?t=1604903991,https://cdn.akamai.steamstatic.com/steam/apps/1126220/ss_274a119d310e83c94169abca185a8d0e001cd7fc.1920x1080.jpg?t=1604903991",
+    "Slug": "easypianogame",
+    "Meta Title": "EasyPianoGame: Oct 3, 2019, EVT Games and Full Overview",
+    "Meta Description": "Looking for information on EasyPianoGame? Check out the release date (Oct 3, 2019), developer insights from EVT Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for EasyPianoGame game - Steam 1126220",
+    "Canonical URL": "https://gusku.site/game/easypianogame",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"EasyPianoGame\", \"description\": \"Looking for information on EasyPianoGame? Check out the release date (Oct 3, 2019), developer insights from EVT Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 3, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"EVT Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"EVT Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1126220/header.jpg?t=1604903991\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

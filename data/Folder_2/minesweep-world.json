@@ -1,0 +1,21 @@
+{
+    "AppID": 1129200,
+    "Name": "Minesweep World",
+    "Release date": "Oct 7, 2019",
+    "About the game": "Minesweep World Find the hidden bombs by opening cells that may or not contain a bomb. If there are bombs around you'll see the number of boms that are surrounding the current cell. Features Early access version has: - Board configuration up to 60x60 boards. - Easy, Standard, Difficult board autoconfig buttons. - 6 different backgrounds. - Complete loop to enjoy the game, you can fully play the core gameplay. Comming soon - Local Leaderboards. - Bigger boards. - 4 additional backgrounds. - If community asks for interesting game modes or features I'll do my best to include too. - Additional localisations.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1129200/header.jpg?t=1570475228",
+    "Price": 1.99,
+    "Developers": "Rainbirth SL",
+    "Publishers": "Rainbirth SL",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1129200/ss_4554dfed46f9b9ce8986318804179fafd2ecb765.1920x1080.jpg?t=1570475228,https://cdn.akamai.steamstatic.com/steam/apps/1129200/ss_f2715f0b1fe4d2e04e437ffb2b6c7ac3e0875a69.1920x1080.jpg?t=1570475228,https://cdn.akamai.steamstatic.com/steam/apps/1129200/ss_0c656314678fcbf73d51ef958665c479e647abe0.1920x1080.jpg?t=1570475228,https://cdn.akamai.steamstatic.com/steam/apps/1129200/ss_7c6f455612b6f522138c368493bef6ca197481d8.1920x1080.jpg?t=1570475228,https://cdn.akamai.steamstatic.com/steam/apps/1129200/ss_0b4574856c460c10e561bd4707526f35d6c80749.1920x1080.jpg?t=1570475228,https://cdn.akamai.steamstatic.com/steam/apps/1129200/ss_1e3576c7e5d994ed95ae6c26dfd27636693d6b64.1920x1080.jpg?t=1570475228",
+    "Slug": "minesweep-world",
+    "Meta Title": "Minesweep World: Oct 7, 2019, Rainbirth SL and Full Overview",
+    "Meta Description": "Looking for information on Minesweep World? Check out the release date (Oct 7, 2019), developer insights from Rainbirth SL, and a complete game summary.",
+    "Alt Text Image": "Official header image for Minesweep World game - Steam 1129200",
+    "Canonical URL": "https://gusku.site/game/minesweep-world",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Minesweep World\", \"description\": \"Looking for information on Minesweep World? Check out the release date (Oct 7, 2019), developer insights from Rainbirth SL, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 7, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rainbirth SL\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rainbirth SL\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1129200/header.jpg?t=1570475228\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

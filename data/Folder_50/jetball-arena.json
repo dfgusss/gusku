@@ -1,0 +1,21 @@
+{
+    "AppID": 1008890,
+    "Name": "JetBall Arena",
+    "Release date": "May 14, 2019",
+    "About the game": "In this futuristic sports game you can use your jetpack to fly around and try to score points by scoring goals. Each goal area varies in size with smaller goals worth more points. JetBall is set a few hundred years in the future where space travel is commonplace, and humankind has spread out across a large section of the Milky Way. The sport has become popular throughout various solar systems, with arenas created by generating force fields of varying shapes and sizes. How to play Use your jetpack to fly around each arena, and control your speed using the thrust button. Each player can capture the ball by using their tractor beam, or try to dislodge the ball from another player by firing their weapon. If the ball has been captured the player can fire the ball at a target by releasing it from the tractor beam. The player can also score by ramming the ball, or hitting it with a weapon (propelling the ball into a goal area). Players can also try to dislodge the ball by colliding with another player (if they have captured the ball ). Controls Each player can use the keyboard to control their jetpack, but a gamepad is strongly recommended . Players The game supports 1 or 2 players. A single player game allows a human player to compete against 3 AI opponents. A multi-player game allows 2 human player to compete against 2 AI opponents via local split-screen.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1008890/header.jpg?t=1557872651",
+    "Price": 1.99,
+    "Developers": "B Rees",
+    "Publishers": "B Rees",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1008890/ss_b42b7d865c4982cb52dae3bf9dd177368770f661.1920x1080.jpg?t=1557872651,https://cdn.akamai.steamstatic.com/steam/apps/1008890/ss_23d68c3c08a6f80449a4c410a79f069de6956d95.1920x1080.jpg?t=1557872651,https://cdn.akamai.steamstatic.com/steam/apps/1008890/ss_1b85ed982857b14740f2c5e3eeab5d9b7aa9be22.1920x1080.jpg?t=1557872651,https://cdn.akamai.steamstatic.com/steam/apps/1008890/ss_8c8c27ee2f9c20e8aaef2e03a2905768b8b0994d.1920x1080.jpg?t=1557872651,https://cdn.akamai.steamstatic.com/steam/apps/1008890/ss_cae7db9ccc228032a761a45617a76fb139c8e614.1920x1080.jpg?t=1557872651",
+    "Slug": "jetball-arena",
+    "Meta Title": "JetBall Arena: May 14, 2019, B Rees and Full Overview",
+    "Meta Description": "Looking for information on JetBall Arena? Check out the release date (May 14, 2019), developer insights from B Rees, and a complete game summary.",
+    "Alt Text Image": "Official header image for JetBall Arena game - Steam 1008890",
+    "Canonical URL": "https://gusku.site/game/jetball-arena",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"JetBall Arena\", \"description\": \"Looking for information on JetBall Arena? Check out the release date (May 14, 2019), developer insights from B Rees, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 14, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"B Rees\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"B Rees\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1008890/header.jpg?t=1557872651\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

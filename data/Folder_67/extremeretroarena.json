@@ -1,0 +1,21 @@
+{
+    "AppID": 776880,
+    "Name": "ExtremeRetroArena",
+    "Release date": "Dec 8, 2022",
+    "About the game": "ExtremeRetroArena is a classic arcade style shoot 'em up where you must fly around and use spells to avoid contact with enemy spacecraft. There are multiple different map sizes to choose from, making it much harder on the smaller sizes. In order to avoid the enemies crashing into you, four different spells exist, which allows you to destroy the enemies and stop them from building up to a critical mass. The game uses a modernized and stylized version of classic arcade graphics and effects to give the look and feel of old school arcade games. Spells Immiediatley create a large explosion at your location, instantly killing all enemies within it. First create an electro-magnetic pulse at your location, killing enemies instantly. Second, leave behind a bomb on the ground which will emmit another electro-magnetic pulse after 3 seconds. Instantly teleport to your current cursor location, destroying nearby enemies as you arrive. Remove all spell cooldowns for 10 seconds. Enemy Types A slow moving spacecraft. A fast moving spacraft. A fast moving spacecraft that will dash quickly at your ship once it gets in range. A very fast moving spacecraft that turns into a bomb once it gets close to the player. The bomb detonates after 3 seconds, killing you if you are too close. An extremely fast moving Spacecraft that must be killed very quickly. Map sizes are Large, Medium and Small. The small map is significantly more difficult than the large map, so it's advised that you start off by playing the large map first. Once you can survive for a decent amount of time, then progress onto the smaller maps.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/776880/header.jpg?t=1670543640",
+    "Price": 2.39,
+    "Developers": "Primrose Taylor",
+    "Publishers": "NoxxProjects",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/776880/ss_c2d9ff22fcfa284ad1530c9b4cd2b9362d11248b.1920x1080.jpg?t=1670543640,https://cdn.akamai.steamstatic.com/steam/apps/776880/ss_a3ba1271140d5174fe7a20537390d0ff52ce5cbf.1920x1080.jpg?t=1670543640,https://cdn.akamai.steamstatic.com/steam/apps/776880/ss_219a48fe2d85358ea4eee4b0ade85d665bac82ab.1920x1080.jpg?t=1670543640,https://cdn.akamai.steamstatic.com/steam/apps/776880/ss_2c9587dc19d1a1d8d1da39d20630f73c2c304b38.1920x1080.jpg?t=1670543640,https://cdn.akamai.steamstatic.com/steam/apps/776880/ss_894e62d8d119e41be80baccb30b9a1f39567aec2.1920x1080.jpg?t=1670543640",
+    "Slug": "extremeretroarena",
+    "Meta Title": "ExtremeRetroArena: Dec 8, 2022, Primrose Taylor and Full ...",
+    "Meta Description": "Looking for information on ExtremeRetroArena? Check out the release date (Dec 8, 2022), developer insights from Primrose Taylor, and a complete game sum...",
+    "Alt Text Image": "Official header image for ExtremeRetroArena game - Steam 776880",
+    "Canonical URL": "https://gusku.site/game/extremeretroarena",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ExtremeRetroArena\", \"description\": \"Looking for information on ExtremeRetroArena? Check out the release date (Dec 8, 2022), developer insights from Primrose Taylor, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 8, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Primrose Taylor\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"NoxxProjects\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/776880/header.jpg?t=1670543640\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

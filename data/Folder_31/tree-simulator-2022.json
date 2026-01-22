@@ -1,0 +1,21 @@
+{
+    "AppID": 1591290,
+    "Name": "Tree Simulator 2022",
+    "Release date": "Apr 16, 2021",
+    "About the game": "Tree! You're a tree! Be the best tree you can be. Embrace the forest and discover what it means to truly be a tree. A true work of art. Enjoy customizable settings and more (what could that mean?)! Now with multiplayer! Be the best forest you can be! Invite up to 100 of your closest trees to join your forest. For transparency, multiplayer is tested with 4 trees, but it should support up to 100. Trees 5 and 6 are rocks. Trees 1-4 and 7-100 are normal trees. There is no built in text or voice chat. It is recommended that Discord or Steam chat be used. Tree discord Multiplayer steps Host tree presses [Esc] on the keyboard Host tree clicks 'Invite trees' Host tree uses invite dialog to invite other trees Other trees start Tree Simulator 2022 Other trees press [Shift]+[Tab] to activate the Steam overlay Other trees click 'Play Game' in the Steam chat window Note: 'Invite to game' and 'Join game' from the Steam overlay will only work after a host tree clicks 'Invite trees' from the in game menu. Questions about multiplayer? Controls A D: Rotate view W S: Zoom Escape: Menu / Settings Have feedback or ideas?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1591290/header.jpg?t=1635813639",
+    "Price": 2.99,
+    "Developers": "Revmatek",
+    "Publishers": "Revmatek",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1591290/ss_614537d3af2588f0cb84600b9d26e3e6a1fbede2.1920x1080.jpg?t=1635813639,https://cdn.akamai.steamstatic.com/steam/apps/1591290/ss_271a4df0dab7518b201c67054827b794797685ab.1920x1080.jpg?t=1635813639,https://cdn.akamai.steamstatic.com/steam/apps/1591290/ss_886eddd39c5e5b23dcde1115665f61afd0a8ca07.1920x1080.jpg?t=1635813639,https://cdn.akamai.steamstatic.com/steam/apps/1591290/ss_a7c9bf1fa380b76c66de3907b277f3b86336fcb9.1920x1080.jpg?t=1635813639,https://cdn.akamai.steamstatic.com/steam/apps/1591290/ss_e6a90ff1e24f34e2b3beca43895f02b75c35c7f3.1920x1080.jpg?t=1635813639",
+    "Slug": "tree-simulator-2022",
+    "Meta Title": "Tree Simulator 2022: Apr 16, 2021, Revmatek and Full Over...",
+    "Meta Description": "Looking for information on Tree Simulator 2022? Check out the release date (Apr 16, 2021), developer insights from Revmatek, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tree Simulator 2022 game - Steam 1591290",
+    "Canonical URL": "https://gusku.site/game/tree-simulator-2022",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tree Simulator 2022\", \"description\": \"Looking for information on Tree Simulator 2022? Check out the release date (Apr 16, 2021), developer insights from Revmatek, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 16, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Revmatek\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Revmatek\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1591290/header.jpg?t=1635813639\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 807570,
+    "Name": "Volotic",
+    "Release date": "Mar 9, 2018",
+    "About the game": "Volotic is an experimental nonlinear sequencer by artist Scott Garner. What does that even mean? It means a fun way to create songs for everyone, with no musical experience required. In Volotic, you compose a song by arranging a selection of 'towers' on a grid. Each tower has a different function for creating beats, modifying beats or triggering instruments.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/807570/header.jpg?t=1520659337",
+    "Price": 9.99,
+    "Developers": "Scott Garner",
+    "Publishers": "Scott Garner",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/807570/ss_0ded17e25f4b2776f2dbcf592a5bfb1f01bcb975.1920x1080.jpg?t=1520659337,https://cdn.akamai.steamstatic.com/steam/apps/807570/ss_a6e17afd6e44d2e23ec5f4dfd6349812e24aed26.1920x1080.jpg?t=1520659337,https://cdn.akamai.steamstatic.com/steam/apps/807570/ss_608bd1f93be9068152938c50834d5545cf2da76b.1920x1080.jpg?t=1520659337,https://cdn.akamai.steamstatic.com/steam/apps/807570/ss_a596718a008ef6b70d7ebaeed146deb384335b62.1920x1080.jpg?t=1520659337,https://cdn.akamai.steamstatic.com/steam/apps/807570/ss_df071ba215992e5f695db25143ac2ce36298ef6f.1920x1080.jpg?t=1520659337",
+    "Slug": "volotic",
+    "Meta Title": "Volotic: Mar 9, 2018, Scott Garner and Full Overview",
+    "Meta Description": "Looking for information on Volotic? Check out the release date (Mar 9, 2018), developer insights from Scott Garner, and a complete game summary.",
+    "Alt Text Image": "Official header image for Volotic game - Steam 807570",
+    "Canonical URL": "https://gusku.site/game/volotic",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Volotic\", \"description\": \"Looking for information on Volotic? Check out the release date (Mar 9, 2018), developer insights from Scott Garner, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 9, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Scott Garner\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Scott Garner\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/807570/header.jpg?t=1520659337\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

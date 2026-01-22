@@ -1,0 +1,21 @@
+{
+    "AppID": 1337080,
+    "Name": "Blockicker",
+    "Release date": "Jun 17, 2020",
+    "About the game": "Blockicker is a game where a young boy falls into a cave containing many block puzzles, and need to solve them to get out of it! The difference of Blockicker to many other games is that our hero needs to kick blocks of several shapes, and the difficulty of the game increases in each level!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1337080/header.jpg?t=1592430587",
+    "Price": 1.99,
+    "Developers": "Daniel Noronha,Gabriel Noronha",
+    "Publishers": "Drink Cash",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1337080/ss_3d3a4b429e3ef992cf66c8c86447a3630b0def57.1920x1080.jpg?t=1592430587,https://cdn.akamai.steamstatic.com/steam/apps/1337080/ss_1315c04bfbadcc8676b1f97d3071aa137890d14c.1920x1080.jpg?t=1592430587,https://cdn.akamai.steamstatic.com/steam/apps/1337080/ss_f566bc14a12dc872e7ac022ad81f1801bb6eff71.1920x1080.jpg?t=1592430587,https://cdn.akamai.steamstatic.com/steam/apps/1337080/ss_8b0114e4e87d974eb06ce222e0aba210295ecdcd.1920x1080.jpg?t=1592430587,https://cdn.akamai.steamstatic.com/steam/apps/1337080/ss_da0b885b47168e376dba1cbdf3f30e1f009904e4.1920x1080.jpg?t=1592430587",
+    "Slug": "blockicker",
+    "Meta Title": "Blockicker: Jun 17, 2020, Daniel Noronha,Gabriel Noronha ...",
+    "Meta Description": "Looking for information on Blockicker? Check out the release date (Jun 17, 2020), developer insights from Daniel Noronha,Gabriel Noronha, and a complete...",
+    "Alt Text Image": "Official header image for Blockicker game - Steam 1337080",
+    "Canonical URL": "https://gusku.site/game/blockicker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Blockicker\", \"description\": \"Looking for information on Blockicker? Check out the release date (Jun 17, 2020), developer insights from Daniel Noronha,Gabriel Noronha, and a complete...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 17, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Daniel Noronha,Gabriel Noronha\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Drink Cash\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1337080/header.jpg?t=1592430587\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 793570,
+    "Name": "Trenchfoot",
+    "Release date": "Feb 6, 2021",
+    "About the game": "Trenchfoot is just good clean local multiplayer fun for up to 16 friends. If you enjoy old-school multiplayer games like Bomberman, you're going to love Trenchfoot! Included in the current build of Trenchfoot is: Support for up to 16 local players 9 powerups and items Players can place blocks. Blocks add a defensive aspect to the game. Blocks will stop explosions from spreading and can be used to shape dymanic ones. Flood explosions, these explosions will fill the space available to them. They flood around corners, scurry through bottlenecks and expand into open spaces. Players place tiles during the gameplay modifying the level Destroyable blocks are the standard destroyable blocks players can place these. They create temporary barriers, and also continue to add powerups during gameplay. Water tiles are a player placeable tiles that stop explosions from spreading, but do not hinder player movement Pipe tiles are a player placeable tile that funnel explosions and players through them. If an explosion gets into a pipe it will be directed through it until it exits. Once it exits it will continue to expand again until its magnitude is expended. Smaller maps built to support as few as 2 players with larger ones available for up to 16 players. The game now has music! It's a sweet upbeat happy tune made by a talented artist named Nom. Trenchfoot is a local multiplayer only game. There is no single content in the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/793570/header.jpg?t=1612936536",
+    "Price": 9.99,
+    "Developers": "Cocompadres",
+    "Publishers": "Cocompadres",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/793570/ss_4a5c25ac81b24b57a23722c32c825878e579b09b.1920x1080.jpg?t=1612936536,https://cdn.akamai.steamstatic.com/steam/apps/793570/ss_673e02b7ec7dee00d61d5c3608ac7b3d1cbd3e74.1920x1080.jpg?t=1612936536",
+    "Slug": "trenchfoot",
+    "Meta Title": "Trenchfoot: Feb 6, 2021, Cocompadres and Full Overview",
+    "Meta Description": "Looking for information on Trenchfoot? Check out the release date (Feb 6, 2021), developer insights from Cocompadres, and a complete game summary.",
+    "Alt Text Image": "Official header image for Trenchfoot game - Steam 793570",
+    "Canonical URL": "https://gusku.site/game/trenchfoot",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Trenchfoot\", \"description\": \"Looking for information on Trenchfoot? Check out the release date (Feb 6, 2021), developer insights from Cocompadres, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 6, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cocompadres\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cocompadres\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/793570/header.jpg?t=1612936536\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

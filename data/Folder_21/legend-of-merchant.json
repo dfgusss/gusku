@@ -1,0 +1,21 @@
+{
+    "AppID": 543140,
+    "Name": "Legend of Merchant",
+    "Release date": "Dec 16, 2016",
+    "About the game": "This is a personal made game, I did all the programming and made most textures. It won't have amazing game play or some deep thoughts but completeness and a bit of fun. It would be great for me if someone like the game. PS: Thanks to Arcadia for translation of in game text and steam store page. ----------------------------------------------------------------------- Provide auto-saving at the end of each day, you can continue playing by clicking 'continue' button. But there's only one slot, when you start new game, old profile would be cover-written. ----------------------------------------------------------------------- Hotkey: 1. Use 'Max' button to set the max buy in quantity of current item conveniently. 2. Use 'Q' or right click to close current panel. 3. Use 'A' and 'D' to control item number. 4. Use 'W' and 'S' to control the right scroll bar. 5. Use 'E' to return home| anytime. 6. Use 'F' to show bulletin board. Game Tips: 1.Make more money in limited days. 2.Item price will only change after one day passed. 3.Each item will have a random top and bottom price cap. These two values won't change in one play through. 4.Hoarding an item will cause its price increase. Notice that events also affect price. So it might not increase. 5.Dumping an item will cause its price decrease. Similarly it's not guaranteed. 6.Lower price is very likely to cause stronger rebound. 7.If not affected by former rules , Price move direction is a 50/50. 8.Higher base price, higher variation. It's all based on percentage. It's just a mini-game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/543140/header.jpg?t=1618472964",
+    "Price": 1.79,
+    "Developers": "疯王子",
+    "Publishers": "CrazyPrince",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/543140/ss_8fe35c64964ac984f78cd4db68d048e3a9dc4aa7.1920x1080.jpg?t=1618472964,https://cdn.akamai.steamstatic.com/steam/apps/543140/ss_b11d75f7a74795d059a7b41f71d9b90bee7ff16a.1920x1080.jpg?t=1618472964,https://cdn.akamai.steamstatic.com/steam/apps/543140/ss_c812bb64813ad1d3df6bf285ff74ec511c64f0ec.1920x1080.jpg?t=1618472964,https://cdn.akamai.steamstatic.com/steam/apps/543140/ss_17c97dce9dfbc752bcaf228200e37b5ae5551770.1920x1080.jpg?t=1618472964,https://cdn.akamai.steamstatic.com/steam/apps/543140/ss_b4335d924e1f32f539d25e265ac312868606e174.1920x1080.jpg?t=1618472964,https://cdn.akamai.steamstatic.com/steam/apps/543140/ss_5faffe85f357e7845448709201bbc37049bb4ca5.1920x1080.jpg?t=1618472964,https://cdn.akamai.steamstatic.com/steam/apps/543140/ss_400fb199048bf7e32220d402d5c5e743e8eb9490.1920x1080.jpg?t=1618472964",
+    "Slug": "legend-of-merchant",
+    "Meta Title": "Legend of Merchant: Dec 16, 2016, 疯王子 and Full Overview",
+    "Meta Description": "Looking for information on Legend of Merchant? Check out the release date (Dec 16, 2016), developer insights from 疯王子, and a complete game summary.",
+    "Alt Text Image": "Official header image for Legend of Merchant game - Steam 543140",
+    "Canonical URL": "https://gusku.site/game/legend-of-merchant",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Legend of Merchant\", \"description\": \"Looking for information on Legend of Merchant? Check out the release date (Dec 16, 2016), developer insights from \\u75af\\u738b\\u5b50, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 16, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u75af\\u738b\\u5b50\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CrazyPrince\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/543140/header.jpg?t=1618472964\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.79, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

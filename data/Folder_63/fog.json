@@ -1,0 +1,21 @@
+{
+    "AppID": 2010240,
+    "Name": "FOG",
+    "Release date": "Aug 12, 2022",
+    "About the game": "Your new indie rouge-lite addiction. Battle through the nine levels of hell in a psychedelic watercolor painted world. Unleash your creativity to create a character build that will take you all the way to the gates of heaven. Pick one of nine weapons, pick one of three spells, and pick one of five elemental damage types. When you die and go back to the first level, come back stronger with the gear and experience points you earn. Even if you win once, there are always new character builds to try and gear to optimize. New weapons and spells coming soon!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2010240/header.jpg?t=1660347301",
+    "Price": 2.99,
+    "Developers": "Happy Art Club",
+    "Publishers": "Happy Art Club",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2010240/ss_35476d01887e9f734e2bf216a1eddfdaeef45b3c.1920x1080.jpg?t=1660347301,https://cdn.akamai.steamstatic.com/steam/apps/2010240/ss_9d1d725be68afa05d7cfad137c961e0192593385.1920x1080.jpg?t=1660347301,https://cdn.akamai.steamstatic.com/steam/apps/2010240/ss_152952698e1e3d5785bf292354be4787991106d6.1920x1080.jpg?t=1660347301,https://cdn.akamai.steamstatic.com/steam/apps/2010240/ss_2645a4f564a1a981f6eda843b1ca5d569eef52c3.1920x1080.jpg?t=1660347301,https://cdn.akamai.steamstatic.com/steam/apps/2010240/ss_8dc2d9290cd8715249712d2e2e5b9c1c7b886c59.1920x1080.jpg?t=1660347301,https://cdn.akamai.steamstatic.com/steam/apps/2010240/ss_913e5ca2a9a7af5a0f4d03714c569782abf67f7c.1920x1080.jpg?t=1660347301",
+    "Slug": "fog",
+    "Meta Title": "FOG: Aug 12, 2022, Happy Art Club and Full Overview",
+    "Meta Description": "Looking for information on FOG? Check out the release date (Aug 12, 2022), developer insights from Happy Art Club, and a complete game summary.",
+    "Alt Text Image": "Official header image for FOG game - Steam 2010240",
+    "Canonical URL": "https://gusku.site/game/fog",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FOG\", \"description\": \"Looking for information on FOG? Check out the release date (Aug 12, 2022), developer insights from Happy Art Club, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Happy Art Club\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Happy Art Club\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2010240/header.jpg?t=1660347301\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

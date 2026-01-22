@@ -1,0 +1,21 @@
+{
+    "AppID": 264420,
+    "Name": "Comicado",
+    "Release date": "Jan 21, 2014",
+    "About the game": "Comicado is an easy and lightweight graphic application for creating comics and other illustration works. It combines many standard elements of digital illustration (layers, editable brushes...) with some new concepts like panels based artwork composition, which allows creation of editable comic layouts. Comicado provides tools and artwork elements for various phases of comic creation, from sketching to inking and coloring. Its flexible brush engine is well suited for drawing and painting. Main Features Panels - base artwork containers, which can be moved and transformed independently of each other. Layers - drawing and painting surfaces with standard features such as opacity, blending, masking and clipping. Perspectives and Poses - special elements, which help in the artwork creation process. Rulers - flexible rulers for drawing straight lines, curves and ellipses. Straight line modes - quick drawing of constrained straight lines including the perspective constrained lines. Brushes - customizable brushes for drawing and painting. Color fill tools - fill tool, bucket tool and gradient tool. Selections - layer selections with standard tools like lasso and magic wand. Splines - vector lines for precise line art, suitable for creation of comic balloons. Transformations - moving, scaling, rotation and other operations for panels, helper elements, bitmap layers and splines. Text - bitmap text. Board texture - texture of the board surface as an adjustable property of the layer PSD support",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/264420/header.jpg?t=1447359443",
+    "Price": 4.99,
+    "Developers": "Jugilus",
+    "Publishers": "Jugilus",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/264420/ss_0b39636718a9cb190f52268a29db2dd09aa2b8f2.1920x1080.jpg?t=1447359443,https://cdn.akamai.steamstatic.com/steam/apps/264420/ss_b2b83db7c9dfdb3ff41c86ec194cc385cded9e28.1920x1080.jpg?t=1447359443,https://cdn.akamai.steamstatic.com/steam/apps/264420/ss_e008af5606d57abeb3eff034ed1df9ea9771eafd.1920x1080.jpg?t=1447359443,https://cdn.akamai.steamstatic.com/steam/apps/264420/ss_fbeae49950f8fc643a194037ddadee718e96e876.1920x1080.jpg?t=1447359443,https://cdn.akamai.steamstatic.com/steam/apps/264420/ss_d7d681253753063cc720a13b735e6037b1a7399b.1920x1080.jpg?t=1447359443,https://cdn.akamai.steamstatic.com/steam/apps/264420/ss_a84d0edc5d48a1cab692f660e60e7e2f5da13c59.1920x1080.jpg?t=1447359443,https://cdn.akamai.steamstatic.com/steam/apps/264420/ss_69b89876d4747d325526460459d6af5d23734d7a.1920x1080.jpg?t=1447359443",
+    "Slug": "comicado",
+    "Meta Title": "Comicado: Jan 21, 2014, Jugilus and Full Overview",
+    "Meta Description": "Looking for information on Comicado? Check out the release date (Jan 21, 2014), developer insights from Jugilus, and a complete game summary.",
+    "Alt Text Image": "Official header image for Comicado game - Steam 264420",
+    "Canonical URL": "https://gusku.site/game/comicado",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Comicado\", \"description\": \"Looking for information on Comicado? Check out the release date (Jan 21, 2014), developer insights from Jugilus, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 21, 2014\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jugilus\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jugilus\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/264420/header.jpg?t=1447359443\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

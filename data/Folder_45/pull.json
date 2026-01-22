@@ -1,0 +1,21 @@
+{
+    "AppID": 1459650,
+    "Name": "Pull",
+    "Release date": "Dec 21, 2020",
+    "About the game": "a low stress physics based game where you swing the moon around to hit targets. 'Still' game mode: the moon steadily accelerates toward the mouse cursor during gameplay. use this effect to swing the moon at other planets that appear on screen. after each planet is hit it will disappear and reappear in a new random location. 'Drift' game mode: the moon steadily accelerates toward the mouse cursor during gameplay. use this effect to swing the moon at small moving planets that orbit the earth from different random angles. after each small planet is hit it will disappear and reappear to start a new random orbit. additional game modes will be added at a later date.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1459650/header.jpg?t=1608587752",
+    "Price": 6.99,
+    "Developers": "Feral Code Monkey",
+    "Publishers": "Feral Code Monkey",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1459650/ss_3bbecd1329a2cd56b43bdf96b70a5267f26bdb38.1920x1080.jpg?t=1608587752,https://cdn.akamai.steamstatic.com/steam/apps/1459650/ss_bdf6c447bbc7bfa13e428d30985e355d46b666e7.1920x1080.jpg?t=1608587752,https://cdn.akamai.steamstatic.com/steam/apps/1459650/ss_bf1f1e081611ce866fc83001277bb93a8169651d.1920x1080.jpg?t=1608587752,https://cdn.akamai.steamstatic.com/steam/apps/1459650/ss_3f6c88c1a525ce4f54e2d33c50fc64bf0dc08bf8.1920x1080.jpg?t=1608587752,https://cdn.akamai.steamstatic.com/steam/apps/1459650/ss_77d1b9343f64ac32020de65d321d3d59a4ed9318.1920x1080.jpg?t=1608587752",
+    "Slug": "pull",
+    "Meta Title": "Pull: Dec 21, 2020, Feral Code Monkey and Full Overview",
+    "Meta Description": "Looking for information on Pull? Check out the release date (Dec 21, 2020), developer insights from Feral Code Monkey, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pull game - Steam 1459650",
+    "Canonical URL": "https://gusku.site/game/pull",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pull\", \"description\": \"Looking for information on Pull? Check out the release date (Dec 21, 2020), developer insights from Feral Code Monkey, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 21, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Feral Code Monkey\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Feral Code Monkey\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1459650/header.jpg?t=1608587752\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

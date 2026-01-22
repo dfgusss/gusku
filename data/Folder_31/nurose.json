@@ -1,0 +1,21 @@
+{
+    "AppID": 1482640,
+    "Name": "Nurose",
+    "Release date": "Jan 7, 2022",
+    "About the game": "Nurose is an online dueling game where you fight others with custom spells. It has a custom spell-building system which allows players to create unique attacks. Custom Spells Central to Nurose is its unique spell-building system. Spells are built by visually programming glyphs in a wand. There are 40+ glyphs ranging from simple movement glyphs to complex conditional glyphs. You don't need to level up to earn new glyphs or wands. Each glyph is available from the start, so everyone is on an even playing field. The spell possibilities are endless. Some spells that you could make include: Mines that explode when the enemy is nearby. Anti-missile attacks that will look for enemy projectiles and destroy them. Decoy clones and moves them in specific directions. Totems that search for the enemy and shoot spells when nearby. What sets the great players apart is their skill in spell building and mastering their builds. When you have made a build, enter online matchmaking and fight others with your spells. Online matchmaking In online matchmaking, you will fight others in a 1v1 best of 5 game. Each player has several wands available. The game is made in a custom engine with rollback netcode for an optimal online experience.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1482640/header.jpg?t=1655368189",
+    "Price": 9.99,
+    "Developers": "Orongto",
+    "Publishers": "Orongto",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1482640/ss_6299c4ecb7b9b9cec753a70cfc95665bd6ead487.1920x1080.jpg?t=1655368189,https://cdn.akamai.steamstatic.com/steam/apps/1482640/ss_3c9c8ba98d567e97b4d37f091b91407fec005465.1920x1080.jpg?t=1655368189,https://cdn.akamai.steamstatic.com/steam/apps/1482640/ss_0d87750500b421753ef88f8bf31ba33f62893ce6.1920x1080.jpg?t=1655368189,https://cdn.akamai.steamstatic.com/steam/apps/1482640/ss_2b3251a84be5321106060f065baa73bf129e2c6e.1920x1080.jpg?t=1655368189,https://cdn.akamai.steamstatic.com/steam/apps/1482640/ss_d79c3f7ac35eebe9bb8defaeecec126e0dce9634.1920x1080.jpg?t=1655368189,https://cdn.akamai.steamstatic.com/steam/apps/1482640/ss_96179423e23a4fc261d69e2781a455a123939f71.1920x1080.jpg?t=1655368189,https://cdn.akamai.steamstatic.com/steam/apps/1482640/ss_a3f475da20b7e796ad24591e15193411025044db.1920x1080.jpg?t=1655368189,https://cdn.akamai.steamstatic.com/steam/apps/1482640/ss_e2b2d4d8e80cb9acce5d692fe4d3c4f5e74008d4.1920x1080.jpg?t=1655368189,https://cdn.akamai.steamstatic.com/steam/apps/1482640/ss_6a9e9dafed224ace46fafcd9aafb85f693cc0146.1920x1080.jpg?t=1655368189",
+    "Slug": "nurose",
+    "Meta Title": "Nurose: Jan 7, 2022, Orongto and Full Overview",
+    "Meta Description": "Looking for information on Nurose? Check out the release date (Jan 7, 2022), developer insights from Orongto, and a complete game summary.",
+    "Alt Text Image": "Official header image for Nurose game - Steam 1482640",
+    "Canonical URL": "https://gusku.site/game/nurose",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nurose\", \"description\": \"Looking for information on Nurose? Check out the release date (Jan 7, 2022), developer insights from Orongto, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 7, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Orongto\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Orongto\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1482640/header.jpg?t=1655368189\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

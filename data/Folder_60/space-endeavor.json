@@ -1,0 +1,21 @@
+{
+    "AppID": 1705920,
+    "Name": "Space Endeavor",
+    "Release date": "Sep 9, 2021",
+    "About the game": "Space Endeavor is an Action Shooter Game where you can shoot Enemies with many different types of Guns. It isn't an easy game though, there are many bosses you must defeat in order to unlock new guns, and eventually, beat the game! There are 3 bosses that you can defeat to unlock new guns. There are 4 guns that you can use to defeat enemies. Controls: WASD to move Left mouse button to shoot Shift to roll The NPCs aren’t decoration. PRESS SHIFT IN FRONT OF NPCS TO INTERACT WITH THEM. GUNS: LASER PISTOL: -Shoots 1 bullet -Deals 3 damage -Found in the lobby LASER AR: -Shoots consecutive bullets -Deals 5 damage -Dropped by the first boss Star Cannon: -Shoots consecutive stars -Shoots homing stars -Deals 15 Damage -Dropped by the second boss OctoShot: -Shoots ink in 8 directions -Shoots homing ink -Deals 25 Damage -Dropped by the third boss",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1705920/header.jpg?t=1652389180",
+    "Price": 2.99,
+    "Developers": "Vikinglock",
+    "Publishers": "Loudfish Labs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1705920/ss_c61306f92aae3f71496be66116660ca12b1f9a17.1920x1080.jpg?t=1652389180,https://cdn.akamai.steamstatic.com/steam/apps/1705920/ss_915103a9aea543bee9a3be2318ff20cde45e2b3d.1920x1080.jpg?t=1652389180,https://cdn.akamai.steamstatic.com/steam/apps/1705920/ss_6ef910e3bea0c0d918fbabbc5b4aa184713879a5.1920x1080.jpg?t=1652389180,https://cdn.akamai.steamstatic.com/steam/apps/1705920/ss_7ed413417011cf8203e67fd218ca6c5dcd8e72e7.1920x1080.jpg?t=1652389180,https://cdn.akamai.steamstatic.com/steam/apps/1705920/ss_ab2d5ac0f54600de9f4441adaec5da3c3f3b2689.1920x1080.jpg?t=1652389180,https://cdn.akamai.steamstatic.com/steam/apps/1705920/ss_a57d5a5a9d1ce4c0f589b09cfce6f8973e92eebd.1920x1080.jpg?t=1652389180",
+    "Slug": "space-endeavor",
+    "Meta Title": "Space Endeavor: Sep 9, 2021, Vikinglock and Full Overview",
+    "Meta Description": "Looking for information on Space Endeavor? Check out the release date (Sep 9, 2021), developer insights from Vikinglock, and a complete game summary.",
+    "Alt Text Image": "Official header image for Space Endeavor game - Steam 1705920",
+    "Canonical URL": "https://gusku.site/game/space-endeavor",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Space Endeavor\", \"description\": \"Looking for information on Space Endeavor? Check out the release date (Sep 9, 2021), developer insights from Vikinglock, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 9, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vikinglock\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Loudfish Labs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1705920/header.jpg?t=1652389180\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

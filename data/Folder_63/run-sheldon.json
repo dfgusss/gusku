@@ -1,0 +1,21 @@
+{
+    "AppID": 2105410,
+    "Name": "Run Sheldon",
+    "Release date": "Aug 17, 2022",
+    "About the game": "'Run Sheldon' is a 3D running game. The character controlled by the player will avoid various obstacles and run fast in the forest. The character controlled by the player needs to collect gems while running. The more gems collected, the higher the score. Players need to avoid obstacles by controlling the direction, and the game will fail once they encounter obstacles. 【Game Control】 Move left: A Move right :D Jump: W Sliding down: S 【Game Features】 Explosion-Proof Shield: Resists damage from all obstacles. Magnet: Can attract gems and buffs to your side. Although the game is simple to operate, it requires certain skills and reaction speed to get a high score. More challenges await you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2105410/header.jpg?t=1660739629",
+    "Price": 4.99,
+    "Developers": "jjGame",
+    "Publishers": "jjGame",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2105410/ss_befc28fdeffa57075a0988dbf631b5b5f29319a4.1920x1080.jpg?t=1660739629,https://cdn.akamai.steamstatic.com/steam/apps/2105410/ss_aea046feae54b4f211712276d1f146fabb921c5e.1920x1080.jpg?t=1660739629,https://cdn.akamai.steamstatic.com/steam/apps/2105410/ss_5e941c34fe6f578b149473e8e5320ca9381065f6.1920x1080.jpg?t=1660739629,https://cdn.akamai.steamstatic.com/steam/apps/2105410/ss_0a937bd5afdd6ec15f7193110e1e245304d3eac3.1920x1080.jpg?t=1660739629,https://cdn.akamai.steamstatic.com/steam/apps/2105410/ss_f21c92e72020891de40d51a403ef1eeb1b5b6232.1920x1080.jpg?t=1660739629,https://cdn.akamai.steamstatic.com/steam/apps/2105410/ss_e1e48de2d22065c615358a8a313a2f21654dd33d.1920x1080.jpg?t=1660739629",
+    "Slug": "run-sheldon",
+    "Meta Title": "Run Sheldon: Aug 17, 2022, jjGame and Full Overview",
+    "Meta Description": "Looking for information on Run Sheldon? Check out the release date (Aug 17, 2022), developer insights from jjGame, and a complete game summary.",
+    "Alt Text Image": "Official header image for Run Sheldon game - Steam 2105410",
+    "Canonical URL": "https://gusku.site/game/run-sheldon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Run Sheldon\", \"description\": \"Looking for information on Run Sheldon? Check out the release date (Aug 17, 2022), developer insights from jjGame, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"jjGame\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"jjGame\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2105410/header.jpg?t=1660739629\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

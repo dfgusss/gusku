@@ -1,0 +1,21 @@
+{
+    "AppID": 1093920,
+    "Name": "ORTHOISO",
+    "Release date": "Jun 16, 2019",
+    "About the game": "ORTHOISO is a platformer puzzle game about optical illusion. Our game uses orthoganol projection that makes distant objects in 3D look close on 2D screen. This allows the player to achieve impossible things in real world. There are 3 different views in the game. Player needs to switch between these views to solve the puzzle. There are many different mechanics based on optical illusions. The story is a about a little frog named Iso, whose father is a famous adventurer. In one recent adventure, Iso's dad went missing. Iso decided to start his own adventure to find his dad.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1093920/header.jpg?t=1560668463",
+    "Price": 0.99,
+    "Developers": "Team BlueBacon",
+    "Publishers": "Team BlueBacon",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1093920/ss_c6f25e53e226a50874911ea9f01b2e0c7a696744.1920x1080.jpg?t=1560668463,https://cdn.akamai.steamstatic.com/steam/apps/1093920/ss_7b339a62f4865e4caff0a16b9b54d5309f74fd05.1920x1080.jpg?t=1560668463,https://cdn.akamai.steamstatic.com/steam/apps/1093920/ss_5aa6c83b4557693250810dcd4920706546d04da3.1920x1080.jpg?t=1560668463,https://cdn.akamai.steamstatic.com/steam/apps/1093920/ss_c85b037c2a8648ba90d3ce1a1026de6ac6d8e3c5.1920x1080.jpg?t=1560668463,https://cdn.akamai.steamstatic.com/steam/apps/1093920/ss_f57c37aea068a2e54a559590f77abacef79088b8.1920x1080.jpg?t=1560668463",
+    "Slug": "orthoiso",
+    "Meta Title": "ORTHOISO: Jun 16, 2019, Team BlueBacon and Full Overview",
+    "Meta Description": "Looking for information on ORTHOISO? Check out the release date (Jun 16, 2019), developer insights from Team BlueBacon, and a complete game summary.",
+    "Alt Text Image": "Official header image for ORTHOISO game - Steam 1093920",
+    "Canonical URL": "https://gusku.site/game/orthoiso",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ORTHOISO\", \"description\": \"Looking for information on ORTHOISO? Check out the release date (Jun 16, 2019), developer insights from Team BlueBacon, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 16, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Team BlueBacon\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Team BlueBacon\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1093920/header.jpg?t=1560668463\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

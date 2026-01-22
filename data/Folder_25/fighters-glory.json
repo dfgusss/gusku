@@ -1,0 +1,21 @@
+{
+    "AppID": 1234280,
+    "Name": "Fighters' Glory",
+    "Release date": "Apr 13, 2020",
+    "About the game": "Fighters' Glory is a 1v1 weapons based fighting game. Ten warriors face off in a tournament to win fortune and glory! Features include full 3d movement and local or online Multiplayer.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1234280/header.jpg?t=1586784864",
+    "Price": 5.99,
+    "Developers": "Corbally Games",
+    "Publishers": "Corbally Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1234280/ss_7c03cebcf1da267cfe1873fd0289fb1355c73646.1920x1080.jpg?t=1586784864,https://cdn.akamai.steamstatic.com/steam/apps/1234280/ss_203cd29bd30182a11738e72db0e8c7952aa07ed0.1920x1080.jpg?t=1586784864,https://cdn.akamai.steamstatic.com/steam/apps/1234280/ss_faf5dbebd7cf41975499384e737f2254a04932dd.1920x1080.jpg?t=1586784864,https://cdn.akamai.steamstatic.com/steam/apps/1234280/ss_c96a247268eacd2c22a23edbbf1accb7d440fc8e.1920x1080.jpg?t=1586784864,https://cdn.akamai.steamstatic.com/steam/apps/1234280/ss_5028e883a37567bda7eac989f70ea8fb04894b8c.1920x1080.jpg?t=1586784864,https://cdn.akamai.steamstatic.com/steam/apps/1234280/ss_d9e2c931fbca76fe101e122f1ce7786540256c9d.1920x1080.jpg?t=1586784864,https://cdn.akamai.steamstatic.com/steam/apps/1234280/ss_8d0c222acb953f59273fe2a61233cf1513d805e1.1920x1080.jpg?t=1586784864",
+    "Slug": "fighters-glory",
+    "Meta Title": "Fighters' Glory: Apr 13, 2020, Corbally Games and Full Ov...",
+    "Meta Description": "Looking for information on Fighters' Glory? Check out the release date (Apr 13, 2020), developer insights from Corbally Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Fighters' Glory game - Steam 1234280",
+    "Canonical URL": "https://gusku.site/game/fighters-glory",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fighters' Glory\", \"description\": \"Looking for information on Fighters' Glory? Check out the release date (Apr 13, 2020), developer insights from Corbally Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 13, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Corbally Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Corbally Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1234280/header.jpg?t=1586784864\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

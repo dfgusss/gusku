@@ -1,0 +1,21 @@
+{
+    "AppID": 1919850,
+    "Name": "Edgar",
+    "Release date": "Mar 10, 2022",
+    "About the game": "Edgar is a steampunk-inspired 2D platformer. After being thrown into the pit and the pendulums, Edgar is striving to survive in this mysterious and hostile place that is full of traps, puzzles and enemies. Inspired by the works of Edgar Allan Poe, the story is told poetically and quotes from his most famous stories. You play through the levels aptly named by them and each level has it's own distinct theme. Aside from attacking the enemies using his Rapier, he can use his ghost shift ability. This will allow the player to come up with a strategy to solve some puzzles or scout the area ahead without coming to any harm and plan for the next jump. Additionally, with the Level Editor in Unity 2019 (Third-party package not provided) you can edit the game and create your own levels to upload to the community and share and play!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1919850/header.jpg?t=1652736161",
+    "Price": 0.99,
+    "Developers": "Spacefarer Games Limited",
+    "Publishers": "Dark Design Studios Holdings Co. Ltd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1919850/ss_3803745edc0160d739558a5e97497469448b49f0.1920x1080.jpg?t=1652736161,https://cdn.akamai.steamstatic.com/steam/apps/1919850/ss_ee8d20cfa69de8adc78e8b1745f3e9dad3462fef.1920x1080.jpg?t=1652736161,https://cdn.akamai.steamstatic.com/steam/apps/1919850/ss_ae3f923991100b48cda3209527d35df508aee9bc.1920x1080.jpg?t=1652736161,https://cdn.akamai.steamstatic.com/steam/apps/1919850/ss_ebbcbe2db63f57e571bc4a07672376873ebd9d9d.1920x1080.jpg?t=1652736161,https://cdn.akamai.steamstatic.com/steam/apps/1919850/ss_e71b9ad6c46ea83a9b01976d3e09caf716356fed.1920x1080.jpg?t=1652736161",
+    "Slug": "edgar",
+    "Meta Title": "Edgar: Mar 10, 2022, Spacefarer Games Limited and Full Ov...",
+    "Meta Description": "Looking for information on Edgar? Check out the release date (Mar 10, 2022), developer insights from Spacefarer Games Limited, and a complete game summary.",
+    "Alt Text Image": "Official header image for Edgar game - Steam 1919850",
+    "Canonical URL": "https://gusku.site/game/edgar",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Edgar\", \"description\": \"Looking for information on Edgar? Check out the release date (Mar 10, 2022), developer insights from Spacefarer Games Limited, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 10, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Spacefarer Games Limited\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dark Design Studios Holdings Co. Ltd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1919850/header.jpg?t=1652736161\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

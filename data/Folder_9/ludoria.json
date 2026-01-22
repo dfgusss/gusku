@@ -1,0 +1,21 @@
+{
+    "AppID": 432420,
+    "Name": "Ludoria",
+    "Release date": "Mar 3, 2017",
+    "About the game": "Ludoria is an adventure/RPG game that combines exploration, base building, and monster taming in a beautifully set universe. Join the adventure, and explore an immense voxel world inhabited by Ludoroms. Collect resources, craft items, capture monsters, and start your journey.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/432420/header.jpg?t=1596213529",
+    "Price": 19.99,
+    "Developers": "Eminent Softworks",
+    "Publishers": "Eminent Softworks",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/432420/ss_3ccaee454426b2e2418c0ec54bb197d0c4174224.1920x1080.jpg?t=1596213529,https://cdn.akamai.steamstatic.com/steam/apps/432420/ss_54f64a7afb6c5c0cc612adfdb7b2818069b813f6.1920x1080.jpg?t=1596213529,https://cdn.akamai.steamstatic.com/steam/apps/432420/ss_805d876893ec7ceb24215639ef40efd0f53f6f34.1920x1080.jpg?t=1596213529,https://cdn.akamai.steamstatic.com/steam/apps/432420/ss_b1f9414f529ca2e1d9777c55221d872f96544f5c.1920x1080.jpg?t=1596213529,https://cdn.akamai.steamstatic.com/steam/apps/432420/ss_35b5980900889c576215622becaaabb869ea9aa4.1920x1080.jpg?t=1596213529,https://cdn.akamai.steamstatic.com/steam/apps/432420/ss_a05f5af0cc1c61dcb281d975a62f43fcae524176.1920x1080.jpg?t=1596213529,https://cdn.akamai.steamstatic.com/steam/apps/432420/ss_68b0d32e9e85192e84f285751e2ee69d4da03b5e.1920x1080.jpg?t=1596213529,https://cdn.akamai.steamstatic.com/steam/apps/432420/ss_2f8f3d90e1a82fa3c9306b2a100dca01b80e4b0a.1920x1080.jpg?t=1596213529,https://cdn.akamai.steamstatic.com/steam/apps/432420/ss_7ee0a934ffe109b8dc53d40dcfbef60783dbb1b8.1920x1080.jpg?t=1596213529",
+    "Slug": "ludoria",
+    "Meta Title": "Ludoria: Mar 3, 2017, Eminent Softworks and Full Overview",
+    "Meta Description": "Looking for information on Ludoria? Check out the release date (Mar 3, 2017), developer insights from Eminent Softworks, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ludoria game - Steam 432420",
+    "Canonical URL": "https://gusku.site/game/ludoria",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ludoria\", \"description\": \"Looking for information on Ludoria? Check out the release date (Mar 3, 2017), developer insights from Eminent Softworks, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 3, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eminent Softworks\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Eminent Softworks\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/432420/header.jpg?t=1596213529\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

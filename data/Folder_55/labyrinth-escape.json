@@ -1,0 +1,21 @@
+{
+    "AppID": 654950,
+    "Name": "Labyrinth Escape",
+    "Release date": "Jul 10, 2017",
+    "About the game": "Introduction Labyrinth Escape is FPS shooter where player target is to survive and find correct route out of the labyrinth. There is only one right route. Other route leads to player death or dead-end. Player has to shoot with weapon to the wall and find that way right wall piece which move or destruct and follow that route. There is also bomb and other damageable objects which reduce player health. When player dies he respawn to beginning of the level. In the end of every level there is portal which move player back to main menu. Final version will contain different themed labyrinths. Features: - Rifle weapon - 12 different themed and different difficulties labyrinths - damageable objects like bombs to avoid Upcoming Features: - More polished Menu settings - More labyrinths",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/654950/header.jpg?t=1505555193",
+    "Price": 0.49,
+    "Developers": "Tero Lunkka,Mikko Seppälä",
+    "Publishers": "Tero Lunkka",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/654950/ss_29d3a63c97fcecf9910984464044b5dbb84b018c.1920x1080.jpg?t=1505555193,https://cdn.akamai.steamstatic.com/steam/apps/654950/ss_160aaa10a776fd80fca908422c044644ea98bd12.1920x1080.jpg?t=1505555193,https://cdn.akamai.steamstatic.com/steam/apps/654950/ss_91e25b55b955ad83d5112bdf6fc18032731100e7.1920x1080.jpg?t=1505555193,https://cdn.akamai.steamstatic.com/steam/apps/654950/ss_ee12145fd09e3648a359a76f6c318d2622860539.1920x1080.jpg?t=1505555193,https://cdn.akamai.steamstatic.com/steam/apps/654950/ss_d23707f4dd1efd2570c59fc0b128d8aaa240f90f.1920x1080.jpg?t=1505555193",
+    "Slug": "labyrinth-escape",
+    "Meta Title": "Labyrinth Escape: Jul 10, 2017, Tero Lunkka,Mikko Seppälä...",
+    "Meta Description": "Looking for information on Labyrinth Escape? Check out the release date (Jul 10, 2017), developer insights from Tero Lunkka,Mikko Seppälä, and a complet...",
+    "Alt Text Image": "Official header image for Labyrinth Escape game - Steam 654950",
+    "Canonical URL": "https://gusku.site/game/labyrinth-escape",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Labyrinth Escape\", \"description\": \"Looking for information on Labyrinth Escape? Check out the release date (Jul 10, 2017), developer insights from Tero Lunkka,Mikko Sepp\\u00e4l\\u00e4, and a complet...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 10, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tero Lunkka,Mikko Sepp\\u00e4l\\u00e4\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tero Lunkka\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/654950/header.jpg?t=1505555193\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

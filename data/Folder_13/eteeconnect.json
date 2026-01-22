@@ -1,0 +1,21 @@
+{
+    "AppID": 1590110,
+    "Name": "eteeConnect",
+    "Release date": "Feb 1, 2022",
+    "About the game": "What is eteeConnect? eteeConnect is the accompanying software to your eteeControllers. With eteeConnect you will be able to test your finger tracking, keep your controllers and dongles updated to the latest version and more importantly personalize the controllers to your hand and your own preferences. Who needs eteeConnect? Anyone who owns eteeControllers, who wants to play SteamVR or non-VR Steam games and more Note: It will install relevant drivers needed for your etee hardware. Drivers for controller hardware (general PC compatibility) Drivers for tracker and controller (SteamVR specific compatibility) What does eteeConnect offer A more immersive and personalized experience for users Custom bindings Personalized settings Firmware updates What can eteeConnect allow you to do? Visualise controller data (battery information/finger data/IMU and gyro data): Live data display finger tracking signals (controller testing) Customize your game play: configuring different bindings and presets Customize your controllers: Personalizing and adapting the controllers to your hand Play non SteamVR games: Via Xbox controller simulation/emulation Access controller data through multiple application simultaneously Updating firmware on the controllers and accompanying dongle Others: troubleshoot the controllers &amp; create support tickets for troubleshooting What are eteeControllers? eteeControllers are the first of its kind button-free, finger tracking controller for more immersive and intuitive VR, gaming and DIY projects. Who are eteeControllers for? VR users looking to enhance their experience and immersion Gamers who desire more customizable controls Programmers, engineers and creators who are in need of custom and programmable controllers Featured are C++/Unity/Python SDKs for development projects with the controllers.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1590110/header.jpg?t=1643723967",
+    "Price": 0.0,
+    "Developers": "TG0,danwillm",
+    "Publishers": "TG0",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1590110/ss_da78c38343e4b412053415e866e9f05046e8d141.1920x1080.jpg?t=1643723967,https://cdn.akamai.steamstatic.com/steam/apps/1590110/ss_2a994915675520b6355537bf859d516b2cc4a782.1920x1080.jpg?t=1643723967,https://cdn.akamai.steamstatic.com/steam/apps/1590110/ss_24bfbb433bec9956319741735a5ccd165100508f.1920x1080.jpg?t=1643723967,https://cdn.akamai.steamstatic.com/steam/apps/1590110/ss_f356438146f335deeec01b8497a4e76671818beb.1920x1080.jpg?t=1643723967,https://cdn.akamai.steamstatic.com/steam/apps/1590110/ss_1cf443fa32c43c5f56d82aee603845d736684172.1920x1080.jpg?t=1643723967,https://cdn.akamai.steamstatic.com/steam/apps/1590110/ss_c487171d96b837f00154454ab598c7e50e3cd056.1920x1080.jpg?t=1643723967",
+    "Slug": "eteeconnect",
+    "Meta Title": "eteeConnect: Feb 1, 2022, TG0,danwillm and Full Overview",
+    "Meta Description": "Looking for information on eteeConnect? Check out the release date (Feb 1, 2022), developer insights from TG0,danwillm, and a complete game summary.",
+    "Alt Text Image": "Official header image for eteeConnect game - Steam 1590110",
+    "Canonical URL": "https://gusku.site/game/eteeconnect",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"eteeConnect\", \"description\": \"Looking for information on eteeConnect? Check out the release date (Feb 1, 2022), developer insights from TG0,danwillm, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"TG0,danwillm\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TG0\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1590110/header.jpg?t=1643723967\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 631770,
+    "Name": "Pixplode",
+    "Release date": "Jul 3, 2017",
+    "About the game": "Pixplode is a 3d puzzle game with 2d physics mechanics. At first glance puzzle seem to be impossible to solve, but why not to change the view of the whole level? Over 40 detailed levels allow you to rack your brains for a long time! The angle you look at the puzzle defines what you see and how the elements will interact with each other. Can't reach that target? You can rotate the view freely for 90 degrees right and left to see unseen! You solve the puzzle by changing the angle and moving the elements with explosions. Each level is created with four diferent parts that you can turn and see the results of your actions. Don't worry if you mess up anything, you can always restart level and try again.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/631770/header.jpg?t=1499194053",
+    "Price": 2.99,
+    "Developers": "Empyrean",
+    "Publishers": "Empyrean",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/631770/ss_20b3922943913c6339a18c13973441f324886b06.1920x1080.jpg?t=1499194053,https://cdn.akamai.steamstatic.com/steam/apps/631770/ss_f9d2d8dc975ac0e92806ee177dc3d7feb44f2a54.1920x1080.jpg?t=1499194053,https://cdn.akamai.steamstatic.com/steam/apps/631770/ss_0bb01bf1a58de7781e0f4b1fd4b62000a174f8c8.1920x1080.jpg?t=1499194053,https://cdn.akamai.steamstatic.com/steam/apps/631770/ss_96c452c02f9d3c0470387f1a8c66a45631d7b6d9.1920x1080.jpg?t=1499194053,https://cdn.akamai.steamstatic.com/steam/apps/631770/ss_3567d922598ae13dc5fef40f6ff62bcf44042b29.1920x1080.jpg?t=1499194053,https://cdn.akamai.steamstatic.com/steam/apps/631770/ss_7efddb8bcb0be95b8370075c386e74da378c599d.1920x1080.jpg?t=1499194053",
+    "Slug": "pixplode",
+    "Meta Title": "Pixplode: Jul 3, 2017, Empyrean and Full Overview",
+    "Meta Description": "Looking for information on Pixplode? Check out the release date (Jul 3, 2017), developer insights from Empyrean, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixplode game - Steam 631770",
+    "Canonical URL": "https://gusku.site/game/pixplode",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixplode\", \"description\": \"Looking for information on Pixplode? Check out the release date (Jul 3, 2017), developer insights from Empyrean, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 3, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Empyrean\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Empyrean\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/631770/header.jpg?t=1499194053\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

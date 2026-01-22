@@ -1,0 +1,21 @@
+{
+    "AppID": 1485900,
+    "Name": "Eye, caramba!",
+    "Release date": "Dec 23, 2020",
+    "About the game": "Hello! The aim of this game is to arrange colored blocks in the right order to get a gradient. By default, if you place a block correctly, it will be automatically locked and you will hear the sound. You can disable one or both of these features in the settings. You are also able to lock and unlock blocks manually. It is possible to do that for multiple blocks by holding down right mouse button. When you press «Play» button, a level is selected randomly from those you haven't completed yet, but you are also free to choose any level at any time. Pretty simple, right?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1485900/header.jpg?t=1617246221",
+    "Price": 2.99,
+    "Developers": "SeekSick6",
+    "Publishers": "SeekSick6",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1485900/ss_a924f2c7eda442221fc792a18c48584b07511147.1920x1080.jpg?t=1617246221,https://cdn.akamai.steamstatic.com/steam/apps/1485900/ss_6a4ed48ad7fbbc7bf59a6898d78884a85d426eaa.1920x1080.jpg?t=1617246221,https://cdn.akamai.steamstatic.com/steam/apps/1485900/ss_d60c855413ffc997ddbd1c6c29f502d4da1f245f.1920x1080.jpg?t=1617246221,https://cdn.akamai.steamstatic.com/steam/apps/1485900/ss_4b159c938f3874c5cb341dd1094bec3aae4017a1.1920x1080.jpg?t=1617246221,https://cdn.akamai.steamstatic.com/steam/apps/1485900/ss_39e8b99c98bc2f7811f61b6ad6332152b9c73fd3.1920x1080.jpg?t=1617246221,https://cdn.akamai.steamstatic.com/steam/apps/1485900/ss_f74a09bd53c84ab156d3ab286f0f249ae1d09f86.1920x1080.jpg?t=1617246221,https://cdn.akamai.steamstatic.com/steam/apps/1485900/ss_e631fa36de07007e4128f06a19c587c49dc37bdc.1920x1080.jpg?t=1617246221",
+    "Slug": "eye-caramba",
+    "Meta Title": "Eye, caramba!: Dec 23, 2020, SeekSick6 and Full Overview",
+    "Meta Description": "Looking for information on Eye, caramba!? Check out the release date (Dec 23, 2020), developer insights from SeekSick6, and a complete game summary.",
+    "Alt Text Image": "Official header image for Eye, caramba! game - Steam 1485900",
+    "Canonical URL": "https://gusku.site/game/eye-caramba",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Eye, caramba!\", \"description\": \"Looking for information on Eye, caramba!? Check out the release date (Dec 23, 2020), developer insights from SeekSick6, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 23, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"SeekSick6\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SeekSick6\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1485900/header.jpg?t=1617246221\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

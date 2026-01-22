@@ -1,0 +1,21 @@
+{
+    "AppID": 509110,
+    "Name": "Spikit",
+    "Release date": "Aug 9, 2016",
+    "About the game": "Spikit is a bullet hell game developed by a single developer, Igor Petrović. With a soundtrack composed by Dario Malešević. In this game, the player will have to dodge a constant barrage of spikes coming from the side of the screen. Not only will the player have to evade the spikes currently on the screen, but they will also need to keep an eye out on the next wave of spikes and position themselves accordingly. The longer the player manages to stay alive, the higher their end-score will be, with difficulty gradually increasing as time passes. As the game progresses, there will also be the chance of a box appearing. Boxes are the 'currency' of the game - collecting enough of them allows the purchase of new skins and themes, both mostly aesthetical features.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/509110/header.jpg?t=1490540140",
+    "Price": 1.99,
+    "Developers": "Blastoid Entertainment",
+    "Publishers": "Back To Basics Gaming",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/509110/ss_74f0efa626cf670902ba7efbd693982c2a15076f.1920x1080.jpg?t=1490540140,https://cdn.akamai.steamstatic.com/steam/apps/509110/ss_78c5c67889a5f4eb1d2375b13422e08a57d5d61e.1920x1080.jpg?t=1490540140,https://cdn.akamai.steamstatic.com/steam/apps/509110/ss_54528626b58585794ae2a6d56378b4ef2463676e.1920x1080.jpg?t=1490540140,https://cdn.akamai.steamstatic.com/steam/apps/509110/ss_284881d908fe05771ea4a9f5f54f2a5aa648ec51.1920x1080.jpg?t=1490540140,https://cdn.akamai.steamstatic.com/steam/apps/509110/ss_55f4bfae82f4d0715fbb37eb17a21ed5222b3b36.1920x1080.jpg?t=1490540140,https://cdn.akamai.steamstatic.com/steam/apps/509110/ss_017b8392f9be6ce047e886f6b5d0aa5d1ab2982d.1920x1080.jpg?t=1490540140,https://cdn.akamai.steamstatic.com/steam/apps/509110/ss_2c8c6e0c87c5b1a2abf5fca38ee2368e0adb6361.1920x1080.jpg?t=1490540140",
+    "Slug": "spikit",
+    "Meta Title": "Spikit: Aug 9, 2016, Blastoid Entertainment and Full Over...",
+    "Meta Description": "Looking for information on Spikit? Check out the release date (Aug 9, 2016), developer insights from Blastoid Entertainment, and a complete game summary.",
+    "Alt Text Image": "Official header image for Spikit game - Steam 509110",
+    "Canonical URL": "https://gusku.site/game/spikit",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Spikit\", \"description\": \"Looking for information on Spikit? Check out the release date (Aug 9, 2016), developer insights from Blastoid Entertainment, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 9, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Blastoid Entertainment\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Back To Basics Gaming\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/509110/header.jpg?t=1490540140\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

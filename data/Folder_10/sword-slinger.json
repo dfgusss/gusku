@@ -1,0 +1,21 @@
+{
+    "AppID": 1330940,
+    "Name": "Sword Slinger",
+    "Release date": "Oct 20, 2020",
+    "About the game": "Sword Slinger is a unique physics-based puzzle game about slaying goblins by controlling a sword with magical behaviors. You'll combine chains of magical behaviors together to create complex and original solutions. Magic Blocks A magic block consists of a trigger and an action. Triggers and actions influence or control how the sword swings around the level. The goal is to slay all of the goblins by building a solution out of these blocks. Crafting solutions with these magical behaviors is challenging and engaging. The open-ended nature of each level provides you with total creative freedom to solve the puzzles in your own way. Level Ratings A rating is given to each solution based on its uniqueness and efficiency. The more creative and varied your solution, the higher your rating! There are goblins that need eradicating, so get to slaying!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1330940/header.jpg?t=1603235014",
+    "Price": 4.99,
+    "Developers": "Firebelley",
+    "Publishers": "Firebelley",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1330940/ss_d2c8064a182b577d2aec0b212dc16c68627a0b3b.1920x1080.jpg?t=1603235014,https://cdn.akamai.steamstatic.com/steam/apps/1330940/ss_ceff100340e9d0eb73cb94eb8339d6f1bd7290b8.1920x1080.jpg?t=1603235014,https://cdn.akamai.steamstatic.com/steam/apps/1330940/ss_071e4c229c0b7f59a79e55a917886c8af178390b.1920x1080.jpg?t=1603235014,https://cdn.akamai.steamstatic.com/steam/apps/1330940/ss_23fa0dc45e9b8e93cd6d949c4a8dd1cef273b5b5.1920x1080.jpg?t=1603235014,https://cdn.akamai.steamstatic.com/steam/apps/1330940/ss_e7f3cc968678957baacba8883cacc2e42c1e2da1.1920x1080.jpg?t=1603235014",
+    "Slug": "sword-slinger",
+    "Meta Title": "Sword Slinger: Oct 20, 2020, Firebelley and Full Overview",
+    "Meta Description": "Looking for information on Sword Slinger? Check out the release date (Oct 20, 2020), developer insights from Firebelley, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sword Slinger game - Steam 1330940",
+    "Canonical URL": "https://gusku.site/game/sword-slinger",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sword Slinger\", \"description\": \"Looking for information on Sword Slinger? Check out the release date (Oct 20, 2020), developer insights from Firebelley, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 20, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Firebelley\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Firebelley\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1330940/header.jpg?t=1603235014\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

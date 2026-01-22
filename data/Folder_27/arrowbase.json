@@ -1,0 +1,21 @@
+{
+    "AppID": 1816910,
+    "Name": "ArrowBase",
+    "Release date": "Dec 24, 2021",
+    "About the game": "ArrowBase ArrowBase is a Versus platform game where the objective is to send your arrow on your opponent. The first to touch his opponent 6 times wins the game ! You can slide, dive forward, attack your opponent in close combat to propel him into the air. The projectiles you throw take different trajectories depending on your movement, so you will have to make a choice between playing aggressive and have the optimal trajectory to hit your enemy, or play safe. There are more than 25 maps to fight on, and configuration options to modify the characteristics of your game, such as gravity, the frequency of shooting, or the appearance of special rounds. Play with your friend online using the REMOTE PLAY TOGETHER feature ! This game is compatible with 'Remote Play together' , allowing you to play with your friends as if you were in the same room !",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1816910/header.jpg?t=1640343781",
+    "Price": 0.99,
+    "Developers": "G. Schmitt",
+    "Publishers": "G. Schmitt",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1816910/ss_b6f5dd622ad51c6c9c4345243aea45539716a5c4.1920x1080.jpg?t=1640343781,https://cdn.akamai.steamstatic.com/steam/apps/1816910/ss_40c809bf505bb03fc7c24970856dc44354a4fa1e.1920x1080.jpg?t=1640343781,https://cdn.akamai.steamstatic.com/steam/apps/1816910/ss_81a7a817daf2c007f9060f4535f487d7e745efaa.1920x1080.jpg?t=1640343781,https://cdn.akamai.steamstatic.com/steam/apps/1816910/ss_eece2677502cf01a2bcc3a50c0eb66d40d29a597.1920x1080.jpg?t=1640343781,https://cdn.akamai.steamstatic.com/steam/apps/1816910/ss_3a258aee4a2dd6e636486ab678d442804b492456.1920x1080.jpg?t=1640343781",
+    "Slug": "arrowbase",
+    "Meta Title": "ArrowBase: Dec 24, 2021, G. Schmitt and Full Overview",
+    "Meta Description": "Looking for information on ArrowBase? Check out the release date (Dec 24, 2021), developer insights from G. Schmitt, and a complete game summary.",
+    "Alt Text Image": "Official header image for ArrowBase game - Steam 1816910",
+    "Canonical URL": "https://gusku.site/game/arrowbase",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ArrowBase\", \"description\": \"Looking for information on ArrowBase? Check out the release date (Dec 24, 2021), developer insights from G. Schmitt, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 24, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"G. Schmitt\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"G. Schmitt\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1816910/header.jpg?t=1640343781\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

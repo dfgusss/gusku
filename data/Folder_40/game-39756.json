@@ -1,0 +1,21 @@
+{
+    "AppID": 1185270,
+    "Name": "经典扫雷",
+    "Release date": "Feb 6, 2020",
+    "About the game": "这是一款经典的电脑单机休闲游戏。 游戏目标是就在最短的时间内根据记录用鼠标点击格子出现的数字找出所有非雷格子， 同一个时间避免踩雷。 左键单击：在判断出不是雷的方块上按下左键，可以打开该方块。如果方块上出现数字，则该数字表示其周围3×3区域中的地雷数（一般为8个格子，对于边块为5个格子，对于角块为3个格子。所以扫雷中最大的数字为8）；如果方块上为空（相当于0），则可以递归地打开与空相邻的方块；如果不幸触雷，则游戏结束。 右键单击：在判断为地雷的方块上按下右键，可以标记地雷（显示为小红旗）。重复一次或两次操作可取消标记（如果在游戏菜单中勾选了“标记（？）”，则需要两次操作来取消标雷）。 双击：同时按下左键和右键完成双击。当双击位置周围已标记雷数等于该位置数字时操作有效，相当于对该数字周围未打开的方块均进行一次左键单击操作。地雷未标记完全时使用双击无效。若数字周围有标错的地雷，则游戏结束，标错的地雷上会显示一个“ 2020/5/5 在原有的正方形板块基础上增加了六边形板块",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1185270/header.jpg?t=1588651801",
+    "Price": 0.99,
+    "Developers": "koyomogi",
+    "Publishers": "koyomogi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1185270/ss_6da25cab2b871d96450db5d5586fc0fc9d100e3c.1920x1080.jpg?t=1588651801,https://cdn.akamai.steamstatic.com/steam/apps/1185270/ss_f804db4c5fada12f59600b5206b676c428315557.1920x1080.jpg?t=1588651801,https://cdn.akamai.steamstatic.com/steam/apps/1185270/ss_0239f7e845b34aa0c7c56eeff4966aebab3d039a.1920x1080.jpg?t=1588651801,https://cdn.akamai.steamstatic.com/steam/apps/1185270/ss_24947059b8bb45046bc649c4e71e0dcdcf009a85.1920x1080.jpg?t=1588651801,https://cdn.akamai.steamstatic.com/steam/apps/1185270/ss_2b4376d4bef2b5f2da50042d38152bd05af02b60.1920x1080.jpg?t=1588651801,https://cdn.akamai.steamstatic.com/steam/apps/1185270/ss_251fcda93b35e40e8358e834a848fdea4971da64.1920x1080.jpg?t=1588651801",
+    "Slug": "",
+    "Meta Title": "经典扫雷: Feb 6, 2020, koyomogi and Full Overview",
+    "Meta Description": "Looking for information on 经典扫雷? Check out the release date (Feb 6, 2020), developer insights from koyomogi, and a complete game summary.",
+    "Alt Text Image": "Official header image for 经典扫雷 game - Steam 1185270",
+    "Canonical URL": "https://gusku.site/game/",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u7ecf\\u5178\\u626b\\u96f7\", \"description\": \"Looking for information on \\u7ecf\\u5178\\u626b\\u96f7? Check out the release date (Feb 6, 2020), developer insights from koyomogi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 6, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"koyomogi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"koyomogi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1185270/header.jpg?t=1588651801\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 418610,
+    "Name": "Swiftly",
+    "Release date": "Jan 26, 2016",
+    "About the game": "Swiftly is a very challenging platformer game. It has simple graphics and easy to understand rules, but you are going to have a hard time completing the levels. Blue platforms are just your average platform with no special traits. Green platforms has a bounciness of 120% Red platforms have zero friction. Throughout the level, there are gears which come in all sizes, looking to kill the cube. The player's objective is to lead the cube to the winning point. There are also checkpoints scattered throughout the levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/418610/header.jpg?t=1478260550",
+    "Price": 0.99,
+    "Developers": "Cleverweek",
+    "Publishers": "Cleverweek",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/418610/ss_8395f3df263cdb6be8cee1ec937a1d50bf868351.1920x1080.jpg?t=1478260550,https://cdn.akamai.steamstatic.com/steam/apps/418610/ss_70b621d93cbbbbe0ce8585d0f4781070f5746ea2.1920x1080.jpg?t=1478260550,https://cdn.akamai.steamstatic.com/steam/apps/418610/ss_2475bd14bb5bb3de398c85e30b26492f2bc1f799.1920x1080.jpg?t=1478260550,https://cdn.akamai.steamstatic.com/steam/apps/418610/ss_577e73bdd96502315a3a71472da9cfcc9463e70b.1920x1080.jpg?t=1478260550,https://cdn.akamai.steamstatic.com/steam/apps/418610/ss_fecea81b068d9af286942dc74761c282589d4a47.1920x1080.jpg?t=1478260550,https://cdn.akamai.steamstatic.com/steam/apps/418610/ss_3663eb0c85c6115465741daaea662d0d68f49491.1920x1080.jpg?t=1478260550",
+    "Slug": "swiftly",
+    "Meta Title": "Swiftly: Jan 26, 2016, Cleverweek and Full Overview",
+    "Meta Description": "Looking for information on Swiftly? Check out the release date (Jan 26, 2016), developer insights from Cleverweek, and a complete game summary.",
+    "Alt Text Image": "Official header image for Swiftly game - Steam 418610",
+    "Canonical URL": "https://gusku.site/game/swiftly",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Swiftly\", \"description\": \"Looking for information on Swiftly? Check out the release date (Jan 26, 2016), developer insights from Cleverweek, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 26, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cleverweek\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cleverweek\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/418610/header.jpg?t=1478260550\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

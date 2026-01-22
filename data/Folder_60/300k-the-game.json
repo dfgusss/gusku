@@ -1,0 +1,21 @@
+{
+    "AppID": 1344570,
+    "Name": "300k - The Game",
+    "Release date": "Jul 23, 2020",
+    "About the game": "300k - the Game ...is a funny implementation of the cellular automaton theory. in this game, the basics of this theory have been pushed to the extreme and a game capable kind by adding funny extras to manipulate created populations. so you can battle against the computer or against other players. your moves are absolutely free. also, u can deploy every single cell/pixel packet wherever you want. or quickly said: it's a game in wich the players make their moves alternately like in board games like chess or similar. so you set 100 of your own pixel packets with each move to the 600x600 matchfield. these pixels, like those of the opponent, then develop automatically. whoever has the largest share of a total of 300k pixels on the field wins! so if you want, you can read the exact game rules in the screenshots. Beta-Version well, i wrote this game (with very minimalistic graphic) within a few weeks and it works fine and stable. but this short time of development says that there is still a lot to do. ask like: is the game easy to understand? is my broken english a big problem? XD are there any technical problems? is the game missing something (more story, goals, correction of difficulty of cpu-player...)? ... therefore I would like to test the game for a while as a beta version. ya, there is still a lot to do!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1344570/header.jpg?t=1595542863",
+    "Price": 0.99,
+    "Developers": "PixelNadja",
+    "Publishers": "PixelNadja",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1344570/ss_27bf4cc9876d31cd53746164a4cfd6591ff93886.1920x1080.jpg?t=1595542863,https://cdn.akamai.steamstatic.com/steam/apps/1344570/ss_cca715d9f2221169f346d7a08fe6785f17ea8c82.1920x1080.jpg?t=1595542863,https://cdn.akamai.steamstatic.com/steam/apps/1344570/ss_bf5e9997aaf48281925cf8726b45a1b869a49fdd.1920x1080.jpg?t=1595542863,https://cdn.akamai.steamstatic.com/steam/apps/1344570/ss_76c3771ec79a41ce7a558f3b874ca0a1377b85b8.1920x1080.jpg?t=1595542863,https://cdn.akamai.steamstatic.com/steam/apps/1344570/ss_c2ce8811b86d7a3d77032030690bff440572c257.1920x1080.jpg?t=1595542863",
+    "Slug": "300k-the-game",
+    "Meta Title": "300k - The Game: Jul 23, 2020, PixelNadja and Full Overview",
+    "Meta Description": "Looking for information on 300k - The Game? Check out the release date (Jul 23, 2020), developer insights from PixelNadja, and a complete game summary.",
+    "Alt Text Image": "Official header image for 300k - The Game game - Steam 1344570",
+    "Canonical URL": "https://gusku.site/game/300k-the-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"300k - The Game\", \"description\": \"Looking for information on 300k - The Game? Check out the release date (Jul 23, 2020), developer insights from PixelNadja, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 23, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"PixelNadja\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PixelNadja\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1344570/header.jpg?t=1595542863\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

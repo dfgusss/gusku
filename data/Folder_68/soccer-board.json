@@ -1,0 +1,21 @@
+{
+    "AppID": 2219020,
+    "Name": "SOCCER BOARD",
+    "Release date": "Dec 8, 2022",
+    "About the game": "Soccer Board - is a turn-based board game. Football based game for one player. Move around the board, pass the ball, score goals and don't let your opponent take the ball. each player on the board has a certain amount of movement and distance to kick the ball, so you must use tactics to score goals and win matches. Play soccer on a board in this tactical movement game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2219020/header.jpg?t=1670508517",
+    "Price": 2.99,
+    "Developers": "Bruno Esteves",
+    "Publishers": "Bruno Esteves",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2219020/ss_23c07b2aad4e8fb38e53b3cd06425aeb74ad474d.1920x1080.jpg?t=1670508517,https://cdn.akamai.steamstatic.com/steam/apps/2219020/ss_1dc75697f10549e3e496fa02ebb8fae9b0cfdd59.1920x1080.jpg?t=1670508517,https://cdn.akamai.steamstatic.com/steam/apps/2219020/ss_b85bfa9dbc4af3226a687666cceb0274924b43e5.1920x1080.jpg?t=1670508517,https://cdn.akamai.steamstatic.com/steam/apps/2219020/ss_b97d2e9894a070ccbac6cc0c04f4b55dba2a33e2.1920x1080.jpg?t=1670508517,https://cdn.akamai.steamstatic.com/steam/apps/2219020/ss_3be2c252e180f54e8c8de9f8a6d163c02f909756.1920x1080.jpg?t=1670508517",
+    "Slug": "soccer-board",
+    "Meta Title": "SOCCER BOARD: Dec 8, 2022, Bruno Esteves and Full Overview",
+    "Meta Description": "Looking for information on SOCCER BOARD? Check out the release date (Dec 8, 2022), developer insights from Bruno Esteves, and a complete game summary.",
+    "Alt Text Image": "Official header image for SOCCER BOARD game - Steam 2219020",
+    "Canonical URL": "https://gusku.site/game/soccer-board",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SOCCER BOARD\", \"description\": \"Looking for information on SOCCER BOARD? Check out the release date (Dec 8, 2022), developer insights from Bruno Esteves, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 8, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bruno Esteves\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bruno Esteves\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2219020/header.jpg?t=1670508517\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

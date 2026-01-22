@@ -1,0 +1,21 @@
+{
+    "AppID": 697270,
+    "Name": "OneHit",
+    "Release date": "Oct 31, 2017",
+    "About the game": "In this multiplayer game you fight against each other in fast and action-packed battles. Choose one of the four characters and use the variety of attack and defense skills to defeat your opponents and smash them out of the arena. The clou: just a single hit kills you, so be careful! OneHit can be played in the local network (LAN) or via any tunneling service (e.g. Hamachi) with up to eight players. It may also be possible to play over the Internet with port forwarding set up correctly in your router (TCP/UDP port 7777) but this has not been tested yet. Please make sure that your firewall doesn't block the game from accessing the network. Plans for future updates: Make OneHit playable directly over Steam with your Steam-contacts Add achievements Add support for Linux and MacOS How to play: Please make sure that your firewall doesn't block the game from accessing the network. One player hosts a game by clicking on 'Host Game'. The other players then join by clicking on 'Join Game' and choosing the right server from the list. If the server (or host) doesn't appear in the list, you can connect by entering its IP-adress ('Join by IP'). Now everyone can choose a character, a name and (in case of the team-game-mode) a team. The host can also change the game mode, map and number of wins. When everyone hit 'Ready', the host can start the game. Move your character by clicking on the ground (left or right mouse button). The character will try to go to that location. Use skills with keys Q, W, E and R. The skill will be cast in the direction of your mouse cursor. In general, Q and W are attack skills and E and R are defense skills. At the beginning of each round, you are invulnerable for two seconds to avoid spawn-kills. When the game has finished, the host can either start a new one or you can return to the main menu. Developed by Felix Schröder in the Unreal Engine 4.10.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/697270/header.jpg?t=1509466266",
+    "Price": 4.99,
+    "Developers": "Felix Schröder",
+    "Publishers": "Felix Schröder",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/697270/ss_213cd207737cacdada15c04e90246075a9e03d8a.1920x1080.jpg?t=1509466266,https://cdn.akamai.steamstatic.com/steam/apps/697270/ss_ff07ae55076c5ec4daa5dea4b78e2ede1ff794ff.1920x1080.jpg?t=1509466266,https://cdn.akamai.steamstatic.com/steam/apps/697270/ss_fca42416926e4c35eda3d94cb2d8614245a898a9.1920x1080.jpg?t=1509466266,https://cdn.akamai.steamstatic.com/steam/apps/697270/ss_288dfe175d6ffd12c83358480893b40caa1c94a5.1920x1080.jpg?t=1509466266,https://cdn.akamai.steamstatic.com/steam/apps/697270/ss_f52667c5dca586a35757cc7fc0d364ef11e09624.1920x1080.jpg?t=1509466266",
+    "Slug": "onehit",
+    "Meta Title": "OneHit: Oct 31, 2017, Felix Schröder and Full Overview",
+    "Meta Description": "Looking for information on OneHit? Check out the release date (Oct 31, 2017), developer insights from Felix Schröder, and a complete game summary.",
+    "Alt Text Image": "Official header image for OneHit game - Steam 697270",
+    "Canonical URL": "https://gusku.site/game/onehit",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"OneHit\", \"description\": \"Looking for information on OneHit? Check out the release date (Oct 31, 2017), developer insights from Felix Schr\\u00f6der, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 31, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Felix Schr\\u00f6der\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Felix Schr\\u00f6der\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/697270/header.jpg?t=1509466266\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

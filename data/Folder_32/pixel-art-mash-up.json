@@ -1,0 +1,21 @@
+{
+    "AppID": 1403130,
+    "Name": "Pixel Art - Mash-Up",
+    "Release date": "Sep 14, 2020",
+    "About the game": "This game is a mash-up of pixel art made by at least 14 different artists. As the development of the game continues we hope to feature art from a few dozen different artists. I feel this is a good way to showcase a lot of different artists and support the indie community. In this melee fighter, the game generates different waves every time and each run will be different from the last. You will be trying to survive waves of increasingly difficult enemies while leveling up your skills and making your character stronger. In Arcade Mode you will start with every skill unlocked. Punch, Kick, Sword, and Double Jump. You will also be able to continue when you die. This is a good way to learn how each enemy attacks since every enemy will attack differently. In Survival Mode you will start with only the ability to punch and block. When you defeat an enemy you will gain XP. When you level up your HP will be replenished and you will receive 2 skill points that you can spend to unlock new attacks and increase attack damage. Every other time you level up your max HP will be increased. This will allow you to play a little more aggressively if you choose. Things you can unlock: Punch Combo - Instead of only punching once, you can time your punch and punch again after ( or button mash ). Kick - Allows you to kick and execute a kick from a punch or sword attack if pressed at the correct time. Sword - The sword is a slower attack that does more damage, you can execute a punch or kick from the sword attack if the timing is right. Double Jump - Allows you to double jump. Gravity - Decrease gravity, allowing you to jump higher and get on those pesky platforms. Critical Chance - Increase your ability to land a critical hit in combat. Critical Damage - Increases your critical hit damage.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1403130/header.jpg?t=1600341439",
+    "Price": 0.99,
+    "Developers": "Vonderbear",
+    "Publishers": "Vonderbear",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1403130/ss_a0a45f0f18d30a903e55fcb002ecb7e49039f543.1920x1080.jpg?t=1600341439,https://cdn.akamai.steamstatic.com/steam/apps/1403130/ss_7db4c98df97c371416e42585e8fddf3fa42f9d98.1920x1080.jpg?t=1600341439,https://cdn.akamai.steamstatic.com/steam/apps/1403130/ss_468c41757aefe7d6686fb785fb7b5078f34ca4b3.1920x1080.jpg?t=1600341439,https://cdn.akamai.steamstatic.com/steam/apps/1403130/ss_8a991bf8a107258b597deb0132f264d51188452e.1920x1080.jpg?t=1600341439,https://cdn.akamai.steamstatic.com/steam/apps/1403130/ss_dc2df2cefa8b1d233f35c1f46be1c3575655323e.1920x1080.jpg?t=1600341439",
+    "Slug": "pixel-art-mash-up",
+    "Meta Title": "Pixel Art - Mash-Up: Sep 14, 2020, Vonderbear and Full Ov...",
+    "Meta Description": "Looking for information on Pixel Art - Mash-Up? Check out the release date (Sep 14, 2020), developer insights from Vonderbear, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixel Art - Mash-Up game - Steam 1403130",
+    "Canonical URL": "https://gusku.site/game/pixel-art-mash-up",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixel Art - Mash-Up\", \"description\": \"Looking for information on Pixel Art - Mash-Up? Check out the release date (Sep 14, 2020), developer insights from Vonderbear, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 14, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vonderbear\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vonderbear\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1403130/header.jpg?t=1600341439\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

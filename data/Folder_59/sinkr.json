@@ -1,0 +1,21 @@
+{
+    "AppID": 676420,
+    "Name": "SiNKR",
+    "Release date": "Oct 12, 2017",
+    "About the game": "SiNKR is a minimalist puzzler. There is just you, hooks, pucks, and various contraptions you need to finish each level. Sink all the pucks to advance. Key Features Each level is handcrafted No scores, no timers, no text, no distractions Responsive ambient music Cross platform cloud saves Full controller support Steam achievements",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/676420/header.jpg?t=1656358105",
+    "Price": 3.99,
+    "Developers": "Robert Wahler",
+    "Publishers": "Wahler Digital",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/676420/ss_55f6d949b9ed3530f52420ad819a6a4764a7617a.1920x1080.jpg?t=1656358105,https://cdn.akamai.steamstatic.com/steam/apps/676420/ss_2a275eacb476e861f88f6edd715595c6d166162a.1920x1080.jpg?t=1656358105,https://cdn.akamai.steamstatic.com/steam/apps/676420/ss_16f3cfe4c2e03206b03c36296a51611e7e3d59ce.1920x1080.jpg?t=1656358105,https://cdn.akamai.steamstatic.com/steam/apps/676420/ss_aac36ec7df5d57bea60f5afdfc9feef0705ed1c6.1920x1080.jpg?t=1656358105,https://cdn.akamai.steamstatic.com/steam/apps/676420/ss_0f82577aa63105a77411f5e425375ceb09ad1a17.1920x1080.jpg?t=1656358105,https://cdn.akamai.steamstatic.com/steam/apps/676420/ss_971df4893eee6348ad2f6371da8a5902b34b2c8c.1920x1080.jpg?t=1656358105",
+    "Slug": "sinkr",
+    "Meta Title": "SiNKR: Oct 12, 2017, Robert Wahler and Full Overview",
+    "Meta Description": "Looking for information on SiNKR? Check out the release date (Oct 12, 2017), developer insights from Robert Wahler, and a complete game summary.",
+    "Alt Text Image": "Official header image for SiNKR game - Steam 676420",
+    "Canonical URL": "https://gusku.site/game/sinkr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SiNKR\", \"description\": \"Looking for information on SiNKR? Check out the release date (Oct 12, 2017), developer insights from Robert Wahler, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 12, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Robert Wahler\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Wahler Digital\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/676420/header.jpg?t=1656358105\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1689250,
+    "Name": "GATE",
+    "Release date": "Jul 30, 2021",
+    "About the game": "Easily play tabletop games like D&amp;D with your friends. GATE was built with simplicity in mind - allowing people to play games and connect with friends online. If you're hosting the game, your friends can download the demo version and join your games for free. No need to convince them to spend a dime. Features A simple server browser allowing you to host and join games with ease. Synchronized drawings let you draw out your session on the fly. Support for 2D and 3D token art. 3D content can be .STL, .FBX, or .OBJ. Yes, you can use your HeroForge mini. Seamlessly load maps in the middle of combat. Apply map layers to show secret rooms and other areas. Add or remove fog to hide and reveal parts of your scene as players explore. Steam Workshop lets players share tokens and maps. Intuitive dice roller, with the ability to support complex rolls. In-game chat option if voice chat is unavailable. GATE Includes Hundreds of pieces of token art, with more added regularly. Access to the Steam Workshop with maps and tokens available to download - for free. SRD content for D&amp;D 5th edition spells and monsters.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1689250/header.jpg?t=1649432807",
+    "Price": 4.99,
+    "Developers": "Banshee Cat",
+    "Publishers": "Banshee Cat",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_30360050916dc9f719239d39457a4a9940f2dd1f.1920x1080.jpg?t=1649432807,https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_7cd83b623ece7c9947cb35357497289dddcbbbb0.1920x1080.jpg?t=1649432807,https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_273c168b84cb94e415bd58d52ef016edcafd4279.1920x1080.jpg?t=1649432807,https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_8614c4c2107e92e33bbbb85c703ae483568d0732.1920x1080.jpg?t=1649432807,https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_57959bae4a019f0c1f8f785c3e0d801da3a5bf79.1920x1080.jpg?t=1649432807,https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_ef05401c065333893b3066bfdd4d3e88b989d16a.1920x1080.jpg?t=1649432807,https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_3ce766d2c30c7f3eb188398f352d927a4f052bee.1920x1080.jpg?t=1649432807,https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_ecb06c5c8824facf5590a8147d305855147d1230.1920x1080.jpg?t=1649432807,https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_9a5320ae5b39fca02bb9f26474cad4b874c25682.1920x1080.jpg?t=1649432807,https://cdn.akamai.steamstatic.com/steam/apps/1689250/ss_0fcca33be9221fbb5512a62ed4cc3ef0d5339bcc.1920x1080.jpg?t=1649432807",
+    "Slug": "gate",
+    "Meta Title": "GATE: Jul 30, 2021, Banshee Cat and Full Overview",
+    "Meta Description": "Looking for information on GATE? Check out the release date (Jul 30, 2021), developer insights from Banshee Cat, and a complete game summary.",
+    "Alt Text Image": "Official header image for GATE game - Steam 1689250",
+    "Canonical URL": "https://gusku.site/game/gate",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GATE\", \"description\": \"Looking for information on GATE? Check out the release date (Jul 30, 2021), developer insights from Banshee Cat, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Banshee Cat\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Banshee Cat\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1689250/header.jpg?t=1649432807\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

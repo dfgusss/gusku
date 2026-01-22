@@ -1,0 +1,21 @@
+{
+    "AppID": 1849170,
+    "Name": "Nested Rooms",
+    "Release date": "Jan 12, 2022",
+    "About the game": "Nested Rooms is an experimental project to make a first person 3D not-quite-euclidean experience. The game takes place in a few small buildings that contain more rooms than is logically possible. Game-play consists of navigating the non-intuitive spatial mapping while trying to find and complete tasks to progress to the next level. So its basically a maze except more complicated. This game and all its assets were made single-handedly by someone with no prior commercial game development or graphical design experience. You will probably find this reflected in the quality of the game. The core component of this game is that you can loop round to the same point in co-ordinate space and end up in a different room. This allows several rooms to coexist in the same spatial area independently of one another and makes for some confusing navigation. With the current update there's about 25 minutes of content assuming you don't get too lost. This game features: Textures 3D models Sound effects Coding Buttons Windows Doors A couple of houses that have the 'nested rooms' effect A maze with the same mechanic A couple of puzzles besides that which feature the same mechanic A painting of duck",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1849170/header.jpg?t=1650065204",
+    "Price": 0.99,
+    "Developers": "Nested Rooms Developer",
+    "Publishers": "Nested Rooms Developer",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1849170/ss_99b49bcdc26ad42df60ed65cfe6f18fc21c31533.1920x1080.jpg?t=1650065204,https://cdn.akamai.steamstatic.com/steam/apps/1849170/ss_1e6ef137b507f50f60887e1b436e586d5a0a89fe.1920x1080.jpg?t=1650065204,https://cdn.akamai.steamstatic.com/steam/apps/1849170/ss_417b4db7fd694f3eee0b24aaee7581e1a95410b9.1920x1080.jpg?t=1650065204,https://cdn.akamai.steamstatic.com/steam/apps/1849170/ss_0dee487ef541dddc4336253a6f4ede656c4c9c15.1920x1080.jpg?t=1650065204,https://cdn.akamai.steamstatic.com/steam/apps/1849170/ss_24fca8e27aad2e277685c890cd6da4442c0a2b6a.1920x1080.jpg?t=1650065204,https://cdn.akamai.steamstatic.com/steam/apps/1849170/ss_c26836353276d3cbe98861e25cabcb8279f46c19.1920x1080.jpg?t=1650065204",
+    "Slug": "nested-rooms",
+    "Meta Title": "Nested Rooms: Jan 12, 2022, Nested Rooms Developer and Fu...",
+    "Meta Description": "Looking for information on Nested Rooms? Check out the release date (Jan 12, 2022), developer insights from Nested Rooms Developer, and a complete game ...",
+    "Alt Text Image": "Official header image for Nested Rooms game - Steam 1849170",
+    "Canonical URL": "https://gusku.site/game/nested-rooms",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nested Rooms\", \"description\": \"Looking for information on Nested Rooms? Check out the release date (Jan 12, 2022), developer insights from Nested Rooms Developer, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nested Rooms Developer\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nested Rooms Developer\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1849170/header.jpg?t=1650065204\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1462200,
+    "Name": "Speyarranoth",
+    "Release date": "Nov 23, 2020",
+    "About the game": "Speyarranoth is a classic sci-fi space asteroid shooter in 3D. You control the game using WASD and shoot with the space key. Effects include explosions, lasers, sound effects and background music. The game is made for desktop in Unity with the good graphics pipeline, named HDRP: High Definition Rendering Pipeline. The game's current incarnation is an early prototype and will be released in Early Access.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1462200/header.jpg?t=1606234717",
+    "Price": 0.99,
+    "Developers": "Eivind Magnus Noersterud Hvidevold",
+    "Publishers": "Eivind Magnus Noersterud Hvidevold",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1462200/ss_c140593ac2f4e3814521b74bb6c66f80dbe38541.1920x1080.jpg?t=1606234717,https://cdn.akamai.steamstatic.com/steam/apps/1462200/ss_5842de459d1b600aab7e49b45bde7adc864f7e7b.1920x1080.jpg?t=1606234717,https://cdn.akamai.steamstatic.com/steam/apps/1462200/ss_3106974aaf8c66e8b20ab4eacdb3ff9f0fbbf796.1920x1080.jpg?t=1606234717,https://cdn.akamai.steamstatic.com/steam/apps/1462200/ss_9468d95cca4e43b9fb1d9ec0fe6cf3873736de94.1920x1080.jpg?t=1606234717,https://cdn.akamai.steamstatic.com/steam/apps/1462200/ss_82e27a8a54d0320b2497a4d682f353992ccd34b4.1920x1080.jpg?t=1606234717",
+    "Slug": "speyarranoth",
+    "Meta Title": "Speyarranoth: Nov 23, 2020, Eivind Magnus Noersterud Hvid...",
+    "Meta Description": "Looking for information on Speyarranoth? Check out the release date (Nov 23, 2020), developer insights from Eivind Magnus Noersterud Hvidevold, and a co...",
+    "Alt Text Image": "Official header image for Speyarranoth game - Steam 1462200",
+    "Canonical URL": "https://gusku.site/game/speyarranoth",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Speyarranoth\", \"description\": \"Looking for information on Speyarranoth? Check out the release date (Nov 23, 2020), developer insights from Eivind Magnus Noersterud Hvidevold, and a co...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 23, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eivind Magnus Noersterud Hvidevold\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Eivind Magnus Noersterud Hvidevold\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1462200/header.jpg?t=1606234717\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

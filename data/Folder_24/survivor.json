@@ -1,0 +1,21 @@
+{
+    "AppID": 1031700,
+    "Name": "Survivor",
+    "Release date": "Apr 22, 2019",
+    "About the game": "Survivor is a first-person 3D adventure game originally made for the ARS17 exhibition in Kiasma Museum of Contemporary Art, Helsinki. Survivor takes place in an empty museum where you are put into a tribe of ten and told to vote each other out one by one until there is only one left. Your goal is to be that sole survivor. Concept, art, and writing: Reija Meriläinen Programming: Santeri Räisänen 3D stuff: Eetu Sihvonen &amp; Reija Meriläinen Sound design: Eero Pulkkinen Music: Aukra CONTROLS: Moving around: WASD + mouselook / arrow keys + mouselook (run with shift down) Select: Space / Enter Skip dialogue: Space / Enter Quit game: Esc",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1031700/header.jpg?t=1555938033",
+    "Price": 0.0,
+    "Developers": "Reija Meriläinen",
+    "Publishers": "Reija Meriläinen",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1031700/ss_51405070c01aae57c46a2e957cd28c1fdf1fc00c.1920x1080.jpg?t=1555938033,https://cdn.akamai.steamstatic.com/steam/apps/1031700/ss_f9211d4383fe815162617ea2b656eee81fcb7b39.1920x1080.jpg?t=1555938033,https://cdn.akamai.steamstatic.com/steam/apps/1031700/ss_c965772fc2ab3dffa4de90b190e1108d3652d034.1920x1080.jpg?t=1555938033,https://cdn.akamai.steamstatic.com/steam/apps/1031700/ss_1b6109c18be13108a6d61003d2430218027f3c5f.1920x1080.jpg?t=1555938033,https://cdn.akamai.steamstatic.com/steam/apps/1031700/ss_f51463fa080e007c4af9d147f4233d4a4ec991f7.1920x1080.jpg?t=1555938033,https://cdn.akamai.steamstatic.com/steam/apps/1031700/ss_45a357f00dd7e0e431756f292845c1a8059817a6.1920x1080.jpg?t=1555938033,https://cdn.akamai.steamstatic.com/steam/apps/1031700/ss_8db00b1093ec7a9e595d8a79f28eba2772bae3e2.1920x1080.jpg?t=1555938033",
+    "Slug": "survivor",
+    "Meta Title": "Survivor: Apr 22, 2019, Reija Meriläinen and Full Overview",
+    "Meta Description": "Looking for information on Survivor? Check out the release date (Apr 22, 2019), developer insights from Reija Meriläinen, and a complete game summary.",
+    "Alt Text Image": "Official header image for Survivor game - Steam 1031700",
+    "Canonical URL": "https://gusku.site/game/survivor",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Survivor\", \"description\": \"Looking for information on Survivor? Check out the release date (Apr 22, 2019), developer insights from Reija Meril\\u00e4inen, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 22, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Reija Meril\\u00e4inen\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Reija Meril\\u00e4inen\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1031700/header.jpg?t=1555938033\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

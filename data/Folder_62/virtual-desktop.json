@@ -1,0 +1,21 @@
+{
+    "AppID": 382110,
+    "Name": "Virtual Desktop",
+    "Release date": "Mar 31, 2016",
+    "About the game": "Virtual Desktop is an application for the Oculus Rift / Rift S, HTC Vive, Valve Index and Windows Mixed Reality headsets that lets you use your computer in VR. This app is NOT for the Oculus Quest. You can browse the web, watch movies, Netflix or even play games on a giant virtual screen. Other features include: Hardware accelerated 360 video playback Ability to play/stream YouTube 360 videos Browse and view 360 photos MilkDrop support for music visualization 3D Side-By-Side video support Game launcher with voice commands Multi-monitor Environment Editor to create custom environments Steam Workshop integration for environments Dashboard integration",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/382110/header.jpg?t=1626465090",
+    "Price": 14.99,
+    "Developers": "Guy Godin",
+    "Publishers": "Guy Godin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/382110/ss_30d2b76e5936d919e2c07bafbfb0b6f1f04eb6be.1920x1080.jpg?t=1626465090,https://cdn.akamai.steamstatic.com/steam/apps/382110/ss_fdc2f21d2aa5749d770a70831237d279b04c5cc8.1920x1080.jpg?t=1626465090,https://cdn.akamai.steamstatic.com/steam/apps/382110/ss_4f4d4108d32636f3dd905b1b50e138532889ff25.1920x1080.jpg?t=1626465090,https://cdn.akamai.steamstatic.com/steam/apps/382110/ss_fb046cbe88371e6d88f62af8837652cdee1926bc.1920x1080.jpg?t=1626465090,https://cdn.akamai.steamstatic.com/steam/apps/382110/ss_f66dc74f80c58618f032aecc78a960b213d7d4a5.1920x1080.jpg?t=1626465090,https://cdn.akamai.steamstatic.com/steam/apps/382110/ss_68e6b6d75d2df2ed28618e3ad6eb2baa93d15143.1920x1080.jpg?t=1626465090,https://cdn.akamai.steamstatic.com/steam/apps/382110/ss_647000a064e10599503750460c6e3dfc133c047d.1920x1080.jpg?t=1626465090,https://cdn.akamai.steamstatic.com/steam/apps/382110/ss_86cae5eebe142b7f6a6db311d075acf5b93f1567.1920x1080.jpg?t=1626465090,https://cdn.akamai.steamstatic.com/steam/apps/382110/ss_0302039c92cd91bcb93cc99d2e7ac6e176a8a6e0.1920x1080.jpg?t=1626465090",
+    "Slug": "virtual-desktop",
+    "Meta Title": "Virtual Desktop: Mar 31, 2016, Guy Godin and Full Overview",
+    "Meta Description": "Looking for information on Virtual Desktop? Check out the release date (Mar 31, 2016), developer insights from Guy Godin, and a complete game summary.",
+    "Alt Text Image": "Official header image for Virtual Desktop game - Steam 382110",
+    "Canonical URL": "https://gusku.site/game/virtual-desktop",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Virtual Desktop\", \"description\": \"Looking for information on Virtual Desktop? Check out the release date (Mar 31, 2016), developer insights from Guy Godin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 31, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Guy Godin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Guy Godin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/382110/header.jpg?t=1626465090\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

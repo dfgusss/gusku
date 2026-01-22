@@ -1,0 +1,21 @@
+{
+    "AppID": 1082520,
+    "Name": "Tower Ascend",
+    "Release date": "Jun 20, 2019",
+    "About the game": "Your castle is falling apart! Dash, wall-jump, and use power-ups to escape your imminent doom with up to four players in this infinitely scrolling platformer. Gameplay The game is played in two modes, singleplayer and multiplayer. In singleplayer, your ultimate goal is to survive for as long as possible. In multiplayer, your goal is to compete against your friend/s to become the last man standing. Pick up power-ups along the way for an extra powerful dash, a double jump, or a second chance against any threat. There are two levels thus far, The Knight's Tower and The Necromancers Tower. Level is chosen at random for each match. More levels are planned to be added later, like The Mines and The Ruins. Controls Jump with W or Arrow Up on keyboard, and with A on controller. Walk left or right with A/D or Left Arrow/Right Arrow on keyboard, and with D-Pad or Left Stick on controller. Dash by double-tapping A/D or Left Arrow/Right Arrow on keyboard, and with D-Pad on controller. Controller is recommended. NOTE: Each and every player is required their own controller in multiplayer, even player 1. It is not possible to combine keyboard and controllers. I only have access to one desktop during development. I therefore do not know the system minimum for running the game. If you encounter any performance problems or other bugs, let me know through my email or a message on Steam. I will respond as quickly as possible.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1082520/header.jpg?t=1561022878",
+    "Price": 1.99,
+    "Developers": "Jonas Dall",
+    "Publishers": "Jonas Dall",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1082520/ss_3711820a12d2b7663a6c0f4f1273e3360bd7f91e.1920x1080.jpg?t=1561022878,https://cdn.akamai.steamstatic.com/steam/apps/1082520/ss_560469196bf28ffa49b18ee14b986e7a580ab09d.1920x1080.jpg?t=1561022878,https://cdn.akamai.steamstatic.com/steam/apps/1082520/ss_a00df4d5f09fd8ee599f7f0c27b1b637bf7268f2.1920x1080.jpg?t=1561022878,https://cdn.akamai.steamstatic.com/steam/apps/1082520/ss_5300c991abac46aed400a07d6ba74b975ac7f4d7.1920x1080.jpg?t=1561022878,https://cdn.akamai.steamstatic.com/steam/apps/1082520/ss_92b3109e3ff254b10e8ccd4383f51f6660d8d064.1920x1080.jpg?t=1561022878",
+    "Slug": "tower-ascend",
+    "Meta Title": "Tower Ascend: Jun 20, 2019, Jonas Dall and Full Overview",
+    "Meta Description": "Looking for information on Tower Ascend? Check out the release date (Jun 20, 2019), developer insights from Jonas Dall, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tower Ascend game - Steam 1082520",
+    "Canonical URL": "https://gusku.site/game/tower-ascend",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tower Ascend\", \"description\": \"Looking for information on Tower Ascend? Check out the release date (Jun 20, 2019), developer insights from Jonas Dall, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 20, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jonas Dall\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jonas Dall\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1082520/header.jpg?t=1561022878\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

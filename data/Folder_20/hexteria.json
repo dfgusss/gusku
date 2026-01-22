@@ -1,0 +1,21 @@
+{
+    "AppID": 1474550,
+    "Name": "Hexteria",
+    "Release date": "Aug 30, 2021",
+    "About the game": "Hexteria is a casual but challenging Turn-Based Strategy and Puzzle game. The concept is simple: each turn you rotate one hexagonal tile on the board to take over your opponents' tiles. Online and Offline Multiplayer for up to 6 players Single Player Campaign with 42 levels Use the Level Editor to create, share and play your own levels AI controlled players with 4 difficulty levels Unique challenges which will grant you 5 different powerups! The game can be played with 2 to 6 players, with players joining online, offline or with bots as a substitute. Each player is controlling a single color of tiles on the board. Every turn, the player is allowed to rotate one tile of the color that they control clockwise. If the tile now points at an opponent's tile or an empty tile, that tile will change color and spread that color to all the tiles connected to it. In the end, your goal is to make sure no other player has any more tiles of their color on the board! Besides the regular tiles, the game features 8 special tile types: The Double Tile : points in both directions The Counterclockwise Tile : rotates counterclockwise The Tunnel Tile : can only be taken over from two ends The Suction Tile : assumes the color of the tile it points at The Flip Tile : flips when it changes color The Freeze Tile : freezes for a turn The Fire Tile : burns after the turn it was taken over The Bomb Tile : explodes after changing color twice",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1474550/header.jpg?t=1647267117",
+    "Price": 5.99,
+    "Developers": "Red Bird Studios",
+    "Publishers": "Red Bird Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1474550/ss_91d187251605b222e915a94126007c7ce5907d67.1920x1080.jpg?t=1647267117,https://cdn.akamai.steamstatic.com/steam/apps/1474550/ss_f5ae23018808431c7a68fe7ba04e6e487eb2ce57.1920x1080.jpg?t=1647267117,https://cdn.akamai.steamstatic.com/steam/apps/1474550/ss_3c3ef6acbbdaa7a5291ad8d26aa2a85505b2254b.1920x1080.jpg?t=1647267117,https://cdn.akamai.steamstatic.com/steam/apps/1474550/ss_d623606b514cf0e59811669f96b10ac3885fc2c3.1920x1080.jpg?t=1647267117,https://cdn.akamai.steamstatic.com/steam/apps/1474550/ss_517d7f54c840a3b95a0d016567df00defbdf5e04.1920x1080.jpg?t=1647267117",
+    "Slug": "hexteria",
+    "Meta Title": "Hexteria: Aug 30, 2021, Red Bird Studios and Full Overview",
+    "Meta Description": "Looking for information on Hexteria? Check out the release date (Aug 30, 2021), developer insights from Red Bird Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hexteria game - Steam 1474550",
+    "Canonical URL": "https://gusku.site/game/hexteria",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hexteria\", \"description\": \"Looking for information on Hexteria? Check out the release date (Aug 30, 2021), developer insights from Red Bird Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Red Bird Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Red Bird Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1474550/header.jpg?t=1647267117\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

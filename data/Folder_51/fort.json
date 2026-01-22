@@ -1,0 +1,21 @@
+{
+    "AppID": 905020,
+    "Name": "Fort",
+    "Release date": "Aug 9, 2018",
+    "About the game": "GamePlay: Your trapped in a fort. Kill soldiers to survive. There is no way out. Features: • FPS: Fortis a first person shooter • KillCount: Keeps track of all soldiers killed • Survive: Survive as long as possible in a fort filled with enemy soldiers • PlayTime: Keeps track of how long you have played • FortLevel: Kill soldiers to raise the fort level • Score: Keeps track of your score count",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/905020/header.jpg?t=1533831888",
+    "Price": 2.99,
+    "Developers": "crowgames",
+    "Publishers": "crowgames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/905020/ss_f7016bbfb900dd658658707ceabe96ad52b011da.1920x1080.jpg?t=1533831888,https://cdn.akamai.steamstatic.com/steam/apps/905020/ss_ad02f593cbd217a1f8b2673e933e00a22b360550.1920x1080.jpg?t=1533831888,https://cdn.akamai.steamstatic.com/steam/apps/905020/ss_9d8337fcac6605a64a1b4f155c6b7f15ac796303.1920x1080.jpg?t=1533831888,https://cdn.akamai.steamstatic.com/steam/apps/905020/ss_81f36b0b6d136dae22f2aa24df2f071fad29f528.1920x1080.jpg?t=1533831888,https://cdn.akamai.steamstatic.com/steam/apps/905020/ss_2516bebbbbb90976cbf90f096e7039a5514fc8c4.1920x1080.jpg?t=1533831888",
+    "Slug": "fort",
+    "Meta Title": "Fort: Aug 9, 2018, crowgames and Full Overview",
+    "Meta Description": "Looking for information on Fort? Check out the release date (Aug 9, 2018), developer insights from crowgames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Fort game - Steam 905020",
+    "Canonical URL": "https://gusku.site/game/fort",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fort\", \"description\": \"Looking for information on Fort? Check out the release date (Aug 9, 2018), developer insights from crowgames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 9, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"crowgames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"crowgames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/905020/header.jpg?t=1533831888\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

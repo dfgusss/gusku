@@ -1,0 +1,21 @@
+{
+    "AppID": 468350,
+    "Name": "Hexaverse",
+    "Release date": "Aug 17, 2018",
+    "About the game": "Hexaverse is a turn based, 5X ( eXcavate , eXplore, eXpand, eXploit, and eXterminate) multiplayer strategy game. You'll strive to conquer volumetric planets against an AI or other players. Some planets are as you would expect: flat, hilly, covered by oceans. Others ... not so much. Feel free to design your own. Sometimes you will need to build bridges to reach your destination. Or it may be strategically useful to excavate tunnels or caves ... or to blow up a mountain. With more dimensions come more strategic options for you to exploit, but also more paths for your opponents to avoid your defenses. Resources never deplete, but the quest for ever more also never ends. And literally undermining someone else's mines can be surprisingly effective. In Hexaverse, good offense and defense requires diversity and cleverness. You typically don't build huge armies here, much less of only one type. Every single unit matters. A few artillery tanks in just the right spots might do all the damage you need. If that doesn't work, try nuking from sub-orbit. Be careful, though, not to rely on the unseen to remain as it appears. You never quite know when your enemies just might have planted a big bomb beneath your main base ... a few rounds before you installed that subsurface scanner. Try to see everything, exploit what others can't see, for they will try to do the same to you. If only that was all that mattered...",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/468350/header.jpg?t=1599672450",
+    "Price": 4.99,
+    "Developers": "Stefan Elsen",
+    "Publishers": "Stefan Elsen",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/468350/ss_2a6699eeb3c3bbaa6cd756ad38475dc2c12870e2.1920x1080.jpg?t=1599672450,https://cdn.akamai.steamstatic.com/steam/apps/468350/ss_e4379274782f480fd079906e912b55f3d391b6c8.1920x1080.jpg?t=1599672450,https://cdn.akamai.steamstatic.com/steam/apps/468350/ss_2ab1a3abb756dc35b372e54caa258efc4c6d95d4.1920x1080.jpg?t=1599672450,https://cdn.akamai.steamstatic.com/steam/apps/468350/ss_6534abfe8383faccdafb0fa6615ee98f576fbebe.1920x1080.jpg?t=1599672450,https://cdn.akamai.steamstatic.com/steam/apps/468350/ss_3fbe6b71019f5e0e291e3197794aca27b075bf43.1920x1080.jpg?t=1599672450",
+    "Slug": "hexaverse",
+    "Meta Title": "Hexaverse: Aug 17, 2018, Stefan Elsen and Full Overview",
+    "Meta Description": "Looking for information on Hexaverse? Check out the release date (Aug 17, 2018), developer insights from Stefan Elsen, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hexaverse game - Steam 468350",
+    "Canonical URL": "https://gusku.site/game/hexaverse",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hexaverse\", \"description\": \"Looking for information on Hexaverse? Check out the release date (Aug 17, 2018), developer insights from Stefan Elsen, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 17, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Stefan Elsen\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Stefan Elsen\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/468350/header.jpg?t=1599672450\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

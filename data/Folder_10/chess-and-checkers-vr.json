@@ -1,0 +1,21 @@
+{
+    "AppID": 606270,
+    "Name": "Chess and Checkers VR",
+    "Release date": "Mar 14, 2017",
+    "About the game": "This game allows you to play both chess and checkers in virtual reality, either against the computer AI, or against a friend on the same computer (using desktop screen and mouse). There are 3 AI settings to choose from and the chess board measures 1.5m x 1.5m. The game can be played both room scale and seated. To play the game room scale, just place your controller on the piece you wish to move and then pull the trigger whilst lifting the piece up. Then place it over a valid square and let go of the trigger, when that square has turned green. To play it seated, you can simply hold the 'Point' button down and then aim at the piece you wish to select, before pulling the trigger. If playing against a friend on the same computer, then they will need to use the desktop screen and mouse. They can then play by first clicking on the desired piece and then clicking on the valid square they wish to move to.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/606270/header.jpg?t=1585706841",
+    "Price": 4.99,
+    "Developers": "MobileFusion Apps Ltd",
+    "Publishers": "MobileFusion Apps Ltd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/606270/ss_aa395b55f9a4c84b18f2356ef7ced37b2d3cc820.1920x1080.jpg?t=1585706841,https://cdn.akamai.steamstatic.com/steam/apps/606270/ss_b2e710e5bae907ba628af655ef86b7bb3419768d.1920x1080.jpg?t=1585706841,https://cdn.akamai.steamstatic.com/steam/apps/606270/ss_992433b20f6e45552c543304755423e48d23d0b4.1920x1080.jpg?t=1585706841,https://cdn.akamai.steamstatic.com/steam/apps/606270/ss_77d0d79854cd8301347ff9eba23ca4a16f2441b3.1920x1080.jpg?t=1585706841,https://cdn.akamai.steamstatic.com/steam/apps/606270/ss_033a865260230c69fc5680d2285a8d35ca32ed6f.1920x1080.jpg?t=1585706841",
+    "Slug": "chess-and-checkers-vr",
+    "Meta Title": "Chess and Checkers VR: Mar 14, 2017, MobileFusion Apps Lt...",
+    "Meta Description": "Looking for information on Chess and Checkers VR? Check out the release date (Mar 14, 2017), developer insights from MobileFusion Apps Ltd, and a comple...",
+    "Alt Text Image": "Official header image for Chess and Checkers VR game - Steam 606270",
+    "Canonical URL": "https://gusku.site/game/chess-and-checkers-vr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chess and Checkers VR\", \"description\": \"Looking for information on Chess and Checkers VR? Check out the release date (Mar 14, 2017), developer insights from MobileFusion Apps Ltd, and a comple...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 14, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"MobileFusion Apps Ltd\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MobileFusion Apps Ltd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/606270/header.jpg?t=1585706841\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

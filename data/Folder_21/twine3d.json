@@ -1,0 +1,21 @@
+{
+    "AppID": 769030,
+    "Name": "Twine3D",
+    "Release date": "Dec 26, 2017",
+    "About the game": "Twine3D is a third person view control path craft game. Control: Move forward:default keyboard button w; Move back:default keyboard button s; Move left:default keyboard button a; Move right:default keyboard button d; Move up:default keyboard button space; Move down:default keyboard button q; Long click mouse left button to rotate the camera; Long click mouse right button to rotate the player cube; Two Game Mode:Creative and Chase. Game Mode Creative:free to move.Player can save the scene as a Twine3D file, and load a Twine3D file to create the scene. Game Mode Chase:control the player cube to chase the AICube.Dodge the AICube path and walls,twine the AICube until win.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/769030/header.jpg?t=1629450264",
+    "Price": 0.59,
+    "Developers": "ijal Studio",
+    "Publishers": "HandMade Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/769030/ss_d0e724ce70c96871a19f247c37c1c8eec52a9fdd.1920x1080.jpg?t=1629450264,https://cdn.akamai.steamstatic.com/steam/apps/769030/ss_ce3503447ba2e9ca010d8445a0992ea110185d40.1920x1080.jpg?t=1629450264,https://cdn.akamai.steamstatic.com/steam/apps/769030/ss_b8e556d4c90ca583dd7b34a98eaf922bb8c58688.1920x1080.jpg?t=1629450264,https://cdn.akamai.steamstatic.com/steam/apps/769030/ss_e5b7db74063a289656acbda92412a8abd6babdff.1920x1080.jpg?t=1629450264,https://cdn.akamai.steamstatic.com/steam/apps/769030/ss_fd31a4e8b736fccb75a658a271b06ccdb00d6a68.1920x1080.jpg?t=1629450264",
+    "Slug": "twine3d",
+    "Meta Title": "Twine3D: Dec 26, 2017, ijal Studio and Full Overview",
+    "Meta Description": "Looking for information on Twine3D? Check out the release date (Dec 26, 2017), developer insights from ijal Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Twine3D game - Steam 769030",
+    "Canonical URL": "https://gusku.site/game/twine3d",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Twine3D\", \"description\": \"Looking for information on Twine3D? Check out the release date (Dec 26, 2017), developer insights from ijal Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 26, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"ijal Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HandMade Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/769030/header.jpg?t=1629450264\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.59, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

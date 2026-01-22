@@ -1,0 +1,21 @@
+{
+    "AppID": 854250,
+    "Name": "FPV Freerider",
+    "Release date": "May 17, 2018",
+    "About the game": "RC Quadcopter Racing Simulator Practice racing or learn new freestyle tricks without the risk of crashing your real drone. Features LOS (line of sight) and FPV (first person view) flying. Includes self-leveling and acro mode as well as 3D flight mode (inverted thrust). Supports control mode 1,2,3 and 4. Ability to adjust settings for input rates, camera and physics. Includes six sceneries as well as a racetrack generator that can generate millions of tracks automatically. Each track has a timed race feature. This is the classic version of FPV Freerider, there is also FPV Freerider Recharged which has some more detailed sceneries and extra functions. It is highly recommended to use a USB controller/RC radio. * * Controllers that have been succesfully used include FrSKY Taranis, Spektrum, Devo, DJI FPV, Turnigy, Flysky, Jumper, Radiomaster, Eachine, Detrum, Graupner and Futaba RC radios, Realflight and Esky USB Controllers, Logitech, Moga, Xbox and Playstation gamepads.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/854250/header.jpg?t=1641461315",
+    "Price": 5.99,
+    "Developers": "John Holmvall",
+    "Publishers": "Jord&Eld",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/854250/ss_2aa6fcf3bc339e78dda91abf651a7422bce395ba.1920x1080.jpg?t=1641461315,https://cdn.akamai.steamstatic.com/steam/apps/854250/ss_5c2bff87c6cf98ec43d71f32e0a2d82bc31a172a.1920x1080.jpg?t=1641461315,https://cdn.akamai.steamstatic.com/steam/apps/854250/ss_daa3cf972696e77f7dfafd39af7a8d30584ee3cd.1920x1080.jpg?t=1641461315,https://cdn.akamai.steamstatic.com/steam/apps/854250/ss_b430c4301787f00b5edcfc76810b21e096eff52a.1920x1080.jpg?t=1641461315,https://cdn.akamai.steamstatic.com/steam/apps/854250/ss_c82c68fd868f0ba4e3cd66704ff1bcb5f557e537.1920x1080.jpg?t=1641461315,https://cdn.akamai.steamstatic.com/steam/apps/854250/ss_6944ac74eed57ca3b4c148ef0dac56a8eaf05cca.1920x1080.jpg?t=1641461315,https://cdn.akamai.steamstatic.com/steam/apps/854250/ss_0800164e21d3bb744084be688c2f76b0ae74d331.1920x1080.jpg?t=1641461315",
+    "Slug": "fpv-freerider",
+    "Meta Title": "FPV Freerider: May 17, 2018, John Holmvall and Full Overview",
+    "Meta Description": "Looking for information on FPV Freerider? Check out the release date (May 17, 2018), developer insights from John Holmvall, and a complete game summary.",
+    "Alt Text Image": "Official header image for FPV Freerider game - Steam 854250",
+    "Canonical URL": "https://gusku.site/game/fpv-freerider",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FPV Freerider\", \"description\": \"Looking for information on FPV Freerider? Check out the release date (May 17, 2018), developer insights from John Holmvall, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 17, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"John Holmvall\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jord&Eld\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/854250/header.jpg?t=1641461315\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

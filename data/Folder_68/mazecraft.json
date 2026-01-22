@@ -1,0 +1,21 @@
+{
+    "AppID": 2233110,
+    "Name": "MazeCraft",
+    "Release date": "Dec 21, 2022",
+    "About the game": "-) Turn based pixel art roguelike RPG for hardcore players. -) Procedural generation of mazes and caves. -) A large number of characteristics of the game world. -) Monsters hunt the player and fight each other. -) Each monster is unique in terms of characteristics and behavior. -) Monsters are pumped during the game, the strongest one survives. -) Lots of game items, weapons, armor and artifacts. -) There are explosions, fire and the spread of fires. -) Strong boss and his minions. -) Each new game is unique and randomized as much as possible. Imagine a world where monsters evolve as you play. Their characteristics grow in battles with their own kind. After several hundred moves in the labyrinth, boss monsters naturally form, destroying everyone around. The player starts the game from a room in a maze. His task is to find the key, and then find the room with the exit from the labyrinth, the exit door cannot be opened without the key. . Then you need to defeat the boss and his minions. In some rooms of the labyrinth there are obelisks of monsters that spawn new monsters at a given frequency. Monsters can attack the player and each other while also pumping their characteristics. The player has five stats: life, strength, defense, luck, and mana. Life is taken from monsters and other events, and is restored by +1 to a maximum with each subsequent turn. Strength affects the force of the blow or the force of the shot. Defense reduces damage. Luck affects the ability to critically strike (double damage) and block a blow (half damage). Mana is needed and consumed when shooting from staves. Various items respawn in the labyrinth, helping to raise the characteristics of the player and monsters.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2233110/header.jpg?t=1671691354",
+    "Price": 6.79,
+    "Developers": "Rand Games",
+    "Publishers": "Rand Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2233110/ss_28d0dd0a26ac303b2db770fd72016493ee404810.1920x1080.jpg?t=1671691354,https://cdn.akamai.steamstatic.com/steam/apps/2233110/ss_8df92ea2d4399c4cab8b9e228ddfbf9d162969ae.1920x1080.jpg?t=1671691354,https://cdn.akamai.steamstatic.com/steam/apps/2233110/ss_5798bf37ea3d54f23d2352efd2383423c90a854b.1920x1080.jpg?t=1671691354,https://cdn.akamai.steamstatic.com/steam/apps/2233110/ss_2cd1e5c0a68bdd51dc2e979ad0efc43cabf09a56.1920x1080.jpg?t=1671691354,https://cdn.akamai.steamstatic.com/steam/apps/2233110/ss_c0bac97f058c34a8f978f32410dc90cc30bfcb71.1920x1080.jpg?t=1671691354,https://cdn.akamai.steamstatic.com/steam/apps/2233110/ss_4b75c58b0ab17ef515a25bca8a6225db368a399f.1920x1080.jpg?t=1671691354,https://cdn.akamai.steamstatic.com/steam/apps/2233110/ss_7b8f616f50568068d0b268577c84feb3c45dd54e.1920x1080.jpg?t=1671691354",
+    "Slug": "mazecraft",
+    "Meta Title": "MazeCraft: Dec 21, 2022, Rand Games and Full Overview",
+    "Meta Description": "Looking for information on MazeCraft? Check out the release date (Dec 21, 2022), developer insights from Rand Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for MazeCraft game - Steam 2233110",
+    "Canonical URL": "https://gusku.site/game/mazecraft",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MazeCraft\", \"description\": \"Looking for information on MazeCraft? Check out the release date (Dec 21, 2022), developer insights from Rand Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rand Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rand Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2233110/header.jpg?t=1671691354\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.79, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

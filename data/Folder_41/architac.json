@@ -1,0 +1,21 @@
+{
+    "AppID": 1203160,
+    "Name": "ArchiTac",
+    "Release date": "Jun 25, 2020",
+    "About the game": "ArchiTac is a resource gathering and crafting game where you play as TAC, an astronaut whose ship has crashed onto a deserted planet. In order to get off this planet and continue your journey, you will have to collect resources to find and repair your ship while fighting off the local wildlife who are not too happy about your presence here. Key Features Vertical Base Building - Build up to reach the many floating islands around this planet and find new buildings and resources to use. Antagonistic Wildlife - The local animals are none too happy about you being on their planet. You will have to either build ways to handle them or fight them off yourself lest they destroy all of your hard work. No Survival Mechanics - Tired of having to stop what you are doing in order to make sure your character drinks water every five seconds? So are we. In ArchiTac, your goal is to reach and repair your ship but if you want to just spend your time exploring the islands and building whatever you want you are free to do so without worry of death due to not eating a donut in the last minute. Controls Play Mode: WASD - Move Character Mouse - Look Around/Move Camera Left Mouse Button - Use Tool (Mine, Attack, Repair) Spacebar - Jump/Swim Up Control - Swim Down E - Interact (used for the Forge and Fish Press) B - Enter Build Mode (see below) V - Enter Delete Mode (see below) Build Mode (after hitting B): WASD - Move Character Mouse - Look Around/Aim Build Location Left Mouse Button - Build Piece QE - Rotate Piece ZX/Scrollwheel - Select a Different Piece Tab - View Piece Options Spacebar - Jump B - Exit Build Mode (Back to Play Mode) V - Enter Delete Mode (see below) Delete Mode: WASD - Move Character Mouse - Look Around/Aim at Piece to Delete Left Mouse Button - Delete Piece Spacebar - Jump B - Enter Build Mode (see above) V - Exit Delete Mode (Back to Play Mode)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1203160/header.jpg?t=1593121067",
+    "Price": 0.0,
+    "Developers": "Squish-Fish Games",
+    "Publishers": "Squish-Fish Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1203160/ss_4778cff075072ccedf63a62d684ae23c1a775c57.1920x1080.jpg?t=1593121067,https://cdn.akamai.steamstatic.com/steam/apps/1203160/ss_c8c8a8f583c5cc63ba68a0582d0268aa01e04c19.1920x1080.jpg?t=1593121067,https://cdn.akamai.steamstatic.com/steam/apps/1203160/ss_dae32c3b67e670adf246c913540338a5e359ba87.1920x1080.jpg?t=1593121067,https://cdn.akamai.steamstatic.com/steam/apps/1203160/ss_cad4d788e4ca6d5518c8c6bcb8287cf423f15caf.1920x1080.jpg?t=1593121067,https://cdn.akamai.steamstatic.com/steam/apps/1203160/ss_522953b5408c76e3012ea945ce46263fd1bf6e3f.1920x1080.jpg?t=1593121067,https://cdn.akamai.steamstatic.com/steam/apps/1203160/ss_5948108192da7fc1ded740f224288959be3f3105.1920x1080.jpg?t=1593121067",
+    "Slug": "architac",
+    "Meta Title": "ArchiTac: Jun 25, 2020, Squish-Fish Games and Full Overview",
+    "Meta Description": "Looking for information on ArchiTac? Check out the release date (Jun 25, 2020), developer insights from Squish-Fish Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for ArchiTac game - Steam 1203160",
+    "Canonical URL": "https://gusku.site/game/architac",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ArchiTac\", \"description\": \"Looking for information on ArchiTac? Check out the release date (Jun 25, 2020), developer insights from Squish-Fish Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 25, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Squish-Fish Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Squish-Fish Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1203160/header.jpg?t=1593121067\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

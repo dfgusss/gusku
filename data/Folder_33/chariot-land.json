@@ -1,0 +1,21 @@
+{
+    "AppID": 1723960,
+    "Name": "Chariot Land",
+    "Release date": "Aug 30, 2021",
+    "About the game": "Chariot Land is a simple shooting game with only movement and shooting operations and unlimited ammo. The player needs to select a chariot(Some chariots need to be unlocked by completing certain level and killing a certain number of enemies ), and then enter the level combat, clearing all the enemies. When the player is in the enemy's line of sight, he is locked, and can use the terrain to avoid enemy tracking, or run away. Every time you destroy an enemy, you will get a shield or a medical box. Shields can be accumulated indefinitely, but health cannot exceed the maximum. There are currently five levels, the first of which is a simple kill game that is completed by clearing all enemies. For the rest of the level, the enemies will flow out of the big transport helicopter, which must be destroyed first, and then the rest of the enemies will be cleared. Note that the enemy will come to the rescue when attacking the transport helicopter. Fight when you're ready!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1723960/header.jpg?t=1630389789",
+    "Price": 4.99,
+    "Developers": "Youth Game",
+    "Publishers": "Youth Game",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1723960/ss_b50d8d12c1b947479c988c09d6a87a7fe60ab234.1920x1080.jpg?t=1630389789,https://cdn.akamai.steamstatic.com/steam/apps/1723960/ss_6160c806868d9e140ec784398061acdb5e28e0be.1920x1080.jpg?t=1630389789,https://cdn.akamai.steamstatic.com/steam/apps/1723960/ss_e410a63ca36b6ed9f54902e32203ddf8cf15bc4c.1920x1080.jpg?t=1630389789,https://cdn.akamai.steamstatic.com/steam/apps/1723960/ss_100fe594ca4b5728d599c9170179b3576f7a37d5.1920x1080.jpg?t=1630389789,https://cdn.akamai.steamstatic.com/steam/apps/1723960/ss_5cce9776337a2ddee907b9277d1068e091dde248.1920x1080.jpg?t=1630389789",
+    "Slug": "chariot-land",
+    "Meta Title": "Chariot Land: Aug 30, 2021, Youth Game and Full Overview",
+    "Meta Description": "Looking for information on Chariot Land? Check out the release date (Aug 30, 2021), developer insights from Youth Game, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chariot Land game - Steam 1723960",
+    "Canonical URL": "https://gusku.site/game/chariot-land",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chariot Land\", \"description\": \"Looking for information on Chariot Land? Check out the release date (Aug 30, 2021), developer insights from Youth Game, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Youth Game\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Youth Game\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1723960/header.jpg?t=1630389789\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

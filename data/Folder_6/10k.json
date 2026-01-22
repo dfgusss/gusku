@@ -1,0 +1,21 @@
+{
+    "AppID": 879660,
+    "Name": "10k",
+    "Release date": "Aug 15, 2018",
+    "About the game": "Explore and build VR worlds using scientific data. Make worlds of your own using real data along with free 3D models. 10k lets you create entirely in-world in VR, using open data sources - from 3D models and images to financial datasets to molecular structures. 10k is for anyone looking to Prototype in 3D, all in-world Communicate your ideas Showcase 3D models Mockup game environments Explore and design systems Create mind maps and org charts Explore scientific discoveries Using 10k, you can Import, view, and position 3D models and images - either your own files or from Google Poly - all in-world, in VR Seamlessly import and visualize scientific and financial datasets, including protein and molecule structures, neurons, and time-series data from Quandl Customize colors, labels, descriptions, and add some basic ambient animations Create rich visual experiences made of multiple scenes or environments Currently, we support importing 3D models, protein crystal structures, time-series economic data, images (PNG and JPEG), and neuron cell structures Users can upload their own files, or instantly grab content from a variety of integrated APIs, including Google Poly, the Protein Data Bank, NeuroMorpho, and Quandl (economic data). Background Over the last 8 years, the Dynamoid team has been working on our internal tools for importing, processing, and visualizing a variety of datasets. This technology forms the core of the 10k platform, and includes data parsers, visualizers, shaders, and a behavior system. We're incredibly excited to see what other people want to create using the platform - it's the first time we've opened up any of our tools for other peope to use. Let us know how it goes! Available for Arcades on SpringboardVR",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/879660/header.jpg?t=1574806873",
+    "Price": 14.99,
+    "Developers": "Dynamoid",
+    "Publishers": "Dynamoid",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/879660/ss_cc686f160b83e0c0564b57e820803dc947bffb91.1920x1080.jpg?t=1574806873,https://cdn.akamai.steamstatic.com/steam/apps/879660/ss_fe69bbf4be165ba672c094abe320050ca786c524.1920x1080.jpg?t=1574806873,https://cdn.akamai.steamstatic.com/steam/apps/879660/ss_36b95fc173330a2cf936cb9ed0cfe5d5aca353a6.1920x1080.jpg?t=1574806873,https://cdn.akamai.steamstatic.com/steam/apps/879660/ss_60e4babd236117114161deb8d630b834780aa834.1920x1080.jpg?t=1574806873,https://cdn.akamai.steamstatic.com/steam/apps/879660/ss_49d9ba941bb485a87cc50ac0ca80fe01ebfd0a8b.1920x1080.jpg?t=1574806873,https://cdn.akamai.steamstatic.com/steam/apps/879660/ss_1e543e71c7c1747e8f03000f09fef3c4e8f3857a.1920x1080.jpg?t=1574806873,https://cdn.akamai.steamstatic.com/steam/apps/879660/ss_f7e32b1687bbd6bf6e546e41049ce7cf77f7117f.1920x1080.jpg?t=1574806873,https://cdn.akamai.steamstatic.com/steam/apps/879660/ss_527bb7a15c5d34d31a005bb093bc451689a294a4.1920x1080.jpg?t=1574806873",
+    "Slug": "10k",
+    "Meta Title": "10k: Aug 15, 2018, Dynamoid and Full Overview",
+    "Meta Description": "Looking for information on 10k? Check out the release date (Aug 15, 2018), developer insights from Dynamoid, and a complete game summary.",
+    "Alt Text Image": "Official header image for 10k game - Steam 879660",
+    "Canonical URL": "https://gusku.site/game/10k",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"10k\", \"description\": \"Looking for information on 10k? Check out the release date (Aug 15, 2018), developer insights from Dynamoid, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 15, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dynamoid\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dynamoid\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/879660/header.jpg?t=1574806873\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

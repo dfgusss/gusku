@@ -1,0 +1,21 @@
+{
+    "AppID": 1868220,
+    "Name": "AstoriaVR",
+    "Release date": "May 20, 2022",
+    "About the game": "This app was originally designed for a 3dof headset. Please be aware that positional headtracking is not supported. Use a swivel chair for the best experience. AstoriaVR takes you back into the Astoria night club in 1986, one of the few legendary places in Leipzig in the former GDR. Audio recordings of former employees, interactive objects and private conversations create a fully immersive experience of times long past. And the Stasi, of course, was also present at all times, documenting all events. The app combines interactive elements, overlays, photos, audios and stereoscopic real film recordings with pre-rendered stereoscopic 360° CG renderings. The length of the experience is about 10min. But you can always revisit the bar and maybe you'll discover new stuff.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1868220/header.jpg?t=1653046163",
+    "Price": 3.99,
+    "Developers": "blendFX",
+    "Publishers": "hug Films",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1868220/ss_c212a4951c9ef34f920df05f3d225c8f7aa5b8d8.1920x1080.jpg?t=1653046163,https://cdn.akamai.steamstatic.com/steam/apps/1868220/ss_5da8aca50bde9fff33daf68ae880f9c0f7e13c0f.1920x1080.jpg?t=1653046163,https://cdn.akamai.steamstatic.com/steam/apps/1868220/ss_acc17477df2930be1c28e3b85101b26debdf14a6.1920x1080.jpg?t=1653046163,https://cdn.akamai.steamstatic.com/steam/apps/1868220/ss_e384305dd47d8f88785f0009340512058114f549.1920x1080.jpg?t=1653046163,https://cdn.akamai.steamstatic.com/steam/apps/1868220/ss_f255849bb2c39c06bb814d1f60f986c72757c048.1920x1080.jpg?t=1653046163",
+    "Slug": "astoriavr",
+    "Meta Title": "AstoriaVR: May 20, 2022, blendFX and Full Overview",
+    "Meta Description": "Looking for information on AstoriaVR? Check out the release date (May 20, 2022), developer insights from blendFX, and a complete game summary.",
+    "Alt Text Image": "Official header image for AstoriaVR game - Steam 1868220",
+    "Canonical URL": "https://gusku.site/game/astoriavr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"AstoriaVR\", \"description\": \"Looking for information on AstoriaVR? Check out the release date (May 20, 2022), developer insights from blendFX, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"blendFX\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"hug Films\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1868220/header.jpg?t=1653046163\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

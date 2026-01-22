@@ -1,0 +1,21 @@
+{
+    "AppID": 1084560,
+    "Name": "Cumulus",
+    "Release date": "Dec 17, 2019",
+    "About the game": "Cumulus is a 2D puzzle Tetromino game with a twist. Drop tetromino blocks to fill in concentric circles. Once filled the ring will disappear, the higher level rings will fall down and you will gain points! Get as many points as you can!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1084560/header.jpg?t=1576598047",
+    "Price": 4.99,
+    "Developers": "Kuro Star Light,Twisted Pixels",
+    "Publishers": "Kuro Star Light",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1084560/ss_cfc1fafae1c2f7cd4c60a315c1e6d64fff46bfec.1920x1080.jpg?t=1576598047,https://cdn.akamai.steamstatic.com/steam/apps/1084560/ss_2fa665977579973b8f2ae3073e4f1b12047b99b4.1920x1080.jpg?t=1576598047,https://cdn.akamai.steamstatic.com/steam/apps/1084560/ss_0368fcea5957170a099d82442351b456009d752c.1920x1080.jpg?t=1576598047,https://cdn.akamai.steamstatic.com/steam/apps/1084560/ss_4a8935e477f9931679b501672ebb72132aecfe74.1920x1080.jpg?t=1576598047,https://cdn.akamai.steamstatic.com/steam/apps/1084560/ss_8505549f3c75d88e9a23b1d7f2b1af361dc6d9ac.1920x1080.jpg?t=1576598047",
+    "Slug": "cumulus",
+    "Meta Title": "Cumulus: Dec 17, 2019, Kuro Star Light,Twisted Pixels and...",
+    "Meta Description": "Looking for information on Cumulus? Check out the release date (Dec 17, 2019), developer insights from Kuro Star Light,Twisted Pixels, and a complete ga...",
+    "Alt Text Image": "Official header image for Cumulus game - Steam 1084560",
+    "Canonical URL": "https://gusku.site/game/cumulus",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cumulus\", \"description\": \"Looking for information on Cumulus? Check out the release date (Dec 17, 2019), developer insights from Kuro Star Light,Twisted Pixels, and a complete ga...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 17, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kuro Star Light,Twisted Pixels\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kuro Star Light\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1084560/header.jpg?t=1576598047\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

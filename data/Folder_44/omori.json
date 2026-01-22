@@ -1,0 +1,21 @@
+{
+    "AppID": 1150690,
+    "Name": "OMORI",
+    "Release date": "Dec 25, 2020",
+    "About the game": "Explore a strange world full of colorful friends and foes. Navigate through the vibrant and the mundane in order to uncover a forgotten past. When the time comes, the path you’ve chosen will determine your fate... and perhaps the fate of others as well.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1150690/header.jpg?t=1655277094",
+    "Price": 19.99,
+    "Developers": "OMOCAT, LLC",
+    "Publishers": "OMOCAT, LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1150690/ss_219463835487a7205f0af93fb02d2c84855c667b.1920x1080.jpg?t=1655277094,https://cdn.akamai.steamstatic.com/steam/apps/1150690/ss_4bb5647e9094a13078d23f2a9daa4a9bd160841e.1920x1080.jpg?t=1655277094,https://cdn.akamai.steamstatic.com/steam/apps/1150690/ss_72e19b9ca001c03084b9eb7f5665514e60a6a6dd.1920x1080.jpg?t=1655277094,https://cdn.akamai.steamstatic.com/steam/apps/1150690/ss_14bd4cd7c2be96cdffa112d991ce755600c8ad72.1920x1080.jpg?t=1655277094,https://cdn.akamai.steamstatic.com/steam/apps/1150690/ss_126ccd3db36bf47431f6d6b92cf0922a3a918bfc.1920x1080.jpg?t=1655277094,https://cdn.akamai.steamstatic.com/steam/apps/1150690/ss_591d0375a075ae2afdd3ddf5a6172beb3f04c338.1920x1080.jpg?t=1655277094,https://cdn.akamai.steamstatic.com/steam/apps/1150690/ss_dceb64a6d59193b730c6d3d951519def8e043a57.1920x1080.jpg?t=1655277094,https://cdn.akamai.steamstatic.com/steam/apps/1150690/ss_f94eda3668d91d3705bb67dd04dce1bc07b3fa40.1920x1080.jpg?t=1655277094,https://cdn.akamai.steamstatic.com/steam/apps/1150690/ss_20f3a05a3343bc8dc2fb79f52c2f1c368d0a969b.1920x1080.jpg?t=1655277094",
+    "Slug": "omori",
+    "Meta Title": "OMORI: Dec 25, 2020, OMOCAT, LLC and Full Overview",
+    "Meta Description": "Looking for information on OMORI? Check out the release date (Dec 25, 2020), developer insights from OMOCAT, LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for OMORI game - Steam 1150690",
+    "Canonical URL": "https://gusku.site/game/omori",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"OMORI\", \"description\": \"Looking for information on OMORI? Check out the release date (Dec 25, 2020), developer insights from OMOCAT, LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 25, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"OMOCAT, LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"OMOCAT, LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1150690/header.jpg?t=1655277094\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

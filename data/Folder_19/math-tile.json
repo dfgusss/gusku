@@ -1,0 +1,21 @@
+{
+    "AppID": 783560,
+    "Name": "Math Tile",
+    "Release date": "Feb 8, 2018",
+    "About the game": "The new tile will appear on the top of the box.Change the position of the tile and make it down.If the sum of numbers on a column or row is equal to 5 10 or 20,they will merge together.When two 5 10 or 20 tiles touch, they will also merge into one. feature: · Use right or left key to move the top tile. · Use up key to change the position of the top tile number. · Use down key to put the tile down.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/783560/header.jpg?t=1518138010",
+    "Price": 1.99,
+    "Developers": "Luchun",
+    "Publishers": "Luchun",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/783560/ss_d84d343d7e90efb708e4f289e7132f5f08828906.1920x1080.jpg?t=1518138010,https://cdn.akamai.steamstatic.com/steam/apps/783560/ss_09ad1eeba6976ba9df907545abf7aa71445fa39d.1920x1080.jpg?t=1518138010,https://cdn.akamai.steamstatic.com/steam/apps/783560/ss_a97d5ea50b170aa18865a2f2a1dc10cc44d44a84.1920x1080.jpg?t=1518138010,https://cdn.akamai.steamstatic.com/steam/apps/783560/ss_06dc2785e4e5ca11e7d3f10bc82616a6c3ac110b.1920x1080.jpg?t=1518138010,https://cdn.akamai.steamstatic.com/steam/apps/783560/ss_653c49fbc0d8cb204644427c1b7098bc8f146326.1920x1080.jpg?t=1518138010",
+    "Slug": "math-tile",
+    "Meta Title": "Math Tile: Feb 8, 2018, Luchun and Full Overview",
+    "Meta Description": "Looking for information on Math Tile? Check out the release date (Feb 8, 2018), developer insights from Luchun, and a complete game summary.",
+    "Alt Text Image": "Official header image for Math Tile game - Steam 783560",
+    "Canonical URL": "https://gusku.site/game/math-tile",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Math Tile\", \"description\": \"Looking for information on Math Tile? Check out the release date (Feb 8, 2018), developer insights from Luchun, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 8, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Luchun\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Luchun\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/783560/header.jpg?t=1518138010\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

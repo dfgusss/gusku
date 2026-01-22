@@ -1,0 +1,21 @@
+{
+    "AppID": 1677620,
+    "Name": "TurBot",
+    "Release date": "Jul 29, 2021",
+    "About the game": "TurBot is a fast-paced, hard as nails race to the finish where you'll combine a wide selection of movement options and power ups to reach the goal faster than anyone else. To achieve the fastest times, you'll need to master our movement system that allows you to double jump, air-dash, air-strafe, wall run, and more! Features: - 75 Levels spread across 5 different worlds, each with their own unique visual style and soundtrack - An easy to pick up, yet hard to master movement system that lets you build speed completely uncapped - Time Trials that unlock bonus cosmetics upon completion - 6 Additional Challenge Levels that can be unlocked by completing time trials - A built in 'Speedrun' mode that provides one single timer from start to finish Available Now!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1677620/header.jpg?t=1635444169",
+    "Price": 19.99,
+    "Developers": "Jacob Moore",
+    "Publishers": "Igloo Games LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1677620/ss_275c8117d23fe782df4e1f318f3434291c94fadf.1920x1080.jpg?t=1635444169,https://cdn.akamai.steamstatic.com/steam/apps/1677620/ss_3bea3ab1920a02d2500d2b8eac58b9ecbf4777a1.1920x1080.jpg?t=1635444169,https://cdn.akamai.steamstatic.com/steam/apps/1677620/ss_2ee6634c6ba23075af0ab025c1693948caac59ac.1920x1080.jpg?t=1635444169,https://cdn.akamai.steamstatic.com/steam/apps/1677620/ss_58662cdda422dd33be33003a72c3335a2ab38273.1920x1080.jpg?t=1635444169,https://cdn.akamai.steamstatic.com/steam/apps/1677620/ss_8be5af0567130f99f980104127c065c9318aee34.1920x1080.jpg?t=1635444169",
+    "Slug": "turbot",
+    "Meta Title": "TurBot: Jul 29, 2021, Jacob Moore and Full Overview",
+    "Meta Description": "Looking for information on TurBot? Check out the release date (Jul 29, 2021), developer insights from Jacob Moore, and a complete game summary.",
+    "Alt Text Image": "Official header image for TurBot game - Steam 1677620",
+    "Canonical URL": "https://gusku.site/game/turbot",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TurBot\", \"description\": \"Looking for information on TurBot? Check out the release date (Jul 29, 2021), developer insights from Jacob Moore, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 29, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jacob Moore\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Igloo Games LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1677620/header.jpg?t=1635444169\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

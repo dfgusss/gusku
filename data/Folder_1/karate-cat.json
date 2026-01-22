@@ -1,0 +1,21 @@
+{
+    "AppID": 1152410,
+    "Name": "Karate Cat",
+    "Release date": "Oct 10, 2019",
+    "About the game": "A casual game in which you have to break boards for a cute karate cat. In order not to lose, the player needs to follow the cat’s concentration indicator and not accidentally hit a brick. When a player picks up a combo, the cat becomes furious and a brick is not a problem for him.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1152410/header.jpg?t=1593102733",
+    "Price": 0.99,
+    "Developers": "Take Toad",
+    "Publishers": "Take Toad",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1152410/ss_01c73ade38ef35785b8df81938da4b6efb4f1ee7.1920x1080.jpg?t=1593102733,https://cdn.akamai.steamstatic.com/steam/apps/1152410/ss_72d395062f039150d37f99c28dd2d7ca799fe427.1920x1080.jpg?t=1593102733,https://cdn.akamai.steamstatic.com/steam/apps/1152410/ss_3af1d38bea5f30cbf531564d83e75da014dca80b.1920x1080.jpg?t=1593102733,https://cdn.akamai.steamstatic.com/steam/apps/1152410/ss_5ed737d06814e26b3774aa86d35cc3c001d2c808.1920x1080.jpg?t=1593102733,https://cdn.akamai.steamstatic.com/steam/apps/1152410/ss_cc3a7048edadbb788c5a2257fa01243fd3d9b2ec.1920x1080.jpg?t=1593102733,https://cdn.akamai.steamstatic.com/steam/apps/1152410/ss_4ce415e99d149417a8cd72374835eac0ce849922.1920x1080.jpg?t=1593102733,https://cdn.akamai.steamstatic.com/steam/apps/1152410/ss_97fddd7f944f15ced97c61b473e19ade0287e2dc.1920x1080.jpg?t=1593102733",
+    "Slug": "karate-cat",
+    "Meta Title": "Karate Cat: Oct 10, 2019, Take Toad and Full Overview",
+    "Meta Description": "Looking for information on Karate Cat? Check out the release date (Oct 10, 2019), developer insights from Take Toad, and a complete game summary.",
+    "Alt Text Image": "Official header image for Karate Cat game - Steam 1152410",
+    "Canonical URL": "https://gusku.site/game/karate-cat",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Karate Cat\", \"description\": \"Looking for information on Karate Cat? Check out the release date (Oct 10, 2019), developer insights from Take Toad, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 10, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Take Toad\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Take Toad\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1152410/header.jpg?t=1593102733\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

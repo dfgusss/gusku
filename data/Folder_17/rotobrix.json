@@ -1,0 +1,21 @@
+{
+    "AppID": 1138780,
+    "Name": "RotoBrix",
+    "Release date": "Nov 14, 2019",
+    "About the game": "RotoBrix is falling blocks, match-3, puzzle game, where you try to match as many blocks as you can before filling the play field. If the Brix pile up too high and a new stack cannot be spawned then it’s game over. Maneuver the falling stack of three Brix and rotate their positions within the stack to set up matches. Match three or more Brix vertically or horizontally to score points and reduce the Brix Left counter. When the counter hits zero, you move to the next level. Pass five levels to get to the next stage. Each of the first nine stages of the game add new Brix and abilities. Match four or more Brix in one move to earn charges for abilities you can use to make your job easier: Bomb: causes a large explosion that destroys the blocks in the middle of the play field Hourglass: temporarily slows time Randomizer: randomizes colors of the blocks on the play field At higher stages, beware of the unmatchable carbon fiber Brix. They will not form matches and will clutter up the play field. However, a bomb can destroy them. Choose from four difficulty levels to change the speed of the game and the size of the scores. The top ten high scores are saved on the High Scores page. Play at a higher difficulty level to get bigger scores. Scores also get larger as you advance stages. Once you reach a stage you may use the Stage Select feature to start at that stage without having to play through the lower stages. For our color blind friends, or if you just want to play with a different style of Brix, turn on Color Blind Mode to add symbols to the Brix. The game also features dozens of animated backgrounds, and electronic music.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1138780/header.jpg?t=1575436428",
+    "Price": 6.99,
+    "Developers": "Ed Salisbury,Ray Yep Jr.",
+    "Publishers": "Sol 6 Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1138780/ss_dae3f035b299aae160dec9cb97a8b5b16d8848ba.1920x1080.jpg?t=1575436428,https://cdn.akamai.steamstatic.com/steam/apps/1138780/ss_b57ff8a6be2101c80d271cfa326d7fdaef8826ab.1920x1080.jpg?t=1575436428,https://cdn.akamai.steamstatic.com/steam/apps/1138780/ss_5c30bd4a91685bc9aefcc00d828e1a87db555e96.1920x1080.jpg?t=1575436428,https://cdn.akamai.steamstatic.com/steam/apps/1138780/ss_001c7ce35369a7029d99745779f5cf80ebc6dd6c.1920x1080.jpg?t=1575436428,https://cdn.akamai.steamstatic.com/steam/apps/1138780/ss_e2ec15e34a2d9c9adff9ba39f5d86757a48e1e49.1920x1080.jpg?t=1575436428",
+    "Slug": "rotobrix",
+    "Meta Title": "RotoBrix: Nov 14, 2019, Ed Salisbury,Ray Yep Jr. and Full...",
+    "Meta Description": "Looking for information on RotoBrix? Check out the release date (Nov 14, 2019), developer insights from Ed Salisbury,Ray Yep Jr., and a complete game su...",
+    "Alt Text Image": "Official header image for RotoBrix game - Steam 1138780",
+    "Canonical URL": "https://gusku.site/game/rotobrix",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RotoBrix\", \"description\": \"Looking for information on RotoBrix? Check out the release date (Nov 14, 2019), developer insights from Ed Salisbury,Ray Yep Jr., and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 14, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ed Salisbury,Ray Yep Jr.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sol 6 Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1138780/header.jpg?t=1575436428\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

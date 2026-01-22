@@ -1,0 +1,21 @@
+{
+    "AppID": 1705400,
+    "Name": "The Shape of Time",
+    "Release date": "Aug 27, 2021",
+    "About the game": "This virtual exhibition has one goal: In half an hour, it will challenge your understanding of what time is. I'm a french 3D-artist, and this is my passion project.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1705400/header.jpg?t=1630312852",
+    "Price": 0.0,
+    "Developers": "Julien Papo",
+    "Publishers": "Julien Papo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1705400/ss_d7be325f723180ceb3e9e4277079eb5f12cc970d.1920x1080.jpg?t=1630312852,https://cdn.akamai.steamstatic.com/steam/apps/1705400/ss_081f2c37b2de87242e28d52b6d8b5314285d6fc9.1920x1080.jpg?t=1630312852,https://cdn.akamai.steamstatic.com/steam/apps/1705400/ss_1d7c008504d682bfe599552129f616b13f6edc1d.1920x1080.jpg?t=1630312852,https://cdn.akamai.steamstatic.com/steam/apps/1705400/ss_9fc1f9eef0b25c577fd853537d0ff61023f5d56f.1920x1080.jpg?t=1630312852,https://cdn.akamai.steamstatic.com/steam/apps/1705400/ss_ac3e845ba33ac83eecb8e6f15c8821ded5902d38.1920x1080.jpg?t=1630312852",
+    "Slug": "the-shape-of-time",
+    "Meta Title": "The Shape of Time: Aug 27, 2021, Julien Papo and Full Ove...",
+    "Meta Description": "Looking for information on The Shape of Time? Check out the release date (Aug 27, 2021), developer insights from Julien Papo, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Shape of Time game - Steam 1705400",
+    "Canonical URL": "https://gusku.site/game/the-shape-of-time",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Shape of Time\", \"description\": \"Looking for information on The Shape of Time? Check out the release date (Aug 27, 2021), developer insights from Julien Papo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Julien Papo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Julien Papo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1705400/header.jpg?t=1630312852\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

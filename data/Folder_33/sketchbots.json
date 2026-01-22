@@ -1,0 +1,21 @@
+{
+    "AppID": 1456770,
+    "Name": "Sketchbots",
+    "Release date": "Jun 24, 2021",
+    "About the game": "This seems rather easy, doesn't it? You just move up a few tiles, turn right, shoot, turn left, move up a bit more and you're done. Well yes, the solution is fairly obvious from where we're standing, but put yourself in the body of that little robot and try to see the world from his perspective. Each turn is a new set of parameters for him to process and his view of the world is very limited. You might see the target behind that wall over there, but all he sees is the wall. Fortunately, now you can use your superior knowledge to help the little guy find his way. Create a complex decision tree which will help him overcome any obstacle in his way.With an ever growing number of levels, your programming skills will be put to the test in more and more complicated ways. If you fail at first, there's a detailed overview of what decisions he's made and you can easily pinpoint where it all went wrong. After all, what is programming other than iterating through solutions, getting closer and closer with each step, until that wonderful moment at the end when you clench your fist with pride after a successful run and take your well earned walk around the room to show everyone just how clever you really are. This is how Sketchbots will help you feel with each completed level, all while enjoying its beautiful, school-notebook-inspired, art design.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1456770/header.jpg?t=1657396535",
+    "Price": 9.99,
+    "Developers": "Quarc Games",
+    "Publishers": "Quarc Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1456770/ss_d5ee907cef72bc3c794c7ba2d9a326e6072c7554.1920x1080.jpg?t=1657396535,https://cdn.akamai.steamstatic.com/steam/apps/1456770/ss_18ce7c2df9dea94552852965640a46fb26bcc290.1920x1080.jpg?t=1657396535,https://cdn.akamai.steamstatic.com/steam/apps/1456770/ss_887e47d37697c6b7868b9937980d9aca6742a322.1920x1080.jpg?t=1657396535,https://cdn.akamai.steamstatic.com/steam/apps/1456770/ss_d31f9343d730b581b39c345d11b13964f40b9494.1920x1080.jpg?t=1657396535,https://cdn.akamai.steamstatic.com/steam/apps/1456770/ss_bf7f31fc9061be56cf1e99cb4c9c80d85e3b7fe9.1920x1080.jpg?t=1657396535",
+    "Slug": "sketchbots",
+    "Meta Title": "Sketchbots: Jun 24, 2021, Quarc Games and Full Overview",
+    "Meta Description": "Looking for information on Sketchbots? Check out the release date (Jun 24, 2021), developer insights from Quarc Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sketchbots game - Steam 1456770",
+    "Canonical URL": "https://gusku.site/game/sketchbots",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sketchbots\", \"description\": \"Looking for information on Sketchbots? Check out the release date (Jun 24, 2021), developer insights from Quarc Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 24, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Quarc Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Quarc Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1456770/header.jpg?t=1657396535\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1438940,
+    "Name": "Game Localization",
+    "Release date": "Dec 7, 2020",
+    "About the game": "TRANSLATE The application allows you to translate texts in any game into any language. 0. Start this application. 1. Start the game to be translated. 2. Choose language. 3. Customize options as you need. 4. Play the game 5. The application will display texts from the game with translation into the desired language. Best for turn-based games and visual novels. 3D MODELS You can customize the screen design that will be on top of any game EFFECTS It can snow or rain on top of any game",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1438940/header.jpg?t=1645498775",
+    "Price": 9.99,
+    "Developers": "Hede",
+    "Publishers": "Hede",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1438940/ss_961846d86396f30604321f9148334a8b8964c9f3.1920x1080.jpg?t=1645498775,https://cdn.akamai.steamstatic.com/steam/apps/1438940/ss_237df2886899df42cd6fa30407cd14257f67b32a.1920x1080.jpg?t=1645498775,https://cdn.akamai.steamstatic.com/steam/apps/1438940/ss_6e6f991a485d661aca08e6d74c739797166b8301.1920x1080.jpg?t=1645498775,https://cdn.akamai.steamstatic.com/steam/apps/1438940/ss_785380246cf4b1b70fe69c3f6001b8638479ba7b.1920x1080.jpg?t=1645498775,https://cdn.akamai.steamstatic.com/steam/apps/1438940/ss_52ba786966b2f6094ffe7ef27fa25676c23da4dc.1920x1080.jpg?t=1645498775,https://cdn.akamai.steamstatic.com/steam/apps/1438940/ss_821ff670504c5b26d9d64c9cb8cd2a48cd2d762c.1920x1080.jpg?t=1645498775",
+    "Slug": "game-localization",
+    "Meta Title": "Game Localization: Dec 7, 2020, Hede and Full Overview",
+    "Meta Description": "Looking for information on Game Localization? Check out the release date (Dec 7, 2020), developer insights from Hede, and a complete game summary.",
+    "Alt Text Image": "Official header image for Game Localization game - Steam 1438940",
+    "Canonical URL": "https://gusku.site/game/game-localization",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Game Localization\", \"description\": \"Looking for information on Game Localization? Check out the release date (Dec 7, 2020), developer insights from Hede, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 7, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hede\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hede\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1438940/header.jpg?t=1645498775\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

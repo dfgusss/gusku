@@ -1,0 +1,21 @@
+{
+    "AppID": 901020,
+    "Name": "Adventure Portal",
+    "Release date": "Oct 31, 2018",
+    "About the game": "Welcome Adventure Portal is a simple platform that allows players to connect and run their pen and paper role playing campaigns online! It is currently constructed to support 5th edition play. This is a ongoing project that will see additions and improvements as support grows. I built this to be a simple and easy to use alternative to the more complicated and expensive options out there. Adventure Portal features player and gm profiles that hold stats and campaign information, an encounter/world map where players and DMs can place custom tokens -- each with their own information sheets, sizes, names, images, and a sound and music board for storytelling enrichment.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/901020/header.jpg?t=1541177727",
+    "Price": 4.99,
+    "Developers": "Megaslow Studio",
+    "Publishers": "Megaslow Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/901020/ss_9d3ddf3a79a7fb7fb05f8919c16b6dc67df3564e.1920x1080.jpg?t=1541177727,https://cdn.akamai.steamstatic.com/steam/apps/901020/ss_bda88e0c6becc1979982b4eeb21533d433c7c3a4.1920x1080.jpg?t=1541177727,https://cdn.akamai.steamstatic.com/steam/apps/901020/ss_e6d3368422994a13db84962eb8b76460b350c518.1920x1080.jpg?t=1541177727,https://cdn.akamai.steamstatic.com/steam/apps/901020/ss_4a7eb212458a7b0947cc9d72d67c30a167ebe6ad.1920x1080.jpg?t=1541177727,https://cdn.akamai.steamstatic.com/steam/apps/901020/ss_5bbd24e6183d70b5a3c9e72ba9796941f31db905.1920x1080.jpg?t=1541177727",
+    "Slug": "adventure-portal",
+    "Meta Title": "Adventure Portal: Oct 31, 2018, Megaslow Studio and Full ...",
+    "Meta Description": "Looking for information on Adventure Portal? Check out the release date (Oct 31, 2018), developer insights from Megaslow Studio, and a complete game sum...",
+    "Alt Text Image": "Official header image for Adventure Portal game - Steam 901020",
+    "Canonical URL": "https://gusku.site/game/adventure-portal",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Adventure Portal\", \"description\": \"Looking for information on Adventure Portal? Check out the release date (Oct 31, 2018), developer insights from Megaslow Studio, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 31, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Megaslow Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Megaslow Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/901020/header.jpg?t=1541177727\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

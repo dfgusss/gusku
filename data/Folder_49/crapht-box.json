@@ -1,0 +1,21 @@
+{
+    "AppID": 1227090,
+    "Name": "Crapht Box",
+    "Release date": "Feb 13, 2020",
+    "About the game": "Crapht Box is a Fantasy Physics Sandbox . You can craft your machineries with a variety of elements; program your own disks; and edit your scene with built-in tools. Crapht Box offers necessary physics elements for framework of your machine construction, sensors/dynamics for input/output, and chips for circuit logic. Programming skill is not required, but you can use the beginner-friendly Wren or Lua language to write something as you like. Specs. Display: scalable from 640x480 Audio: 2 music channels, 4 sound effect channels, 1 speech channel Circuit clock: 60Hz Code: Wren, Lua Gamepad: 6 buttons (D-Pad + A/B) Keyboard and mouse: supported Crafting Craft your machineries with physics, chip, sensor and dynamics elements. Programming Program your own disks. Creating Edit your scene with built-in tools. Sharing Share your creativity with others.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1227090/header.jpg?t=1638691489",
+    "Price": 4.99,
+    "Developers": "Tony Wang",
+    "Publishers": "Tony Wang",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1227090/ss_276189f514c25d24b800eb8f902e11dbec9da837.1920x1080.jpg?t=1638691489,https://cdn.akamai.steamstatic.com/steam/apps/1227090/ss_51420954aafa99f262fd434134ab538e1764856e.1920x1080.jpg?t=1638691489,https://cdn.akamai.steamstatic.com/steam/apps/1227090/ss_9738fc4d09add2b0f4b0909a377ca7dac42bf4af.1920x1080.jpg?t=1638691489,https://cdn.akamai.steamstatic.com/steam/apps/1227090/ss_8f12e0664b7b9f6b5fd5293259f1d42bf63d7f85.1920x1080.jpg?t=1638691489,https://cdn.akamai.steamstatic.com/steam/apps/1227090/ss_f8bf5a10d0e73fa4a9d0c007d3fdefd3ee562cfd.1920x1080.jpg?t=1638691489,https://cdn.akamai.steamstatic.com/steam/apps/1227090/ss_3650321d89fa5771fbefa8ead421b0681ec87bda.1920x1080.jpg?t=1638691489,https://cdn.akamai.steamstatic.com/steam/apps/1227090/ss_2be3f9643a6a7e1fc2c13a268da08f61fa809dfe.1920x1080.jpg?t=1638691489,https://cdn.akamai.steamstatic.com/steam/apps/1227090/ss_7e1bf7efd6695e33a4131583720c4934c745ba72.1920x1080.jpg?t=1638691489",
+    "Slug": "crapht-box",
+    "Meta Title": "Crapht Box: Feb 13, 2020, Tony Wang and Full Overview",
+    "Meta Description": "Looking for information on Crapht Box? Check out the release date (Feb 13, 2020), developer insights from Tony Wang, and a complete game summary.",
+    "Alt Text Image": "Official header image for Crapht Box game - Steam 1227090",
+    "Canonical URL": "https://gusku.site/game/crapht-box",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Crapht Box\", \"description\": \"Looking for information on Crapht Box? Check out the release date (Feb 13, 2020), developer insights from Tony Wang, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 13, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tony Wang\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tony Wang\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1227090/header.jpg?t=1638691489\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

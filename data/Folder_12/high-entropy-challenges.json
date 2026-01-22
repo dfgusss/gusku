@@ -1,0 +1,21 @@
+{
+    "AppID": 1389630,
+    "Name": "High Entropy: Challenges",
+    "Release date": "Sep 1, 2020",
+    "About the game": "Use computers (via GUIs or the command line), unlock doors, crawl through vents, fight enemies head on or find other ways to neutralize or avoid them... Challenges High Entropy: Challenges is a free, action-adventure FPS (inspired by some of my favorite immersive sims) consisting of a beginning, 15 levels, a default ending and a special ending if you finish with a 100% score in all levels. Command Line Interface / Fists vs Shadows The computers in the game include a command line interface for those interested in overcoming some obstacles the 'hacker' way, but the levels are designed so there's always an alternative way to advance (except once as an introduction in level 7, and the exact commands needed then are written in a document next to the corresponding computer). Some secondary objectives and achievements require its use, but there are manuals placed around the levels that gradually introduce how do it. Also, some of the levels offer multiple paths to solve them, being able to choose a more action oriented approach or a stealthy one, and include some achievements related to this (Path of Fists, Path of Shadows...). High Entropy Hopefully, High Entropy: Challenges is a fun stand-alone gaming experience by itself, but it was also made to serve as a way for people to help me test my ideas out and see if creating High Entropy --the extended, commercial version I have in mind-- is viable and something people would enjoy (it would include this challenges mode and an exclusive story mode).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1389630/header.jpg?t=1642345228",
+    "Price": 0.0,
+    "Developers": "Álvaro García (binarynonsense)",
+    "Publishers": "Álvaro García (binarynonsense)",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1389630/ss_6de61086975c6ca7ddd54a2b5a4e322af42903a9.1920x1080.jpg?t=1642345228,https://cdn.akamai.steamstatic.com/steam/apps/1389630/ss_f1624db634f9b7f3dba9f0a9b198f0d9ad428f42.1920x1080.jpg?t=1642345228,https://cdn.akamai.steamstatic.com/steam/apps/1389630/ss_355b59963831c0d3f82363dbe6bfa34c255a61bc.1920x1080.jpg?t=1642345228,https://cdn.akamai.steamstatic.com/steam/apps/1389630/ss_88a2635c69eab98094edc08726e403a1a4f24477.1920x1080.jpg?t=1642345228,https://cdn.akamai.steamstatic.com/steam/apps/1389630/ss_49c4035f303b06c3ea5640d914d05c45aac8e0ce.1920x1080.jpg?t=1642345228,https://cdn.akamai.steamstatic.com/steam/apps/1389630/ss_37a910e485ddbb29f13c83d8299d75e255693d6f.1920x1080.jpg?t=1642345228",
+    "Slug": "high-entropy-challenges",
+    "Meta Title": "High Entropy: Challenges: Sep 1, 2020, Álvaro García (bin...",
+    "Meta Description": "Looking for information on High Entropy: Challenges? Check out the release date (Sep 1, 2020), developer insights from Álvaro García (binarynonsense), a...",
+    "Alt Text Image": "Official header image for High Entropy: Challenges game - Steam 1389630",
+    "Canonical URL": "https://gusku.site/game/high-entropy-challenges",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"High Entropy: Challenges\", \"description\": \"Looking for information on High Entropy: Challenges? Check out the release date (Sep 1, 2020), developer insights from \\u00c1lvaro Garc\\u00eda (binarynonsense), a...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u00c1lvaro Garc\\u00eda (binarynonsense)\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u00c1lvaro Garc\\u00eda (binarynonsense)\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1389630/header.jpg?t=1642345228\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

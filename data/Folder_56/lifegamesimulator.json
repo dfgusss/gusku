@@ -1,0 +1,21 @@
+{
+    "AppID": 846530,
+    "Name": "LifeGameSimulator",
+    "Release date": "May 31, 2018",
+    "About the game": "This is Zero-Player Game, Simulator that can simulate changes which follows specific rules You just select the rules easily than, observe chaotic changes. By the neighboring cell, Each cell changes the state of life or death. Simple initial rule can make irregular, tramendously diverse patterns. Select a rule and change colors. You can also change the initial settings. The initial rule is simple, but the result is chaotic. Update [2018.06.03] 1. Added color of Yellow and blue. 2. Added manually clicking function of cells. Update [2018.06.04] 1. Missing executable file error fixed. Update [2018.06.20] 1. Sound updated. 2. Simulation speed slider updated.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/846530/header.jpg?t=1529440382",
+    "Price": 0.99,
+    "Developers": "TYSoft",
+    "Publishers": "TYSoft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/846530/ss_618ad47abfd59cd3886db48379c6146ffc07507b.1920x1080.jpg?t=1529440382,https://cdn.akamai.steamstatic.com/steam/apps/846530/ss_20103a90bc92af4d8504ea87fd716ab079e3e5b7.1920x1080.jpg?t=1529440382,https://cdn.akamai.steamstatic.com/steam/apps/846530/ss_0661fd4109e728e424101ca4123d7e1fb66d3cf1.1920x1080.jpg?t=1529440382,https://cdn.akamai.steamstatic.com/steam/apps/846530/ss_3f304e1e943eaa8f69f3b81ca5b137174e615f21.1920x1080.jpg?t=1529440382,https://cdn.akamai.steamstatic.com/steam/apps/846530/ss_c81b9f1aec3fdd237543a9adfcc38943d7b549bf.1920x1080.jpg?t=1529440382",
+    "Slug": "lifegamesimulator",
+    "Meta Title": "LifeGameSimulator: May 31, 2018, TYSoft and Full Overview",
+    "Meta Description": "Looking for information on LifeGameSimulator? Check out the release date (May 31, 2018), developer insights from TYSoft, and a complete game summary.",
+    "Alt Text Image": "Official header image for LifeGameSimulator game - Steam 846530",
+    "Canonical URL": "https://gusku.site/game/lifegamesimulator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"LifeGameSimulator\", \"description\": \"Looking for information on LifeGameSimulator? Check out the release date (May 31, 2018), developer insights from TYSoft, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 31, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"TYSoft\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TYSoft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/846530/header.jpg?t=1529440382\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

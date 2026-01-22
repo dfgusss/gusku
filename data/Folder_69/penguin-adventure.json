@@ -1,0 +1,21 @@
+{
+    "AppID": 2265000,
+    "Name": "Penguin Adventure",
+    "Release date": "Jan 18, 2023",
+    "About the game": "'Penguin Adventure' is a 2D platform jumping game with cartoon style. Players control a cute little penguin through many difficulties, and finally reach the destination. [Game Operation] Key on keyboard: Jump Down key of keyboard: Down Right click on the keyboard: Shooting [Game features] Players need to jump over various obstacles, defeat the enemy, and then pass through the castle. The way to attack the enemy can be to step on the enemy after jumping, or to fire bullets to attack the enemy. During the game, you will encounter many props, and you will get higher scores if you touch these props. The difficulty of the game will become more and more difficult with the increase of the number of levels. It is not easy to pass the level smoothly. Those who like to adjust may as well try it.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2265000/header.jpg?t=1674029520",
+    "Price": 4.49,
+    "Developers": "myh",
+    "Publishers": "myh",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2265000/ss_7a64f00fa183cb4c6510059e5ac351dc6fd9c96c.1920x1080.jpg?t=1674029520,https://cdn.akamai.steamstatic.com/steam/apps/2265000/ss_513cd42f67ab51c577a4c979296f654eb7d969ac.1920x1080.jpg?t=1674029520,https://cdn.akamai.steamstatic.com/steam/apps/2265000/ss_93435714efef440357348a288faf7599138c6e2a.1920x1080.jpg?t=1674029520,https://cdn.akamai.steamstatic.com/steam/apps/2265000/ss_068365f1f04a8cd0c79f0249f79f1b74807e1be0.1920x1080.jpg?t=1674029520,https://cdn.akamai.steamstatic.com/steam/apps/2265000/ss_1306cfc7db39ca2613a96da340eea4ded2db9038.1920x1080.jpg?t=1674029520,https://cdn.akamai.steamstatic.com/steam/apps/2265000/ss_d5285e2b00d5f30ffa36c1c1b4221c003c2ead43.1920x1080.jpg?t=1674029520,https://cdn.akamai.steamstatic.com/steam/apps/2265000/ss_3c4fc3177cac15bf0ab4afb9def357147bf16c71.1920x1080.jpg?t=1674029520",
+    "Slug": "penguin-adventure",
+    "Meta Title": "Penguin Adventure: Jan 18, 2023, myh and Full Overview",
+    "Meta Description": "Looking for information on Penguin Adventure? Check out the release date (Jan 18, 2023), developer insights from myh, and a complete game summary.",
+    "Alt Text Image": "Official header image for Penguin Adventure game - Steam 2265000",
+    "Canonical URL": "https://gusku.site/game/penguin-adventure",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Penguin Adventure\", \"description\": \"Looking for information on Penguin Adventure? Check out the release date (Jan 18, 2023), developer insights from myh, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 18, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"myh\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"myh\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2265000/header.jpg?t=1674029520\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

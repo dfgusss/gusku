@@ -1,0 +1,21 @@
+{
+    "AppID": 2316070,
+    "Name": "Path-Reverse 轨迹逆转",
+    "Release date": "Feb 26, 2023",
+    "About the game": "Brief introduction: In this game, you'll solve puzzles using the ability to reverse the trajectory of objects in order to reach the end. In this game, you can also build your own puzzle map. Players can solve puzzles by reversing the movement of objects through obstacles. How to Play it: Play Mode: WASD move Space jump E Grab Click R reverse the object/exit reversal Long press R reverse the player Press and hold the left mouse button reverse the trajectory backwards Right-mouse button press and hold reverse the trajectory forward Construction mode: WASD move F Switch fly mod Space fly up Ctrl fly down Left mouse button click to destroy the square Right-click Build Blocks Mouse wheel to switch squares Note: 1. As you build your map, PointLight blocks have solids and collision volumes, but only lights are preserved during play, and no collisions and visual solids. 2. Balls, blocks, and players can trigger the pedal switch, but both entities are triggered at the same time and one of the entities will close when leaving. 3. The ‘Platform’ ‘platform’ block is placed without collision volume, and if you want to destroy it, activate it with pedal and receiver and destroy it. 4. Photosensitive epilepsy warning, if you feel unwell, stop playing immediately and seek medical attention urgently. 5. The End Point must existed so the lab can be generated One more thing: The game I learned and made in my spare time, although the game is simple to make, the quality is average, the playability is average, starting from how to connect to the programming software, really nothing know to the game engine, engaged in most of the year, if you really don't like it, please refund and delete the game, polite comment!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2316070/header.jpg?t=1677408968",
+    "Price": 0.79,
+    "Developers": "Lost Heart",
+    "Publishers": "Lost Heart",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2316070/ss_a413fb8d0bbb3f6a319018217c00396e1e4a6e34.1920x1080.jpg?t=1677408968,https://cdn.akamai.steamstatic.com/steam/apps/2316070/ss_54a9b98438e049d08a213b0b41e7c7eb346c1706.1920x1080.jpg?t=1677408968,https://cdn.akamai.steamstatic.com/steam/apps/2316070/ss_db07bf43656c7be8e5b1b5ff0354ba323b4a528d.1920x1080.jpg?t=1677408968,https://cdn.akamai.steamstatic.com/steam/apps/2316070/ss_a27d9d88e5de66ed193c97275b07f04802536f1f.1920x1080.jpg?t=1677408968,https://cdn.akamai.steamstatic.com/steam/apps/2316070/ss_44ed3318f6119c762da534caf8ebe796a1ba96b5.1920x1080.jpg?t=1677408968",
+    "Slug": "path-reverse",
+    "Meta Title": "Path-Reverse 轨迹逆转: Feb 26, 2023, Lost Heart and Full Over...",
+    "Meta Description": "Looking for information on Path-Reverse 轨迹逆转? Check out the release date (Feb 26, 2023), developer insights from Lost Heart, and a complete game summary.",
+    "Alt Text Image": "Official header image for Path-Reverse 轨迹逆转 game - Steam 2316070",
+    "Canonical URL": "https://gusku.site/game/path-reverse",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Path-Reverse \\u8f68\\u8ff9\\u9006\\u8f6c\", \"description\": \"Looking for information on Path-Reverse \\u8f68\\u8ff9\\u9006\\u8f6c? Check out the release date (Feb 26, 2023), developer insights from Lost Heart, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 26, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lost Heart\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Lost Heart\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2316070/header.jpg?t=1677408968\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.79, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

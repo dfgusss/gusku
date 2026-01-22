@@ -1,0 +1,21 @@
+{
+    "AppID": 740790,
+    "Name": "Goldmine",
+    "Release date": "Mar 28, 2018",
+    "About the game": "This is a game I wrote so that I could have a bit of a distraction at work. The idea is simple, you click to mine a resource, hire workers to do the mining for you, upgrade them, unlock new levels and worker types, gain prestige levels and start over. I used to switch to it about every hour or so, distribute the gold and return back to work. At some point a few of my coworkers noticed and asked to play too. They seemed to really enjoy it, requested new features and reported bugs. Before I knew it, a dozen people in the office were playing. (You might be tempted to tell my boss, but he was playing too and even wrote a cheat.) This was a bit unexpected, but made me realize that people outside of work might enjoy this game as well. After a bit of searching I collaborated with an artist and a composer to help me make the game more presentable. Working on this project was fun and all of us learned a lot. What you see is the result of our efforts and we hope you enjoy it despite its flaws. Thank you!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/740790/header.jpg?t=1585426847",
+    "Price": 0.99,
+    "Developers": "Alaric von Teplitz",
+    "Publishers": "Alaric von Teplitz",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/740790/ss_60887638d6af65cb350ee7c4718447c3dd88c4c5.1920x1080.jpg?t=1585426847,https://cdn.akamai.steamstatic.com/steam/apps/740790/ss_0123450e2757b397e0e5dfd9eac4ea85e324eeb5.1920x1080.jpg?t=1585426847,https://cdn.akamai.steamstatic.com/steam/apps/740790/ss_16be3b7d6b83c04498048a85bba389cd95437651.1920x1080.jpg?t=1585426847,https://cdn.akamai.steamstatic.com/steam/apps/740790/ss_e58c97cbc1e446a358587ec6714f2319eb101323.1920x1080.jpg?t=1585426847,https://cdn.akamai.steamstatic.com/steam/apps/740790/ss_095146c055c615e82055f48e1a14c16b2f2ef320.1920x1080.jpg?t=1585426847",
+    "Slug": "goldmine",
+    "Meta Title": "Goldmine: Mar 28, 2018, Alaric von Teplitz and Full Overview",
+    "Meta Description": "Looking for information on Goldmine? Check out the release date (Mar 28, 2018), developer insights from Alaric von Teplitz, and a complete game summary.",
+    "Alt Text Image": "Official header image for Goldmine game - Steam 740790",
+    "Canonical URL": "https://gusku.site/game/goldmine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Goldmine\", \"description\": \"Looking for information on Goldmine? Check out the release date (Mar 28, 2018), developer insights from Alaric von Teplitz, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 28, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Alaric von Teplitz\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Alaric von Teplitz\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/740790/header.jpg?t=1585426847\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

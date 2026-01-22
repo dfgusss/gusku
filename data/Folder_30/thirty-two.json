@@ -1,0 +1,21 @@
+{
+    "AppID": 977290,
+    "Name": "Thirty Two",
+    "Release date": "Nov 20, 2018",
+    "About the game": "A small arcade game about a small cube. Collect all the coins at the level to open the exit leading to the next level. The game has many dangers such as spikes and lava, blades and shooting cubes. Use double jump to reach higher and calculate timings to jump at the right moment. - 20 levels of varying difficulty - Partial gamepad support",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/977290/header.jpg?t=1542729736",
+    "Price": 0.99,
+    "Developers": "LillyWelland inc.",
+    "Publishers": "Bitlock Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/977290/ss_3ec513bbd4dff5db46d7ec7c217322248dbe6af9.1920x1080.jpg?t=1542729736,https://cdn.akamai.steamstatic.com/steam/apps/977290/ss_baaa30649b8ace6d2fb241b24ab3edf21d9ee9ff.1920x1080.jpg?t=1542729736,https://cdn.akamai.steamstatic.com/steam/apps/977290/ss_da6fc0d9792425dcdcb47d7313ba123e957ff49a.1920x1080.jpg?t=1542729736,https://cdn.akamai.steamstatic.com/steam/apps/977290/ss_d91d992fbe5b02d0a37a85db726434b6c903e823.1920x1080.jpg?t=1542729736,https://cdn.akamai.steamstatic.com/steam/apps/977290/ss_f2d4cb0487dbc78d6742bf8d0d110a33d1c15b7d.1920x1080.jpg?t=1542729736",
+    "Slug": "thirty-two",
+    "Meta Title": "Thirty Two: Nov 20, 2018, LillyWelland inc. and Full Over...",
+    "Meta Description": "Looking for information on Thirty Two? Check out the release date (Nov 20, 2018), developer insights from LillyWelland inc., and a complete game summary.",
+    "Alt Text Image": "Official header image for Thirty Two game - Steam 977290",
+    "Canonical URL": "https://gusku.site/game/thirty-two",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Thirty Two\", \"description\": \"Looking for information on Thirty Two? Check out the release date (Nov 20, 2018), developer insights from LillyWelland inc., and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 20, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"LillyWelland inc.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bitlock Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/977290/header.jpg?t=1542729736\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1452300,
+    "Name": "Snakenpon",
+    "Release date": "Nov 2, 2020",
+    "About the game": "The classic snake game is back merged with the Jankenpon game! A relaxing casual game where you eat the fruits and needs be aware of the symbols: if you are rock, paper will make you grow 3 times longer the default, scissors will not change your size and rock will produce the classic behavior. Who does not know this game? Move the snake around the board, eat the fruits, avoid the walls and the snake tail. That's all... not really... The Rock, Paper and Scissors logic exists in the game. The snake have a symbol on it's head. So does the fruits. When you eat a fruit representing the opposite symbol (the one you have advantage on) the snake size does not change. The same symbol will make it grow by 1 piece. The disadvantage one will make the snake grow by 3 pieces instead. So you need to proper calculate your moves! Minimalist visuals, multiple beautiful backgrounds, uplifting music will make you calm. A game to make you feel good and nostalgic.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1452300/header.jpg?t=1632347884",
+    "Price": 0.99,
+    "Developers": "IndigoWare",
+    "Publishers": "IndigoWare",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1452300/ss_0d272aa8c37f699f4ff05b89328b716ad0cd1c79.1920x1080.jpg?t=1632347884,https://cdn.akamai.steamstatic.com/steam/apps/1452300/ss_59baab1e83755bd2328d6504d1013865624944b8.1920x1080.jpg?t=1632347884,https://cdn.akamai.steamstatic.com/steam/apps/1452300/ss_8f75eb2428f962307099b6c8c403d3fac5c348b5.1920x1080.jpg?t=1632347884,https://cdn.akamai.steamstatic.com/steam/apps/1452300/ss_194b289b25097051ecacc66bb665c5858daabe84.1920x1080.jpg?t=1632347884,https://cdn.akamai.steamstatic.com/steam/apps/1452300/ss_a639761d6f018e883da8c25d3ead6c58af380041.1920x1080.jpg?t=1632347884",
+    "Slug": "snakenpon",
+    "Meta Title": "Snakenpon: Nov 2, 2020, IndigoWare and Full Overview",
+    "Meta Description": "Looking for information on Snakenpon? Check out the release date (Nov 2, 2020), developer insights from IndigoWare, and a complete game summary.",
+    "Alt Text Image": "Official header image for Snakenpon game - Steam 1452300",
+    "Canonical URL": "https://gusku.site/game/snakenpon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Snakenpon\", \"description\": \"Looking for information on Snakenpon? Check out the release date (Nov 2, 2020), developer insights from IndigoWare, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 2, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"IndigoWare\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"IndigoWare\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1452300/header.jpg?t=1632347884\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

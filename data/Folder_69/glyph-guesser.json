@@ -1,0 +1,21 @@
+{
+    "AppID": 2247080,
+    "Name": "Glyph Guesser",
+    "Release date": "Jan 11, 2023",
+    "About the game": "One evening, my 5 year old son asked me to 'guess my letters'. It turns out he was thinking of three letters that didn't make a word. Just three random letters. It was kind of fun! Glyph Guesser is a little program I made that builds on this idea. You can adjust the difficulty by setting the size of the pool of characters, the length of the random sequence, and the kind of hints you get about how close your guesses are. The hints are all togglable independently, so you can choose to see: * No hints at all, just guess randomly. * How many of the glyphs are somewhere in the sequence. * Which of the glyphs are in the sequence * Which of the glyphs are in the correct locations. Because glyph guesser supports 860 glyphs from the UTF-8 character set, you can generate an arcane set of glyphs to guess from, and if you choose a glyph set of 10 or less, you can reference them with the numerals 0-9. Otherwise, you'll need to copy-paste the glyphs from the library printout. Enjoy guessing!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2247080/header.jpg?t=1673474150",
+    "Price": 0.84,
+    "Developers": "Paul Spooner",
+    "Publishers": "Tryop",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2247080/ss_30acf4c9e5f0f815133f353fa0c123e65b34cdc8.1920x1080.jpg?t=1673474150,https://cdn.akamai.steamstatic.com/steam/apps/2247080/ss_5fe63822225eacb246589a918ecfe5d8042e86a3.1920x1080.jpg?t=1673474150,https://cdn.akamai.steamstatic.com/steam/apps/2247080/ss_51e2c2cdc80577590e7819615d8a208a9ccd5527.1920x1080.jpg?t=1673474150,https://cdn.akamai.steamstatic.com/steam/apps/2247080/ss_d01bd3b3dd86de56a217c7c230be7159fb019ba6.1920x1080.jpg?t=1673474150,https://cdn.akamai.steamstatic.com/steam/apps/2247080/ss_9d0ca1c344957c7311cc56f23362bb93f09c0623.1920x1080.jpg?t=1673474150",
+    "Slug": "glyph-guesser",
+    "Meta Title": "Glyph Guesser: Jan 11, 2023, Paul Spooner and Full Overview",
+    "Meta Description": "Looking for information on Glyph Guesser? Check out the release date (Jan 11, 2023), developer insights from Paul Spooner, and a complete game summary.",
+    "Alt Text Image": "Official header image for Glyph Guesser game - Steam 2247080",
+    "Canonical URL": "https://gusku.site/game/glyph-guesser",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Glyph Guesser\", \"description\": \"Looking for information on Glyph Guesser? Check out the release date (Jan 11, 2023), developer insights from Paul Spooner, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 11, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Paul Spooner\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tryop\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2247080/header.jpg?t=1673474150\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.84, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

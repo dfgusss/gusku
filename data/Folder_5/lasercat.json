@@ -1,0 +1,21 @@
+{
+    "AppID": 496120,
+    "Name": "LaserCat",
+    "Release date": "Dec 8, 2016",
+    "About the game": "Jump, dodge and explore in the search for your Owlfriend, who has been kidnapped by Wizzord: the magic space frog! A silly platform adventure inspired by classic ZX Spectrum games like Jet Set Willy! 225 rooms of non-linear exploration! Trivia questions to solve! Search through Wizzord's castle, avoid nasty enemies, find the keys and save your Owlfriend!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/496120/header.jpg?t=1572337826",
+    "Price": 0.99,
+    "Developers": "Daniel McFarline",
+    "Publishers": "Daniel McFarline",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/496120/ss_7759eb2fcac75fb88d20335dfafee5e991a17c91.1920x1080.jpg?t=1572337826,https://cdn.akamai.steamstatic.com/steam/apps/496120/ss_57e630523623440625ec83d2290a38095acc9ed0.1920x1080.jpg?t=1572337826,https://cdn.akamai.steamstatic.com/steam/apps/496120/ss_13475e6e2f44704af4b8129a7c528f763bc9bf46.1920x1080.jpg?t=1572337826,https://cdn.akamai.steamstatic.com/steam/apps/496120/ss_2f076894a71032f467a0f1adae519d5b0e1f9aa7.1920x1080.jpg?t=1572337826,https://cdn.akamai.steamstatic.com/steam/apps/496120/ss_b9010c60d3af8bd35c874bb69e68e840c9d0dd29.1920x1080.jpg?t=1572337826,https://cdn.akamai.steamstatic.com/steam/apps/496120/ss_d6b2059c546f466a88ead8102e129d5be7759e74.1920x1080.jpg?t=1572337826",
+    "Slug": "lasercat",
+    "Meta Title": "LaserCat: Dec 8, 2016, Daniel McFarline and Full Overview",
+    "Meta Description": "Looking for information on LaserCat? Check out the release date (Dec 8, 2016), developer insights from Daniel McFarline, and a complete game summary.",
+    "Alt Text Image": "Official header image for LaserCat game - Steam 496120",
+    "Canonical URL": "https://gusku.site/game/lasercat",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"LaserCat\", \"description\": \"Looking for information on LaserCat? Check out the release date (Dec 8, 2016), developer insights from Daniel McFarline, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 8, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Daniel McFarline\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Daniel McFarline\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/496120/header.jpg?t=1572337826\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1955440,
+    "Name": "Tick Tack Puppet",
+    "Release date": "May 18, 2022",
+    "About the game": "Tick Tack Puppet is a 2D action game featuring a strange control system in which the mouse is used to control limbs and time moves slowly while the mouse is not being used. Causion The difficulty level depends on the mouse sensitivity LARGELY ! Press the ESC key to open the pause screen and adjust the mouse sensitivity to be sensitive. Feature1: Control limbs with the mouse Use the mouse to move the puppet's hands and feet. For example, to jump, move a foot down to float the body. You can also move the puppet's limbs to repel enemy bullets. Only one hand or one foot can be moved at a time. Press the key assigned to each limb to switch the limb to be controlled. Feature2: Time slows down Time slows down while the puppet's limbs are not moving. While time moves slowly, think about strategies such as how to avoid enemy attacks and in what order to defeat enemies. Feature3: Co-op Four players can control one puppet. One player controls one limb. Let’s communicate with each other and move the puppet well.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1955440/header.jpg?t=1653213370",
+    "Price": 0.0,
+    "Developers": "Tenkai Games",
+    "Publishers": "Tenkai Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1955440/ss_ccc87d43772bd810945e6d5a7fbcbf8c80e0cadd.1920x1080.jpg?t=1653213370,https://cdn.akamai.steamstatic.com/steam/apps/1955440/ss_bfd452fa7c768b505f0dc88ac242b28fed40a6f2.1920x1080.jpg?t=1653213370,https://cdn.akamai.steamstatic.com/steam/apps/1955440/ss_8230d83454644715e743870ddc9780bcaa8d78f4.1920x1080.jpg?t=1653213370,https://cdn.akamai.steamstatic.com/steam/apps/1955440/ss_c641f49c4533d0c5e77fbb0c3e736f7f316f27de.1920x1080.jpg?t=1653213370,https://cdn.akamai.steamstatic.com/steam/apps/1955440/ss_f870ab1d3cdfcf13c14deb9900343b69f03ac951.1920x1080.jpg?t=1653213370,https://cdn.akamai.steamstatic.com/steam/apps/1955440/ss_5f4f35dcb1bb4173cecce0360d74ac439228bf23.1920x1080.jpg?t=1653213370",
+    "Slug": "tick-tack-puppet",
+    "Meta Title": "Tick Tack Puppet: May 18, 2022, Tenkai Games and Full Ove...",
+    "Meta Description": "Looking for information on Tick Tack Puppet? Check out the release date (May 18, 2022), developer insights from Tenkai Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tick Tack Puppet game - Steam 1955440",
+    "Canonical URL": "https://gusku.site/game/tick-tack-puppet",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tick Tack Puppet\", \"description\": \"Looking for information on Tick Tack Puppet? Check out the release date (May 18, 2022), developer insights from Tenkai Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 18, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tenkai Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tenkai Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1955440/header.jpg?t=1653213370\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

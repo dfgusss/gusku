@@ -1,0 +1,21 @@
+{
+    "AppID": 1895870,
+    "Name": "Pusher",
+    "Release date": "Feb 17, 2022",
+    "About the game": "Pusher is a box-world or sokoban type game. Fight your way through a mixture of 50 levels, ever increasing in difficulty. The goal of the game is to push boxes around until they are all in the designated positions, but this is easier said than done, as it is very easy for boxes to get stuck in awkward positions.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1895870/header.jpg?t=1645096100",
+    "Price": 0.99,
+    "Developers": "Devblazer",
+    "Publishers": "Devblazer",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1895870/ss_5a67904f4a38a9f24d7eddb18b6b15dfe518d8f0.1920x1080.jpg?t=1645096100,https://cdn.akamai.steamstatic.com/steam/apps/1895870/ss_b7e199a3dacb173974493688e5bbd7c7df94947d.1920x1080.jpg?t=1645096100,https://cdn.akamai.steamstatic.com/steam/apps/1895870/ss_ddf1573a85531904634faece769b00ddf7298620.1920x1080.jpg?t=1645096100,https://cdn.akamai.steamstatic.com/steam/apps/1895870/ss_61b31f2c3e35b1542f94ab4915dbc63a45d3c029.1920x1080.jpg?t=1645096100,https://cdn.akamai.steamstatic.com/steam/apps/1895870/ss_6bfb0f63d5e1e9147a58d39279c4bfde51628d88.1920x1080.jpg?t=1645096100",
+    "Slug": "pusher",
+    "Meta Title": "Pusher: Feb 17, 2022, Devblazer and Full Overview",
+    "Meta Description": "Looking for information on Pusher? Check out the release date (Feb 17, 2022), developer insights from Devblazer, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pusher game - Steam 1895870",
+    "Canonical URL": "https://gusku.site/game/pusher",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pusher\", \"description\": \"Looking for information on Pusher? Check out the release date (Feb 17, 2022), developer insights from Devblazer, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Devblazer\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Devblazer\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1895870/header.jpg?t=1645096100\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

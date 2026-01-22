@@ -1,0 +1,21 @@
+{
+    "AppID": 898950,
+    "Name": "ulxrd",
+    "Release date": "Aug 2, 2018",
+    "About the game": "An abstract game created from new ideas. Your goal is to surround more pieces than your opponent first to make their pieces into dead pieces. To win, you must make it so your opponent has 3 or fewer living pieces first. By moving your own pieces to where your opponent's pieces are, the positioning between pieces change. You can only move your pieces in 4 directions: up, down, left, and right, and only to where your opponent's pieces are. To move your pieces, left-click on the one you want to move to select it. While still clicking, flick the piece in the direction you want to move it. When you have surrounded an opponent's piece and it has become a dead piece, the piece will have an X mark on it. Pieces with an X on them cannot be moved. In the event that your piece gets accidentally surrounded by your opponent, your piece will become dead as well. This game requires anticipating ahead of time the situation after pieces have been moved. If both you and your opponent wind up with 3 or fewer living pieces at the same time, the person that caused it will lose. Normal Play (Online Battle) has a time limit. If you do not make your next move within the set time, you lose. In Standalone Mode, there is no time limit in the initial settings. This can be changed in settings.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/898950/header.jpg?t=1533711586",
+    "Price": 1.99,
+    "Developers": "Tsukinowa App.",
+    "Publishers": "Tsukinowa App.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/898950/ss_4aeba1a28014f6725c02da911c797331f85bf17e.1920x1080.jpg?t=1533711586,https://cdn.akamai.steamstatic.com/steam/apps/898950/ss_6f0baf97b5b2ebc989b0ccd72d069157b92b3ff1.1920x1080.jpg?t=1533711586,https://cdn.akamai.steamstatic.com/steam/apps/898950/ss_5cdd81cd10b54ead7000a005c4862e1093152514.1920x1080.jpg?t=1533711586,https://cdn.akamai.steamstatic.com/steam/apps/898950/ss_e37f7913c44881828fe6a8fa61e4677db788b7e2.1920x1080.jpg?t=1533711586,https://cdn.akamai.steamstatic.com/steam/apps/898950/ss_5e28c122c0775127d88c30a5bf8eb2ee218ec661.1920x1080.jpg?t=1533711586,https://cdn.akamai.steamstatic.com/steam/apps/898950/ss_03ffce86cc3746fcc1901ad1177cf622ef559e6e.1920x1080.jpg?t=1533711586",
+    "Slug": "ulxrd",
+    "Meta Title": "ulxrd: Aug 2, 2018, Tsukinowa App. and Full Overview",
+    "Meta Description": "Looking for information on ulxrd? Check out the release date (Aug 2, 2018), developer insights from Tsukinowa App., and a complete game summary.",
+    "Alt Text Image": "Official header image for ulxrd game - Steam 898950",
+    "Canonical URL": "https://gusku.site/game/ulxrd",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ulxrd\", \"description\": \"Looking for information on ulxrd? Check out the release date (Aug 2, 2018), developer insights from Tsukinowa App., and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 2, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tsukinowa App.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tsukinowa App.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/898950/header.jpg?t=1533711586\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

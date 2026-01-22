@@ -1,0 +1,21 @@
+{
+    "AppID": 722810,
+    "Name": "Casual Spider Solitaire",
+    "Release date": "Oct 4, 2017",
+    "About the game": "The Classic Spider Solitaire game, with a casual learning curve. The whole family will enjoy playing the game (5+ years old kids included!). These features make this game stand out: * All provided levels are proved to be solvable. * Game hints, backed by the actual AI solitaire solver. You won't find it anywhere else. * Bookmarks - save your good position and revert to it later. * You can drop the next row to empty cells (goodbye pesky original's solitaire limitation!). A bit on hints: the computer will show you three moves to the solution, so it is very handy. And as powerful the solver is, solving solitaire might turn out to be no easy task even for the machine. So if the solver won't find the solution - likely there is no path to it from the local position. But sometimes the computer just got unlucky. Don't worry, for failed hints your hint item won't be spent. There are plenty of hints now, and periodically you will be granted more! So don't hesitate to use it. The other nifty convenience is to continue the game later - just close the game and your current position will be saved. And to restart, leaving the level with the X button will reset the progress. If a level turns out to be too hard, you now can just skip it and move on. All levels were automatically checked to be easily solvable but I will be periodically monitoring if you guys getting stuck on a particular level too often (to avoid a 'level 50' situation). You can also raise a question in Discussions about ones :) With all the smoother levels, hints and bookmarks the gameplay became much more pleasant than it ever was. There is no more stress relief than celebrating solving a challenging level! I enjoy playing it myself and I hope you are going to like it too. Please enjoy and don't forget to spread the word!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/722810/header.jpg?t=1655977728",
+    "Price": 0.0,
+    "Developers": "Fair Games",
+    "Publishers": "Fair Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/722810/ss_a5d07f213079ff4cdca3febbd504dd48122279b6.1920x1080.jpg?t=1655977728,https://cdn.akamai.steamstatic.com/steam/apps/722810/ss_4c91b86908660dfe8f0e7305440d8543810ff520.1920x1080.jpg?t=1655977728,https://cdn.akamai.steamstatic.com/steam/apps/722810/ss_f625d679a90314dc838999486fed5db980d2e8d5.1920x1080.jpg?t=1655977728,https://cdn.akamai.steamstatic.com/steam/apps/722810/ss_5f44b85871cc0448d719f79cf5fb53c3a2313ac1.1920x1080.jpg?t=1655977728,https://cdn.akamai.steamstatic.com/steam/apps/722810/ss_6006e7a97b37eb5c00a69f54fa5684246bc6bd74.1920x1080.jpg?t=1655977728",
+    "Slug": "casual-spider-solitaire",
+    "Meta Title": "Casual Spider Solitaire: Oct 4, 2017, Fair Games and Full...",
+    "Meta Description": "Looking for information on Casual Spider Solitaire? Check out the release date (Oct 4, 2017), developer insights from Fair Games, and a complete game su...",
+    "Alt Text Image": "Official header image for Casual Spider Solitaire game - Steam 722810",
+    "Canonical URL": "https://gusku.site/game/casual-spider-solitaire",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Casual Spider Solitaire\", \"description\": \"Looking for information on Casual Spider Solitaire? Check out the release date (Oct 4, 2017), developer insights from Fair Games, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 4, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fair Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fair Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/722810/header.jpg?t=1655977728\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

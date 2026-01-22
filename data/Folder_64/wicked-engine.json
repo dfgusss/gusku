@@ -1,0 +1,21 @@
+{
+    "AppID": 1967460,
+    "Name": "Wicked Engine",
+    "Release date": "Sep 1, 2022",
+    "About the game": "Wicked Engine is a small, fast, experimental 3D engine with a modern renderer. It is MIT licensed and open source, and everything you create with it is completely yours, without any strings attached, for eternity. Some features: - Modern rendering engine, fully utilizing DirectX 12 and Vulkan, with the latest features like hardware accelerated ray tracing - Written in C++ with focus on performance - Lua scripting is supported dynamically at runtime - GLTF 2.0 model support with physically based rendering features - It is a single executable, no installation required (+some additional sample assets included with the download) - No internet connection required - This is the packaged version of the open source Wicked Engine. This version can be used to edit 3D scenes and run LUA scripts. - The version with the latest features and full source code which can be used for C++ development is available on GitHub. - This application can open common 3D file formats such as GLTF 2.0, OBJ, VRM. There are some example models and LUA scripts bundled with this version, in the Content folder within your install directory.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1967460/header.jpg?t=1662104222",
+    "Price": 0.0,
+    "Developers": "Turánszki János",
+    "Publishers": "Turánszki János",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1967460/ss_6f1994487fff3b7e3f983140d2d8f2cc75be2d1e.1920x1080.jpg?t=1662104222,https://cdn.akamai.steamstatic.com/steam/apps/1967460/ss_2dfb5808b45688b7b0279d320a6b94827368573b.1920x1080.jpg?t=1662104222,https://cdn.akamai.steamstatic.com/steam/apps/1967460/ss_bda2af7e383f6510e1308223c666604c3c5cf254.1920x1080.jpg?t=1662104222,https://cdn.akamai.steamstatic.com/steam/apps/1967460/ss_57a464aae3d9566cbdc4de3768bc718143e135b7.1920x1080.jpg?t=1662104222,https://cdn.akamai.steamstatic.com/steam/apps/1967460/ss_a92a7cc299936561694ff9f9672b2478618f63b3.1920x1080.jpg?t=1662104222,https://cdn.akamai.steamstatic.com/steam/apps/1967460/ss_79a1c152d18a51919cc484a661178954d1169ed0.1920x1080.jpg?t=1662104222",
+    "Slug": "wicked-engine",
+    "Meta Title": "Wicked Engine: Sep 1, 2022, Turánszki János and Full Over...",
+    "Meta Description": "Looking for information on Wicked Engine? Check out the release date (Sep 1, 2022), developer insights from Turánszki János, and a complete game summary.",
+    "Alt Text Image": "Official header image for Wicked Engine game - Steam 1967460",
+    "Canonical URL": "https://gusku.site/game/wicked-engine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Wicked Engine\", \"description\": \"Looking for information on Wicked Engine? Check out the release date (Sep 1, 2022), developer insights from Tur\\u00e1nszki J\\u00e1nos, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tur\\u00e1nszki J\\u00e1nos\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tur\\u00e1nszki J\\u00e1nos\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1967460/header.jpg?t=1662104222\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

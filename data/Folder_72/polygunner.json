@@ -1,0 +1,21 @@
+{
+    "AppID": 2351510,
+    "Name": "PolyGunner",
+    "Release date": "Apr 2, 2023",
+    "About the game": "Defeat enemies as they rush towards you, upgrade your weapons to prepare for more powerful enemies! Controls The player can switch weapons with the number 1 and number 2 keys. The player can run with the left shift key and jump with the space key. Melee attacks do not exist. The controls are the same as most FPS games, but if you're new to the game, be sure to check the skill keys in the settings window. Victory Conditions Battles are fought in waves. A wave begins with an enemy spawning in one of the four regions, enemies always travel to the player's location. The wave ends when all enemies are defeated, and the next wave begins after a certain amount of time. The player wins if they survive 30 waves. Every 10 waves, a boss appears. Be prepared to battle bosses with powerful patterned attacks. Resources When capturing an enemy, the player gains a certain amount of experience. When maximizing experience, players gain skill points and recover a certain amount of HP. In addition, at the beginning of each wave, a supply crate spawns in the sky. Attacking and destroying supply crates will give you a large amount of skill points and ammo. Skills Pressing the F1(default) key opens the Skills window. In the Skills window, you can enhance your player's stats or gain skills that are useful against enemies. You can select up to four types of skills, and for active skills, you can freely set a hotkey for the skill to use in the Skills window.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2351510/header.jpg?t=1680504055",
+    "Price": 1.69,
+    "Developers": "BigPillar",
+    "Publishers": "BigPillar",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2351510/ss_443762c6150c61f5780defcaa545ef87276f7af9.1920x1080.jpg?t=1680504055,https://cdn.akamai.steamstatic.com/steam/apps/2351510/ss_66bece474401810a8763df5b4b45443d3ac8fac3.1920x1080.jpg?t=1680504055,https://cdn.akamai.steamstatic.com/steam/apps/2351510/ss_c4b41c318fac0c21cfd8213d81186b58501182db.1920x1080.jpg?t=1680504055,https://cdn.akamai.steamstatic.com/steam/apps/2351510/ss_992eb62c0df0a30dbc162845bf15925347bca281.1920x1080.jpg?t=1680504055,https://cdn.akamai.steamstatic.com/steam/apps/2351510/ss_1d9f6a9adbd6d73889d196340f05a1d337c2e6a0.1920x1080.jpg?t=1680504055",
+    "Slug": "polygunner",
+    "Meta Title": "PolyGunner: Apr 2, 2023, BigPillar and Full Overview",
+    "Meta Description": "Looking for information on PolyGunner? Check out the release date (Apr 2, 2023), developer insights from BigPillar, and a complete game summary.",
+    "Alt Text Image": "Official header image for PolyGunner game - Steam 2351510",
+    "Canonical URL": "https://gusku.site/game/polygunner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PolyGunner\", \"description\": \"Looking for information on PolyGunner? Check out the release date (Apr 2, 2023), developer insights from BigPillar, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 2, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"BigPillar\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"BigPillar\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2351510/header.jpg?t=1680504055\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.69, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

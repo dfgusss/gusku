@@ -1,0 +1,21 @@
+{
+    "AppID": 691860,
+    "Name": "Watch Out",
+    "Release date": "Sep 1, 2017",
+    "About the game": "Introduction Watch out is intended to be an 'I got to kill 5-10 minutes somehow'-game. It is an arcade racing game where your only objective is to get as high a score as possible on a random generated map. Gameplay There is no complex mechanics that you need to learn before being able to master the game. The only objective is to get the highest score possible. When playing the game, you will soon see how the car behaves while driving. If you drive too fast during a turn, the car will most likely spin out which could cause you to lose the time left or hit a pedestrian. By playing the game, you might end up being one hell of a drifter but be aware: The day can turn to night which makes visibility worse so be careful. Key Bindings Accelerate: W or Arrow Up Deaccelerate: S or Arrow Down Steering Left: A or Arrow Left Steering Right: D or Arrow Right Handbrake: Space Toggle Headlights: L Quick Restart: R Upcoming There will be implemented a leaderboard in a upcoming patch. This will make it possible for you to compare your scores with others! There will also come a multiplayer 1v1 mode.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/691860/header.jpg?t=1519593850",
+    "Price": 1.99,
+    "Developers": "Noctecraft Entertainment",
+    "Publishers": "Noctecraft Entertainment",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/691860/ss_660d6802a6ca87220f9ee55fc310296da58fd7e1.1920x1080.jpg?t=1519593850,https://cdn.akamai.steamstatic.com/steam/apps/691860/ss_eb3d04134cc359be3d5d81064b9944b3a68ff15d.1920x1080.jpg?t=1519593850,https://cdn.akamai.steamstatic.com/steam/apps/691860/ss_8a1f85fbf90d8b370be6f8a7147eea26f2a12e73.1920x1080.jpg?t=1519593850,https://cdn.akamai.steamstatic.com/steam/apps/691860/ss_d3739be8fa9c53981e3dfbae902f0fdcd70caa02.1920x1080.jpg?t=1519593850,https://cdn.akamai.steamstatic.com/steam/apps/691860/ss_f22679f0ddad509e320d6d064e5044c5fb8d3d11.1920x1080.jpg?t=1519593850,https://cdn.akamai.steamstatic.com/steam/apps/691860/ss_ec92b6c73754ceb227dc20a43a41fe7bbd61874b.1920x1080.jpg?t=1519593850",
+    "Slug": "watch-out",
+    "Meta Title": "Watch Out: Sep 1, 2017, Noctecraft Entertainment and Full...",
+    "Meta Description": "Looking for information on Watch Out? Check out the release date (Sep 1, 2017), developer insights from Noctecraft Entertainment, and a complete game su...",
+    "Alt Text Image": "Official header image for Watch Out game - Steam 691860",
+    "Canonical URL": "https://gusku.site/game/watch-out",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Watch Out\", \"description\": \"Looking for information on Watch Out? Check out the release date (Sep 1, 2017), developer insights from Noctecraft Entertainment, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Noctecraft Entertainment\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Noctecraft Entertainment\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/691860/header.jpg?t=1519593850\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

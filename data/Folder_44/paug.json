@@ -1,0 +1,21 @@
+{
+    "AppID": 1234290,
+    "Name": "Paug",
+    "Release date": "Jun 23, 2020",
+    "About the game": "A fireball, spirits and a pyramid. What can happen? Move your racket and beat the spirit in a duel. Paug is a small game inspired by the hit of the 70s. It takes place in Egypt where the spirits of the pharaohs wake up, angry after your intrusion into their tombs. You can play alone or up to 2 players locally. What to face your friends for an evening!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1234290/header.jpg?t=1650955141",
+    "Price": 0.99,
+    "Developers": "Dezeiraud",
+    "Publishers": "Dezeiraud",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1234290/ss_e6a9188996180070c6db13f2b2cccfce6c0db393.1920x1080.jpg?t=1650955141,https://cdn.akamai.steamstatic.com/steam/apps/1234290/ss_7db13870f76b0e6f57eed853f84346a8832eff0e.1920x1080.jpg?t=1650955141,https://cdn.akamai.steamstatic.com/steam/apps/1234290/ss_1b390fcd560c132c348a7b712ee14f8d8350ff18.1920x1080.jpg?t=1650955141,https://cdn.akamai.steamstatic.com/steam/apps/1234290/ss_299d55092ab760e0d4653b08a84d4681233813d7.1920x1080.jpg?t=1650955141,https://cdn.akamai.steamstatic.com/steam/apps/1234290/ss_6b9666c544f7191982b3c9c26c7afb0fd50079fd.1920x1080.jpg?t=1650955141",
+    "Slug": "paug",
+    "Meta Title": "Paug: Jun 23, 2020, Dezeiraud and Full Overview",
+    "Meta Description": "Looking for information on Paug? Check out the release date (Jun 23, 2020), developer insights from Dezeiraud, and a complete game summary.",
+    "Alt Text Image": "Official header image for Paug game - Steam 1234290",
+    "Canonical URL": "https://gusku.site/game/paug",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Paug\", \"description\": \"Looking for information on Paug? Check out the release date (Jun 23, 2020), developer insights from Dezeiraud, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 23, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dezeiraud\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dezeiraud\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1234290/header.jpg?t=1650955141\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

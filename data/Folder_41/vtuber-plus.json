@@ -1,0 +1,21 @@
+{
+    "AppID": 1957330,
+    "Name": "VTuber Plus",
+    "Release date": "Apr 19, 2022",
+    "About the game": "VTuber Plus is a highly customizable tool that allows Twitch viewers to interact with streamers! Features: Support for VRM and VSF avatars Support for any kind of material (VSF) Support for VSF Animations Support for VRChat's OSC Many items to throw + (make your own) Many items to drop + (make your own) Many foods to eat + (make your own) Integrated Head Pats Confetti effect Water Bucket effect Unique screen effects Unique and customizable twitch rewards system Screen Ambient 2D Props Ragdoll mode Let viewers take your shirt off or put sunglasses on you Ability to use Subscribe and Follow to trigger rewards Ability to use Raid and Host to trigger rewards Ability to use Bits and Channel Points to trigger rewards Ability to use Chat Commands to trigger rewards Ability to change avatar mid-stream manually or as a reward Ability to change the size of items Adjustable colliders Adjustable lighting, bloom, ambient occlusion Switchable cameras Auto load previously used avatar Quick switch between avatars Support for Elgato Stream Deck Support for WebSockets Additional Screen Projection using Spout Virtual Camera Lots of updates and friendly support And many more features... Attention:  To use this tool you need a motion capture software with OSC / VMC protocol running at the same time.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1957330/header.jpg?t=1658174989",
+    "Price": 4.99,
+    "Developers": "Arzolath",
+    "Publishers": "Arzolath",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1957330/ss_8a4cc38b62b406bf5109e22b7de7dbff3b22e249.1920x1080.jpg?t=1658174989,https://cdn.akamai.steamstatic.com/steam/apps/1957330/ss_ebd7b7402495bff6d90e3e01a14bb54802e16761.1920x1080.jpg?t=1658174989,https://cdn.akamai.steamstatic.com/steam/apps/1957330/ss_71a832b37e7bce1ff765dc3de076c5465ee0c346.1920x1080.jpg?t=1658174989,https://cdn.akamai.steamstatic.com/steam/apps/1957330/ss_b36a8517365d39e468448c67c3150730e2787e4e.1920x1080.jpg?t=1658174989,https://cdn.akamai.steamstatic.com/steam/apps/1957330/ss_dccb2536f37c64fb893e7b0551f71bed111cdbbd.1920x1080.jpg?t=1658174989,https://cdn.akamai.steamstatic.com/steam/apps/1957330/ss_487275d2d9a89215f8bdd2ab5a3d125c126c1f36.1920x1080.jpg?t=1658174989,https://cdn.akamai.steamstatic.com/steam/apps/1957330/ss_3b4a3c920ef5ddb47e46d271f1771c3855f74596.1920x1080.jpg?t=1658174989,https://cdn.akamai.steamstatic.com/steam/apps/1957330/ss_6ca900ae564220237879c1ad14223b6a02667499.1920x1080.jpg?t=1658174989",
+    "Slug": "vtuber-plus",
+    "Meta Title": "VTuber Plus: Apr 19, 2022, Arzolath and Full Overview",
+    "Meta Description": "Looking for information on VTuber Plus? Check out the release date (Apr 19, 2022), developer insights from Arzolath, and a complete game summary.",
+    "Alt Text Image": "Official header image for VTuber Plus game - Steam 1957330",
+    "Canonical URL": "https://gusku.site/game/vtuber-plus",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VTuber Plus\", \"description\": \"Looking for information on VTuber Plus? Check out the release date (Apr 19, 2022), developer insights from Arzolath, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 19, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Arzolath\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Arzolath\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1957330/header.jpg?t=1658174989\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

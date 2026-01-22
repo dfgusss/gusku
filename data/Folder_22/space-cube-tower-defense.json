@@ -1,0 +1,21 @@
+{
+    "AppID": 1553940,
+    "Name": "Space Cube Tower Defense",
+    "Release date": "Mar 1, 2021",
+    "About the game": "You control a space station in the form of a cube that protects the planet from invaders. The cube consists of towers of different colors, the ships of the invaders are also of different colors, you must turn the sides of the cube so that the color of the tower matches the color of the invader's ship, until you do this the ship will attack the cube and take life from it. As soon as life is over you will lose. After the color matches, the tower will fire and destroy the ship. Hold out for as long as possible and get points for it, become the leader of the game on the leaderboard. If you make all sides of the same color, you will automatically win with 9999 points.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1553940/header.jpg?t=1645499809",
+    "Price": 9.99,
+    "Developers": "Hede",
+    "Publishers": "Hede",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1553940/ss_04866ef7549cf3cd3171ce981758e847e309fc88.1920x1080.jpg?t=1645499809,https://cdn.akamai.steamstatic.com/steam/apps/1553940/ss_f7d6baf0e80e5f70556c354e2e957e62c7b01054.1920x1080.jpg?t=1645499809,https://cdn.akamai.steamstatic.com/steam/apps/1553940/ss_f62408597cf62ef7c79564ca68ecec848d436562.1920x1080.jpg?t=1645499809,https://cdn.akamai.steamstatic.com/steam/apps/1553940/ss_0352a93dd6d5d3882de1407b4a4448df8607ddc6.1920x1080.jpg?t=1645499809,https://cdn.akamai.steamstatic.com/steam/apps/1553940/ss_b7157cd7f7018d1cefe58c029a233f914f17b3c7.1920x1080.jpg?t=1645499809",
+    "Slug": "space-cube-tower-defense",
+    "Meta Title": "Space Cube Tower Defense: Mar 1, 2021, Hede and Full Over...",
+    "Meta Description": "Looking for information on Space Cube Tower Defense? Check out the release date (Mar 1, 2021), developer insights from Hede, and a complete game summary.",
+    "Alt Text Image": "Official header image for Space Cube Tower Defense game - Steam 1553940",
+    "Canonical URL": "https://gusku.site/game/space-cube-tower-defense",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Space Cube Tower Defense\", \"description\": \"Looking for information on Space Cube Tower Defense? Check out the release date (Mar 1, 2021), developer insights from Hede, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hede\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hede\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1553940/header.jpg?t=1645499809\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

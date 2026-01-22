@@ -1,0 +1,21 @@
+{
+    "AppID": 1996570,
+    "Name": "Eschew",
+    "Release date": "Jun 12, 2022",
+    "About the game": "Eschew is a bullet hell, action, arcade game where you play as an unknown alien visitor, traveled to Earth in search of a stolen, cosmic power source. Survive the overwhelming onslaught of Earth's military might! Objective The player must collect a set number of green orbs (objectives) before time runs out in order to complete levels. If the player fails, they will have the option to retry the current level, or exit to the main menu. There are no saves in Eschew! Gameplay Every level has a small, single-axis movement space. The player can move left &amp; right, jump, and boost, to collect objective orbs, health orbs, and evade incoming attacks. Each subsequent level will add an additional level of difficulty in the form of new enemy attacks. A hit from an attack will take 1 health point. Additional health can be acquired by grabbing red health orbs. Levels 11 maps for Campaign 1 map for Practice Game Over If the player dies, or runs out of time, the player is given the option to retry the current level or quit to the main menu. There are no save points once the player decides to quit. Quitting will send the player back to the main menu. Character Customization The player can customize the color of their character before each playthrough of Eschew.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1996570/header.jpg?t=1657585522",
+    "Price": 1.99,
+    "Developers": "Kevin A. Boyette",
+    "Publishers": "Kevin A. Boyette",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1996570/ss_9156ad318d23d3a4ca07997245e4e405643f8b7d.1920x1080.jpg?t=1657585522,https://cdn.akamai.steamstatic.com/steam/apps/1996570/ss_9bcc499b2fc6e36ddc9ddfa087547c05e1f14309.1920x1080.jpg?t=1657585522,https://cdn.akamai.steamstatic.com/steam/apps/1996570/ss_7efdd95e6f30616d84ef29c2355e01e36dda4a15.1920x1080.jpg?t=1657585522,https://cdn.akamai.steamstatic.com/steam/apps/1996570/ss_e12c78666fe06ebfcf345d1327cf75fbda5a48cd.1920x1080.jpg?t=1657585522,https://cdn.akamai.steamstatic.com/steam/apps/1996570/ss_3f6f622a70078fcd3a535e338f286613b5b8e21c.1920x1080.jpg?t=1657585522,https://cdn.akamai.steamstatic.com/steam/apps/1996570/ss_08bbbecad1dd38831d3999981d035b55458169fa.1920x1080.jpg?t=1657585522,https://cdn.akamai.steamstatic.com/steam/apps/1996570/ss_0a7656ad3d1cb5539f179b1a92e42d83bb7ed216.1920x1080.jpg?t=1657585522,https://cdn.akamai.steamstatic.com/steam/apps/1996570/ss_a3789c1619a57d7101eddf1480a1a228762c364a.1920x1080.jpg?t=1657585522,https://cdn.akamai.steamstatic.com/steam/apps/1996570/ss_d960478ba29517fb1d059e9d24d4f943afca8fa5.1920x1080.jpg?t=1657585522",
+    "Slug": "eschew",
+    "Meta Title": "Eschew: Jun 12, 2022, Kevin A. Boyette and Full Overview",
+    "Meta Description": "Looking for information on Eschew? Check out the release date (Jun 12, 2022), developer insights from Kevin A. Boyette, and a complete game summary.",
+    "Alt Text Image": "Official header image for Eschew game - Steam 1996570",
+    "Canonical URL": "https://gusku.site/game/eschew",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Eschew\", \"description\": \"Looking for information on Eschew? Check out the release date (Jun 12, 2022), developer insights from Kevin A. Boyette, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kevin A. Boyette\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kevin A. Boyette\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1996570/header.jpg?t=1657585522\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

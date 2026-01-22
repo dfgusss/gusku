@@ -1,0 +1,21 @@
+{
+    "AppID": 1850620,
+    "Name": "PenBall",
+    "Release date": "Jan 4, 2022",
+    "About the game": "There is a ball on a small field with a top view. Your gate is at the bottom, and your opponent's gate is at the top. Your goal is to score the ball into the opponent's goal. The game resembles a classic pinball only as hitting platforms you draw lines on the field with the mouse. Your opponent will also draw lines to send the ball in your direction. Each time it touches, the speed of the ball increases. There are three enemy difficulty modes available.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1850620/header.jpg?t=1641306515",
+    "Price": 3.99,
+    "Developers": "QuickBobber",
+    "Publishers": "QuickBobber",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1850620/ss_dbe7174304b810297fc1586339fa52544d5f39a0.1920x1080.jpg?t=1641306515,https://cdn.akamai.steamstatic.com/steam/apps/1850620/ss_c2fdfde6ab07265a3c2f6e5687c524ece0a797e0.1920x1080.jpg?t=1641306515,https://cdn.akamai.steamstatic.com/steam/apps/1850620/ss_942e15af82de7985cf89002b3ad190276decc7b7.1920x1080.jpg?t=1641306515,https://cdn.akamai.steamstatic.com/steam/apps/1850620/ss_4a0a88de8edc2136cfacacc85f68c6a1b7bcfb1b.1920x1080.jpg?t=1641306515,https://cdn.akamai.steamstatic.com/steam/apps/1850620/ss_0f4c7fd8e5155dc91b275368154ee739694b0c4c.1920x1080.jpg?t=1641306515,https://cdn.akamai.steamstatic.com/steam/apps/1850620/ss_5f191d58aabcfdadfbef4835e7be450ec039ceaf.1920x1080.jpg?t=1641306515,https://cdn.akamai.steamstatic.com/steam/apps/1850620/ss_b3b1ccb4ffdee3381fd9358d21ad244c0f807e22.1920x1080.jpg?t=1641306515,https://cdn.akamai.steamstatic.com/steam/apps/1850620/ss_3d19495ae87792a58b67708a0409592ae4060232.1920x1080.jpg?t=1641306515",
+    "Slug": "penball",
+    "Meta Title": "PenBall: Jan 4, 2022, QuickBobber and Full Overview",
+    "Meta Description": "Looking for information on PenBall? Check out the release date (Jan 4, 2022), developer insights from QuickBobber, and a complete game summary.",
+    "Alt Text Image": "Official header image for PenBall game - Steam 1850620",
+    "Canonical URL": "https://gusku.site/game/penball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PenBall\", \"description\": \"Looking for information on PenBall? Check out the release date (Jan 4, 2022), developer insights from QuickBobber, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 4, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1850620/header.jpg?t=1641306515\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

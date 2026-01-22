@@ -1,0 +1,21 @@
+{
+    "AppID": 1144670,
+    "Name": "Tactikk",
+    "Release date": "Sep 5, 2019",
+    "About the game": "Welcome to the Tactikk. This is a turn-based strategy game. You control the killer and go through the guards and workers. Your goal is to get to the door and eliminate targets if possible. You make a move - the opponent also makes a move. The movement occurs strictly along the lines, the direction of movement affects the attacking side. Some targets may also turn or stand still.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1144670/header.jpg?t=1567740358",
+    "Price": 0.99,
+    "Developers": "cBlck",
+    "Publishers": "Bitlock Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1144670/ss_7facddbdbc65f288adeb665c47cf61312dca78bd.1920x1080.jpg?t=1567740358,https://cdn.akamai.steamstatic.com/steam/apps/1144670/ss_7a7f617a70af4dd67960576467da10e5398659a7.1920x1080.jpg?t=1567740358,https://cdn.akamai.steamstatic.com/steam/apps/1144670/ss_b661673ae9e0203df0b48771ae659ed240f83ca2.1920x1080.jpg?t=1567740358,https://cdn.akamai.steamstatic.com/steam/apps/1144670/ss_5f7296ade42ff4f29ddf12e80cb43bdb22bdc8f0.1920x1080.jpg?t=1567740358,https://cdn.akamai.steamstatic.com/steam/apps/1144670/ss_aad9632f2494c8a0687d576c05e82dda7c79c8c1.1920x1080.jpg?t=1567740358,https://cdn.akamai.steamstatic.com/steam/apps/1144670/ss_b2efaf2de018c38f28eecc4fd3a80f9f6d7ff307.1920x1080.jpg?t=1567740358",
+    "Slug": "tactikk",
+    "Meta Title": "Tactikk: Sep 5, 2019, cBlck and Full Overview",
+    "Meta Description": "Looking for information on Tactikk? Check out the release date (Sep 5, 2019), developer insights from cBlck, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tactikk game - Steam 1144670",
+    "Canonical URL": "https://gusku.site/game/tactikk",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tactikk\", \"description\": \"Looking for information on Tactikk? Check out the release date (Sep 5, 2019), developer insights from cBlck, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 5, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"cBlck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bitlock Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1144670/header.jpg?t=1567740358\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

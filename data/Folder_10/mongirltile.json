@@ -1,0 +1,21 @@
+{
+    "AppID": 964110,
+    "Name": "MonGirlTile",
+    "Release date": "Dec 21, 2018",
+    "About the game": "MonGirl Tile is a card game where you face off against various cute monster girls on a 5×5 grid. Each player has three tiles in a hand and takes turns placing them, capturing other adjacent tiles based on the tile’s facing value. Not only are the values of your tiles important but also their position on the game board. The goal is to capture your opponent’s tiles and control the majority of the board when all spaces are filled. - Easy to Learn, Hard to Master: When a tile is captured it rotates, changing which numbers are facing which side. In this way you can try to block or manipulate your opponent’s moves. - Cascading Captures: Enemy tiles adjacent to your captured tiles can also be captured, continuing on and on. Place your tile wisely and watch as you flip half your enemy’s tiles! - Elemental Attributes: Some tiles have elemental gems that alter the values of enemy tiles around them. There are five elements and learning to use them could be the key to victory!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/964110/header.jpg?t=1545885385",
+    "Price": 1.99,
+    "Developers": "xexai",
+    "Publishers": "xexai",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/964110/ss_a1df77bc6d3fc273ec966c1d028e9304274232da.1920x1080.jpg?t=1545885385,https://cdn.akamai.steamstatic.com/steam/apps/964110/ss_34f32a014208d531e4bc410cd2b95350eacb806c.1920x1080.jpg?t=1545885385,https://cdn.akamai.steamstatic.com/steam/apps/964110/ss_4561be41be7c4282bf4b5aadfa9e9c87a85d74bc.1920x1080.jpg?t=1545885385,https://cdn.akamai.steamstatic.com/steam/apps/964110/ss_24284818ca4bff48c97224c54f2c8c3ee5c62d2f.1920x1080.jpg?t=1545885385,https://cdn.akamai.steamstatic.com/steam/apps/964110/ss_90fac44d38323a62ffe459fd4a15eca63ce2d38d.1920x1080.jpg?t=1545885385,https://cdn.akamai.steamstatic.com/steam/apps/964110/ss_46e988289b11845f890c78059ae4721bbd11643d.1920x1080.jpg?t=1545885385",
+    "Slug": "mongirltile",
+    "Meta Title": "MonGirlTile: Dec 21, 2018, xexai and Full Overview",
+    "Meta Description": "Looking for information on MonGirlTile? Check out the release date (Dec 21, 2018), developer insights from xexai, and a complete game summary.",
+    "Alt Text Image": "Official header image for MonGirlTile game - Steam 964110",
+    "Canonical URL": "https://gusku.site/game/mongirltile",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MonGirlTile\", \"description\": \"Looking for information on MonGirlTile? Check out the release date (Dec 21, 2018), developer insights from xexai, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 21, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"xexai\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"xexai\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/964110/header.jpg?t=1545885385\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

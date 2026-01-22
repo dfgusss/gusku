@@ -1,0 +1,21 @@
+{
+    "AppID": 684690,
+    "Name": "Grid Cartographer",
+    "Release date": "Jun 19, 2018",
+    "About the game": "Grid Cartographer is a powerful map creation and design tool, with many features: • Square, Hexagon and Tile-map Grid Types. • Unlimited floor area with named floors and multiple tabbed 'regions'. • Quick brush selection with a popup overlay. • Standard editing tools such as undo, redo and cut, copy and paste. • Range of selection tools including marquee, paint and wand. • Text labelling and a quick note system. • Fog-of-war overlays in several different styles. • Map themes including blueprint, phosphor and parchment styles. • 3D view mode for first-person visualisation. • Avatar cursor to help track your movements as you explore a map. • Interactive wall levers and treasure chests. • Custom marker and terrain tile art import. • Flexible grid setup for limited areas or infinite planes. Import and Export Import TSV maps and room notes from donjon dungeon generator. Export maps to PNG, BMP or TGA with powerful filtering options to create a 'player map'. Export maps to OBJ mesh or JSON/XML data for use with Unity, Godot and Unreal Engine. Scripting system for exporting to proprietary data formats. (AppGameKit example available)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/684690/header.jpg?t=1615992670",
+    "Price": 49.99,
+    "Developers": "David Walters",
+    "Publishers": "David Walters",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/684690/ss_3dd799050949065e86c56eab7f3339fb3aabc9b9.1920x1080.jpg?t=1615992670,https://cdn.akamai.steamstatic.com/steam/apps/684690/ss_60859c376d2996519c2723c3d609b7b8c1314222.1920x1080.jpg?t=1615992670,https://cdn.akamai.steamstatic.com/steam/apps/684690/ss_37d7483721c7da7978b9487668d8beaeaac271de.1920x1080.jpg?t=1615992670,https://cdn.akamai.steamstatic.com/steam/apps/684690/ss_b5bd3a2f5dbe34590f562644e6c1d1489887a2fb.1920x1080.jpg?t=1615992670,https://cdn.akamai.steamstatic.com/steam/apps/684690/ss_b8812065002a92f7121e63594f5146a91fd905d5.1920x1080.jpg?t=1615992670",
+    "Slug": "grid-cartographer",
+    "Meta Title": "Grid Cartographer: Jun 19, 2018, David Walters and Full O...",
+    "Meta Description": "Looking for information on Grid Cartographer? Check out the release date (Jun 19, 2018), developer insights from David Walters, and a complete game summ...",
+    "Alt Text Image": "Official header image for Grid Cartographer game - Steam 684690",
+    "Canonical URL": "https://gusku.site/game/grid-cartographer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Grid Cartographer\", \"description\": \"Looking for information on Grid Cartographer? Check out the release date (Jun 19, 2018), developer insights from David Walters, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 19, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"David Walters\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"David Walters\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/684690/header.jpg?t=1615992670\", \"offers\": {\"@type\": \"Offer\", \"price\": 49.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

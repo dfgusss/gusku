@@ -1,0 +1,21 @@
+{
+    "AppID": 1036780,
+    "Name": "Pokris",
+    "Release date": "Mar 22, 2019",
+    "About the game": "Pokris is what it sounds like: a cross between poker and Tetris. Playing cards drop from the top, and it's your job to match them vertically or horizontally into poker combinations like pairs, straights, flushes, and so on. As the timer goes up, so does the speed, so act fast. You'll have to decide between waiting for certain cards to boost your score with great hands like full houses, and just racking up pairs to clear some cards off the board. For slightly more advanced gameplay, you can flip cards upside down by pressing up. When upside down they won't be counted towards combinations until you flip them back. This way you 'save' a run for a three or four of a kind, for example, without accidentally matching a pair. Your score is based on combinations scored, with more difficult hands counting for more points, and time alive. Sit back, relax to some original music, and try to beat your own high score in Pokris .",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1036780/header.jpg?t=1553293081",
+    "Price": 0.99,
+    "Developers": "Odd Digs",
+    "Publishers": "Odd Digs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1036780/ss_2c2e89b01ba77d74c023f94ec71d3fdea2a854a7.1920x1080.jpg?t=1553293081,https://cdn.akamai.steamstatic.com/steam/apps/1036780/ss_61a205d00cc8505a0a5623d6e2a4b93ce18aac26.1920x1080.jpg?t=1553293081,https://cdn.akamai.steamstatic.com/steam/apps/1036780/ss_e417d3f5880c0fbc904f3801f2dc1e033ac47c15.1920x1080.jpg?t=1553293081,https://cdn.akamai.steamstatic.com/steam/apps/1036780/ss_f1f3539a37ec18db86469fc6c8e42002735ea1cf.1920x1080.jpg?t=1553293081,https://cdn.akamai.steamstatic.com/steam/apps/1036780/ss_2c6a71f0a24e912d5256a266bd9f87b515d41cf2.1920x1080.jpg?t=1553293081",
+    "Slug": "pokris",
+    "Meta Title": "Pokris: Mar 22, 2019, Odd Digs and Full Overview",
+    "Meta Description": "Looking for information on Pokris? Check out the release date (Mar 22, 2019), developer insights from Odd Digs, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pokris game - Steam 1036780",
+    "Canonical URL": "https://gusku.site/game/pokris",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pokris\", \"description\": \"Looking for information on Pokris? Check out the release date (Mar 22, 2019), developer insights from Odd Digs, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 22, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Odd Digs\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Odd Digs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1036780/header.jpg?t=1553293081\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

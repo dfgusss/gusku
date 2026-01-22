@@ -1,0 +1,21 @@
+{
+    "AppID": 2112910,
+    "Name": "The Fish",
+    "Release date": "Aug 31, 2022",
+    "About the game": "This is more of a simulation where you play as a fish in a large underwater world 49km2 and 100m depth. There is no real 'Game Play' but it's more about swimming around and discovering what lies beneath the surface. Select between multiple fishes. Clownfish, shark, octopus, trout, cod, salmon and more. Use the keyboard to steer the selected fish where you want. Use the mouse to pan the camera and look around.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2112910/header.jpg?t=1661936421",
+    "Price": 3.39,
+    "Developers": "Nevsram",
+    "Publishers": "Nevsram",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2112910/ss_0cd3e465c805bfa0f84d37bfd1986823c1b5c77c.1920x1080.jpg?t=1661936421,https://cdn.akamai.steamstatic.com/steam/apps/2112910/ss_a25b5e712d65956917b1498aa2e7cecaa057a39b.1920x1080.jpg?t=1661936421,https://cdn.akamai.steamstatic.com/steam/apps/2112910/ss_5710a9e7d295c2be3fceba814de4b0215b4c32c4.1920x1080.jpg?t=1661936421,https://cdn.akamai.steamstatic.com/steam/apps/2112910/ss_fea038ae3e79692bcc03ef818b4d10f0b9024251.1920x1080.jpg?t=1661936421,https://cdn.akamai.steamstatic.com/steam/apps/2112910/ss_ebb738352af70ef93321af2cde925a73f8e9c00f.1920x1080.jpg?t=1661936421,https://cdn.akamai.steamstatic.com/steam/apps/2112910/ss_f3643071fb3bb752c19393b11bd1172739114b06.1920x1080.jpg?t=1661936421",
+    "Slug": "the-fish",
+    "Meta Title": "The Fish: Aug 31, 2022, Nevsram and Full Overview",
+    "Meta Description": "Looking for information on The Fish? Check out the release date (Aug 31, 2022), developer insights from Nevsram, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Fish game - Steam 2112910",
+    "Canonical URL": "https://gusku.site/game/the-fish",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Fish\", \"description\": \"Looking for information on The Fish? Check out the release date (Aug 31, 2022), developer insights from Nevsram, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 31, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nevsram\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nevsram\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2112910/header.jpg?t=1661936421\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

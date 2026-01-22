@@ -1,0 +1,21 @@
+{
+    "AppID": 2197600,
+    "Name": "Chess Royale",
+    "Release date": "Nov 16, 2022",
+    "About the game": "👑 Chess Royale 👑 Is a non-standard chess game in which kings have magical powers. The player needs to cut down the enemy king, building a victorious tactics by combining the queue of moves and magical abilities. Pieces The Pawn . It is the most numerous and weakest piece in the game. It can move one cell horizontally or vertically. The Knight . It can move two cells vertically and one cell horizontally or two cells horizontally and one cell vertically, jumping over other pieces. The Bishop . It can move diagonally without jumping over intervening pieces. The Rook . It can move any number of cells horizontally or vertically without jumping. The Queen . It is the most powerful piece in the game, able to move any number of cells vertically, horizontally or diagonally, combining the power of the rook and bishop. The King . It is the most important piece in the game. It may move to any adjoining cell. The player who loses the king loses. Magic Abilities When the player's turn comes, he can use magical abilities using the accumulated elixir: Obstacle . Blocks the movement of pieces in selected cell. Added to the turn queue. Destroyed at the onset of the move. New Pawn . Summons a new pawn to a free selected cell. Piece Change . Changes one selected piece (except king) to another.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2197600/header.jpg?t=1668586061",
+    "Price": 0.89,
+    "Developers": "Mewton Games",
+    "Publishers": "Mewton Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2197600/ss_80a65b09166f9582fdac37cac0db925e0141d831.1920x1080.jpg?t=1668586061,https://cdn.akamai.steamstatic.com/steam/apps/2197600/ss_512e9fc13b1bdf14aeb4d45e913ee46767a53748.1920x1080.jpg?t=1668586061,https://cdn.akamai.steamstatic.com/steam/apps/2197600/ss_7c365fa13c5d87bb7d6952e1aea0f56be84cadad.1920x1080.jpg?t=1668586061,https://cdn.akamai.steamstatic.com/steam/apps/2197600/ss_6cc105d090baeb34cd00ce2966b8f4c351569e67.1920x1080.jpg?t=1668586061,https://cdn.akamai.steamstatic.com/steam/apps/2197600/ss_a46619823a5e27cc7581d0095c4cbe2955e1b62d.1920x1080.jpg?t=1668586061",
+    "Slug": "chess-royale",
+    "Meta Title": "Chess Royale: Nov 16, 2022, Mewton Games and Full Overview",
+    "Meta Description": "Looking for information on Chess Royale? Check out the release date (Nov 16, 2022), developer insights from Mewton Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chess Royale game - Steam 2197600",
+    "Canonical URL": "https://gusku.site/game/chess-royale",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chess Royale\", \"description\": \"Looking for information on Chess Royale? Check out the release date (Nov 16, 2022), developer insights from Mewton Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 16, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mewton Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mewton Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2197600/header.jpg?t=1668586061\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.89, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

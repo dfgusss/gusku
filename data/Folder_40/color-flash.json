@@ -1,0 +1,21 @@
+{
+    "AppID": 1832230,
+    "Name": "Color Flash",
+    "Release date": "Dec 10, 2021",
+    "About the game": "Color Flash is an endless runner 2d game based on colors. The player has to pass through a series of obstable bars (divided into four tiles) by matching the tile with the same color as the player. Each time the player successfully pass through an obstacle bar, the score will increase by one point. When player hit the wrong tile, the player dies and game ends. Guidelines: Move player to the left or right side by side. Enter tiles that matches the player color or white tiles to pass an obstacle bar Avoid spiky tiles even if they match your player’s color. Player color may change when it passes through the level entry bar Score increases each time you successfully pass an obstacle bar.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1832230/header.jpg?t=1639128252",
+    "Price": 2.99,
+    "Developers": "QuickBobber",
+    "Publishers": "QuickBobber",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1832230/ss_e9b78b528825c485ec3dc372ad6a228d776a298c.1920x1080.jpg?t=1639128252,https://cdn.akamai.steamstatic.com/steam/apps/1832230/ss_ace6e71ae7c17438d12259bab973734acb0697ba.1920x1080.jpg?t=1639128252,https://cdn.akamai.steamstatic.com/steam/apps/1832230/ss_81d0de8db43f3a7c0892dbdd90a4d87eb6746ed5.1920x1080.jpg?t=1639128252,https://cdn.akamai.steamstatic.com/steam/apps/1832230/ss_a1eb4e10aae33253a228f54364bc2821c35f7ad6.1920x1080.jpg?t=1639128252,https://cdn.akamai.steamstatic.com/steam/apps/1832230/ss_bdc545095993bb0060777851e19b5b149ab86aae.1920x1080.jpg?t=1639128252",
+    "Slug": "color-flash",
+    "Meta Title": "Color Flash: Dec 10, 2021, QuickBobber and Full Overview",
+    "Meta Description": "Looking for information on Color Flash? Check out the release date (Dec 10, 2021), developer insights from QuickBobber, and a complete game summary.",
+    "Alt Text Image": "Official header image for Color Flash game - Steam 1832230",
+    "Canonical URL": "https://gusku.site/game/color-flash",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Color Flash\", \"description\": \"Looking for information on Color Flash? Check out the release date (Dec 10, 2021), developer insights from QuickBobber, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 10, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1832230/header.jpg?t=1639128252\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

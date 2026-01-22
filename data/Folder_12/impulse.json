@@ -1,0 +1,21 @@
+{
+    "AppID": 1753760,
+    "Name": "Impulse",
+    "Release date": "Oct 1, 2021",
+    "About the game": "Picture a mash-up of Super Meat Boy and Lunar Lander. Or N+ meets Asteroids. That’s Impulse. The premise is simple. You need to guide your craft to the exit point of each level, avoiding the various obstacles and bad guys. Levels are short, sometimes brutal affairs. There are no life limits, retry as many times as you need. Restarting a level is instant. There’s no waiting or loading — one moment you’re dead, a click of the mouse later and you’re ready to try again. You can even suicide so you don’t have to wait for death when you know you’ve fouled up. Your craft is at the whim of Newtonian physics. With only a simple thruster you need to battle the forces of gravity and atmospheric drag all while avoiding high-speed impact. The trouble is that all these variables are liable to change with each level. Gravity could be strong, or weak, or zero; it may pull in any direction. Drag might mirror the vacuum of space or the ocean depths. Your craft’s thrusters might be strong or weak. You might have limited or limitless fuel. Your hull might laugh off high-speed impacts or it might shatter from the slightest bump. With all these variables, levels take on very different feels. Some require careful thinking and gentle, deliberate action. Others are all about reflexes and reaction. Most are a mixture of both.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1753760/header.jpg?t=1633084675",
+    "Price": 0.0,
+    "Developers": "Joel Kelley",
+    "Publishers": "Deck16",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1753760/ss_38a55966661ed106d655a91caee5c6e2c7f44cea.1920x1080.jpg?t=1633084675,https://cdn.akamai.steamstatic.com/steam/apps/1753760/ss_1448bf3d2a81e627ddb41329572d74452b620604.1920x1080.jpg?t=1633084675,https://cdn.akamai.steamstatic.com/steam/apps/1753760/ss_99b2b8a31000b2d387e298a33aa9cc12cfcd6b8a.1920x1080.jpg?t=1633084675,https://cdn.akamai.steamstatic.com/steam/apps/1753760/ss_9546d29c1c63a04b12e4fa05a119cca922197e28.1920x1080.jpg?t=1633084675,https://cdn.akamai.steamstatic.com/steam/apps/1753760/ss_c18da14987241dc70cb159fec839436058fe9df1.1920x1080.jpg?t=1633084675",
+    "Slug": "impulse",
+    "Meta Title": "Impulse: Oct 1, 2021, Joel Kelley and Full Overview",
+    "Meta Description": "Looking for information on Impulse? Check out the release date (Oct 1, 2021), developer insights from Joel Kelley, and a complete game summary.",
+    "Alt Text Image": "Official header image for Impulse game - Steam 1753760",
+    "Canonical URL": "https://gusku.site/game/impulse",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Impulse\", \"description\": \"Looking for information on Impulse? Check out the release date (Oct 1, 2021), developer insights from Joel Kelley, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Joel Kelley\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Deck16\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1753760/header.jpg?t=1633084675\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

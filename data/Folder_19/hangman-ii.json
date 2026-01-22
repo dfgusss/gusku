@@ -1,0 +1,21 @@
+{
+    "AppID": 1261170,
+    "Name": "HANGMAN II",
+    "Release date": "Apr 19, 2020",
+    "About the game": "A grim sequel to the puzzle of guessing words. The rules are the same - you need to guess the word, and you have the right to make a mistake 6 times, otherwise the man will be in the noose. And be careful - the game contains many secrets...",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1261170/header.jpg?t=1588216811",
+    "Price": 0.99,
+    "Developers": "Useless Studio",
+    "Publishers": "Useless Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1261170/ss_cbb52541faa3863677bb166e4205b59982571365.1920x1080.jpg?t=1588216811,https://cdn.akamai.steamstatic.com/steam/apps/1261170/ss_af71f808d4ec86b196d85e7824721c9dd5178c57.1920x1080.jpg?t=1588216811,https://cdn.akamai.steamstatic.com/steam/apps/1261170/ss_a11843d57fdddea2ddf88bfbc9a588b5e15b7e93.1920x1080.jpg?t=1588216811,https://cdn.akamai.steamstatic.com/steam/apps/1261170/ss_a46188dea137e749a74f7bd39d13c60432fabf72.1920x1080.jpg?t=1588216811,https://cdn.akamai.steamstatic.com/steam/apps/1261170/ss_6b83c63aac315bb2ae502e2d38bc855b742af642.1920x1080.jpg?t=1588216811",
+    "Slug": "hangman-ii",
+    "Meta Title": "HANGMAN II: Apr 19, 2020, Useless Studio and Full Overview",
+    "Meta Description": "Looking for information on HANGMAN II? Check out the release date (Apr 19, 2020), developer insights from Useless Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for HANGMAN II game - Steam 1261170",
+    "Canonical URL": "https://gusku.site/game/hangman-ii",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HANGMAN II\", \"description\": \"Looking for information on HANGMAN II? Check out the release date (Apr 19, 2020), developer insights from Useless Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 19, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Useless Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Useless Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1261170/header.jpg?t=1588216811\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

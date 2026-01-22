@@ -1,0 +1,21 @@
+{
+    "AppID": 1992840,
+    "Name": "Space Aces",
+    "Release date": "Jul 2, 2022",
+    "About the game": "Space Aces is a video game made for the spring 2022 offering of CAP 4053 at UCF. The player controls a space fighter capable of movement in 3 directions and rotation in 3 directions. The game supports any controller, keyboard, and the Thrustmaster 1600M flight stick. The game has 3 levels where you will fly a spaceship around a 3d space attempting to shoot down your enemies before they can do the same for you. In space, there is nothing to slow you down, so you will have to do your best to utilize your momentum to your advantage. It can be a challenge to control a spaceship in a dogfight, but that's part of the fun! Fly through asteroid fields avoiding enemy attacks as you get your sights on target and take down your enemies. The game features unique music in each level, with titles and attributions on the credits screen. Joystick Controls: trigger shoot, hat switch heave and sway strafing, center thumb button toggle Flight Assist, left thumb button thrust forward, right thumb button thrust backward, joystick left/right axis roll, joystick up/down axis pitch, joystick twist axis yaw Controller controls: right trigger shoot, left stick has yaw and pitch, right stick has roll and heave, left bumper is backwards thrust, right bumper is forwards thrust, south face button is toggle flight assist keyboard controls: See diagram above. qweasd are translational axes and uiojkl are rotational axes. left shift is toggle flight assit, and space bar is shoot. There is no pause menu. We had last minute issues getting it to work. If you cant beat the game, and you get stuck on a level, you'll have to alt f4 the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1992840/header.jpg?t=1656776572",
+    "Price": 0.0,
+    "Developers": "Matthew Hubbs,Austin Brooks,Bradley Vanderzalm,Keon Bush",
+    "Publishers": "Matthew Hubbs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1992840/ss_31059e686e5c3675a8964e3148663b185a7db97d.1920x1080.jpg?t=1656776572,https://cdn.akamai.steamstatic.com/steam/apps/1992840/ss_e5caea76d618a2bf323f9176d4bc363dfd7ce519.1920x1080.jpg?t=1656776572,https://cdn.akamai.steamstatic.com/steam/apps/1992840/ss_5fa1863c90c00e1a5efcc94d5f8f788b97eefaeb.1920x1080.jpg?t=1656776572,https://cdn.akamai.steamstatic.com/steam/apps/1992840/ss_91eee834e56bd314635c065bcca9e07254da0cfc.1920x1080.jpg?t=1656776572,https://cdn.akamai.steamstatic.com/steam/apps/1992840/ss_40db002070d8478722d42803e62ae602281c51f3.1920x1080.jpg?t=1656776572",
+    "Slug": "space-aces",
+    "Meta Title": "Space Aces: Jul 2, 2022, Matthew Hubbs,Austin Brooks,Brad...",
+    "Meta Description": "Looking for information on Space Aces? Check out the release date (Jul 2, 2022), developer insights from Matthew Hubbs,Austin Brooks,Bradley Vanderzalm,...",
+    "Alt Text Image": "Official header image for Space Aces game - Steam 1992840",
+    "Canonical URL": "https://gusku.site/game/space-aces",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Space Aces\", \"description\": \"Looking for information on Space Aces? Check out the release date (Jul 2, 2022), developer insights from Matthew Hubbs,Austin Brooks,Bradley Vanderzalm,...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matthew Hubbs,Austin Brooks,Bradley Vanderzalm,Keon Bush\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matthew Hubbs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1992840/header.jpg?t=1656776572\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1029640,
+    "Name": "reaktron",
+    "Release date": "Aug 23, 2019",
+    "About the game": "reaktron is a snake game. Minimalist. Fast-paced. Multiplayer. Online. Couch. Powerups. EVERYTHING! Sometimes, you need to reinvent the wheel reaktron is much more than an ordinary snake game! According to one of the developers - a slightly confused German neuroscientist - you could call it a psychophysical experiment that completely simulates the so-called broesel-physics. But then again, who cares? With reaktron we tried to improve on a widely unknown minimalistic C64 game, which has been described as 'one of the best multiplayer games of all times on all formats!' (Lagerfeldt, 2003-06-21). Easy-peasy. So we slightly extended the game mechanics. made it a couch-online-multiplayer game - quite a rare type of game. added the option to easily join and play via smartphone (no app required!). added power-ups, including the infamous and technically challenging REVERSER (it's time-warp mechanism makes reaktron probably the most complex snake game ever). and suddenly started to call power-ups reaktrons (WTF?!). Early access features Currently, a combined local and online multiplayer mode (there should be an established word for this. We propose the term 'remocal' multiplayer game) lets you experience the game mechanics as follows: play with up to 12 (remote or local) players per match. play two types of levels: battle royale (survive or escape) and puzzle (unlock reaktrons). play a match of 48 rounds and collect the highest score to win. occasional puzzles spice-up the game and let you unlock up to 9 reaktrons (we could just say 'power-ups' - but we don't!). unlock various Steam achievements. Our mutual vision Even though we have this plan of how the game might look like in the future, we'd be thrilled to get more people involved in the development of reaktron. Be a part of our community on discord, report bugs, tell us your wishes about the game and suggest extraordinary effects for new reaktrons (our way to say 'power-up' - did we mention this already?).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1029640/header.jpg?t=1566919180",
+    "Price": 7.99,
+    "Developers": "insitubytes,plapadoo",
+    "Publishers": "insitubytes,plapadoo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1029640/ss_25f53b63dbb0cae87d4fce524d362a1ce383d447.1920x1080.jpg?t=1566919180,https://cdn.akamai.steamstatic.com/steam/apps/1029640/ss_149a70e50efb17918ea1b3b3f24f67de2a7e744f.1920x1080.jpg?t=1566919180,https://cdn.akamai.steamstatic.com/steam/apps/1029640/ss_c2fb5b4e5edc1292a4c7d9072e9fed11c86ff0bd.1920x1080.jpg?t=1566919180,https://cdn.akamai.steamstatic.com/steam/apps/1029640/ss_7211da760d1a5ddbbdb0160ab66de81181bc6914.1920x1080.jpg?t=1566919180,https://cdn.akamai.steamstatic.com/steam/apps/1029640/ss_9e09aa9158801284a745a348417fbd6089072771.1920x1080.jpg?t=1566919180",
+    "Slug": "reaktron",
+    "Meta Title": "reaktron: Aug 23, 2019, insitubytes,plapadoo and Full Ove...",
+    "Meta Description": "Looking for information on reaktron? Check out the release date (Aug 23, 2019), developer insights from insitubytes,plapadoo, and a complete game summary.",
+    "Alt Text Image": "Official header image for reaktron game - Steam 1029640",
+    "Canonical URL": "https://gusku.site/game/reaktron",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"reaktron\", \"description\": \"Looking for information on reaktron? Check out the release date (Aug 23, 2019), developer insights from insitubytes,plapadoo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 23, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"insitubytes,plapadoo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"insitubytes,plapadoo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1029640/header.jpg?t=1566919180\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

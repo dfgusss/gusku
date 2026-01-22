@@ -1,0 +1,21 @@
+{
+    "AppID": 1937170,
+    "Name": "Pokaban",
+    "Release date": "Nov 1, 2022",
+    "About the game": "Pokaban is a puzzle game where you push cards around to make poker hands. There are marked positions that correlate to a poker hand on the screen. Once enough cards are added to a hand it will be compared with the dealer's hand. If all of your hands beat the dealer then you win the match! How to Play Push cards: When pushed into a slot the card is added to a hand Once a hand is completed it will be compared with the dealer You cannot Push more than one card Pull cards Wild Wild cards can take the place of any other card. It makes creating poker hands more challenging. Like other cards you can place wild cards into marked positions to add to your hand. Positions on the game board can be marked as wild. Placing a card there will turn all cards sharing the rank and suit into wild cards. Be careful though this will affect the dealer' cards as well. These modifiers affect the dealer's cards as well so use them carefully. Suit Swap Placing a card onto a position marked with another suit will swap the suits of both cards. Hand Add cards to your hand Throw cards from your hand Additional features Create and share custom levels with friends and strangers. Unlimited undo/redo movement. Fully configurable keyboard/gamepad mapping 60+ hand-made levels Relaunch right where you left off Stars track progress and show achievement Unobtrusive hint system",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1937170/header.jpg?t=1667315837",
+    "Price": 3.15,
+    "Developers": "mashumafi",
+    "Publishers": "mashumafi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1937170/ss_b3c70fd90b3ae31d25af053fd9871dc55b919712.1920x1080.jpg?t=1667315837,https://cdn.akamai.steamstatic.com/steam/apps/1937170/ss_6ae0edcc5d162c381a69e7ff74005ebd93456787.1920x1080.jpg?t=1667315837,https://cdn.akamai.steamstatic.com/steam/apps/1937170/ss_1bdbdbb4c910317e9e08b8d2ee3945f9762ce749.1920x1080.jpg?t=1667315837,https://cdn.akamai.steamstatic.com/steam/apps/1937170/ss_54c93e2da99cdd4f75192a7e829300bcda583302.1920x1080.jpg?t=1667315837,https://cdn.akamai.steamstatic.com/steam/apps/1937170/ss_a6a95f055aee59b68ecd7b636357b07ee9b37321.1920x1080.jpg?t=1667315837",
+    "Slug": "pokaban",
+    "Meta Title": "Pokaban: Nov 1, 2022, mashumafi and Full Overview",
+    "Meta Description": "Looking for information on Pokaban? Check out the release date (Nov 1, 2022), developer insights from mashumafi, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pokaban game - Steam 1937170",
+    "Canonical URL": "https://gusku.site/game/pokaban",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pokaban\", \"description\": \"Looking for information on Pokaban? Check out the release date (Nov 1, 2022), developer insights from mashumafi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"mashumafi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"mashumafi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1937170/header.jpg?t=1667315837\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.15, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

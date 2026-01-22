@@ -1,0 +1,21 @@
+{
+    "AppID": 474810,
+    "Name": "Dorke and Ymp",
+    "Release date": "Oct 19, 2016",
+    "About the game": "Dorke and Ymp is an unreleased Super Nintendo game developed back in the early 1990's by a Swedish company called Norse. The game was developed with unlicensed tools made by the game programmers. Unfortunately the game failed to acquire a publisher and was never released. Luckily we found the original programmer, composer, and artist and we acquired the source code at about 50% of the game. We worked on the game for over a year to finally complete it. This are the new features and updates done to the game: •Over 100 Bugs and Crashing bugs fixed! •Added a whole new world and levels (Volcano) •Added Menu, cut-scenes and ending. •Implemented password system •Designed, developed and implemented boss fights (4) according to the original game story. •Organized the game to be able to play with continuity. •Over 40 levels and 10 hours of gameplay! This game is a puzzle adventure platformer in which you got to help Dorke (and Ymp) to do some errands for your evil Master Wizard in exchange of training you and teaching you his magic spells. The game is very very hard and challenging, but hardcore games will have fun playing it!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/474810/header.jpg?t=1643921127",
+    "Price": 6.99,
+    "Developers": "Norse,Piko Interactive",
+    "Publishers": "Piko Interactive LLC,Bleem!",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/474810/ss_d4cac59b6148df8ad22e241394ae1bddefca13bb.1920x1080.jpg?t=1643921127,https://cdn.akamai.steamstatic.com/steam/apps/474810/ss_89614969a2fae2d65dd2c12a8aed08a91924313d.1920x1080.jpg?t=1643921127,https://cdn.akamai.steamstatic.com/steam/apps/474810/ss_da34b724c23e20ca56f22ad0d804c0f98fcab5c7.1920x1080.jpg?t=1643921127,https://cdn.akamai.steamstatic.com/steam/apps/474810/ss_7640e9d0610517b67db2068d3800413533a3451c.1920x1080.jpg?t=1643921127,https://cdn.akamai.steamstatic.com/steam/apps/474810/ss_5925c3f1543e8ba8ea98823e0627206317b1344f.1920x1080.jpg?t=1643921127",
+    "Slug": "dorke-and-ymp",
+    "Meta Title": "Dorke and Ymp: Oct 19, 2016, Norse,Piko Interactive and F...",
+    "Meta Description": "Looking for information on Dorke and Ymp? Check out the release date (Oct 19, 2016), developer insights from Norse,Piko Interactive, and a complete game...",
+    "Alt Text Image": "Official header image for Dorke and Ymp game - Steam 474810",
+    "Canonical URL": "https://gusku.site/game/dorke-and-ymp",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dorke and Ymp\", \"description\": \"Looking for information on Dorke and Ymp? Check out the release date (Oct 19, 2016), developer insights from Norse,Piko Interactive, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 19, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Norse,Piko Interactive\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Piko Interactive LLC,Bleem!\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/474810/header.jpg?t=1643921127\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

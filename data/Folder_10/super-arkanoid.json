@@ -1,0 +1,21 @@
+{
+    "AppID": 2001690,
+    "Name": "Super Arkanoid",
+    "Release date": "May 31, 2022",
+    "About the game": "'Super Arkanoid' is a relatively relaxing casual game. The player controls a horizontal board to block the falling ball. When the horizontal board touches the ball, the ball will bounce back. When the ball hits the block, it will be eliminated. After all the blocks are eliminated, you can pass the level. 【Game Operation】 The mouse controls the movement of the horizontal board 【game props】 Badge: When the horizontal board touches this item, the balls will become multiple. After many times in a row, a full screen of small balls will appear. The game is simple to operate, but still requires some reflexes.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2001690/header.jpg?t=1654006482",
+    "Price": 24.99,
+    "Developers": "HuoChaiRenRPG",
+    "Publishers": "HuoChaiRenRPG",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2001690/ss_7f6d5c8a91321e9a052e334649bde2f1f3a1b138.1920x1080.jpg?t=1654006482,https://cdn.akamai.steamstatic.com/steam/apps/2001690/ss_6d0268225319f7a9c6a4bf2dc455454a9aea7630.1920x1080.jpg?t=1654006482,https://cdn.akamai.steamstatic.com/steam/apps/2001690/ss_e84ef8bd2cfb63ef6ee47f83ed96b35200cd62fa.1920x1080.jpg?t=1654006482,https://cdn.akamai.steamstatic.com/steam/apps/2001690/ss_ef911d5f54ee490ead84038e33a18cbc887785ba.1920x1080.jpg?t=1654006482,https://cdn.akamai.steamstatic.com/steam/apps/2001690/ss_5b2eb58870f9471a07ad68e93e68670ebecdf427.1920x1080.jpg?t=1654006482,https://cdn.akamai.steamstatic.com/steam/apps/2001690/ss_74a96d17d94995c23f51e4b3ed06a1b496872cf5.1920x1080.jpg?t=1654006482,https://cdn.akamai.steamstatic.com/steam/apps/2001690/ss_6361abf2f62aa157cddce2267dfce3226c9c9fdc.1920x1080.jpg?t=1654006482",
+    "Slug": "super-arkanoid",
+    "Meta Title": "Super Arkanoid: May 31, 2022, HuoChaiRenRPG and Full Over...",
+    "Meta Description": "Looking for information on Super Arkanoid? Check out the release date (May 31, 2022), developer insights from HuoChaiRenRPG, and a complete game summary.",
+    "Alt Text Image": "Official header image for Super Arkanoid game - Steam 2001690",
+    "Canonical URL": "https://gusku.site/game/super-arkanoid",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Super Arkanoid\", \"description\": \"Looking for information on Super Arkanoid? Check out the release date (May 31, 2022), developer insights from HuoChaiRenRPG, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 31, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"HuoChaiRenRPG\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HuoChaiRenRPG\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2001690/header.jpg?t=1654006482\", \"offers\": {\"@type\": \"Offer\", \"price\": 24.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

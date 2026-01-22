@@ -1,0 +1,21 @@
+{
+    "AppID": 1071080,
+    "Name": "Lapya",
+    "Release date": "May 28, 2019",
+    "About the game": "Single-player story based action shooter in a ruined world where people and robots have retreated to the underground, Lapya has a mission - to keep their sun shining. Many generations have passed since Yellowstone erupted but we still have to live underground where humans live side by side with robots. CREDITS PROGRAMMERS Jani Koivumäki - Camera, controls, audio system Mika Kivennenä - AI, camera Olli Salminen - Questing, AI, dialogue system Oskari Turunen - Code lead, vice project lead , scene loading system, menus GRAPHIC DESIGNERS Henna Takkinen - Character artist, cutscenes, UI design Jonna Lahti - Creature artist, audio design Rosa Parviola - Art lead, project lead, game concept, level design, UI, props Silja Pajunen - Vice art lead, lighting, special effects, post-processing, prop artist, 2D art, level design, trailer SPECIAL THANKS TO Riku Tolvanen - Trailer Soundtrack Team Metroshock consists of game industry students. Both our programmers and artists have been studying for 10 months, while Lapya is a product of 3 months of hard work.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1071080/header.jpg?t=1559035240",
+    "Price": 0.0,
+    "Developers": "Team Metroshock",
+    "Publishers": "Ahlman Game Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1071080/ss_99cafbadb03059f35ce2042c3def4925d0eed949.1920x1080.jpg?t=1559035240,https://cdn.akamai.steamstatic.com/steam/apps/1071080/ss_7a9f6d7ed767d45d8153e5f57b225ccd4c7f05e7.1920x1080.jpg?t=1559035240,https://cdn.akamai.steamstatic.com/steam/apps/1071080/ss_620d9b7f4ed952dec3a93084f65fe8cfa3c0cc9c.1920x1080.jpg?t=1559035240,https://cdn.akamai.steamstatic.com/steam/apps/1071080/ss_39552f880c56e689aede937b9f123d539d6360cd.1920x1080.jpg?t=1559035240,https://cdn.akamai.steamstatic.com/steam/apps/1071080/ss_3b63d4369042748c46661e0b5c4c301eac9ea25e.1920x1080.jpg?t=1559035240",
+    "Slug": "lapya",
+    "Meta Title": "Lapya: May 28, 2019, Team Metroshock and Full Overview",
+    "Meta Description": "Looking for information on Lapya? Check out the release date (May 28, 2019), developer insights from Team Metroshock, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lapya game - Steam 1071080",
+    "Canonical URL": "https://gusku.site/game/lapya",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lapya\", \"description\": \"Looking for information on Lapya? Check out the release date (May 28, 2019), developer insights from Team Metroshock, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 28, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Team Metroshock\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ahlman Game Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1071080/header.jpg?t=1559035240\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

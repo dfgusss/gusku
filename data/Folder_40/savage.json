@@ -1,0 +1,21 @@
+{
+    "AppID": 1428150,
+    "Name": "SAVAGE",
+    "Release date": "Dec 21, 2020",
+    "About the game": "This is an adventure game in the wild. You can feel various weather changes and the alternation of day and night in this super large wild scene. You will encounter herbivores such as goats, rabbits, deers and so on. You can also fight with lions, tigers and other beasts with bare hands or with the weapons such as wooden sticks, bows and arrows.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1428150/header.jpg?t=1608547861",
+    "Price": 0.99,
+    "Developers": "Lightning Cop",
+    "Publishers": "HM.GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1428150/ss_6c6d535fa649092ec3054f24930fb643e2294fac.1920x1080.jpg?t=1608547861,https://cdn.akamai.steamstatic.com/steam/apps/1428150/ss_34962f491a1e158066b03e08cfeee80ffdfa7073.1920x1080.jpg?t=1608547861,https://cdn.akamai.steamstatic.com/steam/apps/1428150/ss_e976a5768fe0216c6718968e6814ebb75e33eca9.1920x1080.jpg?t=1608547861,https://cdn.akamai.steamstatic.com/steam/apps/1428150/ss_3179e8f553f844b04cbf2c1a4ff8d384a437e3ed.1920x1080.jpg?t=1608547861,https://cdn.akamai.steamstatic.com/steam/apps/1428150/ss_a2fea4128d94fd1d2cbd0a0406d06b0ab6d40056.1920x1080.jpg?t=1608547861,https://cdn.akamai.steamstatic.com/steam/apps/1428150/ss_2e7289da18a961c3f9a67f5f80d5fef7a7f4df77.1920x1080.jpg?t=1608547861,https://cdn.akamai.steamstatic.com/steam/apps/1428150/ss_cf98ce236fee728d6be1c1d9fdc95203bbfa1814.1920x1080.jpg?t=1608547861",
+    "Slug": "savage",
+    "Meta Title": "SAVAGE: Dec 21, 2020, Lightning Cop and Full Overview",
+    "Meta Description": "Looking for information on SAVAGE? Check out the release date (Dec 21, 2020), developer insights from Lightning Cop, and a complete game summary.",
+    "Alt Text Image": "Official header image for SAVAGE game - Steam 1428150",
+    "Canonical URL": "https://gusku.site/game/savage",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SAVAGE\", \"description\": \"Looking for information on SAVAGE? Check out the release date (Dec 21, 2020), developer insights from Lightning Cop, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 21, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lightning Cop\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HM.GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1428150/header.jpg?t=1608547861\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

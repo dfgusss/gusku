@@ -1,0 +1,21 @@
+{
+    "AppID": 860440,
+    "Name": "Goat Life",
+    "Release date": "May 25, 2018",
+    "About the game": "Goat Life is an unusual 2D platformer with elements of survival in which you have to go through a variety of levels for a goat. The goat loves to eat cabbage from farm beds, this led to the fact that farmers placed traps in all fields and now the goat needs to be careful. Your main task in this game is to collect certain items on the level and avoid contact with the traps. After you collect all the items on the level, the door to the goat's house opens, passing in which you go to the next level. Be careful, because the goat has only one attempt to pass the level.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/860440/header.jpg?t=1530123860",
+    "Price": 1.99,
+    "Developers": "Vyacheslav Shilikhin",
+    "Publishers": "Vyacheslav Shilikhin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/860440/ss_e7b5b3adcd9426d047e577b653bb3e80237f1d49.1920x1080.jpg?t=1530123860,https://cdn.akamai.steamstatic.com/steam/apps/860440/ss_05782d399b12ca037fbca341784a24e599f3e143.1920x1080.jpg?t=1530123860,https://cdn.akamai.steamstatic.com/steam/apps/860440/ss_3c00472ee9664e515d128c2ecd057a4930110be2.1920x1080.jpg?t=1530123860,https://cdn.akamai.steamstatic.com/steam/apps/860440/ss_26f8fd22dbed4ec94f430c486f5c034e53dfe723.1920x1080.jpg?t=1530123860,https://cdn.akamai.steamstatic.com/steam/apps/860440/ss_2e4d6346c2f0eeeceb563e498e2c1f4e66fde59a.1920x1080.jpg?t=1530123860",
+    "Slug": "goat-life",
+    "Meta Title": "Goat Life: May 25, 2018, Vyacheslav Shilikhin and Full Ov...",
+    "Meta Description": "Looking for information on Goat Life? Check out the release date (May 25, 2018), developer insights from Vyacheslav Shilikhin, and a complete game summary.",
+    "Alt Text Image": "Official header image for Goat Life game - Steam 860440",
+    "Canonical URL": "https://gusku.site/game/goat-life",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Goat Life\", \"description\": \"Looking for information on Goat Life? Check out the release date (May 25, 2018), developer insights from Vyacheslav Shilikhin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 25, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vyacheslav Shilikhin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vyacheslav Shilikhin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/860440/header.jpg?t=1530123860\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

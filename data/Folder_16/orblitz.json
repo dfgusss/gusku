@@ -1,0 +1,21 @@
+{
+    "AppID": 746360,
+    "Name": "Orblitz",
+    "Release date": "Nov 22, 2017",
+    "About the game": "Orblitz is a game where the goal is to collect as many green orbs as possible while avoiding everything else. There is no long term goal or progression, so the point of Orblitz is to perpetually attempt to surpass your high score. There are no in-game purchases or gimmicks of any kind, just plain and casual arcade style entertainment.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/746360/header.jpg?t=1511409442",
+    "Price": 0.99,
+    "Developers": "Bryson MacDuff",
+    "Publishers": "Bryson MacDuff",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/746360/ss_d9423a224e498f675da130c65e93a0590a8c305f.1920x1080.jpg?t=1511409442,https://cdn.akamai.steamstatic.com/steam/apps/746360/ss_d308f5eaf9696130ba849f5045a1006185057ecc.1920x1080.jpg?t=1511409442,https://cdn.akamai.steamstatic.com/steam/apps/746360/ss_eade8dcd37fee5e6017b438788d09165c8602970.1920x1080.jpg?t=1511409442,https://cdn.akamai.steamstatic.com/steam/apps/746360/ss_1289dba4adb1cf0d9e720028be588eb327fa165f.1920x1080.jpg?t=1511409442,https://cdn.akamai.steamstatic.com/steam/apps/746360/ss_b79d76fbece0e4cd79a3ea182093d2a0e1b527ee.1920x1080.jpg?t=1511409442",
+    "Slug": "orblitz",
+    "Meta Title": "Orblitz: Nov 22, 2017, Bryson MacDuff and Full Overview",
+    "Meta Description": "Looking for information on Orblitz? Check out the release date (Nov 22, 2017), developer insights from Bryson MacDuff, and a complete game summary.",
+    "Alt Text Image": "Official header image for Orblitz game - Steam 746360",
+    "Canonical URL": "https://gusku.site/game/orblitz",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Orblitz\", \"description\": \"Looking for information on Orblitz? Check out the release date (Nov 22, 2017), developer insights from Bryson MacDuff, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 22, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bryson MacDuff\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bryson MacDuff\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/746360/header.jpg?t=1511409442\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

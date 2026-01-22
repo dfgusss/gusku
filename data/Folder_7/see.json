@@ -1,0 +1,21 @@
+{
+    "AppID": 1149570,
+    "Name": "See",
+    "Release date": "Jan 11, 2021",
+    "About the game": "See is a logic puzzle game based on the C programming language. A basic knowledge of programming and the C language is highly recommended! Start with an empty program and then add lines of C source code. No typing! Just select a line of source code from those provided. As a sandbox game, different programs can be experimented with and run multiple times to test results. Supports writing and calling functions. A few functions have been included for displaying results and earning points in the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1149570/header.jpg?t=1610405844",
+    "Price": 1.99,
+    "Developers": "SunshineOvercast",
+    "Publishers": "SunshineOvercast",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1149570/ss_e6d27d14ad585bd39e31308340d944b2b406d8c4.1920x1080.jpg?t=1610405844,https://cdn.akamai.steamstatic.com/steam/apps/1149570/ss_9234a5f884df9b735aa40b2f504f220e5905524d.1920x1080.jpg?t=1610405844,https://cdn.akamai.steamstatic.com/steam/apps/1149570/ss_181bb633d767715ca90a56c30197b7166dd08d49.1920x1080.jpg?t=1610405844,https://cdn.akamai.steamstatic.com/steam/apps/1149570/ss_5458edc02b4bb8165b2c42e383f8287b58a29a65.1920x1080.jpg?t=1610405844,https://cdn.akamai.steamstatic.com/steam/apps/1149570/ss_a5ec5ba1fe5406f792a19cfd1aa70ab44aaf6cea.1920x1080.jpg?t=1610405844,https://cdn.akamai.steamstatic.com/steam/apps/1149570/ss_144821df3a200792921e98f24f96f77ea87f9ea8.1920x1080.jpg?t=1610405844",
+    "Slug": "see",
+    "Meta Title": "See: Jan 11, 2021, SunshineOvercast and Full Overview",
+    "Meta Description": "Looking for information on See? Check out the release date (Jan 11, 2021), developer insights from SunshineOvercast, and a complete game summary.",
+    "Alt Text Image": "Official header image for See game - Steam 1149570",
+    "Canonical URL": "https://gusku.site/game/see",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"See\", \"description\": \"Looking for information on See? Check out the release date (Jan 11, 2021), developer insights from SunshineOvercast, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 11, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"SunshineOvercast\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SunshineOvercast\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1149570/header.jpg?t=1610405844\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

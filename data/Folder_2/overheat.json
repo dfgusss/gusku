@@ -1,0 +1,21 @@
+{
+    "AppID": 1710590,
+    "Name": "Overheat",
+    "Release date": "Aug 16, 2021",
+    "About the game": "Overheat is a hard sidescrolling platformer in which a robot only needs to climb up one level to return to its home planet. How hard can that be? There may be a few minor obstacles on the way up: and maybe some less nice fellows: But that shouldn't be too much of a problem, right? Oh, did we mention that the robot is not allowed to stop? No? Well, if the robot stops for a short time, it will OVERHEAT , explode and spawn at the beginning! How many robots will you need?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1710590/header.jpg?t=1637338174",
+    "Price": 4.99,
+    "Developers": "Epic Byte Studios",
+    "Publishers": "Epic Byte Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1710590/ss_6befab155059ab8fea31263e15d86eb0d950b405.1920x1080.jpg?t=1637338174,https://cdn.akamai.steamstatic.com/steam/apps/1710590/ss_d82adcf0f1e5a09c91deb9137f082ce5cb92e275.1920x1080.jpg?t=1637338174,https://cdn.akamai.steamstatic.com/steam/apps/1710590/ss_9138b3b39bde10682c617981c7fd20431e9f0538.1920x1080.jpg?t=1637338174,https://cdn.akamai.steamstatic.com/steam/apps/1710590/ss_a85dc5f010a9064af8d174fe3495e7e3e7f1a978.1920x1080.jpg?t=1637338174,https://cdn.akamai.steamstatic.com/steam/apps/1710590/ss_b414d27b89c0c0df60ae0ecabfa65d34ae2e6b17.1920x1080.jpg?t=1637338174,https://cdn.akamai.steamstatic.com/steam/apps/1710590/ss_88875aedc0ae549aa8708aaaca0fd77824b4c6d1.1920x1080.jpg?t=1637338174",
+    "Slug": "overheat",
+    "Meta Title": "Overheat: Aug 16, 2021, Epic Byte Studios and Full Overview",
+    "Meta Description": "Looking for information on Overheat? Check out the release date (Aug 16, 2021), developer insights from Epic Byte Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Overheat game - Steam 1710590",
+    "Canonical URL": "https://gusku.site/game/overheat",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Overheat\", \"description\": \"Looking for information on Overheat? Check out the release date (Aug 16, 2021), developer insights from Epic Byte Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 16, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Epic Byte Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Epic Byte Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1710590/header.jpg?t=1637338174\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

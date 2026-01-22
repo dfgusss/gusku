@@ -1,0 +1,21 @@
+{
+    "AppID": 1540960,
+    "Name": "Underworld Idle",
+    "Release date": "May 6, 2021",
+    "About the game": "Underworld Idle is an idle game about underworld management. The basic mechanics: higher-order units create lower-order units. If you've played games like Swarm Simulator or Antimatter Dimensions, you should be familiar with these mechanics. However, in Underworld Idle I present my own take on these mechanics. Game Features Factions (demons, undead, utopians, and blackseekers). Each faction is responsible for producing its own resource. Mechanics of creating units. For example, higher demons create lower demons, and so on. The same about units of undead, drowners and warlocks. Infinite progression. Start with a small number of resources and expand into a long list of units and huge numbers. Infernal Contracts - Prestige Mechanics. A variety of locations: lab with energy crystals, junkyard, library with grimoire (containing dark spells).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1540960/header.jpg?t=1620324072",
+    "Price": 0.0,
+    "Developers": "Aleksandr Golovkin",
+    "Publishers": "Aleksandr Golovkin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1540960/ss_e2fc3ce6874bc5ab7ab02b349e96b9c4b0017b5e.1920x1080.jpg?t=1620324072,https://cdn.akamai.steamstatic.com/steam/apps/1540960/ss_c624fdbb3f5525e1d54d66de8e2c4d9e85522c76.1920x1080.jpg?t=1620324072,https://cdn.akamai.steamstatic.com/steam/apps/1540960/ss_5b4c63c3e6e56cb6e03541009c17090bd8827433.1920x1080.jpg?t=1620324072,https://cdn.akamai.steamstatic.com/steam/apps/1540960/ss_44884163f6191a98106145ba9c60510f182d6f8e.1920x1080.jpg?t=1620324072,https://cdn.akamai.steamstatic.com/steam/apps/1540960/ss_a8e77133002276494615a19b580bb9d145143d7c.1920x1080.jpg?t=1620324072,https://cdn.akamai.steamstatic.com/steam/apps/1540960/ss_635d38ec8753594ff1071873b72dab9c59fea805.1920x1080.jpg?t=1620324072",
+    "Slug": "underworld-idle",
+    "Meta Title": "Underworld Idle: May 6, 2021, Aleksandr Golovkin and Full...",
+    "Meta Description": "Looking for information on Underworld Idle? Check out the release date (May 6, 2021), developer insights from Aleksandr Golovkin, and a complete game su...",
+    "Alt Text Image": "Official header image for Underworld Idle game - Steam 1540960",
+    "Canonical URL": "https://gusku.site/game/underworld-idle",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Underworld Idle\", \"description\": \"Looking for information on Underworld Idle? Check out the release date (May 6, 2021), developer insights from Aleksandr Golovkin, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 6, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Aleksandr Golovkin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Aleksandr Golovkin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1540960/header.jpg?t=1620324072\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

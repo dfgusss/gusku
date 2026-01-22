@@ -1,0 +1,21 @@
+{
+    "AppID": 1026450,
+    "Name": "ClipChap",
+    "Release date": "Feb 24, 2019",
+    "About the game": "ClipChap stores new text and graphic objects of the clipboard and stores them for later use. The stored objects can be edited, viewed and copied back to the clipboard. I've use ClipChap at my daily work for years, and I don't want to live without it anymore. Due to the heavy useage, this product is pretty mature. Furthermore ClipChap can: share clipboard objects with others in your LAN. export any object, converting to various file formats. copy window rectangles as images. pick a colour and copy the RGB value as a text to the clipboard. view and edit stored items, even with external programs. send items as email attachments with one click. take care of your downloads and leaves you enough bandwidth to continue. safe you valuable time. ClipChap is as useful as a mouse device.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1026450/header.jpg?t=1551029314",
+    "Price": 19.99,
+    "Developers": "Gernot Frisch",
+    "Publishers": "Dream Design Entertainment",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1026450/ss_fa1ea9f3244cb65f56c2ae0d65252a7da2058ec0.1920x1080.jpg?t=1551029314,https://cdn.akamai.steamstatic.com/steam/apps/1026450/ss_9106385d0cbde2e2333644fc2e05a41f91b11af2.1920x1080.jpg?t=1551029314,https://cdn.akamai.steamstatic.com/steam/apps/1026450/ss_fc8edc3e0ff34c96df77f9471e1e7c32be0d21fe.1920x1080.jpg?t=1551029314,https://cdn.akamai.steamstatic.com/steam/apps/1026450/ss_19e4a8f72dd78876272fff900fe1cfbd82c4415d.1920x1080.jpg?t=1551029314,https://cdn.akamai.steamstatic.com/steam/apps/1026450/ss_454cd99f6a0b7827adddce72eb18e45b2316694d.1920x1080.jpg?t=1551029314",
+    "Slug": "clipchap",
+    "Meta Title": "ClipChap: Feb 24, 2019, Gernot Frisch and Full Overview",
+    "Meta Description": "Looking for information on ClipChap? Check out the release date (Feb 24, 2019), developer insights from Gernot Frisch, and a complete game summary.",
+    "Alt Text Image": "Official header image for ClipChap game - Steam 1026450",
+    "Canonical URL": "https://gusku.site/game/clipchap",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ClipChap\", \"description\": \"Looking for information on ClipChap? Check out the release date (Feb 24, 2019), developer insights from Gernot Frisch, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 24, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gernot Frisch\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dream Design Entertainment\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1026450/header.jpg?t=1551029314\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

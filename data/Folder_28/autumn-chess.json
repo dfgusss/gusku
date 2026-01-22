@@ -1,0 +1,21 @@
+{
+    "AppID": 1312210,
+    "Name": "Autumn-Chess",
+    "Release date": "Jun 12, 2020",
+    "About the game": "The single player self-propelled chess game template and experimental works made by myself contain the basic elements of self-propelled chess game. Chess automatic combat system, chess handling and trading system, three in one upgrade system, also add money management system, population system and store system to the game. However, due to the lack of funds, the monster setting and ending screen were not done.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1312210/header.jpg?t=1591979775",
+    "Price": 1.0,
+    "Developers": "何劲秋",
+    "Publishers": "何劲秋",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1312210/ss_84d457b41ff9237711a8a1300743d4ec3ce43948.1920x1080.jpg?t=1591979775,https://cdn.akamai.steamstatic.com/steam/apps/1312210/ss_13e3c1cc76e401cb6545e64b4492fa1eb9a46aa2.1920x1080.jpg?t=1591979775,https://cdn.akamai.steamstatic.com/steam/apps/1312210/ss_1c127b4a94e34f1842244afbd63c7adf3ab667df.1920x1080.jpg?t=1591979775,https://cdn.akamai.steamstatic.com/steam/apps/1312210/ss_858ea8fec3beacf9dfd9a2d0cc4fad1f2d92083b.1920x1080.jpg?t=1591979775,https://cdn.akamai.steamstatic.com/steam/apps/1312210/ss_72692ea1c9e4ffee1de0c364cf82e884857d5e11.1920x1080.jpg?t=1591979775,https://cdn.akamai.steamstatic.com/steam/apps/1312210/ss_c4a2ed34e710c47525b3172189a366a682e47227.1920x1080.jpg?t=1591979775",
+    "Slug": "autumn-chess",
+    "Meta Title": "Autumn-Chess: Jun 12, 2020, 何劲秋 and Full Overview",
+    "Meta Description": "Looking for information on Autumn-Chess? Check out the release date (Jun 12, 2020), developer insights from 何劲秋, and a complete game summary.",
+    "Alt Text Image": "Official header image for Autumn-Chess game - Steam 1312210",
+    "Canonical URL": "https://gusku.site/game/autumn-chess",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Autumn-Chess\", \"description\": \"Looking for information on Autumn-Chess? Check out the release date (Jun 12, 2020), developer insights from \\u4f55\\u52b2\\u79cb, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 12, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u4f55\\u52b2\\u79cb\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u4f55\\u52b2\\u79cb\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1312210/header.jpg?t=1591979775\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2158190,
+    "Name": "Robot Programmer",
+    "Release date": "Dec 6, 2022",
+    "About the game": "Robots are changing the world. In Robot Programmer , we are building a fully automated factory and you can program the robots to make it happen. Programming - Code the robots with simple instructions to move materials and products. Besides producing the correct output, you need to coordinate the robots in a fast and efficient way. Simple instructions - ．There are only 7 instructions including ↑, ↓, ←, →, SLEEP, LOAD and UNLOAD. ．There are 2 types of instructions: STARTUP and REPEAT. Instructions under STARTUP will be executed first and only once. Instruction under REPEAT will then be executed repeatedly. It is easy to start because of the small number of instructions; however, it's challenging to solve complex tasks with these small instruction sets too. Puzzles &amp; Difficulty - There are over 40 puzzles in the game. In every level, there are 2 passing standards. Casual gamer can pass the levels with naive and non-optimized solutions and then enjoy the next levels. Hardcore gamer can challenge the gold medal which requires very clever and creative solutions.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2158190/header.jpg?t=1670335084",
+    "Price": 8.49,
+    "Developers": "Zero",
+    "Publishers": "Zero Cores",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2158190/ss_17357e18fcd1243bbf142dc50bd085bef90c99a1.1920x1080.jpg?t=1670335084,https://cdn.akamai.steamstatic.com/steam/apps/2158190/ss_1c006e308644a902f03cba44bbed141e77a1391f.1920x1080.jpg?t=1670335084,https://cdn.akamai.steamstatic.com/steam/apps/2158190/ss_02ab0bb60fdbb194170e48d5029d8b216f5f58eb.1920x1080.jpg?t=1670335084,https://cdn.akamai.steamstatic.com/steam/apps/2158190/ss_a55145411c884ca73cd731f857d9c71c60b6a755.1920x1080.jpg?t=1670335084,https://cdn.akamai.steamstatic.com/steam/apps/2158190/ss_d33cc9eb488e62423a351a6951f85e85dbed50c2.1920x1080.jpg?t=1670335084,https://cdn.akamai.steamstatic.com/steam/apps/2158190/ss_41a97f6fc24a878fee687ba42e8fc89154e31d34.1920x1080.jpg?t=1670335084",
+    "Slug": "robot-programmer",
+    "Meta Title": "Robot Programmer: Dec 6, 2022, Zero and Full Overview",
+    "Meta Description": "Looking for information on Robot Programmer? Check out the release date (Dec 6, 2022), developer insights from Zero, and a complete game summary.",
+    "Alt Text Image": "Official header image for Robot Programmer game - Steam 2158190",
+    "Canonical URL": "https://gusku.site/game/robot-programmer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Robot Programmer\", \"description\": \"Looking for information on Robot Programmer? Check out the release date (Dec 6, 2022), developer insights from Zero, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 6, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Zero\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Zero Cores\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2158190/header.jpg?t=1670335084\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

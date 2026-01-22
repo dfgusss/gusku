@@ -1,0 +1,21 @@
+{
+    "AppID": 416030,
+    "Name": "Your Quest",
+    "Release date": "Nov 2, 2015",
+    "About the game": "You awaken to the dawn of a new world. It's streams are clean, the forests lush and the local wildlife is hungry. You're cold and in need of shelter as you hear other voices on the wind. You are not alone. Your quest: Establish civilization and secure their safety in this new world. Your Quest is a casual 2D Strategy/RPG with progressive gameplay where you gather resources to construct a village, craft new weapons and armor, and try to survive the depths of a procedurally generated dungeon under the surface. If you would like to support development, you can 'name your own price' on itch.io: -quest Features Turn-based Combat Village Building Craftable Armor and Weapons Village Raids Procedurally generated dungeon Controls Keyboard W/A/S/D: Movement Enter: Interact and Menu Selection Esc: Main Menu and Cancel Ctrl + W/A/S/D: Turn in that direction Ctrl + A/D when managing jobs: Increases/Decreases jobs by 10 I: Inventory Xbox 360 Controller Left Stick/D-Pad: Movement A: Interact and Menu Selection Start: Main Menu B: Cancel Left Shoulder + Left Stick/D-Pad: Turn in that direction Left Shoulder + Left/Right on the Left Stick/D-Pad when managing jobs: Increases/Decreases jobs by 10 Y: Inventory",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/416030/header.jpg?t=1561319790",
+    "Price": 0.0,
+    "Developers": "Oblivionburn Productions",
+    "Publishers": "Oblivionburn Productions",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/416030/ss_d3bc633848b6df94d934f926e8752f60b4efc52a.1920x1080.jpg?t=1561319790,https://cdn.akamai.steamstatic.com/steam/apps/416030/ss_a669c6605d1941b9e5cac4e98652e345ad577bb8.1920x1080.jpg?t=1561319790,https://cdn.akamai.steamstatic.com/steam/apps/416030/ss_627cd36a786c083a30124ea39702da2f88a6d70c.1920x1080.jpg?t=1561319790,https://cdn.akamai.steamstatic.com/steam/apps/416030/ss_045613efefa4f3d710ebdab8281f00bdef314d0f.1920x1080.jpg?t=1561319790,https://cdn.akamai.steamstatic.com/steam/apps/416030/ss_4b0485bd2f70d3e4d4f928156876649988441801.1920x1080.jpg?t=1561319790",
+    "Slug": "your-quest",
+    "Meta Title": "Your Quest: Nov 2, 2015, Oblivionburn Productions and Ful...",
+    "Meta Description": "Looking for information on Your Quest? Check out the release date (Nov 2, 2015), developer insights from Oblivionburn Productions, and a complete game s...",
+    "Alt Text Image": "Official header image for Your Quest game - Steam 416030",
+    "Canonical URL": "https://gusku.site/game/your-quest",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Your Quest\", \"description\": \"Looking for information on Your Quest? Check out the release date (Nov 2, 2015), developer insights from Oblivionburn Productions, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 2, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Oblivionburn Productions\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Oblivionburn Productions\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/416030/header.jpg?t=1561319790\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

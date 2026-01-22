@@ -1,0 +1,21 @@
+{
+    "AppID": 1412250,
+    "Name": "Path Maker",
+    "Release date": "Oct 23, 2020",
+    "About the game": "Path Maker is a 2D puzzle-platformer game where each level is unfinished and must be fixed before you can complete it. Use a number of in-game editor tools to place additional objects and reach the star in order to progress through the game. In each level, the player needs to reach the shining star to complete the level. Every level provides different kinds of blocks that can be placed in the level. In the beginning, the levels are small but later on the levels are bigger and the player will need to use more blocks. The first block you will utilize is just a simple platform that you can use to bridge a gap. The trampoline block will give you a jump boost to reach higher levels. The TNT block will destroy other objects so you can create a pathway by blowing stuff up. Then there is a block that makes you bigger and one that makes you smaller so you fit through small areas. The other blocks you have to find out for yourself!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1412250/header.jpg?t=1615823281",
+    "Price": 0.99,
+    "Developers": "NanningsGames",
+    "Publishers": "NanningsGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_b62fe1dbf20addd936899c7957b9f26a9aecca72.1920x1080.jpg?t=1615823281,https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_ca8567d7190019b258155ec4d463d91b94c392b1.1920x1080.jpg?t=1615823281,https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_1a52caf4f04e561ce3176b65c78edf3e7f4ab72e.1920x1080.jpg?t=1615823281,https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_f93efa470bd99896065342e58ea75b03f2ee47e7.1920x1080.jpg?t=1615823281,https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_c27445d55fa076cca9dc24b2f6ab02932082e311.1920x1080.jpg?t=1615823281,https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_7accc3a8aae8e1857130f43ed4f0d375f18746f6.1920x1080.jpg?t=1615823281,https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_41c587f4f6648be52b01f8248cae2b7700b16036.1920x1080.jpg?t=1615823281,https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_1bc61b41c7ff8ea946d2e58f509e9f9ad10247b8.1920x1080.jpg?t=1615823281,https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_bcaf20fdbbaf4b1945a8e385199bfc90867e055b.1920x1080.jpg?t=1615823281,https://cdn.akamai.steamstatic.com/steam/apps/1412250/ss_c2295e952d72c7207bb5cc42bad8437a131cd70b.1920x1080.jpg?t=1615823281",
+    "Slug": "path-maker",
+    "Meta Title": "Path Maker: Oct 23, 2020, NanningsGames and Full Overview",
+    "Meta Description": "Looking for information on Path Maker? Check out the release date (Oct 23, 2020), developer insights from NanningsGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Path Maker game - Steam 1412250",
+    "Canonical URL": "https://gusku.site/game/path-maker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Path Maker\", \"description\": \"Looking for information on Path Maker? Check out the release date (Oct 23, 2020), developer insights from NanningsGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 23, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"NanningsGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"NanningsGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1412250/header.jpg?t=1615823281\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

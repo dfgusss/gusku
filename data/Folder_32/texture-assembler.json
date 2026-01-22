@@ -1,0 +1,21 @@
+{
+    "AppID": 1741830,
+    "Name": "Texture Assembler",
+    "Release date": "Nov 30, 2021",
+    "About the game": "Texture Assembler - is a tool for quick and easy manipulation of RGBA image channels. For example, it can be used to convert textures between different engines. It can: - Pack different images into single image channels. - Split image channels into separate images. It can also process a large batch of images with a single click. - Pack textures in bulk and also create your own templates. Supported formats. TGA, BMP, TIFF, JPEG, PNG.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1741830/header.jpg?t=1638272826",
+    "Price": 5.99,
+    "Developers": "VintProg",
+    "Publishers": "VintProg",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1741830/ss_1c11bb5249fdf020bbb925238a37c674afbcb987.1920x1080.jpg?t=1638272826,https://cdn.akamai.steamstatic.com/steam/apps/1741830/ss_908bb323b858020eb4c4a0b4c760f6fedd6710b0.1920x1080.jpg?t=1638272826,https://cdn.akamai.steamstatic.com/steam/apps/1741830/ss_a708ad85a6cdae92ca9883cb466504f0003a17d1.1920x1080.jpg?t=1638272826,https://cdn.akamai.steamstatic.com/steam/apps/1741830/ss_951ec2e04a5bce3ad7af3e50f0517640c245f138.1920x1080.jpg?t=1638272826,https://cdn.akamai.steamstatic.com/steam/apps/1741830/ss_4b26b0004a0b734175316859c8a1541f70aebda1.1920x1080.jpg?t=1638272826",
+    "Slug": "texture-assembler",
+    "Meta Title": "Texture Assembler: Nov 30, 2021, VintProg and Full Overview",
+    "Meta Description": "Looking for information on Texture Assembler? Check out the release date (Nov 30, 2021), developer insights from VintProg, and a complete game summary.",
+    "Alt Text Image": "Official header image for Texture Assembler game - Steam 1741830",
+    "Canonical URL": "https://gusku.site/game/texture-assembler",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Texture Assembler\", \"description\": \"Looking for information on Texture Assembler? Check out the release date (Nov 30, 2021), developer insights from VintProg, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"VintProg\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"VintProg\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1741830/header.jpg?t=1638272826\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

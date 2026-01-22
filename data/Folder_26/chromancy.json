@@ -1,0 +1,21 @@
+{
+    "AppID": 1704260,
+    "Name": "Chromancy",
+    "Release date": "Aug 7, 2021",
+    "About the game": "Chromancy is a shooter game that tests your wits and reflexes at the same time! Using the ability to change color between red, green and blue, you will face enemies, dodge obstacles, solve puzzles and fight bosses through 50 fun and challenging levels. From shooting different colored bullets to absorbing enemy projectiles of the same color, one must master the power of RGB in order to conquer this game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1704260/header.jpg?t=1656247581",
+    "Price": 4.99,
+    "Developers": "Eugene Tan Jianpeng",
+    "Publishers": "Eugene Tan Jianpeng",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1704260/ss_597707c8d9a69c9691f9be8ed79ff5f62c726633.1920x1080.jpg?t=1656247581,https://cdn.akamai.steamstatic.com/steam/apps/1704260/ss_6eaf4538ea7344093bec2ca92fe3ebb8b2a93942.1920x1080.jpg?t=1656247581,https://cdn.akamai.steamstatic.com/steam/apps/1704260/ss_0ede511962b912e33afbc3e24175d0eb56bfe703.1920x1080.jpg?t=1656247581,https://cdn.akamai.steamstatic.com/steam/apps/1704260/ss_fa72e4148275422330746f1fa92332720f8762a1.1920x1080.jpg?t=1656247581,https://cdn.akamai.steamstatic.com/steam/apps/1704260/ss_5dbeffc74cff02cec98c009d1b388384ca6d9967.1920x1080.jpg?t=1656247581,https://cdn.akamai.steamstatic.com/steam/apps/1704260/ss_ac46a7cb5c0959dbaed6f06a065cdd4999e1a9e7.1920x1080.jpg?t=1656247581",
+    "Slug": "chromancy",
+    "Meta Title": "Chromancy: Aug 7, 2021, Eugene Tan Jianpeng and Full Over...",
+    "Meta Description": "Looking for information on Chromancy? Check out the release date (Aug 7, 2021), developer insights from Eugene Tan Jianpeng, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chromancy game - Steam 1704260",
+    "Canonical URL": "https://gusku.site/game/chromancy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chromancy\", \"description\": \"Looking for information on Chromancy? Check out the release date (Aug 7, 2021), developer insights from Eugene Tan Jianpeng, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 7, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eugene Tan Jianpeng\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Eugene Tan Jianpeng\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1704260/header.jpg?t=1656247581\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

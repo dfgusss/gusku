@@ -1,0 +1,21 @@
+{
+    "AppID": 1715580,
+    "Name": "RoboJep",
+    "Release date": "Aug 26, 2021",
+    "About the game": "RoboJep is a Platforming/Physics Based Puzzle Game. Fly through obstacles, solve small puzzles and avoid dangerous obstacles! Progress through 15 levels and at the end, you will be fighting the Narrator! 【Features】 【 Take advantage of the Physics Flight System! 】 【 Traverse dangerous obstacles! Some of them are moving :) 】 【 Carry objects to their destination to unlock locations! 】 【 Your gonna be dying a lot :) 】 【 And finally meet the Narrator! 】",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1715580/header.jpg?t=1630634501",
+    "Price": 0.99,
+    "Developers": "Desert Nights",
+    "Publishers": "Desert Nights",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1715580/ss_585d3ed31e74586bd15e9f1c0cffca3ddc9a5151.1920x1080.jpg?t=1630634501,https://cdn.akamai.steamstatic.com/steam/apps/1715580/ss_c3475f00c43e74b223e74e70c02fe5be8e5abf4f.1920x1080.jpg?t=1630634501,https://cdn.akamai.steamstatic.com/steam/apps/1715580/ss_14c04bb706bd581eee1d276817bb39623551bd7b.1920x1080.jpg?t=1630634501,https://cdn.akamai.steamstatic.com/steam/apps/1715580/ss_6348033061d6760b651eb36bf03fc47fe750a0b3.1920x1080.jpg?t=1630634501,https://cdn.akamai.steamstatic.com/steam/apps/1715580/ss_032f2c1908987ba3f05c124dd228def8b6dfec91.1920x1080.jpg?t=1630634501,https://cdn.akamai.steamstatic.com/steam/apps/1715580/ss_4cf4903b153627c66a5f55ccda23cb63aa635878.1920x1080.jpg?t=1630634501",
+    "Slug": "robojep",
+    "Meta Title": "RoboJep: Aug 26, 2021, Desert Nights and Full Overview",
+    "Meta Description": "Looking for information on RoboJep? Check out the release date (Aug 26, 2021), developer insights from Desert Nights, and a complete game summary.",
+    "Alt Text Image": "Official header image for RoboJep game - Steam 1715580",
+    "Canonical URL": "https://gusku.site/game/robojep",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RoboJep\", \"description\": \"Looking for information on RoboJep? Check out the release date (Aug 26, 2021), developer insights from Desert Nights, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 26, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Desert Nights\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Desert Nights\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1715580/header.jpg?t=1630634501\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

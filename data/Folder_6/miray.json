@@ -1,0 +1,21 @@
+{
+    "AppID": 1410600,
+    "Name": "MIRAY",
+    "Release date": "Jul 28, 2021",
+    "About the game": "It's a rhythm game inspired by the Reflection. It little looks like ping-pong. The ball will bounce slope to slope, You should press any key when the ball hits the slope. You have 5 lives. You will lose a life when you press any key at the wrong time. The diamond shape note is 'Save point'. That means, when you lose all lives, You will replay the game from that point. There are 16 stages in the game now. Challenge the stages, and Please enjoy the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1410600/header.jpg?t=1627545134",
+    "Price": 6.99,
+    "Developers": "Poobool",
+    "Publishers": "Poobool",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1410600/ss_acaf0fb629de89f54ba5fdd70cfe40e74d9bf5e1.1920x1080.jpg?t=1627545134,https://cdn.akamai.steamstatic.com/steam/apps/1410600/ss_68dc7f7548c4fdc34177d4318bf8c8fa2701a32e.1920x1080.jpg?t=1627545134,https://cdn.akamai.steamstatic.com/steam/apps/1410600/ss_94401bed7a2fdb8174840617e7f7d72d9e953fd3.1920x1080.jpg?t=1627545134,https://cdn.akamai.steamstatic.com/steam/apps/1410600/ss_701c73f2293950f4441e81369f9d32326fd35a31.1920x1080.jpg?t=1627545134,https://cdn.akamai.steamstatic.com/steam/apps/1410600/ss_9d575cde586e635e36ffe3d2a0c6c3fd9a1e6d61.1920x1080.jpg?t=1627545134,https://cdn.akamai.steamstatic.com/steam/apps/1410600/ss_4441d841197ccc6145a94f93d76a0ed18b9f09b2.1920x1080.jpg?t=1627545134,https://cdn.akamai.steamstatic.com/steam/apps/1410600/ss_5323636374cf983cf7a82161771dc46dab4e5fc2.1920x1080.jpg?t=1627545134,https://cdn.akamai.steamstatic.com/steam/apps/1410600/ss_66db96e13dc55f16c22e138bcdcb8bda3d27244b.1920x1080.jpg?t=1627545134",
+    "Slug": "miray",
+    "Meta Title": "MIRAY: Jul 28, 2021, Poobool and Full Overview",
+    "Meta Description": "Looking for information on MIRAY? Check out the release date (Jul 28, 2021), developer insights from Poobool, and a complete game summary.",
+    "Alt Text Image": "Official header image for MIRAY game - Steam 1410600",
+    "Canonical URL": "https://gusku.site/game/miray",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MIRAY\", \"description\": \"Looking for information on MIRAY? Check out the release date (Jul 28, 2021), developer insights from Poobool, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 28, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Poobool\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Poobool\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1410600/header.jpg?t=1627545134\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 545690,
+    "Name": "VOI",
+    "Release date": "Nov 7, 2016",
+    "About the game": "Do you think 1 + 1 = 0 is correct? So what do you think about 'black + black = white' statement? VOI is relaxing minimal puzzle game based on XOR logic; 0+0=0 1+0=1 0+1=1 1+1=0 VOI gives you a few draggable geometric shapes (triangle, square, rhombus, parallelogram etc.) to reach target shape. That's all. Do you think that the easy? * One page game (no start button, no exit button) * Cool music and fx * Use mouse wheel to scroll levels",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/545690/header.jpg?t=1614020594",
+    "Price": 0.99,
+    "Developers": "Yunus Ayyildiz",
+    "Publishers": "Yunus Ayyildiz",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/545690/ss_17bd7bd2cf5447714f330053a3bb6b66750f210b.1920x1080.jpg?t=1614020594,https://cdn.akamai.steamstatic.com/steam/apps/545690/ss_68bb4a0753bf56f14005cd25b72d115401ef92a6.1920x1080.jpg?t=1614020594,https://cdn.akamai.steamstatic.com/steam/apps/545690/ss_cb30eca4c5b1047a3573bcef11cd63574e6bb21c.1920x1080.jpg?t=1614020594,https://cdn.akamai.steamstatic.com/steam/apps/545690/ss_69029f480e38854d159a18b13b7ddb46f6831961.1920x1080.jpg?t=1614020594,https://cdn.akamai.steamstatic.com/steam/apps/545690/ss_1789164147cff1359ddaf7c9a512cfa6a1939c12.1920x1080.jpg?t=1614020594",
+    "Slug": "voi",
+    "Meta Title": "VOI: Nov 7, 2016, Yunus Ayyildiz and Full Overview",
+    "Meta Description": "Looking for information on VOI? Check out the release date (Nov 7, 2016), developer insights from Yunus Ayyildiz, and a complete game summary.",
+    "Alt Text Image": "Official header image for VOI game - Steam 545690",
+    "Canonical URL": "https://gusku.site/game/voi",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VOI\", \"description\": \"Looking for information on VOI? Check out the release date (Nov 7, 2016), developer insights from Yunus Ayyildiz, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 7, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Yunus Ayyildiz\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Yunus Ayyildiz\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/545690/header.jpg?t=1614020594\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

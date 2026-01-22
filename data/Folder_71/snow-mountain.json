@@ -1,0 +1,21 @@
+{
+    "AppID": 2309040,
+    "Name": "Snow Mountain",
+    "Release date": "Feb 24, 2023",
+    "About the game": "Try to record the high score as much as possible There are two lines that move in the random direction Hold on to avoid getting out of two lines HP will be reduced if you get out of two lines Be careful, when HP reaches 0, the score is initialized. You can control with the keyboard Accel : Up Arrow Key Move : Left Arrow Key, Right Arrow Key",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2309040/header.jpg?t=1677244548",
+    "Price": 0.0,
+    "Developers": "WATU",
+    "Publishers": "WATU",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2309040/ss_9dd9ebc7ad03001a02cc4425366a314454dcd258.1920x1080.jpg?t=1677244548,https://cdn.akamai.steamstatic.com/steam/apps/2309040/ss_1607228850d13173039e1208b2a1c8524168fac6.1920x1080.jpg?t=1677244548,https://cdn.akamai.steamstatic.com/steam/apps/2309040/ss_ad707a103056a5ddf49db148a7e4a0b20fa765ce.1920x1080.jpg?t=1677244548,https://cdn.akamai.steamstatic.com/steam/apps/2309040/ss_e83ae4777617b7832d32e7b28058db9edc3196f4.1920x1080.jpg?t=1677244548,https://cdn.akamai.steamstatic.com/steam/apps/2309040/ss_5f81f7392d143eac2cb8bf32edf1a83f74ae597f.1920x1080.jpg?t=1677244548",
+    "Slug": "snow-mountain",
+    "Meta Title": "Snow Mountain: Feb 24, 2023, WATU and Full Overview",
+    "Meta Description": "Looking for information on Snow Mountain? Check out the release date (Feb 24, 2023), developer insights from WATU, and a complete game summary.",
+    "Alt Text Image": "Official header image for Snow Mountain game - Steam 2309040",
+    "Canonical URL": "https://gusku.site/game/snow-mountain",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Snow Mountain\", \"description\": \"Looking for information on Snow Mountain? Check out the release date (Feb 24, 2023), developer insights from WATU, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 24, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"WATU\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"WATU\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2309040/header.jpg?t=1677244548\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

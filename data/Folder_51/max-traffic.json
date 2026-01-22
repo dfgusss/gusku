@@ -1,0 +1,21 @@
+{
+    "AppID": 1921880,
+    "Name": "Max Traffic",
+    "Release date": "Apr 9, 2022",
+    "About the game": "Max Traffic is a minimalistic traffic simulator where the player controls the flow of cars by managing the traffic lights. It is a mini casual game to relax to, but also excel at, by trying to achieve the highest score. Each level represents a flag, while the cars hold a minimalistic style. The sounds follow the same pattern by being abstract in their manner. Features: • Mechanics: As simple as possible, the players just have to press on the traffic lights to change from red to green and vice versa. • Relaxing: The game is as stressful as you want it to be, with the time also available on fast and slow. Fast however provides you with double score. • Competitive: For the hard working people out there, there is a scoring system for each level, at which everyone can excel at. • Interesting decisions: Every level provides a different traffic management, making the players adapt to every situation. • Abilites: Every in-game day the players get an ability to help with their progression. Hope you get as many cars as you can across traffic! See you on the leaderboard!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1921880/header.jpg?t=1649487628",
+    "Price": 3.99,
+    "Developers": "Georgios Kletsas",
+    "Publishers": "Georgios Kletsas",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1921880/ss_32697f5fac215ad81388351ee43ad03e6b23937d.1920x1080.jpg?t=1649487628,https://cdn.akamai.steamstatic.com/steam/apps/1921880/ss_f847fafc9ec1250315fde791ef63054e491263be.1920x1080.jpg?t=1649487628,https://cdn.akamai.steamstatic.com/steam/apps/1921880/ss_c0fa764338f1a545fc5df9a7eb29598cc351f942.1920x1080.jpg?t=1649487628,https://cdn.akamai.steamstatic.com/steam/apps/1921880/ss_a2b403141299ba9900ca663fdf6a4f6c09aea580.1920x1080.jpg?t=1649487628,https://cdn.akamai.steamstatic.com/steam/apps/1921880/ss_ba6b479225556aa3a4bebc5fc0f0c91d0cfd4f24.1920x1080.jpg?t=1649487628,https://cdn.akamai.steamstatic.com/steam/apps/1921880/ss_9d8d4aafd1345b159472a79fd08bf803e0c0b1c7.1920x1080.jpg?t=1649487628",
+    "Slug": "max-traffic",
+    "Meta Title": "Max Traffic: Apr 9, 2022, Georgios Kletsas and Full Overview",
+    "Meta Description": "Looking for information on Max Traffic? Check out the release date (Apr 9, 2022), developer insights from Georgios Kletsas, and a complete game summary.",
+    "Alt Text Image": "Official header image for Max Traffic game - Steam 1921880",
+    "Canonical URL": "https://gusku.site/game/max-traffic",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Max Traffic\", \"description\": \"Looking for information on Max Traffic? Check out the release date (Apr 9, 2022), developer insights from Georgios Kletsas, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 9, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Georgios Kletsas\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Georgios Kletsas\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1921880/header.jpg?t=1649487628\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

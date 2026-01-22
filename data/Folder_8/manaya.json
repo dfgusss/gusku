@@ -1,0 +1,21 @@
+{
+    "AppID": 810000,
+    "Name": "Manaya",
+    "Release date": "May 25, 2018",
+    "About the game": "Manaya is a simple bullet hell action game where the player enters a cave to kill monsters trying to escape. Search for treasure rooms to find passives which change your play style. Purchase buffs from the merchant to make your character stronger. Defeat hard bosses at the end of each level to unlock new characters. Features: -Different rooms types, such as treasure room and merchant room. -Thousands combinations of passives. -Variety of monsters. -Hard bosses at the end of each level. -Unlock many characters after defeating bosses.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/810000/header.jpg?t=1527286987",
+    "Price": 2.99,
+    "Developers": "Wurrad",
+    "Publishers": "Wurrad",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/810000/ss_6a179046880bd21692c3be8d504a613950d6512a.1920x1080.jpg?t=1527286987,https://cdn.akamai.steamstatic.com/steam/apps/810000/ss_b6d53dd1c22a19c0051f3ff65ac74311a74ab85b.1920x1080.jpg?t=1527286987,https://cdn.akamai.steamstatic.com/steam/apps/810000/ss_1a225f09ef2513e9a689d0c7155de2e7ab157bb3.1920x1080.jpg?t=1527286987,https://cdn.akamai.steamstatic.com/steam/apps/810000/ss_27e1bb0a58e8adb9fbdaaad0986b3f5e34c371ce.1920x1080.jpg?t=1527286987,https://cdn.akamai.steamstatic.com/steam/apps/810000/ss_1171b087a78868fa47e921cf1929f05d6d5438f0.1920x1080.jpg?t=1527286987,https://cdn.akamai.steamstatic.com/steam/apps/810000/ss_f8b6eb34643f9cb9c37868983395b215f1528b1a.1920x1080.jpg?t=1527286987",
+    "Slug": "manaya",
+    "Meta Title": "Manaya: May 25, 2018, Wurrad and Full Overview",
+    "Meta Description": "Looking for information on Manaya? Check out the release date (May 25, 2018), developer insights from Wurrad, and a complete game summary.",
+    "Alt Text Image": "Official header image for Manaya game - Steam 810000",
+    "Canonical URL": "https://gusku.site/game/manaya",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Manaya\", \"description\": \"Looking for information on Manaya? Check out the release date (May 25, 2018), developer insights from Wurrad, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 25, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Wurrad\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Wurrad\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/810000/header.jpg?t=1527286987\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

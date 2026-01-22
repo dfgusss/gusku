@@ -1,0 +1,21 @@
+{
+    "AppID": 868470,
+    "Name": "Heroes Arena",
+    "Release date": "Jul 27, 2018",
+    "About the game": "Welcome to Heroes Arena! === FEATURES === 1. Endless Arena 2. Loot Corridor 3. Variety of monsters to defeat 4. Max Player level of 200. 5. Player skins 6. Weapon Shop 7. Potion Shop 8. General Shop 9. A small secret area 10. Steam Achievements === HOW TO PLAY === 1. Use ( W, S, D, A ) to move the player 2. 'Left Mouse Button' to attack 3. 'Right Mouse Button' to use skill 'Big Sword'' 4. 'Space' to use skill 'Spin Attack' 5. '1' to use HP Potion",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/868470/header.jpg?t=1532707153",
+    "Price": 0.99,
+    "Developers": "Victor Corradi",
+    "Publishers": "Corradi Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/868470/ss_a186b9e49cb924e4d84377296647b6a6e78b4612.1920x1080.jpg?t=1532707153,https://cdn.akamai.steamstatic.com/steam/apps/868470/ss_c736c369008aac49f6cf5e25d3930bac766b229d.1920x1080.jpg?t=1532707153,https://cdn.akamai.steamstatic.com/steam/apps/868470/ss_efdeea085448fe897dd3faf6835e9fc655a4ecb9.1920x1080.jpg?t=1532707153,https://cdn.akamai.steamstatic.com/steam/apps/868470/ss_f6bab1710a26dc1348faabb069f13f917635cc40.1920x1080.jpg?t=1532707153,https://cdn.akamai.steamstatic.com/steam/apps/868470/ss_f1963f9b2904256eedd013f1e7227bd6fba1a9b4.1920x1080.jpg?t=1532707153",
+    "Slug": "heroes-arena",
+    "Meta Title": "Heroes Arena: Jul 27, 2018, Victor Corradi and Full Overview",
+    "Meta Description": "Looking for information on Heroes Arena? Check out the release date (Jul 27, 2018), developer insights from Victor Corradi, and a complete game summary.",
+    "Alt Text Image": "Official header image for Heroes Arena game - Steam 868470",
+    "Canonical URL": "https://gusku.site/game/heroes-arena",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Heroes Arena\", \"description\": \"Looking for information on Heroes Arena? Check out the release date (Jul 27, 2018), developer insights from Victor Corradi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 27, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Victor Corradi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Corradi Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/868470/header.jpg?t=1532707153\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

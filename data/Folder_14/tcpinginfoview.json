@@ -1,0 +1,21 @@
+{
+    "AppID": 828090,
+    "Name": "TCPingInfoView",
+    "Release date": "Dec 16, 2018",
+    "About the game": "TCPingInfoView can test TCP connections on Windows. The main purpose is to monitor your game servers or other Internet services based on TCP. It supports Win7 and high DPI, but it is recommended to run on Windows 10 1703 or later. It's also open source, so anyone can study, modify, and contribute to making it better. Example of the List # Google [2607:f8b0:4007:801::2004]:443 IPv6 172.217.14.68:80 www.google.com Google, port 443 # Youtube [2607:f8b0:4007:80e::200e] IPv6 172.217.14.78 IPv4 地址 www.youtube.com:80 YouTube port 80 bing.com",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/828090/header.jpg?t=1552991610",
+    "Price": 0.99,
+    "Developers": "HMBSbige",
+    "Publishers": "HMBSbige",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/828090/ss_8110d2965fb7e5d28531e58537cfdd64ac60d8de.1920x1080.jpg?t=1552991610,https://cdn.akamai.steamstatic.com/steam/apps/828090/ss_ced988a976cc9c30e99ad90e2c3dad9e8cb04800.1920x1080.jpg?t=1552991610,https://cdn.akamai.steamstatic.com/steam/apps/828090/ss_b39f3b07cf627fe5786c7b6aeb6df2881028896f.1920x1080.jpg?t=1552991610,https://cdn.akamai.steamstatic.com/steam/apps/828090/ss_6e73a7a6476fae274e74cf4637f52b99c2c60399.1920x1080.jpg?t=1552991610,https://cdn.akamai.steamstatic.com/steam/apps/828090/ss_01ce8272d308ea17b4806ccb85854a7402c18cb0.1920x1080.jpg?t=1552991610",
+    "Slug": "tcpinginfoview",
+    "Meta Title": "TCPingInfoView: Dec 16, 2018, HMBSbige and Full Overview",
+    "Meta Description": "Looking for information on TCPingInfoView? Check out the release date (Dec 16, 2018), developer insights from HMBSbige, and a complete game summary.",
+    "Alt Text Image": "Official header image for TCPingInfoView game - Steam 828090",
+    "Canonical URL": "https://gusku.site/game/tcpinginfoview",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TCPingInfoView\", \"description\": \"Looking for information on TCPingInfoView? Check out the release date (Dec 16, 2018), developer insights from HMBSbige, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 16, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"HMBSbige\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HMBSbige\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/828090/header.jpg?t=1552991610\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

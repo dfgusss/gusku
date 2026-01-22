@@ -1,0 +1,21 @@
+{
+    "AppID": 938280,
+    "Name": "ROLL!",
+    "Release date": "Oct 3, 2018",
+    "About the game": "Roll your way through 20 levels in this fast, minimalistic 3D platform game. Interact with purple cubes to launch various mechanisms at levels, that will test your dexterity and reaction on your way to the finish. Also, your opponents will be gravity and terrible controls. At the end of the journey you will receive a reward... or maybe not. Controls: WASD(Arrows) - Movement Main menu theme: - alimar - Nature Music by Joakim Karud: - Joakim Karud - Canals - Joakim Karud - Piano Sax - Joakim Karud - Vibe With Me - Joakim Karud - Clouds",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/938280/header.jpg?t=1558923417",
+    "Price": 0.99,
+    "Developers": "SAARSE",
+    "Publishers": "SAARSE",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/938280/ss_7d2c213695a21886db9336cd8811f5bc20c62ca4.1920x1080.jpg?t=1558923417,https://cdn.akamai.steamstatic.com/steam/apps/938280/ss_9b85e4111fc925c4155b64fe2df80ecbbd5aaabd.1920x1080.jpg?t=1558923417,https://cdn.akamai.steamstatic.com/steam/apps/938280/ss_dc44f8a55e43ce5605b6d58984cb30d962796e0a.1920x1080.jpg?t=1558923417,https://cdn.akamai.steamstatic.com/steam/apps/938280/ss_408c0df5b99600c06c747f6a85ea23c95524487f.1920x1080.jpg?t=1558923417,https://cdn.akamai.steamstatic.com/steam/apps/938280/ss_54aacd2f6faab3285011bca2e4f564478a9f06a7.1920x1080.jpg?t=1558923417",
+    "Slug": "roll",
+    "Meta Title": "ROLL!: Oct 3, 2018, SAARSE and Full Overview",
+    "Meta Description": "Looking for information on ROLL!? Check out the release date (Oct 3, 2018), developer insights from SAARSE, and a complete game summary.",
+    "Alt Text Image": "Official header image for ROLL! game - Steam 938280",
+    "Canonical URL": "https://gusku.site/game/roll",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ROLL!\", \"description\": \"Looking for information on ROLL!? Check out the release date (Oct 3, 2018), developer insights from SAARSE, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 3, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"SAARSE\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SAARSE\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/938280/header.jpg?t=1558923417\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

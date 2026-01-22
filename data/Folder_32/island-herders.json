@@ -1,0 +1,21 @@
+{
+    "AppID": 1545000,
+    "Name": "Island Herders",
+    "Release date": "Mar 3, 2021",
+    "About the game": "A sliding block puzzle where you must herd creatures along floating islands. It is nap time among the floating islands and the creatures need someone to navigate them to their zones. With four different types of creatures that all have their own ideas you will be challenged to get them all there at the same time. Island Herders is a single-player game with over 250 puzzles to complete. These puzzles challenge you to maneuver 1-10 different creatures at the same time. If you find some of the challenges too easy try to complete them faster than the turn goals!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1545000/header.jpg?t=1615595939",
+    "Price": 5.99,
+    "Developers": "Jonathan MacLellan",
+    "Publishers": "Jonathan MacLellan",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1545000/ss_84b803fb1441d846bfebed91e36726ae7e3f0a96.1920x1080.jpg?t=1615595939,https://cdn.akamai.steamstatic.com/steam/apps/1545000/ss_06eef5eee3ddf831e00a30d47a73535c2f6a1ee2.1920x1080.jpg?t=1615595939,https://cdn.akamai.steamstatic.com/steam/apps/1545000/ss_97491513006c94ea570f84f3af02fe9e52c7335e.1920x1080.jpg?t=1615595939,https://cdn.akamai.steamstatic.com/steam/apps/1545000/ss_f22bbf88d3800c012b2701572a3ad8157be42d53.1920x1080.jpg?t=1615595939,https://cdn.akamai.steamstatic.com/steam/apps/1545000/ss_62ec8fcac65fd539e98149bf34d38ed7436ea641.1920x1080.jpg?t=1615595939,https://cdn.akamai.steamstatic.com/steam/apps/1545000/ss_c089555b2450bb3dc30298c5f445b66ec10033cc.1920x1080.jpg?t=1615595939",
+    "Slug": "island-herders",
+    "Meta Title": "Island Herders: Mar 3, 2021, Jonathan MacLellan and Full ...",
+    "Meta Description": "Looking for information on Island Herders? Check out the release date (Mar 3, 2021), developer insights from Jonathan MacLellan, and a complete game sum...",
+    "Alt Text Image": "Official header image for Island Herders game - Steam 1545000",
+    "Canonical URL": "https://gusku.site/game/island-herders",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Island Herders\", \"description\": \"Looking for information on Island Herders? Check out the release date (Mar 3, 2021), developer insights from Jonathan MacLellan, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 3, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jonathan MacLellan\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jonathan MacLellan\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1545000/header.jpg?t=1615595939\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

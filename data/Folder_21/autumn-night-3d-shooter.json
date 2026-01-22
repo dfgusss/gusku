@@ -1,0 +1,21 @@
+{
+    "AppID": 581730,
+    "Name": "Autumn Night 3D Shooter",
+    "Release date": "May 9, 2017",
+    "About the game": "First and foremost, this game is an experiment in coding a software renderer. It's an engine that renders the image via CPU, without involving the graphics adapter, much like the 90's games did. I wanted to find out if it's possible to code an engine like that from scratch nowadays, and if it can run at 60 FPS on a modern PC. It was a self-imposed challenge. Once I finished the engine, I thought I could make a game with it, an FPS like the early shooters from the 90's. I have to say I was quite impressed with them back in the day, and I've been looking to recreate them for a long time. Thus, this game is a 90's FPS. A simplistic story takes a backseat to pure run-and-gun gameplay. On graphics and visuals: I was creating the visuals based on the imagery from my dreams. I tried to convey the mood and atmosphere of my dreams through level design. I feel like I did a particularly good job on this aspect. I'd be happy to hear some feedback from you on my humble little game!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/581730/header.jpg?t=1494635782",
+    "Price": 8.99,
+    "Developers": "Sergey Bobrov",
+    "Publishers": "Sergey Bobrov",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_5f4dbad7b99105b5972b67f5c4ef83d98c19349b.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_4204f6a1bdacc90418ace4267b4baf81e0402915.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_7e7a9633d8fe9b7047f1d470eea584da393577c7.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_14160651db6d097257c9fda632583f2efdad1a63.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_418bb517507b53416883a804b849b387cea677cf.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_9a82bd29993320919e10212caabbe297557d7c8c.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_6ea3439fc3ec9f601de06500f5d8c9a381e5f65c.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_1149f88328b97471ed95222a3fdb2b37f0c1d9e3.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_d16430b578d191eabeebd89fd06ff8ff8a5bd9c8.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_2c9bad923fea20d04c50f6b9d2126fbb48b6ded6.1920x1080.jpg?t=1494635782,https://cdn.akamai.steamstatic.com/steam/apps/581730/ss_49380bcc50908ac2f8ef2df3cd8bd54498679fba.1920x1080.jpg?t=1494635782",
+    "Slug": "autumn-night-3d-shooter",
+    "Meta Title": "Autumn Night 3D Shooter: May 9, 2017, Sergey Bobrov and F...",
+    "Meta Description": "Looking for information on Autumn Night 3D Shooter? Check out the release date (May 9, 2017), developer insights from Sergey Bobrov, and a complete game...",
+    "Alt Text Image": "Official header image for Autumn Night 3D Shooter game - Steam 581730",
+    "Canonical URL": "https://gusku.site/game/autumn-night-3d-shooter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Autumn Night 3D Shooter\", \"description\": \"Looking for information on Autumn Night 3D Shooter? Check out the release date (May 9, 2017), developer insights from Sergey Bobrov, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 9, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sergey Bobrov\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sergey Bobrov\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/581730/header.jpg?t=1494635782\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

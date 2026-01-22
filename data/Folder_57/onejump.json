@@ -1,0 +1,21 @@
+{
+    "AppID": 1244470,
+    "Name": "OneJump",
+    "Release date": "Mar 7, 2020",
+    "About the game": "OneJump is a minimalistic highscore based jump game. The challenging factor: you only have one chance to jump. If you fall or get hit by an evil block, you will have to start again. It also gets increasingly harder as you progress. You can also play against a friend in splitscreen to find out who of you has better skills. Play either 1, 2 or 5 minutes and choose if you want to win based on the score or the level you reach. In the local multiplayer a mistake will result in your score getting halved. Features Endless Mode Tutorial Steam Leaderboard Local Multiplayer (for two players) Steam Achievements Steam Cloud Save Please note that, although the game is DRM-free, the Steam-Features are not available if the game is started from outside of Steam for obvious reasons. This game is my first publication on Steam. After the completion of this game, I aim to build a more complex project. I really hope you enjoy this little game. Please report any bugs you may encounter so that I can fix them. There shouldn't be many, but as I mentioned, it's really my first game on Steam. Any feedback appreciated. Have fun!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1244470/header.jpg?t=1636822036",
+    "Price": 0.99,
+    "Developers": "Felix T. Vogel",
+    "Publishers": "Felix T. Vogel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1244470/ss_79e0b58ebc1de565e74ac680517bd7faaab00dc7.1920x1080.jpg?t=1636822036,https://cdn.akamai.steamstatic.com/steam/apps/1244470/ss_09891c5fdd183e7eb29a8efe04885724e3a4497b.1920x1080.jpg?t=1636822036,https://cdn.akamai.steamstatic.com/steam/apps/1244470/ss_714d168e4df84bd4b76e29d1244a5efe703219e0.1920x1080.jpg?t=1636822036,https://cdn.akamai.steamstatic.com/steam/apps/1244470/ss_5ec38bbcfb7ae1a402674bddf8a36e0e0f191d68.1920x1080.jpg?t=1636822036,https://cdn.akamai.steamstatic.com/steam/apps/1244470/ss_a22acc4f1379cb819cef74fc3108d4aa1f4dcab9.1920x1080.jpg?t=1636822036,https://cdn.akamai.steamstatic.com/steam/apps/1244470/ss_09c898aafd2917a20c0db3ba5155a81d4a1b9983.1920x1080.jpg?t=1636822036,https://cdn.akamai.steamstatic.com/steam/apps/1244470/ss_2100a8948abddcbb3d0b961cf51ef1387ae1c7ff.1920x1080.jpg?t=1636822036",
+    "Slug": "onejump",
+    "Meta Title": "OneJump: Mar 7, 2020, Felix T. Vogel and Full Overview",
+    "Meta Description": "Looking for information on OneJump? Check out the release date (Mar 7, 2020), developer insights from Felix T. Vogel, and a complete game summary.",
+    "Alt Text Image": "Official header image for OneJump game - Steam 1244470",
+    "Canonical URL": "https://gusku.site/game/onejump",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"OneJump\", \"description\": \"Looking for information on OneJump? Check out the release date (Mar 7, 2020), developer insights from Felix T. Vogel, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 7, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Felix T. Vogel\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Felix T. Vogel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1244470/header.jpg?t=1636822036\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

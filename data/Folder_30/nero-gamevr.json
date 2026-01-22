@@ -1,0 +1,21 @@
+{
+    "AppID": 1011110,
+    "Name": "Nero GameVR",
+    "Release date": "Apr 15, 2019",
+    "About the game": "Nero GameVR is an app that lets you play non-VR games in an immersive environment with your Oculus Rift or HTC Vive. It converts the displayed image to an out that enables game viewing using your head mount devices. Nero GameVR supports playing of third-person games using Immersive Screen Mode and first-person games in 360. Nero GameVR supports most of the popular games on the market today. However, only the games listed below are the ones that have been fully tested and certified by our in-house game experts. # The Walking Dead # Prey # Overwatch # RESIDENT EVIL 7 # Counter-Strike: Global Offensive Please feel free to contact us if you encounter any issues during game play.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1011110/header.jpg?t=1555381530",
+    "Price": 0.0,
+    "Developers": "Nero AG",
+    "Publishers": "Nero AG",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1011110/ss_ce744bc4f2255e21f55650c8d4aa4a0fc919d017.1920x1080.jpg?t=1555381530,https://cdn.akamai.steamstatic.com/steam/apps/1011110/ss_b5e407b0b26c5031d3656fb127858d9d19748887.1920x1080.jpg?t=1555381530,https://cdn.akamai.steamstatic.com/steam/apps/1011110/ss_069430fcb41c0541c32fbef124c0d4c9ba08f42e.1920x1080.jpg?t=1555381530,https://cdn.akamai.steamstatic.com/steam/apps/1011110/ss_129f97ec0505a2eaee4e46106d48c20226b788c6.1920x1080.jpg?t=1555381530,https://cdn.akamai.steamstatic.com/steam/apps/1011110/ss_7c9ccec8a76bbf1c8e566d48e21308c9595dfca5.1920x1080.jpg?t=1555381530",
+    "Slug": "nero-gamevr",
+    "Meta Title": "Nero GameVR: Apr 15, 2019, Nero AG and Full Overview",
+    "Meta Description": "Looking for information on Nero GameVR? Check out the release date (Apr 15, 2019), developer insights from Nero AG, and a complete game summary.",
+    "Alt Text Image": "Official header image for Nero GameVR game - Steam 1011110",
+    "Canonical URL": "https://gusku.site/game/nero-gamevr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nero GameVR\", \"description\": \"Looking for information on Nero GameVR? Check out the release date (Apr 15, 2019), developer insights from Nero AG, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 15, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nero AG\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nero AG\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1011110/header.jpg?t=1555381530\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

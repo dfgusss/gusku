@@ -1,0 +1,21 @@
+{
+    "AppID": 549390,
+    "Name": "Storage Inc 2",
+    "Release date": "Feb 21, 2017",
+    "About the game": "Fun cooperative game for 1-4 players. Each player controls a forklift truck in a warehouse. As new goods keeps arriving, the players must work together organizing them, so that they can make the outgoing deliveries as needed. 100 warehouse maps divided into three difficulties. Each map have high replayability and a separate hiscore for each player count. 5 difficulty levels that controls the pace of the game, allowing you to select something that suits you and your friends skill level and taste. Higher difficulty increases the score for each delivery. Your friends can join your game at any time. The game will dynamically balance the difficulty in addition to the selected one. How to play Steer your truck with W, S, A, D, press Space to lift/drop and Q for horn or with a Gamepad. Change the controls or the reverse steering behaviour in the options. The period bar shows the remaining time of this period. Difficulty and player count affects the period length. Each successfull delivery gives you score based on difficulty. Orders indicate how many deliveries are left before the game ends. Incoming goods arrive on conveyor belts. If anything collides with it, a huge amount of orders will be lost. Blue goods must be dropped in the matching delivery zone before the end of the current period. Failure will result in a score reduction and two lost orders. Goods with a number must be delivered during the period X periods from the current. The number will decrease each new period. Grey goods don't have a known delivery period, but may randomly get one each new period. Each period, one grey goods becomes an optional bonus delivery for that period only. It will be worth double score and may be dropped in any delivery zone.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/549390/header.jpg?t=1488727877",
+    "Price": 9.99,
+    "Developers": "Stolpskott Studios",
+    "Publishers": "Stolpskott Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/549390/ss_a62092bfcff34ac6bb32c4015b2b98185743c483.1920x1080.jpg?t=1488727877,https://cdn.akamai.steamstatic.com/steam/apps/549390/ss_11f44e2fb578106784f663be0178d8364380246a.1920x1080.jpg?t=1488727877,https://cdn.akamai.steamstatic.com/steam/apps/549390/ss_b70417b38f1d323504ea77b052fc4b0abb3e2e11.1920x1080.jpg?t=1488727877,https://cdn.akamai.steamstatic.com/steam/apps/549390/ss_da1eb007c9f03aa42bd4f6a4f8a02b9553729f70.1920x1080.jpg?t=1488727877,https://cdn.akamai.steamstatic.com/steam/apps/549390/ss_c01e400ade16e29bd3afd823b8b04e803432e216.1920x1080.jpg?t=1488727877",
+    "Slug": "storage-inc-2",
+    "Meta Title": "Storage Inc 2: Feb 21, 2017, Stolpskott Studios and Full ...",
+    "Meta Description": "Looking for information on Storage Inc 2? Check out the release date (Feb 21, 2017), developer insights from Stolpskott Studios, and a complete game sum...",
+    "Alt Text Image": "Official header image for Storage Inc 2 game - Steam 549390",
+    "Canonical URL": "https://gusku.site/game/storage-inc-2",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Storage Inc 2\", \"description\": \"Looking for information on Storage Inc 2? Check out the release date (Feb 21, 2017), developer insights from Stolpskott Studios, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 21, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Stolpskott Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Stolpskott Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/549390/header.jpg?t=1488727877\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

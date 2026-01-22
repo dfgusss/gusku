@@ -1,0 +1,21 @@
+{
+    "AppID": 374690,
+    "Name": "RigIT",
+    "Release date": "Oct 1, 2015",
+    "About the game": "RigIT is a 3D computer graphics animation tool that automatically rigs skeletons from an animation library to 3D meshes from 3D mesh libraries. RigIT is a fast, high resolution, near pose, automatic rigger that can rig skeletons to meshes with or without well-defined interiors. It allows you to import skeletons and animations from Motion Capture (.bvh) files and automatically rigs them to objects imported from Wavefront (.obj) files that contain a single object mesh. These rigged meshes can then be exported to a Collada (.dae) file. RigIT is designed to decrease time to market costs by reducing the time requirement for, and simplifying the process of, assigning animations to computer graphics. System requirements: Operating system: Windows 7 or later Key product features: Automatic rigging of skeletons to meshes To see tutorials on how to use RigIT see: For more information see our website: / To download Blender for free visit: /",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/374690/header.jpg?t=1448439027",
+    "Price": 8.99,
+    "Developers": "RigIT",
+    "Publishers": "RigIT",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/374690/ss_d61a72fea5d69ae0724fe487799bf3a181d539d0.1920x1080.jpg?t=1448439027,https://cdn.akamai.steamstatic.com/steam/apps/374690/ss_640aa36058c5968efe8ffc649f3b2ee6b03356a0.1920x1080.jpg?t=1448439027,https://cdn.akamai.steamstatic.com/steam/apps/374690/ss_fcf9037796ae7fdca7c19f7b49da385296562c67.1920x1080.jpg?t=1448439027,https://cdn.akamai.steamstatic.com/steam/apps/374690/ss_0b3add37af2648033b63fc7c5ecb4b9158dba64c.1920x1080.jpg?t=1448439027,https://cdn.akamai.steamstatic.com/steam/apps/374690/ss_6532673ef02847fc711b6f3e0db70a80f524ed8a.1920x1080.jpg?t=1448439027,https://cdn.akamai.steamstatic.com/steam/apps/374690/ss_a792a5f02d55687566c738e87f70c1afc9dbfeec.1920x1080.jpg?t=1448439027,https://cdn.akamai.steamstatic.com/steam/apps/374690/ss_8a20789fd934bc0d778bd422571cf1b793cef460.1920x1080.jpg?t=1448439027,https://cdn.akamai.steamstatic.com/steam/apps/374690/ss_64e706bfc96c397372a8dbefb2513cceb9edd015.1920x1080.jpg?t=1448439027,https://cdn.akamai.steamstatic.com/steam/apps/374690/ss_ebd1c05757bf7cd969f6d5fce529b5190646c011.1920x1080.jpg?t=1448439027",
+    "Slug": "rigit",
+    "Meta Title": "RigIT: Oct 1, 2015, RigIT and Full Overview",
+    "Meta Description": "Looking for information on RigIT? Check out the release date (Oct 1, 2015), developer insights from RigIT, and a complete game summary.",
+    "Alt Text Image": "Official header image for RigIT game - Steam 374690",
+    "Canonical URL": "https://gusku.site/game/rigit",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RigIT\", \"description\": \"Looking for information on RigIT? Check out the release date (Oct 1, 2015), developer insights from RigIT, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 1, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"RigIT\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"RigIT\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/374690/header.jpg?t=1448439027\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

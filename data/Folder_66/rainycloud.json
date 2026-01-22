@@ -1,0 +1,21 @@
+{
+    "AppID": 1343230,
+    "Name": "RainyCloud",
+    "Release date": "Nov 11, 2022",
+    "About the game": "Control a cloud and let it rain on a floor of hexagonal panels. The goal of the game is to turn all panels to water within the time limit to advance to the next level. There are many different types of panels and obstacles such as volcanos and enemies. All the panels have an effect on their neighbouring panels so some strategy is needed to advance to the higher levels. There is no upper limit to the levels, but if you rank top globally your Steam name will be shown as panels to all players and depending on the letters in your name it will influence the game of all players! Influence the Game! Your rank will decide where your name is shown. For example if you are Top 1 of the global high score your name will be shown as panels on the first level. Depending on the letters in your name the panels will change. For example having a lot of 'm's in your name will result in many mountain panels. Chain Reaction Panels and Combos! In order to boost your high score there are combos. If you get rid of an enemy your combo will increase. If you are able to get rid of multiple enemies in a short time your combo will get even higher! Also if you need to turn multiple connected panels at the same time be sure to rain on the yellow combo panels. When activated they will turn all connected panels to the next level! Enemies Enemies suck water out of the ground so be sure to deal with them. By pressing 'V' you can attack the enemies! But be sure to not attack lava! Traps Not all blue panels are water panels! There are trap panels (blue panels with an exclamation mark on them) If you accidentally rain on them they will explode so be careful!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1343230/header.jpg?t=1668169904",
+    "Price": 0.0,
+    "Developers": "inosms,Agawa Ryotaro",
+    "Publishers": "inosms",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1343230/ss_8d72219d250de94eb00dc7b3405dbf689c6ee531.1920x1080.jpg?t=1668169904,https://cdn.akamai.steamstatic.com/steam/apps/1343230/ss_ca472b37530c65d4a4bc68aea08f0ac34f1b3dc9.1920x1080.jpg?t=1668169904,https://cdn.akamai.steamstatic.com/steam/apps/1343230/ss_25d4e8b0e63f0f66274fea82c3ee592b40dc7087.1920x1080.jpg?t=1668169904,https://cdn.akamai.steamstatic.com/steam/apps/1343230/ss_12edf7ec93b7353dcf8ca1f960d4faa01be1ee4f.1920x1080.jpg?t=1668169904,https://cdn.akamai.steamstatic.com/steam/apps/1343230/ss_21532903aec68db689e6bd9d6df761a3cdccc8fc.1920x1080.jpg?t=1668169904",
+    "Slug": "rainycloud",
+    "Meta Title": "RainyCloud: Nov 11, 2022, inosms,Agawa Ryotaro and Full O...",
+    "Meta Description": "Looking for information on RainyCloud? Check out the release date (Nov 11, 2022), developer insights from inosms,Agawa Ryotaro, and a complete game summ...",
+    "Alt Text Image": "Official header image for RainyCloud game - Steam 1343230",
+    "Canonical URL": "https://gusku.site/game/rainycloud",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RainyCloud\", \"description\": \"Looking for information on RainyCloud? Check out the release date (Nov 11, 2022), developer insights from inosms,Agawa Ryotaro, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"inosms,Agawa Ryotaro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"inosms\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1343230/header.jpg?t=1668169904\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

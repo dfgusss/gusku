@@ -1,0 +1,21 @@
+{
+    "AppID": 1283590,
+    "Name": "Azure",
+    "Release date": "May 25, 2020",
+    "About the game": "A final project of my college freshman year. Just jump and dash and have fun. Azure is a game that I first developed as a regular assignment for Intro to Game Development class in the second semester of my freshman year, and I decided to continue working on it for my final project. Inspired by Celeste and Hollow Knight, this game is a quite simple platformer. Players need to control the heroine named Azure to overcome obstacles in front of her. - Main features - Classical Platformer Mechanics: I implemented the double jump and dash mechanics into this game, and players basically just use them to solve problems. Traditional Eastern Aesthetics: Art is another main feature of this game. I tried to reach the level of Chinese ink paintings but failed a little bit, but still, I believe this game looks adorable. Well-made Level Design: I'm not boasting this. Both my professor and my peers praised it. 'It is difficult but you still have the motivation to continue playing.' One of my classmates said. - Yeah, these are the reasons that you should download and try my game. It's free so why not - Don't ask me what's the background story because I don't even know. Just created an adorable character and let her jump around. Probably not adorable enough cuz my drawing skill isn't that good, but I did spend tons of time on art and programming. I believe the game is free of bugs after a couple of playtesting, but just let me know if it has. By the way, the majority of this game was solely developed by myself within a month. Some other parts were done with the help of other people, and here are the credits: Background music done by Snake Logo &amp; Capsule Image done by Danfeng Yang Anyway, enjoy.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1283590/header.jpg?t=1590730662",
+    "Price": 0.0,
+    "Developers": "Hongke Luo",
+    "Publishers": "Hongke Luo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1283590/ss_b021f393e2e05d7673f579e5d5d06ec195e335c7.1920x1080.jpg?t=1590730662,https://cdn.akamai.steamstatic.com/steam/apps/1283590/ss_9d26a8541378afc9a05658fd98f82e8420efc959.1920x1080.jpg?t=1590730662,https://cdn.akamai.steamstatic.com/steam/apps/1283590/ss_51f6e8eb7450f5cc0dc91394a47affd40b3b4888.1920x1080.jpg?t=1590730662,https://cdn.akamai.steamstatic.com/steam/apps/1283590/ss_c5572a1683ee6c877651b291999938083126fc7d.1920x1080.jpg?t=1590730662,https://cdn.akamai.steamstatic.com/steam/apps/1283590/ss_03f8da3c7f003a4b19af8c533d8d8093c8239f8c.1920x1080.jpg?t=1590730662",
+    "Slug": "azure",
+    "Meta Title": "Azure: May 25, 2020, Hongke Luo and Full Overview",
+    "Meta Description": "Looking for information on Azure? Check out the release date (May 25, 2020), developer insights from Hongke Luo, and a complete game summary.",
+    "Alt Text Image": "Official header image for Azure game - Steam 1283590",
+    "Canonical URL": "https://gusku.site/game/azure",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Azure\", \"description\": \"Looking for information on Azure? Check out the release date (May 25, 2020), developer insights from Hongke Luo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 25, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hongke Luo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hongke Luo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1283590/header.jpg?t=1590730662\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1972200,
+    "Name": "Link The Cubes",
+    "Release date": "Nov 11, 2022",
+    "About the game": "Link The Cubes is a relaxing Top-Down puzzle game with cute little cubes. Your goal is to move the cubes to the portals to free them from the levels. Gameplay You control the main cube and connect to the other cubes in the level to move them all together. If one of your connected cubes is blocked, the others can't move either. Try to get as many cubes as possible to the portals. With more and more cubes saved, you can explore the game world further and unlock more difficult levels! Features Control one or more cubes at the same time Reach the portals to unlock more levels Tricky puzzles with different obstacles 100 playable levels Cute little cubes with character Many thanks to our GMTK Jam 2021 team members Sebastian Frey and Patrick Stengel!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1972200/header.jpg?t=1668186063",
+    "Price": 4.49,
+    "Developers": "battyRabbit",
+    "Publishers": "battyRabbit",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1972200/ss_d4cc9167bafef6ffdd609b025a91ff5058a65cba.1920x1080.jpg?t=1668186063,https://cdn.akamai.steamstatic.com/steam/apps/1972200/ss_289fa469a0fdf690c9544bdabcd6539e2d6f38c2.1920x1080.jpg?t=1668186063,https://cdn.akamai.steamstatic.com/steam/apps/1972200/ss_ea49dc608b02ae62df0a2974f9a57d3ed3d8b875.1920x1080.jpg?t=1668186063,https://cdn.akamai.steamstatic.com/steam/apps/1972200/ss_d117b8466e2ecfc2e23cc2ece47d573f0a04ab16.1920x1080.jpg?t=1668186063,https://cdn.akamai.steamstatic.com/steam/apps/1972200/ss_08f11e901ee02959200c761297427e5c8d507935.1920x1080.jpg?t=1668186063,https://cdn.akamai.steamstatic.com/steam/apps/1972200/ss_1a59ea9931a8532c3eb8e4ab82bb0426bf20353c.1920x1080.jpg?t=1668186063,https://cdn.akamai.steamstatic.com/steam/apps/1972200/ss_ac4bdddcef53905b53b57a1991d80b29e0d7cefa.1920x1080.jpg?t=1668186063",
+    "Slug": "link-the-cubes",
+    "Meta Title": "Link The Cubes: Nov 11, 2022, battyRabbit and Full Overview",
+    "Meta Description": "Looking for information on Link The Cubes? Check out the release date (Nov 11, 2022), developer insights from battyRabbit, and a complete game summary.",
+    "Alt Text Image": "Official header image for Link The Cubes game - Steam 1972200",
+    "Canonical URL": "https://gusku.site/game/link-the-cubes",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Link The Cubes\", \"description\": \"Looking for information on Link The Cubes? Check out the release date (Nov 11, 2022), developer insights from battyRabbit, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"battyRabbit\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"battyRabbit\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1972200/header.jpg?t=1668186063\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

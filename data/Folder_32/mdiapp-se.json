@@ -1,0 +1,21 @@
+{
+    "AppID": 403030,
+    "Name": "mdiapp+ SE",
+    "Release date": "Oct 16, 2017",
+    "About the game": "mdiapp+ SE is a paint tool for creating cartoon. It is equipped with the following convenient functions for creating a cartoon, such as: 1bit/8bit layer that requires a small memory consumption (the standard color layers are also available) 32bit and 64bit versions available (64bit version enables a faster performance) Project management window that enables to organize the cartoon pages Supporting multi thread (for the brush/blending mode processing) Script Brush that enables programming (Lua) 3D Perspective tool for drawing sterically Pen Pressure input from a pen tablet (Wintab/TabletPC) Free Transform/Mesh Transform on layer Common MDP format with FireAlpaca/MediBang Paint Concentration Lines Filter",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/403030/header.jpg?t=1618802670",
+    "Price": 59.99,
+    "Developers": "nattou.org",
+    "Publishers": "PGN Inc",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/403030/ss_84216819718a9a2a2297804c0726cd87b2a3b70b.1920x1080.jpg?t=1618802670,https://cdn.akamai.steamstatic.com/steam/apps/403030/ss_5f43d93bcd3377701616d4677c0f3d35f23771fd.1920x1080.jpg?t=1618802670,https://cdn.akamai.steamstatic.com/steam/apps/403030/ss_ad2fe64e372d7de4ae7d519fa85dadb109026c35.1920x1080.jpg?t=1618802670,https://cdn.akamai.steamstatic.com/steam/apps/403030/ss_6ae3aa62441f77a4e4ce318fc31638a62efb7c92.1920x1080.jpg?t=1618802670,https://cdn.akamai.steamstatic.com/steam/apps/403030/ss_70ddd9e5751fadc7027a60df61bae6e7bebb966b.1920x1080.jpg?t=1618802670,https://cdn.akamai.steamstatic.com/steam/apps/403030/ss_3e9da9adb4466a2e7f34dcd07f349ef345b77fa7.1920x1080.jpg?t=1618802670,https://cdn.akamai.steamstatic.com/steam/apps/403030/ss_de7a675c6504bb5659048833e473a6d5b0656552.1920x1080.jpg?t=1618802670",
+    "Slug": "mdiapp-se",
+    "Meta Title": "mdiapp+ SE: Oct 16, 2017, nattou.org and Full Overview",
+    "Meta Description": "Looking for information on mdiapp+ SE? Check out the release date (Oct 16, 2017), developer insights from nattou.org, and a complete game summary.",
+    "Alt Text Image": "Official header image for mdiapp+ SE game - Steam 403030",
+    "Canonical URL": "https://gusku.site/game/mdiapp-se",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"mdiapp+ SE\", \"description\": \"Looking for information on mdiapp+ SE? Check out the release date (Oct 16, 2017), developer insights from nattou.org, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 16, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"nattou.org\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PGN Inc\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/403030/header.jpg?t=1618802670\", \"offers\": {\"@type\": \"Offer\", \"price\": 59.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

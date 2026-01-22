@@ -1,0 +1,21 @@
+{
+    "AppID": 913680,
+    "Name": "Skybox Painter 3D",
+    "Release date": "Sep 10, 2018",
+    "About the game": "Skybox Painter 3D is a painting editor to draw your own customizable Skyboxes with, which can be used for the creation of videogames and other 360 degree environments. The output of the program are panoramic or 6 sided cubemap textures for skyboxes to use with any engine or skybox shader. The program features the following tools: - Brushes - Lines - Gradient tool for the background of your sky - Customizable Random Generator for clouds and stars - Athmosphere - Sun with simple Light calculations - Layers and Layermask - Export of panoramic or cubemap textures - Import of own brushes and textures for the tools - Import of panoramic images The project does not only contain a desktop version but also a VR version of the described tools implemented for the HTC Vive. Limitations: The program can only be used to paint static skies (cubemap and panoramic images). No animated or procedural contents can be created.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/913680/header.jpg?t=1555240815",
+    "Price": 9.99,
+    "Developers": "Toastar Virtual Entertainment",
+    "Publishers": "Toastar Virtual Entertainment",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/913680/ss_3adad5e218bd985a45de0354155fc2269d23b3c2.1920x1080.jpg?t=1555240815,https://cdn.akamai.steamstatic.com/steam/apps/913680/ss_505a288d3929fb3cbdcc04d534cce58fe2d11b9a.1920x1080.jpg?t=1555240815,https://cdn.akamai.steamstatic.com/steam/apps/913680/ss_45f6cc6854bdf72f66c829a07ccff57a9286acc4.1920x1080.jpg?t=1555240815,https://cdn.akamai.steamstatic.com/steam/apps/913680/ss_9290d4b24d401e0723dfdc3b17b817ef3e11cc7c.1920x1080.jpg?t=1555240815,https://cdn.akamai.steamstatic.com/steam/apps/913680/ss_e14cf2cdc71bc9b687fa4e21236679d2edc7bb92.1920x1080.jpg?t=1555240815",
+    "Slug": "skybox-painter-3d",
+    "Meta Title": "Skybox Painter 3D: Sep 10, 2018, Toastar Virtual Entertai...",
+    "Meta Description": "Looking for information on Skybox Painter 3D? Check out the release date (Sep 10, 2018), developer insights from Toastar Virtual Entertainment, and a co...",
+    "Alt Text Image": "Official header image for Skybox Painter 3D game - Steam 913680",
+    "Canonical URL": "https://gusku.site/game/skybox-painter-3d",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Skybox Painter 3D\", \"description\": \"Looking for information on Skybox Painter 3D? Check out the release date (Sep 10, 2018), developer insights from Toastar Virtual Entertainment, and a co...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 10, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Toastar Virtual Entertainment\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Toastar Virtual Entertainment\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/913680/header.jpg?t=1555240815\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

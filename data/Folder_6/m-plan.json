@@ -1,0 +1,21 @@
+{
+    "AppID": 935540,
+    "Name": "M-Plan",
+    "Release date": "Sep 21, 2018",
+    "About the game": "It's just a simple game of exploration. You need to unlock the next step by looking for key items. Some items may not be key items, but they serve a different purpose. You need to find out for yourself. There are four locations in the game, each with some items to be found. Connecting the four locations, you can walk or drive. In addition to these four regular locations, there are several secret locations, which are also important. Of course, some lighting is needed in the dark. When you can't find anything, notice the wiggling 'elf'. If you want to see which props you have, the B key will be useful.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/935540/header.jpg?t=1537952323",
+    "Price": 3.99,
+    "Developers": "QingHun",
+    "Publishers": "QingHun",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/935540/ss_317189904b3747a56794b5e3d11f6b5a58659b3f.1920x1080.jpg?t=1537952323,https://cdn.akamai.steamstatic.com/steam/apps/935540/ss_75330cd9d6aac1e757254cb70aa0d02f872772a3.1920x1080.jpg?t=1537952323,https://cdn.akamai.steamstatic.com/steam/apps/935540/ss_bf260059c59ba80ee9535e53aa4a24fd32f75701.1920x1080.jpg?t=1537952323,https://cdn.akamai.steamstatic.com/steam/apps/935540/ss_c5cefb1156b96f2ab07d1c6f74bd16bd43322ece.1920x1080.jpg?t=1537952323,https://cdn.akamai.steamstatic.com/steam/apps/935540/ss_6ab8473a328d1d88e47dcfbad84c14c530e08f6c.1920x1080.jpg?t=1537952323,https://cdn.akamai.steamstatic.com/steam/apps/935540/ss_9be82a56a946dcebea02c631874605200b384010.1920x1080.jpg?t=1537952323",
+    "Slug": "m-plan",
+    "Meta Title": "M-Plan: Sep 21, 2018, QingHun and Full Overview",
+    "Meta Description": "Looking for information on M-Plan? Check out the release date (Sep 21, 2018), developer insights from QingHun, and a complete game summary.",
+    "Alt Text Image": "Official header image for M-Plan game - Steam 935540",
+    "Canonical URL": "https://gusku.site/game/m-plan",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"M-Plan\", \"description\": \"Looking for information on M-Plan? Check out the release date (Sep 21, 2018), developer insights from QingHun, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 21, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"QingHun\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QingHun\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/935540/header.jpg?t=1537952323\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

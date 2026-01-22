@@ -1,0 +1,21 @@
+{
+    "AppID": 1491720,
+    "Name": "Frick, Inc.",
+    "Release date": "Dec 18, 2020",
+    "About the game": "In Frick, Inc. you'll drive various trucks using on-screen control panels. Each truck has a different control method and it's all made to be 'Frick, Inc.' frustrating until you master it. Easy to learn, hard to master – You'll be switching between trucks (and control methods) in 40 levels to perform various tasks. Extra challenge in each level – Each of the levels contains an extra challenge, only for those daring enough to go the extra mile. Includes game assets – Ready to get into game development? Use the included 3D models to create your own game inspired by Frick, Inc. Bonus Also includes game assets (CC0, 3D models) to create your very own game inspired by Frick, Inc. The models are compatible with all popular game engines including Unity, Godot and Unreal Engine. The game can only be played using a mouse. A keyboard or gamepad aren't supported or required. Windows and Linux compatible, not compatible with other operating systems.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1491720/header.jpg?t=1608292705",
+    "Price": 3.99,
+    "Developers": "Kenney",
+    "Publishers": "Kenney",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1491720/ss_f3cb85dbb87b5e90e4bbdd3f3d1128a1c923260f.1920x1080.jpg?t=1608292705,https://cdn.akamai.steamstatic.com/steam/apps/1491720/ss_92349201b476c8563b0116be986fde2d852911f6.1920x1080.jpg?t=1608292705,https://cdn.akamai.steamstatic.com/steam/apps/1491720/ss_4d5a7c51181d8b6a3f22a566376f3d37f29478aa.1920x1080.jpg?t=1608292705,https://cdn.akamai.steamstatic.com/steam/apps/1491720/ss_2bb4b500eb9e2eecf0f220d8f28509eb80e12dcf.1920x1080.jpg?t=1608292705,https://cdn.akamai.steamstatic.com/steam/apps/1491720/ss_f7199b1b4dd8c0aa7733a8b5004c6808718d69fb.1920x1080.jpg?t=1608292705",
+    "Slug": "frick-inc",
+    "Meta Title": "Frick, Inc.: Dec 18, 2020, Kenney and Full Overview",
+    "Meta Description": "Looking for information on Frick, Inc.? Check out the release date (Dec 18, 2020), developer insights from Kenney, and a complete game summary.",
+    "Alt Text Image": "Official header image for Frick, Inc. game - Steam 1491720",
+    "Canonical URL": "https://gusku.site/game/frick-inc",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Frick, Inc.\", \"description\": \"Looking for information on Frick, Inc.? Check out the release date (Dec 18, 2020), developer insights from Kenney, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 18, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kenney\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kenney\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1491720/header.jpg?t=1608292705\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

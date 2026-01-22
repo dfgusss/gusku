@@ -1,0 +1,21 @@
+{
+    "AppID": 1986120,
+    "Name": "Chaste Tris",
+    "Release date": "May 31, 2022",
+    "About the game": "Chaste Tris is my first complete video game I have made. It is obviously based on similar other games but easier because there is no gravity. Blocks can be freely moved up, down, left, and right with the arrow keys. They can be rotated with X or Y keys and can also be held for later use with C. But my game also allows for a new feature that none of the other games have. It is possible to save the state of the game by pressing the . key and reload it with the , key to go back and correct mistakes. This makes it the perfect tool to test out playing styles which would be perfectly valid on other puzzle block style games but would be very difficult. Consider this game as a relaxing practice tool to test the limits of what you can think of when you have all the time in the world to get it right!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1986120/header.jpg?t=1654833855",
+    "Price": 9.99,
+    "Developers": "Chastity White Rose",
+    "Publishers": "Chastity White Rose",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1986120/ss_1d855d1f3db9927607a64b9d934d75edcee46acf.1920x1080.jpg?t=1654833855,https://cdn.akamai.steamstatic.com/steam/apps/1986120/ss_76e619684d9bf135868646bd7651969535a7babb.1920x1080.jpg?t=1654833855,https://cdn.akamai.steamstatic.com/steam/apps/1986120/ss_cfe473263d82c4c19fc6406bb822f42d08612dd8.1920x1080.jpg?t=1654833855,https://cdn.akamai.steamstatic.com/steam/apps/1986120/ss_f84daf83ccb83f70d4afcc4c10c9103ed08b8e4f.1920x1080.jpg?t=1654833855,https://cdn.akamai.steamstatic.com/steam/apps/1986120/ss_5a64fd3779147b9b4cb729b5123eec1218afd28e.1920x1080.jpg?t=1654833855,https://cdn.akamai.steamstatic.com/steam/apps/1986120/ss_3df1a61f3a9e9e70b3a96f6cd49b379989ad3c3d.1920x1080.jpg?t=1654833855",
+    "Slug": "chaste-tris",
+    "Meta Title": "Chaste Tris: May 31, 2022, Chastity White Rose and Full O...",
+    "Meta Description": "Looking for information on Chaste Tris? Check out the release date (May 31, 2022), developer insights from Chastity White Rose, and a complete game summ...",
+    "Alt Text Image": "Official header image for Chaste Tris game - Steam 1986120",
+    "Canonical URL": "https://gusku.site/game/chaste-tris",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chaste Tris\", \"description\": \"Looking for information on Chaste Tris? Check out the release date (May 31, 2022), developer insights from Chastity White Rose, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 31, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Chastity White Rose\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Chastity White Rose\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1986120/header.jpg?t=1654833855\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

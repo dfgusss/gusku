@@ -1,0 +1,21 @@
+{
+    "AppID": 1919750,
+    "Name": "Ponchoman",
+    "Release date": "Mar 15, 2022",
+    "About the game": "Ponchoman is roguelike top down shooter game. The character you're going to control, ponchoman, has to kill the constantly spawned creatures in graveyard. If you kill more creatures, the more powerful you can upgrade your initial weapon. But if you die, everything including weapon will be reset. Until you die kill as many creations as you can and set a new record. Praying doesn't help at all.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1919750/header.jpg?t=1654009244",
+    "Price": 0.99,
+    "Developers": "Axias",
+    "Publishers": "Axias",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1919750/ss_4a9f4c81e6d03ec2affc828f53f3b2a61b495790.1920x1080.jpg?t=1654009244,https://cdn.akamai.steamstatic.com/steam/apps/1919750/ss_c5633f90bbcce866a8f211d8f73dbda2e9caa219.1920x1080.jpg?t=1654009244,https://cdn.akamai.steamstatic.com/steam/apps/1919750/ss_9cf29d293c818e088a7b8daefa67f78ef3c11efe.1920x1080.jpg?t=1654009244,https://cdn.akamai.steamstatic.com/steam/apps/1919750/ss_46cec6b0419a9bd8ca63983cd3f1ae73bcec8ac1.1920x1080.jpg?t=1654009244,https://cdn.akamai.steamstatic.com/steam/apps/1919750/ss_440bffa5b5c16e2788a83d1355e20b6c3169b49e.1920x1080.jpg?t=1654009244",
+    "Slug": "ponchoman",
+    "Meta Title": "Ponchoman: Mar 15, 2022, Axias and Full Overview",
+    "Meta Description": "Looking for information on Ponchoman? Check out the release date (Mar 15, 2022), developer insights from Axias, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ponchoman game - Steam 1919750",
+    "Canonical URL": "https://gusku.site/game/ponchoman",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ponchoman\", \"description\": \"Looking for information on Ponchoman? Check out the release date (Mar 15, 2022), developer insights from Axias, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 15, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Axias\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Axias\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1919750/header.jpg?t=1654009244\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

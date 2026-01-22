@@ -1,0 +1,21 @@
+{
+    "AppID": 2183780,
+    "Name": "ARCADE VS PLAYER",
+    "Release date": "Nov 4, 2022",
+    "About the game": "This is basically a space invaders game where the player must control the invaders, you will be the arcade and you will have to defeat the player, it is the arcade revenge moment. In this game you will have a camera from inside the arcade watching the player play, with each defeat suffered by the young man on the other side of the screen he will come back with his improved skills. Controls are simple, basically WASD controls invaders and space bar shoots. The game is made in the old arcade style where the player inserts a coin and play, no upgrades, no shop, nothing to buy, just insert a coin and enjoy.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2183780/header.jpg?t=1667562494",
+    "Price": 0.59,
+    "Developers": "Artur Rezende",
+    "Publishers": "PROATIV",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2183780/ss_0718decd7bf49b3dceb5fd6e5536a93f0b981ce5.1920x1080.jpg?t=1667562494,https://cdn.akamai.steamstatic.com/steam/apps/2183780/ss_2a02d56cb2584c682f0a8f7b34f438e9709a4867.1920x1080.jpg?t=1667562494,https://cdn.akamai.steamstatic.com/steam/apps/2183780/ss_27717a010ca01fd3a9d5e0dd4e048db7f88db332.1920x1080.jpg?t=1667562494,https://cdn.akamai.steamstatic.com/steam/apps/2183780/ss_c4048049463d41d596a6896b5e4ca43b8e59484d.1920x1080.jpg?t=1667562494,https://cdn.akamai.steamstatic.com/steam/apps/2183780/ss_a94867528408f41ece24291cb7f7f8a550e3d815.1920x1080.jpg?t=1667562494",
+    "Slug": "arcade-vs-player",
+    "Meta Title": "ARCADE VS PLAYER: Nov 4, 2022, Artur Rezende and Full Ove...",
+    "Meta Description": "Looking for information on ARCADE VS PLAYER? Check out the release date (Nov 4, 2022), developer insights from Artur Rezende, and a complete game summary.",
+    "Alt Text Image": "Official header image for ARCADE VS PLAYER game - Steam 2183780",
+    "Canonical URL": "https://gusku.site/game/arcade-vs-player",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ARCADE VS PLAYER\", \"description\": \"Looking for information on ARCADE VS PLAYER? Check out the release date (Nov 4, 2022), developer insights from Artur Rezende, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 4, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Artur Rezende\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PROATIV\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2183780/header.jpg?t=1667562494\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.59, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

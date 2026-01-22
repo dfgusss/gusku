@@ -1,0 +1,21 @@
+{
+    "AppID": 1390560,
+    "Name": "Jumping Platform Minigame",
+    "Release date": "Sep 10, 2020",
+    "About the game": "This game was created with Unity based on the Unity 'Platformer Microgame' project Jumping Platform Minigame is a 2D platform game in which you have to collect diamonds and kill small mushrooms. - 10 Levels - You can play with the keyboard and the joystick Controls - A-D or arrow keys / left analog stick (move the player) - Space / button 'A' xbox (jump) - Esc / button 'start' xbox (pause game) NOTE : Don't use the joystick in the game menu (controls / credits), the player doesn't jump anymore. NOTE : Don't use the Steam overlay unless you pause the game first. GOOD FUN !!!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1390560/header.jpg?t=1619681777",
+    "Price": 0.49,
+    "Developers": "Scorpiniti Bruno",
+    "Publishers": "Scorpiniti Bruno",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1390560/ss_209a814db5950a766740356aa84c0962b931cfe7.1920x1080.jpg?t=1619681777,https://cdn.akamai.steamstatic.com/steam/apps/1390560/ss_7fb70bd066779efc1a2d61d574f98c8d2b5a1ec8.1920x1080.jpg?t=1619681777,https://cdn.akamai.steamstatic.com/steam/apps/1390560/ss_2c2522c065e5007508db90d86c5ac45818871576.1920x1080.jpg?t=1619681777,https://cdn.akamai.steamstatic.com/steam/apps/1390560/ss_69011c700e3e3ac9488bd806e63c7f384f3b5c00.1920x1080.jpg?t=1619681777,https://cdn.akamai.steamstatic.com/steam/apps/1390560/ss_6cb4c0f017c9a878e49cb84c4edbc9acafeb599f.1920x1080.jpg?t=1619681777",
+    "Slug": "jumping-platform-minigame",
+    "Meta Title": "Jumping Platform Minigame: Sep 10, 2020, Scorpiniti Bruno...",
+    "Meta Description": "Looking for information on Jumping Platform Minigame? Check out the release date (Sep 10, 2020), developer insights from Scorpiniti Bruno, and a complet...",
+    "Alt Text Image": "Official header image for Jumping Platform Minigame game - Steam 1390560",
+    "Canonical URL": "https://gusku.site/game/jumping-platform-minigame",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Jumping Platform Minigame\", \"description\": \"Looking for information on Jumping Platform Minigame? Check out the release date (Sep 10, 2020), developer insights from Scorpiniti Bruno, and a complet...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 10, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Scorpiniti Bruno\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Scorpiniti Bruno\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1390560/header.jpg?t=1619681777\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

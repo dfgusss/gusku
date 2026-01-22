@@ -1,0 +1,21 @@
+{
+    "AppID": 366550,
+    "Name": "Zeuxis : procedural texture generator",
+    "Release date": "Jun 2, 2015",
+    "About the game": "No need to be an artist. Create nice textures in a few minutes. This software allows you to create textures by combining basic operators. You stack operators in a hierarchical fashion to get a result. Simple and fast UI. 128bit internal resolution to prevent loss of higher range when combining effects. Try the demo first to make sure it works on your PC. The projects created with the demo are compatible with the full product. Limitations : English only , no UNICODE support for filenames (when saving/loading), only basic ASCII. The UI is not customizable, i.e. font, font color, font size, window color. Export formats supported: JPG, TGA, TIFF ( Export is disabled in demo ).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/366550/header.jpg?t=1462745512",
+    "Price": 6.99,
+    "Developers": "Martin Veilleux",
+    "Publishers": "Martin Veilleux",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/366550/ss_c207a42d6f9e4a7500d5b04809a9eb6bf70b5b0f.1920x1080.jpg?t=1462745512,https://cdn.akamai.steamstatic.com/steam/apps/366550/ss_73c4ae9bde3a7311eea58ffde103b72f8db43479.1920x1080.jpg?t=1462745512,https://cdn.akamai.steamstatic.com/steam/apps/366550/ss_eeccf41f6d9cee7bc0e29e0d32cb124e490c7262.1920x1080.jpg?t=1462745512,https://cdn.akamai.steamstatic.com/steam/apps/366550/ss_d48a6348abefbb439d7d363599c9ab98cf79b98e.1920x1080.jpg?t=1462745512,https://cdn.akamai.steamstatic.com/steam/apps/366550/ss_fa59f4672e353725ede5a693bc82a87879c9919e.1920x1080.jpg?t=1462745512,https://cdn.akamai.steamstatic.com/steam/apps/366550/ss_fa1ee30914ec252508789ee9f8320fb6a1b9ce1c.1920x1080.jpg?t=1462745512",
+    "Slug": "zeuxis-procedural-texture-generator",
+    "Meta Title": "Zeuxis : procedural texture generator: Jun 2, 2015, Marti...",
+    "Meta Description": "Looking for information on Zeuxis : procedural texture generator? Check out the release date (Jun 2, 2015), developer insights from Martin Veilleux, and...",
+    "Alt Text Image": "Official header image for Zeuxis : procedural texture generator game - Steam 366550",
+    "Canonical URL": "https://gusku.site/game/zeuxis-procedural-texture-generator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Zeuxis : procedural texture generator\", \"description\": \"Looking for information on Zeuxis : procedural texture generator? Check out the release date (Jun 2, 2015), developer insights from Martin Veilleux, and...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 2, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Martin Veilleux\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Martin Veilleux\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/366550/header.jpg?t=1462745512\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

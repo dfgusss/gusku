@@ -1,0 +1,21 @@
+{
+    "AppID": 713100,
+    "Name": "StockUp",
+    "Release date": "Sep 18, 2017",
+    "About the game": "Story: In StockUp, you play as a first time stock holder.. Starting from the bottom. Features: • Buy/Sell Stocks: Spend money to purchase stocks. Sell them at any time or never. • Levels: Your stocks and money carry over as you level up. But the ai becomes more aggressive. • Goal: Each level has a goal amount. Hit the goal and your move up. Let the ai reach the goal and gameover. • Save/Load: You can save and load the game at any point. • News/Tips: Below the stock market you will see info regarding the movement of stocks and boost. You can also see helpful tips there. • Boost: In the stock market a stock has a 1-9 percent increase or decrease rate depending on that stocks worth. But ai and player stocks have a chance to receive a 15% increase in worth.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/713100/header.jpg?t=1656537581",
+    "Price": 6.99,
+    "Developers": "EcoGames",
+    "Publishers": "EcoGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/713100/ss_ea184a8ef5155deb6c13ec10e7bc43299868da3a.1920x1080.jpg?t=1656537581,https://cdn.akamai.steamstatic.com/steam/apps/713100/ss_2585bea726741f18b328287fb86f1f60a5b85a10.1920x1080.jpg?t=1656537581,https://cdn.akamai.steamstatic.com/steam/apps/713100/ss_3064299829bdd6d7f7cc62ecfdd092f8ffee5123.1920x1080.jpg?t=1656537581,https://cdn.akamai.steamstatic.com/steam/apps/713100/ss_4f6dc98c5830a09ab5082c6d4fa1cd00625c9695.1920x1080.jpg?t=1656537581,https://cdn.akamai.steamstatic.com/steam/apps/713100/ss_ee473256a0dbe437eefad7a36b6e514bc7cd6fa7.1920x1080.jpg?t=1656537581",
+    "Slug": "stockup",
+    "Meta Title": "StockUp: Sep 18, 2017, EcoGames and Full Overview",
+    "Meta Description": "Looking for information on StockUp? Check out the release date (Sep 18, 2017), developer insights from EcoGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for StockUp game - Steam 713100",
+    "Canonical URL": "https://gusku.site/game/stockup",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"StockUp\", \"description\": \"Looking for information on StockUp? Check out the release date (Sep 18, 2017), developer insights from EcoGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 18, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"EcoGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"EcoGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/713100/header.jpg?t=1656537581\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

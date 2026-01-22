@@ -1,0 +1,21 @@
+{
+    "AppID": 1464460,
+    "Name": "Qip",
+    "Release date": "Dec 3, 2020",
+    "About the game": "Qip is game save data version control software inspired by popular version control system like Git and SVN, aiming to make your save data backup and switch easier and faster. What will Qip do for you? Create a repository in a safe place to store all your game save history. When you want to backup your current game progress and come back later, make a commit and leave some useful message. When you want to play at some point again, you can checkout a commit and your game save will be replaced by that backup. When you want to make a different choice in game, make your choice and create a commit in another branch. Functionality: Commit: Save your save to a unified repository. Commit Message: Record information of commit. Checkout: Switch to any committed save. Branch: Create a new branch from any commit represent a new story line start from that commit. Event: Create event to locate big event such as second round or defeating a boss. Tag: Add tag for better search and filter experience. Tree Graph: A tree graph make it easier to get a overview of game history. Incremental Backup: File unchanged will not be backup. Qip use SHA-1 to checksum so it's nearly impossible to leave out minimal change. All save file and folder structure are saved to a unified repository which located in user defined depot, which can easily transfer and backup to any places. With Qip, backup and restore game save will no longer a cumbersome work. You can simply click button and input message, Qip will automatically complete rest work with fast speed and clean structure. Here is a diagram explains how Qip works:",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1464460/header.jpg?t=1618307740",
+    "Price": 9.99,
+    "Developers": "Evade Game",
+    "Publishers": "Evade Game",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1464460/ss_e309707438b127fbc57ed4dbd78aab52b67c084a.1920x1080.jpg?t=1618307740,https://cdn.akamai.steamstatic.com/steam/apps/1464460/ss_26298496106e499943f180285cede90d9eee5741.1920x1080.jpg?t=1618307740,https://cdn.akamai.steamstatic.com/steam/apps/1464460/ss_a31c4655505a94f4b55aba9e84ea0904455c5dee.1920x1080.jpg?t=1618307740,https://cdn.akamai.steamstatic.com/steam/apps/1464460/ss_ed08205d7e5f204948089c51b6f9eaf0a5303b16.1920x1080.jpg?t=1618307740,https://cdn.akamai.steamstatic.com/steam/apps/1464460/ss_e74ac3ffae41457dd6bcec73c30e0409c9eb24aa.1920x1080.jpg?t=1618307740",
+    "Slug": "qip",
+    "Meta Title": "Qip: Dec 3, 2020, Evade Game and Full Overview",
+    "Meta Description": "Looking for information on Qip? Check out the release date (Dec 3, 2020), developer insights from Evade Game, and a complete game summary.",
+    "Alt Text Image": "Official header image for Qip game - Steam 1464460",
+    "Canonical URL": "https://gusku.site/game/qip",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Qip\", \"description\": \"Looking for information on Qip? Check out the release date (Dec 3, 2020), developer insights from Evade Game, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 3, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Evade Game\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Evade Game\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1464460/header.jpg?t=1618307740\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

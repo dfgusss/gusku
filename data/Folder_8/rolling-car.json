@@ -1,0 +1,21 @@
+{
+    "AppID": 1682600,
+    "Name": "Rolling Car",
+    "Release date": "Jul 20, 2021",
+    "About the game": "This is a perpetual motion game commonly referred to as a runner. In this game, your obstacles are other cars. There are basically two circular routes that intersect: your vehicle is traveling in one direction on one of the circular routes; on another route, initially one vehicle moves in the opposite direction; but sometimes drives in the same direction as your car. After your vehicle has made several laps along these routes, other vehicles may appear; more on the opposite circular route and on the difficult difficulties of others on a straight road that crosses both circles. If your car is on the left track, collides with any vehicle, this is the end of the round. Vehicles on the right circular track and on the straight track are not helpful against each other. A record of the maximum number of laps your vehicle has driven prior to the accident. There is no difference between the highest number of rounds scored at Easy or Hard.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1682600/header.jpg?t=1650267810",
+    "Price": 12.99,
+    "Developers": "SimpleSoft",
+    "Publishers": "khukhrovr",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1682600/ss_24a1542d711d25abdeb45e809508c2e7af8f2e47.1920x1080.jpg?t=1650267810,https://cdn.akamai.steamstatic.com/steam/apps/1682600/ss_a994e3f01f5295880f11dec1379f70648ef7ca66.1920x1080.jpg?t=1650267810,https://cdn.akamai.steamstatic.com/steam/apps/1682600/ss_68d9a1ec277cfea92cd9c9b781ec0bb0e4c7ef9c.1920x1080.jpg?t=1650267810,https://cdn.akamai.steamstatic.com/steam/apps/1682600/ss_f7389e1c0bd23d045d1a3c6e79ea1c7514c66d14.1920x1080.jpg?t=1650267810,https://cdn.akamai.steamstatic.com/steam/apps/1682600/ss_693dac6849f0e833afd61aa88b8d7c17146f2eb2.1920x1080.jpg?t=1650267810,https://cdn.akamai.steamstatic.com/steam/apps/1682600/ss_78f4b724980955633c00a1d33b370817588e73d6.1920x1080.jpg?t=1650267810,https://cdn.akamai.steamstatic.com/steam/apps/1682600/ss_7529802bf4d69fa2c6310889a13baea130ad4cc2.1920x1080.jpg?t=1650267810,https://cdn.akamai.steamstatic.com/steam/apps/1682600/ss_fc5f8e38a074f3c1c5b2a2bd4ea8d0c171960465.1920x1080.jpg?t=1650267810",
+    "Slug": "rolling-car",
+    "Meta Title": "Rolling Car: Jul 20, 2021, SimpleSoft and Full Overview",
+    "Meta Description": "Looking for information on Rolling Car? Check out the release date (Jul 20, 2021), developer insights from SimpleSoft, and a complete game summary.",
+    "Alt Text Image": "Official header image for Rolling Car game - Steam 1682600",
+    "Canonical URL": "https://gusku.site/game/rolling-car",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Rolling Car\", \"description\": \"Looking for information on Rolling Car? Check out the release date (Jul 20, 2021), developer insights from SimpleSoft, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 20, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"SimpleSoft\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"khukhrovr\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1682600/header.jpg?t=1650267810\", \"offers\": {\"@type\": \"Offer\", \"price\": 12.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

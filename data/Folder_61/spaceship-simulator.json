@@ -1,0 +1,21 @@
+{
+    "AppID": 1573540,
+    "Name": "Spaceship Simulator",
+    "Release date": "Aug 7, 2021",
+    "About the game": "This game is created based on a prototype I made in GGJ in January this year. The vision is the player defeat different kinds of defeat dangerous and strange space creatures while driving a spacecraft in an unknown galaxy, the player can use captured components to design a more powerful spacecraft to defeat more powerful space creatures and finally escape from the galaxy. Game Feature Componentized spacecraft The Spaceship is connected by various components, which means that players can design their own spaceship freely as they want. It's not like some tedious and boring games of spaceship which only tell you to put the laser gun in a fixed position. The current version of this game can offer you five component types, which are named joint, weapon, defense, flight and warehouse. These joints can determine the framework and motion mechanism of your spaceship. Weapon component and defense component can work as just what their names has described The flight component can provide impetus to spaceship, if you want a bigger spacecraft, the higher the power you will need. Warehouse component will offer you a place to store all kinds of materials you need, such as energy for your laser gun and shield, or shells for your kinetic guns. A thrilling and exciting battle of barrage shooting There’s one thing to be noted!!! The spaceship is not a whole. It is connected by components. The break-down of one key component may reverse the situation. Imagine when you are destroying a component of an enemy spaceship, a chain explosion reaction happened to other components connected to it. Or you can destroy enemy’s flight component to have it lose impetus and be a complete useless object for you to defeat. Or you can destroy enemy’s battery component to cut down its energy to make its laser gun a decoration. And so on",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1573540/header.jpg?t=1631778070",
+    "Price": 6.99,
+    "Developers": "JinDing Chen",
+    "Publishers": "JinDing Chen",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1573540/ss_fa8cd3f13448d2e943121b32d3aa36cc715cb326.1920x1080.jpg?t=1631778070,https://cdn.akamai.steamstatic.com/steam/apps/1573540/ss_26dbbdd56b8368762b2d461fc77831ca3c1384d1.1920x1080.jpg?t=1631778070,https://cdn.akamai.steamstatic.com/steam/apps/1573540/ss_7ff328898c76be03b6901e9901b6a73beaa84e59.1920x1080.jpg?t=1631778070,https://cdn.akamai.steamstatic.com/steam/apps/1573540/ss_65fbe7665c9b6f5e692c1a3a1350ac3137c3715b.1920x1080.jpg?t=1631778070,https://cdn.akamai.steamstatic.com/steam/apps/1573540/ss_816a38460b886ae7ee10ada273f1b2121d5f9905.1920x1080.jpg?t=1631778070,https://cdn.akamai.steamstatic.com/steam/apps/1573540/ss_53cf139c942b39dd10368fb55d9d7fdfb62ef94a.1920x1080.jpg?t=1631778070",
+    "Slug": "spaceship-simulator",
+    "Meta Title": "Spaceship Simulator: Aug 7, 2021, JinDing Chen and Full O...",
+    "Meta Description": "Looking for information on Spaceship Simulator? Check out the release date (Aug 7, 2021), developer insights from JinDing Chen, and a complete game summ...",
+    "Alt Text Image": "Official header image for Spaceship Simulator game - Steam 1573540",
+    "Canonical URL": "https://gusku.site/game/spaceship-simulator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Spaceship Simulator\", \"description\": \"Looking for information on Spaceship Simulator? Check out the release date (Aug 7, 2021), developer insights from JinDing Chen, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 7, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"JinDing Chen\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"JinDing Chen\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1573540/header.jpg?t=1631778070\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

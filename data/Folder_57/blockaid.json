@@ -1,0 +1,21 @@
+{
+    "AppID": 489810,
+    "Name": "BlockAid",
+    "Release date": "Jul 26, 2016",
+    "About the game": "BlockAid is a minimalistic puzzle game centered around providing safe passage for pawns through a maze of raised blocks. By placing tools themed around protection, education and livelihood you lower the blocks and help create a path for these pawns to cross to the other side. Protection Place these red blocks to provide additional hearts to each pawn that steps on that square, when a pawn reaches 0 hearts it's game over. Education Gain additional turns for each pawn that steps on one of these blue squares, you need turns to be able to continue. Livelihood Adding more of these yellow blocks helps increase the your score. Features Made in less than 4 days to help support the efforts of the charity War Child Easy to learn, hard to master gameplay Simple yet relaxing visuals and soundtrack Show off your score to the world in the online leaderboard Created as part of the HELP: THE GAME compilation. Credits Ash Morgan Chris Southall David Rodriguez David Smithson Jak Marshall Joel Atkinson Jon O'Connor Lawrence Barnett Louis Macan Matt Allan Nick Adams Tony Nguyen Yordan Gyurchev",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/489810/header.jpg?t=1575643154",
+    "Price": 14.99,
+    "Developers": "SEGA Hardlight™",
+    "Publishers": "War Child Gaming",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/489810/ss_55813faebdb618d58d62d80b05e6ce9c75020692.1920x1080.jpg?t=1575643154,https://cdn.akamai.steamstatic.com/steam/apps/489810/ss_428ef527e994957725bb52f7e037128fd63530ce.1920x1080.jpg?t=1575643154,https://cdn.akamai.steamstatic.com/steam/apps/489810/ss_f397ab1664e7751966e2423fd4b3dbcd5e2e79ff.1920x1080.jpg?t=1575643154,https://cdn.akamai.steamstatic.com/steam/apps/489810/ss_bec178d8b57825f0a4483e0d5c043e1228627248.1920x1080.jpg?t=1575643154,https://cdn.akamai.steamstatic.com/steam/apps/489810/ss_d23b7bb8d99348894812e03c9efbd5cd5dd2c817.1920x1080.jpg?t=1575643154",
+    "Slug": "blockaid",
+    "Meta Title": "BlockAid: Jul 26, 2016, SEGA Hardlight™ and Full Overview",
+    "Meta Description": "Looking for information on BlockAid? Check out the release date (Jul 26, 2016), developer insights from SEGA Hardlight™, and a complete game summary.",
+    "Alt Text Image": "Official header image for BlockAid game - Steam 489810",
+    "Canonical URL": "https://gusku.site/game/blockaid",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BlockAid\", \"description\": \"Looking for information on BlockAid? Check out the release date (Jul 26, 2016), developer insights from SEGA Hardlight\\u2122, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 26, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"SEGA Hardlight\\u2122\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"War Child Gaming\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/489810/header.jpg?t=1575643154\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

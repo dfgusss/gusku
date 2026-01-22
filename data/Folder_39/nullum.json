@@ -1,0 +1,21 @@
+{
+    "AppID": 1293990,
+    "Name": "Nullum",
+    "Release date": "May 8, 2020",
+    "About the game": "Nullum is a minimalist puzzle game. The goal is to eliminate all tiles by creating matching numbers. Rules: A tile can only be moved onto an adjacent tile. If they have the same number, both are eliminated; otherwise, they’re added together. Make the right sums and eliminations to clear the playfield and unlock the next challenge! - 40 handcrafted levels - Original music composed specially for this game. Note about controls: if you see a tile with the question mark, right-click it.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1293990/header.jpg?t=1637753608",
+    "Price": 0.99,
+    "Developers": "Misc.261",
+    "Publishers": "Misc.261",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1293990/ss_9c186343ee1c1d0315323786470c099c7e28e649.1920x1080.jpg?t=1637753608,https://cdn.akamai.steamstatic.com/steam/apps/1293990/ss_566528c3f47ad29fe8f419ba79ef5ab7bce1c42e.1920x1080.jpg?t=1637753608,https://cdn.akamai.steamstatic.com/steam/apps/1293990/ss_1b7e9e0883650fb48bccfac35f9f7fe0169c96b7.1920x1080.jpg?t=1637753608,https://cdn.akamai.steamstatic.com/steam/apps/1293990/ss_8166330f72245c45f8d975cc819e386d43909299.1920x1080.jpg?t=1637753608,https://cdn.akamai.steamstatic.com/steam/apps/1293990/ss_4d1a1e8069a827c189c9da19e2c9a31dab738919.1920x1080.jpg?t=1637753608",
+    "Slug": "nullum",
+    "Meta Title": "Nullum: May 8, 2020, Misc.261 and Full Overview",
+    "Meta Description": "Looking for information on Nullum? Check out the release date (May 8, 2020), developer insights from Misc.261, and a complete game summary.",
+    "Alt Text Image": "Official header image for Nullum game - Steam 1293990",
+    "Canonical URL": "https://gusku.site/game/nullum",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nullum\", \"description\": \"Looking for information on Nullum? Check out the release date (May 8, 2020), developer insights from Misc.261, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 8, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Misc.261\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Misc.261\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1293990/header.jpg?t=1637753608\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

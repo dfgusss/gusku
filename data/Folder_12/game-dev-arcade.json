@@ -1,0 +1,21 @@
+{
+    "AppID": 1852870,
+    "Name": "Game Dev Arcade",
+    "Release date": "May 9, 2022",
+    "About the game": "Game Dev Arcade is a collection of basic indie games from a variety of genres ranging from FPS shooters to Platformers. They all feature a high-scores local leaderboard. Mars Madness - OUT NOW You are dropped on Mars with one objective - to kill all aliens! In this top down shooter, run across the Mars landscape eliminating all threats. How long can you survive?? Crystal Corridors - COMING SOON A platformer where you control a Marble and try to collect all of the crystals before making it to the end of the level! Don't move too fast, or you may just fall off the edge. Marble Maze - COMING SOON Rotate a maze, and try to get the Marble into the goal as fast as you can! Some quick movement may help you find certain shortcuts 😉. Learn Game Dev!! These games were developed by Valthazier from Bulwark Creative. They were made to help show how simple video games are created, and most games in the collection have a mini-video series that goes through the step by step process of creating the game. Full source code of the games can also be downloaded to view in the Unreal Engine 5.0 Editor. Credits Game ideas were created by GameDev.tv and most assets used are courtesy of Epic Game's Unreal Engine store.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1852870/header.jpg?t=1658160801",
+    "Price": 0.0,
+    "Developers": "Bulwark Creative",
+    "Publishers": "Bulwark Creative",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1852870/ss_f0f4f302774e09340cd7b4a811c7162738042915.1920x1080.jpg?t=1658160801,https://cdn.akamai.steamstatic.com/steam/apps/1852870/ss_4c9751c0ac42efa7da0bc4f551d35a08aa4bd1d7.1920x1080.jpg?t=1658160801,https://cdn.akamai.steamstatic.com/steam/apps/1852870/ss_8c92551f5c453d93eefd70b45d37a83d16cf8cbf.1920x1080.jpg?t=1658160801,https://cdn.akamai.steamstatic.com/steam/apps/1852870/ss_bbfa0c72eea9001ef8d1fb88f340954d092c3467.1920x1080.jpg?t=1658160801,https://cdn.akamai.steamstatic.com/steam/apps/1852870/ss_0f632aabc6274bf5ed6e47f4ba39430e5f50380f.1920x1080.jpg?t=1658160801,https://cdn.akamai.steamstatic.com/steam/apps/1852870/ss_8c1225d5559aae3f1c321bfd12c1224a9235fa61.1920x1080.jpg?t=1658160801,https://cdn.akamai.steamstatic.com/steam/apps/1852870/ss_5ce1bb87add3f703fcf861cb2ee1e108533d408b.1920x1080.jpg?t=1658160801",
+    "Slug": "game-dev-arcade",
+    "Meta Title": "Game Dev Arcade: May 9, 2022, Bulwark Creative and Full O...",
+    "Meta Description": "Looking for information on Game Dev Arcade? Check out the release date (May 9, 2022), developer insights from Bulwark Creative, and a complete game summ...",
+    "Alt Text Image": "Official header image for Game Dev Arcade game - Steam 1852870",
+    "Canonical URL": "https://gusku.site/game/game-dev-arcade",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Game Dev Arcade\", \"description\": \"Looking for information on Game Dev Arcade? Check out the release date (May 9, 2022), developer insights from Bulwark Creative, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 9, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bulwark Creative\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bulwark Creative\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1852870/header.jpg?t=1658160801\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

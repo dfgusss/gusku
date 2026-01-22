@@ -1,0 +1,21 @@
+{
+    "AppID": 1602770,
+    "Name": "Dream of Bells",
+    "Release date": "May 10, 2021",
+    "About the game": "Dream of bells is a puzzle game. All bells in the world fall asleep because of some evil magic. Your goal is to wake them up in a specific order. Essentially you have to make a program for the car, but the program also a part of the puzzle world, some sort of Rube Goldberg machine. You need to put commands block in the level, so the car can follow instructions and drive through bells in the desired order. Making the car drive through the correct bell wakes up the bell. Command block can be simple like turn right or turn left or conditional: turn right or left if the block on the roof of the car matches with the block in the front right side of the car, the game also has a pickup command block, put down command block, and rainbow block which can update the block on the roof.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1602770/header.jpg?t=1620658563",
+    "Price": 2.99,
+    "Developers": "Mika Pi",
+    "Publishers": "Mika Pi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1602770/ss_ebd0b75007dad2417fa3b5421a700ad0f27563f3.1920x1080.jpg?t=1620658563,https://cdn.akamai.steamstatic.com/steam/apps/1602770/ss_6ed7013feaa08bc4fb7012dd0fd08f6b069ec1ca.1920x1080.jpg?t=1620658563,https://cdn.akamai.steamstatic.com/steam/apps/1602770/ss_1d19ca5ddd0a86f0cf86543d3d098c3996d78d4e.1920x1080.jpg?t=1620658563,https://cdn.akamai.steamstatic.com/steam/apps/1602770/ss_769043dc077f9c09e1d344e19a20783cd194d574.1920x1080.jpg?t=1620658563,https://cdn.akamai.steamstatic.com/steam/apps/1602770/ss_a5900c918e46419d467bac7ebc5ffe5946450fb7.1920x1080.jpg?t=1620658563,https://cdn.akamai.steamstatic.com/steam/apps/1602770/ss_aaa04d9dda983a3236b9339c3ed5a26958f0c835.1920x1080.jpg?t=1620658563",
+    "Slug": "dream-of-bells",
+    "Meta Title": "Dream of Bells: May 10, 2021, Mika Pi and Full Overview",
+    "Meta Description": "Looking for information on Dream of Bells? Check out the release date (May 10, 2021), developer insights from Mika Pi, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dream of Bells game - Steam 1602770",
+    "Canonical URL": "https://gusku.site/game/dream-of-bells",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dream of Bells\", \"description\": \"Looking for information on Dream of Bells? Check out the release date (May 10, 2021), developer insights from Mika Pi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 10, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mika Pi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mika Pi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1602770/header.jpg?t=1620658563\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

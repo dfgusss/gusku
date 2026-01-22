@@ -1,0 +1,21 @@
+{
+    "AppID": 1107390,
+    "Name": "Project Polygun",
+    "Release date": "Dec 15, 2021",
+    "About the game": "Project Polygun is an upcoming first-person shooter. This game is poised as a lighthearted jab toward developers that keep their games in Early Access. The initial goal when we theorized Project Polygun was to work with the community on implementing every request made. You want drivable tanks? Done. You want grappling hooks? Done. You want to be able to cast spells that turn your opponents into harmless rabbits? Done. The reality of the matter is that since we're only two individuals working on this project in our spare time, there will likely be a lot of requests that we miss. But we hope to stay true to our roots and make a sh*tshow of a project that the whole family will love - just for you. ~Much love, ~The Arkadia Galactic team~",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1107390/header.jpg?t=1656783393",
+    "Price": 4.99,
+    "Developers": "Arkadia Galactic",
+    "Publishers": "Arkadia Galactic",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1107390/ss_6ea77f1d954dc0d52bb3bd760c03173c955d316b.1920x1080.jpg?t=1656783393,https://cdn.akamai.steamstatic.com/steam/apps/1107390/ss_3b6abb87977b5c34b4d440678a62bca02f189d27.1920x1080.jpg?t=1656783393,https://cdn.akamai.steamstatic.com/steam/apps/1107390/ss_cd804e1fa0b961c4fe559132508b98f479c15441.1920x1080.jpg?t=1656783393,https://cdn.akamai.steamstatic.com/steam/apps/1107390/ss_2c8095a0f4a4d81d4817e44c398aa89c4df7a454.1920x1080.jpg?t=1656783393,https://cdn.akamai.steamstatic.com/steam/apps/1107390/ss_76229ca74cc2839c1a03ca1febb97047fd46da9a.1920x1080.jpg?t=1656783393",
+    "Slug": "project-polygun",
+    "Meta Title": "Project Polygun: Dec 15, 2021, Arkadia Galactic and Full ...",
+    "Meta Description": "Looking for information on Project Polygun? Check out the release date (Dec 15, 2021), developer insights from Arkadia Galactic, and a complete game sum...",
+    "Alt Text Image": "Official header image for Project Polygun game - Steam 1107390",
+    "Canonical URL": "https://gusku.site/game/project-polygun",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Project Polygun\", \"description\": \"Looking for information on Project Polygun? Check out the release date (Dec 15, 2021), developer insights from Arkadia Galactic, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 15, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Arkadia Galactic\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Arkadia Galactic\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1107390/header.jpg?t=1656783393\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

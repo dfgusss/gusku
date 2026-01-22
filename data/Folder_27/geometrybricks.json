@@ -1,0 +1,21 @@
+{
+    "AppID": 1482530,
+    "Name": "GeometryBricks",
+    "Release date": "Jun 8, 2021",
+    "About the game": "It's a puzzle game with a small amount of arcade elements. In the game, a player controls two heroes both at the same time. In some levels heroes move opposite to each other. The game consists of 35 levels. Levels are divided into 4 episodes (and tutorial) and have different mechanics: -classic levels with core mechanics when player controls two heroes between walls and holes -arcade levels with some moving or disappearing platforms -levels with more complex mechanics such as keys, doors, traps and teleports -levels with reverse mechanics where one hero makes opposite moves to each other The game is available on PC and mobile. The game has fully support of gamepads (like Microsoft gamepad).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1482530/header.jpg?t=1626977326",
+    "Price": 2.99,
+    "Developers": "Marcin Gardyjan",
+    "Publishers": "Marcin Gardyjan",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1482530/ss_f86fa453d74b07be40a2f4d790f04fef8f41de98.1920x1080.jpg?t=1626977326,https://cdn.akamai.steamstatic.com/steam/apps/1482530/ss_076309a4f45d4fab0aff65345d17c1c82c103933.1920x1080.jpg?t=1626977326,https://cdn.akamai.steamstatic.com/steam/apps/1482530/ss_8562c71b9ce3a489dbfa31740d27a8107b21e4b2.1920x1080.jpg?t=1626977326,https://cdn.akamai.steamstatic.com/steam/apps/1482530/ss_bd5cb813fa3a206d23d72c477d0a0f387d21fdf1.1920x1080.jpg?t=1626977326,https://cdn.akamai.steamstatic.com/steam/apps/1482530/ss_ab78f17594813715ab74487db310d64228d6118f.1920x1080.jpg?t=1626977326,https://cdn.akamai.steamstatic.com/steam/apps/1482530/ss_d002d30f521fc277735bcab050cb96cdff287f5b.1920x1080.jpg?t=1626977326,https://cdn.akamai.steamstatic.com/steam/apps/1482530/ss_b4969c95ed83b2d6790bae4833496859ffffad1e.1920x1080.jpg?t=1626977326,https://cdn.akamai.steamstatic.com/steam/apps/1482530/ss_93760020002a31ff8a82bf98b96f3ccf84bc47e2.1920x1080.jpg?t=1626977326",
+    "Slug": "geometrybricks",
+    "Meta Title": "GeometryBricks: Jun 8, 2021, Marcin Gardyjan and Full Ove...",
+    "Meta Description": "Looking for information on GeometryBricks? Check out the release date (Jun 8, 2021), developer insights from Marcin Gardyjan, and a complete game summary.",
+    "Alt Text Image": "Official header image for GeometryBricks game - Steam 1482530",
+    "Canonical URL": "https://gusku.site/game/geometrybricks",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GeometryBricks\", \"description\": \"Looking for information on GeometryBricks? Check out the release date (Jun 8, 2021), developer insights from Marcin Gardyjan, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 8, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Marcin Gardyjan\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Marcin Gardyjan\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1482530/header.jpg?t=1626977326\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

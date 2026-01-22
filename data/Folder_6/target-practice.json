@@ -1,0 +1,21 @@
+{
+    "AppID": 1390850,
+    "Name": "Target Practice",
+    "Release date": "Sep 27, 2020",
+    "About the game": "There's one game mode: Target Practice. Click targets to bounce them, if they hit the floor you lose! You have three abilities to help you do this. Q: Time Pause Freeze all Targets in place for 5 seconds. Click again to stop early. W: Bounce All Bounce all targets at once! E: Remove Target Delete a target from existence. You can also change how the game plays by changing the variables! Head to the Change Variables menu and do whatever you want. Make the targets fall like meteors for the challenge, or reduce the cooldown of your abilities for a relaxed game. The choice is yours.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1390850/header.jpg?t=1601237596",
+    "Price": 0.99,
+    "Developers": "Tyler F Smith",
+    "Publishers": "Tyler F Smith",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1390850/ss_d76b9239175a83952f95de0927c5deb53f79702d.1920x1080.jpg?t=1601237596,https://cdn.akamai.steamstatic.com/steam/apps/1390850/ss_5046dc326e37a47d1586b5c9550629b8e7c5dad6.1920x1080.jpg?t=1601237596,https://cdn.akamai.steamstatic.com/steam/apps/1390850/ss_fc0aa5f84e7921f6fdd0688f2499203d27f99e25.1920x1080.jpg?t=1601237596,https://cdn.akamai.steamstatic.com/steam/apps/1390850/ss_5824338472bc53cb4020901ae4d2ca87e2ccc7d0.1920x1080.jpg?t=1601237596,https://cdn.akamai.steamstatic.com/steam/apps/1390850/ss_a747d3a3999be6b48f19c5e788855ed7e0e70c91.1920x1080.jpg?t=1601237596",
+    "Slug": "target-practice",
+    "Meta Title": "Target Practice: Sep 27, 2020, Tyler F Smith and Full Ove...",
+    "Meta Description": "Looking for information on Target Practice? Check out the release date (Sep 27, 2020), developer insights from Tyler F Smith, and a complete game summary.",
+    "Alt Text Image": "Official header image for Target Practice game - Steam 1390850",
+    "Canonical URL": "https://gusku.site/game/target-practice",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Target Practice\", \"description\": \"Looking for information on Target Practice? Check out the release date (Sep 27, 2020), developer insights from Tyler F Smith, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 27, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tyler F Smith\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tyler F Smith\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1390850/header.jpg?t=1601237596\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

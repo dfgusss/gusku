@@ -1,0 +1,21 @@
+{
+    "AppID": 631660,
+    "Name": "Immersion Chess",
+    "Release date": "May 15, 2017",
+    "About the game": "Lose yourself in the most immersive virtual rendition of the world’s most beloved classic: Chess! Whether you’re using advanced VR technology (HTC Vive, Oculus Rift etc.) or just playing on a standard computer, users of both interfaces from around the world can now challenge each other in real time. From intelligent and challenging AI opponents to beginner-level bots, anyone can find an AI difficulty setting to match their own skill level. Thanks to our implementation of an advanced Opening Book program, AI competitors are now optimized to play naturally and fluidly like real human counterparts! Immersion Chess follows all of the official chess rules and provides optional alternative background settings for an even more engaging experience!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/631660/header.jpg?t=1504537869",
+    "Price": 0.0,
+    "Developers": "Immersion",
+    "Publishers": "Immersion",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/631660/ss_f1b540f73e526c816066c805f66675353508bb08.1920x1080.jpg?t=1504537869,https://cdn.akamai.steamstatic.com/steam/apps/631660/ss_30eb94f9854296baeda4443b0ca68893b7617909.1920x1080.jpg?t=1504537869,https://cdn.akamai.steamstatic.com/steam/apps/631660/ss_2d25fd0f76c3d65fe18e3dc53e59dda4303690ff.1920x1080.jpg?t=1504537869,https://cdn.akamai.steamstatic.com/steam/apps/631660/ss_5ac527c926b3396e8b2e08f092e19c851aa1b902.1920x1080.jpg?t=1504537869,https://cdn.akamai.steamstatic.com/steam/apps/631660/ss_06193d55e07eca81c54522d763ee2fe638b8f1d0.1920x1080.jpg?t=1504537869,https://cdn.akamai.steamstatic.com/steam/apps/631660/ss_457792992aff655d7e033117fec94d6a20935146.1920x1080.jpg?t=1504537869",
+    "Slug": "immersion-chess",
+    "Meta Title": "Immersion Chess: May 15, 2017, Immersion and Full Overview",
+    "Meta Description": "Looking for information on Immersion Chess? Check out the release date (May 15, 2017), developer insights from Immersion, and a complete game summary.",
+    "Alt Text Image": "Official header image for Immersion Chess game - Steam 631660",
+    "Canonical URL": "https://gusku.site/game/immersion-chess",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Immersion Chess\", \"description\": \"Looking for information on Immersion Chess? Check out the release date (May 15, 2017), developer insights from Immersion, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 15, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Immersion\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Immersion\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/631660/header.jpg?t=1504537869\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

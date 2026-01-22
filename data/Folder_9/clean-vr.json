@@ -1,0 +1,21 @@
+{
+    "AppID": 1071090,
+    "Name": "Clean VR",
+    "Release date": "May 27, 2019",
+    "About the game": "About Clean VR is a small scale relaxed VR experience for HTC Vive. Your mission should you choose to accept it is to organize the house before the time runs out! Or you could just let yourself loose and smash the piano with random objects. Clean VR was created as a five week long school project by the game industry students of Ahlman Institute. Features Free mode: Play the piano Try to get your toy plane to fly Throw objects around Timed mode: Clean the room Tools used Programmers: C# Visual Studio Unity Google Visual Artists: Blender Gimp Unity General: Audacity Steam VRTK Requirements HTC Vive VR Capable PC",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1071090/header.jpg?t=1558950949",
+    "Price": 0.0,
+    "Developers": "LookPeople",
+    "Publishers": "Ahlman Game Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1071090/ss_ffef71937ecc40d1d86b9a03c5f3d32ae8b09387.1920x1080.jpg?t=1558950949,https://cdn.akamai.steamstatic.com/steam/apps/1071090/ss_b18680190d64784eff82a6477c04f9f0b63d1206.1920x1080.jpg?t=1558950949,https://cdn.akamai.steamstatic.com/steam/apps/1071090/ss_b71799629b757daecfcbef6cfa19c90c9dcc4a03.1920x1080.jpg?t=1558950949,https://cdn.akamai.steamstatic.com/steam/apps/1071090/ss_1f139c1ab838fcd1057f2893e5f416d73b7ea3f0.1920x1080.jpg?t=1558950949,https://cdn.akamai.steamstatic.com/steam/apps/1071090/ss_6a4ee0ed6fb70b5a739992b56889eb4f19d02136.1920x1080.jpg?t=1558950949",
+    "Slug": "clean-vr",
+    "Meta Title": "Clean VR: May 27, 2019, LookPeople and Full Overview",
+    "Meta Description": "Looking for information on Clean VR? Check out the release date (May 27, 2019), developer insights from LookPeople, and a complete game summary.",
+    "Alt Text Image": "Official header image for Clean VR game - Steam 1071090",
+    "Canonical URL": "https://gusku.site/game/clean-vr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Clean VR\", \"description\": \"Looking for information on Clean VR? Check out the release date (May 27, 2019), developer insights from LookPeople, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 27, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"LookPeople\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ahlman Game Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1071090/header.jpg?t=1558950949\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

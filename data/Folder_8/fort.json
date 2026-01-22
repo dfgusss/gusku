@@ -1,0 +1,21 @@
+{
+    "AppID": 1103250,
+    "Name": "FORT",
+    "Release date": "Jul 15, 2019",
+    "About the game": "Fort is tycoon. The aim of the game is to properly manage the available resources and characters. There are many parameters that can affect the outcome of the game. Captain! We are shipwrecked on an unknown land! Several members of the crew are dead. The ship was driven onto land. The sailors managed to take it apart and put up a camp. We are very far from our homeland... I'm afraid we are stuck here for long. We haven't got much food. We should send someone to check out the surroundings and gather some food. The crew is counting on you! Our fate depends on your decisions!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1103250/header.jpg?t=1563196184",
+    "Price": 0.5,
+    "Developers": "PanzerCat",
+    "Publishers": "RMSU",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1103250/ss_b29003d4bcb22bcdb27232b9ba8cc31f9f4aa83b.1920x1080.jpg?t=1563196184,https://cdn.akamai.steamstatic.com/steam/apps/1103250/ss_26aca76e3177338a0c5f66de10024ce99c691a5c.1920x1080.jpg?t=1563196184,https://cdn.akamai.steamstatic.com/steam/apps/1103250/ss_e4b46786f9c5a60ec662a65d519f7ed600acb9bf.1920x1080.jpg?t=1563196184,https://cdn.akamai.steamstatic.com/steam/apps/1103250/ss_8fba2d69a6b1974fee892960d2888212393dcf45.1920x1080.jpg?t=1563196184,https://cdn.akamai.steamstatic.com/steam/apps/1103250/ss_7eafcc75882fb76cb17d459992816f75fe5a584f.1920x1080.jpg?t=1563196184,https://cdn.akamai.steamstatic.com/steam/apps/1103250/ss_6fcb65d3f9217c96976011e11e18bf3db6388dfe.1920x1080.jpg?t=1563196184,https://cdn.akamai.steamstatic.com/steam/apps/1103250/ss_627d552b9f1b9de2272af0726c8112b7d79cf287.1920x1080.jpg?t=1563196184,https://cdn.akamai.steamstatic.com/steam/apps/1103250/ss_2b6ada0302ffdbe8f2efa3c952f20490a03db4fc.1920x1080.jpg?t=1563196184",
+    "Slug": "fort",
+    "Meta Title": "FORT: Jul 15, 2019, PanzerCat and Full Overview",
+    "Meta Description": "Looking for information on FORT? Check out the release date (Jul 15, 2019), developer insights from PanzerCat, and a complete game summary.",
+    "Alt Text Image": "Official header image for FORT game - Steam 1103250",
+    "Canonical URL": "https://gusku.site/game/fort",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FORT\", \"description\": \"Looking for information on FORT? Check out the release date (Jul 15, 2019), developer insights from PanzerCat, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 15, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"PanzerCat\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"RMSU\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1103250/header.jpg?t=1563196184\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.5, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

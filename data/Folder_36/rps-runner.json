@@ -1,0 +1,21 @@
+{
+    "AppID": 654670,
+    "Name": "RPS Runner",
+    "Release date": "Jul 5, 2017",
+    "About the game": "RPS Runner is a simple runner game where you have to choose the correct object from Rock, Paper or Scissors in order to defeat the on-coming objects.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/654670/header.jpg?t=1499419249",
+    "Price": 0.99,
+    "Developers": "Thugnificent",
+    "Publishers": "Thugnificent",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/654670/ss_f1a8215ee4723772b2018bae3387ed077988ed28.1920x1080.jpg?t=1499419249,https://cdn.akamai.steamstatic.com/steam/apps/654670/ss_cfc946bc6f6337478aa117fed3ff5f8463118ab6.1920x1080.jpg?t=1499419249,https://cdn.akamai.steamstatic.com/steam/apps/654670/ss_d5264e2a5e5dbf3787ccb14bf9fe8d45d36f120c.1920x1080.jpg?t=1499419249,https://cdn.akamai.steamstatic.com/steam/apps/654670/ss_ef0001d7074d6c223127392f3efe00132122d61a.1920x1080.jpg?t=1499419249,https://cdn.akamai.steamstatic.com/steam/apps/654670/ss_02a8b8650e4287c64eddddba3292d505140bc477.1920x1080.jpg?t=1499419249",
+    "Slug": "rps-runner",
+    "Meta Title": "RPS Runner: Jul 5, 2017, Thugnificent and Full Overview",
+    "Meta Description": "Looking for information on RPS Runner? Check out the release date (Jul 5, 2017), developer insights from Thugnificent, and a complete game summary.",
+    "Alt Text Image": "Official header image for RPS Runner game - Steam 654670",
+    "Canonical URL": "https://gusku.site/game/rps-runner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RPS Runner\", \"description\": \"Looking for information on RPS Runner? Check out the release date (Jul 5, 2017), developer insights from Thugnificent, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 5, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Thugnificent\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Thugnificent\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/654670/header.jpg?t=1499419249\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

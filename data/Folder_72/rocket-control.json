@@ -1,0 +1,21 @@
+{
+    "AppID": 2338830,
+    "Name": "Rocket Control",
+    "Release date": "Mar 23, 2023",
+    "About the game": "This game is an extremely simple 2D action game where you launch, control, and land rockets. The only user input is to iginite each booster to the left or right using the A and D keys on the keyboard. When you want to move the rocket to the right, you activate only the left booster and stop the right booster. The opposite is also true. The rules are simple: ascend to an altitude of 1000 meters, start the descent, and then land back at the original launchpad. That's all there is to it. There are three rounds in total, and they get progressively more difficult. There are two conditions for a successful landing: speed and angle. If you try to land at a speed that is too high, the landing will fail (and the rocket will explode). Also, if the angle of the rocket is outside a certain range, the landing will fail. As the rounds progress, the range of allowable speed and angle becomes narrower. In addition, from the second round onward, wind will blow and push the rocket around. **How to Use** Left Booster : 'A' Key Right Booster : 'D' Key That's it.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2338830/header.jpg?t=1679554835",
+    "Price": 2.99,
+    "Developers": "Northbrain",
+    "Publishers": "Northbrain",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_e5cc207c60bef34377a8d37759cfe3cb639501dd.1920x1080.jpg?t=1679554835,https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_5616dc729606a25a9fff29220318790456d45b98.1920x1080.jpg?t=1679554835,https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_989e11caafc4d4f1a4bcc93c0653aad8c63ab400.1920x1080.jpg?t=1679554835,https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_600ae04956262093f1b0c2a4c35f3a7e2bc9008d.1920x1080.jpg?t=1679554835,https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_a005682cb7fd9a39f57771a905f0fbbb7fd914fb.1920x1080.jpg?t=1679554835,https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_abc7902249da3ff43e6a5597e6c3297156684f58.1920x1080.jpg?t=1679554835,https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_0815d33947b23c8e30b822b82a4ba854928806fe.1920x1080.jpg?t=1679554835,https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_43d3b115b43daa8945126b327e60c378fbb944c6.1920x1080.jpg?t=1679554835,https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_71832bb7e91a9aae8b2975fa0fc8f7d103d0e4ef.1920x1080.jpg?t=1679554835,https://cdn.akamai.steamstatic.com/steam/apps/2338830/ss_6362700c8cb952473a4605132b2283f56309d5eb.1920x1080.jpg?t=1679554835",
+    "Slug": "rocket-control",
+    "Meta Title": "Rocket Control: Mar 23, 2023, Northbrain and Full Overview",
+    "Meta Description": "Looking for information on Rocket Control? Check out the release date (Mar 23, 2023), developer insights from Northbrain, and a complete game summary.",
+    "Alt Text Image": "Official header image for Rocket Control game - Steam 2338830",
+    "Canonical URL": "https://gusku.site/game/rocket-control",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Rocket Control\", \"description\": \"Looking for information on Rocket Control? Check out the release date (Mar 23, 2023), developer insights from Northbrain, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 23, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Northbrain\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Northbrain\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2338830/header.jpg?t=1679554835\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

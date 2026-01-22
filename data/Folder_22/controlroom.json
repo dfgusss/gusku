@@ -1,0 +1,21 @@
+{
+    "AppID": 1172290,
+    "Name": "ControlRoom",
+    "Release date": "Jan 16, 2020",
+    "About the game": "With ControlRoom you can interact with your music production software on your studio PC or Mac in a revolutionary new way. • Write expressive automation with your whole body by custom mapping any MIDI enabled DAW parameter to an array of expressive 3D tools. • Mix your tracks in a new and intuitive way with powerful DSP using the ControlRoom plugins which give you access to our Spatial Mixer, EQ and Compressor. •Control your transport, mixer, sends, and automation with the virtual mixing console. • Visualize frequency and phase information for each track in your DAW with the new Spectralyzer. • ControlRoom includes a remote desktop monitor for your session available inside the ControlRoom app so you can see your DAW without having to take off your headset. (When using supported GPUs) To learn how to set up ControlRoom, please click the 'View the Manual' button in the right sidebar or check out our Steam Forum post: / Use ControlRoom in Standalone Mode to learn how to use and experience ControlRoom with our built-in tracks. ControlRoom officially supports Ableton Live and Pro Tools and supports most other DAWs but some functionality may be limited. Remote desktop is not supported on systems using hybrid GPUs found on some laptops. Welcome to the future of your music production workflow. Step out the box, into ControlRoom.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1172290/header.jpg?t=1581905980",
+    "Price": 19.99,
+    "Developers": "Persp3ctive",
+    "Publishers": "Persp3ctive",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1172290/ss_628e9b17356c52f53da60c822433ee875b7ed316.1920x1080.jpg?t=1581905980,https://cdn.akamai.steamstatic.com/steam/apps/1172290/ss_2a0c3212437a7319a70f2c67802af16778b90d7c.1920x1080.jpg?t=1581905980,https://cdn.akamai.steamstatic.com/steam/apps/1172290/ss_a087f536fa2c595f9c6317d74871fa8f2acf3d94.1920x1080.jpg?t=1581905980,https://cdn.akamai.steamstatic.com/steam/apps/1172290/ss_8b109332a21623ef3be380ad89213f5d6913d873.1920x1080.jpg?t=1581905980,https://cdn.akamai.steamstatic.com/steam/apps/1172290/ss_417e81ed26b6d24047d2e99c47d2a19629458e34.1920x1080.jpg?t=1581905980,https://cdn.akamai.steamstatic.com/steam/apps/1172290/ss_ab77ba7292f6857f48b2cd42ee58cb19bc11efc5.1920x1080.jpg?t=1581905980,https://cdn.akamai.steamstatic.com/steam/apps/1172290/ss_5d1d3d6c0ab465aa0783237224df06dde8dd8a9c.1920x1080.jpg?t=1581905980",
+    "Slug": "controlroom",
+    "Meta Title": "ControlRoom: Jan 16, 2020, Persp3ctive and Full Overview",
+    "Meta Description": "Looking for information on ControlRoom? Check out the release date (Jan 16, 2020), developer insights from Persp3ctive, and a complete game summary.",
+    "Alt Text Image": "Official header image for ControlRoom game - Steam 1172290",
+    "Canonical URL": "https://gusku.site/game/controlroom",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ControlRoom\", \"description\": \"Looking for information on ControlRoom? Check out the release date (Jan 16, 2020), developer insights from Persp3ctive, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 16, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Persp3ctive\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Persp3ctive\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1172290/header.jpg?t=1581905980\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

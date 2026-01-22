@@ -1,0 +1,21 @@
+{
+    "AppID": 955750,
+    "Name": "Antitetrise",
+    "Release date": "Dec 14, 2018",
+    "About the game": "Play old game genre with new mechanics: tiles will disappear only when you build outline with them. Stick figure to figure, move throught bounds and get points only for new figures. Try to find a strategy against fully random figures from scattered tiles or be not confused in double-screen mode.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/955750/header.jpg?t=1544998631",
+    "Price": 0.99,
+    "Developers": "Unrea",
+    "Publishers": "Unrea",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/955750/ss_c0f872943690159b706c0dd3428ed9d5fd6ba3f1.1920x1080.jpg?t=1544998631,https://cdn.akamai.steamstatic.com/steam/apps/955750/ss_1f19b538ab99df06f98aa61709e65123174bc554.1920x1080.jpg?t=1544998631,https://cdn.akamai.steamstatic.com/steam/apps/955750/ss_d6fd7c46edfafcabe7982644bf1897d75e932c8b.1920x1080.jpg?t=1544998631,https://cdn.akamai.steamstatic.com/steam/apps/955750/ss_d6e6ad691b5b168c7cec09797c42fda8dfaf4be5.1920x1080.jpg?t=1544998631,https://cdn.akamai.steamstatic.com/steam/apps/955750/ss_8cf13b8461601c2fd1944b68212e2ab973b80f62.1920x1080.jpg?t=1544998631",
+    "Slug": "antitetrise",
+    "Meta Title": "Antitetrise: Dec 14, 2018, Unrea and Full Overview",
+    "Meta Description": "Looking for information on Antitetrise? Check out the release date (Dec 14, 2018), developer insights from Unrea, and a complete game summary.",
+    "Alt Text Image": "Official header image for Antitetrise game - Steam 955750",
+    "Canonical URL": "https://gusku.site/game/antitetrise",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Antitetrise\", \"description\": \"Looking for information on Antitetrise? Check out the release date (Dec 14, 2018), developer insights from Unrea, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 14, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Unrea\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Unrea\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/955750/header.jpg?t=1544998631\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

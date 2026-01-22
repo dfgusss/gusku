@@ -1,0 +1,21 @@
+{
+    "AppID": 1510740,
+    "Name": "The Virus",
+    "Release date": "Feb 12, 2021",
+    "About the game": "Play as a White Blood Cell whose home has been invaded by viruses. Your job is to protect the red blood cells by collecting them. Navigate through a variety of challenging levels, collecting all of the red blood cells and avoiding the viruses in hopes to rid your home of The Virus. Your physics are similar to a marble in that you'll roll in order to travel. You'll use your momentum to go up inclines and control your momentum when going down inclines. The controls of the game are very easy to learn but the levels are what make it fun and challenging! Each level contains a set number of red blood cells which you will collect. In order to advance to the next level you must collect all of the red blood cells on a given level. Your HUD shows a counter which tells how many blood cells you have left to collect. There are two ways to die in this game, either by falling off a platform or getting hit by a virus. If you die on a level you will restart that specific level. There are no checkpoints within a level, which provides a fun challenge and more satisfaction when you win! Every level is different and the farther you progress the more unique the levels become. While the mechanics stay the same throughout the game, each level provides different trials that you'll have to learn in order to progress.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1510740/header.jpg?t=1633444609",
+    "Price": 4.99,
+    "Developers": "Elusive Panda",
+    "Publishers": "Elusive Panda",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1510740/ss_99eab3cdc54de0197267c954483f4da24c3f234d.1920x1080.jpg?t=1633444609,https://cdn.akamai.steamstatic.com/steam/apps/1510740/ss_ccb792f0bf830f784010d509e8ef2799cf9d3913.1920x1080.jpg?t=1633444609,https://cdn.akamai.steamstatic.com/steam/apps/1510740/ss_9c817c1c237fee9cb3355e095c476742456bb230.1920x1080.jpg?t=1633444609,https://cdn.akamai.steamstatic.com/steam/apps/1510740/ss_0175af0aa5bacb4c9335a1ae6fe1136f722f5bbc.1920x1080.jpg?t=1633444609,https://cdn.akamai.steamstatic.com/steam/apps/1510740/ss_b1bc5a48f5c58539d68ac42cb36a70a186c23f09.1920x1080.jpg?t=1633444609,https://cdn.akamai.steamstatic.com/steam/apps/1510740/ss_f63bde91f95bc2098e05894e34b33f4fa486545b.1920x1080.jpg?t=1633444609,https://cdn.akamai.steamstatic.com/steam/apps/1510740/ss_56112b5a66a2bf6591cd5eafcd0b3e40a645b834.1920x1080.jpg?t=1633444609",
+    "Slug": "the-virus",
+    "Meta Title": "The Virus: Feb 12, 2021, Elusive Panda and Full Overview",
+    "Meta Description": "Looking for information on The Virus? Check out the release date (Feb 12, 2021), developer insights from Elusive Panda, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Virus game - Steam 1510740",
+    "Canonical URL": "https://gusku.site/game/the-virus",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Virus\", \"description\": \"Looking for information on The Virus? Check out the release date (Feb 12, 2021), developer insights from Elusive Panda, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 12, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Elusive Panda\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Elusive Panda\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1510740/header.jpg?t=1633444609\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

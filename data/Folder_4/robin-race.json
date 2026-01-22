@@ -1,0 +1,21 @@
+{
+    "AppID": 1575270,
+    "Name": "Robin: Race!",
+    "Release date": "Mar 30, 2021",
+    "About the game": "Run for your life - and for glory! A superfast 3D third-person cartoon racing game where you run as one of 19 unique rabbits in 4 beautiful settings and 8 complex levels in singleplayer high score- or time trial-mode, or even in LAN multiplayer versus other players cross-platform on Windows, Linux and Android. Features: - 19 unique, colorful rabbits - 8 individually handcrafted racing track levels - 4 unique environmental settings - 3 game modes: high score, time trial, time trial multiplayer - 4 difficulties - 4 different input methods: keyboard, gamepad, touch, and motion/accelerometer - super fast-paced fun gameplay - relaxing AND exciting, depending on your personal playstyle and goals - individual player profiles with name, appearance, and XP gathered throughout plays - extensive high score leaderboard (local) for endless self-improvement + replay-ability - singleplayer and LAN multiplayer - cross-platform play on Windows, Linux, Android - Windows and Linux versions included - graphics settings options to support low- and highend computers equally well New in Version v1.01: - Added 4 all new rabbits!! - Added OpenGL fallback for Windows! - Added Robin splash screen on startup instead of default! - Added displaying host IP address in lobby room! - Added same-version-check for network play! - Improved demo version call to action dialogs + links! - Fixed time warning sound: correctly disabled when sounds disabled!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1575270/header.jpg?t=1617390983",
+    "Price": 9.99,
+    "Developers": "Netzweck GmbH",
+    "Publishers": "Netzweck GmbH",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1575270/ss_13d55e23ff96d42046c1b8a4ec9643664b26e276.1920x1080.jpg?t=1617390983,https://cdn.akamai.steamstatic.com/steam/apps/1575270/ss_3f1af3e894ce827abfe31feb31ab1d617fef0fea.1920x1080.jpg?t=1617390983,https://cdn.akamai.steamstatic.com/steam/apps/1575270/ss_2b8d386cac75ff8b5cc2bf9f016034adc5f0526c.1920x1080.jpg?t=1617390983,https://cdn.akamai.steamstatic.com/steam/apps/1575270/ss_bf2f38fc640e566c34cfefca5fcd377caafa7480.1920x1080.jpg?t=1617390983,https://cdn.akamai.steamstatic.com/steam/apps/1575270/ss_d5889159cccfdbc61e1acebcac249eb7f9ed147e.1920x1080.jpg?t=1617390983,https://cdn.akamai.steamstatic.com/steam/apps/1575270/ss_da0d2f2c4b871f7bd5b41a2f4eee578c3e7e722f.1920x1080.jpg?t=1617390983,https://cdn.akamai.steamstatic.com/steam/apps/1575270/ss_1b15fd708bea6c0b52c8dac2aba0b80f731f890a.1920x1080.jpg?t=1617390983",
+    "Slug": "robin-race",
+    "Meta Title": "Robin: Race!: Mar 30, 2021, Netzweck GmbH and Full Overview",
+    "Meta Description": "Looking for information on Robin: Race!? Check out the release date (Mar 30, 2021), developer insights from Netzweck GmbH, and a complete game summary.",
+    "Alt Text Image": "Official header image for Robin: Race! game - Steam 1575270",
+    "Canonical URL": "https://gusku.site/game/robin-race",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Robin: Race!\", \"description\": \"Looking for information on Robin: Race!? Check out the release date (Mar 30, 2021), developer insights from Netzweck GmbH, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Netzweck GmbH\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Netzweck GmbH\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1575270/header.jpg?t=1617390983\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 389980,
+    "Name": "Pluto",
+    "Release date": "Feb 22, 2018",
+    "About the game": "Pluto is creating a new way for you to connect to anyone from anywhere in the world by enabling more natural virtual communication. It runs alongside SteamVR apps for direct, contextual, and comfortable connections that transcend text, voice, and video. To get started: (1) Download Pluto (2) Add contacts, and (3) Call to stay connected to the people you know and trust in VR! On Pluto, you can: Voice chat between VR and iOS devices! Wave to your contacts to let them know when you're ready to chat Stay connected in private conversations while using individual or multi-person apps Get into multiplayer games together. Try starting at the same time! Talk with friends during loading screens and other slow app moments Play social VR apps while maintaining a separate conversation with one or several people. Try using Pluto to coordinate where you’ll meet up!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/389980/header.jpg?t=1623700894",
+    "Price": 0.0,
+    "Developers": "Pluto VR",
+    "Publishers": "Pluto VR",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/389980/ss_0e8fa2900a9bb3bfaa618af4bf49d9dffa7334f4.1920x1080.jpg?t=1623700894,https://cdn.akamai.steamstatic.com/steam/apps/389980/ss_0bfc545b2dd9c728bb6326041c09705f4a0501f0.1920x1080.jpg?t=1623700894,https://cdn.akamai.steamstatic.com/steam/apps/389980/ss_e41e55f8f04e422ef27f3bb6956c6cd4f103e516.1920x1080.jpg?t=1623700894,https://cdn.akamai.steamstatic.com/steam/apps/389980/ss_0fcbb24e6bd345909c5b8f800b45b9dff2895394.1920x1080.jpg?t=1623700894,https://cdn.akamai.steamstatic.com/steam/apps/389980/ss_cb712246c5e72cd2b9b57c81f08485ccabe22b50.1920x1080.jpg?t=1623700894",
+    "Slug": "pluto",
+    "Meta Title": "Pluto: Feb 22, 2018, Pluto VR and Full Overview",
+    "Meta Description": "Looking for information on Pluto? Check out the release date (Feb 22, 2018), developer insights from Pluto VR, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pluto game - Steam 389980",
+    "Canonical URL": "https://gusku.site/game/pluto",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pluto\", \"description\": \"Looking for information on Pluto? Check out the release date (Feb 22, 2018), developer insights from Pluto VR, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 22, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pluto VR\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pluto VR\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/389980/header.jpg?t=1623700894\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

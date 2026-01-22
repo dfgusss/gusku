@@ -1,0 +1,21 @@
+{
+    "AppID": 2245890,
+    "Name": "Margo",
+    "Release date": "Dec 27, 2022",
+    "About the game": "Margo is a short (30 min), point and click slice-of-life game. It follows the character of Margo, who has just awoken from an accidental nap. The player must complete various click-and-drag tasks to guide Margo through her evening.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2245890/header.jpg?t=1672157377",
+    "Price": 0.0,
+    "Developers": "ygretz,upsideyonder",
+    "Publishers": "ygretz",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2245890/ss_70e49a418d5083b6867f9a256fcb2a9f13e2ed86.1920x1080.jpg?t=1672157377,https://cdn.akamai.steamstatic.com/steam/apps/2245890/ss_137bd8cb4dcd92c3ae5817a9121957b9923124f4.1920x1080.jpg?t=1672157377,https://cdn.akamai.steamstatic.com/steam/apps/2245890/ss_c7f02a0ab69ca76c090ef21f43698435e26e8995.1920x1080.jpg?t=1672157377,https://cdn.akamai.steamstatic.com/steam/apps/2245890/ss_155307bf5c6da22feb7b1e9b841e2d717189347b.1920x1080.jpg?t=1672157377,https://cdn.akamai.steamstatic.com/steam/apps/2245890/ss_730df38e9a326567279ed2cd239091b9aff3c0c3.1920x1080.jpg?t=1672157377,https://cdn.akamai.steamstatic.com/steam/apps/2245890/ss_bbf2be2d017b7ee16ce19152037d9a7b3dd30f89.1920x1080.jpg?t=1672157377,https://cdn.akamai.steamstatic.com/steam/apps/2245890/ss_6baad9e0ba3e8c6ac38caf7f885859217ee38c38.1920x1080.jpg?t=1672157377",
+    "Slug": "margo",
+    "Meta Title": "Margo: Dec 27, 2022, ygretz,upsideyonder and Full Overview",
+    "Meta Description": "Looking for information on Margo? Check out the release date (Dec 27, 2022), developer insights from ygretz,upsideyonder, and a complete game summary.",
+    "Alt Text Image": "Official header image for Margo game - Steam 2245890",
+    "Canonical URL": "https://gusku.site/game/margo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Margo\", \"description\": \"Looking for information on Margo? Check out the release date (Dec 27, 2022), developer insights from ygretz,upsideyonder, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 27, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"ygretz,upsideyonder\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ygretz\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2245890/header.jpg?t=1672157377\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

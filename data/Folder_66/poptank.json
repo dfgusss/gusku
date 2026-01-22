@@ -1,0 +1,21 @@
+{
+    "AppID": 2054820,
+    "Name": "POPTANK",
+    "Release date": "Oct 30, 2022",
+    "About the game": "This game is a pop-cute shooting game! The objective of the game is to defeat the stage bosses and win all the stages! To defeat the bosses, you need bullets and bombs to damage them! There are 3 types of bullets you can use! 【NormalBullets】 When you shoot it, it will go straight ahead! It has the most firepower of all bullets! Raising the level will not only increase the firepower, but also shorten the firing interval! 【TrackingBullet】 When shot at an enemy, it will track towards that enemy! The firepower is a little low! Raising the level will not only increase the firepower, but also the tracking performance! 【ReflectiveBullet】 When they hit a non-enemy target, they bounce back! The firing interval is long! Raising the level not only increases the firepower, but also the number of times they ricochet! You can equip one of three types of bullets! The bosses in each stage have different weapons. Each boss has its own unique moves! So use different bullets for different stages! And those who have cleared all the stages You can also play 'Endless Mode' where you just keep on surviving! Let's aim for the height of POPTANK!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2054820/header.jpg?t=1667187321",
+    "Price": 2.79,
+    "Developers": "Tomoki",
+    "Publishers": "Tomoki",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2054820/ss_4d7e05aea1105f55320b938c37634fed4e6b02c2.1920x1080.jpg?t=1667187321,https://cdn.akamai.steamstatic.com/steam/apps/2054820/ss_8457d5fe0a7239f0ae8858f6212277df245f88e9.1920x1080.jpg?t=1667187321,https://cdn.akamai.steamstatic.com/steam/apps/2054820/ss_27eabd63342fe79e954ec771e9e4f19b5c23b13b.1920x1080.jpg?t=1667187321,https://cdn.akamai.steamstatic.com/steam/apps/2054820/ss_d559dd00500af71536f66755009ffdd9cf8bfefb.1920x1080.jpg?t=1667187321,https://cdn.akamai.steamstatic.com/steam/apps/2054820/ss_b062ebe0cd086117bc853f0db8dd2f4bfa7fb8fa.1920x1080.jpg?t=1667187321",
+    "Slug": "poptank",
+    "Meta Title": "POPTANK: Oct 30, 2022, Tomoki and Full Overview",
+    "Meta Description": "Looking for information on POPTANK? Check out the release date (Oct 30, 2022), developer insights from Tomoki, and a complete game summary.",
+    "Alt Text Image": "Official header image for POPTANK game - Steam 2054820",
+    "Canonical URL": "https://gusku.site/game/poptank",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"POPTANK\", \"description\": \"Looking for information on POPTANK? Check out the release date (Oct 30, 2022), developer insights from Tomoki, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 30, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tomoki\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tomoki\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2054820/header.jpg?t=1667187321\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.79, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

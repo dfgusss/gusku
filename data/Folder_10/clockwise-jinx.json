@@ -1,0 +1,21 @@
+{
+    "AppID": 1858070,
+    "Name": "Clockwise Jinx",
+    "Release date": "Jan 13, 2022",
+    "About the game": "Find your way from a dragon's castle in a series of mind-bending challenges! Be carefull: the dungeon is full of traps. And your character is cursed and feels really dizzy! All you need to do is to go through a room avoiding chainsaws, lava fields and other traps. But after you win, one more room is added. This is a duplicate of the room you just passed, but it is rotated 90 degrees clockwise. The player in this room moves right when you press the up arrow key, move down when you press the right key, and so on. When you pass the second room, you should go through another one, which is rotated 180 degrees, and so on until you go through the full circle. But that's not all. By pressing the arrow keys, you control all players in all four rooms. So you need to keep in mind that the players in the previous rooms won't step into their own traps while you try to pass the current location!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1858070/header.jpg?t=1642101409",
+    "Price": 0.0,
+    "Developers": "Pavel Gorev",
+    "Publishers": "Pavel Gorev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1858070/ss_034b0a640df73b9c78a3e94e373bbae1a89908a7.1920x1080.jpg?t=1642101409,https://cdn.akamai.steamstatic.com/steam/apps/1858070/ss_5b27b4bd2cb8e569aa676b612b5193ac0a2025d6.1920x1080.jpg?t=1642101409,https://cdn.akamai.steamstatic.com/steam/apps/1858070/ss_f3e63f5d861c56713b785ed8a34f26cfcc517948.1920x1080.jpg?t=1642101409,https://cdn.akamai.steamstatic.com/steam/apps/1858070/ss_5367e19a1a06a986be9e6e4e80a9d886101bf963.1920x1080.jpg?t=1642101409,https://cdn.akamai.steamstatic.com/steam/apps/1858070/ss_75aa877aaf2d23b0ea11ba62cb8ede3777769e57.1920x1080.jpg?t=1642101409",
+    "Slug": "clockwise-jinx",
+    "Meta Title": "Clockwise Jinx: Jan 13, 2022, Pavel Gorev and Full Overview",
+    "Meta Description": "Looking for information on Clockwise Jinx? Check out the release date (Jan 13, 2022), developer insights from Pavel Gorev, and a complete game summary.",
+    "Alt Text Image": "Official header image for Clockwise Jinx game - Steam 1858070",
+    "Canonical URL": "https://gusku.site/game/clockwise-jinx",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Clockwise Jinx\", \"description\": \"Looking for information on Clockwise Jinx? Check out the release date (Jan 13, 2022), developer insights from Pavel Gorev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 13, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pavel Gorev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pavel Gorev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1858070/header.jpg?t=1642101409\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 593530,
+    "Name": "Jelly in the sky",
+    "Release date": "Dec 11, 2017",
+    "About the game": "This is an innovative, physically realistic 2d artillery game. The whole game world - is a physics simulation! But on a deeper level than you ever seen in games. There's no sprites, no constantly shaped physical blocks. Everything is made of dynamically and realistically permutating matter. Tens of thousands of tiny interacting particles form this dynamic matter, which is being simulated in real time. Everything in the game is made of this matter, no excuses: ground, player characters, enemies, projectiles, bonuses. And everything can be blown up in a realistic way. The calculations required to run this simulation in real time are enormous, but luckily we have supercomputers inside our computers. Modern videocards provide enough computational power to run this kind of simulation in a real time. Computational performance of GPU is usually 50-100 times higher than a CPU can provide. And this whole power is used to calculate the physics of the game world. So, the game literally runs on GPU instead of CPU. On the big picture it is an alternative branch of games' evolution. The games used to evolve towards better graphics. My game has rather simple graphics, but is pretty advanced on physics level. From the different point of view, modern technologies like VR or AR bring virtuality to reality. While physics simulations bring reality to virtuality. This approach is innovative technically, but also opens new physics related gameplay mechanics. Some are already implemented. But collective imagination is wider than individual one. So, I invite the players to play and share their ideas and thoughts. Together we can make the gameplay unique and exclusive.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/593530/header.jpg?t=1527024952",
+    "Price": 5.99,
+    "Developers": "Zolden Games",
+    "Publishers": "Zolden Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/593530/ss_4d8fd68685a6254f198ba091a4a024348f0d1850.1920x1080.jpg?t=1527024952,https://cdn.akamai.steamstatic.com/steam/apps/593530/ss_c355d8993b3cea1a38d1912f2bf903324605c416.1920x1080.jpg?t=1527024952,https://cdn.akamai.steamstatic.com/steam/apps/593530/ss_cb886c18634f0703ef50fd5860f94a20c326d91d.1920x1080.jpg?t=1527024952,https://cdn.akamai.steamstatic.com/steam/apps/593530/ss_a189a0357f21a0c1d5976a52eb43553a85f8c1e6.1920x1080.jpg?t=1527024952,https://cdn.akamai.steamstatic.com/steam/apps/593530/ss_6d33281ddfa03a8ba5298552aec0cca017f03d45.1920x1080.jpg?t=1527024952",
+    "Slug": "jelly-in-the-sky",
+    "Meta Title": "Jelly in the sky: Dec 11, 2017, Zolden Games and Full Ove...",
+    "Meta Description": "Looking for information on Jelly in the sky? Check out the release date (Dec 11, 2017), developer insights from Zolden Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Jelly in the sky game - Steam 593530",
+    "Canonical URL": "https://gusku.site/game/jelly-in-the-sky",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Jelly in the sky\", \"description\": \"Looking for information on Jelly in the sky? Check out the release date (Dec 11, 2017), developer insights from Zolden Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 11, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Zolden Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Zolden Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/593530/header.jpg?t=1527024952\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

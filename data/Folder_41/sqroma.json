@@ -1,0 +1,21 @@
+{
+    "AppID": 1730000,
+    "Name": "Sqroma",
+    "Release date": "Feb 28, 2022",
+    "About the game": "Sqroma is a colored puzzle game where you travel through 45 different levels with one goal each time: find your way to the exit. Each enemy you'll meet will have a defined color. Either you have the right color and you're friendly, or you don't and you're an enemy. In this colorful world, you're the only that can gather them all. Each color taken make you pass through every object of that color, enemy, bullet, mine, door, everything! With unlimited life and instant respawn, dying is not a problem. It even can be the solution! Your death usually means, fewer bullets to deal with, use that to transform the level! Key Features -45 handmade levels -28 challenges, you don't need to pass them all to finish the game -Use the physics of the game to find your solution, a lot of levels have multiple solutions. There's always one clean way out, but if you like that, you can try more obscure solutions. -The level does not reset after your current cube death, use it wisely to take a bullet for your future self and create a way out! -No time limit nor lives, take your time and how many tries you want -Want more? You find a solution to a puzzle, but was it the only one? The fastest? Each level has a time record to beat! But that's up to you, nothing is time locked! Accessibility -Color blind mode - doesn't work sadly for monochromacy -Slow time - possible to change for each level, if one feels too fast for you, just slow it down -Hint system - doesn't like to be stuck in a level and come back later? Just use the hint system for clues. But challenges will stay challenging! You don't need to pass them all to access the end of the game",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1730000/header.jpg?t=1648975462",
+    "Price": 4.99,
+    "Developers": "Woum",
+    "Publishers": "Woum",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1730000/ss_137a6b0592523d9876f8b281d8ae65a8c83dc529.1920x1080.jpg?t=1648975462,https://cdn.akamai.steamstatic.com/steam/apps/1730000/ss_5d3ed430c7659cd35b55586fcc47bf86e22ce3f4.1920x1080.jpg?t=1648975462,https://cdn.akamai.steamstatic.com/steam/apps/1730000/ss_087d90c4173f00efd5aa1749b6f63ec27bc3829b.1920x1080.jpg?t=1648975462,https://cdn.akamai.steamstatic.com/steam/apps/1730000/ss_a9f019731dc1f0863f33eb260ba54ee8e17db39d.1920x1080.jpg?t=1648975462,https://cdn.akamai.steamstatic.com/steam/apps/1730000/ss_2e7193a8d70ebfed280e78bdf4204ced103f6c52.1920x1080.jpg?t=1648975462,https://cdn.akamai.steamstatic.com/steam/apps/1730000/ss_0d7d56c3c23c3eb0e0b917aadb822cc01e66f017.1920x1080.jpg?t=1648975462,https://cdn.akamai.steamstatic.com/steam/apps/1730000/ss_cc44d1e005651f0876d634e36d5679cbc8785742.1920x1080.jpg?t=1648975462,https://cdn.akamai.steamstatic.com/steam/apps/1730000/ss_dc5264e95a55e1b3180a144a9331e6b9bcca583a.1920x1080.jpg?t=1648975462",
+    "Slug": "sqroma",
+    "Meta Title": "Sqroma: Feb 28, 2022, Woum and Full Overview",
+    "Meta Description": "Looking for information on Sqroma? Check out the release date (Feb 28, 2022), developer insights from Woum, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sqroma game - Steam 1730000",
+    "Canonical URL": "https://gusku.site/game/sqroma",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sqroma\", \"description\": \"Looking for information on Sqroma? Check out the release date (Feb 28, 2022), developer insights from Woum, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 28, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Woum\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Woum\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1730000/header.jpg?t=1648975462\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

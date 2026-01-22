@@ -1,0 +1,21 @@
+{
+    "AppID": 949630,
+    "Name": "Russian roulette",
+    "Release date": "Nov 7, 2018",
+    "About the game": "Famous gambling game with a revolver 'Russian Roulette'. This is the most extreme and dangerous gambling. The rules of the game are simple: only one bullet is inserted into the empty drum of the revolver, after which the drum turns. After that, the players in turn bring the muzzle of the revolver to their heads and pull the trigger. Check which side luck is on.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/949630/header.jpg?t=1542011318",
+    "Price": 0.99,
+    "Developers": "LAS Team",
+    "Publishers": "LAS Team",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/949630/ss_7d22be60c19740583057cec4ba50abc2865390b3.1920x1080.jpg?t=1542011318,https://cdn.akamai.steamstatic.com/steam/apps/949630/ss_e0d41e9ed1725c750612838ea1c988697cb887e8.1920x1080.jpg?t=1542011318,https://cdn.akamai.steamstatic.com/steam/apps/949630/ss_b305093cc3da47c4d728942c9608a4e9a2085d3b.1920x1080.jpg?t=1542011318,https://cdn.akamai.steamstatic.com/steam/apps/949630/ss_5c591f28bec66681164af5a325b3e53e6f374c99.1920x1080.jpg?t=1542011318,https://cdn.akamai.steamstatic.com/steam/apps/949630/ss_493d6ee176b29a805a2ae041d0fc8a63650fa98c.1920x1080.jpg?t=1542011318",
+    "Slug": "russian-roulette",
+    "Meta Title": "Russian roulette: Nov 7, 2018, LAS Team and Full Overview",
+    "Meta Description": "Looking for information on Russian roulette? Check out the release date (Nov 7, 2018), developer insights from LAS Team, and a complete game summary.",
+    "Alt Text Image": "Official header image for Russian roulette game - Steam 949630",
+    "Canonical URL": "https://gusku.site/game/russian-roulette",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Russian roulette\", \"description\": \"Looking for information on Russian roulette? Check out the release date (Nov 7, 2018), developer insights from LAS Team, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 7, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"LAS Team\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LAS Team\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/949630/header.jpg?t=1542011318\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

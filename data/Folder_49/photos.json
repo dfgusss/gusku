@@ -1,0 +1,21 @@
+{
+    "AppID": 1204560,
+    "Name": "Photos",
+    "Release date": "Dec 21, 2019",
+    "About the game": "游戏简介 游戏巧妙地将绘图和拼图两种操作结合起来，形成一种新颖的玩法，游戏里有很多可爱的猫咪，还有一些青春靓丽的美女，配上轻松愉悦的音乐，希望可以给你带来一段美好的游戏体验。 游戏玩法 拖动鼠标左键来消除可爱猫咪的图片，显示出一部分需要拼的图片，单机鼠标右键来交换需要拼的图片，完成拼图即可过关。 图片来源 游戏中的猫咪和美女图片都是从 Shutterstock 购买的。如果要用，请自行购买。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1204560/header.jpg?t=1583043960",
+    "Price": 0.0,
+    "Developers": "Photos",
+    "Publishers": "Photos",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1204560/ss_d51d621373d3d47ef2df16942ea8fbeb8db6dfbb.1920x1080.jpg?t=1583043960,https://cdn.akamai.steamstatic.com/steam/apps/1204560/ss_182d0a235085ba9c7f3be4a4804f3875e798863b.1920x1080.jpg?t=1583043960,https://cdn.akamai.steamstatic.com/steam/apps/1204560/ss_0e48d9c0550349ca9f2160eb8467f7e4328fcbaa.1920x1080.jpg?t=1583043960,https://cdn.akamai.steamstatic.com/steam/apps/1204560/ss_a45ba0ef9ae0090f18b0dbf9c204c2e2687c0bf0.1920x1080.jpg?t=1583043960,https://cdn.akamai.steamstatic.com/steam/apps/1204560/ss_9db1d50dc84e792c8e3ea6d1a83518f41f568dc3.1920x1080.jpg?t=1583043960",
+    "Slug": "photos",
+    "Meta Title": "Photos: Dec 21, 2019, Photos and Full Overview",
+    "Meta Description": "Looking for information on Photos? Check out the release date (Dec 21, 2019), developer insights from Photos, and a complete game summary.",
+    "Alt Text Image": "Official header image for Photos game - Steam 1204560",
+    "Canonical URL": "https://gusku.site/game/photos",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Photos\", \"description\": \"Looking for information on Photos? Check out the release date (Dec 21, 2019), developer insights from Photos, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 21, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Photos\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Photos\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1204560/header.jpg?t=1583043960\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

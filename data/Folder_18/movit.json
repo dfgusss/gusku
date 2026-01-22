@@ -1,0 +1,21 @@
+{
+    "AppID": 801380,
+    "Name": "MOVIT",
+    "Release date": "Mar 14, 2018",
+    "About the game": "MOVIT is a minimalistic puzzle game with a relaxing soundtrack. Discover the mechanics of each puzzle element while you slide towards victory. Much more challenging than it first appears. Get it now! Features 50+ levels which introduce new puzzle mechanics as you progress Beautiful soundtrack Use mouse or keyboard controls (or touchscreen!) Steam Achievements",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/801380/header.jpg?t=1521062152",
+    "Price": 0.99,
+    "Developers": "A.M. Bosch",
+    "Publishers": "Bosch Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/801380/ss_5692eb049552389134636faf4bc5ce9dbbe5c800.1920x1080.jpg?t=1521062152,https://cdn.akamai.steamstatic.com/steam/apps/801380/ss_d6d71790e867bba406224dc06d2e89ffd8a7ebe6.1920x1080.jpg?t=1521062152,https://cdn.akamai.steamstatic.com/steam/apps/801380/ss_6becddbe8e0c0b0e9663a2b91cc2be9d045c964a.1920x1080.jpg?t=1521062152,https://cdn.akamai.steamstatic.com/steam/apps/801380/ss_528ec180317f29e3774e73b7516e359172aae602.1920x1080.jpg?t=1521062152,https://cdn.akamai.steamstatic.com/steam/apps/801380/ss_a29055ce567454e9a54c040a1093200ca8ea6522.1920x1080.jpg?t=1521062152",
+    "Slug": "movit",
+    "Meta Title": "MOVIT: Mar 14, 2018, A.M. Bosch and Full Overview",
+    "Meta Description": "Looking for information on MOVIT? Check out the release date (Mar 14, 2018), developer insights from A.M. Bosch, and a complete game summary.",
+    "Alt Text Image": "Official header image for MOVIT game - Steam 801380",
+    "Canonical URL": "https://gusku.site/game/movit",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MOVIT\", \"description\": \"Looking for information on MOVIT? Check out the release date (Mar 14, 2018), developer insights from A.M. Bosch, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 14, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"A.M. Bosch\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bosch Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/801380/header.jpg?t=1521062152\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 588950,
+    "Name": "Kingsway",
+    "Release date": "Jul 18, 2017",
+    "About the game": "Kingsway is an RPG in which you use a mock operating system to manage your adventure. Every element of the game is a part of the operating system. Enemies and traps are popups, backpacks are the file folders where you organize your items, and quests are emails. The world of Kingsway is randomly generated every time you play, and death is permanent. Choose from various character types each with their own special skills. Discover a strange land of monsters, bandits, and other adventurers. Choose to be good or evil by choosing to help your fellow adventurers, defeating powerful monsters, or steal and murder your way to the top. Defeat enemies and plunder crypts and caves for treasure. Complete Quests for extra special treasure. Organize the interface to suit your play style.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/588950/header_alt_assets_0.jpg?t=1639769017",
+    "Price": 9.99,
+    "Developers": "Andrew Morrish",
+    "Publishers": "Adult Swim Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/588950/ss_0e3a544323f957abf6b7789223e9586c6c3f3cee.1920x1080.jpg?t=1639769017,https://cdn.akamai.steamstatic.com/steam/apps/588950/ss_99417cfe4faec4fc7d667f97b8c424e3e3b8658d.1920x1080.jpg?t=1639769017,https://cdn.akamai.steamstatic.com/steam/apps/588950/ss_49c8ecc13b4c10a14ba6d455c8839c5a0286c8d2.1920x1080.jpg?t=1639769017,https://cdn.akamai.steamstatic.com/steam/apps/588950/ss_f84cda2adf8d3178339913fc535881211206d594.1920x1080.jpg?t=1639769017,https://cdn.akamai.steamstatic.com/steam/apps/588950/ss_46363b23aaa0c821f2e9e5bb0ac2a0c966ee3392.1920x1080.jpg?t=1639769017,https://cdn.akamai.steamstatic.com/steam/apps/588950/ss_81955f1df1e5cdb1265c031df49a8038d30c6939.1920x1080.jpg?t=1639769017,https://cdn.akamai.steamstatic.com/steam/apps/588950/ss_89e780c91d60a538bc70cc2b983d596211fb21ad.1920x1080.jpg?t=1639769017",
+    "Slug": "kingsway",
+    "Meta Title": "Kingsway: Jul 18, 2017, Andrew Morrish and Full Overview",
+    "Meta Description": "Looking for information on Kingsway? Check out the release date (Jul 18, 2017), developer insights from Andrew Morrish, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kingsway game - Steam 588950",
+    "Canonical URL": "https://gusku.site/game/kingsway",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kingsway\", \"description\": \"Looking for information on Kingsway? Check out the release date (Jul 18, 2017), developer insights from Andrew Morrish, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 18, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Andrew Morrish\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Adult Swim Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/588950/header_alt_assets_0.jpg?t=1639769017\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

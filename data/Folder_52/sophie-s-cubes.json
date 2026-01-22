@@ -1,0 +1,21 @@
+{
+    "AppID": 1271840,
+    "Name": "Sophie's Cubes",
+    "Release date": "Apr 8, 2020",
+    "About the game": "Create, scramble, and solve puzzle/magic cubes. Features: Play with cubes from 2x2x2 all the way up to 30x30x30 Cubes are highly customisable; choose face colours, images*, and style your cube with variable parts, stickers, and shapes For an extra challenge, play with picture/super cubes - where the goal is to return every face to it's original orientation and position Sessions are saved between use, so if you're challenging yourself to a puzzle that is taking you a while, you can close the app and come back to it later Try to beat your best solve times with an automatic timer that starts whenever you scramble the cube - with adjustable inspection time Fully rebindable inputs allow you to set up controls for every kind of turn you might want to make Specify up to 10 algorithms that can be executed immediately as a macro * Your own image files can be loaded from a folder on your PC, just place them there and then you can use them after opening Sophie's Cubes.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1271840/header.jpg?t=1586329622",
+    "Price": 2.99,
+    "Developers": "Sophie Houlden",
+    "Publishers": "Sophie Houlden",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1271840/ss_47877601e4e2c6691df164b2048d0e72480f96fe.1920x1080.jpg?t=1586329622,https://cdn.akamai.steamstatic.com/steam/apps/1271840/ss_f030fcc0a8a4822e3b611259708580a79312b6e0.1920x1080.jpg?t=1586329622,https://cdn.akamai.steamstatic.com/steam/apps/1271840/ss_3d5077e0d1debeded426e599317305468a593c24.1920x1080.jpg?t=1586329622,https://cdn.akamai.steamstatic.com/steam/apps/1271840/ss_7c78277315ea7034712f384aac1f7a20e3638c5f.1920x1080.jpg?t=1586329622,https://cdn.akamai.steamstatic.com/steam/apps/1271840/ss_f45ba1df102e4f0a8b4232c61459a4ed9e789c0f.1920x1080.jpg?t=1586329622,https://cdn.akamai.steamstatic.com/steam/apps/1271840/ss_2d837932b1bf7d8c2a9ec5c1facdfee8a63c5652.1920x1080.jpg?t=1586329622,https://cdn.akamai.steamstatic.com/steam/apps/1271840/ss_7008c3b0a82956abbb3024c98879f3014a94ff93.1920x1080.jpg?t=1586329622,https://cdn.akamai.steamstatic.com/steam/apps/1271840/ss_b81d6fa0899ed13e6b0197c6d7b014866610b332.1920x1080.jpg?t=1586329622",
+    "Slug": "sophie-s-cubes",
+    "Meta Title": "Sophie's Cubes: Apr 8, 2020, Sophie Houlden and Full Over...",
+    "Meta Description": "Looking for information on Sophie's Cubes? Check out the release date (Apr 8, 2020), developer insights from Sophie Houlden, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sophie's Cubes game - Steam 1271840",
+    "Canonical URL": "https://gusku.site/game/sophie-s-cubes",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sophie's Cubes\", \"description\": \"Looking for information on Sophie's Cubes? Check out the release date (Apr 8, 2020), developer insights from Sophie Houlden, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 8, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sophie Houlden\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sophie Houlden\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1271840/header.jpg?t=1586329622\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

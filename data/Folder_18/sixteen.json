@@ -1,0 +1,21 @@
+{
+    "AppID": 680850,
+    "Name": "Sixteen",
+    "Release date": "Nov 22, 2021",
+    "About the game": "Sixteen is a small casual indie puzzle game similar to a vintage board-game from 1987. Organize the fruits into groups based of what type of fruit. Increased difficulty provides more fruits as well as a larger area to solve. Features Difficulty: Choose between three difficulties. Small - A 4x4 grid to get a feel for how the game works. Medium ( unlockable ) - Wider 6x4 grid that makes it a bit more interesting. Large ( unlockable ) - An 6x6 grid that can be pretty challenging. Game Modes: There a two game modes to choose from. Group - Put the same kind of fruits into groups to win the game. Sorted ( unlockable ) - Not only put the fruits in groups, also need to put them in the correct order and place. Steam Features Stats : Your progress will be saved and can be used for unlocking higher difficulties and new game modes. Achievements : Provides 15 achievements. All should be able to be obtained after a few hours of play-through. Leaderboards : Your best combination of Time and Moves on specific Game Mode and Difficulty can be uploaded and compared with others. Graphics DirectX Real-Time Ray Tracing : Improves the quality of the Shadows, Reflections and Ambient light ( Requires a compatible Graphics Card. ) Nvidia Deep Learning Super Sampling (DLSS) : Can be used to improve performance, especially when using Real-Time Ray Tracing ( Requires a compatible Graphics Card. ) High Dynamic Range (HDR) : Makes details 'pop' by adjusting the brightness and contrast (beta) ( Requires HDR compatible monitor. )",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/680850/header.jpg?t=1637627971",
+    "Price": 1.99,
+    "Developers": "Fuyu Games AB",
+    "Publishers": "Fuyu Games AB",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/680850/ss_b07a02192fcc8e2761520873df93188c7332adae.1920x1080.jpg?t=1637627971,https://cdn.akamai.steamstatic.com/steam/apps/680850/ss_e0e345dd99a1a65adcae9ab5c3421d54a475b268.1920x1080.jpg?t=1637627971,https://cdn.akamai.steamstatic.com/steam/apps/680850/ss_32d9e95eec5d17b726636c7dc6c4d62f7ffce99b.1920x1080.jpg?t=1637627971,https://cdn.akamai.steamstatic.com/steam/apps/680850/ss_5727a791c8a715fcbbfedc74e9e425d0cc4dde59.1920x1080.jpg?t=1637627971,https://cdn.akamai.steamstatic.com/steam/apps/680850/ss_bcfb9e7d0b34c697f3afd94253c28d0cc9e520e9.1920x1080.jpg?t=1637627971",
+    "Slug": "sixteen",
+    "Meta Title": "Sixteen: Nov 22, 2021, Fuyu Games AB and Full Overview",
+    "Meta Description": "Looking for information on Sixteen? Check out the release date (Nov 22, 2021), developer insights from Fuyu Games AB, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sixteen game - Steam 680850",
+    "Canonical URL": "https://gusku.site/game/sixteen",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sixteen\", \"description\": \"Looking for information on Sixteen? Check out the release date (Nov 22, 2021), developer insights from Fuyu Games AB, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 22, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fuyu Games AB\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fuyu Games AB\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/680850/header.jpg?t=1637627971\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

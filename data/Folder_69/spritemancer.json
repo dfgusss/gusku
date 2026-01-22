@@ -1,0 +1,21 @@
+{
+    "AppID": 1858750,
+    "Name": "SpriteMancer",
+    "Release date": "Jan 9, 2023",
+    "About the game": "Combine particles, fluids, images and nodes to create cool effects. SpriteMancer has an ever-increasing animation toolkit to your disposal. Use the powerful Node Graph to add effects to your creations with just a few clicks!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1858750/header.jpg?t=1673812989",
+    "Price": 21.24,
+    "Developers": "CodeManu",
+    "Publishers": "CodeManu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1858750/ss_0751e7419320ea1b9050dab84a3873e10d1b6857.1920x1080.jpg?t=1673812989,https://cdn.akamai.steamstatic.com/steam/apps/1858750/ss_0189e7b61692d93a142f65bef91161c57a4ceaf6.1920x1080.jpg?t=1673812989,https://cdn.akamai.steamstatic.com/steam/apps/1858750/ss_c6dcd0fcc926b434c68d78cccac2eb34dea9474d.1920x1080.jpg?t=1673812989,https://cdn.akamai.steamstatic.com/steam/apps/1858750/ss_2fa5e3130b31831b834a822d7caeff4384238f82.1920x1080.jpg?t=1673812989,https://cdn.akamai.steamstatic.com/steam/apps/1858750/ss_51e49f50e00598fe4cc93ef142e46bda191af0b7.1920x1080.jpg?t=1673812989",
+    "Slug": "spritemancer",
+    "Meta Title": "SpriteMancer: Jan 9, 2023, CodeManu and Full Overview",
+    "Meta Description": "Looking for information on SpriteMancer? Check out the release date (Jan 9, 2023), developer insights from CodeManu, and a complete game summary.",
+    "Alt Text Image": "Official header image for SpriteMancer game - Steam 1858750",
+    "Canonical URL": "https://gusku.site/game/spritemancer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SpriteMancer\", \"description\": \"Looking for information on SpriteMancer? Check out the release date (Jan 9, 2023), developer insights from CodeManu, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 9, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"CodeManu\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CodeManu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1858750/header.jpg?t=1673812989\", \"offers\": {\"@type\": \"Offer\", \"price\": 21.24, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

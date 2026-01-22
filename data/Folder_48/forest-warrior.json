@@ -1,0 +1,21 @@
+{
+    "AppID": 378590,
+    "Name": "Forest Warrior",
+    "Release date": "Jun 25, 2015",
+    "About the game": "Get Forest Warrior 20% off during Early Access! Forest Warrior is a game in which you will have to survive a forest full of evil monsters like zombies, birds and fire spirits. Using weapons as hatchets, guns and explosives you will have to stay alive in increasingly difficult waves. Besides weapons you are also able to use so called specials. Specials are powerups that can be activated in-game. They vary in duration and function and have a certain power level. The specials are described in the select menu before starting the game. While in-game you have four specials per run, of which three can be chosen from the select menu whereas the last one (the most powerful one) is locked. A particular type of specials are 'Allies'. Allies can be summoned to back you up while fighting the evil. Examples of allies are the Hawk and the Husky. The Hawk helps clear up birds where the Husky helps you survive evil monsters at ground level.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/378590/header.jpg?t=1529355196",
+    "Price": 3.99,
+    "Developers": "Inferno Studio",
+    "Publishers": NaN,
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/378590/ss_3b00810047377d39b62d5dd989e21e6099694fc3.1920x1080.jpg?t=1529355196,https://cdn.akamai.steamstatic.com/steam/apps/378590/ss_ab776a570dec38f6c4dd9c81046585ef25558d46.1920x1080.jpg?t=1529355196,https://cdn.akamai.steamstatic.com/steam/apps/378590/ss_845033e959793d031eabc3e93e94aa7c61dca858.1920x1080.jpg?t=1529355196,https://cdn.akamai.steamstatic.com/steam/apps/378590/ss_6149d6e2f9a8b9475c8659b9fd0e58a9a9744e2f.1920x1080.jpg?t=1529355196,https://cdn.akamai.steamstatic.com/steam/apps/378590/ss_75f5988559557a9c22ea8c2f753145dbdafd4b02.1920x1080.jpg?t=1529355196",
+    "Slug": "forest-warrior",
+    "Meta Title": "Forest Warrior: Jun 25, 2015, Inferno Studio and Full Ove...",
+    "Meta Description": "Looking for information on Forest Warrior? Check out the release date (Jun 25, 2015), developer insights from Inferno Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Forest Warrior game - Steam 378590",
+    "Canonical URL": "https://gusku.site/game/forest-warrior",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Forest Warrior\", \"description\": \"Looking for information on Forest Warrior? Check out the release date (Jun 25, 2015), developer insights from Inferno Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 25, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Inferno Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": NaN}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/378590/header.jpg?t=1529355196\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

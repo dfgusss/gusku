@@ -1,0 +1,21 @@
+{
+    "AppID": 1979480,
+    "Name": "Garbage Collect",
+    "Release date": "May 20, 2022",
+    "About the game": "Control various machinery through keyboard or mouse clicks, change the direction of garbage delivery, and transport the garbage to the garbage station. When the garbage station collects enough garbage, you can press the space on the keyboard to clear the level. You can also challenge to collect stars and sea lions, and then clear the level after completing all the collections. Type of machinery ·obstacle Change the direction of garbage movement by rotation/displacement. ·conveyor belt When activated, it can push garbage in one direction. ·sensor Activates when it touches garbage or certain objects, starting the associated machinery. Turns off when there is no contact. ·Transport box Two as a group, can be switched to input/output state. Only when one is the input port and the other is the output port will it work, transporting the garbage from the input port to the output port. ·magnet It can absorb and push away the surrounding garbage. ·Glide track Drive other machinery to move.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1979480/header.jpg?t=1653037555",
+    "Price": 1.99,
+    "Developers": "match factory",
+    "Publishers": "match factory",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1979480/ss_391571b775b80c61bfb50cae79675fc792bc109e.1920x1080.jpg?t=1653037555,https://cdn.akamai.steamstatic.com/steam/apps/1979480/ss_6ac7ef25751a356dba02febeb6439ac7bd89fe10.1920x1080.jpg?t=1653037555,https://cdn.akamai.steamstatic.com/steam/apps/1979480/ss_4ffc29edde6e07f771744b0fb8760e76c0d5bc65.1920x1080.jpg?t=1653037555,https://cdn.akamai.steamstatic.com/steam/apps/1979480/ss_86f20863d8f24651750235e953ba77078ed83b3b.1920x1080.jpg?t=1653037555,https://cdn.akamai.steamstatic.com/steam/apps/1979480/ss_be010971f1941d4303eb53721caea78315158481.1920x1080.jpg?t=1653037555,https://cdn.akamai.steamstatic.com/steam/apps/1979480/ss_f9ce02d4b6d809c7fb305ad8f81e64a5c28d5cdc.1920x1080.jpg?t=1653037555,https://cdn.akamai.steamstatic.com/steam/apps/1979480/ss_15f43c9e1b065a7bc7f8c48e4d9e5921c6e9fe26.1920x1080.jpg?t=1653037555",
+    "Slug": "garbage-collect",
+    "Meta Title": "Garbage Collect: May 20, 2022, match factory and Full Ove...",
+    "Meta Description": "Looking for information on Garbage Collect? Check out the release date (May 20, 2022), developer insights from match factory, and a complete game summary.",
+    "Alt Text Image": "Official header image for Garbage Collect game - Steam 1979480",
+    "Canonical URL": "https://gusku.site/game/garbage-collect",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Garbage Collect\", \"description\": \"Looking for information on Garbage Collect? Check out the release date (May 20, 2022), developer insights from match factory, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"match factory\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"match factory\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1979480/header.jpg?t=1653037555\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

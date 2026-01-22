@@ -1,0 +1,21 @@
+{
+    "AppID": 1276890,
+    "Name": "The Lilliputian Runner",
+    "Release date": "May 1, 2020",
+    "About the game": "The Lilliputian Runner™ is a skill-based platformer, where the player's goal is to find and destroy every lilliput character walking around the levels. Player accomplishes this by changing the player character's color to the same as the lilliput player is colliding with is. Colliding with a lilliput while not being of the same color as they are, will destroy the player character. Player's color starts on each level as grey , and will change the following way; colliding with another grey lilliput changes it to orange , then colliding with another orange lilliput changes it to blue , and colliding with another blue lilliput changes the color back to being grey . - The game offers multiple hours of fun and challenging gameplay with over 50 levels to conquer. - Many levels offer alternative routes and methods to complete them, so use your wits and skills to figure out the best way to approach each of them. - In-game checkpoints and slow motion gameplay added with update 2.0!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1276890/header.jpg?t=1640612702",
+    "Price": 0.0,
+    "Developers": "BitByteSeeker",
+    "Publishers": "BitByteSeeker",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1276890/ss_e1360590d8776cb65ad9dd8f0aba82271e548796.1920x1080.jpg?t=1640612702,https://cdn.akamai.steamstatic.com/steam/apps/1276890/ss_3807d730157928a2c8936ee3273ec5139bc69c59.1920x1080.jpg?t=1640612702,https://cdn.akamai.steamstatic.com/steam/apps/1276890/ss_67d5837d407b3fa5c524a15d37653f3bcfda048c.1920x1080.jpg?t=1640612702,https://cdn.akamai.steamstatic.com/steam/apps/1276890/ss_b9ea35622906b9445c8d6339844343c4c7a2c913.1920x1080.jpg?t=1640612702,https://cdn.akamai.steamstatic.com/steam/apps/1276890/ss_1423ab8d4ea5869dbe91efbc4a1227fbe0ab3495.1920x1080.jpg?t=1640612702,https://cdn.akamai.steamstatic.com/steam/apps/1276890/ss_5166e4c7bb4e301d1618f811a3621f61694979c7.1920x1080.jpg?t=1640612702,https://cdn.akamai.steamstatic.com/steam/apps/1276890/ss_77e0a94e8ba2c1d9e8e39cbda9cd50a096396031.1920x1080.jpg?t=1640612702,https://cdn.akamai.steamstatic.com/steam/apps/1276890/ss_d8aa433fd8374c9cdcd01054cad8e70a83452ea9.1920x1080.jpg?t=1640612702,https://cdn.akamai.steamstatic.com/steam/apps/1276890/ss_96d8c16ace13be08e578fd043ca6977de76e0b43.1920x1080.jpg?t=1640612702",
+    "Slug": "the-lilliputian-runner",
+    "Meta Title": "The Lilliputian Runner: May 1, 2020, BitByteSeeker and Fu...",
+    "Meta Description": "Looking for information on The Lilliputian Runner? Check out the release date (May 1, 2020), developer insights from BitByteSeeker, and a complete game ...",
+    "Alt Text Image": "Official header image for The Lilliputian Runner game - Steam 1276890",
+    "Canonical URL": "https://gusku.site/game/the-lilliputian-runner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Lilliputian Runner\", \"description\": \"Looking for information on The Lilliputian Runner? Check out the release date (May 1, 2020), developer insights from BitByteSeeker, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 1, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"BitByteSeeker\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"BitByteSeeker\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1276890/header.jpg?t=1640612702\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

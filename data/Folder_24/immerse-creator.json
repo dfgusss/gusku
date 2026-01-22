@@ -1,0 +1,21 @@
+{
+    "AppID": 412640,
+    "Name": "Immerse Creator",
+    "Release date": "Apr 18, 2017",
+    "About the game": "Immerse Creator is a collaborative VR environment where you can create 3D models, architectural spaces, free-form sketches, leave notes, and access a library of high quality assets. While our goal is to introduce increasingly sophisticated 3D modeling tools, Immerse Creator is initially releasing with a very simple and easy to learn 3D sketching system. We will soon be launching mulit-player mode, which will open the door to a whole new world of collaborative creativity. Subscribers to multi-player will be given a private passcode to their scene, similar to a conference call dial-in, which they can share with others they wish to join them. A non-VR 'viewer' mode will also be distributed for free, which will enable those without a VR headset to explore Immerse scenes.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/412640/header.jpg?t=1513892220",
+    "Price": 19.99,
+    "Developers": "JonBrouchoud",
+    "Publishers": "Arch Virtual, LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/412640/ss_3de874515957809fe72b3afb38627b83baf613e7.1920x1080.jpg?t=1513892220,https://cdn.akamai.steamstatic.com/steam/apps/412640/ss_3533ead18d359cc1d7900dc6e5c290a81678dea9.1920x1080.jpg?t=1513892220,https://cdn.akamai.steamstatic.com/steam/apps/412640/ss_954beaa784694c5e264c2b4e651ade2dd90386c8.1920x1080.jpg?t=1513892220,https://cdn.akamai.steamstatic.com/steam/apps/412640/ss_9a0f869836c70236342f125d2f9764247a2f821e.1920x1080.jpg?t=1513892220,https://cdn.akamai.steamstatic.com/steam/apps/412640/ss_da9135d5676f1fba924f102554f902975f0906be.1920x1080.jpg?t=1513892220",
+    "Slug": "immerse-creator",
+    "Meta Title": "Immerse Creator: Apr 18, 2017, JonBrouchoud and Full Over...",
+    "Meta Description": "Looking for information on Immerse Creator? Check out the release date (Apr 18, 2017), developer insights from JonBrouchoud, and a complete game summary.",
+    "Alt Text Image": "Official header image for Immerse Creator game - Steam 412640",
+    "Canonical URL": "https://gusku.site/game/immerse-creator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Immerse Creator\", \"description\": \"Looking for information on Immerse Creator? Check out the release date (Apr 18, 2017), developer insights from JonBrouchoud, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 18, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"JonBrouchoud\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Arch Virtual, LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/412640/header.jpg?t=1513892220\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

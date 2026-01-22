@@ -1,0 +1,21 @@
+{
+    "AppID": 1880180,
+    "Name": "Cu-Blit",
+    "Release date": "Feb 11, 2022",
+    "About the game": "Cu-Blit is a grid-based sokoban style puzzle game in a Sci-Fi city that's lost its power. Follow the journey of a small worker robot using the last of its battery to restore the robot civilization back to normal. In Cu-Blit, you play as a small worker robot running on the last of its battery, giving you limited amounts of movement per level. Control multiple robots, recharge, build pathways, and teleport your way through the run down city in hopes to reboot the system and bring back the power to the robotic civilization. Cu-Blit has 40+ levels of varying difficulty.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1880180/header.jpg?t=1644597620",
+    "Price": 1.99,
+    "Developers": "Shane Beranek",
+    "Publishers": "Shane Beranek",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1880180/ss_1042816ce1178f01948b4fa1ff538acd95c541fe.1920x1080.jpg?t=1644597620,https://cdn.akamai.steamstatic.com/steam/apps/1880180/ss_5a3d7b9ef7efeecbf9e4b82f6c3e73a687318d43.1920x1080.jpg?t=1644597620,https://cdn.akamai.steamstatic.com/steam/apps/1880180/ss_d393d7f6bc521649a23b0f9aee55005c70a52663.1920x1080.jpg?t=1644597620,https://cdn.akamai.steamstatic.com/steam/apps/1880180/ss_efcdcc962690a80178fc26e02405b71476601bd8.1920x1080.jpg?t=1644597620,https://cdn.akamai.steamstatic.com/steam/apps/1880180/ss_1be2b717d48ce3f466d7a96fbd9f4a6136195ef4.1920x1080.jpg?t=1644597620",
+    "Slug": "cu-blit",
+    "Meta Title": "Cu-Blit: Feb 11, 2022, Shane Beranek and Full Overview",
+    "Meta Description": "Looking for information on Cu-Blit? Check out the release date (Feb 11, 2022), developer insights from Shane Beranek, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cu-Blit game - Steam 1880180",
+    "Canonical URL": "https://gusku.site/game/cu-blit",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cu-Blit\", \"description\": \"Looking for information on Cu-Blit? Check out the release date (Feb 11, 2022), developer insights from Shane Beranek, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Shane Beranek\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Shane Beranek\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1880180/header.jpg?t=1644597620\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

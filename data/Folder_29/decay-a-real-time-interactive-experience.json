@@ -1,0 +1,21 @@
+{
+    "AppID": 1880250,
+    "Name": "Decay - a real time interactive experience",
+    "Release date": "Feb 7, 2022",
+    "About the game": "Decay, a real time interactive experience made in Godot Engine. Basically a technology showcase for Godot, you can watch it for a few minutes and look at the graphics and performance on your computer. A frames per second monitor is included (press Escape to open the menu) and you can also tweak the many graphics options. It includes 4 presets (Ultra, Quality, Performance, and Low Spec) and also allows you to change individual settings (for example, full screen mode or changing the render scaling, as well as visual settings like reflection and ambient occlusion). The experience features a cinematic camera that runs and loops by itself, so can be watched as a real time music video, a 3D graphics benchmark, or control the camera and fly around the environment. You can press the Space Bar to enable the camera control. The free camera control is like a spectator camera in games (with collision detection) and allows you to fly around freely and explore the environment and the graphics. Press Escape to view the options. Space to toggle cinematic camera (be sure to close the menu before flying around). WASD or Arrow keys move around. Mouse to look. Supports 3D glasses. To experience Decay in stereo 3D, you'll need red/cyan anaglyph 3D glasses. The ones from Pro-Ana or BIAL are the best quality.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1880250/header.jpg?t=1644258779",
+    "Price": 0.0,
+    "Developers": "cybereality",
+    "Publishers": "cybereality",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1880250/ss_612a1ed028ba635ac7e8b1aaaa0b8682aa905d12.1920x1080.jpg?t=1644258779,https://cdn.akamai.steamstatic.com/steam/apps/1880250/ss_c6cb87cda9aa2dd017067a295c4636cd9afc18a2.1920x1080.jpg?t=1644258779,https://cdn.akamai.steamstatic.com/steam/apps/1880250/ss_8dfa43c9d0cedad49a40ce081a461cc4fba5af2a.1920x1080.jpg?t=1644258779,https://cdn.akamai.steamstatic.com/steam/apps/1880250/ss_a097125366bdb82c9004e81324a438ead5cc569e.1920x1080.jpg?t=1644258779,https://cdn.akamai.steamstatic.com/steam/apps/1880250/ss_b70950cd99ad4a26771948d2c4a2ef67ac0469d7.1920x1080.jpg?t=1644258779,https://cdn.akamai.steamstatic.com/steam/apps/1880250/ss_3d1e3fc5f972a778d7ef660ec1ca18a71eb34cf4.1920x1080.jpg?t=1644258779,https://cdn.akamai.steamstatic.com/steam/apps/1880250/ss_e1b09e3efb7dc3bef0be8e68e525182417077e55.1920x1080.jpg?t=1644258779",
+    "Slug": "decay-a-real-time-interactive-experience",
+    "Meta Title": "Decay - a real time interactive experience: Feb 7, 2022, ...",
+    "Meta Description": "Looking for information on Decay - a real time interactive experience? Check out the release date (Feb 7, 2022), developer insights from cybereality, an...",
+    "Alt Text Image": "Official header image for Decay - a real time interactive experience game - Steam 1880250",
+    "Canonical URL": "https://gusku.site/game/decay-a-real-time-interactive-experience",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Decay - a real time interactive experience\", \"description\": \"Looking for information on Decay - a real time interactive experience? Check out the release date (Feb 7, 2022), developer insights from cybereality, an...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 7, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"cybereality\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"cybereality\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1880250/header.jpg?t=1644258779\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

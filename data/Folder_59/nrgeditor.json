@@ -1,0 +1,21 @@
+{
+    "AppID": 1787270,
+    "Name": "NRGeditor",
+    "Release date": "Oct 31, 2021",
+    "About the game": "Build From the Ground Up Develop your Hand built 3D Engine with NRG and achieve better performance than any other all-in-one solutions out there. Written in pure C our Non-Linear Programmable Core produce lightweight and lightning-fast stand-alone executable and provides two ways to code your applications, Lua or pure C/C++. Create Specialized Code NRG provides you specialized tools to gain direct access to low levels APIs and provides you a thin comprehensive abstraction layer for you to start building on. Gain some serious re-usable skills by learning how to build from scratch your state of art 2D/3D Game or Application. Custom Rendering Pipeline Use NRG to develop your very own Customized Rendering Graphics Engine tuned precisely for your project. Achieve better performance by creating your GPU renderer and GLSL shaders tailored specifically for your 2D/3D Application and optimized for your targeted platforms. True Cross Platform 3D Apps Built for rapid prototyping and to handle projects of any size, with NRG you can develop, code, build, profile and debug your Apps. on one or multiple platforms simultaneously in real-time and publish it as a native C/C++ standalone executable or as an Add-On for an external project. Visit to watch Learning Videos to get you started, gain access to Demo Projects learn how to develop games and 3D applications with the Micro Games series, build up your toolset skills with the Editor Manual start coding with the API Documentation and more!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1787270/header.jpg?t=1639635822",
+    "Price": 0.0,
+    "Developers": "nrgcore.com",
+    "Publishers": "nrgcore.com",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1787270/ss_53a5c73dc8adad4c33170adf2250e2198d8e90b3.1920x1080.jpg?t=1639635822,https://cdn.akamai.steamstatic.com/steam/apps/1787270/ss_2df419c8e373695575ec75406efdd8d5a060bb0a.1920x1080.jpg?t=1639635822,https://cdn.akamai.steamstatic.com/steam/apps/1787270/ss_b1913d8eb63ee5dc6db35c77d8550ed9fffdf17a.1920x1080.jpg?t=1639635822,https://cdn.akamai.steamstatic.com/steam/apps/1787270/ss_bf865038f306f96890b96a73d54422a84ec93ed9.1920x1080.jpg?t=1639635822,https://cdn.akamai.steamstatic.com/steam/apps/1787270/ss_c847c42a0cfb2256ec21b1a01023fa6b0d4ee509.1920x1080.jpg?t=1639635822,https://cdn.akamai.steamstatic.com/steam/apps/1787270/ss_754466a988d2beaf0e632a1191ed8f081be461ee.1920x1080.jpg?t=1639635822",
+    "Slug": "nrgeditor",
+    "Meta Title": "NRGeditor: Oct 31, 2021, nrgcore.com and Full Overview",
+    "Meta Description": "Looking for information on NRGeditor? Check out the release date (Oct 31, 2021), developer insights from nrgcore.com, and a complete game summary.",
+    "Alt Text Image": "Official header image for NRGeditor game - Steam 1787270",
+    "Canonical URL": "https://gusku.site/game/nrgeditor",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"NRGeditor\", \"description\": \"Looking for information on NRGeditor? Check out the release date (Oct 31, 2021), developer insights from nrgcore.com, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 31, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"nrgcore.com\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"nrgcore.com\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1787270/header.jpg?t=1639635822\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

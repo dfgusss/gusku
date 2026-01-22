@@ -1,0 +1,21 @@
+{
+    "AppID": 880610,
+    "Name": "Lets Beats",
+    "Release date": "Jul 23, 2018",
+    "About the game": "Lets Beats is a music based game. With easy control, anyone can enjoy it easily. Add your own music and enjoy. [Features] - Simple operation All controls are possible with just the mouse. (Mouse movement + mouse left click (red) + mouse right click (blue)) - Add your own music You can add and play any music. (Currently only 'ogg' files are supported) - Built-in level editor Edit your own music with the editor. - Record Competition in Challenge Mode The granular scoring method makes competition more interesting. (Depending on the impact strength, you get a high score, but you should pay attention to accuracy.) - Combo and Fever system The combo increases infinitely and multiplies the acquired score. - Audio Visualizer [Add New Music] 1.Create New folder in '{GameRoot}/LetsBeats/Music' 2.Put the ogg file in a same name folder (Ex 'Music/Star/Star.ogg') 3.Load The Music in Editor",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/880610/header.jpg?t=1607091702",
+    "Price": 0.99,
+    "Developers": "Starmyth",
+    "Publishers": "Starmyth",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/880610/ss_1a1dcfd524ce0d2954a400bb1616f68a2997b71b.1920x1080.jpg?t=1607091702,https://cdn.akamai.steamstatic.com/steam/apps/880610/ss_686964147a1f488dfc800bd84741fdf906511d25.1920x1080.jpg?t=1607091702,https://cdn.akamai.steamstatic.com/steam/apps/880610/ss_85a9e501913101958ffce9eef3e270c318003255.1920x1080.jpg?t=1607091702,https://cdn.akamai.steamstatic.com/steam/apps/880610/ss_ea58b1becaf8bdfc979ebe93a7228c2cd70f6d5d.1920x1080.jpg?t=1607091702,https://cdn.akamai.steamstatic.com/steam/apps/880610/ss_54fe657835cb5f47dcce6c65cb2f1815c7c0998a.1920x1080.jpg?t=1607091702,https://cdn.akamai.steamstatic.com/steam/apps/880610/ss_b4b0156c71073422a0516f1bbf14deec774849d1.1920x1080.jpg?t=1607091702",
+    "Slug": "lets-beats",
+    "Meta Title": "Lets Beats: Jul 23, 2018, Starmyth and Full Overview",
+    "Meta Description": "Looking for information on Lets Beats? Check out the release date (Jul 23, 2018), developer insights from Starmyth, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lets Beats game - Steam 880610",
+    "Canonical URL": "https://gusku.site/game/lets-beats",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lets Beats\", \"description\": \"Looking for information on Lets Beats? Check out the release date (Jul 23, 2018), developer insights from Starmyth, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 23, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Starmyth\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Starmyth\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/880610/header.jpg?t=1607091702\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

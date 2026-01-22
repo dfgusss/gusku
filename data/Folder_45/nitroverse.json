@@ -1,0 +1,21 @@
+{
+    "AppID": 1295700,
+    "Name": "Nitroverse",
+    "Release date": "Feb 11, 2022",
+    "About the game": "Explore the endless expanses of Nitroverse, collecting precious resources and trading them for valuable items to arm yourself against a variety of enemies. it's up to you how far you get. Content in current early access version 5 types of resources 3 types of NPC stations (craft items, trade resources, combine items) 4 types of items with a total number of 64 items All item effects can be combined (it can lead to extreme weapons that fill the entire screen) 8 different normal enemies 2 different elites 3 different bosses (one of them in prime version) 3 biomes Persistent level progression. Procedurally generated worlds. A run contains 15 levels, the biome changes every 5 levels and each boss of a biome is a normal but rarer enemy in the next biome. Performance optimized to handle several thousand objects (items, enemies, bosses) at once Currently natively supported mouse and keyboard input Tips It is normal that you will lose runs. After each run you'll get experience that will let you level up. With each level you'll get skill points that can be distributed to different attributes, making it increasingly easier to reach the more difficult biomes. If you are low on health, don't try to distract the enemies by flying away, because this can quickly lead to a huge swarm of enemies coming after you. It's better to dodge the projectiles. You should invest your resources in crafting stations as soon as possible to get items, they will make you much stronger. you should also equip them (C to open the inventory).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1295700/header.jpg?t=1645388248",
+    "Price": 4.99,
+    "Developers": "TheNilusss",
+    "Publishers": "TheNilusss",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1295700/ss_53d29dc1e73f4a523f80d6884479b5873ffd6a64.1920x1080.jpg?t=1645388248,https://cdn.akamai.steamstatic.com/steam/apps/1295700/ss_2a5331ce83b09a39390d60496333180d0f58a68e.1920x1080.jpg?t=1645388248,https://cdn.akamai.steamstatic.com/steam/apps/1295700/ss_f9e2c0462473dfc0009795825c01806e3718df06.1920x1080.jpg?t=1645388248,https://cdn.akamai.steamstatic.com/steam/apps/1295700/ss_309381a41b5d52a6debdca31f8eb5b0c6de6b99b.1920x1080.jpg?t=1645388248,https://cdn.akamai.steamstatic.com/steam/apps/1295700/ss_13740af2f6707ba792e5c64237c16f900e654d58.1920x1080.jpg?t=1645388248,https://cdn.akamai.steamstatic.com/steam/apps/1295700/ss_9264c789d74484efc95aa73d2660983d9918e7c0.1920x1080.jpg?t=1645388248,https://cdn.akamai.steamstatic.com/steam/apps/1295700/ss_5cc9a8ee9fd87beb260f48b5c4c90e75c062f0c4.1920x1080.jpg?t=1645388248,https://cdn.akamai.steamstatic.com/steam/apps/1295700/ss_3669414dfea30a9cfa0614d8d899c75b5ca0a93f.1920x1080.jpg?t=1645388248",
+    "Slug": "nitroverse",
+    "Meta Title": "Nitroverse: Feb 11, 2022, TheNilusss and Full Overview",
+    "Meta Description": "Looking for information on Nitroverse? Check out the release date (Feb 11, 2022), developer insights from TheNilusss, and a complete game summary.",
+    "Alt Text Image": "Official header image for Nitroverse game - Steam 1295700",
+    "Canonical URL": "https://gusku.site/game/nitroverse",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nitroverse\", \"description\": \"Looking for information on Nitroverse? Check out the release date (Feb 11, 2022), developer insights from TheNilusss, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"TheNilusss\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TheNilusss\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1295700/header.jpg?t=1645388248\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

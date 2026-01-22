@@ -1,0 +1,21 @@
+{
+    "AppID": 1043250,
+    "Name": "StreamPad",
+    "Release date": "Apr 24, 2019",
+    "About the game": "Under Construction StreamPad is in its beginning stages. A lot of hardwork and dedication is being put into it, as of right now it’s basic functions are working. Because of the nature of StreamPad, we have decided to release it under Steam’s Early Access program. This will allow users to use StreamPad and give any feedback on what could potentially make the application better. With dedication, diligence and some support, we’ll be able to create an application that can keep evolving to a point where Streamer’s can use it as a reliable tool in their streams. Streaming Focus This application works similar to a real soundpad or soundboard. The sounds will come out through your desktop, which allows you to hear them and transmit them on your stream in the spot. Masterboard If you are using a controller to play your video game while streaming, or you are broadcasting a podcast, you can use the MasterBoard to have access to more sound files on screen. Create You can record and trim your own clips through the creation tool.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1043250/header.jpg?t=1603940903",
+    "Price": 3.99,
+    "Developers": "StreamPad Dev",
+    "Publishers": "StreamPad Dev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1043250/ss_20add4452ffdfe9d0906e64edb033872fb5d02be.1920x1080.jpg?t=1603940903,https://cdn.akamai.steamstatic.com/steam/apps/1043250/ss_60dfef4feeef8eeee3d23cd23e56ec74f98cdb1f.1920x1080.jpg?t=1603940903,https://cdn.akamai.steamstatic.com/steam/apps/1043250/ss_140f2ea168e1dd4e1b4ce10d013e1adf5d707e5d.1920x1080.jpg?t=1603940903,https://cdn.akamai.steamstatic.com/steam/apps/1043250/ss_ecacf66cd41d053a78a3552288e1355804729bc8.1920x1080.jpg?t=1603940903,https://cdn.akamai.steamstatic.com/steam/apps/1043250/ss_72cc4979dcb25029b101e0f3315ae132ca634aec.1920x1080.jpg?t=1603940903",
+    "Slug": "streampad",
+    "Meta Title": "StreamPad: Apr 24, 2019, StreamPad Dev and Full Overview",
+    "Meta Description": "Looking for information on StreamPad? Check out the release date (Apr 24, 2019), developer insights from StreamPad Dev, and a complete game summary.",
+    "Alt Text Image": "Official header image for StreamPad game - Steam 1043250",
+    "Canonical URL": "https://gusku.site/game/streampad",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"StreamPad\", \"description\": \"Looking for information on StreamPad? Check out the release date (Apr 24, 2019), developer insights from StreamPad Dev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 24, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"StreamPad Dev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"StreamPad Dev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1043250/header.jpg?t=1603940903\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

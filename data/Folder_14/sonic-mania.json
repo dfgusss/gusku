@@ -1,0 +1,21 @@
+{
+    "AppID": 584400,
+    "Name": "Sonic Mania",
+    "Release date": "Aug 29, 2017",
+    "About the game": NaN,
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/584400/header.jpg?t=1642416672",
+    "Price": 19.99,
+    "Developers": "Christian Whitehead,Headcannon,PagodaWest Games",
+    "Publishers": "SEGA",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/584400/ss_27efb8f61892a9bd732952c76dae9dd7ad1b6748.1920x1080.jpg?t=1642416672,https://cdn.akamai.steamstatic.com/steam/apps/584400/ss_93ee106db863c16e00989ad9d51bcbea4af91ab0.1920x1080.jpg?t=1642416672,https://cdn.akamai.steamstatic.com/steam/apps/584400/ss_72b7374ba1d4978c2b5e7c74c2e56aecc33b0d3c.1920x1080.jpg?t=1642416672,https://cdn.akamai.steamstatic.com/steam/apps/584400/ss_5168ae3cd4e0ccac9808325242ccb2e6760ee2f0.1920x1080.jpg?t=1642416672,https://cdn.akamai.steamstatic.com/steam/apps/584400/ss_1e19c5bd7aaada51a7811f8468f5fb71cf42f3f7.1920x1080.jpg?t=1642416672",
+    "Slug": "sonic-mania",
+    "Meta Title": "Sonic Mania: Aug 29, 2017, Christian Whitehead,Headcannon...",
+    "Meta Description": "Looking for information on Sonic Mania? Check out the release date (Aug 29, 2017), developer insights from Christian Whitehead,Headcannon,PagodaWest Gam...",
+    "Alt Text Image": "Official header image for Sonic Mania game - Steam 584400",
+    "Canonical URL": "https://gusku.site/game/sonic-mania",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sonic Mania\", \"description\": \"Looking for information on Sonic Mania? Check out the release date (Aug 29, 2017), developer insights from Christian Whitehead,Headcannon,PagodaWest Gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 29, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Christian Whitehead,Headcannon,PagodaWest Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SEGA\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/584400/header.jpg?t=1642416672\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1039110,
+    "Name": "Ikarus",
+    "Release date": "Jul 12, 2019",
+    "About the game": "Ikarus is a tool for creating and building your own world. Unlike other world-building tools however, it provides you with a completely customisable experience with near infinite possibilities for the way you structure your data. For any further information you can check out our website on the sidebar. We're a team of two, with the support of some friends - it's a passion project of mine and I'm creating this not only for others, but for myself as well. The project is in a very early stage, and only the fundamental features are implemented. As for where we are, and where we want to go, Ikarus includes a roadmap which shows the end goal we're trying to achieve! Have you got any questions, suggestions or just want to chat to other people using Ikarus to share your experience, or perhaps talk a bit with the devs? Come find this and more on our Discord!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1039110/header.jpg?t=1581621396",
+    "Price": 0.0,
+    "Developers": "moonblast",
+    "Publishers": "moonblast",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1039110/ss_3c4737b282cdd0753e766389c89f10662eb41d25.1920x1080.jpg?t=1581621396,https://cdn.akamai.steamstatic.com/steam/apps/1039110/ss_e0c78a6b740090c77effe9e6fa9a1dcaca2fee3f.1920x1080.jpg?t=1581621396,https://cdn.akamai.steamstatic.com/steam/apps/1039110/ss_cc22013a4126a68b153548ae2ef8ed36de7c053b.1920x1080.jpg?t=1581621396,https://cdn.akamai.steamstatic.com/steam/apps/1039110/ss_076ee3662b052faed80274b239e1c84ff0a6bf68.1920x1080.jpg?t=1581621396",
+    "Slug": "ikarus",
+    "Meta Title": "Ikarus: Jul 12, 2019, moonblast and Full Overview",
+    "Meta Description": "Looking for information on Ikarus? Check out the release date (Jul 12, 2019), developer insights from moonblast, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ikarus game - Steam 1039110",
+    "Canonical URL": "https://gusku.site/game/ikarus",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ikarus\", \"description\": \"Looking for information on Ikarus? Check out the release date (Jul 12, 2019), developer insights from moonblast, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 12, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"moonblast\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"moonblast\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1039110/header.jpg?t=1581621396\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

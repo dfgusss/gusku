@@ -1,0 +1,21 @@
+{
+    "AppID": 1315900,
+    "Name": "3d Maze In Space",
+    "Release date": "May 28, 2020",
+    "About the game": "'3d Maze In Space' is a 3d labyrinth with procedurally generated levels. The levels themselves are islands connected by vertical and horizontal lintels. After the level is generated, the player and the exit portal are placed in it, which must be reached in order to pass the level. The game has 2 modes: a small storyline and a custom game. In the plot, the character wakes up in an incomprehensible place and gradually remembers what happened, while building his assumptions about where he got into. In a user game, the player sets the level of complexity and can set, or use the ready-made seed for generation. The complexity of the levels of the user game can be much higher than the plot levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1315900/header.jpg?t=1590703463",
+    "Price": 0.99,
+    "Developers": "Ivan Pichugin",
+    "Publishers": "Ivan Pichugin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1315900/ss_34303db25e2f93767b15923e32ee8a3af458908d.1920x1080.jpg?t=1590703463,https://cdn.akamai.steamstatic.com/steam/apps/1315900/ss_793eb4b30becbf35eec4462b17e8f72e0b5b29d5.1920x1080.jpg?t=1590703463,https://cdn.akamai.steamstatic.com/steam/apps/1315900/ss_667d50f942d094f9df43c2771023107b197efaa9.1920x1080.jpg?t=1590703463,https://cdn.akamai.steamstatic.com/steam/apps/1315900/ss_b122a99c3c6278cf81d66a02e7c61a055021b466.1920x1080.jpg?t=1590703463,https://cdn.akamai.steamstatic.com/steam/apps/1315900/ss_5ad0499a755028a72a3aedfef246046a29ff8f3a.1920x1080.jpg?t=1590703463",
+    "Slug": "3d-maze-in-space",
+    "Meta Title": "3d Maze In Space: May 28, 2020, Ivan Pichugin and Full Ov...",
+    "Meta Description": "Looking for information on 3d Maze In Space? Check out the release date (May 28, 2020), developer insights from Ivan Pichugin, and a complete game summary.",
+    "Alt Text Image": "Official header image for 3d Maze In Space game - Steam 1315900",
+    "Canonical URL": "https://gusku.site/game/3d-maze-in-space",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"3d Maze In Space\", \"description\": \"Looking for information on 3d Maze In Space? Check out the release date (May 28, 2020), developer insights from Ivan Pichugin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 28, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ivan Pichugin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ivan Pichugin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1315900/header.jpg?t=1590703463\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

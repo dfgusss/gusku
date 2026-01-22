@@ -1,0 +1,21 @@
+{
+    "AppID": 1023960,
+    "Name": "Easter!",
+    "Release date": "Feb 13, 2019",
+    "About the game": "Game 'Easter!' This is a small world in which you can stroll. An unusual adventure awaits you in this small, wonderful world. In this game you can * Explore the open world * relax and enjoy the gameplay * Feel yourself an explorer",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1023960/header.jpg?t=1550166616",
+    "Price": 0.99,
+    "Developers": "FG",
+    "Publishers": "FG",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1023960/ss_30a0d2e66c842e6915974986e04aa1275184351d.1920x1080.jpg?t=1550166616,https://cdn.akamai.steamstatic.com/steam/apps/1023960/ss_5554d6dcb7c3fe2ad19d899703c54cefc7e1e19c.1920x1080.jpg?t=1550166616,https://cdn.akamai.steamstatic.com/steam/apps/1023960/ss_356edbe16e519e3aa9c271349b38abf238a7d88d.1920x1080.jpg?t=1550166616,https://cdn.akamai.steamstatic.com/steam/apps/1023960/ss_ec1d6fed4bcc22c48937ad87b4fa742cdca0e958.1920x1080.jpg?t=1550166616,https://cdn.akamai.steamstatic.com/steam/apps/1023960/ss_1a30dfce375c89d6d9a3022564e485e3597a0400.1920x1080.jpg?t=1550166616",
+    "Slug": "easter",
+    "Meta Title": "Easter!: Feb 13, 2019, FG and Full Overview",
+    "Meta Description": "Looking for information on Easter!? Check out the release date (Feb 13, 2019), developer insights from FG, and a complete game summary.",
+    "Alt Text Image": "Official header image for Easter! game - Steam 1023960",
+    "Canonical URL": "https://gusku.site/game/easter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Easter!\", \"description\": \"Looking for information on Easter!? Check out the release date (Feb 13, 2019), developer insights from FG, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 13, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"FG\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"FG\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1023960/header.jpg?t=1550166616\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

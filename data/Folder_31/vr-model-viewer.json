@@ -1,0 +1,21 @@
+{
+    "AppID": 891420,
+    "Name": "VR Model Viewer",
+    "Release date": "Aug 5, 2020",
+    "About the game": "VR Model Viewer allows you to import a variety of model formats for viewing in VR. Supported formats: - OBJ, 3DS, FBX, STL, DXF, DAE, X3D, Blend, GLTF, PLY, 3MF Once imported you can rotate/scale the model, pick it up and examine it close up in VR, and create custom layouts for displaying your models for later use. Curate your 3D model collection and show off your work! The following headsets are officially supported: - Valve Index - HTC Vive - Oculus Rift CV1 - WMR (Lenovo Explorer) Quest and Cosmos are not supported at this time.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/891420/header.jpg?t=1623097692",
+    "Price": 2.99,
+    "Developers": "MindRend Technologies",
+    "Publishers": "MindRend Technologies",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_59114285ec1088455c4c12d65753d98f057a798c.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_e8951ac81dedb879841673f28d4de45b2b270a83.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_f33fd5450a4f1e3589abe8fc95b432fd676c3f66.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_626fb3db9479b9f1693194d53243cff2130f8c35.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_b681e52c0a757e04a4645d949d48f930d3a54c2f.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_a352a8fd5f1e6159ab830e39630b8c3df0ce56bd.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_0a5f31ff6bbd0f34c6bab0df5c4aec3a7133e1b9.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_36f5343f44d725674142070c791461dd68caf534.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_9252e9d2ba45e206488f24aa6b65a34f4e7c9d40.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_4fbad00c87582279ac1941eba9488b70077aea8c.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_1afcdf5885c3318894830ce4fefbcad89c1b0de0.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_8ab68c892f551b94dd86eb929e320fe59232cb09.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_19c07ab60934b2fb57a6cfb764f4f8a1486591e4.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_ca81d3cb17bd3e0371d03e00a7e82f744903b300.1920x1080.jpg?t=1623097692,https://cdn.akamai.steamstatic.com/steam/apps/891420/ss_5eb40780c5d050e6d757fe6f9d70c214fd92a959.1920x1080.jpg?t=1623097692",
+    "Slug": "vr-model-viewer",
+    "Meta Title": "VR Model Viewer: Aug 5, 2020, MindRend Technologies and F...",
+    "Meta Description": "Looking for information on VR Model Viewer? Check out the release date (Aug 5, 2020), developer insights from MindRend Technologies, and a complete game...",
+    "Alt Text Image": "Official header image for VR Model Viewer game - Steam 891420",
+    "Canonical URL": "https://gusku.site/game/vr-model-viewer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VR Model Viewer\", \"description\": \"Looking for information on VR Model Viewer? Check out the release date (Aug 5, 2020), developer insights from MindRend Technologies, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 5, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"MindRend Technologies\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MindRend Technologies\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/891420/header.jpg?t=1623097692\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

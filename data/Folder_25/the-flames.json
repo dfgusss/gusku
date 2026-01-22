@@ -1,0 +1,21 @@
+{
+    "AppID": 1968140,
+    "Name": "The Flames",
+    "Release date": "May 25, 2022",
+    "About the game": "The Flames is a top down shooter where you fight a powerful boss called Hodaya and help save the Wisp the leader of the planet. Game features: - Running - shooting - multiple different weapons - boss fight - multiple waves with increasing difficulty - multiple enemy types with different skills My name is Paxton and I'm 10. I've been learning C# and have been making games for over a year and this is the first game I've decided to publish. Please enjoy :)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1968140/header.jpg?t=1653509625",
+    "Price": 0.99,
+    "Developers": "Pax Breslaw,Sergee",
+    "Publishers": "Pax Breslaw,Sergee",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1968140/ss_23f29b6b19ee5673cca03ce0a5b600fcaf524fee.1920x1080.jpg?t=1653509625,https://cdn.akamai.steamstatic.com/steam/apps/1968140/ss_54077f62e4548e47605db6c206f3d29c1605385f.1920x1080.jpg?t=1653509625,https://cdn.akamai.steamstatic.com/steam/apps/1968140/ss_ee75dd85bf703ed78f7fd74bd6362cb7415ddb5b.1920x1080.jpg?t=1653509625,https://cdn.akamai.steamstatic.com/steam/apps/1968140/ss_e77c5fb7da75bd49fac3b91edfb651d52a1da20a.1920x1080.jpg?t=1653509625,https://cdn.akamai.steamstatic.com/steam/apps/1968140/ss_bf80dfebc827b2e6529bf6f8c958268755691807.1920x1080.jpg?t=1653509625",
+    "Slug": "the-flames",
+    "Meta Title": "The Flames: May 25, 2022, Pax Breslaw,Sergee and Full Ove...",
+    "Meta Description": "Looking for information on The Flames? Check out the release date (May 25, 2022), developer insights from Pax Breslaw,Sergee, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Flames game - Steam 1968140",
+    "Canonical URL": "https://gusku.site/game/the-flames",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Flames\", \"description\": \"Looking for information on The Flames? Check out the release date (May 25, 2022), developer insights from Pax Breslaw,Sergee, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 25, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pax Breslaw,Sergee\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pax Breslaw,Sergee\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1968140/header.jpg?t=1653509625\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1562150,
+    "Name": "Hive P v. S",
+    "Release date": "Feb 21, 2022",
+    "About the game": "Hive P v. S is an arcade game where you fly around in a spaceship collecting stars. As you collect a star an entity from subspace appears and starts to chase the ship. As you keep on collecting stars, more entities appear and follows the first entity, creating a longer and longer tail that upon collision with the ship will destroy it. Goal of the game is to avoid the tail for as long as possible while collecting stars. Scattered around the universe, you'll find power-ups that can be used to your advantage. Some can destroy the entities chasing the ship, doing so creates more stars and gives bonus points.                Features Easy controls. Play using mouse, gamepad or touch controls. 10 Different Types Of Power-ups. 10 levels that adds difficulty, power-ups and enemy behaviors. 10 additional levels of increased difficulty and a game that ends when your endurance runs out. Global high score list. Know issues Steam in-game overlay does not work on Linux &amp; Mac.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1562150/header.jpg?t=1648734238",
+    "Price": 2.99,
+    "Developers": "Spelmakare Jens Nilsson AB",
+    "Publishers": "Spelmakare Jens Nilsson AB",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1562150/ss_4fee3167363e46453e1b939a2faa45c8fae46556.1920x1080.jpg?t=1648734238,https://cdn.akamai.steamstatic.com/steam/apps/1562150/ss_873d417be18fd44c983babad17fcf3ea5a8c1b02.1920x1080.jpg?t=1648734238,https://cdn.akamai.steamstatic.com/steam/apps/1562150/ss_dd36bda322b8a8e4222dd3b290ae7e398369b0c6.1920x1080.jpg?t=1648734238,https://cdn.akamai.steamstatic.com/steam/apps/1562150/ss_a54bebfb5db95ae2e4ee644ff193f24a933d8415.1920x1080.jpg?t=1648734238,https://cdn.akamai.steamstatic.com/steam/apps/1562150/ss_870133328d4d8aaf56f40b3afb06d0575f2a3ec7.1920x1080.jpg?t=1648734238",
+    "Slug": "hive-p-v-s",
+    "Meta Title": "Hive P v. S: Feb 21, 2022, Spelmakare Jens Nilsson AB and...",
+    "Meta Description": "Looking for information on Hive P v. S? Check out the release date (Feb 21, 2022), developer insights from Spelmakare Jens Nilsson AB, and a complete ga...",
+    "Alt Text Image": "Official header image for Hive P v. S game - Steam 1562150",
+    "Canonical URL": "https://gusku.site/game/hive-p-v-s",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hive P v. S\", \"description\": \"Looking for information on Hive P v. S? Check out the release date (Feb 21, 2022), developer insights from Spelmakare Jens Nilsson AB, and a complete ga...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Spelmakare Jens Nilsson AB\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Spelmakare Jens Nilsson AB\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1562150/header.jpg?t=1648734238\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

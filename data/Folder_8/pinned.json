@@ -1,0 +1,21 @@
+{
+    "AppID": 1568050,
+    "Name": "Pinned",
+    "Release date": "Mar 20, 2021",
+    "About the game": "PINNED is a simple but powerful tool that promotes an essential feature: The ability to pin any window you like, which allows the window to remain on top. After the major update, PINNED can also turn any window into an overlay, and you can adjust the overlay's transparency to your liking. With this tool, a user who has only got one monitor can perform most of the tasks requiring two. Imagine being in a video meeting, and you want to do something else without the need to keep alt-tabbing between the video call app and whatever you're working on; PINNED can help you keep the video call app on top, and now you can freely work on anything you like while having a video call 'overlay'. Another example would be watching a video on full screen, and at the same time, you want to do your work with any text editor. A way to do this is to work in split-screen mode, but we all know that it compromises video size! Here's where Pinned comes in place; with one click, you can make the text editor stays on top, so you'll be able to keep working and enjoy watching the video on full screen. Furthermore, you can pause/play/mute/unmute the video without switching between tabs. Pinned can: Pin any browser on top (Chrome, Edge, Firefox etc) Pin any communication app on top (Discord, Zoom, Teams etc) Pin any text editor on top (Word, Wordpad etc) Pin any ide on top (Visual Studio Code, Intelij etc) Pin any tools on top (Paint, Blender, Calculator) Pin anything on top!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1568050/header.jpg?t=1621654458",
+    "Price": 1.99,
+    "Developers": "Lazy As Studio",
+    "Publishers": "Lazy As Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1568050/ss_639a37e61e752cb854e8213b7411a40c571fc785.1920x1080.jpg?t=1621654458,https://cdn.akamai.steamstatic.com/steam/apps/1568050/ss_b6747c74ad3edfde85cf7b764469f7675a77b3d1.1920x1080.jpg?t=1621654458,https://cdn.akamai.steamstatic.com/steam/apps/1568050/ss_93f0cc2cc961b932321aea9d0517a4f66544bcee.1920x1080.jpg?t=1621654458,https://cdn.akamai.steamstatic.com/steam/apps/1568050/ss_838b4d5a31b35dbefa684b48b8845444d836e3fb.1920x1080.jpg?t=1621654458,https://cdn.akamai.steamstatic.com/steam/apps/1568050/ss_2b6bf8d9430ab8589caf8482b11a0a41445a2c2d.1920x1080.jpg?t=1621654458,https://cdn.akamai.steamstatic.com/steam/apps/1568050/ss_2c143ac224d1b92ffd44a2d4826f51bc2934d58b.1920x1080.jpg?t=1621654458",
+    "Slug": "pinned",
+    "Meta Title": "Pinned: Mar 20, 2021, Lazy As Studio and Full Overview",
+    "Meta Description": "Looking for information on Pinned? Check out the release date (Mar 20, 2021), developer insights from Lazy As Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pinned game - Steam 1568050",
+    "Canonical URL": "https://gusku.site/game/pinned",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pinned\", \"description\": \"Looking for information on Pinned? Check out the release date (Mar 20, 2021), developer insights from Lazy As Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 20, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lazy As Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Lazy As Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1568050/header.jpg?t=1621654458\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

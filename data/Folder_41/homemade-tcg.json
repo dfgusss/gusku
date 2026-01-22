@@ -1,0 +1,21 @@
+{
+    "AppID": 1964590,
+    "Name": "Homemade TCG",
+    "Release date": "Jul 15, 2022",
+    "About the game": "Gameplay Reduce opponent's life from 20 to 0 to win; by playing cards and attacking. 5-card starting hand. Draw a new card each turn. (The player going first doesn't draw during their first turn.) You can play 1 card from your hand each turn. (Play more cards using card effects.) Each card can attack once each turn. (NO summoning sickness.) If opponent has any card(s) on the field, you have to attack 1 of them. When an enemy is attacked, it dies. When there is no enemies, your attack becomes a direct attack. Direct attack makes your opponent lose life equal to your card's power. All cards have a default power of 1 unless overwritten by card effects. Game ends when a player runs out of life, or draws / mills a card when they have none left in their deck. Roguelike This game is a roguelike. After losing a game, you lose all progress and have to start all-over. There is no progression system between runs, rather all cards are available from downloading the game. At the start of a run, you pick 4 cards of 3-choices-each to form your starting deck. 2 new cards can be picked after each win. Each run has 5 floors, and the final boss. Good luck, and let's have fun playing cards! –Eero Laine, Horrid Parlor",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1964590/header.jpg?t=1658707394",
+    "Price": 0.0,
+    "Developers": "Eero Laine",
+    "Publishers": "Horrid Parlor",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1964590/ss_7a40eb63c2e5f8af1fe8c6fa7660ab1d2c9fb1b4.1920x1080.jpg?t=1658707394,https://cdn.akamai.steamstatic.com/steam/apps/1964590/ss_df01e287416ede691cb72f430a16630cb976885d.1920x1080.jpg?t=1658707394,https://cdn.akamai.steamstatic.com/steam/apps/1964590/ss_f27fb37c9c2ab361fa8799fd8edc7b497207700c.1920x1080.jpg?t=1658707394,https://cdn.akamai.steamstatic.com/steam/apps/1964590/ss_8b427970acc74fa66959152896954e96bbc67512.1920x1080.jpg?t=1658707394,https://cdn.akamai.steamstatic.com/steam/apps/1964590/ss_755f524672bb2d8ab02409dde784678f923514bd.1920x1080.jpg?t=1658707394,https://cdn.akamai.steamstatic.com/steam/apps/1964590/ss_ab60e9ad9cad12f99958f1027e1d871bb1b622db.1920x1080.jpg?t=1658707394,https://cdn.akamai.steamstatic.com/steam/apps/1964590/ss_e27ed6e70047c097826492ca44a51143c4135413.1920x1080.jpg?t=1658707394",
+    "Slug": "homemade-tcg",
+    "Meta Title": "Homemade TCG: Jul 15, 2022, Eero Laine and Full Overview",
+    "Meta Description": "Looking for information on Homemade TCG? Check out the release date (Jul 15, 2022), developer insights from Eero Laine, and a complete game summary.",
+    "Alt Text Image": "Official header image for Homemade TCG game - Steam 1964590",
+    "Canonical URL": "https://gusku.site/game/homemade-tcg",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Homemade TCG\", \"description\": \"Looking for information on Homemade TCG? Check out the release date (Jul 15, 2022), developer insights from Eero Laine, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 15, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eero Laine\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Horrid Parlor\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1964590/header.jpg?t=1658707394\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

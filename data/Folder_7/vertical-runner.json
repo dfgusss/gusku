@@ -1,0 +1,21 @@
+{
+    "AppID": 1291740,
+    "Name": "Vertical Runner",
+    "Release date": "May 7, 2020",
+    "About the game": "Dodge the walls by moving up and down as the game speeds up and get the highest score! The longer you survive the more points you get, but beware as obstacles speed up too! Vertical Runner is an infinite runner game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1291740/header.jpg?t=1588909598",
+    "Price": 0.99,
+    "Developers": "Barlow Studio",
+    "Publishers": "Barlow Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1291740/ss_2864949fdb4d89845c8966209bae4772d382d9fe.1920x1080.jpg?t=1588909598,https://cdn.akamai.steamstatic.com/steam/apps/1291740/ss_064678815df13029cfb02cdc802e0f43afc2f24b.1920x1080.jpg?t=1588909598,https://cdn.akamai.steamstatic.com/steam/apps/1291740/ss_893419b432cf2dcca4891a3425209ee61e3e9fbc.1920x1080.jpg?t=1588909598,https://cdn.akamai.steamstatic.com/steam/apps/1291740/ss_4baebfc59bf80dc11bc5b81edea5ab8ae3299cd2.1920x1080.jpg?t=1588909598,https://cdn.akamai.steamstatic.com/steam/apps/1291740/ss_53090e8b01f3b9c17209e5f614ea874c74c3c3d6.1920x1080.jpg?t=1588909598",
+    "Slug": "vertical-runner",
+    "Meta Title": "Vertical Runner: May 7, 2020, Barlow Studio and Full Over...",
+    "Meta Description": "Looking for information on Vertical Runner? Check out the release date (May 7, 2020), developer insights from Barlow Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Vertical Runner game - Steam 1291740",
+    "Canonical URL": "https://gusku.site/game/vertical-runner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Vertical Runner\", \"description\": \"Looking for information on Vertical Runner? Check out the release date (May 7, 2020), developer insights from Barlow Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 7, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Barlow Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Barlow Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1291740/header.jpg?t=1588909598\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

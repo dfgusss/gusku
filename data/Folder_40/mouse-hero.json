@@ -1,0 +1,21 @@
+{
+    "AppID": 1495280,
+    "Name": "Mouse Hero",
+    "Release date": "Dec 30, 2020",
+    "About the game": "Simple and meditative game, use only the mouse! The goal of the game is to reach the exit without touching any obstacles. Many levels with increasing difficulty await you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1495280/header.jpg?t=1609676927",
+    "Price": 0.99,
+    "Developers": "Denis Rudoy",
+    "Publishers": "Denis Rudoy",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1495280/ss_271109f196cc99dcd28cac0fe0961ee334b41002.1920x1080.jpg?t=1609676927,https://cdn.akamai.steamstatic.com/steam/apps/1495280/ss_1750ca6999ffc0df53db8e4bedf64182b703bddd.1920x1080.jpg?t=1609676927,https://cdn.akamai.steamstatic.com/steam/apps/1495280/ss_5724e7f81e2ea27937a6d6c5d1f188be5c04ad76.1920x1080.jpg?t=1609676927,https://cdn.akamai.steamstatic.com/steam/apps/1495280/ss_9b2d3c7e83c5ab5da4b5d90a49e4369d3965df07.1920x1080.jpg?t=1609676927,https://cdn.akamai.steamstatic.com/steam/apps/1495280/ss_a72aae5a1469f5cf0aa445c726e3cb5eaf65b829.1920x1080.jpg?t=1609676927",
+    "Slug": "mouse-hero",
+    "Meta Title": "Mouse Hero: Dec 30, 2020, Denis Rudoy and Full Overview",
+    "Meta Description": "Looking for information on Mouse Hero? Check out the release date (Dec 30, 2020), developer insights from Denis Rudoy, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mouse Hero game - Steam 1495280",
+    "Canonical URL": "https://gusku.site/game/mouse-hero",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mouse Hero\", \"description\": \"Looking for information on Mouse Hero? Check out the release date (Dec 30, 2020), developer insights from Denis Rudoy, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 30, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Denis Rudoy\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Denis Rudoy\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1495280/header.jpg?t=1609676927\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

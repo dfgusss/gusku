@@ -1,0 +1,21 @@
+{
+    "AppID": 961110,
+    "Name": "Prixel",
+    "Release date": "Nov 1, 2018",
+    "About the game": "Prixel is an old-school pixel style 2d platformer. It's designed with speed-running in mind, but everyone can enjoy it. Complete the level as fast as possible and you will get a reward. Every level has at least one hidden route for the best time. To find them all is a challenge on it's own. Enemies found in dungeons will try to impede your way and kill you with a single strike. Be careful!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/961110/header.jpg?t=1541059797",
+    "Price": 0.99,
+    "Developers": "Grytis",
+    "Publishers": "Indie",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/961110/ss_36bfb2f91abc3c77a7a36cda79e4eb9dfebb7554.1920x1080.jpg?t=1541059797,https://cdn.akamai.steamstatic.com/steam/apps/961110/ss_a66fc558ca896c7a213ed5e43d0648694ebb5ca8.1920x1080.jpg?t=1541059797,https://cdn.akamai.steamstatic.com/steam/apps/961110/ss_3005f0bac53162e31690fd2b5092e3a1f1bd9bf0.1920x1080.jpg?t=1541059797,https://cdn.akamai.steamstatic.com/steam/apps/961110/ss_0af52428d8969778de5a0452318a500d4930fa69.1920x1080.jpg?t=1541059797,https://cdn.akamai.steamstatic.com/steam/apps/961110/ss_7082078fea99e7b84bdb618f4a299753b4217c0f.1920x1080.jpg?t=1541059797,https://cdn.akamai.steamstatic.com/steam/apps/961110/ss_1e6e226010c42ef20e5247f1242339c22516e10d.1920x1080.jpg?t=1541059797",
+    "Slug": "prixel",
+    "Meta Title": "Prixel: Nov 1, 2018, Grytis and Full Overview",
+    "Meta Description": "Looking for information on Prixel? Check out the release date (Nov 1, 2018), developer insights from Grytis, and a complete game summary.",
+    "Alt Text Image": "Official header image for Prixel game - Steam 961110",
+    "Canonical URL": "https://gusku.site/game/prixel",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Prixel\", \"description\": \"Looking for information on Prixel? Check out the release date (Nov 1, 2018), developer insights from Grytis, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 1, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Grytis\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Indie\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/961110/header.jpg?t=1541059797\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

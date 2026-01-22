@@ -1,0 +1,21 @@
+{
+    "AppID": 1212470,
+    "Name": "Fourthy",
+    "Release date": "Jan 2, 2020",
+    "About the game": "A small puzzle game. The essence of the game is simple, move the numbered cubes to arrange them in ascending order from one to fifteen, having only one unoccupied sector. Difficulty increases with each sequence built. You will have to think a lot to put everything in the right order.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1212470/header.jpg?t=1577993283",
+    "Price": 1.99,
+    "Developers": "cBlck",
+    "Publishers": "cBlck",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1212470/ss_4b5a55e190481ea5fa0d18b6b019932086493e1a.1920x1080.jpg?t=1577993283,https://cdn.akamai.steamstatic.com/steam/apps/1212470/ss_f1109803d6006c8f4e4e74f0e66a5dc0fa99e1bf.1920x1080.jpg?t=1577993283,https://cdn.akamai.steamstatic.com/steam/apps/1212470/ss_f170215dafdb9e8a9d369955de633c9cd9b72ab4.1920x1080.jpg?t=1577993283,https://cdn.akamai.steamstatic.com/steam/apps/1212470/ss_4382d61f0320446c18f59df63a40a9a16b50ffd6.1920x1080.jpg?t=1577993283,https://cdn.akamai.steamstatic.com/steam/apps/1212470/ss_54ab87b39741d6e1a9e53f7b627c1e3095c60e13.1920x1080.jpg?t=1577993283",
+    "Slug": "fourthy",
+    "Meta Title": "Fourthy: Jan 2, 2020, cBlck and Full Overview",
+    "Meta Description": "Looking for information on Fourthy? Check out the release date (Jan 2, 2020), developer insights from cBlck, and a complete game summary.",
+    "Alt Text Image": "Official header image for Fourthy game - Steam 1212470",
+    "Canonical URL": "https://gusku.site/game/fourthy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fourthy\", \"description\": \"Looking for information on Fourthy? Check out the release date (Jan 2, 2020), developer insights from cBlck, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 2, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"cBlck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"cBlck\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1212470/header.jpg?t=1577993283\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

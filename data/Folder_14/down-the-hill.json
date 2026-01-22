@@ -1,0 +1,21 @@
+{
+    "AppID": 1857850,
+    "Name": "Down the Hill",
+    "Release date": "Jan 9, 2022",
+    "About the game": "Go down the hill along the cells, changing the direction of movement, avoiding holes and trees and gain points. Use bonuses on cells, such as a mark or a cube. The mark will launch you through one cell, and the cube will fill the nearest holes. Over time, the pace of the game accelerates and you have to try not to lose.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1857850/header.jpg?t=1641720971",
+    "Price": 0.99,
+    "Developers": "beans rolls",
+    "Publishers": "beans rolls",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1857850/ss_8896f7ffc0d288dc4455c2c4aeb14657eff0549d.1920x1080.jpg?t=1641720971,https://cdn.akamai.steamstatic.com/steam/apps/1857850/ss_d5fe04d3f7e115688ddfeffa38652f745697bd02.1920x1080.jpg?t=1641720971,https://cdn.akamai.steamstatic.com/steam/apps/1857850/ss_7aa63976f4a2bdfe74672a685db5645374dd9a0f.1920x1080.jpg?t=1641720971,https://cdn.akamai.steamstatic.com/steam/apps/1857850/ss_e098564d4bf7e35f9dca4a68dd01f6aa8c69bf26.1920x1080.jpg?t=1641720971,https://cdn.akamai.steamstatic.com/steam/apps/1857850/ss_4c65e13388edb71e38da83c7fc021e5304a31ea2.1920x1080.jpg?t=1641720971",
+    "Slug": "down-the-hill",
+    "Meta Title": "Down the Hill: Jan 9, 2022, beans rolls and Full Overview",
+    "Meta Description": "Looking for information on Down the Hill? Check out the release date (Jan 9, 2022), developer insights from beans rolls, and a complete game summary.",
+    "Alt Text Image": "Official header image for Down the Hill game - Steam 1857850",
+    "Canonical URL": "https://gusku.site/game/down-the-hill",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Down the Hill\", \"description\": \"Looking for information on Down the Hill? Check out the release date (Jan 9, 2022), developer insights from beans rolls, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 9, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1857850/header.jpg?t=1641720971\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1932350,
+    "Name": "LogiNode",
+    "Release date": "Apr 19, 2022",
+    "About the game": "Disclaimer : This is game gets pretty complicated. If you haven't played any similar games like Hexcells or Minesweeper before, it might be worth checking one of them out first to see if you're likely to enjoy this game. LogiNode is set in a web of nodes that are either blank or colorful, but most of them are hidden. Your job is to deduce whether the hidden nodes are blank or colorful, using the information they give you. If you like challenging Minesweeper-like games that do not require guessing, this is for you!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1932350/header.jpg?t=1650359434",
+    "Price": 1.49,
+    "Developers": "Fredrik Hernqvist",
+    "Publishers": "Fredrik Hernqvist",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1932350/ss_3548bd4ef898feff43a4dfdf2ee3995e7f3df8d3.1920x1080.jpg?t=1650359434,https://cdn.akamai.steamstatic.com/steam/apps/1932350/ss_9cfe67091cd48e845f9463a56751b5c4fc3342c7.1920x1080.jpg?t=1650359434,https://cdn.akamai.steamstatic.com/steam/apps/1932350/ss_90564aa50d79a7888a401b972ba373f58ac6bd63.1920x1080.jpg?t=1650359434,https://cdn.akamai.steamstatic.com/steam/apps/1932350/ss_5898fb8503c44163300c6d6df837459c9540b0aa.1920x1080.jpg?t=1650359434,https://cdn.akamai.steamstatic.com/steam/apps/1932350/ss_7d8aaaffe1aae1bab2eb9f2bf1315cc5a6167afd.1920x1080.jpg?t=1650359434",
+    "Slug": "loginode",
+    "Meta Title": "LogiNode: Apr 19, 2022, Fredrik Hernqvist and Full Overview",
+    "Meta Description": "Looking for information on LogiNode? Check out the release date (Apr 19, 2022), developer insights from Fredrik Hernqvist, and a complete game summary.",
+    "Alt Text Image": "Official header image for LogiNode game - Steam 1932350",
+    "Canonical URL": "https://gusku.site/game/loginode",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"LogiNode\", \"description\": \"Looking for information on LogiNode? Check out the release date (Apr 19, 2022), developer insights from Fredrik Hernqvist, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 19, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fredrik Hernqvist\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fredrik Hernqvist\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1932350/header.jpg?t=1650359434\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

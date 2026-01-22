@@ -1,0 +1,21 @@
+{
+    "AppID": 2267310,
+    "Name": "Quadice",
+    "Release date": "Jan 31, 2023",
+    "About the game": "Quadice is a Tile-Matching Puzzle game featuring: Challenge Mode: A 20-level singleplayer challenge! Endless Mode: How high can you score? 2-Player Mode: Who will win? Also featuring 12 characters to play as, and 10 unique stages to choose from!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2267310/header.jpg?t=1675229417",
+    "Price": 3.39,
+    "Developers": "Euphionia Studio",
+    "Publishers": "Euphionia Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2267310/ss_8b3dbea7869536b952463c699257300814b83778.1920x1080.jpg?t=1675229417,https://cdn.akamai.steamstatic.com/steam/apps/2267310/ss_b7c7fa6b246756204e420876410b6cf804394a38.1920x1080.jpg?t=1675229417,https://cdn.akamai.steamstatic.com/steam/apps/2267310/ss_c8d2a82dab5c7134f866d5c0c3b2a2f1ef75fe21.1920x1080.jpg?t=1675229417,https://cdn.akamai.steamstatic.com/steam/apps/2267310/ss_b093295becdf2ebe7d50be19e743cfa176910d33.1920x1080.jpg?t=1675229417,https://cdn.akamai.steamstatic.com/steam/apps/2267310/ss_2c160f3a7e022c78794ce40fe0c74a514819c72c.1920x1080.jpg?t=1675229417",
+    "Slug": "quadice",
+    "Meta Title": "Quadice: Jan 31, 2023, Euphionia Studio and Full Overview",
+    "Meta Description": "Looking for information on Quadice? Check out the release date (Jan 31, 2023), developer insights from Euphionia Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Quadice game - Steam 2267310",
+    "Canonical URL": "https://gusku.site/game/quadice",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Quadice\", \"description\": \"Looking for information on Quadice? Check out the release date (Jan 31, 2023), developer insights from Euphionia Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 31, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Euphionia Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Euphionia Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2267310/header.jpg?t=1675229417\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

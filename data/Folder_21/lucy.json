@@ -1,0 +1,21 @@
+{
+    "AppID": 1762720,
+    "Name": "Lucy",
+    "Release date": "Oct 6, 2021",
+    "About the game": "Help Lucy to find her treasure in this colorfull platformer from the 16bit era! Find treasures, kill enemies and uncover secrets in this adventure. Contains many stages with stars to collect and secrets to discover. You can play on the keyboard or on a controller!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1762720/header.jpg?t=1633506206",
+    "Price": 4.99,
+    "Developers": "SkullReaper",
+    "Publishers": "SkullReaper",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1762720/ss_704d541b0e6462561740ddc65210846ea1a3362b.1920x1080.jpg?t=1633506206,https://cdn.akamai.steamstatic.com/steam/apps/1762720/ss_84998e5322c819b3c3e022862c1ac4eaa4473de8.1920x1080.jpg?t=1633506206,https://cdn.akamai.steamstatic.com/steam/apps/1762720/ss_77697f2446a7af94ad0be8a8ccc094b17862d075.1920x1080.jpg?t=1633506206,https://cdn.akamai.steamstatic.com/steam/apps/1762720/ss_06d6c0673d90736d68e3caa9eee8b6e0dcddfaf9.1920x1080.jpg?t=1633506206,https://cdn.akamai.steamstatic.com/steam/apps/1762720/ss_2484a16d1d14225089e60cc837ed67c7ec710339.1920x1080.jpg?t=1633506206",
+    "Slug": "lucy",
+    "Meta Title": "Lucy: Oct 6, 2021, SkullReaper and Full Overview",
+    "Meta Description": "Looking for information on Lucy? Check out the release date (Oct 6, 2021), developer insights from SkullReaper, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lucy game - Steam 1762720",
+    "Canonical URL": "https://gusku.site/game/lucy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lucy\", \"description\": \"Looking for information on Lucy? Check out the release date (Oct 6, 2021), developer insights from SkullReaper, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 6, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"SkullReaper\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SkullReaper\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1762720/header.jpg?t=1633506206\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

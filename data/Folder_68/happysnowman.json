@@ -1,0 +1,21 @@
+{
+    "AppID": 2242980,
+    "Name": "HappySnowMan",
+    "Release date": "Dec 26, 2022",
+    "About the game": "To celebrate Christmas in 2022! The purpose of this game is to travel through various platforms to the last island. Run to the stable on the last island, enjoying a simple and casual calm song. Depending on which platform you step on, the speed of movement and jumping power will vary. Don't forget to save your progress by pressing the 'E' key on the island's landmark. =Platform= On the desert platform, speed and jump power are greatly reduced On the magma platform, the speed is very low, but the jumping power is greatly increased. On the ice platform, the speed is very high. =Control= W move forward A move left S move backward D move right SPACEBAR j ump =etc= Automatically respawn at -20y height. The character is movable in the air without drag. At the landmark on the center of the island, you can press E key to change the respawn point and it will be marked with a green flag. The game will continue to be updated between November and December every year unless otherwise noted.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2242980/header.jpg?t=1672047846",
+    "Price": 0.0,
+    "Developers": "IDEA:STARGAZER",
+    "Publishers": "IDEA:STARGAZER",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2242980/ss_b10ed291ae66de01bfdde247296cfacc34dd4511.1920x1080.jpg?t=1672047846,https://cdn.akamai.steamstatic.com/steam/apps/2242980/ss_46edff6adec1a473b5b4a3bfee638490a21eb9ce.1920x1080.jpg?t=1672047846,https://cdn.akamai.steamstatic.com/steam/apps/2242980/ss_350bc6777f48f40fcd70455a46138561d247c058.1920x1080.jpg?t=1672047846,https://cdn.akamai.steamstatic.com/steam/apps/2242980/ss_54ed0ef95605a4090db3e452c4542e5d00a635b9.1920x1080.jpg?t=1672047846,https://cdn.akamai.steamstatic.com/steam/apps/2242980/ss_1d112f2af7e87510d3a48aa4ee7e51c1db22d2bd.1920x1080.jpg?t=1672047846",
+    "Slug": "happysnowman",
+    "Meta Title": "HappySnowMan: Dec 26, 2022, IDEA:STARGAZER and Full Overview",
+    "Meta Description": "Looking for information on HappySnowMan? Check out the release date (Dec 26, 2022), developer insights from IDEA:STARGAZER, and a complete game summary.",
+    "Alt Text Image": "Official header image for HappySnowMan game - Steam 2242980",
+    "Canonical URL": "https://gusku.site/game/happysnowman",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HappySnowMan\", \"description\": \"Looking for information on HappySnowMan? Check out the release date (Dec 26, 2022), developer insights from IDEA:STARGAZER, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 26, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"IDEA:STARGAZER\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"IDEA:STARGAZER\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2242980/header.jpg?t=1672047846\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

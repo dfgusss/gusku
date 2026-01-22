@@ -1,0 +1,21 @@
+{
+    "AppID": 2013780,
+    "Name": "Drain Runner",
+    "Release date": "Aug 5, 2022",
+    "About the game": "Venture into The Drain's treacherous waterways in this platforming-focused action roguelike! Play as Killbert, a stubborn criminal scavenger who braves The Drain at the promise of priceless treasures from a bygone era. Use his magnetic arm and killer instinct to survive the denizens that inhabit The Drain as you rail-grind and blast your way through a series of evocative trashpunk environments. Collect valuable items and complete objectives to improve your odds of survival! Core mechanics: - Rail grind on pipes to quickly get out of harms way and gain a positional advantage on enemies - Watch as The Drain itself evolves in real time during your playthrough - Attract and repulse objects with Killbert's magnetic arm - Complete objects and explore the environment to get powerful buffs - Master traversal to escape The Drain's intermittent floods as they wash pieces of the level away - Complete objectives within the time limit to progress to The Drain's final challenge Controls: WASD - Move Left Click - Shoot Right Click - Magnetize E (on ground) - Melee E (on rail) - Boost E (in air) - Ground Slam E (with magnetized item) - Repulse S (on rail) - Switch directions A/D - Switch orientation",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2013780/header.jpg?t=1659729235",
+    "Price": 0.0,
+    "Developers": "Nothing Interactive",
+    "Publishers": "Nothing Interactive",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2013780/ss_8d6e4edee4cedc949d418767e704a8fbd02c4fc7.1920x1080.jpg?t=1659729235,https://cdn.akamai.steamstatic.com/steam/apps/2013780/ss_b5e0d52af772d359b1b2feb430ac9df57062617c.1920x1080.jpg?t=1659729235,https://cdn.akamai.steamstatic.com/steam/apps/2013780/ss_d6457f55ff997dcd7f5b1eb80a638bed21e70eb8.1920x1080.jpg?t=1659729235,https://cdn.akamai.steamstatic.com/steam/apps/2013780/ss_81493c2121aad18bfa8800304f21cf252ad43bd3.1920x1080.jpg?t=1659729235,https://cdn.akamai.steamstatic.com/steam/apps/2013780/ss_92225517ea0438cb7a63dfd51cf40bca51c2991f.1920x1080.jpg?t=1659729235",
+    "Slug": "drain-runner",
+    "Meta Title": "Drain Runner: Aug 5, 2022, Nothing Interactive and Full O...",
+    "Meta Description": "Looking for information on Drain Runner? Check out the release date (Aug 5, 2022), developer insights from Nothing Interactive, and a complete game summ...",
+    "Alt Text Image": "Official header image for Drain Runner game - Steam 2013780",
+    "Canonical URL": "https://gusku.site/game/drain-runner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Drain Runner\", \"description\": \"Looking for information on Drain Runner? Check out the release date (Aug 5, 2022), developer insights from Nothing Interactive, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 5, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nothing Interactive\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nothing Interactive\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2013780/header.jpg?t=1659729235\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

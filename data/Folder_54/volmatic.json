@@ -1,0 +1,21 @@
+{
+    "AppID": 1443900,
+    "Name": "Volmatic",
+    "Release date": "Oct 30, 2020",
+    "About the game": "A revolution in volume control. Volmatic automatically manages your audio volume to keep it at a constant level, regardless of the levels of the applications you are using. It constantly monitors the volume levels and adjusts accordingly. If the volume is too low then it will automatically increases it, on the other hand if the sound is too loud then it will decrease it. The best thing is, you don't have to do anything! With its many customization options, you are certain to find the right setting for you. If you find the default option not to your taste, you can always adjust the sensitivities and duration required for a change in volume. You can also exclude some of your applications from Volmatic's control. Like Discord or your music player. At last, you can make Volmatic auto-start with your operating system, allowing you to forget about it and approach multimedia the way it was meant to be experienced: With constant optimal audio.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1443900/header.jpg?t=1632423626",
+    "Price": 7.99,
+    "Developers": "Eclectric Softwares",
+    "Publishers": "Eclectric Softwares",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1443900/ss_7f444eae94cf2582b1db351e8bf715584d21b524.1920x1080.jpg?t=1632423626,https://cdn.akamai.steamstatic.com/steam/apps/1443900/ss_6b8c09bb433267ea7801870648aae0c978f40252.1920x1080.jpg?t=1632423626,https://cdn.akamai.steamstatic.com/steam/apps/1443900/ss_ac276aab15e02390f604ba33170a2b77e8c3006c.1920x1080.jpg?t=1632423626,https://cdn.akamai.steamstatic.com/steam/apps/1443900/ss_33c122b1f34741509998ca3a71b34f164934003a.1920x1080.jpg?t=1632423626,https://cdn.akamai.steamstatic.com/steam/apps/1443900/ss_873f3cc69bc7b03eda3622d91ad4a558d61a0a45.1920x1080.jpg?t=1632423626,https://cdn.akamai.steamstatic.com/steam/apps/1443900/ss_2ad1c57cb1e842996b2cabb9b97f99adddd18076.1920x1080.jpg?t=1632423626",
+    "Slug": "volmatic",
+    "Meta Title": "Volmatic: Oct 30, 2020, Eclectric Softwares and Full Over...",
+    "Meta Description": "Looking for information on Volmatic? Check out the release date (Oct 30, 2020), developer insights from Eclectric Softwares, and a complete game summary.",
+    "Alt Text Image": "Official header image for Volmatic game - Steam 1443900",
+    "Canonical URL": "https://gusku.site/game/volmatic",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Volmatic\", \"description\": \"Looking for information on Volmatic? Check out the release date (Oct 30, 2020), developer insights from Eclectric Softwares, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 30, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eclectric Softwares\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Eclectric Softwares\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1443900/header.jpg?t=1632423626\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

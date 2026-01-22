@@ -1,0 +1,21 @@
+{
+    "AppID": 1818580,
+    "Name": "Creator's Asteroid",
+    "Release date": "Dec 21, 2021",
+    "About the game": "Make, play, and share your own tile-based Metroidvania world! In the map maker, create your own world with drag-and-drop maker tiles that include: Destructible and indestructible terrain, Collectable abilities ranging from weapon upgrades to additional jumps, Various enemy types with unique behaviors, Start points, checkpoints, and goal points, and more to come as development progresses! Each world can consist of up to 81 rooms (9x9). Each room consists of 377 tile locations (29x13), and wall tiles that can be replaced with connecting doorways to other rooms. That's over 30,000 tiles of space per world! Playtest your design one room at a time, or from the starting point. Once you're satisfied with your world, playtest it from start to finish to generate a world file that you can share with friends through Steam Workshop! Content will be added periodically as development progresses through Early Access, including new maker tiles, new abilities and properties, updated sound and art, and other improvements. Here's a peek at some of the bigger updates coming down the pipeline: Hazardous room environments and related upgrades (out now in v0.08!) , Room water-level setting, underwater behaviors, and related upgrades (out now in v0.09!) , More expansive mobility upgrades, such as climbing and wall-jumping (out now in v0.10!) , Big bad bosses, including a final nemesis, and even more to be announced!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1818580/header.jpg?t=1658443900",
+    "Price": 3.99,
+    "Developers": "decigraham",
+    "Publishers": "decigraham",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1818580/ss_1e5020fff5946f726edbdbc1cabbca47dd79f395.1920x1080.jpg?t=1658443900,https://cdn.akamai.steamstatic.com/steam/apps/1818580/ss_8cabe5f8524d2d5943ff65bf867ed5543afcde47.1920x1080.jpg?t=1658443900,https://cdn.akamai.steamstatic.com/steam/apps/1818580/ss_e9ebe8efaee2dff2fd3c873b7ad835afc0362220.1920x1080.jpg?t=1658443900,https://cdn.akamai.steamstatic.com/steam/apps/1818580/ss_0f87f1b514b4e43c6c9d70d489babad519884eec.1920x1080.jpg?t=1658443900,https://cdn.akamai.steamstatic.com/steam/apps/1818580/ss_dbc03537d75ca1cf7284c58da23ec380902b0013.1920x1080.jpg?t=1658443900",
+    "Slug": "creator-s-asteroid",
+    "Meta Title": "Creator's Asteroid: Dec 21, 2021, decigraham and Full Ove...",
+    "Meta Description": "Looking for information on Creator's Asteroid? Check out the release date (Dec 21, 2021), developer insights from decigraham, and a complete game summary.",
+    "Alt Text Image": "Official header image for Creator's Asteroid game - Steam 1818580",
+    "Canonical URL": "https://gusku.site/game/creator-s-asteroid",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Creator's Asteroid\", \"description\": \"Looking for information on Creator's Asteroid? Check out the release date (Dec 21, 2021), developer insights from decigraham, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 21, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"decigraham\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"decigraham\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1818580/header.jpg?t=1658443900\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1048470,
+    "Name": "迷雾 The Mist",
+    "Release date": "Mar 28, 2019",
+    "About the game": "Overview 'The Mist' is a text association decryption game. The game has 8 chapters, 40+ puzzles, which can be decrypted by associating with the text prompts of each level and combining with the current scene. The game tells the story of my last year, but I won't tell you details. It was not easy. Go ahead and experience it yourself. Instruction The game has 8 chapters: Outset, Frustration, Confusion, Go Astray, Failure, Pressure, Desperation, Hope. Each chapter has 5-6 levels. A sentence will appear at each level. Players need to find the right way to pass the level through association, reasoning and judgment. Tips Make sure to turn on the volume. Be patient. Challenge yourself. Other languages For other languages, you can translate by yourself. Add new language file to TheMist/TheMist_Data/StreamingAssets/Data/Languages Don't forget to add new textures at TheMist/TheMist_Data/StreamingAssets/Data/Textures",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1048470/header.jpg?t=1554012116",
+    "Price": 2.99,
+    "Developers": "LeeroyLin",
+    "Publishers": "LeeroyLin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1048470/ss_b667d7823415fc72ddd48e9e221e53e6161d4ab3.1920x1080.jpg?t=1554012116,https://cdn.akamai.steamstatic.com/steam/apps/1048470/ss_396551f28e3988b4f91945929f5a59c7937e2e98.1920x1080.jpg?t=1554012116,https://cdn.akamai.steamstatic.com/steam/apps/1048470/ss_8d6618c23fe864ff1bdc02675d0f1eadf0e53fca.1920x1080.jpg?t=1554012116,https://cdn.akamai.steamstatic.com/steam/apps/1048470/ss_3c66d6a06bd7f73aece3963c68141a0ad00a81b9.1920x1080.jpg?t=1554012116,https://cdn.akamai.steamstatic.com/steam/apps/1048470/ss_91ac9ab6662fd990c46d4b789111c0a735fc16da.1920x1080.jpg?t=1554012116",
+    "Slug": "the-mist",
+    "Meta Title": "迷雾 The Mist: Mar 28, 2019, LeeroyLin and Full Overview",
+    "Meta Description": "Looking for information on 迷雾 The Mist? Check out the release date (Mar 28, 2019), developer insights from LeeroyLin, and a complete game summary.",
+    "Alt Text Image": "Official header image for 迷雾 The Mist game - Steam 1048470",
+    "Canonical URL": "https://gusku.site/game/the-mist",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u8ff7\\u96fe The Mist\", \"description\": \"Looking for information on \\u8ff7\\u96fe The Mist? Check out the release date (Mar 28, 2019), developer insights from LeeroyLin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 28, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"LeeroyLin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LeeroyLin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1048470/header.jpg?t=1554012116\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

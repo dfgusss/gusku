@@ -1,0 +1,21 @@
+{
+    "AppID": 1819040,
+    "Name": "Impulsive Force",
+    "Release date": "Jan 19, 2022",
+    "About the game": "Control continuously firing guns to propel the puck to the end zone within a given time limit. Controls utilise a left/right move of the joystick to cause most guns in the level to rotate clockwise or anticlockwise. Although one gun may be the main one interacting with the puck at any time the follow on orientation of other guns may negatively or positively impact the puck's progression so are best considered at the same time as the main gun. The game features 40 levels and an original (electronic/dance) music soundtrack which can be turned off in the settings menu.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1819040/header.jpg?t=1643144999",
+    "Price": 5.99,
+    "Developers": "BleatBleat",
+    "Publishers": "BleatBleat",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1819040/ss_b1dcc7a7ae48245fcdd633313427913c7d7f4d22.1920x1080.jpg?t=1643144999,https://cdn.akamai.steamstatic.com/steam/apps/1819040/ss_bde7759d9044c6928b27ee712ffebcf50cf8df09.1920x1080.jpg?t=1643144999,https://cdn.akamai.steamstatic.com/steam/apps/1819040/ss_340e4537dda41a8cde2e0ba3895d2469b86d4949.1920x1080.jpg?t=1643144999,https://cdn.akamai.steamstatic.com/steam/apps/1819040/ss_7907d43826517b370bd29acc505a25437727a55c.1920x1080.jpg?t=1643144999,https://cdn.akamai.steamstatic.com/steam/apps/1819040/ss_a1cb80d2c428be593d8f6fa5926358e46a49c1f0.1920x1080.jpg?t=1643144999,https://cdn.akamai.steamstatic.com/steam/apps/1819040/ss_aba838033ed26fff28821a0c562c61ebc332135c.1920x1080.jpg?t=1643144999",
+    "Slug": "impulsive-force",
+    "Meta Title": "Impulsive Force: Jan 19, 2022, BleatBleat and Full Overview",
+    "Meta Description": "Looking for information on Impulsive Force? Check out the release date (Jan 19, 2022), developer insights from BleatBleat, and a complete game summary.",
+    "Alt Text Image": "Official header image for Impulsive Force game - Steam 1819040",
+    "Canonical URL": "https://gusku.site/game/impulsive-force",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Impulsive Force\", \"description\": \"Looking for information on Impulsive Force? Check out the release date (Jan 19, 2022), developer insights from BleatBleat, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 19, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"BleatBleat\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"BleatBleat\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1819040/header.jpg?t=1643144999\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

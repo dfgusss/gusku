@@ -1,0 +1,21 @@
+{
+    "AppID": 1166790,
+    "Name": "Hexterio",
+    "Release date": "Oct 15, 2019",
+    "About the game": "Hexterio is a simple puzzle game with a relaxing atmosphere - with simple rules and mechanics, yet interesting puzzles. The game consists of 5 different modes with 12 puzzles each, with each mode having a different element or rule to it. All the modes require the player to reach a certain 'Final Tile' of the level, but the methods or requirements to fulfill before reaching there, vary. A brief description of the modes is as follows: Traverse all tiles - Player must visit each tile before reaching the Final tile. Destroy all tiles - Player must destroy all other tiles before reaching the Final tile. Sum it up - Tiles in this mode carry certain value on each of its front and back faces. The player is required to accumulate the exact value required at the Final Tile. Rotating tiles - Tiles in this mode rotate clockwise or anti-clockwise, changing their accessible neighbors in the process, adding another layer of difficulty to the puzzle. Grouped tiles - Certain tiles in this mode will be grouped together. Grouped tiles flip and rotate together. The player will have to carve a way to the final tile using this behavior.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1166790/header.jpg?t=1571158945",
+    "Price": 0.0,
+    "Developers": "Eurus Games",
+    "Publishers": "Eurus Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1166790/ss_cb94149f56a887ce42b51e8ab7d5438f4956fd10.1920x1080.jpg?t=1571158945,https://cdn.akamai.steamstatic.com/steam/apps/1166790/ss_975ab2652ab5462ba9fd0a9cb046a76ec174e6e7.1920x1080.jpg?t=1571158945,https://cdn.akamai.steamstatic.com/steam/apps/1166790/ss_c1b7625ddf72341327dc1b9f3437b84009bb7a92.1920x1080.jpg?t=1571158945,https://cdn.akamai.steamstatic.com/steam/apps/1166790/ss_208a900ac67219af893ac189c699c99568fe5fd3.1920x1080.jpg?t=1571158945,https://cdn.akamai.steamstatic.com/steam/apps/1166790/ss_0783a9f2c6b279aba118ffb5e0bb0abc3f51d853.1920x1080.jpg?t=1571158945,https://cdn.akamai.steamstatic.com/steam/apps/1166790/ss_7cedc16f18fc0221705a19b15c26fc41e606b40c.1920x1080.jpg?t=1571158945,https://cdn.akamai.steamstatic.com/steam/apps/1166790/ss_91299d7b0844506ac6def8e71c018bbd9dbbdc7e.1920x1080.jpg?t=1571158945,https://cdn.akamai.steamstatic.com/steam/apps/1166790/ss_28ca6ab6a3edea8ea4b2c0011a5acd66f970ebc4.1920x1080.jpg?t=1571158945",
+    "Slug": "hexterio",
+    "Meta Title": "Hexterio: Oct 15, 2019, Eurus Games and Full Overview",
+    "Meta Description": "Looking for information on Hexterio? Check out the release date (Oct 15, 2019), developer insights from Eurus Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hexterio game - Steam 1166790",
+    "Canonical URL": "https://gusku.site/game/hexterio",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hexterio\", \"description\": \"Looking for information on Hexterio? Check out the release date (Oct 15, 2019), developer insights from Eurus Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 15, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eurus Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Eurus Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1166790/header.jpg?t=1571158945\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

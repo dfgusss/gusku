@@ -1,0 +1,21 @@
+{
+    "AppID": 598530,
+    "Name": "Naev",
+    "Release date": "Jul 17, 2017",
+    "About the game": "Naev is a game about space exploration, trade and combat. Players travel the galaxy and earn money by trading, fighting and performing missions. Main features: A large galaxy with hundreds of planets and moons to explore. Real-time, semi-Newtonian gameplay reminiscent of the Escape Velocity games. Many different ships to buy and pilot, and many ways to customize each of them. Multiple factions, each with unique ship designs and personalities. Open-source, meaning ultimate freedom of modding. Currently Naev is a playable game, but it is far from being a complete one. To further mature the game, we, the developers, need you. Yes, you . All it takes is the motivation to be creative in some way! Probably the easiest way to help, as well as one of the most valuable ones, is by coming up with new stories for the game, and by shaping those stories into playable missions. Other ways to help include making art or sounds, improving gameplay via balancing work, or (if you have the ability) even a bit of coding on the main program. A few things to keep in mind: This game is a hobby project, not an indie development project. There is no final plan, no time frame for the 'finished game'. The dev team does not accept monetary donations, only direct contributions to the game itself. The game engine is written in C. Missions are written in Lua. No, there is no multiplayer, and there probably won't be. Unless you add it!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/598530/header.jpg?t=1640238510",
+    "Price": 0.0,
+    "Developers": "Naev Team",
+    "Publishers": "Naev Team",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_a083cfd3b21d1dc5d5964a99918f5b5c4630e6b7.1920x1080.jpg?t=1640238510,https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_da6903e495fb4a6f0c28e1c338ec05ef2aafb197.1920x1080.jpg?t=1640238510,https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_77bc0c9b1c90c2bc1b795a897e98a342131cf249.1920x1080.jpg?t=1640238510,https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_cc0649090b6a31920d9bba76f7266f843e3e0950.1920x1080.jpg?t=1640238510,https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_6ec08f6867e4d3a268d6722b9db383bfb17d4410.1920x1080.jpg?t=1640238510,https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_1510c2ce4d3c63791b68d75f714d21f6814f62f0.1920x1080.jpg?t=1640238510,https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_199327b0139147b2464c3d00b24f153599370a84.1920x1080.jpg?t=1640238510,https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_2f0c078e381dd80b3d1726fca0a351029ed4a94d.1920x1080.jpg?t=1640238510,https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_f51a468ce5fa25b386802dd2ff975c7ed1b44145.1920x1080.jpg?t=1640238510,https://cdn.akamai.steamstatic.com/steam/apps/598530/ss_965ea9d2eac714830711bcb32693c34c7ed77b37.1920x1080.jpg?t=1640238510",
+    "Slug": "naev",
+    "Meta Title": "Naev: Jul 17, 2017, Naev Team and Full Overview",
+    "Meta Description": "Looking for information on Naev? Check out the release date (Jul 17, 2017), developer insights from Naev Team, and a complete game summary.",
+    "Alt Text Image": "Official header image for Naev game - Steam 598530",
+    "Canonical URL": "https://gusku.site/game/naev",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Naev\", \"description\": \"Looking for information on Naev? Check out the release date (Jul 17, 2017), developer insights from Naev Team, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 17, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Naev Team\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Naev Team\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/598530/header.jpg?t=1640238510\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

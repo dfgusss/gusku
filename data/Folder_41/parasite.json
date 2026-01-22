@@ -1,0 +1,21 @@
+{
+    "AppID": 1920320,
+    "Name": "Parasite",
+    "Release date": "Mar 25, 2022",
+    "About the game": "Parasite is a roguelike survival horror game about possession set in a modern-day setting. Currently in development, each session is set to be medium length (around 2-3 hours to complete). The game is fully completable to the end but needs GUI work, balancing and polish. Current features include: A whole generated modern-day city to explore and survive in. A single story scenario that starts with the main protagonist alone, scared, and without any memories in a hostile human world. Possession mechanics that is crucial to the player's survival (see, you just die very fast without a host). Robust host inventory, skills and knowledge system. Player evolution unlocking new improvements and body features for the possessed hosts. Building and improving habitats to rest and recuperate. Separate difficulty settings for all key parts of the game that will be prompted organically during its course. Event timeline investigation to piece together both what has happened before and what to do next. A dangerous and proactive group of opponents that is tasked with finding and destroying threats to humanity (you). Parasite has been in sporadic development since 2016, with 2022 being the year I decided to devote my full attention to making it release-worthy on Steam. I'm quite proud of the way the game has evolved so far and I believe my original vision will finally be achieved.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1920320/header.jpg?t=1651000872",
+    "Price": 5.99,
+    "Developers": "StarInfidel",
+    "Publishers": "StarInfidel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1920320/ss_807c81bd924d19b0fdc2529d7021388f6334dcd4.1920x1080.jpg?t=1651000872,https://cdn.akamai.steamstatic.com/steam/apps/1920320/ss_7009cf4ea85be3d8b836297da12c6763b06ac706.1920x1080.jpg?t=1651000872,https://cdn.akamai.steamstatic.com/steam/apps/1920320/ss_4dd964af6bc162198da20141d225116e687ad761.1920x1080.jpg?t=1651000872,https://cdn.akamai.steamstatic.com/steam/apps/1920320/ss_9ad545bbe54007fe186ad0f60d403971e140a40a.1920x1080.jpg?t=1651000872,https://cdn.akamai.steamstatic.com/steam/apps/1920320/ss_db0ea57210d947b07d58a710cc53dd28d662ff0f.1920x1080.jpg?t=1651000872",
+    "Slug": "parasite",
+    "Meta Title": "Parasite: Mar 25, 2022, StarInfidel and Full Overview",
+    "Meta Description": "Looking for information on Parasite? Check out the release date (Mar 25, 2022), developer insights from StarInfidel, and a complete game summary.",
+    "Alt Text Image": "Official header image for Parasite game - Steam 1920320",
+    "Canonical URL": "https://gusku.site/game/parasite",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Parasite\", \"description\": \"Looking for information on Parasite? Check out the release date (Mar 25, 2022), developer insights from StarInfidel, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 25, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"StarInfidel\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"StarInfidel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1920320/header.jpg?t=1651000872\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

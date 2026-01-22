@@ -1,0 +1,21 @@
+{
+    "AppID": 1309280,
+    "Name": "Corners",
+    "Release date": "Nov 25, 2020",
+    "About the game": "A logic game for two or four players. Each player has 9 balls. The goal is to get all the balls home faster than other players. You can make a move either by moving the ball to a neighboring cell in any direction, or by jumping an unlimited number of balls, both your own and others', each time jumping through one ball to an empty cell. There are two types of games: diagonal and classic. In diagonal, you can jump and move horizontally, vertically, and diagonally. In the classic version, there is no possibility of a diagonal move. You can play with friends on the same computer or against computer rivals.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1309280/header.jpg?t=1606373131",
+    "Price": 0.99,
+    "Developers": "LAS Team",
+    "Publishers": "LAS Team",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1309280/ss_bc8486500784f21ca018959c6307e443470c2694.1920x1080.jpg?t=1606373131,https://cdn.akamai.steamstatic.com/steam/apps/1309280/ss_da539d3411e2a0c8f743fab188f96f214247faca.1920x1080.jpg?t=1606373131,https://cdn.akamai.steamstatic.com/steam/apps/1309280/ss_95fb4610d35b38caa688d01b230fb213a37cd013.1920x1080.jpg?t=1606373131,https://cdn.akamai.steamstatic.com/steam/apps/1309280/ss_032873351d2e46984d7ac90063c7fecbf209a466.1920x1080.jpg?t=1606373131,https://cdn.akamai.steamstatic.com/steam/apps/1309280/ss_dd505e1212ca3a70d5d093226358a74acf92eac0.1920x1080.jpg?t=1606373131,https://cdn.akamai.steamstatic.com/steam/apps/1309280/ss_5915f06f3f160a36e209c0b188a5841d6da44881.1920x1080.jpg?t=1606373131",
+    "Slug": "corners",
+    "Meta Title": "Corners: Nov 25, 2020, LAS Team and Full Overview",
+    "Meta Description": "Looking for information on Corners? Check out the release date (Nov 25, 2020), developer insights from LAS Team, and a complete game summary.",
+    "Alt Text Image": "Official header image for Corners game - Steam 1309280",
+    "Canonical URL": "https://gusku.site/game/corners",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Corners\", \"description\": \"Looking for information on Corners? Check out the release date (Nov 25, 2020), developer insights from LAS Team, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 25, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"LAS Team\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LAS Team\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1309280/header.jpg?t=1606373131\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

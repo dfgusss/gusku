@@ -1,0 +1,21 @@
+{
+    "AppID": 1472260,
+    "Name": "Macro golf",
+    "Release date": "Dec 14, 2020",
+    "About the game": "Macro golf is a game consisting of courses which each have 8 holes. With each hole, you need to hit the ball through it so that it sinks in the hole. You need to navigate the ball around the course, to sink it in the hole to move onto the next one. This game also includes local multiplayer.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1472260/header.jpg?t=1607935627",
+    "Price": 19.99,
+    "Developers": "Vitok",
+    "Publishers": "Vitok",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1472260/ss_c915242be6581c15bd22c8fad2cf622b5d992d58.1920x1080.jpg?t=1607935627,https://cdn.akamai.steamstatic.com/steam/apps/1472260/ss_02ddfb29a3e0ff4bc2fd3b58aa7c940b74deb8fc.1920x1080.jpg?t=1607935627,https://cdn.akamai.steamstatic.com/steam/apps/1472260/ss_10ca87130a417f2817b675af0efb264e034584c3.1920x1080.jpg?t=1607935627,https://cdn.akamai.steamstatic.com/steam/apps/1472260/ss_3bb54decc788b5d7d52b9916742912e71214cf60.1920x1080.jpg?t=1607935627,https://cdn.akamai.steamstatic.com/steam/apps/1472260/ss_a712d049c8739ef01796a375a04a944a830212b4.1920x1080.jpg?t=1607935627",
+    "Slug": "macro-golf",
+    "Meta Title": "Macro golf: Dec 14, 2020, Vitok and Full Overview",
+    "Meta Description": "Looking for information on Macro golf? Check out the release date (Dec 14, 2020), developer insights from Vitok, and a complete game summary.",
+    "Alt Text Image": "Official header image for Macro golf game - Steam 1472260",
+    "Canonical URL": "https://gusku.site/game/macro-golf",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Macro golf\", \"description\": \"Looking for information on Macro golf? Check out the release date (Dec 14, 2020), developer insights from Vitok, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 14, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vitok\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vitok\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1472260/header.jpg?t=1607935627\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

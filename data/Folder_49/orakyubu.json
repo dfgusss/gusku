@@ -1,0 +1,21 @@
+{
+    "AppID": 1654900,
+    "Name": "Orakyubu",
+    "Release date": "Aug 15, 2021",
+    "About the game": "Orakyubu is a game about 2D puzzles in 3D space. To compete each puzzle, you will need to push boxes onto every target. However, there's a catch - each puzzle is contained on the faces of cubes. It is possible, and usually necessary, to move the pieces of each puzzle across the faces of their cube as well as onto other cubes to solve the puzzle. Orakyubu contains around 25 puzzles. Each one requires you to approach it in a unique way, so no two puzzles are the same.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1654900/header.jpg?t=1631586027",
+    "Price": 0.0,
+    "Developers": "Peter Lavigne",
+    "Publishers": "Peter Lavigne",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1654900/ss_0e2baa6eb306e4e2db96fe726fa73397e2c4c70d.1920x1080.jpg?t=1631586027,https://cdn.akamai.steamstatic.com/steam/apps/1654900/ss_55831099ccda3c5462b6d460508b8a7a82095c0c.1920x1080.jpg?t=1631586027,https://cdn.akamai.steamstatic.com/steam/apps/1654900/ss_b5f53ff574fc7d4d245433446118b988123b57a6.1920x1080.jpg?t=1631586027,https://cdn.akamai.steamstatic.com/steam/apps/1654900/ss_9fcee29dd1c619ea39728fa7e4fd581ba2c9da31.1920x1080.jpg?t=1631586027,https://cdn.akamai.steamstatic.com/steam/apps/1654900/ss_e0e9b9d339aa23925f987327975ae96f57d1c65a.1920x1080.jpg?t=1631586027",
+    "Slug": "orakyubu",
+    "Meta Title": "Orakyubu: Aug 15, 2021, Peter Lavigne and Full Overview",
+    "Meta Description": "Looking for information on Orakyubu? Check out the release date (Aug 15, 2021), developer insights from Peter Lavigne, and a complete game summary.",
+    "Alt Text Image": "Official header image for Orakyubu game - Steam 1654900",
+    "Canonical URL": "https://gusku.site/game/orakyubu",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Orakyubu\", \"description\": \"Looking for information on Orakyubu? Check out the release date (Aug 15, 2021), developer insights from Peter Lavigne, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 15, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Peter Lavigne\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Peter Lavigne\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1654900/header.jpg?t=1631586027\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

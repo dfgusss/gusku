@@ -1,0 +1,21 @@
+{
+    "AppID": 1808980,
+    "Name": "Truco",
+    "Release date": "Mar 11, 2022",
+    "About the game": "In Truco, you'll have to use your skills to beat the computer. Truco is a card game where you must reach 12 points to win a game. A common deck called 'full' is used, using all 52 cards of a conventional deck. In this game you will play against the computer, and in a round with 3 rounds, you must beat the computer in 2 rounds, to be able to win the match and guarantee your score, if you cannot win the 2 rounds, the score will go to your opponent. Each round is generated a master card, which will determine the 4 super cards of the game, in addition to the normal ranking of cards. If you have a super card and you think you can beat the computer, just shout 'Trick!' to increase the number of points in the match, and then the artificial intelligence will have to decide if you are bluffing or if you might actually be telling the truth. Likewise, the artificial intelligence might yell at you 'Trick!' and you will have to think about whether it is worth continuing the game or not. The 'Trick' shout can be used to bluff as well as to increase the amount of game points you are sure you will win. Once you reach 12 points, the game is over, and you or the computer get one game point. Are you ready to become the master of the deck?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1808980/header.jpg?t=1647056903",
+    "Price": 1.99,
+    "Developers": "Softwaves Mini",
+    "Publishers": "Softwaves Dist.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1808980/ss_05555c41b8637b2a821914289c58e774daccd95a.1920x1080.jpg?t=1647056903,https://cdn.akamai.steamstatic.com/steam/apps/1808980/ss_e6f02a7ca70f201bfc9f3a9acc27fbac4fbbc2a2.1920x1080.jpg?t=1647056903,https://cdn.akamai.steamstatic.com/steam/apps/1808980/ss_b34c2eae5adc89c32b3750bbb12c23627f97a4b0.1920x1080.jpg?t=1647056903,https://cdn.akamai.steamstatic.com/steam/apps/1808980/ss_f5735a1898b362691823e13bd4f16819ac9c2803.1920x1080.jpg?t=1647056903,https://cdn.akamai.steamstatic.com/steam/apps/1808980/ss_620de9517d9995108fbe73e129342f9659d51d7c.1920x1080.jpg?t=1647056903",
+    "Slug": "truco",
+    "Meta Title": "Truco: Mar 11, 2022, Softwaves Mini and Full Overview",
+    "Meta Description": "Looking for information on Truco? Check out the release date (Mar 11, 2022), developer insights from Softwaves Mini, and a complete game summary.",
+    "Alt Text Image": "Official header image for Truco game - Steam 1808980",
+    "Canonical URL": "https://gusku.site/game/truco",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Truco\", \"description\": \"Looking for information on Truco? Check out the release date (Mar 11, 2022), developer insights from Softwaves Mini, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Softwaves Mini\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Softwaves Dist.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1808980/header.jpg?t=1647056903\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

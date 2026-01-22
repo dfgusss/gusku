@@ -1,0 +1,21 @@
+{
+    "AppID": 1897570,
+    "Name": "Visualis Dynamics",
+    "Release date": "May 14, 2022",
+    "About the game": "Educational software allowing to build a large number of mechanics problems, show forces, angular momentum, frictions, gravitation, .. It is possible to build complex geometric structures and to observe the tensions within the objects. Position/velocity/acceleration and energy graphs are displayed in real time and can be exported in an external software. On a larger scale it is possible to observe and interact with massive bodies such as planets, search for stable orbits, observe the gravitational field, tidal effects ... the solar system is available in the models with the main planets including Pluto and Charon. Original version (2006 !) updated and optimized for Windows 7, 10, 11. (compatible with OpenGL 1.4) Useful shortcut keys : 1-4 View from above/front/right/perspective O Center view at origin C Center view on object F Follow selected object Ctrl+T Switch between black and white themes Visualis Electromagnetism is also available on Steam !",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1897570/header.jpg?t=1652532279",
+    "Price": 12.99,
+    "Developers": "François Sahy,Marc Vuffray",
+    "Publishers": "François Sahy",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1897570/ss_97d966575860625ca5bc606513982b37eba10ba0.1920x1080.jpg?t=1652532279,https://cdn.akamai.steamstatic.com/steam/apps/1897570/ss_b3259899383e9bb1b23dcea0d5ddbac5989704bf.1920x1080.jpg?t=1652532279,https://cdn.akamai.steamstatic.com/steam/apps/1897570/ss_5272adeebf78e35f736908eb72b7fe21f26b993e.1920x1080.jpg?t=1652532279,https://cdn.akamai.steamstatic.com/steam/apps/1897570/ss_061549df8a8aa2b02bdb572af394172b8dddaf43.1920x1080.jpg?t=1652532279,https://cdn.akamai.steamstatic.com/steam/apps/1897570/ss_31b5f8a96450b67bc946f5d84d23ef80eefd5540.1920x1080.jpg?t=1652532279,https://cdn.akamai.steamstatic.com/steam/apps/1897570/ss_3f495da93e072707c00ff5a2b67a55f56e5eb3c7.1920x1080.jpg?t=1652532279,https://cdn.akamai.steamstatic.com/steam/apps/1897570/ss_de428e714354407b0df092cf29fb5957324d37c8.1920x1080.jpg?t=1652532279,https://cdn.akamai.steamstatic.com/steam/apps/1897570/ss_862cab8b02750c76bb02c82005556ee1b4abe816.1920x1080.jpg?t=1652532279,https://cdn.akamai.steamstatic.com/steam/apps/1897570/ss_3df4ebe49702e25c87e845bf1dcf32d320f53202.1920x1080.jpg?t=1652532279",
+    "Slug": "visualis-dynamics",
+    "Meta Title": "Visualis Dynamics: May 14, 2022, François Sahy,Marc Vuffr...",
+    "Meta Description": "Looking for information on Visualis Dynamics? Check out the release date (May 14, 2022), developer insights from François Sahy,Marc Vuffray, and a compl...",
+    "Alt Text Image": "Official header image for Visualis Dynamics game - Steam 1897570",
+    "Canonical URL": "https://gusku.site/game/visualis-dynamics",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Visualis Dynamics\", \"description\": \"Looking for information on Visualis Dynamics? Check out the release date (May 14, 2022), developer insights from Fran\\u00e7ois Sahy,Marc Vuffray, and a compl...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 14, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fran\\u00e7ois Sahy,Marc Vuffray\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fran\\u00e7ois Sahy\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1897570/header.jpg?t=1652532279\", \"offers\": {\"@type\": \"Offer\", \"price\": 12.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

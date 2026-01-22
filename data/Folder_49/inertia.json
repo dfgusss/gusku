@@ -1,0 +1,21 @@
+{
+    "AppID": 1710340,
+    "Name": "Inertia",
+    "Release date": "Feb 24, 2022",
+    "About the game": "Inertia is a survival game where you're stranded in space in an asteroid field. Use your ship to boost through fuel-rich asteroids to get points and fuel by double-clicking, and use any power-ups you find along the way to help you survive. But be careful, while boosting you use up more fuel. In this game, the only thing you use is your mouse. Move your mouse to orient your ship, left-click to move in that direction, and double left-click to boost through asteroids. This game was made as a part of a Game Jam, where the theme was One Button. We hope you like it!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1710340/header.jpg?t=1645742306",
+    "Price": 2.99,
+    "Developers": "Rampage Games",
+    "Publishers": "Rampage Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1710340/ss_332d225e0e696db3b5ee419b662b9862fa9aae18.1920x1080.jpg?t=1645742306,https://cdn.akamai.steamstatic.com/steam/apps/1710340/ss_5447366ae3f9067332bc93b9556318f06e51cde5.1920x1080.jpg?t=1645742306,https://cdn.akamai.steamstatic.com/steam/apps/1710340/ss_29b73d49c6f0babeef356cddcf383b0c60b369e4.1920x1080.jpg?t=1645742306,https://cdn.akamai.steamstatic.com/steam/apps/1710340/ss_10d2d86b0412688cb17efd5ce53e1c4d7e9fafad.1920x1080.jpg?t=1645742306,https://cdn.akamai.steamstatic.com/steam/apps/1710340/ss_028c33cbecc091117b141bcfa67961106b75e85f.1920x1080.jpg?t=1645742306",
+    "Slug": "inertia",
+    "Meta Title": "Inertia: Feb 24, 2022, Rampage Games and Full Overview",
+    "Meta Description": "Looking for information on Inertia? Check out the release date (Feb 24, 2022), developer insights from Rampage Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Inertia game - Steam 1710340",
+    "Canonical URL": "https://gusku.site/game/inertia",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Inertia\", \"description\": \"Looking for information on Inertia? Check out the release date (Feb 24, 2022), developer insights from Rampage Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 24, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rampage Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rampage Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1710340/header.jpg?t=1645742306\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

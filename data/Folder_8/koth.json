@@ -1,0 +1,21 @@
+{
+    "AppID": 493110,
+    "Name": "KOTH",
+    "Release date": "Sep 1, 2016",
+    "About the game": "Enter surreal computer generated worlds and do battle with the mighty KOTH. Climb to the top of the map to defeat it but don't be caught in its deadly radar beam. Inspired by the 8 bit classic 'The Sentinel' and re-imagined for VR, KOTH is written with full support for the HTC VIVE as well as standard PC mode using keyboard and mouse. If using VR, this game is best played standing and requires a tracked controller.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/493110/header.jpg?t=1592666217",
+    "Price": 1.74,
+    "Developers": "Abbeytek Ltd",
+    "Publishers": "Abbeytek Ltd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/493110/ss_aa69e198becdd508b61ca214bb8faeb8092646c3.1920x1080.jpg?t=1592666217,https://cdn.akamai.steamstatic.com/steam/apps/493110/ss_5c116905dbdf0d42e04c712d6792fab39de05df9.1920x1080.jpg?t=1592666217,https://cdn.akamai.steamstatic.com/steam/apps/493110/ss_d729c4dfc8c16ead673ec190c1b6e625b81a024d.1920x1080.jpg?t=1592666217,https://cdn.akamai.steamstatic.com/steam/apps/493110/ss_ff578fb6e9455de705803c1bbf480675fc366265.1920x1080.jpg?t=1592666217,https://cdn.akamai.steamstatic.com/steam/apps/493110/ss_c56996412588e73a8734a44d357c3e298a05e8ab.1920x1080.jpg?t=1592666217",
+    "Slug": "koth",
+    "Meta Title": "KOTH: Sep 1, 2016, Abbeytek Ltd and Full Overview",
+    "Meta Description": "Looking for information on KOTH? Check out the release date (Sep 1, 2016), developer insights from Abbeytek Ltd, and a complete game summary.",
+    "Alt Text Image": "Official header image for KOTH game - Steam 493110",
+    "Canonical URL": "https://gusku.site/game/koth",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"KOTH\", \"description\": \"Looking for information on KOTH? Check out the release date (Sep 1, 2016), developer insights from Abbeytek Ltd, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Abbeytek Ltd\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Abbeytek Ltd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/493110/header.jpg?t=1592666217\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.74, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1196940,
+    "Name": "Particulate",
+    "Release date": "Dec 16, 2019",
+    "About the game": "Play with physics. Create and save dynamic scenes using an array of tools. Witness complex physical interactions and emergent behavior. PARTICULATE simulates millions of tiny particles using the massive parallel processing power of VR-capable graphics cards. Built using a new and fully-custom engine for high performance, PARTICULATE is a physics sandbox but also a fully-fledged creative tool. Features View featured scenes when you just want to relax and watch cool stuff happen. Build and save your own scenes when you're feeling creative. Interact with particles using ten tool types: several particle emitters, the Attractor/Repeller, Orbiter, Collision Sphere, Distortion Field, Colorizer, Dragger, and Stirrer. Tools can be placed into scenes statically, or you can record (and loop) their motion using a simple press-move-release mechanic. Turn on Audio Reactivity and play your own music (using any app) to add a new dimension to any scene. Build (and save) particle 'sculptures' - static scenes with no placed emitters. Use 'Freestyle Mode' to jump in quickly and interact with automatically-regenerating particles (works well as a demo for new VR users!) Take an optional guided tutorial to learn how to use the app. Note that PARTICULATE currently supports only Oculus VR headsets (using the native Oculus SDK). This is due to the app having been built on a custom engine, which makes porting to SteamVR non-trivial (though that should happen eventually).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1196940/header.jpg?t=1576794624",
+    "Price": 9.99,
+    "Developers": "Mike Turitzin",
+    "Publishers": "Mike Turitzin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1196940/ss_8dfaf8ab66be816207188cfa8365d223629cb522.1920x1080.jpg?t=1576794624,https://cdn.akamai.steamstatic.com/steam/apps/1196940/ss_170bb20d1a81a50a82b948cde93e38037b5be0f1.1920x1080.jpg?t=1576794624,https://cdn.akamai.steamstatic.com/steam/apps/1196940/ss_28ed48ece34a4c1972da87171e229ccb35c72ec9.1920x1080.jpg?t=1576794624,https://cdn.akamai.steamstatic.com/steam/apps/1196940/ss_fa67068ff8f5623d54972b5c2e9b72d77f8cd29f.1920x1080.jpg?t=1576794624,https://cdn.akamai.steamstatic.com/steam/apps/1196940/ss_9675f78206a61d35143dba703a3e1036d68a12ff.1920x1080.jpg?t=1576794624",
+    "Slug": "particulate",
+    "Meta Title": "Particulate: Dec 16, 2019, Mike Turitzin and Full Overview",
+    "Meta Description": "Looking for information on Particulate? Check out the release date (Dec 16, 2019), developer insights from Mike Turitzin, and a complete game summary.",
+    "Alt Text Image": "Official header image for Particulate game - Steam 1196940",
+    "Canonical URL": "https://gusku.site/game/particulate",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Particulate\", \"description\": \"Looking for information on Particulate? Check out the release date (Dec 16, 2019), developer insights from Mike Turitzin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 16, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mike Turitzin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mike Turitzin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1196940/header.jpg?t=1576794624\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

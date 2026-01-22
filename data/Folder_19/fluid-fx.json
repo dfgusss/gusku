@@ -1,0 +1,21 @@
+{
+    "AppID": 1853880,
+    "Name": "Fluid FX",
+    "Release date": "Jan 10, 2022",
+    "About the game": "WHAT IS FLUID FX? Fluid FX is a tool that relies on a fluid/pressure simulation to achieve different kind of animations like explosions, blood, smoke, dust, magic effects,etc.. You can easily get cool animations with the included presets, and tweaking their values. After you get the result you want, you can export it directly into a spritesheet and import it into your game. This tool is being developed by @CodeManu if you find it useful, have any doubt or just want to say hi, feel free to message me! FEATURES Achieve astounding animations with ease. Modify animations easily by tweaking sliders. Render the animation and get a .png spritesheet with the animation. Spritesheets are trimmed and optimized. Add reference images and get them rendered too. 20+ presets included to get you started. Export/Import your own presets. GIF export for preview purposes. Frameskip option to reduce final spritesheet size. Supports alpha channel. FLUID FX IS POWERED BY 'FLUID DYNAMICS' BY MYTINO Fluid Dynamics does all the hard job with fluids and pressure simulation, and you can use it in realtime with an incredible performance (seriously, It's amazing how good it runs). Fluid Dynamics works with GameMaker Studio 1 &amp; 2. LIMITATIONS Saving/Exporting might fail if you don't have permissions. Try running the app as an admin and try to not save on the app's root folder. Saving/Exporting in the same folder where the app is running doesn't always work.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1853880/header.jpg?t=1641834347",
+    "Price": 19.99,
+    "Developers": "CodeManu",
+    "Publishers": "CodeManu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1853880/ss_62b2a873af625d7a83e57eb4bbad77f4e1365674.1920x1080.jpg?t=1641834347,https://cdn.akamai.steamstatic.com/steam/apps/1853880/ss_160fc841e22b40a845d6123f0f7343ccd8764cbe.1920x1080.jpg?t=1641834347,https://cdn.akamai.steamstatic.com/steam/apps/1853880/ss_164671526b316d3860299d1c4f5460191c6c4351.1920x1080.jpg?t=1641834347,https://cdn.akamai.steamstatic.com/steam/apps/1853880/ss_8f3e9fffe7ea82c83d9bddce1120d67e757e99a1.1920x1080.jpg?t=1641834347,https://cdn.akamai.steamstatic.com/steam/apps/1853880/ss_3b87ad619efa2f24851dcde82102d50432d8c3bc.1920x1080.jpg?t=1641834347",
+    "Slug": "fluid-fx",
+    "Meta Title": "Fluid FX: Jan 10, 2022, CodeManu and Full Overview",
+    "Meta Description": "Looking for information on Fluid FX? Check out the release date (Jan 10, 2022), developer insights from CodeManu, and a complete game summary.",
+    "Alt Text Image": "Official header image for Fluid FX game - Steam 1853880",
+    "Canonical URL": "https://gusku.site/game/fluid-fx",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fluid FX\", \"description\": \"Looking for information on Fluid FX? Check out the release date (Jan 10, 2022), developer insights from CodeManu, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 10, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"CodeManu\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CodeManu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1853880/header.jpg?t=1641834347\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

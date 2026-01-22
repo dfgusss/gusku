@@ -1,0 +1,21 @@
+{
+    "AppID": 1477830,
+    "Name": "HudSight - custom crosshair overlay",
+    "Release date": "Jan 5, 2021",
+    "About the game": "HudSight tool draws your custom crosshair directly in a game screen. Our software uses overlay rendering technique which works both in full screen exclusive and windowed modes. Everyone knows that a game running in the full screen mode gets better performance and lowest possible input lag. But there is a problem with common 'on top' overlay tools. They cannot work in this full screen mode. HudSight can do it. Set one of pre-installed crosshairs or select your own image and that's all! Run a game and software will do the rest of work - your image will be automatically centered on the game screen. HudSight supports games based on DirectX 9, 10, 11, 12, OpenGL and Vulkan graphics. 32 and 64-bits games are welcome. It works on Windows 7, 8 and 10. Games compatibility Some games don't allow 3rd party overlays. For example, Destiny 2 or Forza Horizon 4. Some games allow overlays but with limitations, as example - CSGO which must be started with -allow_third_party_software key in the command line Anti-cheats compatibility HudSight works in the same manner as most of recording/streaming tools. This tool is not a cheat, it doesn't change games files or game play, it just draws an overlay (like Steam service). You only need to be sure that the Terms of Service of a game you play do not deny such enhancement.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1477830/header.jpg?t=1620746309",
+    "Price": 6.99,
+    "Developers": "Eduard Kozadaev",
+    "Publishers": "Eduard Kozadaev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1477830/ss_25eb3b8c9cd85fddcd3a9da8d1bc1c40bb98fc9c.1920x1080.jpg?t=1620746309,https://cdn.akamai.steamstatic.com/steam/apps/1477830/ss_4fcdf2eae595704505423970af913da0842cdde4.1920x1080.jpg?t=1620746309,https://cdn.akamai.steamstatic.com/steam/apps/1477830/ss_a86c76a03d84f070634c5266b3d880f597101721.1920x1080.jpg?t=1620746309,https://cdn.akamai.steamstatic.com/steam/apps/1477830/ss_62dca5872754a2b0e15e65f21acee25f43ad11e7.1920x1080.jpg?t=1620746309,https://cdn.akamai.steamstatic.com/steam/apps/1477830/ss_a2529e192a3bd355d52539ea62ed9a135bbf4cf6.1920x1080.jpg?t=1620746309",
+    "Slug": "hudsight-custom-crosshair-overlay",
+    "Meta Title": "HudSight - custom crosshair overlay: Jan 5, 2021, Eduard ...",
+    "Meta Description": "Looking for information on HudSight - custom crosshair overlay? Check out the release date (Jan 5, 2021), developer insights from Eduard Kozadaev, and a...",
+    "Alt Text Image": "Official header image for HudSight - custom crosshair overlay game - Steam 1477830",
+    "Canonical URL": "https://gusku.site/game/hudsight-custom-crosshair-overlay",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HudSight - custom crosshair overlay\", \"description\": \"Looking for information on HudSight - custom crosshair overlay? Check out the release date (Jan 5, 2021), developer insights from Eduard Kozadaev, and a...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 5, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eduard Kozadaev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Eduard Kozadaev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1477830/header.jpg?t=1620746309\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

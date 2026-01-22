@@ -1,0 +1,21 @@
+{
+    "AppID": 479330,
+    "Name": "Crazy Stone Deep Learning -The First Edition-",
+    "Release date": "May 25, 2016",
+    "About the game": "Crazy Stone has made a huge step forward by combining Deep Neural Networks with Monte Carlo Tree Search. The new Crazy Stone employs Deep Convolutional neural networks as a replacement for the pattern database and has produced a significant improvement in strength. The new program has scored a winning rate of over 90% against the previous program Crazy Stone 2013 ! We have provided 20 levels of play (13k-7d) for all the board sizes. Crazy Stone has improved not only in strength, but also in his style of play and the lower levels are perfect for the average players. Features 20 levels of play for each board size (9×9, 13×13, 19×19) Human vs Computer, Human vs Human (sharing a single device) Computer vs Computer Games Handicap games, variable options of Komi Hint (suggest) Instant Undo (available even when the computer is thinking) Automatic territory calculation Japanese / Chinese Rule Suspend / Re-start games Save / Load game record in sgf files Automatic and manual replay of a game record Highlight the last move COM resign feature Two types of Board and Stones Byoyomi games (Timed games) (You will not be able to select computer level in timed games) Analysis Mode (Move list, Histogram, Record analysis) You can analyze your current game and also game records saved in sgf files. Some screen-shot samples of the analysis mode are shown above.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/479330/header.jpg?t=1464256204",
+    "Price": 79.99,
+    "Developers": "UNBALANCE Corporation,Rémi Coulom SAS",
+    "Publishers": "UNBALANCE Corporation",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/479330/ss_203ba3f9f64bbea129edec0f863c60abf3699c32.1920x1080.jpg?t=1464256204,https://cdn.akamai.steamstatic.com/steam/apps/479330/ss_d656f4c4ab66cc0de422ce752dc1578f05f14ec1.1920x1080.jpg?t=1464256204,https://cdn.akamai.steamstatic.com/steam/apps/479330/ss_ff6b0938fef4fe8f7b0892349dfe094b76ca15fb.1920x1080.jpg?t=1464256204,https://cdn.akamai.steamstatic.com/steam/apps/479330/ss_34e9f420d4cea54ffef95b8932c320379a812337.1920x1080.jpg?t=1464256204,https://cdn.akamai.steamstatic.com/steam/apps/479330/ss_9fa1b3f45a0850da13bbccd5dd03b2ba8dd6f2b4.1920x1080.jpg?t=1464256204",
+    "Slug": "crazy-stone-deep-learning-the-first-edition",
+    "Meta Title": "Crazy Stone Deep Learning -The First Edition-: May 25, 20...",
+    "Meta Description": "Looking for information on Crazy Stone Deep Learning -The First Edition-? Check out the release date (May 25, 2016), developer insights from UNBALANCE C...",
+    "Alt Text Image": "Official header image for Crazy Stone Deep Learning -The First Edition- game - Steam 479330",
+    "Canonical URL": "https://gusku.site/game/crazy-stone-deep-learning-the-first-edition",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Crazy Stone Deep Learning -The First Edition-\", \"description\": \"Looking for information on Crazy Stone Deep Learning -The First Edition-? Check out the release date (May 25, 2016), developer insights from UNBALANCE C...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 25, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"UNBALANCE Corporation,R\\u00e9mi Coulom SAS\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"UNBALANCE Corporation\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/479330/header.jpg?t=1464256204\", \"offers\": {\"@type\": \"Offer\", \"price\": 79.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

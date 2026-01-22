@@ -1,0 +1,21 @@
+{
+    "AppID": 1471550,
+    "Name": "Variable",
+    "Release date": "Dec 13, 2020",
+    "About the game": "Variable is a real-time card game. The goal of the game is to score more points than the opponent. The player must take cards from the common deck. When the deck is over, points are counted. There are five types of cards. If the card is repeated, then the move is transferred to another player. There are special cards in the deck: 1 - Take any enemy card. 2 - The game is transferred to another player. The game continues until the third defeat. You can play with a computer or another player.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1471550/header.jpg?t=1607925341",
+    "Price": 19.99,
+    "Developers": "Kedexa",
+    "Publishers": "Kedexa",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1471550/ss_997f102c26f04950d8e613ac74227815590054d3.1920x1080.jpg?t=1607925341,https://cdn.akamai.steamstatic.com/steam/apps/1471550/ss_02fb543907deb31c1bb6ae9211d4f3519c822cf3.1920x1080.jpg?t=1607925341,https://cdn.akamai.steamstatic.com/steam/apps/1471550/ss_dd7124aef9131375d821d20c3dcb6648ae6d282a.1920x1080.jpg?t=1607925341,https://cdn.akamai.steamstatic.com/steam/apps/1471550/ss_9c70bd6347cd725d82ccd4527fa672817d669ca4.1920x1080.jpg?t=1607925341,https://cdn.akamai.steamstatic.com/steam/apps/1471550/ss_653feab4716b0b04eb9f6a486b637baf33657a7e.1920x1080.jpg?t=1607925341",
+    "Slug": "variable",
+    "Meta Title": "Variable: Dec 13, 2020, Kedexa and Full Overview",
+    "Meta Description": "Looking for information on Variable? Check out the release date (Dec 13, 2020), developer insights from Kedexa, and a complete game summary.",
+    "Alt Text Image": "Official header image for Variable game - Steam 1471550",
+    "Canonical URL": "https://gusku.site/game/variable",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Variable\", \"description\": \"Looking for information on Variable? Check out the release date (Dec 13, 2020), developer insights from Kedexa, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 13, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kedexa\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kedexa\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1471550/header.jpg?t=1607925341\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

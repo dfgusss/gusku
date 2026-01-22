@@ -1,0 +1,21 @@
+{
+    "AppID": 612310,
+    "Name": "GORB",
+    "Release date": "Apr 7, 2017",
+    "About the game": "GORB is a Physics based puzzle game, with simple mechanics. Inspired by Red Remover, your goal is to remove all Red and Orange shapes from the screen, while ensuring that the Green shapes remain on screen. Follow along with the in-game tutorial to learn the simple rules. Do you have what it takes to complete all 168 levels? Features: - 7 Worlds - 168 levels - Collectable Bonus Stars - Interactive tutorial to help you learn the rules of the game - Colorful characters, simple to play, fun for all ages - Simple and fun game mechanics - Works great on touch based devices",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/612310/header.jpg?t=1502016580",
+    "Price": 0.99,
+    "Developers": "Jon Gallant",
+    "Publishers": "jgallant",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/612310/ss_26e68a64bc7ea7f684b63ebf8e6005a73294ed0d.1920x1080.jpg?t=1502016580,https://cdn.akamai.steamstatic.com/steam/apps/612310/ss_64521c621e3d42f866f70af2d347e2c4e5b34319.1920x1080.jpg?t=1502016580,https://cdn.akamai.steamstatic.com/steam/apps/612310/ss_45e3e7944bf3b76dc54b58e9c6cfa7f66234f120.1920x1080.jpg?t=1502016580,https://cdn.akamai.steamstatic.com/steam/apps/612310/ss_bb7850845f632a5f88a0622743df28977050a273.1920x1080.jpg?t=1502016580,https://cdn.akamai.steamstatic.com/steam/apps/612310/ss_64a80525cd0594abd6d5c7eff9f353faf003c810.1920x1080.jpg?t=1502016580,https://cdn.akamai.steamstatic.com/steam/apps/612310/ss_fdf30d09dfd80bf80946c36d73fe8cb75e72faa9.1920x1080.jpg?t=1502016580,https://cdn.akamai.steamstatic.com/steam/apps/612310/ss_efdd4f45c473a5871f2bfe39e96d20912cf43cae.1920x1080.jpg?t=1502016580,https://cdn.akamai.steamstatic.com/steam/apps/612310/ss_2edc477c429a55b7826b871ad24e7c0750e2f1ec.1920x1080.jpg?t=1502016580",
+    "Slug": "gorb",
+    "Meta Title": "GORB: Apr 7, 2017, Jon Gallant and Full Overview",
+    "Meta Description": "Looking for information on GORB? Check out the release date (Apr 7, 2017), developer insights from Jon Gallant, and a complete game summary.",
+    "Alt Text Image": "Official header image for GORB game - Steam 612310",
+    "Canonical URL": "https://gusku.site/game/gorb",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GORB\", \"description\": \"Looking for information on GORB? Check out the release date (Apr 7, 2017), developer insights from Jon Gallant, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 7, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jon Gallant\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"jgallant\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/612310/header.jpg?t=1502016580\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

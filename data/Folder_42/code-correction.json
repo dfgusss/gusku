@@ -1,0 +1,21 @@
+{
+    "AppID": 1663450,
+    "Name": "Code Correction",
+    "Release date": "Jun 27, 2021",
+    "About the game": "a puzzle game based on parity and hamming codes. each puzzle is randomly generated. first a binary code is generated. then a binary key is created based on the original binary code. finally a single digit within the original binary code is inverted. using the key you must find the binary digit that was inverted. modes 2x2 = 2^(2*2)*2*2 = 64 possible combinations 4x4 = 2^(4*4)*4*4 = 1,048,576 possible combinations 8x8 = 2^(8*8)*8*8 = over 1,180,000,000,000,000,000,000 possible combinations 16x16 = 2^(16*16)*16*16 = a very large number. 32x32 = 2^(32*32)*32*32 = more puzzles than any human can solve in a lifetime.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1663450/header.jpg?t=1624781053",
+    "Price": 6.99,
+    "Developers": "Feral Code Monkey",
+    "Publishers": "Feral Code Monkey",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1663450/ss_381cfab41b22f766b68994c6ad05b6776f0e77f6.1920x1080.jpg?t=1624781053,https://cdn.akamai.steamstatic.com/steam/apps/1663450/ss_702389cf95f167c5064aaf5b66725da4ff0ea093.1920x1080.jpg?t=1624781053,https://cdn.akamai.steamstatic.com/steam/apps/1663450/ss_9de2c4be4bbd20ec5e1c6ec6e53d6b64a599026a.1920x1080.jpg?t=1624781053,https://cdn.akamai.steamstatic.com/steam/apps/1663450/ss_658b0095fb4d12ad2ac7c25d631cb02966865f9a.1920x1080.jpg?t=1624781053,https://cdn.akamai.steamstatic.com/steam/apps/1663450/ss_8a353c2a935e8148499967361f11a94528ea26aa.1920x1080.jpg?t=1624781053",
+    "Slug": "code-correction",
+    "Meta Title": "Code Correction: Jun 27, 2021, Feral Code Monkey and Full...",
+    "Meta Description": "Looking for information on Code Correction? Check out the release date (Jun 27, 2021), developer insights from Feral Code Monkey, and a complete game su...",
+    "Alt Text Image": "Official header image for Code Correction game - Steam 1663450",
+    "Canonical URL": "https://gusku.site/game/code-correction",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Code Correction\", \"description\": \"Looking for information on Code Correction? Check out the release date (Jun 27, 2021), developer insights from Feral Code Monkey, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Feral Code Monkey\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Feral Code Monkey\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1663450/header.jpg?t=1624781053\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 629520,
+    "Name": "Soundpad",
+    "Release date": "Sep 30, 2017",
+    "About the game": "Play sounds in voice chats in high digital quality. Try the free demo now! You probably heard of soundboard, where people put sounds together like the popular Duke Nukem sounds. With Soundpad you can play them not only to yourself, but also to others. Features Play sounds in voice chats Works in any voice related application like Teamspeak, Mumble, Skype, Discord or games like Dota2, CS:GO or PUBG. Hotkeys Set hotkeys for each and every sound file and play them quickly while ingame. Sound recorder and editor Soundpad has a built-in Sound recorder, which allows you to record what you hear. The integrated editor helps you to cut the sounds quickly. Volume normalization Some of your sound files are quiet while others are too loud? The integrated volume normalization will equalize the volume, so it meets the volume of your voice. Easy setup Soundpad extends your default recording device, which most commonly is your microphone, without installing additional devices. After a system restart you can enjoy playing sounds on your microphone. Supported file types aac, flac, m4a, mp3, ogg, wav, wma Important notice: Soundpad installs an audio driver extension, which requires a system restart when you run Soundpad for the first time. Furthermore, Soundpad requires deactivated Windows Audio DRM validation in order to work. If you want to watch a DRM protected DVD and run Soundpad at the same time, one of both will not work. You can toggle DRM validation in the options, when you are about to watch or listen to DRM protected media. Check out the demo and start collecting your individual sounds!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/629520/header.jpg?t=1577013777",
+    "Price": 4.99,
+    "Developers": "Leppsoft",
+    "Publishers": "Leppsoft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/629520/ss_facc7bb5119869ba119eb35a810176d4632080c4.1920x1080.jpg?t=1577013777,https://cdn.akamai.steamstatic.com/steam/apps/629520/ss_b387ee7ab58043e798b3ab408f7cc11fe57ccf4f.1920x1080.jpg?t=1577013777,https://cdn.akamai.steamstatic.com/steam/apps/629520/ss_1d361360f1d8b545268bac9d835cf1a6c7907fa8.1920x1080.jpg?t=1577013777,https://cdn.akamai.steamstatic.com/steam/apps/629520/ss_640dcdb558836fa7182c8776dfab31fa6f46b69d.1920x1080.jpg?t=1577013777,https://cdn.akamai.steamstatic.com/steam/apps/629520/ss_619882c7019a2df9d0cae5d7de2e44132d504c60.1920x1080.jpg?t=1577013777,https://cdn.akamai.steamstatic.com/steam/apps/629520/ss_466f65f62e6f8f47a3207d80641e0ce837c35930.1920x1080.jpg?t=1577013777,https://cdn.akamai.steamstatic.com/steam/apps/629520/ss_5ab1914b0ddcc411b63a437e401f75e4f230aa8d.1920x1080.jpg?t=1577013777,https://cdn.akamai.steamstatic.com/steam/apps/629520/ss_f3a6f799916a3d909b579b3d64a3abaa9608a689.1920x1080.jpg?t=1577013777,https://cdn.akamai.steamstatic.com/steam/apps/629520/ss_b9979ab5c97bc73aa569ebafcfe91eaf4604b95b.1920x1080.jpg?t=1577013777",
+    "Slug": "soundpad",
+    "Meta Title": "Soundpad: Sep 30, 2017, Leppsoft and Full Overview",
+    "Meta Description": "Looking for information on Soundpad? Check out the release date (Sep 30, 2017), developer insights from Leppsoft, and a complete game summary.",
+    "Alt Text Image": "Official header image for Soundpad game - Steam 629520",
+    "Canonical URL": "https://gusku.site/game/soundpad",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Soundpad\", \"description\": \"Looking for information on Soundpad? Check out the release date (Sep 30, 2017), developer insights from Leppsoft, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 30, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Leppsoft\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Leppsoft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/629520/header.jpg?t=1577013777\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

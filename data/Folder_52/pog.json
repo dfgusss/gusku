@@ -1,0 +1,21 @@
+{
+    "AppID": 1602990,
+    "Name": "POG",
+    "Release date": "Apr 27, 2021",
+    "About the game": "POG - cute, minimal physical puzzle. The player's goal - to keep the star-block on the star-platform for few seconds in order to pass the level. In POG: - 50 levels - Minimalistic art - Achievements - Relax music",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1602990/header.jpg?t=1658657273",
+    "Price": 1.99,
+    "Developers": "Cute Hannah's Games",
+    "Publishers": "Cute Hannah's Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1602990/ss_dede3d41cd741b21b6a1a1cf97996e48173a17e5.1920x1080.jpg?t=1658657273,https://cdn.akamai.steamstatic.com/steam/apps/1602990/ss_5b3c5562b0216f5d3f662f453cae357226643e0f.1920x1080.jpg?t=1658657273,https://cdn.akamai.steamstatic.com/steam/apps/1602990/ss_53fe6267544189273d2fce27e5e7d333e20189bd.1920x1080.jpg?t=1658657273,https://cdn.akamai.steamstatic.com/steam/apps/1602990/ss_379fbf3301e2d33cf82c5a1ac9e358937eb23bc8.1920x1080.jpg?t=1658657273,https://cdn.akamai.steamstatic.com/steam/apps/1602990/ss_c0b046354aed1462ef11365863fd0df5a4b575ae.1920x1080.jpg?t=1658657273",
+    "Slug": "pog",
+    "Meta Title": "POG: Apr 27, 2021, Cute Hannah's Games and Full Overview",
+    "Meta Description": "Looking for information on POG? Check out the release date (Apr 27, 2021), developer insights from Cute Hannah's Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for POG game - Steam 1602990",
+    "Canonical URL": "https://gusku.site/game/pog",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"POG\", \"description\": \"Looking for information on POG? Check out the release date (Apr 27, 2021), developer insights from Cute Hannah's Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cute Hannah's Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cute Hannah's Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1602990/header.jpg?t=1658657273\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 948220,
+    "Name": "ColorTool",
+    "Release date": "Nov 6, 2018",
+    "About the game": "ColorTool is a software for creating color palettes from scratch. You can use these palettes you created for your illustrations, pixel art or design work. Import your own illustrations and enable remapping to see how they would look like with your newly created palette. See all changes in real-time and export the final result. Get inspired and import reference images to guide your color picking process. Features Create palettes by placing an intricate web of colors and their connections. See directly how the palettes change the look of your illustrations. Make tweaks and see the results in real time! Highly advanced remapping algorithm allowing you to change the colors of your artwork after the fact! Export created palettes in 8 different palette formats to be used in a wide array of software including Aseprite, Krita, Photoshop and many more! ... or export as PNG file in different arrangements, usable in almost all creative software.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/948220/header.jpg?t=1628617108",
+    "Price": 15.99,
+    "Developers": "Manuel Riecke",
+    "Publishers": "Manuel Riecke",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/948220/ss_c07b1fc1f7ff71cc04c4c34e2edc6b5f2fb4dfd6.1920x1080.jpg?t=1628617108,https://cdn.akamai.steamstatic.com/steam/apps/948220/ss_3f77e13a69d2c4c81cc945bd62ac32cc50260320.1920x1080.jpg?t=1628617108,https://cdn.akamai.steamstatic.com/steam/apps/948220/ss_93ecd00db193090e40015ab0498b09b715ffed9f.1920x1080.jpg?t=1628617108,https://cdn.akamai.steamstatic.com/steam/apps/948220/ss_485eecfde0bcbf9a4c84e6017a301b17a5c05637.1920x1080.jpg?t=1628617108,https://cdn.akamai.steamstatic.com/steam/apps/948220/ss_85f487bbe5158a1cdfc42e14e9cbdb6b5b323398.1920x1080.jpg?t=1628617108",
+    "Slug": "colortool",
+    "Meta Title": "ColorTool: Nov 6, 2018, Manuel Riecke and Full Overview",
+    "Meta Description": "Looking for information on ColorTool? Check out the release date (Nov 6, 2018), developer insights from Manuel Riecke, and a complete game summary.",
+    "Alt Text Image": "Official header image for ColorTool game - Steam 948220",
+    "Canonical URL": "https://gusku.site/game/colortool",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ColorTool\", \"description\": \"Looking for information on ColorTool? Check out the release date (Nov 6, 2018), developer insights from Manuel Riecke, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 6, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Manuel Riecke\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Manuel Riecke\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/948220/header.jpg?t=1628617108\", \"offers\": {\"@type\": \"Offer\", \"price\": 15.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

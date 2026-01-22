@@ -1,0 +1,21 @@
+{
+    "AppID": 1434850,
+    "Name": "Lumpy",
+    "Release date": "Feb 4, 2021",
+    "About the game": "Play as an astronaut of the cosmos repairing a ruined planet. Tractor-beam in comets, asteroids, and gas-teroids to reach equilibrium and sustain life. Originally crafted as part of Global Game Jam 2020, revamped and expanded upon. Craft Your World Create your own ideal world with Lumpy! You play as an astronaut tasked with terraforming a barren lava world to support life. Balance Resources Click on orbiting comets, earth lumps, and gas-teroids to increase your planet's water content, mass, and atmosphere respectively. Balance all of these resources with temperature to make your planet happy and life-sustaining! Be careful though, because adding too much mass to your planet can cause it to implode, ruining all of your hard work so far. Create Life Once your water, atmosphere, and temperature all reach their goldilocks zones, right click to plant a tree! This will stabilize your planet and bring all resources closer to the goldilocks value. Each plant will get progressively harder to plant, but after planting 5 plants without losing one, you win! Complete Your Mission How well did you do? At the end of the game, you'll get a score based on the time you took to finish your planet, the number of orbiting bodies you had to use, and the final mass of your planet. Golf rules, the lower the better!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1434850/header.jpg?t=1612922559",
+    "Price": 0.99,
+    "Developers": "Divine Gardener Studios",
+    "Publishers": "Divine Gardener Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1434850/ss_36b3178529a6d0981ab055a32daa4b054f5147b1.1920x1080.jpg?t=1612922559,https://cdn.akamai.steamstatic.com/steam/apps/1434850/ss_4288a21fabc6e2d72eecd1b834d5890d3673f3e3.1920x1080.jpg?t=1612922559,https://cdn.akamai.steamstatic.com/steam/apps/1434850/ss_866ccf5b0f2fdb68abdbe8d486a63c7f2c9b2e85.1920x1080.jpg?t=1612922559,https://cdn.akamai.steamstatic.com/steam/apps/1434850/ss_241e0c791442ce5d5e1155400879398b3c4cff93.1920x1080.jpg?t=1612922559,https://cdn.akamai.steamstatic.com/steam/apps/1434850/ss_4529666bcc61d5c06b1a7246d5630ca216c26cc0.1920x1080.jpg?t=1612922559",
+    "Slug": "lumpy",
+    "Meta Title": "Lumpy: Feb 4, 2021, Divine Gardener Studios and Full Over...",
+    "Meta Description": "Looking for information on Lumpy? Check out the release date (Feb 4, 2021), developer insights from Divine Gardener Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lumpy game - Steam 1434850",
+    "Canonical URL": "https://gusku.site/game/lumpy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lumpy\", \"description\": \"Looking for information on Lumpy? Check out the release date (Feb 4, 2021), developer insights from Divine Gardener Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 4, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Divine Gardener Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Divine Gardener Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1434850/header.jpg?t=1612922559\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

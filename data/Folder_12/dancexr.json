@@ -1,0 +1,21 @@
+{
+    "AppID": 1905510,
+    "Name": "DanceXR",
+    "Release date": "Jun 1, 2022",
+    "About the game": "DanceXR is a character model viewer and motion player. It supports PMX(MMD) &amp; XNALara/XPS models and VMD motion format. Unlike other MMD players DanceXR allows almost any motion to play on any model without any manual tweaking or bone adjustments. It doesn't matter whether the model has IK bones or is it in T pose or A pose, the model &amp; motion are adapted automatically on the fly by our unique motion system to ensure the maximum compatibility. There are also tons of built-in features to enrich your experience with your favourite characters models. * The characters breath, blink eyes naturally and can even make eye contact with you. * Multiple procedural (programmatically generated) motions for you to use on your models. Including catwalk, dances and a few other motions. * 'Outfit' feature to modify the look of your model, this can create effects like stocking, latex, fishnet and so on. * 'Motion Override' to modify motion on the fly to change arm and leg pose and incorporate accessories like hoverbike into the motion flawlessly. Just to name a few. More features are being developed added in each monthly update. DanceXR is previously known as Dance Viewer VR (DVVR) and has been supported by our lovely community on Patreon for years. We are now bringing it to Steam to introduce it to wider audiences. To learn more about the project follow the link down below to our website and YouTube channel. Please note that we do not provide any content that we don't own within the application. By downloading this app you agree that you take full responsibility for the content you use with it and all legal &amp; copyright requirements are satisfied. The developer of DanceXR will not be responsibility for user generated content.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1905510/header.jpg?t=1656149849",
+    "Price": 19.99,
+    "Developers": "VR Storm Lab",
+    "Publishers": "VR Storm Lab",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1905510/ss_b5e70220ed6de77016f43e38d9c196324dfb65a9.1920x1080.jpg?t=1656149849,https://cdn.akamai.steamstatic.com/steam/apps/1905510/ss_defee5a0a16216577fb5626e173be12a0f6d5f9f.1920x1080.jpg?t=1656149849,https://cdn.akamai.steamstatic.com/steam/apps/1905510/ss_bf8ea5e96094dda7f8b3777ea93ac7cd699b7922.1920x1080.jpg?t=1656149849,https://cdn.akamai.steamstatic.com/steam/apps/1905510/ss_2e540f8c1b38f0bb7187d0d5adf74f903ec930d5.1920x1080.jpg?t=1656149849,https://cdn.akamai.steamstatic.com/steam/apps/1905510/ss_b9e2e83e23a1a17655b037288c1dfe8b4d21b006.1920x1080.jpg?t=1656149849,https://cdn.akamai.steamstatic.com/steam/apps/1905510/ss_0093eb7b57d00491e898de22a44125fdec7bf91b.1920x1080.jpg?t=1656149849",
+    "Slug": "dancexr",
+    "Meta Title": "DanceXR: Jun 1, 2022, VR Storm Lab and Full Overview",
+    "Meta Description": "Looking for information on DanceXR? Check out the release date (Jun 1, 2022), developer insights from VR Storm Lab, and a complete game summary.",
+    "Alt Text Image": "Official header image for DanceXR game - Steam 1905510",
+    "Canonical URL": "https://gusku.site/game/dancexr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DanceXR\", \"description\": \"Looking for information on DanceXR? Check out the release date (Jun 1, 2022), developer insights from VR Storm Lab, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"VR Storm Lab\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"VR Storm Lab\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1905510/header.jpg?t=1656149849\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2261500,
+    "Name": "Shoot! VR",
+    "Release date": "Jan 9, 2023",
+    "About the game": "Shoot! VR is a first-person shooter simulation game. The game simulates the environment of an indoor shooting range. The game has different modes and offers a choice of different weapons. In time mode, the player tries to get the best score possible within the time limit. Random targets will be generated in the scene. Players must shoot as many targets as possible during the countdown to get a higher score. When the player shoots, there is a virtual sign on the side in front of him/her indicating the score obtained and the time left to remind the player. When the time is up, the player quits the game and the page displays the score. In level mode, the difficulty of the level changes from easy to hard over time. Each level has a preset score and players must achieve a score greater than or equal to the preset score before the countdown ends before entering the next level. As the player progresses through the level, the difficulty becomes higher and higher. The difficulty of the level is determined by the speed at which the target disappears and the score that must be achieved to advance to the next level. If the score obtained by the player before the end of the time is lower than the predefined score, the game is over and the virtual screen (panel) will display the final score obtained by the player. In training mode, players can shoot freely with different weapons. This mode is the default mode when a player enters a scene, i.e. the player does not choose to start a game in time or level mode. Players have no time or score limit, they can shoot freely. Players can also choose the difficulty they want, which means the different time interval between the appearance and disappearance of targets.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2261500/header.jpg?t=1673273783",
+    "Price": 0.0,
+    "Developers": "Bingqian SHU,Chenxin LI",
+    "Publishers": "Bingqian SHU",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2261500/ss_cc7da22ccdfdccd79868db1b596646633317ded6.1920x1080.jpg?t=1673273783,https://cdn.akamai.steamstatic.com/steam/apps/2261500/ss_2986f61a60213733af9bacb0a36fd4cedea8ffda.1920x1080.jpg?t=1673273783,https://cdn.akamai.steamstatic.com/steam/apps/2261500/ss_e7ab8967497aeac8ed4de400b9792dd24fc56f98.1920x1080.jpg?t=1673273783,https://cdn.akamai.steamstatic.com/steam/apps/2261500/ss_314011d4d77bf85bdd875c44fe53f7bf8d6d4d2e.1920x1080.jpg?t=1673273783,https://cdn.akamai.steamstatic.com/steam/apps/2261500/ss_704fc53da2422e13bc0769406d888a366826edc8.1920x1080.jpg?t=1673273783,https://cdn.akamai.steamstatic.com/steam/apps/2261500/ss_03e54f1dabe32b528558b0c682315b3a77ab1c95.1920x1080.jpg?t=1673273783",
+    "Slug": "shoot-vr",
+    "Meta Title": "Shoot! VR: Jan 9, 2023, Bingqian SHU,Chenxin LI and Full ...",
+    "Meta Description": "Looking for information on Shoot! VR? Check out the release date (Jan 9, 2023), developer insights from Bingqian SHU,Chenxin LI, and a complete game sum...",
+    "Alt Text Image": "Official header image for Shoot! VR game - Steam 2261500",
+    "Canonical URL": "https://gusku.site/game/shoot-vr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Shoot! VR\", \"description\": \"Looking for information on Shoot! VR? Check out the release date (Jan 9, 2023), developer insights from Bingqian SHU,Chenxin LI, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 9, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bingqian SHU,Chenxin LI\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bingqian SHU\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2261500/header.jpg?t=1673273783\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

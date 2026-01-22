@@ -1,0 +1,21 @@
+{
+    "AppID": 494150,
+    "Name": "The Thrill of the Fight - VR Boxing",
+    "Release date": "Oct 24, 2019",
+    "About the game": "The Thrill of the Fight is a down-to-earth VR boxing game focused on authenticity. Enter a virtual gym and battle a series of unique challengers with their own styles and techniques. Use timing and skill to land the knockout blow. Evade swings, land jabs, and block punches to become the king of the ring! Room scale is required with a minimum supported play area size of 2m by 1.5m (6.5ft by 5ft). Please ensure your SteamVR Chaperone boundaries or Oculus Guardian boundaries are set up properly for room scale and that you are willing to move and punch anywhere within and around the play area you have defined. Note to Oculus Quest users: Do not purchase the PC version of The Thrill of the Fight to play using the Quest headset. Oculus Link does not fully implement all of the room scale features that The Thrill of the Fight relies on to work properly. The only functional and supported way to play The Thrill of the Fight on Quest is to play the native Quest version. Note that purchasing The Thrill of the Fight on Steam will only grant you a Steam license for the game for use with PC VR devices. If you wish to use the game on other platforms, you will need to purchase the game on that other platform instead.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/494150/header.jpg?t=1657563471",
+    "Price": 9.99,
+    "Developers": "Sealost Interactive LLC",
+    "Publishers": "Sealost Interactive LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/494150/ss_2b1a804efe8383fc36f7b3df490a3a191388c2f1.1920x1080.jpg?t=1657563471,https://cdn.akamai.steamstatic.com/steam/apps/494150/ss_b06cdb88e89e9c19fed03626ceb2afeddd0908f2.1920x1080.jpg?t=1657563471,https://cdn.akamai.steamstatic.com/steam/apps/494150/ss_12a837830a46435b3c0295f2e31698d46bd86397.1920x1080.jpg?t=1657563471,https://cdn.akamai.steamstatic.com/steam/apps/494150/ss_3b81f9b3d3adeae77afa6458537e6016e1a89fb9.1920x1080.jpg?t=1657563471,https://cdn.akamai.steamstatic.com/steam/apps/494150/ss_d9b086c4d60ef6024ec243e169cf5309efa2b465.1920x1080.jpg?t=1657563471",
+    "Slug": "the-thrill-of-the-fight-vr-boxing",
+    "Meta Title": "The Thrill of the Fight - VR Boxing: Oct 24, 2019, Sealos...",
+    "Meta Description": "Looking for information on The Thrill of the Fight - VR Boxing? Check out the release date (Oct 24, 2019), developer insights from Sealost Interactive L...",
+    "Alt Text Image": "Official header image for The Thrill of the Fight - VR Boxing game - Steam 494150",
+    "Canonical URL": "https://gusku.site/game/the-thrill-of-the-fight-vr-boxing",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Thrill of the Fight - VR Boxing\", \"description\": \"Looking for information on The Thrill of the Fight - VR Boxing? Check out the release date (Oct 24, 2019), developer insights from Sealost Interactive L...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 24, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sealost Interactive LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sealost Interactive LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/494150/header.jpg?t=1657563471\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

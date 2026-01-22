@@ -1,0 +1,21 @@
+{
+    "AppID": 1547300,
+    "Name": "Drawy",
+    "Release date": "Aug 31, 2021",
+    "About the game": "Drawy is an interactive drawing game that can be played with your Twitch chat ! You as a streamer draw the word and your chat tries to find the word by typing it to your chat. Each round the winning player gets points with respect to time. At the end the player with the most points wins! Drawy is available in multiple languages with more coming soon! Have an interactive fun with your chat with more than 1000 friendly words and show your crazy drawing skills! Please note that you need to have a Twitch account to play the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1547300/header.jpg?t=1651911898",
+    "Price": 4.99,
+    "Developers": "Alcedo Games",
+    "Publishers": "Alcedo Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1547300/ss_ff55be8167124f72abc6c29ae6df64d652622ac0.1920x1080.jpg?t=1651911898,https://cdn.akamai.steamstatic.com/steam/apps/1547300/ss_6cd008fbeac5c37262bf520d38296e6e9dcadee8.1920x1080.jpg?t=1651911898,https://cdn.akamai.steamstatic.com/steam/apps/1547300/ss_17a5d55bc9038ccae5885de1a4515756da3e6d3c.1920x1080.jpg?t=1651911898,https://cdn.akamai.steamstatic.com/steam/apps/1547300/ss_e82b299a7736f32fa516a113454f01117efa5fd0.1920x1080.jpg?t=1651911898,https://cdn.akamai.steamstatic.com/steam/apps/1547300/ss_87b6b111ff041cdcafafd530cf08e93aa3aa24a0.1920x1080.jpg?t=1651911898,https://cdn.akamai.steamstatic.com/steam/apps/1547300/ss_4f8837d459e03d93b35fdefe6621f04915599361.1920x1080.jpg?t=1651911898",
+    "Slug": "drawy",
+    "Meta Title": "Drawy: Aug 31, 2021, Alcedo Games and Full Overview",
+    "Meta Description": "Looking for information on Drawy? Check out the release date (Aug 31, 2021), developer insights from Alcedo Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Drawy game - Steam 1547300",
+    "Canonical URL": "https://gusku.site/game/drawy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Drawy\", \"description\": \"Looking for information on Drawy? Check out the release date (Aug 31, 2021), developer insights from Alcedo Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 31, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Alcedo Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Alcedo Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1547300/header.jpg?t=1651911898\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

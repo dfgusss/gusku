@@ -1,0 +1,21 @@
+{
+    "AppID": 907000,
+    "Name": "The Navigator",
+    "Release date": "Aug 3, 2018",
+    "About the game": "The Navigator is a 2D puzzle-platformer where the player assumes control of a young boy travelling the high seas. The mysterious world around him is filled with floating rocks that have various celestial properties, and the player must help the boy align these celestial rocks to lead him onwards on his journey. Some of the features to expect from the game includes: Climb to and from floating celestial rocks Rearrange the stars in order to solve clever puzzles Dive into a moody soundtrack All handdrawn frame-by-frame graphics Enjoyable by all ages! The Navigator is a serene puzzle game with gorgeous hand-drawn graphics. The idea for the game concept sprang from the Pixar short film “La Luna”, focusing on creating gameplay revolving around navigating small planets with an anchor. With the help of artist Sara Bøgh, the art style of the game gradually took shape, with references to Antoine de Saint-Exupéry’s 'The Little Prince' and the swedish Moomins.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/907000/header.jpg?t=1533282103",
+    "Price": 0.0,
+    "Developers": "Team Navigator",
+    "Publishers": "Team Navigator",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/907000/ss_986d2508dbed80d4e798673f31595226c0172d34.1920x1080.jpg?t=1533282103,https://cdn.akamai.steamstatic.com/steam/apps/907000/ss_69f3c91607b518c5e2389d8841830bbe34a544a5.1920x1080.jpg?t=1533282103,https://cdn.akamai.steamstatic.com/steam/apps/907000/ss_fff141f4ac9cdd3c1e470a7c7483a3a6814e287d.1920x1080.jpg?t=1533282103,https://cdn.akamai.steamstatic.com/steam/apps/907000/ss_6b092134aa2c1facf400bd3b68ec72a7fea66e53.1920x1080.jpg?t=1533282103,https://cdn.akamai.steamstatic.com/steam/apps/907000/ss_ccc47fb49ee1b91d666e7b0b99a12e60eac06c85.1920x1080.jpg?t=1533282103",
+    "Slug": "the-navigator",
+    "Meta Title": "The Navigator: Aug 3, 2018, Team Navigator and Full Overview",
+    "Meta Description": "Looking for information on The Navigator? Check out the release date (Aug 3, 2018), developer insights from Team Navigator, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Navigator game - Steam 907000",
+    "Canonical URL": "https://gusku.site/game/the-navigator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Navigator\", \"description\": \"Looking for information on The Navigator? Check out the release date (Aug 3, 2018), developer insights from Team Navigator, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 3, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Team Navigator\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Team Navigator\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/907000/header.jpg?t=1533282103\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

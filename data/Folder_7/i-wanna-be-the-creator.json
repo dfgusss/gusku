@@ -1,0 +1,21 @@
+{
+    "AppID": 913550,
+    "Name": "I wanna be the Creator",
+    "Release date": "Nov 15, 2019",
+    "About the game": "这是一款可以自制关卡的类 i wanna 游戏，在里面你可以体验到各种千奇百怪的关卡，同样也可以创作出属于你自己的关卡。 [游戏部分] 目前官方关卡共31张、其中包含2张教程、11张跳刺、6张解谜、4张特殊玩法、3张坑向、2张小游戏合集、1张Boss战、1张探索、1张世界关卡（世界关卡内置36个小关卡） 除官方关卡外，目前玩家所创作的关卡有9W多张（2021年8月4日统计），虽然其中有很多水图，但是高质量的关卡也有不少 (๑•̀ㅂ•́)و✧ [关卡编辑器] 游戏内置了关卡编辑器，使用它你可以轻松的制作出各式各样的关卡。 除了基本的摆放物体外，你还可以修改物体属性、调整游戏参数、导入外部图片和音乐、通过触发器实现游戏逻辑等等（如果你深入了解触发器的话甚至可以制作出平台跳跃类型以外的游戏）。 [网络功能] 连接上服务器后，你可以上传自制关卡、下载玩家制作的关卡、在游戏中对其他玩家留言、挑战世界纪录影像等等。 [多人模式] OL模式：可以实时显示出在线玩家的影像 本地联机：可以在同一台电脑上进行多人游戏，但是这个功能比较旧，对部分关卡的兼容性可能不太好 网络联机：可以创建房间来进行团队合作或者竞速比赛，目前该功能还处于实验阶段，BUG会比较多，等3.0版本后会专门重做 [与i wanna相关] 由于游戏使用的是Unity引擎，所以物理判定上可能会与i wanna存在些差异 游戏在默认难度上会比i wanna更简单（角色更轻，碰撞更小，以及空中可以二段跳），不过编辑器中有个 [还原i wanna跳跃参数] 的选项，开启了这个后会更接近于i wanna，但目前来说也只是接近，还不能达到完美还原_(:з」∠)_ 最后在twitter上获取过本家作者kayin的授权(๑•̀ㅂ•́)و✧",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/913550/header.jpg?t=1629949043",
+    "Price": 5.99,
+    "Developers": "Aikesi",
+    "Publishers": "HeyBox Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_e0ca622e6af2e624f05875e6ef14cccc70aaae06.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_9b633dcdb62148708f1a499b4d0992c4e7117db2.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_1d2c72b1a1631333ac36980b21b1df610d6a6157.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_e956d2d57715a992925ea7e4790514703c2632db.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_16e9e4149450dda6d58518676dca40e2b931f615.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_36960fb42852d985114b744b4a1e33ddf0f6bd76.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_08a8807e6f45eb62d0be9e460aedf2b14bc12697.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_59bf1a3b3cc9e4a2bc563af79299985199dfc299.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_38430fe65e4d5b0a52e6063e64fc554561c4b203.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_20aea80a599f11de8d6032b459202203e110f384.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_3273c94fa157ea095ea4e5043c20191cc40c3f3d.1920x1080.jpg?t=1629949043,https://cdn.akamai.steamstatic.com/steam/apps/913550/ss_f5f3bee3ea93f8f6da81b694792024f87cb455bf.1920x1080.jpg?t=1629949043",
+    "Slug": "i-wanna-be-the-creator",
+    "Meta Title": "I wanna be the Creator: Nov 15, 2019, Aikesi and Full Ove...",
+    "Meta Description": "Looking for information on I wanna be the Creator? Check out the release date (Nov 15, 2019), developer insights from Aikesi, and a complete game summary.",
+    "Alt Text Image": "Official header image for I wanna be the Creator game - Steam 913550",
+    "Canonical URL": "https://gusku.site/game/i-wanna-be-the-creator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"I wanna be the Creator\", \"description\": \"Looking for information on I wanna be the Creator? Check out the release date (Nov 15, 2019), developer insights from Aikesi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 15, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Aikesi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HeyBox Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/913550/header.jpg?t=1629949043\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

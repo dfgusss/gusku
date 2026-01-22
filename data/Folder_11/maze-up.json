@@ -1,0 +1,21 @@
+{
+    "AppID": 728670,
+    "Name": "Maze Up!",
+    "Release date": "Nov 8, 2017",
+    "About the game": "Maze Up! is a simple and fun maze/labyrinth puzzle for everyone. In Maze Up! you have to click on tiles to rotate them by 90 degree clockwise to find a way through a labyrinth. The game contains 400 mazes in 8 different sizes from 3*3 to 10*5 and 3 different game modes like: normal mode, timed mode, limited rotation mode.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/728670/header.jpg?t=1510175643",
+    "Price": 1.99,
+    "Developers": "Inner Monkey",
+    "Publishers": "Inner Monkey",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/728670/ss_d741fa3ebe793a27d9111985dae6d58a875127b4.1920x1080.jpg?t=1510175643,https://cdn.akamai.steamstatic.com/steam/apps/728670/ss_80d7a138cc13be17e0d510b6d168ede013259cdf.1920x1080.jpg?t=1510175643,https://cdn.akamai.steamstatic.com/steam/apps/728670/ss_cc69603f36e6fd9e81521b8c4f185a8a793104c1.1920x1080.jpg?t=1510175643,https://cdn.akamai.steamstatic.com/steam/apps/728670/ss_155f59415b0f868c217d175c408837b6dea15f7b.1920x1080.jpg?t=1510175643,https://cdn.akamai.steamstatic.com/steam/apps/728670/ss_bbadfc3b849cad8f73779d7113bc70a44e5d05b3.1920x1080.jpg?t=1510175643",
+    "Slug": "maze-up",
+    "Meta Title": "Maze Up!: Nov 8, 2017, Inner Monkey and Full Overview",
+    "Meta Description": "Looking for information on Maze Up!? Check out the release date (Nov 8, 2017), developer insights from Inner Monkey, and a complete game summary.",
+    "Alt Text Image": "Official header image for Maze Up! game - Steam 728670",
+    "Canonical URL": "https://gusku.site/game/maze-up",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Maze Up!\", \"description\": \"Looking for information on Maze Up!? Check out the release date (Nov 8, 2017), developer insights from Inner Monkey, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 8, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Inner Monkey\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Inner Monkey\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/728670/header.jpg?t=1510175643\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

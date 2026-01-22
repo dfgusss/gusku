@@ -1,0 +1,21 @@
+{
+    "AppID": 2320230,
+    "Name": "Cavimilation",
+    "Release date": "Mar 3, 2023",
+    "About the game": "Cavimilation is a 2D shooter/platformer throwback to classic high score chasing games with the addition of modern roguelike elements. Explore an endless procedurally generated cave filled with treasure and monsters, where every mistake takes its toll and where every bullet counts. Fair randomness – Every level in a run is randomly generated. Systemic rules will assure that your success won't be in the hands of RNG. Clean visuals – No visual clutter. Cavimilation features readable programmer/naïve art audiovisuals. Collect and spend treasure – Caves are filled with treasure. Collect it to increase your score and use it as currency in shops for weapon upgrades and power-ups. Outsmart your enemies – Enemies in Cavimilation may hit hard but they are not undefeatable. Learn their weaknesses, master your positioning, and give 'em hell. Shape the environment – Use grenades you've found or your handy pickaxe to destroy the environment to your advantage. Achievements and leaderboards – Compare scores with your friends through Steam leaderboards.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2320230/header.jpg?t=1677840992",
+    "Price": 3.39,
+    "Developers": "Radek Mocek",
+    "Publishers": "Radek Mocek",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2320230/ss_b1afa2eb8ab2a151532b435c1035b72288923c2a.1920x1080.jpg?t=1677840992,https://cdn.akamai.steamstatic.com/steam/apps/2320230/ss_4ace7b195d1728a1997cd42cf1542e5ee71d627f.1920x1080.jpg?t=1677840992,https://cdn.akamai.steamstatic.com/steam/apps/2320230/ss_9f34e3a6db5aee33963b1839310b23246547dd11.1920x1080.jpg?t=1677840992,https://cdn.akamai.steamstatic.com/steam/apps/2320230/ss_046cf3c13aa9be0c680b78d558de884c7b8f913a.1920x1080.jpg?t=1677840992,https://cdn.akamai.steamstatic.com/steam/apps/2320230/ss_188e53d7235f4559942645ee96e0d07a03ccdad0.1920x1080.jpg?t=1677840992,https://cdn.akamai.steamstatic.com/steam/apps/2320230/ss_594427e1926d0b2a4b4b370721a0e068b7d634b4.1920x1080.jpg?t=1677840992",
+    "Slug": "cavimilation",
+    "Meta Title": "Cavimilation: Mar 3, 2023, Radek Mocek and Full Overview",
+    "Meta Description": "Looking for information on Cavimilation? Check out the release date (Mar 3, 2023), developer insights from Radek Mocek, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cavimilation game - Steam 2320230",
+    "Canonical URL": "https://gusku.site/game/cavimilation",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cavimilation\", \"description\": \"Looking for information on Cavimilation? Check out the release date (Mar 3, 2023), developer insights from Radek Mocek, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 3, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Radek Mocek\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Radek Mocek\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2320230/header.jpg?t=1677840992\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

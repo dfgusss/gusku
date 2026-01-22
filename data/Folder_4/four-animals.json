@@ -1,0 +1,21 @@
+{
+    "AppID": 1803170,
+    "Name": "Four Animals",
+    "Release date": "Nov 11, 2021",
+    "About the game": "Four Animals is an arcade scoring game. There are four pipes of different colors, from which animals of the color of the pipes randomly jump out and you need to move the pipes from side to side so that animals of the desired color fall into them. Over time, the game pace accelerates and there are more jumping animals, you need to try not to lose.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1803170/header.jpg?t=1636623844",
+    "Price": 0.99,
+    "Developers": "Animals Rolling",
+    "Publishers": "Animals Rolling",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1803170/ss_85f524a985aa106b381d5782c33bc3ff2e2c430c.1920x1080.jpg?t=1636623844,https://cdn.akamai.steamstatic.com/steam/apps/1803170/ss_b67c6d29bdd5c6c0de1e980df4cc5ba995d75816.1920x1080.jpg?t=1636623844,https://cdn.akamai.steamstatic.com/steam/apps/1803170/ss_7431bdb83b57076fd48da52e12f977ad5dcdf0fd.1920x1080.jpg?t=1636623844,https://cdn.akamai.steamstatic.com/steam/apps/1803170/ss_b1fafecf0e474a8afadf8595dca575869129e830.1920x1080.jpg?t=1636623844,https://cdn.akamai.steamstatic.com/steam/apps/1803170/ss_c155f6cc5d12d58cafc23b17d98d6dbaebc9928d.1920x1080.jpg?t=1636623844",
+    "Slug": "four-animals",
+    "Meta Title": "Four Animals: Nov 11, 2021, Animals Rolling and Full Over...",
+    "Meta Description": "Looking for information on Four Animals? Check out the release date (Nov 11, 2021), developer insights from Animals Rolling, and a complete game summary.",
+    "Alt Text Image": "Official header image for Four Animals game - Steam 1803170",
+    "Canonical URL": "https://gusku.site/game/four-animals",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Four Animals\", \"description\": \"Looking for information on Four Animals? Check out the release date (Nov 11, 2021), developer insights from Animals Rolling, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 11, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Animals Rolling\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Animals Rolling\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1803170/header.jpg?t=1636623844\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

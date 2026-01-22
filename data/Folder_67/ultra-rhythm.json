@@ -1,0 +1,21 @@
+{
+    "AppID": 2221710,
+    "Name": "Ultra Rhythm",
+    "Release date": "Dec 2, 2022",
+    "About the game": "This is a music+click+CG casual game. In the level challenge, with the music playing, a circular storm in yellow and blue will appear randomly. The periphery of the storm is a circle that shrinks toward the center. When the circle reaches the edge of the storm, click the storm to score PERFECT. When the circle does not reach the edge of the storm, click the storm to score GOOD. If the circle does not click the storm successfully, it will score MISS. The blue storm can only be clicked once with the left mouse button, while the yellow storm can only be clicked after long pressing the left mouse button until the progress bar disappears. After a music is played, the challenge of this level ends. If the score is greater than 100%, the challenge succeeds. If the score is less than 100%, the challenge fails. After passing the pass, you can also get a beautiful CG.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2221710/header.jpg?t=1669971687",
+    "Price": 1.39,
+    "Developers": "Music Games",
+    "Publishers": "Music Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2221710/ss_be67473a1da285b19a8a4d75f56eaf17df927974.1920x1080.jpg?t=1669971687,https://cdn.akamai.steamstatic.com/steam/apps/2221710/ss_0964dcdc39fbff0755f1aab789312c7db12e0c47.1920x1080.jpg?t=1669971687,https://cdn.akamai.steamstatic.com/steam/apps/2221710/ss_f52388ae71b80cc0bbee6d0e6abd3fe861f5620f.1920x1080.jpg?t=1669971687,https://cdn.akamai.steamstatic.com/steam/apps/2221710/ss_ba324d6c3407355ccdd142cdc320d042e60ba1aa.1920x1080.jpg?t=1669971687,https://cdn.akamai.steamstatic.com/steam/apps/2221710/ss_0c9c084363f78fc7b67075183dd711435039baa1.1920x1080.jpg?t=1669971687,https://cdn.akamai.steamstatic.com/steam/apps/2221710/ss_8f4d6edd5ecdcab12aa823d831310789597ec4a9.1920x1080.jpg?t=1669971687,https://cdn.akamai.steamstatic.com/steam/apps/2221710/ss_96eb083392991117a0ea6e783da4edc40a24d7f4.1920x1080.jpg?t=1669971687",
+    "Slug": "ultra-rhythm",
+    "Meta Title": "Ultra Rhythm: Dec 2, 2022, Music Games and Full Overview",
+    "Meta Description": "Looking for information on Ultra Rhythm? Check out the release date (Dec 2, 2022), developer insights from Music Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ultra Rhythm game - Steam 2221710",
+    "Canonical URL": "https://gusku.site/game/ultra-rhythm",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ultra Rhythm\", \"description\": \"Looking for information on Ultra Rhythm? Check out the release date (Dec 2, 2022), developer insights from Music Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Music Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Music Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2221710/header.jpg?t=1669971687\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

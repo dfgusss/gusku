@@ -1,0 +1,21 @@
+{
+    "AppID": 2129600,
+    "Name": "The Bird",
+    "Release date": "Sep 16, 2022",
+    "About the game": "This is a simulation where you control a Parrot with the keyboard. You can walk on the ground, fly in the air and dive into the water. Fly around with the bird and discover different Islands in a large landscape.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2129600/header.jpg?t=1663314830",
+    "Price": 2.99,
+    "Developers": "Nevsram",
+    "Publishers": "Nevsram",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2129600/ss_70cf630c314daddacf8e32f0a631be927f36d51c.1920x1080.jpg?t=1663314830,https://cdn.akamai.steamstatic.com/steam/apps/2129600/ss_014a318e2dd2309d45fddff57b6da7383920bf25.1920x1080.jpg?t=1663314830,https://cdn.akamai.steamstatic.com/steam/apps/2129600/ss_0d7b67b52ca6db1c08071ff435648e49470a94b3.1920x1080.jpg?t=1663314830,https://cdn.akamai.steamstatic.com/steam/apps/2129600/ss_9de44b738da427e7ecfd35b06f89887a66ff8682.1920x1080.jpg?t=1663314830,https://cdn.akamai.steamstatic.com/steam/apps/2129600/ss_abd1c4656add534a3f7f6d93a17b26a65576700b.1920x1080.jpg?t=1663314830,https://cdn.akamai.steamstatic.com/steam/apps/2129600/ss_047a6d006bb7ba0d86df8e7f7984e8c963ee6299.1920x1080.jpg?t=1663314830",
+    "Slug": "the-bird",
+    "Meta Title": "The Bird: Sep 16, 2022, Nevsram and Full Overview",
+    "Meta Description": "Looking for information on The Bird? Check out the release date (Sep 16, 2022), developer insights from Nevsram, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Bird game - Steam 2129600",
+    "Canonical URL": "https://gusku.site/game/the-bird",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Bird\", \"description\": \"Looking for information on The Bird? Check out the release date (Sep 16, 2022), developer insights from Nevsram, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 16, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nevsram\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nevsram\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2129600/header.jpg?t=1663314830\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 732230,
+    "Name": "LuxVR",
+    "Release date": "Mar 9, 2021",
+    "About the game": "Overview: LuxVR is a night mode application for VR. It decreases blue light emitted by your head-mounted display (HMD) and reduces eyestrain during late hours or long time use in virtual reality. It makes the color of the HMD display adapt to the time of day with respect to your location to help you control your natural sleep-and-wake cycle. Just start the application and it will keep running in the background while you play other VR games/applications. Demo: Compatibility: LuxVR uses OpenVR SDK, which means that only some HMDs are natively supported, namely: Valve Index, HTC Vive, HTC Vive Pro. This application was tested on HTC Vive and Huawei VR2. Testers with other HMDs are welcome!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/732230/header.jpg?t=1615317245",
+    "Price": 0.0,
+    "Developers": "Egemen Ertugrul",
+    "Publishers": "Egemen Ertugrul",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/732230/ss_6acbd758c548cc459ce869c70b322305c05d20f4.1920x1080.jpg?t=1615317245,https://cdn.akamai.steamstatic.com/steam/apps/732230/ss_f8b6f518a0a3e8233b61deb4d1b03d5ab59b4272.1920x1080.jpg?t=1615317245,https://cdn.akamai.steamstatic.com/steam/apps/732230/ss_6fdfece1b02cd11f192517a0ae7342e8ec9c87cc.1920x1080.jpg?t=1615317245,https://cdn.akamai.steamstatic.com/steam/apps/732230/ss_79ee87f34a1fe78fcc4d16d38859dbbb23ed69f9.1920x1080.jpg?t=1615317245,https://cdn.akamai.steamstatic.com/steam/apps/732230/ss_03764de8a829c019f8240a95ac1d310852ca0118.1920x1080.jpg?t=1615317245",
+    "Slug": "luxvr",
+    "Meta Title": "LuxVR: Mar 9, 2021, Egemen Ertugrul and Full Overview",
+    "Meta Description": "Looking for information on LuxVR? Check out the release date (Mar 9, 2021), developer insights from Egemen Ertugrul, and a complete game summary.",
+    "Alt Text Image": "Official header image for LuxVR game - Steam 732230",
+    "Canonical URL": "https://gusku.site/game/luxvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"LuxVR\", \"description\": \"Looking for information on LuxVR? Check out the release date (Mar 9, 2021), developer insights from Egemen Ertugrul, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 9, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Egemen Ertugrul\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Egemen Ertugrul\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/732230/header.jpg?t=1615317245\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

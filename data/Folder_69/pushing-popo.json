@@ -1,0 +1,21 @@
+{
+    "AppID": 2141100,
+    "Name": "Pushing POPO",
+    "Release date": "Jan 10, 2023",
+    "About the game": "This game is a simple and highly challenging 2D puzzle game with a system similar to 'Sokoban,' in which the player moves boxes to secure a path to the goal. As you progress, gimmicks are added, such as 'unlocking a passageway with a key,' 'shooting arrows to destroy balloon objects,' 'disappearing blocks that disappear once you get on them,' 'transfer gates connecting two points,' 'elevating blocks that switch with arrows,' and 'interlocking tags that move another box together when you move a box. Gimmicks are added to the game. If you get stuck, you can share the stage codes set for each stage with your friends, allowing each of you to play the same stage regardless of your progress. This game is a fan game for the archer 🏹 Ieiri Popo of the Vtuber unit 'HIYOCRO'. 'Midjourney', an image generation AI, is used for the title/opening/ending backgrounds. BGM is provided by 'DOVA-SYNDROME', a music material site. Sound effect creation software 'sfxr' is used.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2141100/header.jpg?t=1673538540",
+    "Price": 0.0,
+    "Developers": "hiunagi",
+    "Publishers": "hiunagi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2141100/ss_ed60259d58d320c29711ca21e42e444d9ac7f64c.1920x1080.jpg?t=1673538540,https://cdn.akamai.steamstatic.com/steam/apps/2141100/ss_f5ff8c6e2ad7fde57951ba576201c948f08b6a1f.1920x1080.jpg?t=1673538540,https://cdn.akamai.steamstatic.com/steam/apps/2141100/ss_1ad067d6f20b6d2d7033d0d747168c446811619c.1920x1080.jpg?t=1673538540,https://cdn.akamai.steamstatic.com/steam/apps/2141100/ss_0a890d48516fd9c5a8d00a23b72c4ec111b3c65d.1920x1080.jpg?t=1673538540,https://cdn.akamai.steamstatic.com/steam/apps/2141100/ss_0e3ef4a3b136ac098cd3a9ebfb399334968f521c.1920x1080.jpg?t=1673538540",
+    "Slug": "pushing-popo",
+    "Meta Title": "Pushing POPO: Jan 10, 2023, hiunagi and Full Overview",
+    "Meta Description": "Looking for information on Pushing POPO? Check out the release date (Jan 10, 2023), developer insights from hiunagi, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pushing POPO game - Steam 2141100",
+    "Canonical URL": "https://gusku.site/game/pushing-popo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pushing POPO\", \"description\": \"Looking for information on Pushing POPO? Check out the release date (Jan 10, 2023), developer insights from hiunagi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 10, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"hiunagi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"hiunagi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2141100/header.jpg?t=1673538540\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

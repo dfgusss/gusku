@@ -1,0 +1,21 @@
+{
+    "AppID": 2249890,
+    "Name": "King's Hand",
+    "Release date": "Jan 20, 2023",
+    "About the game": "A classic 1v1 chess with unique cards that will help you dethrone that spoiled enemy king. Every match you get a randomly generated card with a rarity of common, epic or mythic. The rarer the card, the better the ability. Throughout the game you also have access to exchanges. You might access exchanges any time and they provide exchanging X amount of pawns for a singular piece of higher rarity (for example 3 pawns for 1 bishop). In this game there is no checkmate nor stalemate, you fight until the other king dies and then you claim his kingdom so choose wisely and you might just get another kingdom. The game currently contains offers quick match where you go against a random enemy or a friendly match where you can go against your friend and ruin your friendship. The game also offers 12 unique cards with different abilities that might be used either for offense or defense.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2249890/header.jpg?t=1674219126",
+    "Price": 0.0,
+    "Developers": "corrox",
+    "Publishers": "corrox",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2249890/ss_16eb30258a8398d8a019c764c1e3589c52edbbde.1920x1080.jpg?t=1674219126,https://cdn.akamai.steamstatic.com/steam/apps/2249890/ss_e13ec69abaf6df3fa3e0c2c4e28612d0cb55634b.1920x1080.jpg?t=1674219126,https://cdn.akamai.steamstatic.com/steam/apps/2249890/ss_e5df214124239798c2f8e3780e990ebebe31ac9e.1920x1080.jpg?t=1674219126,https://cdn.akamai.steamstatic.com/steam/apps/2249890/ss_cd4ae6e66449d7c8718bea20f2a844e40cb708e5.1920x1080.jpg?t=1674219126,https://cdn.akamai.steamstatic.com/steam/apps/2249890/ss_7e042c0015cf849a0087b4ff4ab71165807dc678.1920x1080.jpg?t=1674219126",
+    "Slug": "king-s-hand",
+    "Meta Title": "King's Hand: Jan 20, 2023, corrox and Full Overview",
+    "Meta Description": "Looking for information on King's Hand? Check out the release date (Jan 20, 2023), developer insights from corrox, and a complete game summary.",
+    "Alt Text Image": "Official header image for King's Hand game - Steam 2249890",
+    "Canonical URL": "https://gusku.site/game/king-s-hand",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"King's Hand\", \"description\": \"Looking for information on King's Hand? Check out the release date (Jan 20, 2023), developer insights from corrox, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 20, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"corrox\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"corrox\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2249890/header.jpg?t=1674219126\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1352650,
+    "Name": "Bomber",
+    "Release date": "Jul 3, 2020",
+    "About the game": "Bomber is a funny time killer game with 20 levels. Hello to all! And a special hello to those who know me from the my games . If you are surprised at this new game of mine, then I'll explain. This game was created not by me, but by my nephew, who is studying for a programmer and completed the 1st year of study. I hope that you will not judge very strictly and will support him. When he learns to program better, he will be able to help me in other projects, and then I will be able to release even more updates according to your wishes. Functionalities: 1. Player has to find key hidden behind the walls to open the Door to complete the level. 2. Player can collect certain type of pickups hidden behind the walls, each pickup has it own functionality. 3. Bomb Range Pickup Increases the Range of Bomb to destroy the walls in all directions for a time period. 4. Multiple Bomb Pickup allows player to place multiple Bombs even when there is already a bomb placed in the scene. 5. Speed Pickup Increases the speed of the player to move around. 6. Heart / Life pickup gives player an extra life. 7. Shield Pickup Protects played from losing a life for a specific time when shield is activated. Controls by keyboard and joystick: Left: Left arrow, A, Axis horizontal left Right: Right arrow, D, Axis horizontal right Up: Up arrow, W, Axis vertical top Down: Down arrow, S, Axis vertical bottom Set bomb: Space, Joystick button 0 Back: Joystick button 1 Restart: Joystick button 2 Start next level: joystick button 3",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1352650/header.jpg?t=1608626688",
+    "Price": 4.99,
+    "Developers": "Games For Pleasure",
+    "Publishers": "Games For Pleasure",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1352650/ss_31086ba8299137a6e83a930727b5c4b76d18af77.1920x1080.jpg?t=1608626688,https://cdn.akamai.steamstatic.com/steam/apps/1352650/ss_87ae50996b6c9d7dd38238805660038d1b740543.1920x1080.jpg?t=1608626688,https://cdn.akamai.steamstatic.com/steam/apps/1352650/ss_46610d981e9f83c721c2d17b0239a102647c5694.1920x1080.jpg?t=1608626688,https://cdn.akamai.steamstatic.com/steam/apps/1352650/ss_ddeaeecd6957191a6361d52e9cbbc7d5a1372046.1920x1080.jpg?t=1608626688,https://cdn.akamai.steamstatic.com/steam/apps/1352650/ss_3fc5159563e817e2faece40f37763ef90bc51d25.1920x1080.jpg?t=1608626688",
+    "Slug": "bomber",
+    "Meta Title": "Bomber: Jul 3, 2020, Games For Pleasure and Full Overview",
+    "Meta Description": "Looking for information on Bomber? Check out the release date (Jul 3, 2020), developer insights from Games For Pleasure, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bomber game - Steam 1352650",
+    "Canonical URL": "https://gusku.site/game/bomber",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bomber\", \"description\": \"Looking for information on Bomber? Check out the release date (Jul 3, 2020), developer insights from Games For Pleasure, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 3, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Games For Pleasure\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Games For Pleasure\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1352650/header.jpg?t=1608626688\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1407570,
+    "Name": "Interactive Fluid Wallpaper",
+    "Release date": "Sep 21, 2020",
+    "About the game": "Unleash beautiful visuals and give life to your System Wallpaper! FEATURES Realtime Simulations: no need to learn advanced animation techniques or deal with complicated configurations, just use physics based fluids and let your computer do the work. WYSIWYG: Edit your Wallpaper directly in the Desktop. Image Support: Use photos, images to reach unique visuals. Customization options: there's a lot of options to play around giving settings to use the fluids to build an abstract wallpaper or an animated effect. Optimized: GPU based calculations combined with light 2D Particles giving to your CPU and GPU a soft environment. FAQ Q: Why my Wallpaper is a blank page? A: This happens when you're with default configuration. You need to set new values for your configuration in edit mode, start edit mode using the system tray menu (watch tutorial). Q: How i set an image? A: Just copy the image url (internet) or the file path (your system), open Edit Mode, Edit Layer, click 'Paste From Clipboard' and click 'Set Image From URL'. Wait a little and the image will appear. If the image don't appear, try to restart the Edit Mode, check if the path is correct or delete the previous image. Q: How i rotate the fluid? A: Once the spawn point is activated and the fluid is ON, click rotate to initiate the rotation and click rotate once more to stop. Q: Does it have Workshop support? A: The initial release is not covering Workshop. The workshop feature will come in future updates. Q: My antivirus is detecting malware, why this is happening and what should i do? A: This is a simple app made in Unity Engine, you can add the app to exclusion exception into your antivirus. The flag happens because 'Start with Windows' and 'Remove from Start' write and remove the app.exe in your Windows Startup folder, so majority of virus scanners will see this as malicious. Thank you for checking the application!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1407570/header.jpg?t=1600725327",
+    "Price": 2.99,
+    "Developers": "Gabriel Asseff",
+    "Publishers": "Gabriel Asseff",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1407570/ss_548e1eb08ac21ebb5b047e554b972aef2e316c91.1920x1080.jpg?t=1600725327,https://cdn.akamai.steamstatic.com/steam/apps/1407570/ss_962ab001f497f13bda1e8cb4dda77f35a7c61506.1920x1080.jpg?t=1600725327,https://cdn.akamai.steamstatic.com/steam/apps/1407570/ss_1c682fd11a5315c767cfcb7432ebcaf4fe1243bf.1920x1080.jpg?t=1600725327,https://cdn.akamai.steamstatic.com/steam/apps/1407570/ss_513e00e8a1f8d88527bb3bae31c522254348a452.1920x1080.jpg?t=1600725327,https://cdn.akamai.steamstatic.com/steam/apps/1407570/ss_45b17e857cd783a79e2e6454690636afcc7df90b.1920x1080.jpg?t=1600725327",
+    "Slug": "interactive-fluid-wallpaper",
+    "Meta Title": "Interactive Fluid Wallpaper: Sep 21, 2020, Gabriel Asseff...",
+    "Meta Description": "Looking for information on Interactive Fluid Wallpaper? Check out the release date (Sep 21, 2020), developer insights from Gabriel Asseff, and a complet...",
+    "Alt Text Image": "Official header image for Interactive Fluid Wallpaper game - Steam 1407570",
+    "Canonical URL": "https://gusku.site/game/interactive-fluid-wallpaper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Interactive Fluid Wallpaper\", \"description\": \"Looking for information on Interactive Fluid Wallpaper? Check out the release date (Sep 21, 2020), developer insights from Gabriel Asseff, and a complet...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 21, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gabriel Asseff\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gabriel Asseff\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1407570/header.jpg?t=1600725327\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

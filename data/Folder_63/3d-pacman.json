@@ -1,0 +1,21 @@
+{
+    "AppID": 2105390,
+    "Name": "3D Pacman",
+    "Release date": "Aug 17, 2022",
+    "About the game": "'3D Pacman' is a casual game. The player controls a Pac-Man to move, and when Pacman touches the small square, he can eat the small square. There will be some enemies in the game, you have to control Pacman to avoid them, once you come into contact with the enemy, the game will fail. If Pac-Man touches a big block, Pacman will be able to eat the enemy within a certain period of time. 【Game Control】 A, W, S, D keys control the direction. 【Game Features】 When players control Pacman to move, they will be affected by inertia and acceleration. It takes certain skills to avoid enemies and eat more small cubes. More challenges await you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2105390/header.jpg?t=1660739318",
+    "Price": 4.99,
+    "Developers": "xxGame",
+    "Publishers": "xxGame",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2105390/ss_48302e479f6beb39e3a93b38a933bfafb81ea15e.1920x1080.jpg?t=1660739318,https://cdn.akamai.steamstatic.com/steam/apps/2105390/ss_b873cd25e5f1eec3c81c65977b09ccd53094cb1e.1920x1080.jpg?t=1660739318,https://cdn.akamai.steamstatic.com/steam/apps/2105390/ss_a13625bde6f77da72a392148c0641d44e5c0267c.1920x1080.jpg?t=1660739318,https://cdn.akamai.steamstatic.com/steam/apps/2105390/ss_68bc07be74b385bf40f42558375655faa7238ae8.1920x1080.jpg?t=1660739318,https://cdn.akamai.steamstatic.com/steam/apps/2105390/ss_914880c0fd61f2a337fe1129660a283141bd4f48.1920x1080.jpg?t=1660739318,https://cdn.akamai.steamstatic.com/steam/apps/2105390/ss_bb7409fa640419db3cf981b995d575d2a81a232e.1920x1080.jpg?t=1660739318",
+    "Slug": "3d-pacman",
+    "Meta Title": "3D Pacman: Aug 17, 2022, xxGame and Full Overview",
+    "Meta Description": "Looking for information on 3D Pacman? Check out the release date (Aug 17, 2022), developer insights from xxGame, and a complete game summary.",
+    "Alt Text Image": "Official header image for 3D Pacman game - Steam 2105390",
+    "Canonical URL": "https://gusku.site/game/3d-pacman",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"3D Pacman\", \"description\": \"Looking for information on 3D Pacman? Check out the release date (Aug 17, 2022), developer insights from xxGame, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"xxGame\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"xxGame\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2105390/header.jpg?t=1660739318\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

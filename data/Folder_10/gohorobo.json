@@ -1,0 +1,21 @@
+{
+    "AppID": 801250,
+    "Name": "GOHOROBO",
+    "Release date": "Mar 20, 2018",
+    "About the game": "The story of the near future where the labor force replaced the robots They work with insomnia due to the power of electricity There was an accident or a disaster at one time, a power outage occurred in the factory If you have electricity you can do whatever you want, but without electricity just a piece of iron The remaining electricity is only the battery built into robots With restriction that only 5 steps can be moved, we will head for recovery of electricity What kind of game? It is a puzzle game that manipulates robots that can move only 5 steps and leads them to the goal. Also, every time I take actions such as lifting or lowering besides walking Because we consume one step of electricity, we must think and act actively. At the time of clearing, 'the number of robots started', 'the number of robots in operation' and 'the number of remaining batteries' If you exceed the quota you can earn the medal of the star. You can move a robot on a robot, divide a stacked robot tower, Let's light the factory while making batteries. Operation method [Z]: Decision / Robot raising and lowering on the left [X]: Raise and lower of the right robot [C]: Cancel / revert one step [↑] [↓]: Switching robot to operate [←] [→]: Move robot",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/801250/header.jpg?t=1523708052",
+    "Price": 3.99,
+    "Developers": "MAFIS",
+    "Publishers": "MAFIS",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/801250/ss_dd6d731930c4109373493caf6d819f70ca6fa8ca.1920x1080.jpg?t=1523708052,https://cdn.akamai.steamstatic.com/steam/apps/801250/ss_f2219943cd2d623a8bc87a45b67e4e89ef85b2b5.1920x1080.jpg?t=1523708052,https://cdn.akamai.steamstatic.com/steam/apps/801250/ss_96256b4a07f362a08d041cacb8a750a8b28d48ae.1920x1080.jpg?t=1523708052,https://cdn.akamai.steamstatic.com/steam/apps/801250/ss_db4c3ffbe3e6b0399e23705f0b3bed3d60d8f0e4.1920x1080.jpg?t=1523708052,https://cdn.akamai.steamstatic.com/steam/apps/801250/ss_794f897584ee5e3fadb3eded715b2b9f98702238.1920x1080.jpg?t=1523708052",
+    "Slug": "gohorobo",
+    "Meta Title": "GOHOROBO: Mar 20, 2018, MAFIS and Full Overview",
+    "Meta Description": "Looking for information on GOHOROBO? Check out the release date (Mar 20, 2018), developer insights from MAFIS, and a complete game summary.",
+    "Alt Text Image": "Official header image for GOHOROBO game - Steam 801250",
+    "Canonical URL": "https://gusku.site/game/gohorobo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GOHOROBO\", \"description\": \"Looking for information on GOHOROBO? Check out the release date (Mar 20, 2018), developer insights from MAFIS, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 20, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"MAFIS\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MAFIS\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/801250/header.jpg?t=1523708052\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

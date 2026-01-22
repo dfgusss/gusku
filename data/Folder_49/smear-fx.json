@@ -1,0 +1,21 @@
+{
+    "AppID": 1228760,
+    "Name": "Smear FX",
+    "Release date": "Feb 5, 2020",
+    "About the game": "WHAT IS SMEAR FX? Make your animations extra juicy by adding some smearing to them! Just a little touch of smear can add a lot of value to animations and makes them feel smoother. Do a jump animation, a weapon swing, item spawn, maybe a logo intro animation, the possibilities are endless! This tool is being developed by @CodeManu if you find it useful, have any doubt or just want to say hi, feel free to message me! FEATURES Add smearing to your images just by tweaking a couple values. Modify position, scale, angle, skew, trail, etc. Render the animation and get a .png spritesheet with the animation. Spritesheets are trimmed and optimized. Use different pre-made easings or do your own curve with the graph editor. Advanced mode for animations by using graphs. Supports animations and single frame images. Unlimited canvas size. Frameskip option to reduce final spritesheet size. Drag &amp; Drop images and project files directly into the app. LIMITATIONS Smear FX doesn't support alpha channel. Using semi-opaque images will lead to unexpected results.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1228760/header.jpg?t=1640122665",
+    "Price": 19.99,
+    "Developers": "CodeManu",
+    "Publishers": "CodeManu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1228760/ss_362cfa02cd05985c656a1f241a660b21af8b6268.1920x1080.jpg?t=1640122665,https://cdn.akamai.steamstatic.com/steam/apps/1228760/ss_2ad5e6d00c790deef688fe6a2c44510040a85486.1920x1080.jpg?t=1640122665,https://cdn.akamai.steamstatic.com/steam/apps/1228760/ss_4a7680224bd1802921987f49f23a79e68ac9c5f2.1920x1080.jpg?t=1640122665,https://cdn.akamai.steamstatic.com/steam/apps/1228760/ss_42b97774ec8e7afcccf07dbdd36100e72fc03045.1920x1080.jpg?t=1640122665,https://cdn.akamai.steamstatic.com/steam/apps/1228760/ss_4b5fed32828d8e4c3b40647adb19c0383fb15d3a.1920x1080.jpg?t=1640122665",
+    "Slug": "smear-fx",
+    "Meta Title": "Smear FX: Feb 5, 2020, CodeManu and Full Overview",
+    "Meta Description": "Looking for information on Smear FX? Check out the release date (Feb 5, 2020), developer insights from CodeManu, and a complete game summary.",
+    "Alt Text Image": "Official header image for Smear FX game - Steam 1228760",
+    "Canonical URL": "https://gusku.site/game/smear-fx",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Smear FX\", \"description\": \"Looking for information on Smear FX? Check out the release date (Feb 5, 2020), developer insights from CodeManu, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 5, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"CodeManu\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CodeManu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1228760/header.jpg?t=1640122665\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

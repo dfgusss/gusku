@@ -1,0 +1,21 @@
+{
+    "AppID": 1103140,
+    "Name": "Powelus's Audio Visualizer",
+    "Release date": "Feb 2, 2020",
+    "About the game": "About Powelus's Audio Visualizer allows any person to customize visualizer to their own experience. The software has the capability to load local MP3 files and display audio spectrum during real-time playback. Along with the MP3 playback software picks up any audio from the default audio output device. This means anyone can play music from anywhere and the software will visualize it. Features Users are able to customize every possible aspect of the visualizer, including: Movement speed and intensity Light source speed and intensity Radius Color Custom logo and background Adjust the frequency range And many more for users to discover *Work in progress, may not represent final look*",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1103140/header.jpg?t=1590698250",
+    "Price": 6.99,
+    "Developers": "Red Cache Studios",
+    "Publishers": "Red Cache Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1103140/ss_a69f79df89e9b9dd8867697b5d663c0aae832506.1920x1080.jpg?t=1590698250,https://cdn.akamai.steamstatic.com/steam/apps/1103140/ss_638c840370b6f08fa762fadbf242df625c8c8f36.1920x1080.jpg?t=1590698250,https://cdn.akamai.steamstatic.com/steam/apps/1103140/ss_49cc9a3e8af3a3ed47ea146c46b193366d37e65e.1920x1080.jpg?t=1590698250,https://cdn.akamai.steamstatic.com/steam/apps/1103140/ss_4ff567495e6c395e52f553f8c4dad1417e0a08ee.1920x1080.jpg?t=1590698250,https://cdn.akamai.steamstatic.com/steam/apps/1103140/ss_96c6a764fc6b13e50cb17b8f69e6ae4455de1181.1920x1080.jpg?t=1590698250",
+    "Slug": "powelus-s-audio-visualizer",
+    "Meta Title": "Powelus's Audio Visualizer: Feb 2, 2020, Red Cache Studio...",
+    "Meta Description": "Looking for information on Powelus's Audio Visualizer? Check out the release date (Feb 2, 2020), developer insights from Red Cache Studios, and a comple...",
+    "Alt Text Image": "Official header image for Powelus's Audio Visualizer game - Steam 1103140",
+    "Canonical URL": "https://gusku.site/game/powelus-s-audio-visualizer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Powelus's Audio Visualizer\", \"description\": \"Looking for information on Powelus's Audio Visualizer? Check out the release date (Feb 2, 2020), developer insights from Red Cache Studios, and a comple...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 2, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Red Cache Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Red Cache Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1103140/header.jpg?t=1590698250\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

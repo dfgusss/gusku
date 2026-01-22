@@ -1,0 +1,21 @@
+{
+    "AppID": 2225890,
+    "Name": "Neo Shock",
+    "Release date": "Dec 7, 2022",
+    "About the game": "Neo Shock is an FPS roguelike. You play as a cybernetic character with various tools, shoot, stealth attacks, hack, or just throw a box in your enemies' heads. The goal is to find the key and move to the next level while dealing with enemies the way you want. Tools Katana Pistol Shotgun Rifle Sniper Grenade Distraction Grenade Skills Bullet Time Mind Hack Invisibility Shield See Enemies through the walls",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2225890/header.jpg?t=1670408839",
+    "Price": 2.99,
+    "Developers": "SamOliverDev",
+    "Publishers": "SamOliverDev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2225890/ss_b67f534a5c718bb93d33bc9567f7830cb0549817.1920x1080.jpg?t=1670408839,https://cdn.akamai.steamstatic.com/steam/apps/2225890/ss_83832bedb870ed0f5d75ba7ba5f5caa973bbd582.1920x1080.jpg?t=1670408839,https://cdn.akamai.steamstatic.com/steam/apps/2225890/ss_36c371599ba7a9bbd4c22fb29e2f9b5a66ec275e.1920x1080.jpg?t=1670408839,https://cdn.akamai.steamstatic.com/steam/apps/2225890/ss_012de1e95e5f34977ca5fb537a7dbdfbde86c3d6.1920x1080.jpg?t=1670408839,https://cdn.akamai.steamstatic.com/steam/apps/2225890/ss_655a47438ebf0aa09cb70b9301046faddfa2bda9.1920x1080.jpg?t=1670408839,https://cdn.akamai.steamstatic.com/steam/apps/2225890/ss_f3861162a0b62537d6c24b863f12b3783b8d61d9.1920x1080.jpg?t=1670408839",
+    "Slug": "neo-shock",
+    "Meta Title": "Neo Shock: Dec 7, 2022, SamOliverDev and Full Overview",
+    "Meta Description": "Looking for information on Neo Shock? Check out the release date (Dec 7, 2022), developer insights from SamOliverDev, and a complete game summary.",
+    "Alt Text Image": "Official header image for Neo Shock game - Steam 2225890",
+    "Canonical URL": "https://gusku.site/game/neo-shock",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Neo Shock\", \"description\": \"Looking for information on Neo Shock? Check out the release date (Dec 7, 2022), developer insights from SamOliverDev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 7, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"SamOliverDev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SamOliverDev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2225890/header.jpg?t=1670408839\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

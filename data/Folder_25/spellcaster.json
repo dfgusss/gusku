@@ -1,0 +1,21 @@
+{
+    "AppID": 1298040,
+    "Name": "SpellCaster",
+    "Release date": "Jun 6, 2020",
+    "About the game": "Using state-of-the-art, self-developed machine-learning techniques, SpellCaster provides an extremely fast and accurate sound command recognition system. Simply record your sound commands and use them as keyboard/mouse inputs. SpellCaster is easy-to-use and fully customizable. SpellCaster adds a whole new level of interaction to your favourite games and apps. Perfect Freedom No language boundaries No word boundaries No usage of the Windows speech recognition SpellCaster knows only the commands that you recorded. You have absolute freedom in choosing the sound commands. Even fancy words or sounds other that speech can be used. Recognize Sentences You can connect multiple sound commands to sentences, for example “computer” and “warp drive”. SpellCaster will recognize when you say “computer warp drive” and trigger the connected key command. Completely New Technology The A.I. of SpellCaster was built from scratch to be as fast, accurate and easy-to-use as possible. Features: Super Easy-To-Use: It takes only a couple of seconds to set up a command. You simply need to record your sound commands via microphone, your key commands via keyboard/mouse and connect them. Extreme Speed: Incredibly fast 22 milliseconds needs SpellCaster to recognize a sound command in your microphone stream. (Tested on a quad-core CPU with 4 GHz) Accuracy: In the heat of the battle your voice changes from calm to commanding and excited, SpellCaster is nevertheless able to recognize your sound commands properly. Spell Book: For all your games you can save a chapter in your spell book and easily switch between these chapters. Your Data Is Safe: The recorded data is only used within SpellCaster. It is not used for any other purpose. Customizable: You can record complex keyboard/mouse inputs and even combine multiple sound and key commands. Low Resource Consumption: Due to very low resource consumption you can use SpellCaster in every game. Fully Automatic Recognition: After training the AI, SpellCaster continuously checks your microphone input for sound commands.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1298040/header.jpg?t=1650397773",
+    "Price": 44.99,
+    "Developers": "SpellCaster",
+    "Publishers": "SpellCaster",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1298040/ss_b56d70a56f1fac4fafa7e198ef3d07e21aa677e9.1920x1080.jpg?t=1650397773,https://cdn.akamai.steamstatic.com/steam/apps/1298040/ss_756183c41ef2db703e53804d1ac38d1eae7c8985.1920x1080.jpg?t=1650397773,https://cdn.akamai.steamstatic.com/steam/apps/1298040/ss_dd462581e6f301165429baf0954e30bcae5d2f6c.1920x1080.jpg?t=1650397773,https://cdn.akamai.steamstatic.com/steam/apps/1298040/ss_f06912ace96808b212baae96415185de5c27ef38.1920x1080.jpg?t=1650397773,https://cdn.akamai.steamstatic.com/steam/apps/1298040/ss_eeab186e6c7c985b84273ba35487b8c5eb3dc33f.1920x1080.jpg?t=1650397773",
+    "Slug": "spellcaster",
+    "Meta Title": "SpellCaster: Jun 6, 2020, SpellCaster and Full Overview",
+    "Meta Description": "Looking for information on SpellCaster? Check out the release date (Jun 6, 2020), developer insights from SpellCaster, and a complete game summary.",
+    "Alt Text Image": "Official header image for SpellCaster game - Steam 1298040",
+    "Canonical URL": "https://gusku.site/game/spellcaster",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SpellCaster\", \"description\": \"Looking for information on SpellCaster? Check out the release date (Jun 6, 2020), developer insights from SpellCaster, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 6, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"SpellCaster\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SpellCaster\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1298040/header.jpg?t=1650397773\", \"offers\": {\"@type\": \"Offer\", \"price\": 44.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 585270,
+    "Name": "HeapVR",
+    "Release date": "Feb 27, 2017",
+    "About the game": "HeapVR is a block stacking experience with two game modes. 1st Game Mode: Stack blocks into a tower as high as you can while floating blocks attempt to interrupt your progress in a reverse Jenga-like game. 2nd Game Mode (Coming Soon): Casually snap blocks together in free-play to build any 3D structure you can imagine.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/585270/header.jpg?t=1509753159",
+    "Price": 0.0,
+    "Developers": "Richard Fox - Development,John Gibbons - Development,Jonathan Haggard - Design,Joe Cantasano - Sound/Audio",
+    "Publishers": "Propeller Labs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/585270/ss_06bc0cc9db84a9286ca9e53eec747cb4cc385809.1920x1080.jpg?t=1509753159,https://cdn.akamai.steamstatic.com/steam/apps/585270/ss_efe0c59f4c9f16a955f3ecffadd79d7f1fc36876.1920x1080.jpg?t=1509753159,https://cdn.akamai.steamstatic.com/steam/apps/585270/ss_10a08cb3a0baeb06f87d2b29a812520d9270dbc8.1920x1080.jpg?t=1509753159,https://cdn.akamai.steamstatic.com/steam/apps/585270/ss_874f82dfd4db266153447234cd9fe05e53fb764e.1920x1080.jpg?t=1509753159,https://cdn.akamai.steamstatic.com/steam/apps/585270/ss_3d2e626f8acef8f29cb02bfe6982640c053d792e.1920x1080.jpg?t=1509753159",
+    "Slug": "heapvr",
+    "Meta Title": "HeapVR: Feb 27, 2017, Richard Fox - Development,John Gibb...",
+    "Meta Description": "Looking for information on HeapVR? Check out the release date (Feb 27, 2017), developer insights from Richard Fox - Development,John Gibbons - Developme...",
+    "Alt Text Image": "Official header image for HeapVR game - Steam 585270",
+    "Canonical URL": "https://gusku.site/game/heapvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HeapVR\", \"description\": \"Looking for information on HeapVR? Check out the release date (Feb 27, 2017), developer insights from Richard Fox - Development,John Gibbons - Developme...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 27, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Richard Fox - Development,John Gibbons - Development,Jonathan Haggard - Design,Joe Cantasano - Sound/Audio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Propeller Labs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/585270/header.jpg?t=1509753159\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

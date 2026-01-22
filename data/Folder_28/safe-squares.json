@@ -1,0 +1,21 @@
+{
+    "AppID": 1450000,
+    "Name": "Safe Squares",
+    "Release date": "Nov 20, 2020",
+    "About the game": "Safe Squares is a chess-based puzzle game designed to hone your tactical skills. Each puzzle features enemy pieces on a board; your goal is to spot the unguarded square. Great for novice players and experts alike. Choose your difficulty level and sharpen your game! Puzzles start simple and gradually increase in complexity. For novice players, there are unlimited chances to find the safe square. For advanced players, there are aggressive time and accuracy challenges. In addition to standard chess pieces, Safe Squares introduces non-standard pieces for an extra challenge. You can dodge bishops and knights, but what about amazons and cardinals? In 'Practice' mode, you can set your own parameters and solve endless puzzles without time or accuracy constraints. Learn to recognize common formations and how to avoid them. While Safe Squares is designed to be a fun stand-alone game, it is also a great tool for chess education. If you want to level up your skills, Safe Squares is a great place to start!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1450000/header.jpg?t=1605930016",
+    "Price": 2.99,
+    "Developers": "Shatterproof",
+    "Publishers": "Shatterproof",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1450000/ss_dd351ce51744e2360e39f7362c8ba875c5de64fa.1920x1080.jpg?t=1605930016,https://cdn.akamai.steamstatic.com/steam/apps/1450000/ss_af3fb7b7873a58ae550b67c711d804a0a35a4c1a.1920x1080.jpg?t=1605930016,https://cdn.akamai.steamstatic.com/steam/apps/1450000/ss_8c2058c073e85ec906f787be2a38d420e82f7715.1920x1080.jpg?t=1605930016,https://cdn.akamai.steamstatic.com/steam/apps/1450000/ss_63948a5630e4ac5e471fcaa37e54b7c2ddefc874.1920x1080.jpg?t=1605930016,https://cdn.akamai.steamstatic.com/steam/apps/1450000/ss_b81bd8b6aec9bf19fb640cd13ab8be364f398ee5.1920x1080.jpg?t=1605930016",
+    "Slug": "safe-squares",
+    "Meta Title": "Safe Squares: Nov 20, 2020, Shatterproof and Full Overview",
+    "Meta Description": "Looking for information on Safe Squares? Check out the release date (Nov 20, 2020), developer insights from Shatterproof, and a complete game summary.",
+    "Alt Text Image": "Official header image for Safe Squares game - Steam 1450000",
+    "Canonical URL": "https://gusku.site/game/safe-squares",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Safe Squares\", \"description\": \"Looking for information on Safe Squares? Check out the release date (Nov 20, 2020), developer insights from Shatterproof, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 20, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Shatterproof\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Shatterproof\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1450000/header.jpg?t=1605930016\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

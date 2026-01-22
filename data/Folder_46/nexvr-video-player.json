@@ -1,0 +1,21 @@
+{
+    "AppID": 988920,
+    "Name": "NexVR Video Player",
+    "Release date": "Jan 23, 2019",
+    "About the game": "NexVR Video Player is a simple yet powerful stereoscopic video player for VR Headsets like the HTC Vive™. NexVR Video Player plays the most popular video formats which are supported by Windows™. The player is able to play stereoscopic videos including the most popular formats. It supports Side-by-Side, Over-and-Under, Epirectangular, Fisheye, and Custom Modes etc. in either 180°, 360° or any FoV in between. Normal non stereo videos are also supported. NexVR Video Player is user friendly and it supports both Mouse and Keyboard inputs, XBox™ controllers, and the HTC Vive™ controllers. The file browser is very intuitive and includes thumbnails for your videos for easy browsing and you are able to rank your videos. All customization you set on any given video is automatically saved to be used next time you play your favorite videos.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/988920/header.jpg?t=1593624618",
+    "Price": 1.99,
+    "Developers": "NexVR",
+    "Publishers": "NexVR",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/988920/ss_4852142f231297118896eb2ebe1260a287e7ac5d.1920x1080.jpg?t=1593624618,https://cdn.akamai.steamstatic.com/steam/apps/988920/ss_6ff43e8eca4e37a42555129d37dbd4b0370d4034.1920x1080.jpg?t=1593624618,https://cdn.akamai.steamstatic.com/steam/apps/988920/ss_3c82fc30959918133ffc3e0271a002f3e71ffc7d.1920x1080.jpg?t=1593624618,https://cdn.akamai.steamstatic.com/steam/apps/988920/ss_eeac1efaf26d922b7de2d25b61130591b34eff1a.1920x1080.jpg?t=1593624618,https://cdn.akamai.steamstatic.com/steam/apps/988920/ss_8daa847e7a633bcadfb24d5bba8d7e347b085efd.1920x1080.jpg?t=1593624618",
+    "Slug": "nexvr-video-player",
+    "Meta Title": "NexVR Video Player: Jan 23, 2019, NexVR and Full Overview",
+    "Meta Description": "Looking for information on NexVR Video Player? Check out the release date (Jan 23, 2019), developer insights from NexVR, and a complete game summary.",
+    "Alt Text Image": "Official header image for NexVR Video Player game - Steam 988920",
+    "Canonical URL": "https://gusku.site/game/nexvr-video-player",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"NexVR Video Player\", \"description\": \"Looking for information on NexVR Video Player? Check out the release date (Jan 23, 2019), developer insights from NexVR, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 23, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"NexVR\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"NexVR\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/988920/header.jpg?t=1593624618\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

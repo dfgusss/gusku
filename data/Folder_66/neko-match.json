@@ -1,0 +1,21 @@
+{
+    "AppID": 1095460,
+    "Name": "Neko Match",
+    "Release date": "Nov 4, 2022",
+    "About the game": "This is a very simple match 3 game. Players need to eliminate all the patterns on the screen, and there will be many layers that need to be eliminated by the player. The pattern on the first layer must be eliminated before the pattern on the next layer can be eliminated, which will test the decision-making ability of the players. If the grid is full If you do, you will lose. feature 1. Players need to use their brains to eliminate all patterns, and some patterns will be hidden in very deep corners. 2. The difference between all the patterns is quite big. When players are looking for them, they will not find the wrong ones because they are too similar.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1095460/header.jpg?t=1667573511",
+    "Price": 2.99,
+    "Developers": "Hatake",
+    "Publishers": "Hatake",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_efda37bb98e2b1a0094c7b466478cd758a0b8063.1920x1080.jpg?t=1667573511,https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_7dd54a717bc28e6144a9bda154ff28e3dcd74ee5.1920x1080.jpg?t=1667573511,https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_269a1bb7967eaa1a15ca88c373af00396060e667.1920x1080.jpg?t=1667573511,https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_b5aa647bd0bd0b0fb7abdf9e6df83cf536a21179.1920x1080.jpg?t=1667573511,https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_d692d4add9ca48cc12bd11a4d921de3cd0e239fa.1920x1080.jpg?t=1667573511,https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_9b53a5185b67aed5dd1f1d35693c01ca3dd93fff.1920x1080.jpg?t=1667573511,https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_6f276070e7635eec107943f499717d60742b5110.1920x1080.jpg?t=1667573511,https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_ecfadf145f0aef8828703ce674c0406787feb12c.1920x1080.jpg?t=1667573511,https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_8a2d8a224e74d459bcd9a8d8738dd08cb6619447.1920x1080.jpg?t=1667573511,https://cdn.akamai.steamstatic.com/steam/apps/1095460/ss_6e9b4aee2ccbc261fcce76548ca5901c9c3bb4a9.1920x1080.jpg?t=1667573511",
+    "Slug": "neko-match",
+    "Meta Title": "Neko Match: Nov 4, 2022, Hatake and Full Overview",
+    "Meta Description": "Looking for information on Neko Match? Check out the release date (Nov 4, 2022), developer insights from Hatake, and a complete game summary.",
+    "Alt Text Image": "Official header image for Neko Match game - Steam 1095460",
+    "Canonical URL": "https://gusku.site/game/neko-match",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Neko Match\", \"description\": \"Looking for information on Neko Match? Check out the release date (Nov 4, 2022), developer insights from Hatake, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 4, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hatake\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hatake\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1095460/header.jpg?t=1667573511\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

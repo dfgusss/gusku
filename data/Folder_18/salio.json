@@ -1,0 +1,21 @@
+{
+    "AppID": 875810,
+    "Name": "Salio",
+    "Release date": "Mar 22, 2019",
+    "About the game": "Salio is a minimalistic, but still a super hard platform game about getting a tiny fellow through numerous rooms filled with various obstacles. Reflex, coordination are what is needed to finish this extremely difficult platformer. Gameplay Tough levels, interesting mechanics, tight controls, secrets to find about and many more! Features Story mode with many levels Workshop mode with your or other player's self-made levels (Steam Workshop support) Support for Lua modding Rewarding achievements Level Editor Create, edit and publish your or other player's custom levels using an user friendly level editor! Lua Modding Support Modify and add new content into the game with the help of Lua based modding!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/875810/header.jpg?t=1627383862",
+    "Price": 4.99,
+    "Developers": "Badosz,Kajetan Andrzejak",
+    "Publishers": "Kajetan Andrzejak,Badosz",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/875810/ss_0fd19737a423336e0c46e033c7d4666425d793ea.1920x1080.jpg?t=1627383862,https://cdn.akamai.steamstatic.com/steam/apps/875810/ss_af422a5c8ac61462cc92bcb1cfea4b9187502077.1920x1080.jpg?t=1627383862,https://cdn.akamai.steamstatic.com/steam/apps/875810/ss_f0ea58c2cfdc1fcdf30f01d7c038fc3788ccd86e.1920x1080.jpg?t=1627383862,https://cdn.akamai.steamstatic.com/steam/apps/875810/ss_24559a4440a3ee053a91200c3f82c1e10b5137ca.1920x1080.jpg?t=1627383862,https://cdn.akamai.steamstatic.com/steam/apps/875810/ss_a9fd9215cb51d7449a1cb7dab94eb6061784af04.1920x1080.jpg?t=1627383862",
+    "Slug": "salio",
+    "Meta Title": "Salio: Mar 22, 2019, Badosz,Kajetan Andrzejak and Full Ov...",
+    "Meta Description": "Looking for information on Salio? Check out the release date (Mar 22, 2019), developer insights from Badosz,Kajetan Andrzejak, and a complete game summary.",
+    "Alt Text Image": "Official header image for Salio game - Steam 875810",
+    "Canonical URL": "https://gusku.site/game/salio",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Salio\", \"description\": \"Looking for information on Salio? Check out the release date (Mar 22, 2019), developer insights from Badosz,Kajetan Andrzejak, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 22, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Badosz,Kajetan Andrzejak\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kajetan Andrzejak,Badosz\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/875810/header.jpg?t=1627383862\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

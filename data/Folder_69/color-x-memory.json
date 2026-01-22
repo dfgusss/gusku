@@ -1,0 +1,21 @@
+{
+    "AppID": 2265410,
+    "Name": "Color X Memory",
+    "Release date": "Jan 29, 2023",
+    "About the game": "Minimalistic puzzle game to test your visual memory. There are hidden colored cards on the field. Your task is to find all paired cards by color. The game ends as soon as all the cards on the field are open. To get the best result, you need to make as few mistakes as possible when opening paired cards. Good luck with your game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2265410/header.jpg?t=1675012724",
+    "Price": 1.39,
+    "Developers": "CasGames",
+    "Publishers": "CasGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2265410/ss_96e294c8c069436390256f1de9bc5f10b83812c2.1920x1080.jpg?t=1675012724,https://cdn.akamai.steamstatic.com/steam/apps/2265410/ss_ad7b9cab0f44beb4cf697c522ef2dfa1467bdde9.1920x1080.jpg?t=1675012724,https://cdn.akamai.steamstatic.com/steam/apps/2265410/ss_560a66ce3df6f866a8ca294da84915fd6f4688c9.1920x1080.jpg?t=1675012724,https://cdn.akamai.steamstatic.com/steam/apps/2265410/ss_7aed14ead6d50fb64e2da31280c569460c1d69c7.1920x1080.jpg?t=1675012724,https://cdn.akamai.steamstatic.com/steam/apps/2265410/ss_ebc21c342ca020924c661a9491e1140751a0cdde.1920x1080.jpg?t=1675012724",
+    "Slug": "color-x-memory",
+    "Meta Title": "Color X Memory: Jan 29, 2023, CasGames and Full Overview",
+    "Meta Description": "Looking for information on Color X Memory? Check out the release date (Jan 29, 2023), developer insights from CasGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Color X Memory game - Steam 2265410",
+    "Canonical URL": "https://gusku.site/game/color-x-memory",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Color X Memory\", \"description\": \"Looking for information on Color X Memory? Check out the release date (Jan 29, 2023), developer insights from CasGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 29, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"CasGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CasGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2265410/header.jpg?t=1675012724\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

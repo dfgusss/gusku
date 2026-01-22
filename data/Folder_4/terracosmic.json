@@ -1,0 +1,21 @@
+{
+    "AppID": 1280500,
+    "Name": "Terracosmic",
+    "Release date": "May 27, 2020",
+    "About the game": "Terracosmic is a game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1280500/header.jpg?t=1615672911",
+    "Price": 0.99,
+    "Developers": "Jakub Klementewicz",
+    "Publishers": "Jakub Klementewicz",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1280500/ss_c638ad8567d7de446c7c9a286c32df68a111960d.1920x1080.jpg?t=1615672911,https://cdn.akamai.steamstatic.com/steam/apps/1280500/ss_6ac6d911aefcd294a6160d3d60cf3ce7c47fa51e.1920x1080.jpg?t=1615672911,https://cdn.akamai.steamstatic.com/steam/apps/1280500/ss_bffdb78e56ce24519396244c16be18e102e9f944.1920x1080.jpg?t=1615672911,https://cdn.akamai.steamstatic.com/steam/apps/1280500/ss_eb5a490f5c7af18b0dfbf1eb561530c037517dd3.1920x1080.jpg?t=1615672911,https://cdn.akamai.steamstatic.com/steam/apps/1280500/ss_91682d88579792afada0d1710c06abbadacbcbf1.1920x1080.jpg?t=1615672911,https://cdn.akamai.steamstatic.com/steam/apps/1280500/ss_d40136d2837465b55f4de8289d9b7349e025827f.1920x1080.jpg?t=1615672911",
+    "Slug": "terracosmic",
+    "Meta Title": "Terracosmic: May 27, 2020, Jakub Klementewicz and Full Ov...",
+    "Meta Description": "Looking for information on Terracosmic? Check out the release date (May 27, 2020), developer insights from Jakub Klementewicz, and a complete game summary.",
+    "Alt Text Image": "Official header image for Terracosmic game - Steam 1280500",
+    "Canonical URL": "https://gusku.site/game/terracosmic",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Terracosmic\", \"description\": \"Looking for information on Terracosmic? Check out the release date (May 27, 2020), developer insights from Jakub Klementewicz, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 27, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jakub Klementewicz\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jakub Klementewicz\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1280500/header.jpg?t=1615672911\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

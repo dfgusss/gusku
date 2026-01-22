@@ -1,0 +1,21 @@
+{
+    "AppID": 723280,
+    "Name": "VR360Viewer",
+    "Release date": "Oct 16, 2017",
+    "About the game": "VR Photo Viewer is 360-degree spherical panorama photo viewer app with Pretty UI. This app has bgm player with Pretty UI. Supported view mode with Pretty UI: -Spherical Mono -Top-Bottom Stereo -SideBySide Stereo -Plane -Parallel If you selected 'Parallel View Mode', you can look like 3D with normal pictures slightly. Individual results may vary.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/723280/header.jpg?t=1512704042",
+    "Price": 3.99,
+    "Developers": "Vrai",
+    "Publishers": "Vrai",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/723280/ss_6560b1219047d96272939b8ae626a61a6b1961a9.1920x1080.jpg?t=1512704042,https://cdn.akamai.steamstatic.com/steam/apps/723280/ss_84ef9ade2e41cfbb62836f47346a3cc386a5f6af.1920x1080.jpg?t=1512704042,https://cdn.akamai.steamstatic.com/steam/apps/723280/ss_7b24b09a045094ebd510036925b3b93cb3671a7f.1920x1080.jpg?t=1512704042,https://cdn.akamai.steamstatic.com/steam/apps/723280/ss_a84f8a1804df7d1b2ed877c09795515706e3a2cf.1920x1080.jpg?t=1512704042,https://cdn.akamai.steamstatic.com/steam/apps/723280/ss_41baca3d13bbb619d03cca0574eb51a678c8b842.1920x1080.jpg?t=1512704042",
+    "Slug": "vr360viewer",
+    "Meta Title": "VR360Viewer: Oct 16, 2017, Vrai and Full Overview",
+    "Meta Description": "Looking for information on VR360Viewer? Check out the release date (Oct 16, 2017), developer insights from Vrai, and a complete game summary.",
+    "Alt Text Image": "Official header image for VR360Viewer game - Steam 723280",
+    "Canonical URL": "https://gusku.site/game/vr360viewer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VR360Viewer\", \"description\": \"Looking for information on VR360Viewer? Check out the release date (Oct 16, 2017), developer insights from Vrai, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 16, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vrai\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vrai\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/723280/header.jpg?t=1512704042\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

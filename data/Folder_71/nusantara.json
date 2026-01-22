@@ -1,0 +1,21 @@
+{
+    "AppID": 2190170,
+    "Name": "Nusantara",
+    "Release date": "Mar 11, 2023",
+    "About the game": "The hackable indie turn-based strategy game. The game is feature-rich, with single (PvE) and multiplayer (PvP) content. Different maps, factions, heroes, upgrade trees and randomized map interaction allow for lots of exploration, while rulesets allow for endless replayability. Minigame included! Two fully assymmetric factions, with large techtrees and multiple heroes + over 10 rulesets, each offering a new way to play the game. Engage in multiplayer with our friends or other players online. Lobbies, chat and replays included. During intense 1v1 multiplayer matches, Otok can provide moments of respite and whacky fun! The base game is already coded as a mod - check it out to learn more about modding and actively contribute to balance changes. Add new factions, resources, units, effects, terrains and much more - the detailed scripting engine lets your imagination run wild. All the tools you need are free and easy to access, from the built-in Map Editor, Script Debugger, as well as resources and docs on the Check out the scripting language and the modding engine. In a tropical archipelago far from civilization, two sides are locked in a fierce conflict... Sanghoy are technologicaly primitive but numerous and have mastered the ancient art of Sarcomancy, which allows them to manipulate the flesh of their own and enemies alike and to create monstrous beastmen to fight in their armies. The other side, the Frenza Empire are a dieselpunk nation with advanced technology and weaponry, bent on using their navy, airforce and mechanized divisions to colonize the islands.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2190170/header.jpg?t=1678555568",
+    "Price": 3.99,
+    "Developers": "Gordan Glavaš",
+    "Publishers": "Globulus d.o.o.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2190170/ss_647dc2cf7c823233e06e9c39a20e833cf1b014f8.1920x1080.jpg?t=1678555568,https://cdn.akamai.steamstatic.com/steam/apps/2190170/ss_cca0d88e694b30a0987325736c7b99022b70f16e.1920x1080.jpg?t=1678555568,https://cdn.akamai.steamstatic.com/steam/apps/2190170/ss_37ae9bd68db700bf70dc61f7dc4cd659eadb6168.1920x1080.jpg?t=1678555568,https://cdn.akamai.steamstatic.com/steam/apps/2190170/ss_f37543d989dd5b3cb0aaaa03d0d582eb5cc9f42c.1920x1080.jpg?t=1678555568,https://cdn.akamai.steamstatic.com/steam/apps/2190170/ss_76fa777b069efd1b369d456a494c6a15dc70cfea.1920x1080.jpg?t=1678555568",
+    "Slug": "nusantara",
+    "Meta Title": "Nusantara: Mar 11, 2023, Gordan Glavaš and Full Overview",
+    "Meta Description": "Looking for information on Nusantara? Check out the release date (Mar 11, 2023), developer insights from Gordan Glavaš, and a complete game summary.",
+    "Alt Text Image": "Official header image for Nusantara game - Steam 2190170",
+    "Canonical URL": "https://gusku.site/game/nusantara",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nusantara\", \"description\": \"Looking for information on Nusantara? Check out the release date (Mar 11, 2023), developer insights from Gordan Glava\\u0161, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 11, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gordan Glava\\u0161\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Globulus d.o.o.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2190170/header.jpg?t=1678555568\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

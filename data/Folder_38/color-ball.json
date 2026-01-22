@@ -1,0 +1,21 @@
+{
+    "AppID": 1810720,
+    "Name": "Color Ball",
+    "Release date": "Nov 26, 2021",
+    "About the game": "In the minimalistic arcade game 'Color Ball' you have to control a bouncing ball. With mouse clicks, you push the ball up. Its task is to go through the shapes of different colors as high as possible and not touch the shapes of a different color. For example, if the ball gets the color red, it can pass through the red pieces, while touching the pieces of a different color will end the game and the level will start over. The game features several modes and many levels with increasing difficulty. Enjoy your game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1810720/header.jpg?t=1637922547",
+    "Price": 4.99,
+    "Developers": "QuickBobber",
+    "Publishers": "QuickBobber",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1810720/ss_4bde0d99ab64300d64af8cdcbbaad33155ed5d49.1920x1080.jpg?t=1637922547,https://cdn.akamai.steamstatic.com/steam/apps/1810720/ss_77bc78d8a0f15b4ab600b26d254690d7649d729a.1920x1080.jpg?t=1637922547,https://cdn.akamai.steamstatic.com/steam/apps/1810720/ss_ee7f9ff5c1cab2bf772461b9b5fce531d31ee861.1920x1080.jpg?t=1637922547,https://cdn.akamai.steamstatic.com/steam/apps/1810720/ss_db8c547b59d72a9eadee106008f1dba12a67fc27.1920x1080.jpg?t=1637922547,https://cdn.akamai.steamstatic.com/steam/apps/1810720/ss_1c7edf8e7b0b5dd94b0d7c553cc0fdf013d850e6.1920x1080.jpg?t=1637922547",
+    "Slug": "color-ball",
+    "Meta Title": "Color Ball: Nov 26, 2021, QuickBobber and Full Overview",
+    "Meta Description": "Looking for information on Color Ball? Check out the release date (Nov 26, 2021), developer insights from QuickBobber, and a complete game summary.",
+    "Alt Text Image": "Official header image for Color Ball game - Steam 1810720",
+    "Canonical URL": "https://gusku.site/game/color-ball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Color Ball\", \"description\": \"Looking for information on Color Ball? Check out the release date (Nov 26, 2021), developer insights from QuickBobber, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 26, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1810720/header.jpg?t=1637922547\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

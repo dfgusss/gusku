@@ -1,0 +1,21 @@
+{
+    "AppID": 2197000,
+    "Name": "DrugRunner",
+    "Release date": "Nov 8, 2022",
+    "About the game": "Drug Runner is a 3D game in which you have to run along the road and dodge obstacles, on the way collecting bonuses and coins that give you points. If you can jump over the barrier by pressing the 'space bar', the billboards with messages about the dangers of smoking you must avoid, any collision with the shield will be the end of the game and have to start again. The game has many graphics settings that you can make to suit you for a comfortable game. Space bar - jump controls - WSAD Features: - nice graphics; - simple controls; - interesting gameplay; - light music; - unforgettable adventures;",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2197000/header.jpg?t=1667894938",
+    "Price": 0.59,
+    "Developers": "STuNT",
+    "Publishers": "STuNT",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2197000/ss_8c6e2545420b9d29f896f59e9eef6f2855504be0.1920x1080.jpg?t=1667894938,https://cdn.akamai.steamstatic.com/steam/apps/2197000/ss_634b32b054391c5de2aa3ca1dfb94ddb48db14f5.1920x1080.jpg?t=1667894938,https://cdn.akamai.steamstatic.com/steam/apps/2197000/ss_2cb1e77654858e810aac4e1df2792bb8f8dfe552.1920x1080.jpg?t=1667894938,https://cdn.akamai.steamstatic.com/steam/apps/2197000/ss_0b2e19624197d30b95ec53dc685c70671a5827de.1920x1080.jpg?t=1667894938,https://cdn.akamai.steamstatic.com/steam/apps/2197000/ss_c5bd6141e0ca41c5dffb2ab75a61b9e6769c5cc7.1920x1080.jpg?t=1667894938",
+    "Slug": "drugrunner",
+    "Meta Title": "DrugRunner: Nov 8, 2022, STuNT and Full Overview",
+    "Meta Description": "Looking for information on DrugRunner? Check out the release date (Nov 8, 2022), developer insights from STuNT, and a complete game summary.",
+    "Alt Text Image": "Official header image for DrugRunner game - Steam 2197000",
+    "Canonical URL": "https://gusku.site/game/drugrunner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DrugRunner\", \"description\": \"Looking for information on DrugRunner? Check out the release date (Nov 8, 2022), developer insights from STuNT, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 8, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"STuNT\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"STuNT\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2197000/header.jpg?t=1667894938\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.59, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

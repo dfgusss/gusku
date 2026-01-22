@@ -1,0 +1,21 @@
+{
+    "AppID": 632040,
+    "Name": "VR Sand",
+    "Release date": "Feb 7, 2019",
+    "About the game": "VR Sand is a 3D falling sand toy (similar to the popular two-dimensional Powder Toy) which allows you to watch and interact with various colored elements. Within the outlined play area you can place sand, concrete, water, wall, plant, fire, gunpowder, and C4 to experiment with many elemental reactions; with controls made for VR. Feature List Supports sitting, standing, and 360 degree room-scale configurations Interact with the elements in a box in front of you, or make the box much larger and explore the interactions as a world around you Left and right-handed support Variable brush sizes Source blocks that generate other blocks Use up to 512,000 (80x80x80) particles of elements - this will be expanded in the future as more optimizations are made",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/632040/header.jpg?t=1549583618",
+    "Price": 4.99,
+    "Developers": "Phylliida",
+    "Publishers": "Phylliida",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/632040/ss_907e83986305485b7476bfc78021e9893e11d655.1920x1080.jpg?t=1549583618,https://cdn.akamai.steamstatic.com/steam/apps/632040/ss_38bf2b6f1e6dd7790c231d067f79ce1d781df728.1920x1080.jpg?t=1549583618,https://cdn.akamai.steamstatic.com/steam/apps/632040/ss_391710e339ee1a22e837ea10830fa30ef5863a73.1920x1080.jpg?t=1549583618,https://cdn.akamai.steamstatic.com/steam/apps/632040/ss_1d3aaa248a041859e7b1cca96dfb0ba99392fd0f.1920x1080.jpg?t=1549583618,https://cdn.akamai.steamstatic.com/steam/apps/632040/ss_94c74ec0b5da74590531cce539032e810e698028.1920x1080.jpg?t=1549583618",
+    "Slug": "vr-sand",
+    "Meta Title": "VR Sand: Feb 7, 2019, Phylliida and Full Overview",
+    "Meta Description": "Looking for information on VR Sand? Check out the release date (Feb 7, 2019), developer insights from Phylliida, and a complete game summary.",
+    "Alt Text Image": "Official header image for VR Sand game - Steam 632040",
+    "Canonical URL": "https://gusku.site/game/vr-sand",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VR Sand\", \"description\": \"Looking for information on VR Sand? Check out the release date (Feb 7, 2019), developer insights from Phylliida, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 7, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Phylliida\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Phylliida\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/632040/header.jpg?t=1549583618\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1460290,
+    "Name": "Loop",
+    "Release date": "Nov 24, 2020",
+    "About the game": "Welcome to Loop. Loop is a first-person comedy game centered around completing laps around a test track. Drawing inspiration from The Stanley Parable and Portal, Loop is a game that will leave players laughing and confused. Based on the award-winning Ludum Dare 47 submission by the same name, Loop's full release offers players new hilarious content, bug fixes, and many quality of life updates. What will happen to you in the Loop?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1460290/header.jpg?t=1640067273",
+    "Price": 0.99,
+    "Developers": "Aidan Strong",
+    "Publishers": "Aidan Strong",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1460290/ss_0c21d5150a237f9692350c627feb85c1a7ff30bf.1920x1080.jpg?t=1640067273,https://cdn.akamai.steamstatic.com/steam/apps/1460290/ss_40459defa66a837fe3aea34e779c72fed452ac73.1920x1080.jpg?t=1640067273,https://cdn.akamai.steamstatic.com/steam/apps/1460290/ss_0fa4328dc6a1d7e60cbaa445c1853cbb2a2fd608.1920x1080.jpg?t=1640067273,https://cdn.akamai.steamstatic.com/steam/apps/1460290/ss_d722cd4528f924225321c41958549ada67887ea7.1920x1080.jpg?t=1640067273,https://cdn.akamai.steamstatic.com/steam/apps/1460290/ss_0dad02ec625220f03b1638c2d32b3bb3a3992755.1920x1080.jpg?t=1640067273",
+    "Slug": "loop",
+    "Meta Title": "Loop: Nov 24, 2020, Aidan Strong and Full Overview",
+    "Meta Description": "Looking for information on Loop? Check out the release date (Nov 24, 2020), developer insights from Aidan Strong, and a complete game summary.",
+    "Alt Text Image": "Official header image for Loop game - Steam 1460290",
+    "Canonical URL": "https://gusku.site/game/loop",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Loop\", \"description\": \"Looking for information on Loop? Check out the release date (Nov 24, 2020), developer insights from Aidan Strong, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 24, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Aidan Strong\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Aidan Strong\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1460290/header.jpg?t=1640067273\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

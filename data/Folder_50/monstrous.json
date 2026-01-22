@@ -1,0 +1,21 @@
+{
+    "AppID": 1169420,
+    "Name": "Monstrüous",
+    "Release date": "Dec 15, 2019",
+    "About the game": "Monstrüous is a puzzle game in which you have to figure out in which order to use 8 actions to kill the monstruous creature. It usually takes about 30-45 min to complete the game. No crazy gaming skills required, it's the perfect game to play with your non-gamer friends or family !",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1169420/header.jpg?t=1579025370",
+    "Price": 1.99,
+    "Developers": "Arnaud Millot",
+    "Publishers": "Arnaud Millot",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1169420/ss_af78b7d4ef4ea50fc5698afdb1320e05e737ee9d.1920x1080.jpg?t=1579025370,https://cdn.akamai.steamstatic.com/steam/apps/1169420/ss_013d6356dbaf1ccb640fff4cf91263ff00c8fb9e.1920x1080.jpg?t=1579025370,https://cdn.akamai.steamstatic.com/steam/apps/1169420/ss_c5ecedff8f7594e2cfbe222e78abf82f37bc0bb7.1920x1080.jpg?t=1579025370,https://cdn.akamai.steamstatic.com/steam/apps/1169420/ss_d97afc2a1779eb88e83feffd4984442129cf9b1a.1920x1080.jpg?t=1579025370,https://cdn.akamai.steamstatic.com/steam/apps/1169420/ss_1c0995963e7d3ffda808b56f8c7f0fd36a60ca77.1920x1080.jpg?t=1579025370",
+    "Slug": "monstrous",
+    "Meta Title": "Monstrüous: Dec 15, 2019, Arnaud Millot and Full Overview",
+    "Meta Description": "Looking for information on Monstrüous? Check out the release date (Dec 15, 2019), developer insights from Arnaud Millot, and a complete game summary.",
+    "Alt Text Image": "Official header image for Monstrüous game - Steam 1169420",
+    "Canonical URL": "https://gusku.site/game/monstrous",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Monstr\\u00fcous\", \"description\": \"Looking for information on Monstr\\u00fcous? Check out the release date (Dec 15, 2019), developer insights from Arnaud Millot, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 15, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Arnaud Millot\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Arnaud Millot\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1169420/header.jpg?t=1579025370\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

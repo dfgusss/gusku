@@ -1,0 +1,21 @@
+{
+    "AppID": 1956630,
+    "Name": "Sway",
+    "Release date": "Apr 26, 2022",
+    "About the game": "Sway is a short bullet hell game modeled after the Touhou series that can be completed in about 15 to 30 minutes. This game was developed by a 2-person team in 4 months as part of a college independent study. Additional shout-out and credit to the folks at Analgesic Productions for allowing us to use sound effects from their game Anodyne ! Also, feel free to join our official discord server (link is on the right). In Sway you play as a nameless girl who has suddenly found herself in a surreal and hostile world. With no other option, you must press forward through an onslaught of bullets in hopes of finding a way back home. This game features over 45 beautifully-drawn backgrounds paired with 4 original piano compositions. You'll fight 23 unique enemy types and face-off against 5 challenging bosses. Gameplay is simple! Use the ARROW KEYS to move. Hold Z to continuously fire bullets at your foes. Hold SHIFT to reduce your speed and narrow your cone of fire. Press X to use a bomb and clear the screen of enemy bullets. Gather power tokens from fallen enemies to gain additional firepower. Defeated enemies also drop faith tokens which increase your score. Hearts grant you an additional life, allowing you to take more hits before dying. Stars increase your bomb count by 1. That's really all there is to it. We hope you enjoy our first published game and we also hope to bring you even higher quality work in the future!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1956630/header.jpg?t=1651854872",
+    "Price": 0.0,
+    "Developers": "You Cannot Defend",
+    "Publishers": "You Cannot Defend",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1956630/ss_743b04d976a7b0fe6980c5f06845582b61e1fefd.1920x1080.jpg?t=1651854872,https://cdn.akamai.steamstatic.com/steam/apps/1956630/ss_e7856898bc3ca4eb13ce72a245db4f381009f6c5.1920x1080.jpg?t=1651854872,https://cdn.akamai.steamstatic.com/steam/apps/1956630/ss_df54e7db395f2d53d8f20e61fdcfb8bab74a1017.1920x1080.jpg?t=1651854872,https://cdn.akamai.steamstatic.com/steam/apps/1956630/ss_8dd01133acc93c8b2ef01673f6536ce831f768cc.1920x1080.jpg?t=1651854872,https://cdn.akamai.steamstatic.com/steam/apps/1956630/ss_b073182fcc3ac5d3a880d14db64dd743fdc29143.1920x1080.jpg?t=1651854872",
+    "Slug": "sway",
+    "Meta Title": "Sway: Apr 26, 2022, You Cannot Defend and Full Overview",
+    "Meta Description": "Looking for information on Sway? Check out the release date (Apr 26, 2022), developer insights from You Cannot Defend, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sway game - Steam 1956630",
+    "Canonical URL": "https://gusku.site/game/sway",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sway\", \"description\": \"Looking for information on Sway? Check out the release date (Apr 26, 2022), developer insights from You Cannot Defend, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 26, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"You Cannot Defend\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"You Cannot Defend\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1956630/header.jpg?t=1651854872\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

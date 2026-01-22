@@ -1,0 +1,21 @@
+{
+    "AppID": 2218350,
+    "Name": "RPG Maker 3D Character Converter",
+    "Release date": "Feb 13, 2023",
+    "About the game": "Note: For user manuals, please download directly from this Steam Page via the links on the right. The links found in the in-app Help feature currently links to one of our web page still in development. We apologize for this inconvenience. (IMPORTANT: Purchasers of the Steam version of RPG Maker Unite, currently in development, will receive the 3D Character Converter for free. Once RPG Maker Unite is released, owners of this product will have RPG Maker Unite discounted accordingly via Steam's 'Complete the Set' bundle making the total cost equal. There is no worry of duplicate purchase.) First time in RPG Maker series! Convert VRM format humanoid 3D characters into 2D anime sprites useable for RPG Maker series and the work-in-progress RPG Maker Unite to be released in the future! Use this to add more creation freedom to your games! Main Features: An easy to use tool that converts 3D Humanoid type VRM models into 2D sprites for use in RPG Maker series, with just mouse clicks! Compatible with most humanoid VRM models - whether self-created through 3D modeling software, VRM generation apps, or bought directly(*) from asset creators. A total of 5 Map Walker sprites and 18 Side-View battler sprite types can be exported. Sliders to control the model's facial expressions to be exported into dialogue / event pictures A RPG like map and SV-battle UI to confirm motion before exporting! Export Resolution: Map Walker Sprite： 48x48 / 64x64 / 128x128 / 256x256 / 96 x 146 (RPG Maker Unite default Map Walker sprite spec) SV-Battler Sprite： 64x64 / 320x320 / 512x512 / 194x194 (RPG Maker Unite default SV-Battler sprite spec) (*Note: Please read the model creator's terms and conditions carefully when buying models directly from others)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2218350/header.jpg?t=1676368763",
+    "Price": 8.99,
+    "Developers": "Gotcha Gotcha Games",
+    "Publishers": "Gotcha Gotcha Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2218350/ss_5da78df1079346de776ea2a53459ccf5ee5a5e81.1920x1080.jpg?t=1676368763,https://cdn.akamai.steamstatic.com/steam/apps/2218350/ss_e722e4bd43bc070994984a317d961d02e1e8ecc0.1920x1080.jpg?t=1676368763,https://cdn.akamai.steamstatic.com/steam/apps/2218350/ss_a6c63ef0a6003200cd4c83166120e7882951ce4a.1920x1080.jpg?t=1676368763,https://cdn.akamai.steamstatic.com/steam/apps/2218350/ss_c7864990f52f0d0cb86edbbf64ad3a58a3564e18.1920x1080.jpg?t=1676368763,https://cdn.akamai.steamstatic.com/steam/apps/2218350/ss_f1383ced0e7b5143bf622ca71fd00849505d9aae.1920x1080.jpg?t=1676368763",
+    "Slug": "rpg-maker-3d-character-converter",
+    "Meta Title": "RPG Maker 3D Character Converter: Feb 13, 2023, Gotcha Go...",
+    "Meta Description": "Looking for information on RPG Maker 3D Character Converter? Check out the release date (Feb 13, 2023), developer insights from Gotcha Gotcha Games, and...",
+    "Alt Text Image": "Official header image for RPG Maker 3D Character Converter game - Steam 2218350",
+    "Canonical URL": "https://gusku.site/game/rpg-maker-3d-character-converter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RPG Maker 3D Character Converter\", \"description\": \"Looking for information on RPG Maker 3D Character Converter? Check out the release date (Feb 13, 2023), developer insights from Gotcha Gotcha Games, and...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 13, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gotcha Gotcha Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gotcha Gotcha Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2218350/header.jpg?t=1676368763\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

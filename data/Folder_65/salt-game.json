@@ -1,0 +1,21 @@
+{
+    "AppID": 2129410,
+    "Name": "Salt Game",
+    "Release date": "Oct 14, 2022",
+    "About the game": "Salt Game est un jeu de parcours, plateformes avec des obstacles et des pièges. Il paraît simple de franchir les étapes mais attention les apparences sont trompeuses. Ce jeu simpliste est conçu pour faire naître la rage dans le cœur des joueurs, certaines choses qui peuvent s'apparenter à un bug n'en sont pas mais sont présentes pour augmenter le stress. Le but du jeu est simple, le joueur doit arriver au bout du parcours Salt Game en passant les différents obstacles et pièges qui aux premiers regards paraissent simple mais au final pas tant que ça. Bonne chance joueurs !",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2129410/header.jpg?t=1665846746",
+    "Price": 2.99,
+    "Developers": "Never Dream",
+    "Publishers": "Never Dream",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2129410/ss_04839630a7e8670edf005ab4b5ce07a17354a78f.1920x1080.jpg?t=1665846746,https://cdn.akamai.steamstatic.com/steam/apps/2129410/ss_ef387fbefd5edc9f5ee6ce8bc7f1442e2a21d2fe.1920x1080.jpg?t=1665846746,https://cdn.akamai.steamstatic.com/steam/apps/2129410/ss_8e8784cb8859eb339f835e4c24c158bbf14e4faa.1920x1080.jpg?t=1665846746,https://cdn.akamai.steamstatic.com/steam/apps/2129410/ss_a481d8b6dedea1cbda86bdc156500fbccb01e3a7.1920x1080.jpg?t=1665846746,https://cdn.akamai.steamstatic.com/steam/apps/2129410/ss_c0bcdd94ac8de1afac860549fcb56104a897256b.1920x1080.jpg?t=1665846746",
+    "Slug": "salt-game",
+    "Meta Title": "Salt Game: Oct 14, 2022, Never Dream and Full Overview",
+    "Meta Description": "Looking for information on Salt Game? Check out the release date (Oct 14, 2022), developer insights from Never Dream, and a complete game summary.",
+    "Alt Text Image": "Official header image for Salt Game game - Steam 2129410",
+    "Canonical URL": "https://gusku.site/game/salt-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Salt Game\", \"description\": \"Looking for information on Salt Game? Check out the release date (Oct 14, 2022), developer insights from Never Dream, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 14, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Never Dream\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Never Dream\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2129410/header.jpg?t=1665846746\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

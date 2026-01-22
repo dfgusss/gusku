@@ -1,0 +1,21 @@
+{
+    "AppID": 1256230,
+    "Name": "Hyperbolica",
+    "Release date": "Mar 14, 2022",
+    "About the game": "Travel through Hyperbolica, a true Non-Euclidean curved space like you've never experienced before. On this whimsical journey, you'll discover bizarre landscapes, solve puzzles, battle in a snowball fight, navigate a labyrinth, and much more. All with new challenges in this strange new world. How is hyperbolic space different? Hyperbolic space allows exponentially more volume to fit in the same 'space' than you'd normally expect. This allows you to explore enormous areas while taking very little time to walk anywhere. You'll find that building a mental map of your surroundings becomes impossible. Lines can no longer stay parallel. Traversing the map can result in unexpected rotations. And many more strange consequences that will make you question reality. You'll also explore spherical space, which has the opposite outcomes. For example, a reverse-perspective: Objects appear larger the farther away they are. It's a difficult concept to explain, and first-hand experience really is the best way to understand and build an intuition about these interesting geometries. Hyperbolica was created specifically for this purpose, to break the mold and to have a fun experience in an alternative universe different from our own.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1256230/header.jpg?t=1650000109",
+    "Price": 16.99,
+    "Developers": "CodeParade",
+    "Publishers": "CodeParade",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1256230/ss_49dbb556353094fe59d800ffeae9047051a1316b.1920x1080.jpg?t=1650000109,https://cdn.akamai.steamstatic.com/steam/apps/1256230/ss_b2a9b3a7987b9a3e4494d715bde1f09a70f8db4d.1920x1080.jpg?t=1650000109,https://cdn.akamai.steamstatic.com/steam/apps/1256230/ss_c3418441c8ea5df62888e0c74e3ba051369a75ab.1920x1080.jpg?t=1650000109,https://cdn.akamai.steamstatic.com/steam/apps/1256230/ss_038510cdc138e8fee81003593cac941a55b2c9c9.1920x1080.jpg?t=1650000109,https://cdn.akamai.steamstatic.com/steam/apps/1256230/ss_f24d20597a33a3e6f66f9096c541b59d4d411438.1920x1080.jpg?t=1650000109,https://cdn.akamai.steamstatic.com/steam/apps/1256230/ss_269a87390d09998c18e8fa81479d22aa0fdfcf29.1920x1080.jpg?t=1650000109",
+    "Slug": "hyperbolica",
+    "Meta Title": "Hyperbolica: Mar 14, 2022, CodeParade and Full Overview",
+    "Meta Description": "Looking for information on Hyperbolica? Check out the release date (Mar 14, 2022), developer insights from CodeParade, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hyperbolica game - Steam 1256230",
+    "Canonical URL": "https://gusku.site/game/hyperbolica",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hyperbolica\", \"description\": \"Looking for information on Hyperbolica? Check out the release date (Mar 14, 2022), developer insights from CodeParade, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 14, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"CodeParade\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CodeParade\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1256230/header.jpg?t=1650000109\", \"offers\": {\"@type\": \"Offer\", \"price\": 16.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

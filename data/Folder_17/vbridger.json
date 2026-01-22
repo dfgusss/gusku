@@ -1,0 +1,21 @@
+{
+    "AppID": 1898830,
+    "Name": "VBridger",
+    "Release date": "Apr 10, 2022",
+    "About the game": "Want to use IPhone facial tracking to its fullest potential with your live2D model? Then look no further then VBridger! VBridger is an intermediary application that allows the user to use data drivers for live data. The basic version comes with settings to fully control a typical Live2d model in Vtube Studio as well as a set for a more detailed and complicated setup! With the VBridger - Editor DLC, unlock the full potential of VBridger gaining the ability to create new drivers and mix and match any input parameters however you wish before sending them off to control your Live2d model! Current available input sources: •Tracking data from the IPhone ARKit FACS based face tracking system from the following apps •ifacialmocap •FaceMotion3D •MeowFace (Android) Current available output software: •Vtube Studio via the Vtube Studio API allowing for the control of live2D models. More on the way!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1898830/header.jpg?t=1650059011",
+    "Price": 9.99,
+    "Developers": "PiPuProductions,Serp",
+    "Publishers": "PiPuProductions",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1898830/ss_2b4dacd01e0570ddb108ddcf6b6403d8b16731cd.1920x1080.jpg?t=1650059011,https://cdn.akamai.steamstatic.com/steam/apps/1898830/ss_2082b1853cefc7cb89b65393ee7aba3c1cbd122d.1920x1080.jpg?t=1650059011,https://cdn.akamai.steamstatic.com/steam/apps/1898830/ss_934092a76a11f1cc8c73b9d7c0b0983bd2b80448.1920x1080.jpg?t=1650059011,https://cdn.akamai.steamstatic.com/steam/apps/1898830/ss_f837dd350410ef24fd304af620ad871ae6dbc45b.1920x1080.jpg?t=1650059011,https://cdn.akamai.steamstatic.com/steam/apps/1898830/ss_d0d17c2ce221e648a65a7eab9c1e3f492cede10e.1920x1080.jpg?t=1650059011",
+    "Slug": "vbridger",
+    "Meta Title": "VBridger: Apr 10, 2022, PiPuProductions,Serp and Full Ove...",
+    "Meta Description": "Looking for information on VBridger? Check out the release date (Apr 10, 2022), developer insights from PiPuProductions,Serp, and a complete game summary.",
+    "Alt Text Image": "Official header image for VBridger game - Steam 1898830",
+    "Canonical URL": "https://gusku.site/game/vbridger",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VBridger\", \"description\": \"Looking for information on VBridger? Check out the release date (Apr 10, 2022), developer insights from PiPuProductions,Serp, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 10, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"PiPuProductions,Serp\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PiPuProductions\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1898830/header.jpg?t=1650059011\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

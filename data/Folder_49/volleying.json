@@ -1,0 +1,21 @@
+{
+    "AppID": 512160,
+    "Name": "Volleying",
+    "Release date": "May 15, 2018",
+    "About the game": "Volleying is a physics-based game where the objective is to control a sphere throughout the court and make the ball touch the ground of your opponent side. There are simple rules: After your first touch, you must return the ball in 10 seconds, or it will explode, and you'll lose! While jumping, you can use a small dash in either direction, or up. But remember it takes 5 seconds to load again. In the arcade mode, there are items you can collect to temporarily change the size of the spheres , bringing funny situations to the game. Play with your friends You can play 1 x 1, 1 x 2 or 2 x 2. There's also a coop mode where you can test your skills against CPU with a friend. Press the square brackets ( '[' and ']' ) to navigate between the sound tracks. How to customize Players and Courts? Volleying allows you to customize the Players and Curts skins . The instructions for this are following: Open the Steam Client &gt; Right click on Volleying &gt; Properties &gt; Local Files &gt; BROWSE LOCAL FILES Look inside the 'conf' directory. There are the template files (.png) for Players and Courts, as well the instructions of how to save the images... Pick your favorite image editor, create your images and play with your own artwork. Please feel free to share your images at Artwork tab in the Volleying Community Thanks for your support!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/512160/header.jpg?t=1599388469",
+    "Price": 0.99,
+    "Developers": "Gestalt Development Studio",
+    "Publishers": "Gestalt Development Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/512160/ss_9202d181f896ec61bb5d95af65de1ac7659c0aec.1920x1080.jpg?t=1599388469,https://cdn.akamai.steamstatic.com/steam/apps/512160/ss_ec89d7bed091d412c79b976280a447cf07578687.1920x1080.jpg?t=1599388469,https://cdn.akamai.steamstatic.com/steam/apps/512160/ss_b7ba8f08cdd873fdaeeff0d690e3f8241d7e2c75.1920x1080.jpg?t=1599388469,https://cdn.akamai.steamstatic.com/steam/apps/512160/ss_e9904ac8e7813bcb5764189c161356cee9a80500.1920x1080.jpg?t=1599388469,https://cdn.akamai.steamstatic.com/steam/apps/512160/ss_1d4f3d65b253e1c42e22e09580dc93fd236f9704.1920x1080.jpg?t=1599388469,https://cdn.akamai.steamstatic.com/steam/apps/512160/ss_07e6a1ca186cd781ed5de747dbd5aebbbfb93d23.1920x1080.jpg?t=1599388469",
+    "Slug": "volleying",
+    "Meta Title": "Volleying: May 15, 2018, Gestalt Development Studio and F...",
+    "Meta Description": "Looking for information on Volleying? Check out the release date (May 15, 2018), developer insights from Gestalt Development Studio, and a complete game...",
+    "Alt Text Image": "Official header image for Volleying game - Steam 512160",
+    "Canonical URL": "https://gusku.site/game/volleying",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Volleying\", \"description\": \"Looking for information on Volleying? Check out the release date (May 15, 2018), developer insights from Gestalt Development Studio, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 15, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gestalt Development Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gestalt Development Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/512160/header.jpg?t=1599388469\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1693000,
+    "Name": "Within the Range",
+    "Release date": "Jul 28, 2021",
+    "About the game": "This is an RTS based on a lot of physical details, and terrain has a greater impact on strategic decisions. The shells in the game have trajectory calculation and will be blocked by terrain obstacles. The unit has different accelerations and angular accelerations. Weapons have corner limits. The unit will calculate the threat mechanism according to the corner limits, and will attack when there is no obstacle. The fluctuation of terrain will affect the movement speed of non robot units. In order to increase the sense of substitution, the speed of the game can be adjusted from 1% to 400%. The camera's viewing angle is highly free. You can slow down and see the moment when the weapon is fired. According to a new real-time algorithm, the robot unit can adapt to the current moving state and terrain fluctuation. Game optimization is very good, can let 1000 units melee on the same screen. Even if you have played RTS games, we still recommend that you play the tutorial level first. English will be joined later.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1693000/header.jpg?t=1657937491",
+    "Price": 11.99,
+    "Developers": "Aries",
+    "Publishers": "Aries",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1693000/ss_b97c052b89257560996e3b65896c390797837682.1920x1080.jpg?t=1657937491,https://cdn.akamai.steamstatic.com/steam/apps/1693000/ss_d3f4a904691f0e32f2e2bc83bcb8d60fd7b0f024.1920x1080.jpg?t=1657937491,https://cdn.akamai.steamstatic.com/steam/apps/1693000/ss_22df4a12aa627f2d4eced62c0945112fd855b4db.1920x1080.jpg?t=1657937491,https://cdn.akamai.steamstatic.com/steam/apps/1693000/ss_a42b49c42bc828f461f15754ea58726dc23c7487.1920x1080.jpg?t=1657937491,https://cdn.akamai.steamstatic.com/steam/apps/1693000/ss_fa96b9873baadc4ac5227b2c815dab39139966df.1920x1080.jpg?t=1657937491",
+    "Slug": "within-the-range",
+    "Meta Title": "Within the Range: Jul 28, 2021, Aries and Full Overview",
+    "Meta Description": "Looking for information on Within the Range? Check out the release date (Jul 28, 2021), developer insights from Aries, and a complete game summary.",
+    "Alt Text Image": "Official header image for Within the Range game - Steam 1693000",
+    "Canonical URL": "https://gusku.site/game/within-the-range",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Within the Range\", \"description\": \"Looking for information on Within the Range? Check out the release date (Jul 28, 2021), developer insights from Aries, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 28, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Aries\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Aries\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1693000/header.jpg?t=1657937491\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1632640,
+    "Name": "Bouncing Traveler",
+    "Release date": "May 24, 2021",
+    "About the game": "Bouncing Traveler - a platformer game for accuracy, made in 3D graphics. In the game, you have to control the ball, which must jump on platforms to reach the teleport. On the way, you will come across various traps and dangers that you will have to bypass and overcome, along the way collecting coins that will be useful to you in the future. Help the ball get to the last teleport, overcoming bad weather, traps and dangers!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1632640/header.jpg?t=1621848661",
+    "Price": 9.99,
+    "Developers": "Neatan Games",
+    "Publishers": "Piece Of Voxel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1632640/ss_e0b6b0e6813a9f5be6737c3446424086a139cf8d.1920x1080.jpg?t=1621848661,https://cdn.akamai.steamstatic.com/steam/apps/1632640/ss_7b24059e843f0c016a75d3a9f9124dfd51441173.1920x1080.jpg?t=1621848661,https://cdn.akamai.steamstatic.com/steam/apps/1632640/ss_a16c48599ab49cfe864122193f7d9813429d2b8f.1920x1080.jpg?t=1621848661,https://cdn.akamai.steamstatic.com/steam/apps/1632640/ss_5f235c53ff858e0033dc389650e3bffa036fc1d0.1920x1080.jpg?t=1621848661,https://cdn.akamai.steamstatic.com/steam/apps/1632640/ss_994633d63b6fe69c493861e1b2219d1362dc1c7e.1920x1080.jpg?t=1621848661,https://cdn.akamai.steamstatic.com/steam/apps/1632640/ss_dfb859419c984c93f981a09559bb6d4a6aa078d5.1920x1080.jpg?t=1621848661",
+    "Slug": "bouncing-traveler",
+    "Meta Title": "Bouncing Traveler: May 24, 2021, Neatan Games and Full Ov...",
+    "Meta Description": "Looking for information on Bouncing Traveler? Check out the release date (May 24, 2021), developer insights from Neatan Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bouncing Traveler game - Steam 1632640",
+    "Canonical URL": "https://gusku.site/game/bouncing-traveler",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bouncing Traveler\", \"description\": \"Looking for information on Bouncing Traveler? Check out the release date (May 24, 2021), developer insights from Neatan Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 24, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Neatan Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Piece Of Voxel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1632640/header.jpg?t=1621848661\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

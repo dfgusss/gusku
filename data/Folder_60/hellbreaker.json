@@ -1,0 +1,21 @@
+{
+    "AppID": 793620,
+    "Name": "Hellbreaker",
+    "Release date": "Feb 16, 2018",
+    "About the game": "Run. Dodge. Kill. Hellbreaker is a fast-paced first person shooter that will pit you against hordes of monsters and push you to your limits. Blast your way through them while racing against the clock to finish the level in one piece. Game Design The scoring system in the game revolves around: Time taken to finish the level Monsters killed Damage taken The goal is to encourage fast, aggressive, and skillful play-style. There's no recoil or reloading to slow down the action. Time taken to finish the level constraint encourages the player to play fast, and not pick off monsters one by one from a safe spot. Monsters killed constraint prevents the player from just rushing to the end of the level and skipping combat. Strategies can be created around it, like prioritizing low HP monsters to get more kills, which is risk/reward decision because low HP monsters are usually low threat while high HP monsters like rocketeers and chargers are higher threat so it's better to spend time to kill them first to stay safe. You have to make meaningful decisions about your play-style and how much risk you think you can handle. The damage taken constraint comes in to prevent you from just being reckless and soak up tons of damage while picking up lots of health. You have to dodge as much damage as you can, while taking as much risk as you can, and do it as fast as you can. If you want to take your time to explore the levels and perhaps search for secrets, you can go to the gameplay settings and disable 'Deadline Mode' so you won't have a time limit. Modding support Easy to learn level editor. Game editor, easily edit things like monsters and pickups without writing code. Powerful scripting. Modify or make your own monsters, weapons, pickups, or something completely new.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/793620/header.jpg?t=1518904992",
+    "Price": 7.99,
+    "Developers": "Virhex",
+    "Publishers": "Virhex",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/793620/ss_bdc942d665cb35df13cd82e63d39495643d66472.1920x1080.jpg?t=1518904992,https://cdn.akamai.steamstatic.com/steam/apps/793620/ss_0d38f66ef20dffa40d523c6325480c8144a51213.1920x1080.jpg?t=1518904992,https://cdn.akamai.steamstatic.com/steam/apps/793620/ss_ce8df8f0d97f00827990b036a3cedfe5b1082f49.1920x1080.jpg?t=1518904992,https://cdn.akamai.steamstatic.com/steam/apps/793620/ss_7899d30739dcd817a996ad986e63c01f13827e3b.1920x1080.jpg?t=1518904992,https://cdn.akamai.steamstatic.com/steam/apps/793620/ss_f52136b7686fa14ee9fe35b0aa29b9838d4f92f2.1920x1080.jpg?t=1518904992,https://cdn.akamai.steamstatic.com/steam/apps/793620/ss_9f09fad6658a57f4ba0cd347f91fa1790c9609d7.1920x1080.jpg?t=1518904992,https://cdn.akamai.steamstatic.com/steam/apps/793620/ss_ea1d770281e86ec86534ea7503133c3dcec00fcb.1920x1080.jpg?t=1518904992",
+    "Slug": "hellbreaker",
+    "Meta Title": "Hellbreaker: Feb 16, 2018, Virhex and Full Overview",
+    "Meta Description": "Looking for information on Hellbreaker? Check out the release date (Feb 16, 2018), developer insights from Virhex, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hellbreaker game - Steam 793620",
+    "Canonical URL": "https://gusku.site/game/hellbreaker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hellbreaker\", \"description\": \"Looking for information on Hellbreaker? Check out the release date (Feb 16, 2018), developer insights from Virhex, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 16, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Virhex\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Virhex\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/793620/header.jpg?t=1518904992\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

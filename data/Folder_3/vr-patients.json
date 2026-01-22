@@ -1,0 +1,21 @@
+{
+    "AppID": 703910,
+    "Name": "VR Patients",
+    "Release date": "Feb 9, 2022",
+    "About the game": "VRpatients is a Virtual Reality platform where players are put in real patient management situations and required to decide and implement medical therapies believed to positively affect the patient. The outcome of the case can be either positive or negative based on the way that the player treats their patient. The player is then scored based on the way they treat the patient in the case. At the end of the case the player is given written feedback as to how they did relative to how the patient case should have been. This package is currently targeted at medical professionals. 3 Cases are included in the basic package. Current Feature Set: Patients respond to given treatments based on a physiological model Patients answer from a list of provided questions Vital Assessments for Pulse, Blood Pressure, Sp02, end-tidal CO2, respiratory rate, Temperature Monitor Leads: I, II, II, Pads Current treatment types implemented: Oxygen: Bag Valve Mask Non Rebreather Mask Nasal Cannula IV's: IV in the hand IV in the foot IV in the antecubital vein Medication: ActivCoal Adenosine Albuterol Alteplase Amidate Amiodarone Aspirin Ativan Atropine Azithromycin Bacitracin Calcium Chloride Cardizem Catapres Cefepime Ciprodex Ciprofloxacin Decadron Dextrose Diazepam Diazoxide Digoxin Dilaudid Diphenhydramine Dobutamine Dopamine Epinephrine(1:1,000) Epinephrine(1:10,000) Esmolol Fentanyl Citrate Flagyl Fluorescein Strips Furosemide GI Cocktail Glucagon Glucose Haldol Heparin Heparin Sodium Ibuprofen Insulin Ipratropium Bromide Kayexalate Ketamine Ketorolac Tromethamine Labetalol Levophed Lidocaine Magnesium Sulfate Mannitol Midazolam Morphine Naloxone Neosynephrine Nitroglycerin Ocytocin Ondansetron Oxytocin Pepcid Phenergan Plavix Prednisone Procainamide Protamine Sulfate Protonix Rocephin Rocuronium Romazicon Silvadene Silver Nitrate Sticks Sodium Bicarbonate Solumedrol Succinylcholine Thiamine Tylenol Unasyn Vancomycin Vasopressin Verapamil Other treatments in system: Vagal Maneuver, Stethoscope for heart and lung sounds, Pen light for pupil dilation",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/703910/header.jpg?t=1644430553",
+    "Price": 0.0,
+    "Developers": "VRpatients",
+    "Publishers": "VRpatients",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/703910/ss_4e2f7eb9e03ecf00853b372d2a5cfcaa55314599.1920x1080.jpg?t=1644430553,https://cdn.akamai.steamstatic.com/steam/apps/703910/ss_0183d987950fdf175dfcb3bc57310034612e3056.1920x1080.jpg?t=1644430553,https://cdn.akamai.steamstatic.com/steam/apps/703910/ss_508b0b1df631ee0f3f791ada98b8c50ab3172209.1920x1080.jpg?t=1644430553,https://cdn.akamai.steamstatic.com/steam/apps/703910/ss_69bc9fe2be2b5ec0f8ac835b95a4312c64edaf4b.1920x1080.jpg?t=1644430553,https://cdn.akamai.steamstatic.com/steam/apps/703910/ss_8eea47fa2af45c8ef098cae44476151c1a49f93c.1920x1080.jpg?t=1644430553",
+    "Slug": "vr-patients",
+    "Meta Title": "VR Patients: Feb 9, 2022, VRpatients and Full Overview",
+    "Meta Description": "Looking for information on VR Patients? Check out the release date (Feb 9, 2022), developer insights from VRpatients, and a complete game summary.",
+    "Alt Text Image": "Official header image for VR Patients game - Steam 703910",
+    "Canonical URL": "https://gusku.site/game/vr-patients",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VR Patients\", \"description\": \"Looking for information on VR Patients? Check out the release date (Feb 9, 2022), developer insights from VRpatients, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 9, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"VRpatients\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"VRpatients\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/703910/header.jpg?t=1644430553\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 837440,
+    "Name": "MineSweep",
+    "Release date": "Jul 13, 2018",
+    "About the game": "Become an expert in mine clearance! MineSweep is a puzzle game whose goal is to locate hidden mines in a virtual field with the only indication of the number of mines in adjacent areas. The minefield is represented by a grid. Each box in the grid can either hide a mine or be empty. The goal of the game is to discover all the free squares without exploding the mines, that is to say without clicking on the boxes that hide them. Features : ■ 4 levels of difficulty! ■ Addictive gameplay! ■ Lets pass the time during a wait! ■ Good design!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/837440/header.jpg?t=1577981133",
+    "Price": 0.99,
+    "Developers": "RewindApp",
+    "Publishers": "RewindApp",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/837440/ss_b9f95ac9ef8384c279bacdacad1b56fdd997597b.1920x1080.jpg?t=1577981133,https://cdn.akamai.steamstatic.com/steam/apps/837440/ss_6810c9f549adca0d2b0009f91440755815515350.1920x1080.jpg?t=1577981133,https://cdn.akamai.steamstatic.com/steam/apps/837440/ss_bf81c4166a329451d3e93487838e2ee0b2c7dd5f.1920x1080.jpg?t=1577981133,https://cdn.akamai.steamstatic.com/steam/apps/837440/ss_698f6c98b158caf91458799e4ddfc53389eb9344.1920x1080.jpg?t=1577981133,https://cdn.akamai.steamstatic.com/steam/apps/837440/ss_321a7a5054a9b6aacca41de6a8254b33e3b35e6d.1920x1080.jpg?t=1577981133,https://cdn.akamai.steamstatic.com/steam/apps/837440/ss_a3ff301a7c2c145080bfbffffb8d354771e41c40.1920x1080.jpg?t=1577981133",
+    "Slug": "minesweep",
+    "Meta Title": "MineSweep: Jul 13, 2018, RewindApp and Full Overview",
+    "Meta Description": "Looking for information on MineSweep? Check out the release date (Jul 13, 2018), developer insights from RewindApp, and a complete game summary.",
+    "Alt Text Image": "Official header image for MineSweep game - Steam 837440",
+    "Canonical URL": "https://gusku.site/game/minesweep",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MineSweep\", \"description\": \"Looking for information on MineSweep? Check out the release date (Jul 13, 2018), developer insights from RewindApp, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 13, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"RewindApp\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"RewindApp\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/837440/header.jpg?t=1577981133\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

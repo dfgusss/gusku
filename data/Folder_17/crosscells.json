@@ -1,0 +1,21 @@
+{
+    "AppID": 632000,
+    "Name": "CrossCells",
+    "Release date": "May 26, 2017",
+    "About the game": "CrossCells is an ambient logic puzzle game. Use number clues to remove tiles and solve the puzzle. Includes 50 brain teasing puzzles.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/632000/header.jpg?t=1560433944",
+    "Price": 0.89,
+    "Developers": "Matthew Brown",
+    "Publishers": "Matthew Brown",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/632000/ss_0446a482a0dd9892abc37245263fb88f7c1898fc.1920x1080.jpg?t=1560433944,https://cdn.akamai.steamstatic.com/steam/apps/632000/ss_36bdec2d9a1db5a662be8eabec59111652920d3e.1920x1080.jpg?t=1560433944,https://cdn.akamai.steamstatic.com/steam/apps/632000/ss_591b652a300ed84011fd081a0a1fdeadea9c2151.1920x1080.jpg?t=1560433944,https://cdn.akamai.steamstatic.com/steam/apps/632000/ss_e1c264ed3bf5a48ca35c482f81ede227bc5619d4.1920x1080.jpg?t=1560433944,https://cdn.akamai.steamstatic.com/steam/apps/632000/ss_3a43f9f90dc693c6bf02434ac67171c5903d5e49.1920x1080.jpg?t=1560433944,https://cdn.akamai.steamstatic.com/steam/apps/632000/ss_29b4f45072f13174dafb2d33233a3350a80697c1.1920x1080.jpg?t=1560433944",
+    "Slug": "crosscells",
+    "Meta Title": "CrossCells: May 26, 2017, Matthew Brown and Full Overview",
+    "Meta Description": "Looking for information on CrossCells? Check out the release date (May 26, 2017), developer insights from Matthew Brown, and a complete game summary.",
+    "Alt Text Image": "Official header image for CrossCells game - Steam 632000",
+    "Canonical URL": "https://gusku.site/game/crosscells",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CrossCells\", \"description\": \"Looking for information on CrossCells? Check out the release date (May 26, 2017), developer insights from Matthew Brown, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 26, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matthew Brown\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matthew Brown\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/632000/header.jpg?t=1560433944\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.89, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

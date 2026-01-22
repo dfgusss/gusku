@@ -1,0 +1,21 @@
+{
+    "AppID": 1175690,
+    "Name": "MyStar",
+    "Release date": "Nov 12, 2019",
+    "About the game": "Please use Xbox controller to play this game. This is an action game of collecting stars developed by HAL students which contains 20 levels in 4 different worlds. This game will no follow-up update as it is a student project.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1175690/header.jpg?t=1573547240",
+    "Price": 0.0,
+    "Developers": "MyStar Studio",
+    "Publishers": "MyStar Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1175690/ss_b4a9850c8d1eaed9a2bf39414e1bea5efd8abe79.1920x1080.jpg?t=1573547240,https://cdn.akamai.steamstatic.com/steam/apps/1175690/ss_aac0c600978f807d1adb2c2ceb9ae0882d70db44.1920x1080.jpg?t=1573547240,https://cdn.akamai.steamstatic.com/steam/apps/1175690/ss_7a6331a6b53036048560821737554f8cc418a415.1920x1080.jpg?t=1573547240,https://cdn.akamai.steamstatic.com/steam/apps/1175690/ss_fb189cf1253427a158588e29d1ec5a82b0b7fba0.1920x1080.jpg?t=1573547240,https://cdn.akamai.steamstatic.com/steam/apps/1175690/ss_c9af988264a895883495e2838c179be39728d7e6.1920x1080.jpg?t=1573547240,https://cdn.akamai.steamstatic.com/steam/apps/1175690/ss_af1c04ffa21598e4f03429d1486d7c7a2771be88.1920x1080.jpg?t=1573547240,https://cdn.akamai.steamstatic.com/steam/apps/1175690/ss_e3726d78fd471cde53606e485b54e3fa6407eaef.1920x1080.jpg?t=1573547240",
+    "Slug": "mystar",
+    "Meta Title": "MyStar: Nov 12, 2019, MyStar Studio and Full Overview",
+    "Meta Description": "Looking for information on MyStar? Check out the release date (Nov 12, 2019), developer insights from MyStar Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for MyStar game - Steam 1175690",
+    "Canonical URL": "https://gusku.site/game/mystar",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MyStar\", \"description\": \"Looking for information on MyStar? Check out the release date (Nov 12, 2019), developer insights from MyStar Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 12, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"MyStar Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MyStar Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1175690/header.jpg?t=1573547240\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

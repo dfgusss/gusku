@@ -1,0 +1,21 @@
+{
+    "AppID": 1813730,
+    "Name": "Outpost",
+    "Release date": "Dec 26, 2021",
+    "About the game": "Outpost is a planet exploration game. An entire planet is available for you to explore. Outpost is in an early alpha development state. We have released the very first playable version of the game with almost no features. Additional features will be added over time, one release every month. Current features: You are on a planet. The entire planet is physically simulated. Walk around the entire planet if you like, but it will take you a very long time.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1813730/header.jpg?t=1640648026",
+    "Price": 0.0,
+    "Developers": "Lunar Workshop",
+    "Publishers": "Lunar Workshop",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1813730/ss_2355645c2588635bfbe3d7ab0f5e9e9b6c389dc7.1920x1080.jpg?t=1640648026,https://cdn.akamai.steamstatic.com/steam/apps/1813730/ss_8d5fb16886d80028d7d80ac97eb0f4025004b161.1920x1080.jpg?t=1640648026,https://cdn.akamai.steamstatic.com/steam/apps/1813730/ss_448080a3b94d09af9e8fd2363e56076170cc3fbb.1920x1080.jpg?t=1640648026,https://cdn.akamai.steamstatic.com/steam/apps/1813730/ss_32c0c77829d41c77d8a97358649dbab59e7fb5aa.1920x1080.jpg?t=1640648026,https://cdn.akamai.steamstatic.com/steam/apps/1813730/ss_e48cb5848ca5a84a1f63defb3a17c5a323edd96a.1920x1080.jpg?t=1640648026",
+    "Slug": "outpost",
+    "Meta Title": "Outpost: Dec 26, 2021, Lunar Workshop and Full Overview",
+    "Meta Description": "Looking for information on Outpost? Check out the release date (Dec 26, 2021), developer insights from Lunar Workshop, and a complete game summary.",
+    "Alt Text Image": "Official header image for Outpost game - Steam 1813730",
+    "Canonical URL": "https://gusku.site/game/outpost",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Outpost\", \"description\": \"Looking for information on Outpost? Check out the release date (Dec 26, 2021), developer insights from Lunar Workshop, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 26, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lunar Workshop\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Lunar Workshop\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1813730/header.jpg?t=1640648026\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

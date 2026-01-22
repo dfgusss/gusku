@@ -1,0 +1,21 @@
+{
+    "AppID": 1086060,
+    "Name": "Tunnel Vision",
+    "Release date": "Oct 8, 2019",
+    "About the game": "Main Breakdown The games main objective and goal is to reach the boss room at the end of the level and eliminate the target by avoiding collisions with anything that might stop your bullet. As you ascend the tower, each boss has a significantly larger floor plan, each floor is also randomly generated, making it that much more difficult to reach them. Coming Soon the game that is playable at the moment is the winning submission for the 48 hour GameJam (plus all the fixes i applied between then and now to make it fully playable). I want the game to be both fun and something you'd want to return later down the road hence why the push towards random level generation. Updates will be posted when we start any new content Just started School and an Internship contract for a year. I won't have alot of time to continue work on the project, but i'll do my best to work on the game here and there. thank you for your patience!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1086060/header.jpg?t=1570530058",
+    "Price": 4.99,
+    "Developers": "Punji Studios",
+    "Publishers": "Punji Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1086060/ss_33aeb727a619d6fa983f29561504e6e6a84ed76e.1920x1080.jpg?t=1570530058,https://cdn.akamai.steamstatic.com/steam/apps/1086060/ss_d727bee0faa28d607ba804487d227168c9d91554.1920x1080.jpg?t=1570530058,https://cdn.akamai.steamstatic.com/steam/apps/1086060/ss_a57c789b436a8e93e03b6069466a17dc6e39d9c1.1920x1080.jpg?t=1570530058,https://cdn.akamai.steamstatic.com/steam/apps/1086060/ss_43c02397fe27498f5f062062a9438d16bb049296.1920x1080.jpg?t=1570530058,https://cdn.akamai.steamstatic.com/steam/apps/1086060/ss_681195fa0d975354fc7150183f4370e60d8656fd.1920x1080.jpg?t=1570530058",
+    "Slug": "tunnel-vision",
+    "Meta Title": "Tunnel Vision: Oct 8, 2019, Punji Studios and Full Overview",
+    "Meta Description": "Looking for information on Tunnel Vision? Check out the release date (Oct 8, 2019), developer insights from Punji Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tunnel Vision game - Steam 1086060",
+    "Canonical URL": "https://gusku.site/game/tunnel-vision",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tunnel Vision\", \"description\": \"Looking for information on Tunnel Vision? Check out the release date (Oct 8, 2019), developer insights from Punji Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 8, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Punji Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Punji Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1086060/header.jpg?t=1570530058\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

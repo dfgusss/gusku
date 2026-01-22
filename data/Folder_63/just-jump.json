@@ -1,0 +1,21 @@
+{
+    "AppID": 2056800,
+    "Name": "Just Jump",
+    "Release date": "Aug 26, 2022",
+    "About the game": "Just Jump is a simple 2D Platformer racing game, where your goal is to set the best time, but with one catch you can't jump! With only 2 buttons to worry about, you would think that it's going to be easy. But fear not you will struggle. Prepare for a near impossible challenge. Push your skills and luck to the limit as you take on the challenges of this game. Game Features Left and Right movement! A Reset button! No! Jumping! A main menu! A pause menu! 20 Levels! Achievements Options menu Leader boards This game is the second version of the game, I first made it in 2016 when i started learning game programming and design, but I didn't feel like publishing it. The idea of the game came from a mistake in my original code, that caused the spinning. After some playing around with it I figured out I could make quite an interesting game. Now that I have had more time and had the game tested by my friends, I figured that with some more work on it, that I could publish the game. So the 20 levels that are in the game, also know as the old levels are the original levels from the first time I made the game. Game Features to come Customization Level editor Steam workshop Online multiplayer Split screen multiplayer Game modes Story mode Lots of levels Music",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2056800/header.jpg?t=1661534536",
+    "Price": 6.99,
+    "Developers": "BotTiny",
+    "Publishers": "BotTiny",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2056800/ss_0e68ee187d40ac0f5693e3e439966632da317711.1920x1080.jpg?t=1661534536,https://cdn.akamai.steamstatic.com/steam/apps/2056800/ss_de7dc0f6ac83a6a4cf160f8b6b86e3b77c6649a3.1920x1080.jpg?t=1661534536,https://cdn.akamai.steamstatic.com/steam/apps/2056800/ss_b7ab4190ef73ce2421694ff2798a32f8279b93d4.1920x1080.jpg?t=1661534536,https://cdn.akamai.steamstatic.com/steam/apps/2056800/ss_6961b09a6d7f266a52dc4053f3883470715182b6.1920x1080.jpg?t=1661534536,https://cdn.akamai.steamstatic.com/steam/apps/2056800/ss_8e3b18b772360447478d926b7b85b664e1b2d4e1.1920x1080.jpg?t=1661534536,https://cdn.akamai.steamstatic.com/steam/apps/2056800/ss_7ab43df2216f05a2a388c5dce46577c7205f29de.1920x1080.jpg?t=1661534536,https://cdn.akamai.steamstatic.com/steam/apps/2056800/ss_67557c7a443d4f04cb0e1355c176f3687b0bcea8.1920x1080.jpg?t=1661534536,https://cdn.akamai.steamstatic.com/steam/apps/2056800/ss_9ac7dddada2d731c6db64787b95b94bfd22113d8.1920x1080.jpg?t=1661534536",
+    "Slug": "just-jump",
+    "Meta Title": "Just Jump: Aug 26, 2022, BotTiny and Full Overview",
+    "Meta Description": "Looking for information on Just Jump? Check out the release date (Aug 26, 2022), developer insights from BotTiny, and a complete game summary.",
+    "Alt Text Image": "Official header image for Just Jump game - Steam 2056800",
+    "Canonical URL": "https://gusku.site/game/just-jump",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Just Jump\", \"description\": \"Looking for information on Just Jump? Check out the release date (Aug 26, 2022), developer insights from BotTiny, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 26, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"BotTiny\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"BotTiny\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2056800/header.jpg?t=1661534536\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2268460,
+    "Name": "Dark Shrine",
+    "Release date": "Jan 18, 2023",
+    "About the game": "Dark Shrine is a short horror game set in a japanese shrine. The map design was inspired by the actual place in Kyoto, Fushimi Inari Shrine. You are stuck in a shrine covered with dark, you have to find the way out watching out for the ghost. Offer 3 bells to the alter, disable the barrier and escape.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2268460/header.jpg?t=1674053234",
+    "Price": 0.99,
+    "Developers": "ciel45",
+    "Publishers": "ciel45",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2268460/ss_f119810897157aa7f3fa4ce57ea5bd8f36ca2561.1920x1080.jpg?t=1674053234,https://cdn.akamai.steamstatic.com/steam/apps/2268460/ss_a4e10d77e674e871f8815d28cfd47ebc7066a10d.1920x1080.jpg?t=1674053234,https://cdn.akamai.steamstatic.com/steam/apps/2268460/ss_59a9ea446865d2db6b343d63546d54ea2959f68a.1920x1080.jpg?t=1674053234,https://cdn.akamai.steamstatic.com/steam/apps/2268460/ss_9ebfbf5ac498cd149442f7fc4dc644a0103f12f5.1920x1080.jpg?t=1674053234,https://cdn.akamai.steamstatic.com/steam/apps/2268460/ss_cb77d75332da26d11a8c93e1e3a8711c612bdabc.1920x1080.jpg?t=1674053234,https://cdn.akamai.steamstatic.com/steam/apps/2268460/ss_7db389e5334dabc0430be8b203bdd1555170965d.1920x1080.jpg?t=1674053234,https://cdn.akamai.steamstatic.com/steam/apps/2268460/ss_63a3fb2fab95fd9605d270fdfd4f7de9c816a67c.1920x1080.jpg?t=1674053234",
+    "Slug": "dark-shrine",
+    "Meta Title": "Dark Shrine: Jan 18, 2023, ciel45 and Full Overview",
+    "Meta Description": "Looking for information on Dark Shrine? Check out the release date (Jan 18, 2023), developer insights from ciel45, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dark Shrine game - Steam 2268460",
+    "Canonical URL": "https://gusku.site/game/dark-shrine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dark Shrine\", \"description\": \"Looking for information on Dark Shrine? Check out the release date (Jan 18, 2023), developer insights from ciel45, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 18, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"ciel45\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ciel45\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2268460/header.jpg?t=1674053234\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

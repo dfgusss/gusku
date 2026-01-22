@@ -1,0 +1,21 @@
+{
+    "AppID": 1098420,
+    "Name": "SpritePile",
+    "Release date": "Jun 19, 2019",
+    "About the game": "Inspired by similar software and pixel art tools, SpritePile is an attempt at creating the very best tool to create... Sprite Stacks! It was developed for use with primarily 2D games. I created this software while developing my own game which uses sprite stacks and found myself disappointed with the tools available to me. This was designed to do everything I felt was missing from other programs... and to do it better. Features The Basics Saving and loading projects (won't break between versions) An options menu with lots of helpful settings Shortcuts for all tools/symmetry/menu options (read documentation) Comes packaged with three sample projects You can easily import sprites from other software to SpritePile using slices Drawing Tools Pencil Line Bucket Color Replace Translate Color Picker Selection Symmetry None X Y X / Y Canvas Supports powers of 2, up to 256x256x256 Onion Skin, forwards and backwards up to 5 in each direction Grid/Axis can be toggled Color Palette Use W, A, S, D to navigate around the palette without using your mouse Easily import new color palettes Add or remove colors from within the options menu Comes packaged with a few pretty color palettes to try out Layer List Copy/Paste multiple layers Draw across all selected layers at once Add/Remove layers freely Live Preview Move, rotate, and zoom the camera Auto-rotation can be toggled Render quality can be increased up to 4x Both 2D and 3D rendering Export Sprite Sheet, scaled up to 8x and up to 64 angles Slices, generally used for sprite stacking in games Gif, scaled up to 8x and with 4 quality options OBJ (3D) Import Billboard Slices",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1098420/header.jpg?t=1645621902",
+    "Price": 0.0,
+    "Developers": "Fern Nigro",
+    "Publishers": "Fern Nigro",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1098420/ss_77dc9ebe787c764055eff79bf151cb039cda4e09.1920x1080.jpg?t=1645621902,https://cdn.akamai.steamstatic.com/steam/apps/1098420/ss_c5bf434c391a4f609d772a63ba16723da985aa0b.1920x1080.jpg?t=1645621902,https://cdn.akamai.steamstatic.com/steam/apps/1098420/ss_4d68e191107da6fe56147e50835486726ee81a3d.1920x1080.jpg?t=1645621902,https://cdn.akamai.steamstatic.com/steam/apps/1098420/ss_cf17261f851e45ca9d0294410cf1459e52041f3c.1920x1080.jpg?t=1645621902,https://cdn.akamai.steamstatic.com/steam/apps/1098420/ss_a12e260a04d37b278306e0f809b31cc47ed36705.1920x1080.jpg?t=1645621902,https://cdn.akamai.steamstatic.com/steam/apps/1098420/ss_2a93271f52620dea8bbc428c0238b5307a3fc132.1920x1080.jpg?t=1645621902",
+    "Slug": "spritepile",
+    "Meta Title": "SpritePile: Jun 19, 2019, Fern Nigro and Full Overview",
+    "Meta Description": "Looking for information on SpritePile? Check out the release date (Jun 19, 2019), developer insights from Fern Nigro, and a complete game summary.",
+    "Alt Text Image": "Official header image for SpritePile game - Steam 1098420",
+    "Canonical URL": "https://gusku.site/game/spritepile",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SpritePile\", \"description\": \"Looking for information on SpritePile? Check out the release date (Jun 19, 2019), developer insights from Fern Nigro, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 19, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fern Nigro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fern Nigro\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1098420/header.jpg?t=1645621902\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

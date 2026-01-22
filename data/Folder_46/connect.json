@@ -1,0 +1,21 @@
+{
+    "AppID": 1162950,
+    "Name": ">Connect",
+    "Release date": "Oct 14, 2019",
+    "About the game": "&gt;Connect is a hacking simulator which takes inspiration from real hacking tools and processes but implements them in an intuitive, easy to play and beginner-friendly way. Dive deep into a world of cyberhacking and break into hundreds of computers in order to uncover secrets held by greedy corporations and of course self-profit along the way. It's up to the player to choose whether he wants to use his power to help people or just score great riches for himself. Features Immersion - &gt;Connect is designed with full player immersion in mind. With no obvious 'gamey' mechanics like levels, the player is thrown into a realistic operating system in which he can do anything without anyone holding him by a hand. Multiple Endings - Some of the missions allow you to change the fate of other people's lifes depending on your decisions. Secrets - &gt;Connect has many secret files and minigames for the players to collect. Happy hunting!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1162950/header.jpg?t=1571068767",
+    "Price": 5.99,
+    "Developers": "SheeyeDev",
+    "Publishers": "SheeyeDev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1162950/ss_2996eb7ba780e960cddbfb81896ca42c69adbad7.1920x1080.jpg?t=1571068767,https://cdn.akamai.steamstatic.com/steam/apps/1162950/ss_35bf10029b59c89e8f583a76d5d089d6b65c7d51.1920x1080.jpg?t=1571068767,https://cdn.akamai.steamstatic.com/steam/apps/1162950/ss_2558941618260edb1069ab8ffaed7cfa5bdd7a84.1920x1080.jpg?t=1571068767,https://cdn.akamai.steamstatic.com/steam/apps/1162950/ss_c021d69a80c328bfe33c1d2dbc951fecf18080e3.1920x1080.jpg?t=1571068767,https://cdn.akamai.steamstatic.com/steam/apps/1162950/ss_48959d448997a70872fcd5cdf0c32ee5fad61055.1920x1080.jpg?t=1571068767",
+    "Slug": "connect",
+    "Meta Title": ">Connect: Oct 14, 2019, SheeyeDev and Full Overview",
+    "Meta Description": "Looking for information on >Connect? Check out the release date (Oct 14, 2019), developer insights from SheeyeDev, and a complete game summary.",
+    "Alt Text Image": "Official header image for >Connect game - Steam 1162950",
+    "Canonical URL": "https://gusku.site/game/connect",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \">Connect\", \"description\": \"Looking for information on >Connect? Check out the release date (Oct 14, 2019), developer insights from SheeyeDev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 14, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"SheeyeDev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SheeyeDev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1162950/header.jpg?t=1571068767\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

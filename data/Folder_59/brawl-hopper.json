@@ -1,0 +1,21 @@
+{
+    "AppID": 1203280,
+    "Name": "Brawl Hopper",
+    "Release date": "Jan 1, 2020",
+    "About the game": "**This Game is in BETA - Download the free iOS or Android app if you want to test out gameplay before purchasing!** *During Early Access, please leave ALL FEEDBACK in Discord so we can improve this project together.* Brawl Hopper, a new 3d, online multiplayer, procedural arena brawler - is the big brother to the beloved Cloud Hopper game. Battle between up to 8 players per procedurally generated level. New level generated each day! Multiplayer is cross-platform between Windows, OSX, Android, iOS &amp; tvOS. Brawl Hopper v0.1 was originally created in a collective 24 hours, though is part of a Devlog series and will continue to get monthly releases led by our community feedback. Over the course of Early Access there will be more levels, characters, weapons, powerups, music, Steam achievements, etc. to come.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1203280/header.jpg?t=1577922060",
+    "Price": 3.99,
+    "Developers": "@ustinCameron",
+    "Publishers": "@ustinCameron",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1203280/ss_e86f447a983b023b504d1c79e1d0887de3473b5b.1920x1080.jpg?t=1577922060,https://cdn.akamai.steamstatic.com/steam/apps/1203280/ss_4ae984c431e3a72d441910c2457ba88a93c7e3ec.1920x1080.jpg?t=1577922060,https://cdn.akamai.steamstatic.com/steam/apps/1203280/ss_dbb58a8381a4fba1b4916881dfe817ee5b5ebbcc.1920x1080.jpg?t=1577922060,https://cdn.akamai.steamstatic.com/steam/apps/1203280/ss_17722ea86133970ea360ef64aba648dc08e38b08.1920x1080.jpg?t=1577922060,https://cdn.akamai.steamstatic.com/steam/apps/1203280/ss_6fc9e320fa2ba5c1cffb656320b223d83a1752c6.1920x1080.jpg?t=1577922060,https://cdn.akamai.steamstatic.com/steam/apps/1203280/ss_7c81078b70d740d70f2a5ce3814b51fabff2b5a9.1920x1080.jpg?t=1577922060,https://cdn.akamai.steamstatic.com/steam/apps/1203280/ss_aa66000efe808d6b60c32352d72382365b055ba2.1920x1080.jpg?t=1577922060",
+    "Slug": "brawl-hopper",
+    "Meta Title": "Brawl Hopper: Jan 1, 2020, @ustinCameron and Full Overview",
+    "Meta Description": "Looking for information on Brawl Hopper? Check out the release date (Jan 1, 2020), developer insights from @ustinCameron, and a complete game summary.",
+    "Alt Text Image": "Official header image for Brawl Hopper game - Steam 1203280",
+    "Canonical URL": "https://gusku.site/game/brawl-hopper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Brawl Hopper\", \"description\": \"Looking for information on Brawl Hopper? Check out the release date (Jan 1, 2020), developer insights from @ustinCameron, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 1, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"@ustinCameron\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"@ustinCameron\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1203280/header.jpg?t=1577922060\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 584200,
+    "Name": "MultiVR.se",
+    "Release date": "Jun 20, 2017",
+    "About the game": "MultiVR.se is a room-scale Personal Virtual Environment. Explore and pick your spot in the virtual world and customize your space using MultiVR.se's virtual toolbox. Features: Multi-Desktop Streaming (Supports 2 or more desktops) Desktop Stream Cropping (Cut out a section of your desktop like the taskbar, a minimap in a game, or your crosshair in an fps for a zoomed in view!) Paid version includes all 19 Environments, both small and large fully explore-able environments(cinema, room, and night gaming come with dynamic screen lighting). VR Web Browser (Add interact-able browsers into your VR space, play video or view websites) In app virtual keyboard for typing in the browser or desktop 4k Video player and 360 Video Import Images to use as wallpapers, including images with transparency. Drawing tools including 4 draw-able surfaces(Whiteboard, Blackboard, Transparent Board, and sticky notes) Add customize-able lights to your environment, change the color, range and intensity. Room-scale movement with teleporting Includes a text file viewer Anti-aliasing and Super-sampling configurations available Pass-through Camera for Vive",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/584200/header.jpg?t=1497962191",
+    "Price": 0.0,
+    "Developers": "VRider, Inc.",
+    "Publishers": "VRider, Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/584200/ss_29700fccf7cc997da4596ca0e56d4295321e0d86.1920x1080.jpg?t=1497962191,https://cdn.akamai.steamstatic.com/steam/apps/584200/ss_6cd165208ea95c79c5dab4b7e113f8535e7d7e88.1920x1080.jpg?t=1497962191,https://cdn.akamai.steamstatic.com/steam/apps/584200/ss_365c21a11784efd69bba8682ef002fb28bae7b29.1920x1080.jpg?t=1497962191,https://cdn.akamai.steamstatic.com/steam/apps/584200/ss_98915fa1ffb0e031d8bd0c2b58dd3d41984897ef.1920x1080.jpg?t=1497962191,https://cdn.akamai.steamstatic.com/steam/apps/584200/ss_0289f521b7a45cb4060401d8d293f4ae6b87c30e.1920x1080.jpg?t=1497962191,https://cdn.akamai.steamstatic.com/steam/apps/584200/ss_83578a2af694177ffbc6888de618ab5cae2b42bb.1920x1080.jpg?t=1497962191,https://cdn.akamai.steamstatic.com/steam/apps/584200/ss_979b27cf523570f96f34ef7dfd3317bb4cfc6f35.1920x1080.jpg?t=1497962191,https://cdn.akamai.steamstatic.com/steam/apps/584200/ss_ee2d26799dbd6a6a1c357f6cbed6158b78d04259.1920x1080.jpg?t=1497962191",
+    "Slug": "multivr-se",
+    "Meta Title": "MultiVR.se: Jun 20, 2017, VRider, Inc. and Full Overview",
+    "Meta Description": "Looking for information on MultiVR.se? Check out the release date (Jun 20, 2017), developer insights from VRider, Inc., and a complete game summary.",
+    "Alt Text Image": "Official header image for MultiVR.se game - Steam 584200",
+    "Canonical URL": "https://gusku.site/game/multivr-se",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MultiVR.se\", \"description\": \"Looking for information on MultiVR.se? Check out the release date (Jun 20, 2017), developer insights from VRider, Inc., and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 20, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"VRider, Inc.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"VRider, Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/584200/header.jpg?t=1497962191\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

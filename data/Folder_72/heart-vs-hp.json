@@ -1,0 +1,21 @@
+{
+    "AppID": 2339160,
+    "Name": "Heart vs HP",
+    "Release date": "Mar 21, 2023",
+    "About the game": "This is an auto-scroller game where you control a heart to move up or down to avoid incoming obstacles while maintaining your HP. Other than obstacles, there will be damage zone in red and heal zone in green which decreases and increases the heart's HP. Make sure to manage your HP well to get the high score!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2339160/header.jpg?t=1679388160",
+    "Price": 0.0,
+    "Developers": "Sam Truman",
+    "Publishers": "Sam Truman",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2339160/ss_941ccbe18efde106d9782de3a619b7ec50548cb3.1920x1080.jpg?t=1679388160,https://cdn.akamai.steamstatic.com/steam/apps/2339160/ss_28325c36886aca2652128dfedea8457c60418fd5.1920x1080.jpg?t=1679388160,https://cdn.akamai.steamstatic.com/steam/apps/2339160/ss_77809a7aac58c64b13becae9954eef25b75ddc67.1920x1080.jpg?t=1679388160,https://cdn.akamai.steamstatic.com/steam/apps/2339160/ss_5819e1a96e1c201a8299e2199eeb0e8a292cbd30.1920x1080.jpg?t=1679388160,https://cdn.akamai.steamstatic.com/steam/apps/2339160/ss_2f12248a876bfb422edf154bdd8db66a2c7d3571.1920x1080.jpg?t=1679388160",
+    "Slug": "heart-vs-hp",
+    "Meta Title": "Heart vs HP: Mar 21, 2023, Sam Truman and Full Overview",
+    "Meta Description": "Looking for information on Heart vs HP? Check out the release date (Mar 21, 2023), developer insights from Sam Truman, and a complete game summary.",
+    "Alt Text Image": "Official header image for Heart vs HP game - Steam 2339160",
+    "Canonical URL": "https://gusku.site/game/heart-vs-hp",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Heart vs HP\", \"description\": \"Looking for information on Heart vs HP? Check out the release date (Mar 21, 2023), developer insights from Sam Truman, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 21, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sam Truman\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sam Truman\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2339160/header.jpg?t=1679388160\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

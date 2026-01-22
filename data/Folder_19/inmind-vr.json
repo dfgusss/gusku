@@ -1,0 +1,21 @@
+{
+    "AppID": 343740,
+    "Name": "InMind VR",
+    "Release date": "Jan 19, 2015",
+    "About the game": "/ InMind is a short scientific adventure with arcade elements designed for the Oculus VR. This first demo allows the player to experience the journey into the patient's brains in search of the neurons that cause mental disorder. Submerge into the microworld and experience the miracles of the human mind. The future is nigh. The humanity is standing upon the brink of a new era where modern healthcare makes tremendous scientific advancements. With the help of nanotechnologies a surgical prototype bathyscaphe allows its operator to shrink to a microlevel and travel inside the patient's body. A unique experimental project made by Nival to test the opportunities of the new Virtual Reality provided by Oculus Rift. Features Enter the microworld inside the human brain. Pacify disordered neurons to stop them from spreading wrong synapses to other neurons. Replay to increase your rating. A very comfortable VR experience. Supports Windows (VR), Mac and Linux versions. Keys Esc - exit Space - recenter camera H - disable helmet M - disable VR-to-Screen mirroring Tips &amp; Known issues Oculus Rift is not supported in linux and mac version DirectX 9 not supported for Oculus Rift DK2 There is known issue with DK2 black screen on Windows with AMD Mobility Radeon HD Series (we are working with Unity3D devs to fix it) There is known issue with linux version, application sometimes crashing right after the launch on Kubuntu 14.04 (we are working with Unity3D devs to fix it) Other games by Luden.io / / / /",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/343740/header.jpg?t=1646401014",
+    "Price": 0.0,
+    "Developers": "Luden.io",
+    "Publishers": "Luden.io",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/343740/ss_833f7b58a2fd31831d9fefde3ec20d6b210bb2a7.1920x1080.jpg?t=1646401014,https://cdn.akamai.steamstatic.com/steam/apps/343740/ss_b7412610ac46df83d88b7a50aca3efe83485b811.1920x1080.jpg?t=1646401014,https://cdn.akamai.steamstatic.com/steam/apps/343740/ss_c98898125b189300ada6e5a214766c432279afcc.1920x1080.jpg?t=1646401014,https://cdn.akamai.steamstatic.com/steam/apps/343740/ss_4787090c92c795c37c1cfa364797bdc55878f187.1920x1080.jpg?t=1646401014,https://cdn.akamai.steamstatic.com/steam/apps/343740/ss_cbc701e5829b74750c1e4e49ac53f5e884c7202e.1920x1080.jpg?t=1646401014,https://cdn.akamai.steamstatic.com/steam/apps/343740/ss_0a73573dba8bbd86b55bde01df0a943c1b12160e.1920x1080.jpg?t=1646401014,https://cdn.akamai.steamstatic.com/steam/apps/343740/ss_9a8bc0eb23eff1d1a5e1089f8417e36939e5a707.1920x1080.jpg?t=1646401014,https://cdn.akamai.steamstatic.com/steam/apps/343740/ss_56b96296a2e443097c465fd27974a3928a888129.1920x1080.jpg?t=1646401014,https://cdn.akamai.steamstatic.com/steam/apps/343740/ss_00994b4904df2947bc04bf42d2c5dac4eef918ae.1920x1080.jpg?t=1646401014",
+    "Slug": "inmind-vr",
+    "Meta Title": "InMind VR: Jan 19, 2015, Luden.io and Full Overview",
+    "Meta Description": "Looking for information on InMind VR? Check out the release date (Jan 19, 2015), developer insights from Luden.io, and a complete game summary.",
+    "Alt Text Image": "Official header image for InMind VR game - Steam 343740",
+    "Canonical URL": "https://gusku.site/game/inmind-vr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"InMind VR\", \"description\": \"Looking for information on InMind VR? Check out the release date (Jan 19, 2015), developer insights from Luden.io, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 19, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Luden.io\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Luden.io\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/343740/header.jpg?t=1646401014\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 749010,
+    "Name": "Yatzy",
+    "Release date": "Nov 21, 2017",
+    "About the game": "Yatzy is the popular dice game played in a variety of ways all over the world. This baKno version of the game was developed with a physics engine so the dice roll out of a cup and bounce on the table with realistic forces of nature. The object of Yatzy is to score the most points by rolling five dice to compile various required dice combinations. Your score is easily recorded by clicking on the appropriate cell on the scorecard corresponding to the selected dice combination. The game includes five versions of Yatzy plus a variety of settings that allow you to customize your own version of the game. You can play Yatzy with up to six players, or you can play against as many as five computer opponents.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/749010/header.jpg?t=1511273662",
+    "Price": 4.99,
+    "Developers": "baKno Games",
+    "Publishers": "baKno Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/749010/ss_a92d8cd83a633e3d6999fda5349060e15c36de56.1920x1080.jpg?t=1511273662,https://cdn.akamai.steamstatic.com/steam/apps/749010/ss_59cf6cce90ecdaf66e8c4fac735606c90a3daf44.1920x1080.jpg?t=1511273662,https://cdn.akamai.steamstatic.com/steam/apps/749010/ss_a6e0356cf8e634435cf69d2444ba51f03b332886.1920x1080.jpg?t=1511273662,https://cdn.akamai.steamstatic.com/steam/apps/749010/ss_f9a595bc3b41b9fe0fc463f4f842657d1a3bb4af.1920x1080.jpg?t=1511273662,https://cdn.akamai.steamstatic.com/steam/apps/749010/ss_e5bb3fc7eaf7852b0aec714b213c7f1e7217e4bb.1920x1080.jpg?t=1511273662",
+    "Slug": "yatzy",
+    "Meta Title": "Yatzy: Nov 21, 2017, baKno Games and Full Overview",
+    "Meta Description": "Looking for information on Yatzy? Check out the release date (Nov 21, 2017), developer insights from baKno Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Yatzy game - Steam 749010",
+    "Canonical URL": "https://gusku.site/game/yatzy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Yatzy\", \"description\": \"Looking for information on Yatzy? Check out the release date (Nov 21, 2017), developer insights from baKno Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 21, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"baKno Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"baKno Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/749010/header.jpg?t=1511273662\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 983260,
+    "Name": "Pixel Ship Shooter",
+    "Release date": "Dec 6, 2018",
+    "About the game": "Pixel Ship Shooter is a fast-paced retro shooter game, dodge bullets and zap your friends to death! Features * Retro-style gameplay * Up to 4 player multiplayer * LAN and global online hosting * State-of-the-art graphics and visuals * Power-ups * Colorful explosions Controls * WASD and arrow keys for movement * Space to shoot * R to respawn * Esc to enter main menu * F11 to toggle full screen Hosting * Unblock ports 7777 and 27015 in TCP and UDP * Unblock game in the Firewall * Enter main menu * Click 'Host match' Joining * Unblock game in the Firewall * Enter main menu * For LAN use local IP in text bar (example 192.168.0.1) * For Internet use global IP * Press Enter and then 'Connect'",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/983260/header.jpg?t=1613045820",
+    "Price": 9.99,
+    "Developers": "Altope Interactive",
+    "Publishers": "Altope Interactive",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/983260/ss_eb179309bf6da4e00863f0f34cc4bbf0fffec90e.1920x1080.jpg?t=1613045820,https://cdn.akamai.steamstatic.com/steam/apps/983260/ss_f8fcf0bf0fbe3ecb6416e56b27aa75f98bf3d5a2.1920x1080.jpg?t=1613045820,https://cdn.akamai.steamstatic.com/steam/apps/983260/ss_3508ef5d917c3a6301617a2efb854e728691d8b6.1920x1080.jpg?t=1613045820,https://cdn.akamai.steamstatic.com/steam/apps/983260/ss_244a956762edb285f26e013b7b1d1c95330a5c0e.1920x1080.jpg?t=1613045820,https://cdn.akamai.steamstatic.com/steam/apps/983260/ss_bee534021ed362c2c6cd588dc24c8925399c6303.1920x1080.jpg?t=1613045820",
+    "Slug": "pixel-ship-shooter",
+    "Meta Title": "Pixel Ship Shooter: Dec 6, 2018, Altope Interactive and F...",
+    "Meta Description": "Looking for information on Pixel Ship Shooter? Check out the release date (Dec 6, 2018), developer insights from Altope Interactive, and a complete game...",
+    "Alt Text Image": "Official header image for Pixel Ship Shooter game - Steam 983260",
+    "Canonical URL": "https://gusku.site/game/pixel-ship-shooter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixel Ship Shooter\", \"description\": \"Looking for information on Pixel Ship Shooter? Check out the release date (Dec 6, 2018), developer insights from Altope Interactive, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 6, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Altope Interactive\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Altope Interactive\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/983260/header.jpg?t=1613045820\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

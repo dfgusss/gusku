@@ -1,0 +1,21 @@
+{
+    "AppID": 1174300,
+    "Name": "Shiki",
+    "Release date": "Nov 4, 2019",
+    "About the game": "2.5D fantasy adventure homage to 'The Little Prince '. ◾️ Synopsis A small, barren star which has lost the Lord. A boy who abandoned his world and came to become a new “keeper” for the little star. A small star that changes seasons with the hands of a young man, 'Geard', who is the previous keeper and the boy touches the memories of the people and things left behind there. -Even if you go far away. ◾️ Features ・ Focused on scenario, and there is very few puzzles. ・ 2.5D world consisting of 3D sphere model and pixel art. ・An adventure game that you can play by manipulating characters. ・ A Fantastic world view with subtle original graphics. ・ A world view / scenario homage to “The Little Prince” Production tool: Unity Play time: about 2 hours Number of EDs: 1 (There is no big branch, and if you handle all the sub-events, an extra scene will be added.)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1174300/header.jpg?t=1581386334",
+    "Price": 0.0,
+    "Developers": "HataIkeda",
+    "Publishers": "HataIkeda",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1174300/ss_76d99cadbe2e8a09523e714f45cab4d4b68dfce5.1920x1080.jpg?t=1581386334,https://cdn.akamai.steamstatic.com/steam/apps/1174300/ss_dcfa6a93d30cf76db575c1a3621bd7c28c387c45.1920x1080.jpg?t=1581386334,https://cdn.akamai.steamstatic.com/steam/apps/1174300/ss_a89f3d84a4fac811e941bc5d6d4aac37ef39ad7c.1920x1080.jpg?t=1581386334,https://cdn.akamai.steamstatic.com/steam/apps/1174300/ss_aa60b6d148cb8ffe8920537d825faacf6270696c.1920x1080.jpg?t=1581386334,https://cdn.akamai.steamstatic.com/steam/apps/1174300/ss_7065d0a05e60e1811eb134fb95c3cafdf86afd13.1920x1080.jpg?t=1581386334,https://cdn.akamai.steamstatic.com/steam/apps/1174300/ss_c159064bcd4305eea64c9da53cc0b7322ac03cbc.1920x1080.jpg?t=1581386334,https://cdn.akamai.steamstatic.com/steam/apps/1174300/ss_9349857a7a12748d8100f5f53e86765a0cfb8b19.1920x1080.jpg?t=1581386334,https://cdn.akamai.steamstatic.com/steam/apps/1174300/ss_478daa6693b144ef62dc913eea19f9cf99d74b4d.1920x1080.jpg?t=1581386334",
+    "Slug": "shiki",
+    "Meta Title": "Shiki: Nov 4, 2019, HataIkeda and Full Overview",
+    "Meta Description": "Looking for information on Shiki? Check out the release date (Nov 4, 2019), developer insights from HataIkeda, and a complete game summary.",
+    "Alt Text Image": "Official header image for Shiki game - Steam 1174300",
+    "Canonical URL": "https://gusku.site/game/shiki",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Shiki\", \"description\": \"Looking for information on Shiki? Check out the release date (Nov 4, 2019), developer insights from HataIkeda, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 4, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"HataIkeda\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HataIkeda\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1174300/header.jpg?t=1581386334\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

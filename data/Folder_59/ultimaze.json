@@ -1,0 +1,21 @@
+{
+    "AppID": 1741480,
+    "Name": "Ultimaze",
+    "Release date": "Jun 28, 2022",
+    "About the game": "Ultimaze is a tile-based puzzle game about navigating small labyrinths. Move around and interact with objects to reach the goal in 200 single-screen levels that steadily introduce new gameplay features. As the focus is puzzle solving, you can undo your moves at will. The game isn't based around a single gimmick, but rather features a wide variety of different tiles and game mechanics that mix together to create varied puzzles to solve. Some of the game mechanics include: Pressing switches to alter tiles Carrying and utilizing items Pushing crates Sliding on ice Traversing lava in various ways Using magnets to push and pull tiles Jumping from springboards Some of the later levels feature increasingly odd and advanced scenarios: Manipulating a turn timer that alters objects after ticking down to zero Moving around diagonally temporarily Carrying an extended amount of items and duplicating them Destroying yourself by moving into an infinite loop to respawn to a spawnpoint Creating and loading save states of a level to your advantage Ultimaze also contains a simple level editor tool and a block guide that contains a tutorial levels for each tile type.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1741480/header.jpg?t=1657298139",
+    "Price": 3.99,
+    "Developers": "Solarshaper",
+    "Publishers": "Solarshaper",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1741480/ss_f0aedde6ab3c6047cdc9622cc52104376ba83319.1920x1080.jpg?t=1657298139,https://cdn.akamai.steamstatic.com/steam/apps/1741480/ss_852ffd05492441dd39ae82ffc32704c72a2ea7c9.1920x1080.jpg?t=1657298139,https://cdn.akamai.steamstatic.com/steam/apps/1741480/ss_7b6d0e396312c66300b8e496e314d075410dbaa4.1920x1080.jpg?t=1657298139,https://cdn.akamai.steamstatic.com/steam/apps/1741480/ss_46ba7f38f9b1d73fb9e9a17b70c6873e34aac9d9.1920x1080.jpg?t=1657298139,https://cdn.akamai.steamstatic.com/steam/apps/1741480/ss_f71957ceec0428a7a7750b6760d98a96b98fd5b9.1920x1080.jpg?t=1657298139",
+    "Slug": "ultimaze",
+    "Meta Title": "Ultimaze: Jun 28, 2022, Solarshaper and Full Overview",
+    "Meta Description": "Looking for information on Ultimaze? Check out the release date (Jun 28, 2022), developer insights from Solarshaper, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ultimaze game - Steam 1741480",
+    "Canonical URL": "https://gusku.site/game/ultimaze",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ultimaze\", \"description\": \"Looking for information on Ultimaze? Check out the release date (Jun 28, 2022), developer insights from Solarshaper, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 28, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Solarshaper\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Solarshaper\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1741480/header.jpg?t=1657298139\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

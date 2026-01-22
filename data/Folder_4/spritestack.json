@@ -1,0 +1,21 @@
+{
+    "AppID": 1106180,
+    "Name": "SpriteStack",
+    "Release date": "Jul 15, 2019",
+    "About the game": "-- 2021 Upcoming update -- One liner about NEXT release: SpriteStack is a 3D animator/editor that combines voxels, lowpoly and sprites to make 2D game assets in form of spritesheets. Do not worry to get current version of SpriteStack - it's the one that will get updated with all the new features you can read about there . After the update the price will go up so it's the best moment to get it - also it helps me to focus on SpriteStack instead of looking for funds. -- Old (current) version description -- SpriteStack is a 3d pixelart editor based on sprite stacking technique. It's a special kind of voxel editor suited for 2D artists where the model is drawn layer by layer like a pixelart. Featuring handcrafted retro renderer and experimental animation support. Examples Editor Each model is made of 2D slices that create a 3D volume when put on top of each other. Animator Animation support is experimental but it can already yeld nice results. Exporter Top notch exporter featuring unique low resolution renderer stylized to look like pixelart. It can output 2D spritesheets, slices for spritestacking or .vox models that can be later converted to many popular 3D formats. MagicaVoxel support Thanks to two-way MagicaVoxel integration you are not bound to use the spritestacking editor. You can also render your existing .vox models in my retro rendering engine or get your spritestacks converted to formats like OBJ.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1106180/header.jpg?t=1625519089",
+    "Price": 29.99,
+    "Developers": "Rezoner",
+    "Publishers": "Rezoner",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1106180/ss_238680fc7cf4139b79d78f3fb1104b159f59fc9f.1920x1080.jpg?t=1625519089,https://cdn.akamai.steamstatic.com/steam/apps/1106180/ss_36ccd65e35d7f9ad842a5d30a321847a5c3f2d23.1920x1080.jpg?t=1625519089,https://cdn.akamai.steamstatic.com/steam/apps/1106180/ss_88668752374c9bf67cced85e60372f4da5b43fda.1920x1080.jpg?t=1625519089,https://cdn.akamai.steamstatic.com/steam/apps/1106180/ss_46190baf2596cba1fba50cdb3fa406eeddf5cede.1920x1080.jpg?t=1625519089,https://cdn.akamai.steamstatic.com/steam/apps/1106180/ss_4e5e4c6813c716a5f28c8771c2ca7df9702e066a.1920x1080.jpg?t=1625519089,https://cdn.akamai.steamstatic.com/steam/apps/1106180/ss_8d00d8452a0971ba683c729e5d3e73215569607c.1920x1080.jpg?t=1625519089",
+    "Slug": "spritestack",
+    "Meta Title": "SpriteStack: Jul 15, 2019, Rezoner and Full Overview",
+    "Meta Description": "Looking for information on SpriteStack? Check out the release date (Jul 15, 2019), developer insights from Rezoner, and a complete game summary.",
+    "Alt Text Image": "Official header image for SpriteStack game - Steam 1106180",
+    "Canonical URL": "https://gusku.site/game/spritestack",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SpriteStack\", \"description\": \"Looking for information on SpriteStack? Check out the release date (Jul 15, 2019), developer insights from Rezoner, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 15, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rezoner\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rezoner\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1106180/header.jpg?t=1625519089\", \"offers\": {\"@type\": \"Offer\", \"price\": 29.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

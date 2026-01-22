@@ -1,0 +1,21 @@
+{
+    "AppID": 2206450,
+    "Name": "Dwarfer",
+    "Release date": "Nov 20, 2022",
+    "About the game": "Dwarfer - This is a logic 2D puzzle where you have to manage a squad of 2 of dwarves in search of gold, each step of one dwarf spreads to all the others, forcing everyone to move in the same rhythm. The caves are filled with dangers in the form of spikes and skeletons and other dangers, you'll have to think a few steps ahead to get them all to the exit. Game Features: game with consequences, many levels, a set of glasses, graphics by Fedunkuli, music from Resolutik152.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2206450/header.jpg?t=1669011725",
+    "Price": 34.99,
+    "Developers": "Sujiko",
+    "Publishers": "GigantGame-A",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2206450/ss_9fc5d96d5821d9a3394dddc6b345b96720d40bab.1920x1080.jpg?t=1669011725,https://cdn.akamai.steamstatic.com/steam/apps/2206450/ss_c31345458b22c1f48d8844567f189f2a91794026.1920x1080.jpg?t=1669011725,https://cdn.akamai.steamstatic.com/steam/apps/2206450/ss_67735e3d7492973d8381a87426d79e64cf62e99d.1920x1080.jpg?t=1669011725,https://cdn.akamai.steamstatic.com/steam/apps/2206450/ss_bd4597139f3393f479e088595b7c5c4ae792b8e8.1920x1080.jpg?t=1669011725,https://cdn.akamai.steamstatic.com/steam/apps/2206450/ss_82cb5caac5150603f42eab44ae4f01b7ad102a51.1920x1080.jpg?t=1669011725,https://cdn.akamai.steamstatic.com/steam/apps/2206450/ss_90ea8662e2a1b42a461928425e3cbf46d8f2b0b1.1920x1080.jpg?t=1669011725",
+    "Slug": "dwarfer",
+    "Meta Title": "Dwarfer: Nov 20, 2022, Sujiko and Full Overview",
+    "Meta Description": "Looking for information on Dwarfer? Check out the release date (Nov 20, 2022), developer insights from Sujiko, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dwarfer game - Steam 2206450",
+    "Canonical URL": "https://gusku.site/game/dwarfer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dwarfer\", \"description\": \"Looking for information on Dwarfer? Check out the release date (Nov 20, 2022), developer insights from Sujiko, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sujiko\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"GigantGame-A\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2206450/header.jpg?t=1669011725\", \"offers\": {\"@type\": \"Offer\", \"price\": 34.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

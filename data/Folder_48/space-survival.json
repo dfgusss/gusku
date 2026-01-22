@@ -1,0 +1,21 @@
+{
+    "AppID": 1830100,
+    "Name": "Space Survival",
+    "Release date": "Dec 17, 2021",
+    "About the game": "You are on a routine mission harvesting ice from asteroids, when suddenly your ship is hit by a high speed one and destroyed! Luckily you were outside of the ship when it happened.. Or was that luck? Now you are stranded in space alone! How long can you survive? You do have your grenade launcher and ice collecting gear and you can use the ice to power your life support, maybe you can even find some power ups from pieces of your old ship.. Just watch out for black holes!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1830100/header.jpg?t=1641081665",
+    "Price": 4.99,
+    "Developers": "Matt Timmermans",
+    "Publishers": "logicandchaos",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1830100/ss_6f1c5e9ead547a7c13ebe6cae7d7010e0a8958e0.1920x1080.jpg?t=1641081665,https://cdn.akamai.steamstatic.com/steam/apps/1830100/ss_fe3dfd8d605f94056d0b42a52b9d45583e51889e.1920x1080.jpg?t=1641081665,https://cdn.akamai.steamstatic.com/steam/apps/1830100/ss_e9f479d4ff4fe99294306025bcb1a52d0435940f.1920x1080.jpg?t=1641081665,https://cdn.akamai.steamstatic.com/steam/apps/1830100/ss_a56448e364f66cb40ab90abca9c65ea16e09f5ce.1920x1080.jpg?t=1641081665,https://cdn.akamai.steamstatic.com/steam/apps/1830100/ss_13f93bdcf45b5b9bd14c1372944739441be23e91.1920x1080.jpg?t=1641081665",
+    "Slug": "space-survival",
+    "Meta Title": "Space Survival: Dec 17, 2021, Matt Timmermans and Full Ov...",
+    "Meta Description": "Looking for information on Space Survival? Check out the release date (Dec 17, 2021), developer insights from Matt Timmermans, and a complete game summary.",
+    "Alt Text Image": "Official header image for Space Survival game - Steam 1830100",
+    "Canonical URL": "https://gusku.site/game/space-survival",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Space Survival\", \"description\": \"Looking for information on Space Survival? Check out the release date (Dec 17, 2021), developer insights from Matt Timmermans, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 17, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matt Timmermans\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"logicandchaos\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1830100/header.jpg?t=1641081665\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

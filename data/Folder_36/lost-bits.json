@@ -1,0 +1,21 @@
+{
+    "AppID": 1983100,
+    "Name": "Lost Bits",
+    "Release date": "Jun 22, 2022",
+    "About the game": "Lost Bits is an abstract precision platformer, where your goal is to collect all the small cubes (lost bits) and avoid different obstacles. If you touch any obstacle your hero will decay into bits and you will start over again. You play as Cubos who needs to collect all the lost bits to return home. Try to find all the bits in shortest time while pass through 30 levels with progressive difficulty.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1983100/header.jpg?t=1656181717",
+    "Price": 6.74,
+    "Developers": "brokenbyte",
+    "Publishers": "brokenbyte",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1983100/ss_8e090fbbf95c9b3a2994376d7ca272f359ad24c4.1920x1080.jpg?t=1656181717,https://cdn.akamai.steamstatic.com/steam/apps/1983100/ss_6f0c2637c44ade1a78f12c47a51b7744464d80ae.1920x1080.jpg?t=1656181717,https://cdn.akamai.steamstatic.com/steam/apps/1983100/ss_f62319356ce58c9a3c6c81b9e53fbb1adac82459.1920x1080.jpg?t=1656181717,https://cdn.akamai.steamstatic.com/steam/apps/1983100/ss_737a826d2b1ecf2f6e311091ded5acdcd967106a.1920x1080.jpg?t=1656181717,https://cdn.akamai.steamstatic.com/steam/apps/1983100/ss_1c1933ef13b0cdb17a2b46dc06b3f39fee49db72.1920x1080.jpg?t=1656181717,https://cdn.akamai.steamstatic.com/steam/apps/1983100/ss_80d4a13baefc1748867583917c60647d58a75916.1920x1080.jpg?t=1656181717",
+    "Slug": "lost-bits",
+    "Meta Title": "Lost Bits: Jun 22, 2022, brokenbyte and Full Overview",
+    "Meta Description": "Looking for information on Lost Bits? Check out the release date (Jun 22, 2022), developer insights from brokenbyte, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lost Bits game - Steam 1983100",
+    "Canonical URL": "https://gusku.site/game/lost-bits",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lost Bits\", \"description\": \"Looking for information on Lost Bits? Check out the release date (Jun 22, 2022), developer insights from brokenbyte, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 22, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"brokenbyte\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"brokenbyte\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1983100/header.jpg?t=1656181717\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.74, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

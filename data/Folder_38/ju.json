@@ -1,0 +1,21 @@
+{
+    "AppID": 684430,
+    "Name": "JU",
+    "Release date": "Oct 19, 2017",
+    "About the game": "Hello there! This is my first game on Steam. And the game's name is JU. how to Play? Use KEY WSAD(or ↑↓←→) to control the green cube move to the red area. Don't worry too much about operation, it's really easy. But you should be really careful about the path you choose, because there are some path traps in the game, such as an endless loop. Features: 80 Levels 4 play rules: 1.Basis rule (Level 1 - 20): Move green cube to the end area(the red block). When you use key to move the green cube, it just keep moving until touch a block-wall. 2.Following rule (Level 21 - 40): Beside the basis rule, the end area will move when you try to move the green cube. So you should think about the strategy: move the green cube or end area as a chief way. 3.Twins rule (Level 41 - 60): Beside the basis rule, there will be two green cubes in the game, and two end areas. And be careful: When the green cubes touch each other, they will become one entirety. 4.Zu rule (Level 61 - 80): Beside the basis rule, you will find a few green area which will move one block. What you need to think is that move to the end area before anyone of the green areas moves to the left-end-area. And be careful: You need move to the every blue block one time, or the end area will be blocked. This rule could be a little hard, remember it: Think before Move. why Choose Ju As Game's Name? Actually, it is the name of a piece in Chinese chess. When I played Chinese chess whit my uncle, it suddenly occurred to me that why not add the rule of JU to a simple maze map. So I made this game, JU. Have Fun.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/684430/header.jpg?t=1509246048",
+    "Price": 0.99,
+    "Developers": "张公子",
+    "Publishers": "张公子",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/684430/ss_28e0ba3a3baf2ddfc589a737df2a755f3250a5c6.1920x1080.jpg?t=1509246048,https://cdn.akamai.steamstatic.com/steam/apps/684430/ss_8d0bfb2f628d5b706f0bf422cd91fdb1c7bda979.1920x1080.jpg?t=1509246048,https://cdn.akamai.steamstatic.com/steam/apps/684430/ss_d9910c3a4c2b32fa315dea8f512dcac707a8d467.1920x1080.jpg?t=1509246048,https://cdn.akamai.steamstatic.com/steam/apps/684430/ss_ead09198ba18347a1678a0bb1883d704ccb79ac1.1920x1080.jpg?t=1509246048,https://cdn.akamai.steamstatic.com/steam/apps/684430/ss_2c84b22f71653fa48febd8ee34d86d50c1bac51b.1920x1080.jpg?t=1509246048",
+    "Slug": "ju",
+    "Meta Title": "JU: Oct 19, 2017, 张公子 and Full Overview",
+    "Meta Description": "Looking for information on JU? Check out the release date (Oct 19, 2017), developer insights from 张公子, and a complete game summary.",
+    "Alt Text Image": "Official header image for JU game - Steam 684430",
+    "Canonical URL": "https://gusku.site/game/ju",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"JU\", \"description\": \"Looking for information on JU? Check out the release date (Oct 19, 2017), developer insights from \\u5f20\\u516c\\u5b50, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 19, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u5f20\\u516c\\u5b50\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u5f20\\u516c\\u5b50\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/684430/header.jpg?t=1509246048\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

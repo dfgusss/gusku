@@ -1,0 +1,21 @@
+{
+    "AppID": 1370570,
+    "Name": "First Person Shooter Kit Showcase",
+    "Release date": "Jul 28, 2020",
+    "About the game": "A showcase of FPSK, a UE4 blueprint asset you can use to help create your very own indie FPS in Unreal Engine. Features include: Zombie Horde Mode Weapon Attachments Shooter Courses Equipment Systems Material Penetration PC Controls WSAD: Movement Mouse Input: Look Shift: Sprint Ctrl: Crouch C/Hold Ctrl: Prone Right mouse button: Aim Down Sights Left mouse button: Shoot Middle mouse button: Sensitivity Training Menu R: Reload MB1/V: Melee 4: Quickswap Weapon F: Interact E: Primary Equipment Q: Secondary Equipment Space: Jump Mousewheel: Cycle weapon N: Skip intermission (ZombieMode) Gamepad Controls Left Stick: Movement Right Stick: Look L3: Sprint B/Circle: Crouch Hold B/Circle: Prone Left Shoulder: Aim down Sights Right Shoulder: Shoot Left Trigger: Secondary Equipment Right Trigger: Primary Equipment Square/X: Reload/Interact R3: Melee Cross/A: Jump Triangle/Y: Cycle weapon Right D-Pad: Skip intermission (ZombieMode)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1370570/header.jpg?t=1595944378",
+    "Price": 0.0,
+    "Developers": "Kelint",
+    "Publishers": "Kelint",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_8a0d5410fe852d1ed9db46b850a2d81328739d3d.1920x1080.jpg?t=1595944378,https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_422cecca7174d37dab9cf84758420c4ed17e976c.1920x1080.jpg?t=1595944378,https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_d14d69e3db2adef113c8fad31c31ea60117bfe41.1920x1080.jpg?t=1595944378,https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_feccf044136f212ae1d37567fd39a3d2d94769b6.1920x1080.jpg?t=1595944378,https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_802abc8c56271f2c11f9f96f84d29a58c0e64972.1920x1080.jpg?t=1595944378,https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_99a7db217a54ee65da773e8dd01f06e7e3282b26.1920x1080.jpg?t=1595944378,https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_7af0e5cb506f8d1fe12540f7885964658d808d78.1920x1080.jpg?t=1595944378,https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_4597298a52cad470581ca8a3856577d119caa78d.1920x1080.jpg?t=1595944378,https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_25da90a50fdc675be4c15ed5dc6304780e04bd5f.1920x1080.jpg?t=1595944378,https://cdn.akamai.steamstatic.com/steam/apps/1370570/ss_5ca6323d65d92ddec31304af898e5420d14ba162.1920x1080.jpg?t=1595944378",
+    "Slug": "first-person-shooter-kit-showcase",
+    "Meta Title": "First Person Shooter Kit Showcase: Jul 28, 2020, Kelint a...",
+    "Meta Description": "Looking for information on First Person Shooter Kit Showcase? Check out the release date (Jul 28, 2020), developer insights from Kelint, and a complete ...",
+    "Alt Text Image": "Official header image for First Person Shooter Kit Showcase game - Steam 1370570",
+    "Canonical URL": "https://gusku.site/game/first-person-shooter-kit-showcase",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"First Person Shooter Kit Showcase\", \"description\": \"Looking for information on First Person Shooter Kit Showcase? Check out the release date (Jul 28, 2020), developer insights from Kelint, and a complete ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 28, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kelint\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kelint\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1370570/header.jpg?t=1595944378\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

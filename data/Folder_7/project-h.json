@@ -1,0 +1,21 @@
+{
+    "AppID": 1644720,
+    "Name": "Project H",
+    "Release date": "Jul 15, 2021",
+    "About the game": "Note from the Developer Hi there! Project H was originally developed with the intention of being a small prototype/proof of concept. It wasn't the original intention to publish this project, but I decided to do so for the experience and to see how people would like this kind of game. I hope you all enjoy your time with Project H! About Project H Make your escape while a persistent spirit haunts your every move. From turning on/off lights to altering the environment around you, it is made clear you are not supposed to leave. The spirit has the ability to: - Turn on/off the lights. - Turn on the radio. - Open and close doors. - Appear as a shadow figure every now and then. - Haunt various items and furniture within the rooms, which alters their appearances. Some items/furniture have two stages of alteration while others just have one. - Cause the phone to ring. The spirit's behavior is completely randomized, meaning a different experience for each player. Depending on how long you play, you may not even see all of the various alterations of the environment.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1644720/header.jpg?t=1626359483",
+    "Price": 0.0,
+    "Developers": "HollowPixels",
+    "Publishers": "HollowPixels",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1644720/ss_5b2932e9f7f0dee5b2edb1e95d18c052e1ddd758.1920x1080.jpg?t=1626359483,https://cdn.akamai.steamstatic.com/steam/apps/1644720/ss_a5cc4bb98d33582341ed9571bb3c755bb449ce3c.1920x1080.jpg?t=1626359483,https://cdn.akamai.steamstatic.com/steam/apps/1644720/ss_504b682f2ddfd1c9320774c0a654ecb78ff4049f.1920x1080.jpg?t=1626359483,https://cdn.akamai.steamstatic.com/steam/apps/1644720/ss_b96dd4cfb6625d7f4559041edbb71d9ecf5cbfbb.1920x1080.jpg?t=1626359483,https://cdn.akamai.steamstatic.com/steam/apps/1644720/ss_4a7cd6e8c80ca9109453f31b695763d58cbf4ec6.1920x1080.jpg?t=1626359483",
+    "Slug": "project-h",
+    "Meta Title": "Project H: Jul 15, 2021, HollowPixels and Full Overview",
+    "Meta Description": "Looking for information on Project H? Check out the release date (Jul 15, 2021), developer insights from HollowPixels, and a complete game summary.",
+    "Alt Text Image": "Official header image for Project H game - Steam 1644720",
+    "Canonical URL": "https://gusku.site/game/project-h",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Project H\", \"description\": \"Looking for information on Project H? Check out the release date (Jul 15, 2021), developer insights from HollowPixels, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 15, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"HollowPixels\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HollowPixels\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1644720/header.jpg?t=1626359483\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

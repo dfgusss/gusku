@@ -1,0 +1,21 @@
+{
+    "AppID": 468130,
+    "Name": "Nebula",
+    "Release date": "Jun 2, 2016",
+    "About the game": "Nebula is an action platformer with a high emphasis on using everything at your disposal to succeed, such as the gravity gun. The game takes place on an abandoned space station where you need to survive the deadly traps, defeat your enemies and solve physics based puzzles. Each level is re-explorable, which allows you to obtain as many collectibles as you can, that may be used to upgrade your weapons and abilities. In most cases you will have to use all your special abilities to get through the challenges that you will face in this unique adventure. The gameplay is a mix of platform movement challenges, action combat against enemies and cognitive puzzle elements. Time slowing ability You have the ability to control the speed of time for a short period. However, it is limited, since it drains your energy bar, therefore you must carefully evaluate the situation and use it at the right time to gain the biggest advantage to overcome your obstacles and enemies. This ability is particularly useful in action combat situations, because your bullets are not affected by the speed of time, therefore you can have an edge over your enemies and shoot them or their bullets down while the time is passing slower. Gravity gun You have the power in your hands to pull, push, collect and rotate every objects with your gravity gun. There are also special objects, which synergise particularly well with the gravity gun. Objects like the mobile sphere platform, explosives and the slicer rocket may be used to gain advantages and make your combat experience even more awesome and unique. Technical details Pixel perfect camera in 1080p for a satisfying visual experience. All the sprites have custom normal maps for 3D look and dynamic lighting. The game is designed for mouse and keyboard because you have to aim quite precisely. In the future however, I plan to add controller support with some gameplay changes in order to make the gaming experience equal.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/468130/header.jpg?t=1569320166",
+    "Price": 4.99,
+    "Developers": "Szekretar",
+    "Publishers": "Szekretar",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/468130/ss_35a9a57eef9c59da66d8c0997d5d28a9eb565580.1920x1080.jpg?t=1569320166,https://cdn.akamai.steamstatic.com/steam/apps/468130/ss_610e890b242b68e1e53dbf990586a6578624836c.1920x1080.jpg?t=1569320166,https://cdn.akamai.steamstatic.com/steam/apps/468130/ss_0013344c2c6b11a2d5677c52b6cb9a0f9e6a3826.1920x1080.jpg?t=1569320166,https://cdn.akamai.steamstatic.com/steam/apps/468130/ss_3d79ff70e071cfee989e134841fd2dc93605003b.1920x1080.jpg?t=1569320166,https://cdn.akamai.steamstatic.com/steam/apps/468130/ss_67dbabf2ab42b64f2388eb14b5874562be11b998.1920x1080.jpg?t=1569320166,https://cdn.akamai.steamstatic.com/steam/apps/468130/ss_867d801b4965b7131bf940254ae181893a6e9df7.1920x1080.jpg?t=1569320166",
+    "Slug": "nebula",
+    "Meta Title": "Nebula: Jun 2, 2016, Szekretar and Full Overview",
+    "Meta Description": "Looking for information on Nebula? Check out the release date (Jun 2, 2016), developer insights from Szekretar, and a complete game summary.",
+    "Alt Text Image": "Official header image for Nebula game - Steam 468130",
+    "Canonical URL": "https://gusku.site/game/nebula",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nebula\", \"description\": \"Looking for information on Nebula? Check out the release date (Jun 2, 2016), developer insights from Szekretar, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 2, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Szekretar\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Szekretar\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/468130/header.jpg?t=1569320166\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

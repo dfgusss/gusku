@@ -1,0 +1,21 @@
+{
+    "AppID": 10,
+    "Name": "Counter-Strike",
+    "Release date": "Nov 1, 2000",
+    "About the game": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/10/header.jpg?t=1602535893",
+    "Price": 9.99,
+    "Developers": "Valve",
+    "Publishers": "Valve",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/10/0000000132.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000000133.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000000134.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000000135.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000000136.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000002540.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000002539.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000002538.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000002537.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000002536.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000002541.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000002542.1920x1080.jpg?t=1602535893,https://cdn.akamai.steamstatic.com/steam/apps/10/0000002543.1920x1080.jpg?t=1602535893",
+    "Slug": "counter-strike",
+    "Meta Title": "Counter-Strike: Nov 1, 2000, Valve and Full Overview",
+    "Meta Description": "Looking for information on Counter-Strike? Check out the release date (Nov 1, 2000), developer insights from Valve, and a complete game summary.",
+    "Alt Text Image": "Official header image for Counter-Strike game - Steam 10",
+    "Canonical URL": "https://gusku.site/game/counter-strike",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Counter-Strike\", \"description\": \"Looking for information on Counter-Strike? Check out the release date (Nov 1, 2000), developer insights from Valve, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 1, 2000\", \"author\": {\"@type\": \"Organization\", \"name\": \"Valve\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Valve\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/10/header.jpg?t=1602535893\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

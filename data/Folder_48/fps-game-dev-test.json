@@ -1,0 +1,21 @@
+{
+    "AppID": 1901200,
+    "Name": "FPS Game: Dev Test",
+    "Release date": "Feb 26, 2022",
+    "About the game": "FPS Game: Dev Test, is a First person shooter that is strictly built of a development asset, its intended purpose is to test and showcase networking features and other advanced Steam systems. It will continue to adapt and have new mechanics and testable features as time goes on. It is functioning and can be played by anyone. It is intended for multiplayer PVP combat and sessions, but creates online sessions using listen server at the moment. This is good if you want to just play with your friends only in a small private game. It currently uses a basic sort of class system that gives you a skill based on what class is selected e.g. Ammo box, health box, explosives box. On the loadout screen the player will get to pick what Class, Primary Weapon, Secondary Weapon, Perk and Grenade type. You can play single player against bots, or multiplayer (can include bots as well). It uses a server browser, so look for a game and join random people. or create a game for you and your friends for the private experience if you'd prefer. Development The Game is built for development purposes and will change on a fairly regular basis, adding more content each time. This will mean more gamemodes and different weapon systems will be added along the way. Gamemodes: There is many game modes to play, and more to be added with time, ranging from: Capture the Flag, Team Death Match, Free For All, Confirmed Kill, Conquest/Domination. Weapons/Loadouts: There is a variety of weapon types you can choose from when playing: Assault Rifle, Shotgun, Machine Gun, Sniper, SMG, Pistols.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1901200/header.jpg?t=1645892227",
+    "Price": 0.0,
+    "Developers": "jackal_dev_test",
+    "Publishers": "jackal_dev_test",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1901200/ss_60bcc43c3eed56beab7b2001c77cea3188a579ff.1920x1080.jpg?t=1645892227,https://cdn.akamai.steamstatic.com/steam/apps/1901200/ss_6fa5ff955ea10c0eaafc1804d9a8f9bbf7542962.1920x1080.jpg?t=1645892227,https://cdn.akamai.steamstatic.com/steam/apps/1901200/ss_ed6bad4de069ec20167353fbd34034425573a182.1920x1080.jpg?t=1645892227,https://cdn.akamai.steamstatic.com/steam/apps/1901200/ss_40f70ceae1f9cb34a5c70946ed5cbd861ebc454b.1920x1080.jpg?t=1645892227,https://cdn.akamai.steamstatic.com/steam/apps/1901200/ss_936d8ff4dd4ae8d4877c71587bb0fb374518a1ac.1920x1080.jpg?t=1645892227",
+    "Slug": "fps-game-dev-test",
+    "Meta Title": "FPS Game: Dev Test: Feb 26, 2022, jackal_dev_test and Ful...",
+    "Meta Description": "Looking for information on FPS Game: Dev Test? Check out the release date (Feb 26, 2022), developer insights from jackal_dev_test, and a complete game s...",
+    "Alt Text Image": "Official header image for FPS Game: Dev Test game - Steam 1901200",
+    "Canonical URL": "https://gusku.site/game/fps-game-dev-test",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FPS Game: Dev Test\", \"description\": \"Looking for information on FPS Game: Dev Test? Check out the release date (Feb 26, 2022), developer insights from jackal_dev_test, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 26, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"jackal_dev_test\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"jackal_dev_test\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1901200/header.jpg?t=1645892227\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

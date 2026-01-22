@@ -1,0 +1,21 @@
+{
+    "AppID": 1348240,
+    "Name": "Snow Trail",
+    "Release date": "Jul 10, 2020",
+    "About the game": "Snow Trail is a puzzle game where your main objective is to cross a lake which only has one path through it known as 'Snow Trail'. In order to pass through the trail you must solve a varying degree of puzzles that may contain some not so normal elements. Slime, Knights, Tiny Castles and many other roadblocks stand in your way to cross the lake and walk through the Snow Trail. The game revolves around the ability to push snow blocks. Snow blocks can connect to one and other and when connected can be pushed as a unit. Snow blocks can be pushed into water in order to make bridges that can be used to complete each level. Other mechanics affect the snow blocks such as rocks that can be used to break apart snow blocks from each other or slime which will push away any snow blocks that are beside it. Snow Trail has 100 levels, each with it's own tricks that will stump you as you make your way through the trail. The game was created by a single developer from Canada.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1348240/header.jpg?t=1594429227",
+    "Price": 0.99,
+    "Developers": "Benjamin Kerr",
+    "Publishers": "Benjamin Kerr",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1348240/ss_03e61d96fc36163f5ffb6592c48244076efb7700.1920x1080.jpg?t=1594429227,https://cdn.akamai.steamstatic.com/steam/apps/1348240/ss_890a31e86329d3e1251666c0644be55db31a7c89.1920x1080.jpg?t=1594429227,https://cdn.akamai.steamstatic.com/steam/apps/1348240/ss_0ffe0aab6a18e97e4c3026b781ddb01f46cac1e1.1920x1080.jpg?t=1594429227,https://cdn.akamai.steamstatic.com/steam/apps/1348240/ss_c0c13b8acfb4d4ae85b0eed9e3b24d36c346ea52.1920x1080.jpg?t=1594429227,https://cdn.akamai.steamstatic.com/steam/apps/1348240/ss_45107eceaf304a9edec568d5f24b17265ecda350.1920x1080.jpg?t=1594429227,https://cdn.akamai.steamstatic.com/steam/apps/1348240/ss_84096276f59d772e21a920edd2955e8586c716b3.1920x1080.jpg?t=1594429227",
+    "Slug": "snow-trail",
+    "Meta Title": "Snow Trail: Jul 10, 2020, Benjamin Kerr and Full Overview",
+    "Meta Description": "Looking for information on Snow Trail? Check out the release date (Jul 10, 2020), developer insights from Benjamin Kerr, and a complete game summary.",
+    "Alt Text Image": "Official header image for Snow Trail game - Steam 1348240",
+    "Canonical URL": "https://gusku.site/game/snow-trail",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Snow Trail\", \"description\": \"Looking for information on Snow Trail? Check out the release date (Jul 10, 2020), developer insights from Benjamin Kerr, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 10, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Benjamin Kerr\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Benjamin Kerr\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1348240/header.jpg?t=1594429227\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 809780,
+    "Name": "TheGunRunner",
+    "Release date": "Mar 16, 2018",
+    "About the game": "GamePlay: Find and retrieve all guns on each level to win. Features: • Levels: Play on city,snow, and desert levels. • Guns: The goal is to retrieve all the guns on each level. • Ammo: For every ammo box retrieved, 1min is added to the timer. • Time: If you don't find all the guns before time runs out. Game over! • Hard: A faced paced game with no save/load.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/809780/header.jpg?t=1521194278",
+    "Price": 5.99,
+    "Developers": "ExtinctionArts",
+    "Publishers": "ExtinctionArts",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/809780/ss_f2b3bdec863945151dcae430b55e6c7b01ac0249.1920x1080.jpg?t=1521194278,https://cdn.akamai.steamstatic.com/steam/apps/809780/ss_59931e1b90a86602b717aaa6ad58118bf5055ba4.1920x1080.jpg?t=1521194278,https://cdn.akamai.steamstatic.com/steam/apps/809780/ss_e9a2dbc7fe9d0f88bbcc9bcade16513f8f1ee41e.1920x1080.jpg?t=1521194278,https://cdn.akamai.steamstatic.com/steam/apps/809780/ss_1e936272003a67a90084f2d564bea443259b186f.1920x1080.jpg?t=1521194278,https://cdn.akamai.steamstatic.com/steam/apps/809780/ss_2aa62477bdcff41ba2224e8639e5a0d3093ba855.1920x1080.jpg?t=1521194278,https://cdn.akamai.steamstatic.com/steam/apps/809780/ss_f5bf936c1aa7a2b93cfb388b205bff6226618d46.1920x1080.jpg?t=1521194278",
+    "Slug": "thegunrunner",
+    "Meta Title": "TheGunRunner: Mar 16, 2018, ExtinctionArts and Full Overview",
+    "Meta Description": "Looking for information on TheGunRunner? Check out the release date (Mar 16, 2018), developer insights from ExtinctionArts, and a complete game summary.",
+    "Alt Text Image": "Official header image for TheGunRunner game - Steam 809780",
+    "Canonical URL": "https://gusku.site/game/thegunrunner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TheGunRunner\", \"description\": \"Looking for information on TheGunRunner? Check out the release date (Mar 16, 2018), developer insights from ExtinctionArts, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 16, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"ExtinctionArts\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ExtinctionArts\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/809780/header.jpg?t=1521194278\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

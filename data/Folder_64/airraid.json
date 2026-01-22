@@ -1,0 +1,21 @@
+{
+    "AppID": 2067140,
+    "Name": "AirRaid",
+    "Release date": "Sep 30, 2022",
+    "About the game": "AirRaid is a fun and intense arcade shooter! It features unique models, sounds, and effects. Fight through 10 waves of ever increasing difficulty. Enjoy the satisfyingly destructive effects of taking down the enemy with fully modular enemy models. Don't fire too much! Each bullet fired will reduce your score. Can you make it through to the end with a high score? Three soldier land and its game over. Don't let the missiles hit the ground! Features: - Unique, hand crafted, painted and textured 3d assets which are fully destructible - Scored by professional beatmaker, Jonnie Baker - Simple arcade controls - Randomized enemy spawns ensure no two play throughs are the same! - The background and sun angle change as you progress through the day of defending your base",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2067140/header.jpg?t=1664527740",
+    "Price": 0.99,
+    "Developers": "Pilea Development LLC",
+    "Publishers": "Pilea Development LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2067140/ss_2848312bdaa83d1e98f631ea9ea3e3a6ab0e74bc.1920x1080.jpg?t=1664527740,https://cdn.akamai.steamstatic.com/steam/apps/2067140/ss_72e1e6eb6c77d59befe00194f669ebb19dfb24ed.1920x1080.jpg?t=1664527740,https://cdn.akamai.steamstatic.com/steam/apps/2067140/ss_9f2d3734198fd0a4c97ec413ae8248bf8ca8e5cc.1920x1080.jpg?t=1664527740,https://cdn.akamai.steamstatic.com/steam/apps/2067140/ss_9426cfe6b935871aa7ae68da2b5eb11a6419efd4.1920x1080.jpg?t=1664527740,https://cdn.akamai.steamstatic.com/steam/apps/2067140/ss_643798a62067aed060ee8d039fed4b1cf027a7a9.1920x1080.jpg?t=1664527740",
+    "Slug": "airraid",
+    "Meta Title": "AirRaid: Sep 30, 2022, Pilea Development LLC and Full Ove...",
+    "Meta Description": "Looking for information on AirRaid? Check out the release date (Sep 30, 2022), developer insights from Pilea Development LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for AirRaid game - Steam 2067140",
+    "Canonical URL": "https://gusku.site/game/airraid",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"AirRaid\", \"description\": \"Looking for information on AirRaid? Check out the release date (Sep 30, 2022), developer insights from Pilea Development LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 30, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pilea Development LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pilea Development LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2067140/header.jpg?t=1664527740\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1692850,
+    "Name": "Historic Fighters",
+    "Release date": "Jul 30, 2021",
+    "About the game": "Historic Fighters is a turn-based game that allows you to play with a historically themed class of your choice in a fantasy battle setting. Each of the eight classes (Amazon, Pirate, Viking, Ninja, Samurai, Cowboy, Spartan, Knight) have three character types: Fighter (melee attack), Range (multi-target range attack) and Healer. The stats (damage, HP, healing points) of the characters are according to tier levels identified by colors. Players start with the teal level and as they progress in score through winning games will unlock higher tiers such as Orange, Green, Blue, Red and Black. At the top level you can unlock characters with multiple character type abilities such as a Viking capable of both melee and range attacks or an Amazon capable of range attack as well as healing. Pick your favourite class of Historic Fighters, win battles and build your score!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1692850/header.jpg?t=1679931163",
+    "Price": 4.99,
+    "Developers": "QVIK GAMEZ",
+    "Publishers": "QVIK GAMEZ",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1692850/ss_8668e469ea451359d175d57d1c3a0be84b418604.1920x1080.jpg?t=1679931163,https://cdn.akamai.steamstatic.com/steam/apps/1692850/ss_0c5fa05b5465e5a49ef89b72e4935a0b2da797c7.1920x1080.jpg?t=1679931163,https://cdn.akamai.steamstatic.com/steam/apps/1692850/ss_6c68dde3ab4c02a22fd4bd02deee253e3e4d59c6.1920x1080.jpg?t=1679931163,https://cdn.akamai.steamstatic.com/steam/apps/1692850/ss_341fef8a513525fed0b929b6d9a458c087dbc940.1920x1080.jpg?t=1679931163,https://cdn.akamai.steamstatic.com/steam/apps/1692850/ss_f22d0e8dbc4580c5c6231fb5c670d07a8bec34c3.1920x1080.jpg?t=1679931163,https://cdn.akamai.steamstatic.com/steam/apps/1692850/ss_bb61e3af6cfca3d26da55804ad3c71509bd951fe.1920x1080.jpg?t=1679931163",
+    "Slug": "historic-fighters",
+    "Meta Title": "Historic Fighters: Jul 30, 2021, QVIK GAMEZ and Full Over...",
+    "Meta Description": "Looking for information on Historic Fighters? Check out the release date (Jul 30, 2021), developer insights from QVIK GAMEZ, and a complete game summary.",
+    "Alt Text Image": "Official header image for Historic Fighters game - Steam 1692850",
+    "Canonical URL": "https://gusku.site/game/historic-fighters",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Historic Fighters\", \"description\": \"Looking for information on Historic Fighters? Check out the release date (Jul 30, 2021), developer insights from QVIK GAMEZ, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"QVIK GAMEZ\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QVIK GAMEZ\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1692850/header.jpg?t=1679931163\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

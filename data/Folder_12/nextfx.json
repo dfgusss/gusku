@@ -1,0 +1,21 @@
+{
+    "AppID": 868480,
+    "Name": "NextFX",
+    "Release date": "Jul 6, 2018",
+    "About the game": "NextFX allows users to add filters and post processing effects to enhance DirectX 11 game visuals. The tool intercepts the rendering of games and applies multiple effects specified by the user in real-time, empowering users to create customized and immersive gaming experiences. Note: It's not recommended to use NextFX with games that implement anti-cheating software. Features: Edit Effect Parameters in Real-Time Create and Save Multiple Effect Profiles per Game Add Custom User Created Effects How it Works: 1) Launch a DirectX 11 Steam game 2) Launch NextFX If the game's game's graphic API is supported, it will show up in the NextFX Window 3) Click 'Enable' 4) Press CTRL+N in the game window to show NextFX Settings 4) Press CTRL+N in the game window to refocus the game Please contact us if there are any issues with a title. contact: support@subsun.io",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/868480/header.jpg?t=1554483039",
+    "Price": 0.0,
+    "Developers": "Subsun LLC",
+    "Publishers": "Subsun LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/868480/ss_2b096a116c41c5ceb8f8ad72f8d26a0fdeff748d.1920x1080.jpg?t=1554483039,https://cdn.akamai.steamstatic.com/steam/apps/868480/ss_7a386d735e86d3e29a2cc7ea48199909eb44e523.1920x1080.jpg?t=1554483039,https://cdn.akamai.steamstatic.com/steam/apps/868480/ss_02709daa3151381fd5b1efd77773ccd64b5a32f2.1920x1080.jpg?t=1554483039,https://cdn.akamai.steamstatic.com/steam/apps/868480/ss_2e93a0d6ffc58b6cdd8dc646e9b49bf3b490e2eb.1920x1080.jpg?t=1554483039,https://cdn.akamai.steamstatic.com/steam/apps/868480/ss_121004f2098e52cf0cc52f43ae1801c74fcb8e10.1920x1080.jpg?t=1554483039",
+    "Slug": "nextfx",
+    "Meta Title": "NextFX: Jul 6, 2018, Subsun LLC and Full Overview",
+    "Meta Description": "Looking for information on NextFX? Check out the release date (Jul 6, 2018), developer insights from Subsun LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for NextFX game - Steam 868480",
+    "Canonical URL": "https://gusku.site/game/nextfx",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"NextFX\", \"description\": \"Looking for information on NextFX? Check out the release date (Jul 6, 2018), developer insights from Subsun LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 6, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Subsun LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Subsun LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/868480/header.jpg?t=1554483039\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

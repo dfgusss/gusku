@@ -1,0 +1,21 @@
+{
+    "AppID": 1370720,
+    "Name": "Starship Intruder",
+    "Release date": "Aug 4, 2020",
+    "About the game": "Control your starship by using the command line interface. You will use commands to utilize the weapons, move from sector to sector, raid planets, enter warp, draw space cards to obtain advantages (and disadvantages) and much more. As an example, you can order your starship to move to sector 3 by the following command: However, the wording is not very critical. You could also have input 'go to sector 3' or 'fly to sector 3' to yield the same result. Even just typing '3' will work. Likewise, 'fire photon torpedo' can also be obtained by 'fire photon', 'fire torpedo', 'launch photon torpedo' etc. The command line interface was inspired by classic PC games, such as Space Quest and Leisure Suit Larry. Starship Intruder was created with crude, almost black and white, graphics. This was done to emulate the look of early PC games. The sound and mucis was done with an analog synthesizer, a digital synthesizer and a drum machine. Everything is synthetic, except for the voice - which has been run through a vocoder. A list of commands can be found in the game menu. Command examples: - 'go to warp' or 'engage' etc. - 'move to sector x' or just 'x' etc. - 'fire photon torpedo' or 'launch photon' etc. - 'stop music' - 'fire decoy' - 'exit game' - 'beam down landing party' or 'send team' etc. - 'beam up landing party' or 'beam back crew' etc. - 'draw card' or 'flip card' etc.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1370720/header.jpg?t=1603572028",
+    "Price": 2.99,
+    "Developers": "Isocube Software",
+    "Publishers": "Isocube Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1370720/ss_6b29399b160f3fb233c655d8ff9aa22f401ea006.1920x1080.jpg?t=1603572028,https://cdn.akamai.steamstatic.com/steam/apps/1370720/ss_756a91d8dbb110cf91270c20c90cb6231d299509.1920x1080.jpg?t=1603572028,https://cdn.akamai.steamstatic.com/steam/apps/1370720/ss_4cdd3d8582b60c52c52d0620b02dbea1b9b128c8.1920x1080.jpg?t=1603572028,https://cdn.akamai.steamstatic.com/steam/apps/1370720/ss_ba81dc36bff14cee8efe329e08def804d0f42eb6.1920x1080.jpg?t=1603572028,https://cdn.akamai.steamstatic.com/steam/apps/1370720/ss_8dfdb0f793d1f0db5ac678c66fcd25b0158567aa.1920x1080.jpg?t=1603572028",
+    "Slug": "starship-intruder",
+    "Meta Title": "Starship Intruder: Aug 4, 2020, Isocube Software and Full...",
+    "Meta Description": "Looking for information on Starship Intruder? Check out the release date (Aug 4, 2020), developer insights from Isocube Software, and a complete game su...",
+    "Alt Text Image": "Official header image for Starship Intruder game - Steam 1370720",
+    "Canonical URL": "https://gusku.site/game/starship-intruder",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Starship Intruder\", \"description\": \"Looking for information on Starship Intruder? Check out the release date (Aug 4, 2020), developer insights from Isocube Software, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 4, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Isocube Software\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Isocube Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1370720/header.jpg?t=1603572028\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

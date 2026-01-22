@@ -1,0 +1,21 @@
+{
+    "AppID": 878300,
+    "Name": "RollTheEarth",
+    "Release date": "Jun 29, 2018",
+    "About the game": "This is Single Player Adventure game. Control the earth and get to the destination. The control System is based on Unity physics system. Therefore, Unlike other games, you have to keep in mind that the earth doesn't ignore inertia and acceleration. You will encounter various obstacles [such as lightening, water, fire, hail aurora] though, try again and again! [How to Play] Camera control : Rotate your mouse Move : W, S, A, D Jump : Space Change mouse sensitivity : ESC or F10 in game scene.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/878300/header.jpg?t=1531238132",
+    "Price": 0.99,
+    "Developers": "TYSoft",
+    "Publishers": "TYSoft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_10955b8bbdb94097c4f70685c44e65442a959855.1920x1080.jpg?t=1531238132,https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_bcc69d37c94e9bfd43c3260ccc14867980a4a6b4.1920x1080.jpg?t=1531238132,https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_c62760b5a7b29336293edc9236dbbe8fe9b2bd97.1920x1080.jpg?t=1531238132,https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_f3f259331e9d2554ab0d09074077288990516d87.1920x1080.jpg?t=1531238132,https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_333b8b2cbd52d1486ebdfe0e4883f8f020421398.1920x1080.jpg?t=1531238132,https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_e3d4c751e122ebe6fda11c3d3e2ab616af85a49d.1920x1080.jpg?t=1531238132,https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_a10a63b9c18cf56ff4b7efcf6947f7ccb1ff52b2.1920x1080.jpg?t=1531238132,https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_dfb0424ebaf935199e7a38d4abb35166f19c3078.1920x1080.jpg?t=1531238132,https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_a3e1b93e0185e3ca44ef4614ea8dc3f5abcc599d.1920x1080.jpg?t=1531238132,https://cdn.akamai.steamstatic.com/steam/apps/878300/ss_4dcabb34b5b32da3f87432cf7b04a72b62f203ae.1920x1080.jpg?t=1531238132",
+    "Slug": "rolltheearth",
+    "Meta Title": "RollTheEarth: Jun 29, 2018, TYSoft and Full Overview",
+    "Meta Description": "Looking for information on RollTheEarth? Check out the release date (Jun 29, 2018), developer insights from TYSoft, and a complete game summary.",
+    "Alt Text Image": "Official header image for RollTheEarth game - Steam 878300",
+    "Canonical URL": "https://gusku.site/game/rolltheearth",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RollTheEarth\", \"description\": \"Looking for information on RollTheEarth? Check out the release date (Jun 29, 2018), developer insights from TYSoft, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 29, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"TYSoft\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TYSoft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/878300/header.jpg?t=1531238132\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

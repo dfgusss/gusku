@@ -1,0 +1,21 @@
+{
+    "AppID": 1595760,
+    "Name": "ScreenSpace",
+    "Release date": "Apr 23, 2021",
+    "About the game": "ScreenSpace is your average casual clicker, presenting a simple challenge to test your reflexes. The objective is to click the side of the screen that the arrow points towards, before time runs out. If you click the incorrect side or let the timer expire, it's game over. Hard mode presents an even tougher challenge. Fast switching and no continues makes for a worthy test of your concentration and reflexes!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1595760/header.jpg?t=1653024424",
+    "Price": 1.99,
+    "Developers": "Wave Project",
+    "Publishers": "Wave project",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1595760/ss_f102d383c37643859ff97ce2a4d67bb16ce2c399.1920x1080.jpg?t=1653024424,https://cdn.akamai.steamstatic.com/steam/apps/1595760/ss_c5a4dbcf78158dfa42df293bb701c9db74283dfa.1920x1080.jpg?t=1653024424,https://cdn.akamai.steamstatic.com/steam/apps/1595760/ss_51ce4ed3d110f87662ff30fb431249ae397984b7.1920x1080.jpg?t=1653024424",
+    "Slug": "screenspace",
+    "Meta Title": "ScreenSpace: Apr 23, 2021, Wave Project and Full Overview",
+    "Meta Description": "Looking for information on ScreenSpace? Check out the release date (Apr 23, 2021), developer insights from Wave Project, and a complete game summary.",
+    "Alt Text Image": "Official header image for ScreenSpace game - Steam 1595760",
+    "Canonical URL": "https://gusku.site/game/screenspace",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ScreenSpace\", \"description\": \"Looking for information on ScreenSpace? Check out the release date (Apr 23, 2021), developer insights from Wave Project, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Wave Project\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Wave project\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1595760/header.jpg?t=1653024424\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

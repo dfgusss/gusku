@@ -1,0 +1,21 @@
+{
+    "AppID": 1732730,
+    "Name": "Captures II",
+    "Release date": "Sep 15, 2021",
+    "About the game": "Captures II, similar to Captures, is a chess-driven puzzle game. The objective is to capture the opponent's pieces. While the chess pieces move according to the regular rules, the board itself varies from level to level. Also certain squares on the board might have 'tile effects'. Introduced in Captures; poison, curse, portal and random effect are present in Captures II as well. Two new tile effects, shield and snow are new additions. New Feature: Trade Offer A new concept called trade offer has been implemented. The cpu can offer to add new pieces to the board or remove them. After completing the trade offer world, the player is also able to make trade offers. New Feature: Perks Completing a world(a set of eight levels) now reward the player with a perk. Perks can make your pieces stronger against tile effects, let you create trade offer or alter the board with new tile effects. For those who are looking for a challenge, try to disable all perks and win all the levels to unlock gradmaster achievements. CONTROLS -Drag &amp; drop pieces. -Click the restart button or press R key to restart the levels. RULES -All black pieces must be removed from the board to win the level. -If a stalemate occurs, the level fails. -If white loses all of their pieces the level fails. However, if white loses their last piece at the same time with the black, the level is completed. -During a speed run, reseting a level counts as a mistake. TIPS -Random tips will be shown through out the game. -CPU likes to trade pieces, take advantage of it!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1732730/header.jpg?t=1631711423",
+    "Price": 1.99,
+    "Developers": "cosmic_dust",
+    "Publishers": "cosmic_dust",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1732730/ss_8abff1ad3334cb47c38b2321fb7f1733ec134abf.1920x1080.jpg?t=1631711423,https://cdn.akamai.steamstatic.com/steam/apps/1732730/ss_b42b366e90d200d04eb0d1f885ad4237ab14c9f0.1920x1080.jpg?t=1631711423,https://cdn.akamai.steamstatic.com/steam/apps/1732730/ss_b8f12092627a2b4d534973d76ab141d4d3c1ceef.1920x1080.jpg?t=1631711423,https://cdn.akamai.steamstatic.com/steam/apps/1732730/ss_1751f88086df51d8ad7640a44065ae7b62b4cdb4.1920x1080.jpg?t=1631711423,https://cdn.akamai.steamstatic.com/steam/apps/1732730/ss_4644157da64abf839c15b1412d5f7f5673811ddf.1920x1080.jpg?t=1631711423,https://cdn.akamai.steamstatic.com/steam/apps/1732730/ss_d0709b0edc4cd762d04a28e4aebdfd11965b2d5f.1920x1080.jpg?t=1631711423",
+    "Slug": "captures-ii",
+    "Meta Title": "Captures II: Sep 15, 2021, cosmic_dust and Full Overview",
+    "Meta Description": "Looking for information on Captures II? Check out the release date (Sep 15, 2021), developer insights from cosmic_dust, and a complete game summary.",
+    "Alt Text Image": "Official header image for Captures II game - Steam 1732730",
+    "Canonical URL": "https://gusku.site/game/captures-ii",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Captures II\", \"description\": \"Looking for information on Captures II? Check out the release date (Sep 15, 2021), developer insights from cosmic_dust, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 15, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"cosmic_dust\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"cosmic_dust\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1732730/header.jpg?t=1631711423\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

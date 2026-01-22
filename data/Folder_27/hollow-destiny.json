@@ -1,0 +1,21 @@
+{
+    "AppID": 1469860,
+    "Name": "Hollow Destiny",
+    "Release date": "Nov 27, 2020",
+    "About the game": "********** Developer Note ********** This is my first finished project, and it took me a long time to see its value. Even for a simple and small game, a lot of work was put into it, and it still makes me proud. What you'll get here is a simple runner, only one button needed, quite good to form theories and speculations about its setting and to glimpse at my mental state at the time. Hope you enjoy =) *************************************** You are lost in a place between the living and the dead. A stranger informs you about your lack of destiny, guiding you to a way out. Collect your memories so you can escape this dark realm. - Use the keyboard keys ( Z , Space , Up ) to jump over the platforms and collect memory fragments; - Use the mouse or arrow keys to navigate the game menu, confirming with a click or pressing Z ; - Press Esc to return to te previous menu or to exit the game; - Collect enough souls to create memory glimpses and discover your forgotten past; - Don't give up. You cannot be killed permanently in this world, you can only move forward until you escape;",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1469860/header.jpg?t=1611892405",
+    "Price": 1.99,
+    "Developers": "Jacques Azevedo",
+    "Publishers": "Jacques Azevedo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1469860/ss_14447eb3d6e8dee8d97c8e61b379b1861d667971.1920x1080.jpg?t=1611892405,https://cdn.akamai.steamstatic.com/steam/apps/1469860/ss_0853a10ec568b71f7cca4e2205088780f8bf7700.1920x1080.jpg?t=1611892405,https://cdn.akamai.steamstatic.com/steam/apps/1469860/ss_71bb233bc375da1fae01eee5f36623f6e9ea0d0d.1920x1080.jpg?t=1611892405,https://cdn.akamai.steamstatic.com/steam/apps/1469860/ss_ee68f1ca1f22ffd84564445aa4af8a97253911aa.1920x1080.jpg?t=1611892405,https://cdn.akamai.steamstatic.com/steam/apps/1469860/ss_ff561a3aff1b2b876977855328a00e54bb463660.1920x1080.jpg?t=1611892405",
+    "Slug": "hollow-destiny",
+    "Meta Title": "Hollow Destiny: Nov 27, 2020, Jacques Azevedo and Full Ov...",
+    "Meta Description": "Looking for information on Hollow Destiny? Check out the release date (Nov 27, 2020), developer insights from Jacques Azevedo, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hollow Destiny game - Steam 1469860",
+    "Canonical URL": "https://gusku.site/game/hollow-destiny",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hollow Destiny\", \"description\": \"Looking for information on Hollow Destiny? Check out the release date (Nov 27, 2020), developer insights from Jacques Azevedo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 27, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jacques Azevedo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jacques Azevedo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1469860/header.jpg?t=1611892405\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

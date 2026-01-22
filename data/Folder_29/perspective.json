@@ -1,0 +1,21 @@
+{
+    "AppID": 1614680,
+    "Name": "Perspective",
+    "Release date": "May 21, 2021",
+    "About the game": "A unique 3D puzzle game where two players are stuck in a maze and have different perspectives on the obstacles ahead. Players 1's maze is different from players 2's. The player's aim is to collect coins and progress to the next level, in order to get the coins the players will have to navigate the maze and use the obstacles and features to access certain areas to get the coins. In the maze are switches, one-way doors, enemies, gadgets, crates and other features. Each player sees the maze differently, However, the coins and enemies will be the same across the player's perspectives. The players must work together to navigate through the maze to get to the next level. The portal for the next level unlocks when they have collected all the coins in the scene. The game has simple controls that consist of w,a,s,d to move and space to switch player.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1614680/header.jpg?t=1630678069",
+    "Price": 0.0,
+    "Developers": "Dean Jackson",
+    "Publishers": "Dean Jackson",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1614680/ss_028a4d04aa52b15ae0c33f91f3d5c9f176368e94.1920x1080.jpg?t=1630678069,https://cdn.akamai.steamstatic.com/steam/apps/1614680/ss_80938a483bbebc30caa916afb1a1b3b5cd79daee.1920x1080.jpg?t=1630678069,https://cdn.akamai.steamstatic.com/steam/apps/1614680/ss_af0a924d3ca9c23a726c4b26bf54b252c4a335ae.1920x1080.jpg?t=1630678069,https://cdn.akamai.steamstatic.com/steam/apps/1614680/ss_83e10a68fac9a59b71dad03d6dbb625df06b043f.1920x1080.jpg?t=1630678069,https://cdn.akamai.steamstatic.com/steam/apps/1614680/ss_decbf8289992415839d6e915193f3f8a7101a133.1920x1080.jpg?t=1630678069",
+    "Slug": "perspective",
+    "Meta Title": "Perspective: May 21, 2021, Dean Jackson and Full Overview",
+    "Meta Description": "Looking for information on Perspective? Check out the release date (May 21, 2021), developer insights from Dean Jackson, and a complete game summary.",
+    "Alt Text Image": "Official header image for Perspective game - Steam 1614680",
+    "Canonical URL": "https://gusku.site/game/perspective",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Perspective\", \"description\": \"Looking for information on Perspective? Check out the release date (May 21, 2021), developer insights from Dean Jackson, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 21, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dean Jackson\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dean Jackson\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1614680/header.jpg?t=1630678069\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

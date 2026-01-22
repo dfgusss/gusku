@@ -1,0 +1,21 @@
+{
+    "AppID": 2227420,
+    "Name": "Stream Counter",
+    "Release date": "Dec 12, 2022",
+    "About the game": "Work in Progress Stream Counter allows keeping track of in-game deaths or other counted related things. There will be more updates coming to the program and features are planned for release. If you have any ideas for the program, please feel free to share! Easy to Use This application has been made easy to use. The counter can be increased or decreased within an application when not in focus. (CLICK ANYWHERE IN THE APPLICATION TO BRING UP SETTINGS)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2227420/header.jpg?t=1670860518",
+    "Price": 1.49,
+    "Developers": "KappCan",
+    "Publishers": "KappCan",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2227420/ss_c42ba0d6b006f2916096497c778092caad76d3f4.1920x1080.jpg?t=1670860518,https://cdn.akamai.steamstatic.com/steam/apps/2227420/ss_bf0948cf44cd4d6da203594b61fc9156e8f43d10.1920x1080.jpg?t=1670860518,https://cdn.akamai.steamstatic.com/steam/apps/2227420/ss_ffa6a24adfe060af08af68324a6a6e512dd0346c.1920x1080.jpg?t=1670860518,https://cdn.akamai.steamstatic.com/steam/apps/2227420/ss_370f52efee65c176da67e4464fd6c524d13ab541.1920x1080.jpg?t=1670860518,https://cdn.akamai.steamstatic.com/steam/apps/2227420/ss_51f74b7b527fd055dc45738cbbf53c056baf2ad8.1920x1080.jpg?t=1670860518",
+    "Slug": "stream-counter",
+    "Meta Title": "Stream Counter: Dec 12, 2022, KappCan and Full Overview",
+    "Meta Description": "Looking for information on Stream Counter? Check out the release date (Dec 12, 2022), developer insights from KappCan, and a complete game summary.",
+    "Alt Text Image": "Official header image for Stream Counter game - Steam 2227420",
+    "Canonical URL": "https://gusku.site/game/stream-counter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Stream Counter\", \"description\": \"Looking for information on Stream Counter? Check out the release date (Dec 12, 2022), developer insights from KappCan, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"KappCan\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"KappCan\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2227420/header.jpg?t=1670860518\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

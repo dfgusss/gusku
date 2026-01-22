@@ -1,0 +1,21 @@
+{
+    "AppID": 674180,
+    "Name": "AliveInVR",
+    "Release date": "Dec 6, 2017",
+    "About the game": "Control Ableton Live from VR Ever wanted to use a giant Push or Launchpad from within VR? AliveInVR controls Ableton Live allowing you to trigger clips, play instruments and mix with a giant 3D Controllerist interface in VR. Arrange triggers in 3D around yourself and save and load multiple layouts so you can build your own interface! Features Perform your favourite Live sessions and lose yourself in the music from VR. SocialVR support - invite friends to collaborate or spectate on your music. Full voice chat support with high quality audio networking for music. Spatial Mixing - create a binaural mix based on block positions. Session mode - clip triggering, clip colors, clip names and track names (reflected from your Ableton Session). Note mode - play drum racks or instruments. Step mode - control drum racks as a step sequencer Mixer mode - control track levels, send and return. Stream video of your performance to the desktop with in-game camera for screen recording and sharing online. Choose daytime, sunset or night environments. Choose indoor and outdoor scenes. Visual FX triggered from playback, clips pulsate in sync with the music. Re-Arrange triggers around yourself in 3D. Save and restore multiple layouts. Choose from 12 Avatars. ASIO driver - ASIO driver included to route audio direct into VR and to output audio at low latencies. Waveforms are displayed in VR. IMPORTANT: This product requires Ableton Live V9.7 or later to function. It does not generate audio/music on its own but controls Ableton via MIDI.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/674180/header.jpg?t=1570637298",
+    "Price": 13.29,
+    "Developers": "AliveIn Tech Ltd.",
+    "Publishers": "AliveIn Tech Ltd.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/674180/ss_6d852268fd9295561ca6bba986129ac0737ec409.1920x1080.jpg?t=1570637298,https://cdn.akamai.steamstatic.com/steam/apps/674180/ss_b4ef3700b4cb8a1c79c22bf8cb5ddca3e59e692c.1920x1080.jpg?t=1570637298,https://cdn.akamai.steamstatic.com/steam/apps/674180/ss_45a7c14661c7dd8d32395c037a206a98611fd874.1920x1080.jpg?t=1570637298,https://cdn.akamai.steamstatic.com/steam/apps/674180/ss_4237933af617146d285cc17a6ab24955c5fdf29b.1920x1080.jpg?t=1570637298,https://cdn.akamai.steamstatic.com/steam/apps/674180/ss_52b1453078afafa792d75a2448d1fd079655e7ed.1920x1080.jpg?t=1570637298,https://cdn.akamai.steamstatic.com/steam/apps/674180/ss_55a84bdb6bf3c720fa5f4f8af9d894d787208d87.1920x1080.jpg?t=1570637298,https://cdn.akamai.steamstatic.com/steam/apps/674180/ss_abddc6aadfa6de0bd115407d6893e1de6a77de4a.1920x1080.jpg?t=1570637298",
+    "Slug": "aliveinvr",
+    "Meta Title": "AliveInVR: Dec 6, 2017, AliveIn Tech Ltd. and Full Overview",
+    "Meta Description": "Looking for information on AliveInVR? Check out the release date (Dec 6, 2017), developer insights from AliveIn Tech Ltd., and a complete game summary.",
+    "Alt Text Image": "Official header image for AliveInVR game - Steam 674180",
+    "Canonical URL": "https://gusku.site/game/aliveinvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"AliveInVR\", \"description\": \"Looking for information on AliveInVR? Check out the release date (Dec 6, 2017), developer insights from AliveIn Tech Ltd., and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 6, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"AliveIn Tech Ltd.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"AliveIn Tech Ltd.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/674180/header.jpg?t=1570637298\", \"offers\": {\"@type\": \"Offer\", \"price\": 13.29, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

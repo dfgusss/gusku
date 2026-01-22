@@ -1,0 +1,21 @@
+{
+    "AppID": 1126120,
+    "Name": "BOSS AI",
+    "Release date": "Apr 20, 2020",
+    "About the game": "BOSS empowers companies in a range of industries to easily build production-ready AI solutions for maximum data science productivity. About this software: BOSS AI is an Enterprise AI/ML development platform that allows organizations in a range of industries to put their data to work — no matter where it resides, with the only commercially available Federated Machine Learning platform on the market today. Collect data at the edge, uncover insights in your data, analyze ML model training, and make better decisions with predictive analytics. Product Features: · Unity-based desktop application facilitates the preparation, analysis, and management of all ML data and models. · Low to no-code ML development simplifies predictive analytics with graphical point-and-click capabilities. · Federated ML development enables secure privacy-preserving ML training by deploying training to data sources, relaxing the need to collect data at a central point. · Autoscaling distributed ML training enables easy development for large-scale datasets. · Seamlessly integrated ML explainability helps in model debugging, revealing model risk, and increasing trust with application stakeholders. · Integrated Jupiter Notebooks enable the development and management experiment and production code in one place. · Granular level security controls (including data cell-level security) help support compliance with industry regulatory standards. · Support for leading open-source ML Libraries (e.g., TensorFlow, PyTorch) enables users to choose “the right tool for the right job.” For more information contact us at",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1126120/header.jpg?t=1653421330",
+    "Price": 0.0,
+    "Developers": "BOSS AI",
+    "Publishers": "BOSS AI",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1126120/ss_842caa51f6f83752b019061815c1a1c16adf0c0e.1920x1080.jpg?t=1653421330,https://cdn.akamai.steamstatic.com/steam/apps/1126120/ss_6a555b43e8caa02f7a7e4f31309510b8d308316a.1920x1080.jpg?t=1653421330,https://cdn.akamai.steamstatic.com/steam/apps/1126120/ss_eb6ad6d5e85140bbe2c23d2994b69eb129178a51.1920x1080.jpg?t=1653421330,https://cdn.akamai.steamstatic.com/steam/apps/1126120/ss_6c53afecc234b7d8c05069d223ae9ecb498ae55d.1920x1080.jpg?t=1653421330,https://cdn.akamai.steamstatic.com/steam/apps/1126120/ss_8902b03b72fc72759904c54df7f1891511cd1af0.1920x1080.jpg?t=1653421330",
+    "Slug": "boss-ai",
+    "Meta Title": "BOSS AI: Apr 20, 2020, BOSS AI and Full Overview",
+    "Meta Description": "Looking for information on BOSS AI? Check out the release date (Apr 20, 2020), developer insights from BOSS AI, and a complete game summary.",
+    "Alt Text Image": "Official header image for BOSS AI game - Steam 1126120",
+    "Canonical URL": "https://gusku.site/game/boss-ai",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BOSS AI\", \"description\": \"Looking for information on BOSS AI? Check out the release date (Apr 20, 2020), developer insights from BOSS AI, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 20, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"BOSS AI\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"BOSS AI\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1126120/header.jpg?t=1653421330\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

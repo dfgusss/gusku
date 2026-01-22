@@ -1,0 +1,21 @@
+{
+    "AppID": 1681380,
+    "Name": "Haos",
+    "Release date": "Sep 23, 2021",
+    "About the game": "What is Haos? A chaotic fast-paced top down shooter in a procedural generated arena with a unique neon style! Enter the 'haos', kill enemies, collect fragments, upgrade your character, dive into a more challenging depth for more drops, repeat endlessly. Arenas are 100% procedural generated making every run unique and random. When killing enemies there is a chance to get a completely random power up making even more unique and random. Every run takes around 2 minutes so this game is perfect even if you don't have much time to spend for a game session. What is the goal? The goal is to achieve the highest haos (arena) depth you can. Higher depths are more challenging because enemies have more, how can u survive and succeed? Killing enemies will give you XP to level up your character so you have more health and deal more damage. Killing enemies will also drop fragments that at the end of each run you can spend to upgrade your weapon stats. How to play Enter The Haos, kill enemies until the top progress bar goes to 100%, upgrade your character, dive into a more challenging depth. Keybinds: WASD - Move Left Mouse Button - Fire R - Return to the Main Menu Key Features 100% Procedural generated arena - Every run is unique. 10+ Randomly activated timed power glitches (power-ups) - Activation chance is completely random. 100+ hours of endless satisfying chaos. Power Glitches PROJECTILE_PASS: projectiles pass through enemies PROJECTILE_BOUNCE: projectiles bounce of the walls DOUBLE_PROJECTILE_FIRE_RATE: double fire rate DOUBLE_PROJECTILE_RANGE: double projectile range DOUBLE_PROJECTILE_SPEED: double projectile speed PLAYER_MULTISHOT: multishot PLAYER_FIRE_BEHIND: shoot from behind PLAYER_FIRE_SIDES: shoot from both sides PLAYER_NO_SLOW: player doesn't slow down while shooting ENEMY_SHOCKWAVE: enemies do shockwave explosion when die Planned to come Much more different types of power ups! Much more different types of enemies for more chaos! FAQ Q: Why 'Haos'? A: 'Haos' in Greek means 'chaos'. Q: How does the power-up activation chance works? A: 0.5 ^ active_powerups_count * 100",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1681380/header.jpg?t=1633091364",
+    "Price": 1.99,
+    "Developers": "PanTrakX",
+    "Publishers": "PanTrakX",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1681380/ss_4621ea9e3a4021cf14f75f6a302b4a6a9ff5d5c1.1920x1080.jpg?t=1633091364,https://cdn.akamai.steamstatic.com/steam/apps/1681380/ss_756c665c9e3b1d293ee2d6c8e7651b56d3b25cf4.1920x1080.jpg?t=1633091364,https://cdn.akamai.steamstatic.com/steam/apps/1681380/ss_59d3027c9c6a57ac67b3f18071812c30f3113785.1920x1080.jpg?t=1633091364,https://cdn.akamai.steamstatic.com/steam/apps/1681380/ss_de1bd75beda84360dcb4240041bab6f666e1d117.1920x1080.jpg?t=1633091364,https://cdn.akamai.steamstatic.com/steam/apps/1681380/ss_dda43d02554e430485ecb5d350fad5b6bf588ed2.1920x1080.jpg?t=1633091364",
+    "Slug": "haos",
+    "Meta Title": "Haos: Sep 23, 2021, PanTrakX and Full Overview",
+    "Meta Description": "Looking for information on Haos? Check out the release date (Sep 23, 2021), developer insights from PanTrakX, and a complete game summary.",
+    "Alt Text Image": "Official header image for Haos game - Steam 1681380",
+    "Canonical URL": "https://gusku.site/game/haos",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Haos\", \"description\": \"Looking for information on Haos? Check out the release date (Sep 23, 2021), developer insights from PanTrakX, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"PanTrakX\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PanTrakX\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1681380/header.jpg?t=1633091364\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

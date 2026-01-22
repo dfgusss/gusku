@@ -1,0 +1,21 @@
+{
+    "AppID": 1875800,
+    "Name": "Cubytet",
+    "Release date": "Feb 21, 2022",
+    "About the game": "Cubytet is a 3D puzzle game in which you need to place pieces of different shapes on the playing field in order to score as many points as possible. This game is based on the world's most famous 2D puzzle game and is its 3D analog with some additional game mechanics! The player can freely rotate the camera around the playing field and view it from different angles. The game has 2 difficulty levels and 12 different pieces. When the horizontal panel is completely filled with cubes, this panel will be removed from the playing field, and the player will be awarded points. The player receives points for the following actions: 5 points - placing a piece on the playing field; 100 points - filling one panel with cubes; 400 points - filling two panels with cubes at the same time; 900 points - filling three panels with cubes at the same time; 1600 points - filling four panels with cubes at the same time. The speed of the game will increase over time and decrease when the panels are removed. The game has a leaderboard that will allow players to find out their current rank among all players in the world, as well as compete for first place. Unique game mechanics The constructor: This mechanic allows the player to add and remove additional cubes to the next piece. This makes the gameplay more interesting and diverse, and also helps the player to get out of a difficult situation. The cut: This mechanic allows the player to make the cubes translucent to look inside the playing field. In addition, those areas of the playing field that are currently completely inaccessible will be highlighted in yellow. This simplifies orientation on the playing field and helps the player to make a decision faster.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1875800/header.jpg?t=1655817076",
+    "Price": 3.99,
+    "Developers": "AP2 Games",
+    "Publishers": "AP2 Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1875800/ss_747fff1b92a9bc23f08906201fc8b62e732e654b.1920x1080.jpg?t=1655817076,https://cdn.akamai.steamstatic.com/steam/apps/1875800/ss_2fc6dcc52c5456f69242fc13dfe73d222e0dddc8.1920x1080.jpg?t=1655817076,https://cdn.akamai.steamstatic.com/steam/apps/1875800/ss_95a21a8ed597494945f2ba70f50059f5fa1ccca7.1920x1080.jpg?t=1655817076,https://cdn.akamai.steamstatic.com/steam/apps/1875800/ss_2718a08e6042113679fb07f5d4c2ef6a3da8a237.1920x1080.jpg?t=1655817076,https://cdn.akamai.steamstatic.com/steam/apps/1875800/ss_20d90fbd4db84c9d03d66b9c69932de80c458d7f.1920x1080.jpg?t=1655817076,https://cdn.akamai.steamstatic.com/steam/apps/1875800/ss_341af0f328b38af8d3379d83a1741b132ed86714.1920x1080.jpg?t=1655817076,https://cdn.akamai.steamstatic.com/steam/apps/1875800/ss_6ab811d7c62e57a76f7c2d3195613b1bfd2cc5ab.1920x1080.jpg?t=1655817076",
+    "Slug": "cubytet",
+    "Meta Title": "Cubytet: Feb 21, 2022, AP2 Games and Full Overview",
+    "Meta Description": "Looking for information on Cubytet? Check out the release date (Feb 21, 2022), developer insights from AP2 Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cubytet game - Steam 1875800",
+    "Canonical URL": "https://gusku.site/game/cubytet",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cubytet\", \"description\": \"Looking for information on Cubytet? Check out the release date (Feb 21, 2022), developer insights from AP2 Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"AP2 Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"AP2 Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1875800/header.jpg?t=1655817076\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

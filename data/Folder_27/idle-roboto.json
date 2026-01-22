@@ -1,0 +1,21 @@
+{
+    "AppID": 1591140,
+    "Name": "Idle Roboto",
+    "Release date": "Jun 19, 2021",
+    "About the game": "In Idle Roboto, run your cute robots in the levels you design to try and get as much scrap metal as possible! Unlock more blocks with different purposes! New robots with different reactions to them! As an incremental game with a build-your-own-level system, your goal will be to puzzle out the best, most efficient way to gain scrap metal over time. You can also have fun and throw your little robots in a pit of destruction, but I don't want to know about it :) Controls : click : add tile right-click on tile : deletes tile right-click on a robot : deletes robot Mouse wheel up : one block left Mouse wheel down : one block right CTRL + X : clear m : toggle music l : toggle sound effects f : go fast CTRL+S : save CTRL +L : load CTRL + 1, 2, 3 to load 1 2 3 SHIFT + 1, 2, 3 to save 1 2 3",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1591140/header.jpg?t=1624090146",
+    "Price": 2.99,
+    "Developers": "Dewin",
+    "Publishers": "Dewin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1591140/ss_d68345e2f5cd9c7902e5c973f5dc3c409d551c5c.1920x1080.jpg?t=1624090146,https://cdn.akamai.steamstatic.com/steam/apps/1591140/ss_1fef004c6c1f27fbaa937a99a75bb5b0fb74e424.1920x1080.jpg?t=1624090146,https://cdn.akamai.steamstatic.com/steam/apps/1591140/ss_1a73f49aa103d2914ea5d2de04f9ac1004d77950.1920x1080.jpg?t=1624090146,https://cdn.akamai.steamstatic.com/steam/apps/1591140/ss_85e79d0e4c5e80b1718e439eaee06a66d677841c.1920x1080.jpg?t=1624090146,https://cdn.akamai.steamstatic.com/steam/apps/1591140/ss_61c641fac40d4b2493db0e9c7f2a26d65b01eb26.1920x1080.jpg?t=1624090146",
+    "Slug": "idle-roboto",
+    "Meta Title": "Idle Roboto: Jun 19, 2021, Dewin and Full Overview",
+    "Meta Description": "Looking for information on Idle Roboto? Check out the release date (Jun 19, 2021), developer insights from Dewin, and a complete game summary.",
+    "Alt Text Image": "Official header image for Idle Roboto game - Steam 1591140",
+    "Canonical URL": "https://gusku.site/game/idle-roboto",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Idle Roboto\", \"description\": \"Looking for information on Idle Roboto? Check out the release date (Jun 19, 2021), developer insights from Dewin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dewin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dewin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1591140/header.jpg?t=1624090146\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1210830,
+    "Name": "labyrinth",
+    "Release date": "Jan 9, 2020",
+    "About the game": "A relaxing labyrinth game. You need to lead the player (bright square) through a set of fifty mazes to the finish line (transparent square). As you progress through the complexity of the labyrinths will increase. 50 levels, divided by complexity into boards containing from 5x5 to 9x9 cells 100 achievements control with arrow keys original relaxing soundtrack",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1210830/header.jpg?t=1594569172",
+    "Price": 0.99,
+    "Developers": "SAARSE",
+    "Publishers": "SAARSE",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1210830/ss_b4d47c818439da145f12b7f61fd55eb8feeddebc.1920x1080.jpg?t=1594569172,https://cdn.akamai.steamstatic.com/steam/apps/1210830/ss_98f3b9773819cf35178cfb1ac24233926985f728.1920x1080.jpg?t=1594569172,https://cdn.akamai.steamstatic.com/steam/apps/1210830/ss_3c6447ca52c24cf26bd8e616bc9135bcc9a8e9a0.1920x1080.jpg?t=1594569172,https://cdn.akamai.steamstatic.com/steam/apps/1210830/ss_b346b68166c8e00aaf02f5178df1bca8760ec81f.1920x1080.jpg?t=1594569172,https://cdn.akamai.steamstatic.com/steam/apps/1210830/ss_98151e4887acc4738cb942055bd7b0a0cc47eeec.1920x1080.jpg?t=1594569172",
+    "Slug": "labyrinth",
+    "Meta Title": "labyrinth: Jan 9, 2020, SAARSE and Full Overview",
+    "Meta Description": "Looking for information on labyrinth? Check out the release date (Jan 9, 2020), developer insights from SAARSE, and a complete game summary.",
+    "Alt Text Image": "Official header image for labyrinth game - Steam 1210830",
+    "Canonical URL": "https://gusku.site/game/labyrinth",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"labyrinth\", \"description\": \"Looking for information on labyrinth? Check out the release date (Jan 9, 2020), developer insights from SAARSE, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 9, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"SAARSE\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SAARSE\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1210830/header.jpg?t=1594569172\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1779500,
+    "Name": "AllBlocksWantToBeStacked",
+    "Release date": "Oct 19, 2021",
+    "About the game": "This is a simple game in which the objective is to artfully stack seven different types of blocks that fall according to gravity. During the game, a countdown is given, and each time the count reaches zero, a block falls one by one. You can move the blocks to the left or right, or rotate them. However, once the blocks start falling, you will not be able to manipulate them. The game is successful when all the blocks are piled up on the floor. If even one block falls down from the floor, it is a failure. It is more artistic to stack the blocks diagonally. Reflexes are not required for this game. Instead, it requires calm judgment and good sense.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1779500/header.jpg?t=1634626909",
+    "Price": 0.99,
+    "Developers": "Worker-TK",
+    "Publishers": "Worker-TK",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1779500/ss_e96ab88f450cadaa05e7aef97f9c00ce4536f803.1920x1080.jpg?t=1634626909,https://cdn.akamai.steamstatic.com/steam/apps/1779500/ss_b65ae6e1999c4f7305355baa966056a5db09ba72.1920x1080.jpg?t=1634626909,https://cdn.akamai.steamstatic.com/steam/apps/1779500/ss_742fff63c42a156cc35ca6246d14d751d343ced7.1920x1080.jpg?t=1634626909,https://cdn.akamai.steamstatic.com/steam/apps/1779500/ss_df07faacfb0b62d3737f29d5adefddce847e6aaa.1920x1080.jpg?t=1634626909,https://cdn.akamai.steamstatic.com/steam/apps/1779500/ss_df91ef4e437d2c1c0d71722a79d9040c81b18584.1920x1080.jpg?t=1634626909",
+    "Slug": "allblockswanttobestacked",
+    "Meta Title": "AllBlocksWantToBeStacked: Oct 19, 2021, Worker-TK and Ful...",
+    "Meta Description": "Looking for information on AllBlocksWantToBeStacked? Check out the release date (Oct 19, 2021), developer insights from Worker-TK, and a complete game s...",
+    "Alt Text Image": "Official header image for AllBlocksWantToBeStacked game - Steam 1779500",
+    "Canonical URL": "https://gusku.site/game/allblockswanttobestacked",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"AllBlocksWantToBeStacked\", \"description\": \"Looking for information on AllBlocksWantToBeStacked? Check out the release date (Oct 19, 2021), developer insights from Worker-TK, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Worker-TK\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Worker-TK\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1779500/header.jpg?t=1634626909\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

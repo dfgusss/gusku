@@ -1,0 +1,21 @@
+{
+    "AppID": 1109740,
+    "Name": "Kakuro",
+    "Release date": "Jul 29, 2019",
+    "About the game": "Kakuro is an outstanding puzzle game for strengthening the brain The point of the game is to enter numbers from 1 to 9 into the cells without any repetitions or omissions. The game has 300 levels of increasing difficulty",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1109740/header.jpg?t=1617272590",
+    "Price": 0.49,
+    "Developers": "screwyman",
+    "Publishers": "screwyman",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1109740/ss_b81e727dab82ce2eb84acef6f3103139635e44d2.1920x1080.jpg?t=1617272590,https://cdn.akamai.steamstatic.com/steam/apps/1109740/ss_279104ab5e2480df96c07cccff94b2f9860e0089.1920x1080.jpg?t=1617272590,https://cdn.akamai.steamstatic.com/steam/apps/1109740/ss_6b20cc041273c319ed288170a589e0cbd18d4cfc.1920x1080.jpg?t=1617272590,https://cdn.akamai.steamstatic.com/steam/apps/1109740/ss_31be1898dcdfcfa0c33befb838298bdcaee63908.1920x1080.jpg?t=1617272590,https://cdn.akamai.steamstatic.com/steam/apps/1109740/ss_3984d57024451ca9b532788c717e18ebd8575ff3.1920x1080.jpg?t=1617272590",
+    "Slug": "kakuro",
+    "Meta Title": "Kakuro: Jul 29, 2019, screwyman and Full Overview",
+    "Meta Description": "Looking for information on Kakuro? Check out the release date (Jul 29, 2019), developer insights from screwyman, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kakuro game - Steam 1109740",
+    "Canonical URL": "https://gusku.site/game/kakuro",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kakuro\", \"description\": \"Looking for information on Kakuro? Check out the release date (Jul 29, 2019), developer insights from screwyman, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 29, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"screwyman\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"screwyman\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1109740/header.jpg?t=1617272590\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

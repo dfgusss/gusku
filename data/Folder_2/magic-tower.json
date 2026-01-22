@@ -1,0 +1,21 @@
+{
+    "AppID": 727460,
+    "Name": "Magic Tower",
+    "Release date": "Dec 31, 2017",
+    "About the game": "GamePlay: The game consists of two parts and a combination of defense and escape. 'Exterminate all the monsters' VS 'Help the monster to escape'. The whole process consists of 32 rounds, each round 'defense' and 'escape' play, two play through to the next round. (Because many players do not like to be forced to become monsters, the current version is the default choice to skip the escape mode.) You don't have to destroy all the creatures in the 'Tower Defense'. After each round of play, Hp will be auto reset. You don't have to save all of the same kind in the 'escape' game, and of course it will lose some 'energy'. Each kind of turret has its own unique effect, through the collocation of various turrets to get the best defense. Each kind of monster has its own unique attributes, using the properties of the turret to combat monsters. The core of the game is 'energy absorption'. (similar to 'thieves', 'plunder'). That is, the attack of the defense tower will draw energy from the monster, and accumulating energy can build more defense towers. (it's hard to defend if you have not enough energy.) Features: You don't want this games is so hard? Cheat code is 'greedisgood'. (open the console by press the 'Enter' key in the game) You only want to play 'defense' part? The author's channel help you skipped the 'escape' part directly. Automatic archiving after failure, reset the current round, relayout. Operation Description: God's angle of view ___WASD mobile perspective; the mouse roll adjustment height; click land to build tower; click the tower to view the property or upgrade. The monster visual angle ___WASD walks; the mouse controls the direction; 'shift' key control accelerates; E, R, F key use skills. Esc key to call setup interface, small keyboard '+' and '-' signal to adjust the speed of the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/727460/header.jpg?t=1517368180",
+    "Price": 0.99,
+    "Developers": "夕",
+    "Publishers": "夕",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/727460/ss_4bb22cc4a2b770de2d02cae06ec0998fe139b05e.1920x1080.jpg?t=1517368180,https://cdn.akamai.steamstatic.com/steam/apps/727460/ss_2238ee0ed7400e26640a68b6bcaeae870bb648d5.1920x1080.jpg?t=1517368180,https://cdn.akamai.steamstatic.com/steam/apps/727460/ss_1eb90b0bc9bbcd60c442a290edd5e4a0b8fd5525.1920x1080.jpg?t=1517368180,https://cdn.akamai.steamstatic.com/steam/apps/727460/ss_459a517caffcb592f9f07b935e047e465c4fac48.1920x1080.jpg?t=1517368180,https://cdn.akamai.steamstatic.com/steam/apps/727460/ss_67a857b22aee2c2068a750aae22e93a01041ce24.1920x1080.jpg?t=1517368180",
+    "Slug": "magic-tower",
+    "Meta Title": "Magic Tower: Dec 31, 2017, 夕 and Full Overview",
+    "Meta Description": "Looking for information on Magic Tower? Check out the release date (Dec 31, 2017), developer insights from 夕, and a complete game summary.",
+    "Alt Text Image": "Official header image for Magic Tower game - Steam 727460",
+    "Canonical URL": "https://gusku.site/game/magic-tower",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Magic Tower\", \"description\": \"Looking for information on Magic Tower? Check out the release date (Dec 31, 2017), developer insights from \\u5915, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 31, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u5915\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u5915\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/727460/header.jpg?t=1517368180\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

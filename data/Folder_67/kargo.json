@@ -1,0 +1,21 @@
+{
+    "AppID": 1837400,
+    "Name": "Kargo",
+    "Release date": "Dec 8, 2022",
+    "About the game": "Kargo is a 2D cave-flyer with a focus on puzzle elements. Your goal is to deliver cargo containers to their designated targets. Navigate your spaceship through challenging levels with Asteroids-like controls. Gates, cannons and other level elements are color-coded and activate when the corresponding cargo item is present. Figure out the right order in which to... Collect containers to open gates Avoid bullets and other obstacles And above all: Deliver your cargo Kargo is heavily inspired by classics such as Crazy Gravity and similar cave-flyers. However, its unique combination of puzzle solving, precision flying and shooting cargo, along with modern controller support, provides a fresh experience into the genre. The game was designed for small screen sizes and controllers, so it's best played on the Steam Deck (or similar handheld consoles).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1837400/header.jpg?t=1670515373",
+    "Price": 3.99,
+    "Developers": "LiberaByte",
+    "Publishers": "LiberaByte",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1837400/ss_e3ecca8717337510c50de37fdc47c4af31d13910.1920x1080.jpg?t=1670515373,https://cdn.akamai.steamstatic.com/steam/apps/1837400/ss_e25f84e4e1ea6d1e63edede589125aee85c77066.1920x1080.jpg?t=1670515373,https://cdn.akamai.steamstatic.com/steam/apps/1837400/ss_54fe91a8fc16e868766a215c221e2668fa2a296a.1920x1080.jpg?t=1670515373,https://cdn.akamai.steamstatic.com/steam/apps/1837400/ss_59ae1d7e4ae0812253d2855e8a55e2bbfa5d9c73.1920x1080.jpg?t=1670515373,https://cdn.akamai.steamstatic.com/steam/apps/1837400/ss_717cf80acb0513a13620a861527fda3156cdea20.1920x1080.jpg?t=1670515373,https://cdn.akamai.steamstatic.com/steam/apps/1837400/ss_2dda51f9a5ad329482c0737bceff7911013379f1.1920x1080.jpg?t=1670515373",
+    "Slug": "kargo",
+    "Meta Title": "Kargo: Dec 8, 2022, LiberaByte and Full Overview",
+    "Meta Description": "Looking for information on Kargo? Check out the release date (Dec 8, 2022), developer insights from LiberaByte, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kargo game - Steam 1837400",
+    "Canonical URL": "https://gusku.site/game/kargo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kargo\", \"description\": \"Looking for information on Kargo? Check out the release date (Dec 8, 2022), developer insights from LiberaByte, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 8, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"LiberaByte\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LiberaByte\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1837400/header.jpg?t=1670515373\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

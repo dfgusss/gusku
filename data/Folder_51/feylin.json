@@ -1,0 +1,21 @@
+{
+    "AppID": 1314540,
+    "Name": "Feylin",
+    "Release date": "May 22, 2020",
+    "About the game": "Feylin - this is a pixel slasher, where you play as a small knight who needs to fend off endless waves of various enemies. Your main task is to destroy as many enemies as possible, for each hit with a sword on the enemy you are awarded a point, also at the start the knight has only 4 health points, for each hit of the enemy on the knight you lose one point, as soon as they end - you lose . The complexity of the game is in a variety of enemies, some will go for a break, while others will attack you from a distance. For each enemy, you need to take certain tactics and not let yourself be cornered. Healing bottles drop out randomly, which will replenish one health point and slightly help you in the battle. Can you beat them all? Features  A variety of enemies with special behavior  Nice pixel art  Pleasant music  The active influence of physics",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1314540/header.jpg?t=1590177442",
+    "Price": 0.99,
+    "Developers": "Angelo Borou",
+    "Publishers": "Angelo Borou",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1314540/ss_06fb2daf78a3f87d30f387a3b792928782cd16cb.1920x1080.jpg?t=1590177442,https://cdn.akamai.steamstatic.com/steam/apps/1314540/ss_0051972bc3d7c1964e83c89b7261aaec15924a9f.1920x1080.jpg?t=1590177442,https://cdn.akamai.steamstatic.com/steam/apps/1314540/ss_c4baea4d5cd1bbf3cd59b10cd413ca0f7d0ab943.1920x1080.jpg?t=1590177442,https://cdn.akamai.steamstatic.com/steam/apps/1314540/ss_c543f3653dfde420728ce107e888edae05aecd23.1920x1080.jpg?t=1590177442,https://cdn.akamai.steamstatic.com/steam/apps/1314540/ss_b96c3b9d7f1d2e1be48331baab4ada22b0beebb8.1920x1080.jpg?t=1590177442",
+    "Slug": "feylin",
+    "Meta Title": "Feylin: May 22, 2020, Angelo Borou and Full Overview",
+    "Meta Description": "Looking for information on Feylin? Check out the release date (May 22, 2020), developer insights from Angelo Borou, and a complete game summary.",
+    "Alt Text Image": "Official header image for Feylin game - Steam 1314540",
+    "Canonical URL": "https://gusku.site/game/feylin",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Feylin\", \"description\": \"Looking for information on Feylin? Check out the release date (May 22, 2020), developer insights from Angelo Borou, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 22, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Angelo Borou\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Angelo Borou\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1314540/header.jpg?t=1590177442\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

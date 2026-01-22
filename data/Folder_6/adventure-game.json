@@ -1,0 +1,21 @@
+{
+    "AppID": 787730,
+    "Name": "Adventure Game",
+    "Release date": "Jul 12, 2018",
+    "About the game": "A VR adventure game: explore dungeons, fight wicked beasts, collect treasure, and solve puzzles to uncover the mysteries of a strange island Features: -For Oculus Rift and HTC Vive (request support for others) -Hover locomotion (intended) with support for teleportation mode (except in water) -Spatialized audio -Dungeons, shops, and secret rooms spread across an island (30 acres) -Traditional fantasy monsters: oozes, reptilians, skeleton -Traditional action RPG puzzles Updated occasionally with new content and other improvements",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/787730/header.jpg?t=1570316611",
+    "Price": 14.99,
+    "Developers": "IVGEMENT",
+    "Publishers": "IVGEMENT",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/787730/ss_5f917f904126135558110f71042d86a22de80a13.1920x1080.jpg?t=1570316611,https://cdn.akamai.steamstatic.com/steam/apps/787730/ss_ede39565e6204910d904311e52aae2b7e0b5143d.1920x1080.jpg?t=1570316611,https://cdn.akamai.steamstatic.com/steam/apps/787730/ss_b041b719ae5638f546cf6673f963755722f55579.1920x1080.jpg?t=1570316611,https://cdn.akamai.steamstatic.com/steam/apps/787730/ss_b27bb4171746283b2af7d005fa9875a4eb579b0f.1920x1080.jpg?t=1570316611,https://cdn.akamai.steamstatic.com/steam/apps/787730/ss_42fc2bbf03283fc474a0308a5e669082674f8262.1920x1080.jpg?t=1570316611,https://cdn.akamai.steamstatic.com/steam/apps/787730/ss_d7cffa99f9c340c6ae9b7a18fb7c1849c22df401.1920x1080.jpg?t=1570316611",
+    "Slug": "adventure-game",
+    "Meta Title": "Adventure Game: Jul 12, 2018, IVGEMENT and Full Overview",
+    "Meta Description": "Looking for information on Adventure Game? Check out the release date (Jul 12, 2018), developer insights from IVGEMENT, and a complete game summary.",
+    "Alt Text Image": "Official header image for Adventure Game game - Steam 787730",
+    "Canonical URL": "https://gusku.site/game/adventure-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Adventure Game\", \"description\": \"Looking for information on Adventure Game? Check out the release date (Jul 12, 2018), developer insights from IVGEMENT, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 12, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"IVGEMENT\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"IVGEMENT\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/787730/header.jpg?t=1570316611\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

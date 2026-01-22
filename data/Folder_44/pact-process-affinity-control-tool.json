@@ -1,0 +1,21 @@
+{
+    "AppID": 1517370,
+    "Name": "PACT - Process Affinity Control Tool",
+    "Release date": "Jan 31, 2021",
+    "About the game": "PACT is an open-source tool that allows you to run different programs in different cores of your CPU automagically. Here is a quick list of it's current features: Automatically assign processes to threads/cores set by you. Automatically detect games launched by Steam and others. Minimize to System Tray (Windows). Show you a basic overview of your system load. Backup, Export, Import your configurations. PACT is ready to go in three easy steps: You pick your default cores where most of your programs will run. You pick your high-performance cores where you want your high-performance programs to run. You designate programs or let PACT do it automatically for Steam games and other launchers. For special occasions you can choose to tag some program as 'Custom Performance' with a configuration just for that program, exempt from the High Performance and Default configurations. There is also a blacklist option, to ignore processes that don't play nice with PACT. Software by the people, for the people. PACT is open-source and the community is welcome to make suggestions, file for bugs or contribute to the project. You can visit the website on the side, that will take you to the repository of the project. Disclaimers: PACT is a powerful tool that does not limit you. It allows you to set priorities and affinities as you will. If configured wrong, it can lead to worse performance, use it's advanced features with caution. PACT offers performance gains by automating things already present on your system, primarily the process priority and affinity controls found in the task manager. Processes that run at the SYSTEM level or KERNEL level may or may not be accessible to PACT, this can include Easy Anti Cheat.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1517370/header.jpg?t=1612091326",
+    "Price": 11.99,
+    "Developers": "Berk Alyamach",
+    "Publishers": "Berk Alyamach",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1517370/ss_a1fb28be46b30b64c302774e953cc6469a7fb4d0.1920x1080.jpg?t=1612091326,https://cdn.akamai.steamstatic.com/steam/apps/1517370/ss_3a4bc6498e41f28e51ca956fc31e4e98e42ca11e.1920x1080.jpg?t=1612091326,https://cdn.akamai.steamstatic.com/steam/apps/1517370/ss_bc6684649a7a35ff3a0ec76bd8b0878219a47fd6.1920x1080.jpg?t=1612091326,https://cdn.akamai.steamstatic.com/steam/apps/1517370/ss_ed9891376b1bceda009a0d2366ffc07277a2bfbf.1920x1080.jpg?t=1612091326,https://cdn.akamai.steamstatic.com/steam/apps/1517370/ss_c5185c5459f7e9854ef9e4a0e030092df74926e7.1920x1080.jpg?t=1612091326",
+    "Slug": "pact-process-affinity-control-tool",
+    "Meta Title": "PACT - Process Affinity Control Tool: Jan 31, 2021, Berk ...",
+    "Meta Description": "Looking for information on PACT - Process Affinity Control Tool? Check out the release date (Jan 31, 2021), developer insights from Berk Alyamach, and a...",
+    "Alt Text Image": "Official header image for PACT - Process Affinity Control Tool game - Steam 1517370",
+    "Canonical URL": "https://gusku.site/game/pact-process-affinity-control-tool",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PACT - Process Affinity Control Tool\", \"description\": \"Looking for information on PACT - Process Affinity Control Tool? Check out the release date (Jan 31, 2021), developer insights from Berk Alyamach, and a...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 31, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Berk Alyamach\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Berk Alyamach\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1517370/header.jpg?t=1612091326\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

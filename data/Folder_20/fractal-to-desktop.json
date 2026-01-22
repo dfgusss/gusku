@@ -1,0 +1,21 @@
+{
+    "AppID": 942770,
+    "Name": "Fractal To Desktop",
+    "Release date": "Oct 11, 2018",
+    "About the game": "Note: Despite performance improvements, this program takes a significant portion of your CPU power. However, it will limit itself when you're running other applications. Fractal To Desktop allows you to render Fractals live onto your desktop. The Fractal Foundation describes Fractals as 'never-ending patterns that are infinitely complex. Driven by recursion, fractals are images of dynamic systems – the pictures of chaos.' Just watch the video above to get a sense of the beauty of Fractals. Performance The video you saw above took 6 months on 12 cores running 24/7 to render. The algorithms in the video shown are simply too slow for live rendering. Fractal To Desktop can render live render fractals using only one core, albeit with a much slower zoom speed. It does this with the introduction of new math utilizing Perturbation Theory and Series Approximation making rendering up to 100,000x times faster! Key Features Create Custom Gradients Zooms to 2^1024. That's the equivalent of zooming from the size of the universe down to an atom 8.5 times! Zooms up to 100,000x faster than normal rendering methods Automatically pause the renderer when you have a fullscreen application (like another game) open Automatically pauses on battery Includes an algorithm that generates random interesting points to zoom to. When you use Fractal To Desktop, you're looking at part of the Mandelbrot Set that nobody has even seen before! Unlike many other Fractal programs, you don't have to worry about the math at all, just sit back and enjoy the Fractals.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/942770/header.jpg?t=1539262775",
+    "Price": 4.99,
+    "Developers": "Shirom Makkad",
+    "Publishers": "Shirom Makkad",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/942770/ss_1d61a5b6dfd230b7acbdc533c4812a995c80a629.1920x1080.jpg?t=1539262775,https://cdn.akamai.steamstatic.com/steam/apps/942770/ss_53e5b136467a8ebbd37a603b766319200795d770.1920x1080.jpg?t=1539262775,https://cdn.akamai.steamstatic.com/steam/apps/942770/ss_909e1b0cb837f1403a8bcc832ecf50339f1a6ef0.1920x1080.jpg?t=1539262775,https://cdn.akamai.steamstatic.com/steam/apps/942770/ss_5bcef765b939e706a3cf6e1a608c933e5e84a67e.1920x1080.jpg?t=1539262775,https://cdn.akamai.steamstatic.com/steam/apps/942770/ss_1c28af8415bc5c67a8beaafedb702f1a0f2f555b.1920x1080.jpg?t=1539262775",
+    "Slug": "fractal-to-desktop",
+    "Meta Title": "Fractal To Desktop: Oct 11, 2018, Shirom Makkad and Full ...",
+    "Meta Description": "Looking for information on Fractal To Desktop? Check out the release date (Oct 11, 2018), developer insights from Shirom Makkad, and a complete game sum...",
+    "Alt Text Image": "Official header image for Fractal To Desktop game - Steam 942770",
+    "Canonical URL": "https://gusku.site/game/fractal-to-desktop",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fractal To Desktop\", \"description\": \"Looking for information on Fractal To Desktop? Check out the release date (Oct 11, 2018), developer insights from Shirom Makkad, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 11, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Shirom Makkad\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Shirom Makkad\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/942770/header.jpg?t=1539262775\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

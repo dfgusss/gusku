@@ -1,0 +1,21 @@
+{
+    "AppID": 2125770,
+    "Name": "Beeny",
+    "Release date": "Oct 15, 2022",
+    "About the game": "A vertical 2D platformer featuring a round bee in an early 90s prerendered environment. Features: - early 90s prerendered graphics - 9 levels with replay value - a prelude to 'Super Kiwi 64' - a few secrets to discover - a very round bee",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2125770/header.jpg?t=1665820926",
+    "Price": 0.99,
+    "Developers": "Siactro",
+    "Publishers": "Siactro",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2125770/ss_f43d91e71f270cc924f66e33931e02afe87edfb7.1920x1080.jpg?t=1665820926,https://cdn.akamai.steamstatic.com/steam/apps/2125770/ss_0efe7907019922aa4820591f3f81de03481abc62.1920x1080.jpg?t=1665820926,https://cdn.akamai.steamstatic.com/steam/apps/2125770/ss_2d38792ef8ae150b6f8dd1c8a4359c2a0b70143e.1920x1080.jpg?t=1665820926,https://cdn.akamai.steamstatic.com/steam/apps/2125770/ss_0e2ad21922d84f677a7945e8a1ce6034bf2f5c76.1920x1080.jpg?t=1665820926,https://cdn.akamai.steamstatic.com/steam/apps/2125770/ss_14801fa536fd43462e690cb887f71006f56ebebb.1920x1080.jpg?t=1665820926,https://cdn.akamai.steamstatic.com/steam/apps/2125770/ss_cf80321eb2660f72cfcf65ee2ab85b7fdbf15b43.1920x1080.jpg?t=1665820926",
+    "Slug": "beeny",
+    "Meta Title": "Beeny: Oct 15, 2022, Siactro and Full Overview",
+    "Meta Description": "Looking for information on Beeny? Check out the release date (Oct 15, 2022), developer insights from Siactro, and a complete game summary.",
+    "Alt Text Image": "Official header image for Beeny game - Steam 2125770",
+    "Canonical URL": "https://gusku.site/game/beeny",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Beeny\", \"description\": \"Looking for information on Beeny? Check out the release date (Oct 15, 2022), developer insights from Siactro, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 15, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Siactro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Siactro\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2125770/header.jpg?t=1665820926\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

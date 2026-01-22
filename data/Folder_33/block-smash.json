@@ -1,0 +1,21 @@
+{
+    "AppID": 1412870,
+    "Name": "Block Smash",
+    "Release date": "Sep 27, 2020",
+    "About the game": "Choose your powerup, ball, and paddle and face off against a variety of blocks in this game inspired by Breakout! Smash the ball before it hits the paddle to increase damage to the blocks. Fight various block types such as the invader block which must be stopped from reaching the bottom and the coffee block which inverts controls on impact. Select a powerup, ball, and paddle to help with levels such as the poison ball which can poison blocks and drain their health and the freeze paddle which can stop blocks from moving and weaken them. Play through 60 levels across 6 worlds that sometimes have extra mechanics such as paddle hit limits in World 4. Progress through all 3 rounds per level and try to complete the bonus 4th round of each level to gain all achievements .",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1412870/header.jpg?t=1601251091",
+    "Price": 2.99,
+    "Developers": "RoadToIndieGameDev",
+    "Publishers": "RoadToIndieGameDev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1412870/ss_76467e52360d69935c59faf0b88cf0eb3c91086e.1920x1080.jpg?t=1601251091,https://cdn.akamai.steamstatic.com/steam/apps/1412870/ss_2ce167ddff6bd709f553c08907feea8d9a324a8f.1920x1080.jpg?t=1601251091,https://cdn.akamai.steamstatic.com/steam/apps/1412870/ss_49c943173321d488ccb59df7e88cef71b6219634.1920x1080.jpg?t=1601251091,https://cdn.akamai.steamstatic.com/steam/apps/1412870/ss_ba634eb6912b973410c7487c6df948fc2d6d44db.1920x1080.jpg?t=1601251091,https://cdn.akamai.steamstatic.com/steam/apps/1412870/ss_4b6df37aa7681541d5b24ab88d6ba46115a021aa.1920x1080.jpg?t=1601251091,https://cdn.akamai.steamstatic.com/steam/apps/1412870/ss_b9cd4d8098eb160a8cad1d8977680d221737360d.1920x1080.jpg?t=1601251091",
+    "Slug": "block-smash",
+    "Meta Title": "Block Smash: Sep 27, 2020, RoadToIndieGameDev and Full Ov...",
+    "Meta Description": "Looking for information on Block Smash? Check out the release date (Sep 27, 2020), developer insights from RoadToIndieGameDev, and a complete game summary.",
+    "Alt Text Image": "Official header image for Block Smash game - Steam 1412870",
+    "Canonical URL": "https://gusku.site/game/block-smash",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Block Smash\", \"description\": \"Looking for information on Block Smash? Check out the release date (Sep 27, 2020), developer insights from RoadToIndieGameDev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 27, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"RoadToIndieGameDev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"RoadToIndieGameDev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1412870/header.jpg?t=1601251091\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

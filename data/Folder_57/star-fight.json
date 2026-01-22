@@ -1,0 +1,21 @@
+{
+    "AppID": 551500,
+    "Name": "Star Fight",
+    "Release date": "Nov 11, 2016",
+    "About the game": "Star Fight - эта игра с удивительным миром, наполненным хорошей музыкой и космическими боями. Управляйте своим кораблем, рассекая просторы вселенной под динамичные треки и уничтожая врагов на своем пути. Приятная глазу графика, понятный геймплей и хорошие саундтреки позволят Вам насладиться этой игрой в полной мере.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/551500/header.jpg?t=1616152530",
+    "Price": 3.99,
+    "Developers": "Volens Nolens Games",
+    "Publishers": "Volens Nolens Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/551500/ss_87efb4dcb7021301085942ee20f1be0170761d6e.1920x1080.jpg?t=1616152530,https://cdn.akamai.steamstatic.com/steam/apps/551500/ss_0a0189a1b7e99c6354c1bf715d804986de2502ad.1920x1080.jpg?t=1616152530,https://cdn.akamai.steamstatic.com/steam/apps/551500/ss_8611c1040228123ef8590355a129b1db3ea59e9d.1920x1080.jpg?t=1616152530,https://cdn.akamai.steamstatic.com/steam/apps/551500/ss_3c08a2fa280e9aff58a7e579e90d93d8da0bdd4d.1920x1080.jpg?t=1616152530,https://cdn.akamai.steamstatic.com/steam/apps/551500/ss_b3e08f7fc93faed12bbbeed766f196f5c0ffc4d3.1920x1080.jpg?t=1616152530,https://cdn.akamai.steamstatic.com/steam/apps/551500/ss_1eadb18cbb6bbe66188b8e30a57e4d28772adaef.1920x1080.jpg?t=1616152530",
+    "Slug": "star-fight",
+    "Meta Title": "Star Fight: Nov 11, 2016, Volens Nolens Games and Full Ov...",
+    "Meta Description": "Looking for information on Star Fight? Check out the release date (Nov 11, 2016), developer insights from Volens Nolens Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Star Fight game - Steam 551500",
+    "Canonical URL": "https://gusku.site/game/star-fight",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Star Fight\", \"description\": \"Looking for information on Star Fight? Check out the release date (Nov 11, 2016), developer insights from Volens Nolens Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 11, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Volens Nolens Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Volens Nolens Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/551500/header.jpg?t=1616152530\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1735600,
+    "Name": "Rolling Balls",
+    "Release date": "Dec 31, 2021",
+    "About the game": "THIS IS THE RESULT OF THE FIRST TRY WITH UNREAL ENGINE This is a Singleplayer and Online-Coop Racing-Game where you play as a ball. You can race as a ball along five racetracks. You can do this alone or invite your steam-friends to race against you. You steer the ball with WASD and boost it whit a mouseclick. Features: - Simple and responsive controls - Singleplayer mode to practice the racetrack - Coop-Mode to race against 20 of your friends online! - Invite your friends with die Steam-Overlay - Incredibly fun physics-based movement - Five diversified and challenging racetracks - Checkpoints so you cant cheat - Full support for keyboard+mouse - Built-in lap timer - Free skins - Made in Unreal Engine 4 If you have any questions/problems/feedback/anything you can post on the Steam forums and I'll try to answer it to the best of my ability!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1735600/header.jpg?t=1641259481",
+    "Price": 4.2,
+    "Developers": "whitebox",
+    "Publishers": "whitebox",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1735600/ss_1f9503a813dbd8f596988a72abc240184ab02097.1920x1080.jpg?t=1641259481,https://cdn.akamai.steamstatic.com/steam/apps/1735600/ss_1e27dbcdc934ed434c7a3cf599a74c12e18be673.1920x1080.jpg?t=1641259481,https://cdn.akamai.steamstatic.com/steam/apps/1735600/ss_cea6cff95374f48cb9a8288fc5d617a689fc9945.1920x1080.jpg?t=1641259481,https://cdn.akamai.steamstatic.com/steam/apps/1735600/ss_53e566b3caac1a7239d5ca38c280823f605049fc.1920x1080.jpg?t=1641259481,https://cdn.akamai.steamstatic.com/steam/apps/1735600/ss_fea7405d7833316564c9fbf94071ecc315c0ef09.1920x1080.jpg?t=1641259481",
+    "Slug": "rolling-balls",
+    "Meta Title": "Rolling Balls: Dec 31, 2021, whitebox and Full Overview",
+    "Meta Description": "Looking for information on Rolling Balls? Check out the release date (Dec 31, 2021), developer insights from whitebox, and a complete game summary.",
+    "Alt Text Image": "Official header image for Rolling Balls game - Steam 1735600",
+    "Canonical URL": "https://gusku.site/game/rolling-balls",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Rolling Balls\", \"description\": \"Looking for information on Rolling Balls? Check out the release date (Dec 31, 2021), developer insights from whitebox, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 31, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"whitebox\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"whitebox\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1735600/header.jpg?t=1641259481\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.2, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

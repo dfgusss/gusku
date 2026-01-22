@@ -1,0 +1,21 @@
+{
+    "AppID": 1547470,
+    "Name": "PewPew!",
+    "Release date": "Feb 23, 2021",
+    "About the game": "PewPew! - arcade Shoot 'em up game. You control a spaceship and your task is to defend against the attack of aliens, whose attack is gradually accelerating. In some stages of the battle, you will have to fight the boss! At the end of each battle, you can upgrade your starship using points accumulated during the battle.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1547470/header.jpg?t=1614067241",
+    "Price": 0.99,
+    "Developers": "INFINITE BRIDGE",
+    "Publishers": "INFINITE BRIDGE",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1547470/ss_2559a851531fa76160e41414e4687ce7bcd8f119.1920x1080.jpg?t=1614067241,https://cdn.akamai.steamstatic.com/steam/apps/1547470/ss_52d9abd0cdf085a73e30eafc4fd948dae928202e.1920x1080.jpg?t=1614067241,https://cdn.akamai.steamstatic.com/steam/apps/1547470/ss_a54b534bf1660d118ab416e4544a64ae26433f3b.1920x1080.jpg?t=1614067241,https://cdn.akamai.steamstatic.com/steam/apps/1547470/ss_f4e2d78584dd1e47a753ef6518377939984e3623.1920x1080.jpg?t=1614067241,https://cdn.akamai.steamstatic.com/steam/apps/1547470/ss_75bfe54cd35375e5c66d75f252624543e6ec02c9.1920x1080.jpg?t=1614067241",
+    "Slug": "pewpew",
+    "Meta Title": "PewPew!: Feb 23, 2021, INFINITE BRIDGE and Full Overview",
+    "Meta Description": "Looking for information on PewPew!? Check out the release date (Feb 23, 2021), developer insights from INFINITE BRIDGE, and a complete game summary.",
+    "Alt Text Image": "Official header image for PewPew! game - Steam 1547470",
+    "Canonical URL": "https://gusku.site/game/pewpew",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PewPew!\", \"description\": \"Looking for information on PewPew!? Check out the release date (Feb 23, 2021), developer insights from INFINITE BRIDGE, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"INFINITE BRIDGE\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"INFINITE BRIDGE\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1547470/header.jpg?t=1614067241\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

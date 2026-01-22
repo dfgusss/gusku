@@ -1,0 +1,21 @@
+{
+    "AppID": 703030,
+    "Name": "NewTypes",
+    "Release date": "Feb 19, 2018",
+    "About the game": "'NewTypes' is a simulation game of virtual spacecraft. On physics simulation, you pilot a simple spacecraft (like a handcrafted kart) with thrusters, and get experienses of free flight in space. Riding a customized or self-made spacecraft, play dogfight and racing in space. (in development) For an overview of development, see the following guide. Caution! You may get 3D sickness. (especially in VR version) When that happens, stop playing the game and take a break immediately. But it may be used for training to become an astronaut. Features of latest version (Early Access) VR(HTC Vive) version and non VR version included. Steam controller configuration supported. You can fly freely in space of beautiful stars. The real star map is simulated. You can do training of shooting targets with missiles. Limitation It does not collide with the ISS (International Space Station) yet. It has various problems. Roadmap for V1.0",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/703030/header.jpg?t=1519083553",
+    "Price": 0.0,
+    "Developers": "Masahiro Suzuki",
+    "Publishers": "Masahiro Suzuki",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/703030/ss_073b068810f8482f23e7292b4cd29d8b378a11ad.1920x1080.jpg?t=1519083553,https://cdn.akamai.steamstatic.com/steam/apps/703030/ss_05da1c10e6243cfde899be3ae70608da391fff7a.1920x1080.jpg?t=1519083553,https://cdn.akamai.steamstatic.com/steam/apps/703030/ss_3dcf40b380b00a26b0212da8b86456ee5ff8cd2d.1920x1080.jpg?t=1519083553,https://cdn.akamai.steamstatic.com/steam/apps/703030/ss_a8c066d7a33749f4aa1efb7ad482839c87640314.1920x1080.jpg?t=1519083553,https://cdn.akamai.steamstatic.com/steam/apps/703030/ss_842fe4dc299dec2dfa0086958c428232b90825ff.1920x1080.jpg?t=1519083553,https://cdn.akamai.steamstatic.com/steam/apps/703030/ss_22bc10b7c4333b76b2b8bdb9d2a16fad3c566510.1920x1080.jpg?t=1519083553,https://cdn.akamai.steamstatic.com/steam/apps/703030/ss_189e96baf9a9305ed59857a783ae78115324f078.1920x1080.jpg?t=1519083553,https://cdn.akamai.steamstatic.com/steam/apps/703030/ss_22b7d40401648c8d868167be7d53be56eea184d4.1920x1080.jpg?t=1519083553,https://cdn.akamai.steamstatic.com/steam/apps/703030/ss_8be9f0eac20ab1a627a6f56d079fe13652e7b22a.1920x1080.jpg?t=1519083553",
+    "Slug": "newtypes",
+    "Meta Title": "NewTypes: Feb 19, 2018, Masahiro Suzuki and Full Overview",
+    "Meta Description": "Looking for information on NewTypes? Check out the release date (Feb 19, 2018), developer insights from Masahiro Suzuki, and a complete game summary.",
+    "Alt Text Image": "Official header image for NewTypes game - Steam 703030",
+    "Canonical URL": "https://gusku.site/game/newtypes",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"NewTypes\", \"description\": \"Looking for information on NewTypes? Check out the release date (Feb 19, 2018), developer insights from Masahiro Suzuki, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 19, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Masahiro Suzuki\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Masahiro Suzuki\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/703030/header.jpg?t=1519083553\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

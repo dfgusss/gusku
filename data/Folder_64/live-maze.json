@@ -1,0 +1,21 @@
+{
+    "AppID": 2063430,
+    "Name": "Live Maze",
+    "Release date": "Aug 31, 2022",
+    "About the game": "The latest game for Twitch Streamers Need to cool down between games? Let your viewers navigate through a procedurally generated maze, in order to be the first to the center. Twitch integration This game is fully Twitch integrated. All that viewers have to do is type !play and they'll be entered into the lobby! Gameplay loop Once the streamer decides that there are enough players in the lobby, they will start the game. Players are then placed into random positions in the maze, and will automatically start navigating. No further interaction is required from the viewers end! This is not a game you will play for hours on end, but it is sure to deliver a lovely distraction for anyone who is watching your livestream. Live Maze can also function as a raffle system! Have the first person to reach the center of the maze win something, or host a grand-prix. Gameplay features Find randomly placed weapons and fight off other players Find bombs and other power ups! Start rounds manually or have mods do it when you're AFK Each maze will be procedurally generated, with the size based on the amount of players in the lobby Lots of customisation options for the streamer to create a unique experience every round",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2063430/header.jpg?t=1662252239",
+    "Price": 0.0,
+    "Developers": "Base Software",
+    "Publishers": "Base Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2063430/ss_5339b5f9d0f7ae152f8afe2d54d9b9ddfcf3b228.1920x1080.jpg?t=1662252239,https://cdn.akamai.steamstatic.com/steam/apps/2063430/ss_1ede80ed3c96980b3acfc93510e4936a23c854d7.1920x1080.jpg?t=1662252239,https://cdn.akamai.steamstatic.com/steam/apps/2063430/ss_d8698c3a9c254c0a98193d18007fcd745b49f398.1920x1080.jpg?t=1662252239,https://cdn.akamai.steamstatic.com/steam/apps/2063430/ss_5afb34ef436892263a70b62c38ae79f67ebf1b7b.1920x1080.jpg?t=1662252239,https://cdn.akamai.steamstatic.com/steam/apps/2063430/ss_759e0ee4f61e89b17299f094b96152dd0b91fb15.1920x1080.jpg?t=1662252239",
+    "Slug": "live-maze",
+    "Meta Title": "Live Maze: Aug 31, 2022, Base Software and Full Overview",
+    "Meta Description": "Looking for information on Live Maze? Check out the release date (Aug 31, 2022), developer insights from Base Software, and a complete game summary.",
+    "Alt Text Image": "Official header image for Live Maze game - Steam 2063430",
+    "Canonical URL": "https://gusku.site/game/live-maze",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Live Maze\", \"description\": \"Looking for information on Live Maze? Check out the release date (Aug 31, 2022), developer insights from Base Software, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 31, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Base Software\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Base Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2063430/header.jpg?t=1662252239\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

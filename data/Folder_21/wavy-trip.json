@@ -1,0 +1,21 @@
+{
+    "AppID": 1729080,
+    "Name": "Wavy Trip",
+    "Release date": "Sep 7, 2021",
+    "About the game": "Wavy Trip is an arcade scoring runner game. You fly along a wavy tunnel avoiding obstacles and without touching walls. Passing through the rings you get points, touching the border of the ring you get one point and passing through its center two points, respectively. Also along the way, you collect coins to buy new skins. In flight, you are constantly pulled down and holding the left mouse button you fly up, so you need to go through the tunnel. Over time, the gameplay speeds up and you have to try not to lose.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1729080/header.jpg?t=1631001907",
+    "Price": 0.99,
+    "Developers": "beans rolls",
+    "Publishers": "beans rolls",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1729080/ss_58eeb5f4bc3bc002d2242e0e8b20ecfc7af6c303.1920x1080.jpg?t=1631001907,https://cdn.akamai.steamstatic.com/steam/apps/1729080/ss_128fe8082a3c8c40d2ce1921c1e57cb2361a1693.1920x1080.jpg?t=1631001907,https://cdn.akamai.steamstatic.com/steam/apps/1729080/ss_68c86638a7837dc661d062da90b830f5b6f5afd0.1920x1080.jpg?t=1631001907,https://cdn.akamai.steamstatic.com/steam/apps/1729080/ss_5f9c3d2ff46acdb5ae75efa40116de92d10852ab.1920x1080.jpg?t=1631001907,https://cdn.akamai.steamstatic.com/steam/apps/1729080/ss_a6f333701f8b833d3d4f39fb72b8e0317527eeb9.1920x1080.jpg?t=1631001907",
+    "Slug": "wavy-trip",
+    "Meta Title": "Wavy Trip: Sep 7, 2021, beans rolls and Full Overview",
+    "Meta Description": "Looking for information on Wavy Trip? Check out the release date (Sep 7, 2021), developer insights from beans rolls, and a complete game summary.",
+    "Alt Text Image": "Official header image for Wavy Trip game - Steam 1729080",
+    "Canonical URL": "https://gusku.site/game/wavy-trip",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Wavy Trip\", \"description\": \"Looking for information on Wavy Trip? Check out the release date (Sep 7, 2021), developer insights from beans rolls, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 7, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1729080/header.jpg?t=1631001907\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

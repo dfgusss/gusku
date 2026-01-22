@@ -1,0 +1,21 @@
+{
+    "AppID": 1801480,
+    "Name": "VTmini",
+    "Release date": "Nov 28, 2021",
+    "About the game": "Based on motion capture system, the cloud operating platform developed independently by Super ACG can map real-time action, expression and voice of real-life actors to virtual characters by adapting the integrated expression capture technology in virtual talent system and combining with real-time rendering and voice control systems. functions： Virtual Characters Facial Capture Motion Capture Multiplayer online Prop Pose wink Camera more…… In some places, English and Japanese localization within the software is still incomplete. We will revise it as soon as possible Dear friends, after investigation, it is found that the face mapping of the VRM model exported from the new vroid model is incompatible with the old version. At present, it is being adjusted. Please wait patiently. Thank you~ Capable partners can adjust the model in blender / unity and other software, and import it after modification. Contact us QQ Group 626061141",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1801480/header.jpg?t=1639963178",
+    "Price": 0.0,
+    "Developers": "Dreamland Maker",
+    "Publishers": "Dreamland Maker",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1801480/ss_5923a9fd43ad1321f2b410efa63f58472d43792f.1920x1080.jpg?t=1639963178,https://cdn.akamai.steamstatic.com/steam/apps/1801480/ss_d46209da035beac743cdc9ac17ae8687e938cfff.1920x1080.jpg?t=1639963178,https://cdn.akamai.steamstatic.com/steam/apps/1801480/ss_998e7fd9026ef0b178449e0436fbb6197c7e5ae8.1920x1080.jpg?t=1639963178,https://cdn.akamai.steamstatic.com/steam/apps/1801480/ss_9691a89dcffc0ac69702a43fe82483e3a9c1b530.1920x1080.jpg?t=1639963178,https://cdn.akamai.steamstatic.com/steam/apps/1801480/ss_2a611f9c3239b582f422f332089d089af09325b3.1920x1080.jpg?t=1639963178",
+    "Slug": "vtmini",
+    "Meta Title": "VTmini: Nov 28, 2021, Dreamland Maker and Full Overview",
+    "Meta Description": "Looking for information on VTmini? Check out the release date (Nov 28, 2021), developer insights from Dreamland Maker, and a complete game summary.",
+    "Alt Text Image": "Official header image for VTmini game - Steam 1801480",
+    "Canonical URL": "https://gusku.site/game/vtmini",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VTmini\", \"description\": \"Looking for information on VTmini? Check out the release date (Nov 28, 2021), developer insights from Dreamland Maker, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 28, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dreamland Maker\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dreamland Maker\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1801480/header.jpg?t=1639963178\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

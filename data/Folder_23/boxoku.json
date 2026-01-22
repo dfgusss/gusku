@@ -1,0 +1,21 @@
+{
+    "AppID": 1545380,
+    "Name": "Boxoku!",
+    "Release date": "Mar 5, 2021",
+    "About the game": "Boxoku! Match box colors to clear the stage. Shot Clock Fire a box before the “Shot Clock” reaches zero or lose a life (1-Down) and the current box. Boxoku! Combo Match box colors to add towards a “Boxoku! Combo” Complete a “Boxoku! Combo” for a bonus! Chain multiple “Boxoku! Combo” for an extra life (1-Up). If the Combo timer runs out the “Box Tree” gets closer! Fire Box Tap to fire a box at the “Box Tree”. Displays current box color. Box Queue Displays the box colors in the queue. Reset Camera Find your aim drifting? Tap “Reset Camera”. Reticule | Box Sight Use the “Box Sight” to aim. Box Hub The “Box Tree” spins around the “Box Hub” Box Tree Spin the “Box Tree” by firing boxes. Collide with the “Box Tree” and lose a life (1-Down). Lives | ··· Start with 3 lives. Lose a life (1-Down) when the “Shot Clock” reaches zero or you collide with the “Box Tree”. Add a life (1-Up) by chaining “Boxoku! Combo” and completing stages. Play | Pause II Pause Boxoku! at any time. New Game Begin a game. Resume Continue playing your game from where you left it. Colors change! Best 1-1 Start from your best stage with 1 life. Stages Procedurally generated stages get tougher the more stages you clear.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1545380/header.jpg?t=1620144070",
+    "Price": 0.99,
+    "Developers": "SoloRobo",
+    "Publishers": "SoloRobo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1545380/ss_f35696114bb8aa0287ced866ce6e9474c079367d.1920x1080.jpg?t=1620144070,https://cdn.akamai.steamstatic.com/steam/apps/1545380/ss_153a84d59eb3b8fd2e8ed958a934c57ab108409c.1920x1080.jpg?t=1620144070,https://cdn.akamai.steamstatic.com/steam/apps/1545380/ss_49304ab1004d9def4ca2f6adf6664437158661e4.1920x1080.jpg?t=1620144070,https://cdn.akamai.steamstatic.com/steam/apps/1545380/ss_f1cdaab93d1c7f1b652b7ac26e4c96511dadb506.1920x1080.jpg?t=1620144070,https://cdn.akamai.steamstatic.com/steam/apps/1545380/ss_76cb46c5028d75d6508512f8f08e6667320eef64.1920x1080.jpg?t=1620144070,https://cdn.akamai.steamstatic.com/steam/apps/1545380/ss_5f7ca0ba7311889d3de702f0d2b88a420d1a2c67.1920x1080.jpg?t=1620144070,https://cdn.akamai.steamstatic.com/steam/apps/1545380/ss_b98bf8351f634151e39e39cfdbdec7b156e41f7f.1920x1080.jpg?t=1620144070,https://cdn.akamai.steamstatic.com/steam/apps/1545380/ss_b1d77d976837cd7e38f7a64ff1b7585ab91c8bed.1920x1080.jpg?t=1620144070,https://cdn.akamai.steamstatic.com/steam/apps/1545380/ss_71a95e0f4d83f47fe4d0bf41658323b29a2977d6.1920x1080.jpg?t=1620144070",
+    "Slug": "boxoku",
+    "Meta Title": "Boxoku!: Mar 5, 2021, SoloRobo and Full Overview",
+    "Meta Description": "Looking for information on Boxoku!? Check out the release date (Mar 5, 2021), developer insights from SoloRobo, and a complete game summary.",
+    "Alt Text Image": "Official header image for Boxoku! game - Steam 1545380",
+    "Canonical URL": "https://gusku.site/game/boxoku",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Boxoku!\", \"description\": \"Looking for information on Boxoku!? Check out the release date (Mar 5, 2021), developer insights from SoloRobo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 5, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"SoloRobo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SoloRobo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1545380/header.jpg?t=1620144070\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

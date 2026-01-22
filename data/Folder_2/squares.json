@@ -1,0 +1,21 @@
+{
+    "AppID": 1287180,
+    "Name": "Squares",
+    "Release date": "May 19, 2020",
+    "About the game": "When me and my sister were young, we would play this game to pass the time. We stopped playing because nether of us wanted to draw the dots for the game board. This is actually my second version of the game I have made using Game Maker, the first one was lost to time, however it was much less player friendly to play and required much more trust between players. With this new version I was able to increase the max number of possible players to 8. This is a relaxed multi player game with out any combat and can be played by anyone of any age... meant for 2 or more players - setting up a game to set up a game, use the middle mouse wheel, or the arrow keys to select the number of players, then press the enter button on your keyboard when everyone is ready to play - game play take turns using the mouse, left clicking between dots to create lines. You get to create an additional line for every square you make in your turn. *note: there is some wiggle room in where you click and still be able to create a line at the desired location. *note: both turns and points are done automatically - resetting the game board to reset the game board, press the enter button on they keyboard any time during game play, this will reset everything back to start. You can change the number of players or press enter again to start playing a new round.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1287180/header.jpg?t=1591454789",
+    "Price": 0.99,
+    "Developers": "Jason Swisher",
+    "Publishers": "Jason Swisher",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1287180/ss_f8b479457b502b88bcc49326ec43202db3eb91ff.1920x1080.jpg?t=1591454789,https://cdn.akamai.steamstatic.com/steam/apps/1287180/ss_e38254f3fbb35c76398c3fdfb245d5b7e8def068.1920x1080.jpg?t=1591454789,https://cdn.akamai.steamstatic.com/steam/apps/1287180/ss_c76c675a3bb04249f930fb6154669f9a5b2815f9.1920x1080.jpg?t=1591454789,https://cdn.akamai.steamstatic.com/steam/apps/1287180/ss_6880a833f3b2e445fcbd8d241b25003f4cf183ee.1920x1080.jpg?t=1591454789,https://cdn.akamai.steamstatic.com/steam/apps/1287180/ss_b4c666cd1980fac8301b17a553e4f2083e45eda3.1920x1080.jpg?t=1591454789",
+    "Slug": "squares",
+    "Meta Title": "Squares: May 19, 2020, Jason Swisher and Full Overview",
+    "Meta Description": "Looking for information on Squares? Check out the release date (May 19, 2020), developer insights from Jason Swisher, and a complete game summary.",
+    "Alt Text Image": "Official header image for Squares game - Steam 1287180",
+    "Canonical URL": "https://gusku.site/game/squares",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Squares\", \"description\": \"Looking for information on Squares? Check out the release date (May 19, 2020), developer insights from Jason Swisher, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 19, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jason Swisher\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jason Swisher\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1287180/header.jpg?t=1591454789\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

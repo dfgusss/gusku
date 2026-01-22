@@ -1,0 +1,21 @@
+{
+    "AppID": 1689750,
+    "Name": "武者斗天师",
+    "Release date": "Aug 19, 2021",
+    "About the game": "该游戏的1.0正式版本已于2022年6月中旬更新，具备练习模式和PVE模式各一个关卡，开放三个职业中的两个职业——天师和斗士。 此游戏参考了流星蝴蝶剑、火影忍者以及鬼泣系列，主要期望以独特的玩法于当前主流的战斗机制外，再创一种全新的战斗机制（舍弃快捷键和搓招的方式），该机制的战斗系统大体分为三种方向——即时战斗系统、半即时战斗系统和延时战斗系统，分别对应武者、斗者以及天师三种职业方向。另外，本作风格暂定偏向于武侠写实风格，玩法则参考《流星蝴蝶剑》局域网对战为主，辅以不同关卡来讲述剧情，最终形成以玩法创新为主的中小体量的游戏。 1) 核心机制 -延时攻击战斗系统 原理：选择-判断-释放：选择利用鼠标键的左右之分进行位运算，直至确定技能，并选择恰当的时机释放。 特点：天师职业最大的特点在于可以装备足够多的技能进行攻击、防御以及人物的状态改变，理论最多可装备512种的技能。 -半即时战斗系统 原理：滑步进/退-攻击并记录键位-判断并释放技能，追加攻击伤害并附加攻击效果。 特点：斗者的攻击方式为天师与武者两者的结合，使用独有的滑步，讲究进退之间接近敌人或闪避敌人的攻击，既有武者高机动能力，又有天师可装备多种技能的能力。 -即时攻击战斗系统 原理：利用键位的组合变化自由转换可以随意切入或脱离战斗，使之能够达到攻击的流畅性与繁复多变，包括但不止位置变幻和附加攻击效果。 特点：引入类似《只狼》和《拳皇》的防反机制和特有的变招系统，讲究攻防一体，能力较为均衡且操作简单流畅，如：         剑法的击、刺、格、洗、劈、砍、撩、提、抽、带、崩、点等；         刀法的劈、砍、刺、格、扎、撩等；         枪法的扎、刺、挞、抨、缠、圈、拦、拿、扑、点、拨、舞花等；         棍法的剃、滚、劈、扫、冲、撞、捣、杵、捅、撩等； 2)游戏模式        类似《流星蝴蝶剑》的PVP玩法（初期）；        类似《怪物猎人》的PVE玩法（中期拓展）； 3) 项目详情 目前，整个项目已由我个人独立开发一年有余，期望能够有志同道合的人一起搞事情。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1689750/header.jpg?t=1655118734",
+    "Price": 0.0,
+    "Developers": "AGAGamer",
+    "Publishers": "AGAGamer",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1689750/ss_b497bc2230e985c1c8a754df0dda1ea419dbd8cc.1920x1080.jpg?t=1655118734,https://cdn.akamai.steamstatic.com/steam/apps/1689750/ss_24f23c028166f08caf0fa5f62780b1729e301915.1920x1080.jpg?t=1655118734,https://cdn.akamai.steamstatic.com/steam/apps/1689750/ss_edd22d81d7f3ee8c9d02af5233db8f18c19128f5.1920x1080.jpg?t=1655118734,https://cdn.akamai.steamstatic.com/steam/apps/1689750/ss_24a674ed5902202ac626947408b86f1593018835.1920x1080.jpg?t=1655118734,https://cdn.akamai.steamstatic.com/steam/apps/1689750/ss_2be39bab2f59099f0938d735cc9fcb8754883188.1920x1080.jpg?t=1655118734",
+    "Slug": "",
+    "Meta Title": "武者斗天师: Aug 19, 2021, AGAGamer and Full Overview",
+    "Meta Description": "Looking for information on 武者斗天师? Check out the release date (Aug 19, 2021), developer insights from AGAGamer, and a complete game summary.",
+    "Alt Text Image": "Official header image for 武者斗天师 game - Steam 1689750",
+    "Canonical URL": "https://gusku.site/game/",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u6b66\\u8005\\u6597\\u5929\\u5e08\", \"description\": \"Looking for information on \\u6b66\\u8005\\u6597\\u5929\\u5e08? Check out the release date (Aug 19, 2021), developer insights from AGAGamer, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"AGAGamer\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"AGAGamer\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1689750/header.jpg?t=1655118734\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

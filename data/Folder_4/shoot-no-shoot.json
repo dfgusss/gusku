@@ -1,0 +1,21 @@
+{
+    "AppID": 923390,
+    "Name": "Shoot-No-Shoot",
+    "Release date": "Sep 7, 2018",
+    "About the game": "This is a shoot, no shoot simulation. Shoot the targets with weapons, being careful to not shoot the targets without weapons or with a badge. It offers four modes of play. An indoor range with flip targets with closer spacing for the targets, an outdoor range with pop targets with wider target placement, a second outdoor range with random popups, and a range with scored break away targets. Use the left thumb stick to adjust how many targets (right for more, left for less), and how far away they are (up for further away, down for closer). Use the right thumb stick (right for more, left for less) to set the length of the shoot in minutes. To start the shoot just pull either the left or the right trigger. To return to the range selection or to exit press either the Y or B buttons on the Rift, or Menu button on a Microsoft Mixed Reality controller.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/923390/header.jpg?t=1538873167",
+    "Price": 4.99,
+    "Developers": "Teksensei",
+    "Publishers": "Labrador Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/923390/ss_4178473e197239101ceb6ef5ab6490eeed29182a.1920x1080.jpg?t=1538873167,https://cdn.akamai.steamstatic.com/steam/apps/923390/ss_9e3bde8b208fe2df621095d57a3182e50746a0b6.1920x1080.jpg?t=1538873167,https://cdn.akamai.steamstatic.com/steam/apps/923390/ss_27cc0e6cdce4f1f2755db19075b17bb12f4d794c.1920x1080.jpg?t=1538873167,https://cdn.akamai.steamstatic.com/steam/apps/923390/ss_4431ca942ea0f6c2bd6e9677ed0330a4ddd872fc.1920x1080.jpg?t=1538873167,https://cdn.akamai.steamstatic.com/steam/apps/923390/ss_e666f28a94eff6c5ab96760b00b9b36d1f7ad273.1920x1080.jpg?t=1538873167",
+    "Slug": "shoot-no-shoot",
+    "Meta Title": "Shoot-No-Shoot: Sep 7, 2018, Teksensei and Full Overview",
+    "Meta Description": "Looking for information on Shoot-No-Shoot? Check out the release date (Sep 7, 2018), developer insights from Teksensei, and a complete game summary.",
+    "Alt Text Image": "Official header image for Shoot-No-Shoot game - Steam 923390",
+    "Canonical URL": "https://gusku.site/game/shoot-no-shoot",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Shoot-No-Shoot\", \"description\": \"Looking for information on Shoot-No-Shoot? Check out the release date (Sep 7, 2018), developer insights from Teksensei, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 7, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Teksensei\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Labrador Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/923390/header.jpg?t=1538873167\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

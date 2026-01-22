@@ -1,0 +1,21 @@
+{
+    "AppID": 1824450,
+    "Name": "Ricochet",
+    "Release date": "Jan 11, 2022",
+    "About the game": "Ricochet is a 2D action shooter. Run around in exciting arenas and fight your friends. Battle with an epic arsenal of high-tech weapons to become the ultimate Ricoteer. This game features four maps, all with different interesting mechanics, and each one requires a different strategy when playing the game. Each weapon changes up the gameplay and adds something new to the equation. [*Pistol*Shotgun*SuperShotgun*RocketLauncher*Sniper*PowerPuncher] Each weapon has a specific condition that must be met if it is to be fired. For example, when firing the pistol, bullets will be blue until they bounce and turn orange. When the bullet is blue, it will heal an enemy. When the bullet is orange, it will damage them. The player has numerous abilities such as dash and crouch. When utilized correctly, the player can dodge bullets while at the same time ricocheting their way to victory",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1824450/header.jpg?t=1645472910",
+    "Price": 2.99,
+    "Developers": "Nathaniel Stauffer,Michael Stauffer",
+    "Publishers": "Nix Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1824450/ss_681efff751fa103d902b0bf9d17d5235d0aaf813.1920x1080.jpg?t=1645472910,https://cdn.akamai.steamstatic.com/steam/apps/1824450/ss_4fb0d1e225e686e5d06fcf758df14f9179dfd950.1920x1080.jpg?t=1645472910,https://cdn.akamai.steamstatic.com/steam/apps/1824450/ss_a31ed632fbe6dbc2dc1a82abaed6f87ea2ded83f.1920x1080.jpg?t=1645472910,https://cdn.akamai.steamstatic.com/steam/apps/1824450/ss_3aa12e8aafb625568bea6b7891910fe695c53e97.1920x1080.jpg?t=1645472910,https://cdn.akamai.steamstatic.com/steam/apps/1824450/ss_3df76aed6d22463ba4562b244482f85c0dc2e2c8.1920x1080.jpg?t=1645472910,https://cdn.akamai.steamstatic.com/steam/apps/1824450/ss_1888fbcb00dd11963416a65254d70220eaa4cc73.1920x1080.jpg?t=1645472910",
+    "Slug": "ricochet",
+    "Meta Title": "Ricochet: Jan 11, 2022, Nathaniel Stauffer,Michael Stauff...",
+    "Meta Description": "Looking for information on Ricochet? Check out the release date (Jan 11, 2022), developer insights from Nathaniel Stauffer,Michael Stauffer, and a compl...",
+    "Alt Text Image": "Official header image for Ricochet game - Steam 1824450",
+    "Canonical URL": "https://gusku.site/game/ricochet",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ricochet\", \"description\": \"Looking for information on Ricochet? Check out the release date (Jan 11, 2022), developer insights from Nathaniel Stauffer,Michael Stauffer, and a compl...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nathaniel Stauffer,Michael Stauffer\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nix Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1824450/header.jpg?t=1645472910\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

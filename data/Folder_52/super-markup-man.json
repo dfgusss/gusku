@@ -1,0 +1,21 @@
+{
+    "AppID": 502210,
+    "Name": "Super Markup Man",
+    "Release date": "Aug 16, 2016",
+    "About the game": "Learn HTML and CSS in the context of a 2D puzzle platformer! Super Markup Man teaches real web development practices without making you write any code. Simply carry the tags around the screen and watch your website render in real-time. Match your website with the preview to pass each level. The game includes: 100 levels/exercises HTML mode that covers basic tags like A, IMG, STRONG, and EM CSS mode for more advanced markup and styling Local co-op* Optional 'bug' setting to keep you on your toes Free Play mode where you can export levels to actual HTML files * Note: Only Free Play and CSS Mode support local co-op. Player 2 will also need to use a gamepad (preferably an Xbox gamepad).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/502210/header.jpg?t=1653424289",
+    "Price": 3.99,
+    "Developers": "Roppy Chop Studios",
+    "Publishers": "Roppy Chop Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/502210/ss_058fb7489f18128ea05ee26e20de1b988efc9e9b.1920x1080.jpg?t=1653424289,https://cdn.akamai.steamstatic.com/steam/apps/502210/ss_8d7d8f09f05a6f450a66efc08cfae470fdf9cc33.1920x1080.jpg?t=1653424289,https://cdn.akamai.steamstatic.com/steam/apps/502210/ss_3ada74c98143424aded043afcc579709e6e454bb.1920x1080.jpg?t=1653424289,https://cdn.akamai.steamstatic.com/steam/apps/502210/ss_c3417f57beb3be97ec8003caa62fb7e924e016ca.1920x1080.jpg?t=1653424289,https://cdn.akamai.steamstatic.com/steam/apps/502210/ss_83174ee0553ad53691a16ce939d8a07247927080.1920x1080.jpg?t=1653424289",
+    "Slug": "super-markup-man",
+    "Meta Title": "Super Markup Man: Aug 16, 2016, Roppy Chop Studios and Fu...",
+    "Meta Description": "Looking for information on Super Markup Man? Check out the release date (Aug 16, 2016), developer insights from Roppy Chop Studios, and a complete game ...",
+    "Alt Text Image": "Official header image for Super Markup Man game - Steam 502210",
+    "Canonical URL": "https://gusku.site/game/super-markup-man",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Super Markup Man\", \"description\": \"Looking for information on Super Markup Man? Check out the release date (Aug 16, 2016), developer insights from Roppy Chop Studios, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 16, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Roppy Chop Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Roppy Chop Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/502210/header.jpg?t=1653424289\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1874560,
+    "Name": "Infinadeck Medieval Maze",
+    "Release date": "Feb 23, 2022",
+    "About the game": "This virtual reality maze is a basic experience for the Infinadeck Omnidirectional Treadmill. It takes just under 2 minutes at max speed to get from the start to the end when using the treadmill- how fast can you make it through? Many objects are interactable within the space, and there are a couple of Easter eggs here and there. Designed for first time walkers, there are no jumpscares or things chasing you- the nuances of the experiences are up to you. Will you clear the maze as fast as possible? Or perhaps stroll through at your own pace? This maze was built using free assets from the Unity Store, including the SteamVR Unity Plugin, so it seemed right that this project be distributed for free as well. Useful desktop keybinds: Spacebar: Stop Treadmill RightShift: Start Treadmill Keypad0: Start/Stop Treadmill Keypad9: Boot/Shutdown/Reboot Infinadeck Plugin LeftShift: Reset Level Escape: Quit Game Keypad1: Toggle Deck Ring Keypad2: Toggle Deck Edge Keypad3: Toggle Deck Center Keypad4: Toggle Reference Panel Keypad5: Toggle In-Engine Deck Keypad6: Toggle Heading Keypad7: Toggle Colorblind Keypad8: Cycle Panel Theme KeypadPeriod: Import Preferences KeypadEnter: Reset Preferences Alpha1: Set Timer to 1 Minute Alpha2: Set Timer to 2 Minutes Alpha3: Set Timer to 3 Minutes Alpha4: Set Timer to 4 Minutes Alpha5: Set Timer to 5 Minutes Alpha6: Set Timer to 6 Minutes Alpha7: Set Timer to 7 Minutes Alpha8: Set Timer to 8 Minutes Alpha9: Set Timer to 9 Minutes Alpha0: Set Timer to 10 Minutes",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1874560/header.jpg?t=1645663064",
+    "Price": 0.0,
+    "Developers": "Infinadeck",
+    "Publishers": "Infinadeck",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1874560/ss_2f45d1e28f115d83480bfd8acdcc3b83e0e8892a.1920x1080.jpg?t=1645663064,https://cdn.akamai.steamstatic.com/steam/apps/1874560/ss_94cd618517f5431e96457a0456c687534fa1e9e7.1920x1080.jpg?t=1645663064,https://cdn.akamai.steamstatic.com/steam/apps/1874560/ss_c3116f4228f2eee8c1e07877c363f854732f7cc4.1920x1080.jpg?t=1645663064,https://cdn.akamai.steamstatic.com/steam/apps/1874560/ss_4bdd7980738cedbbb83228da37f5cf9d41beb667.1920x1080.jpg?t=1645663064,https://cdn.akamai.steamstatic.com/steam/apps/1874560/ss_bd9dcec22e88c208655fe22595e6da1b19ef224d.1920x1080.jpg?t=1645663064",
+    "Slug": "infinadeck-medieval-maze",
+    "Meta Title": "Infinadeck Medieval Maze: Feb 23, 2022, Infinadeck and Fu...",
+    "Meta Description": "Looking for information on Infinadeck Medieval Maze? Check out the release date (Feb 23, 2022), developer insights from Infinadeck, and a complete game ...",
+    "Alt Text Image": "Official header image for Infinadeck Medieval Maze game - Steam 1874560",
+    "Canonical URL": "https://gusku.site/game/infinadeck-medieval-maze",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Infinadeck Medieval Maze\", \"description\": \"Looking for information on Infinadeck Medieval Maze? Check out the release date (Feb 23, 2022), developer insights from Infinadeck, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 23, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Infinadeck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Infinadeck\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1874560/header.jpg?t=1645663064\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

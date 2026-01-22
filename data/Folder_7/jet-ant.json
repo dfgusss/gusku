@@ -1,0 +1,21 @@
+{
+    "AppID": 869850,
+    "Name": "Jet Ant",
+    "Release date": "Jan 9, 2019",
+    "About the game": "Jet Ant mixes a classic platforming with a simulation of a 2D jet/rocket hovering to move around and achieve a goal of reaching level's end with a maximum points collected. Points are calculated by adding the remaining fuel and collected coins. Develop your own tactics. Should you not deviate from your path to save fuel? Or are you skilled enough to gather more coins by investing extra fuel and return with a profit? Be careful on your journey, because Jet Ant's flying machine is homemade, it leaks slightly and can explode if hit it too hard. You can customize your flying machine and experiment with your game style. Game Features: Unique and skill demanding movement mechanism. Steam achievements. Challenging levels. Cartoon style graphics.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/869850/header.jpg?t=1547054574",
+    "Price": 1.45,
+    "Developers": "TK",
+    "Publishers": "TK",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/869850/ss_8cf5ca33f32f4f37e7811a48f9587cae9d2cefe1.1920x1080.jpg?t=1547054574,https://cdn.akamai.steamstatic.com/steam/apps/869850/ss_bd64d43871e1aab988332c913459055a0c8ff8ea.1920x1080.jpg?t=1547054574,https://cdn.akamai.steamstatic.com/steam/apps/869850/ss_36da4050394382826f43d399e39469fc94bacd4f.1920x1080.jpg?t=1547054574,https://cdn.akamai.steamstatic.com/steam/apps/869850/ss_fddfd026c5322ef08a6645abad5512f196936566.1920x1080.jpg?t=1547054574,https://cdn.akamai.steamstatic.com/steam/apps/869850/ss_6b7e28da7a4fb79f8bdb5edf73a672a976c1b59f.1920x1080.jpg?t=1547054574,https://cdn.akamai.steamstatic.com/steam/apps/869850/ss_180464b3aa0dee17f472ee205920ef4a54b42354.1920x1080.jpg?t=1547054574",
+    "Slug": "jet-ant",
+    "Meta Title": "Jet Ant: Jan 9, 2019, TK and Full Overview",
+    "Meta Description": "Looking for information on Jet Ant? Check out the release date (Jan 9, 2019), developer insights from TK, and a complete game summary.",
+    "Alt Text Image": "Official header image for Jet Ant game - Steam 869850",
+    "Canonical URL": "https://gusku.site/game/jet-ant",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Jet Ant\", \"description\": \"Looking for information on Jet Ant? Check out the release date (Jan 9, 2019), developer insights from TK, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 9, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"TK\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TK\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/869850/header.jpg?t=1547054574\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.45, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

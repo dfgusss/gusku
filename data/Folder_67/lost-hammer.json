@@ -1,0 +1,21 @@
+{
+    "AppID": 2167890,
+    "Name": "Lost Hammer",
+    "Release date": "Nov 17, 2022",
+    "About the game": "Lost Hammer - This is a 3D adventure with puzzle elements and first person view. You have to take on the role of a city dweller who dreams of becoming a blacksmith's apprentice. The blacksmith's hammer has been stolen and it's up to you to get it back! Communicate with the inhabitants of the city, complete their tasks and solve puzzles, do everything necessary to return the hammer to the blacksmith! Explore locations looking for clues and be careful! You will find a lot of quests and various characters with which you can interact! Peculiarities - A variety of puzzles. - Colorful graphics. - Great soundtrack.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2167890/header.jpg?t=1668705018",
+    "Price": 17.99,
+    "Developers": "Max Pedro",
+    "Publishers": "Max Pedro",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2167890/ss_9e48e3619ad0baf17e8dfbe618e03aba3fb5d60f.1920x1080.jpg?t=1668705018,https://cdn.akamai.steamstatic.com/steam/apps/2167890/ss_9280a3ec25b6184c1a7afb136d4ce04108a0b300.1920x1080.jpg?t=1668705018,https://cdn.akamai.steamstatic.com/steam/apps/2167890/ss_c7488f26ad388ac211d80df7d5ced33d20ee2c07.1920x1080.jpg?t=1668705018,https://cdn.akamai.steamstatic.com/steam/apps/2167890/ss_6f0d9d048ebc39be19fbb3dfeea6f10b1a4baf1b.1920x1080.jpg?t=1668705018,https://cdn.akamai.steamstatic.com/steam/apps/2167890/ss_092dfabeb77bd3fc6af166135a8e1d95c9c61d99.1920x1080.jpg?t=1668705018,https://cdn.akamai.steamstatic.com/steam/apps/2167890/ss_4f55351ceaff2a68fb62b5d1cf5d59ce12a20855.1920x1080.jpg?t=1668705018",
+    "Slug": "lost-hammer",
+    "Meta Title": "Lost Hammer: Nov 17, 2022, Max Pedro and Full Overview",
+    "Meta Description": "Looking for information on Lost Hammer? Check out the release date (Nov 17, 2022), developer insights from Max Pedro, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lost Hammer game - Steam 2167890",
+    "Canonical URL": "https://gusku.site/game/lost-hammer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lost Hammer\", \"description\": \"Looking for information on Lost Hammer? Check out the release date (Nov 17, 2022), developer insights from Max Pedro, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Max Pedro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Max Pedro\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2167890/header.jpg?t=1668705018\", \"offers\": {\"@type\": \"Offer\", \"price\": 17.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

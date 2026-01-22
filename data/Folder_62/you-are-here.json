@@ -1,0 +1,21 @@
+{
+    "AppID": 930500,
+    "Name": "You Are Here",
+    "Release date": "Sep 12, 2019",
+    "About the game": "You are Here gives you the power to shrink and expand the universe. Take a journey from tiny quarks, atoms, cells, planets, stars, galaxies - all the way to the observable universe! This project has been heavily inspired by the classic 1977 Science film by Charles and Ray Eames, Powers of 10 . Data Sources Star positions, colors, and magnitudes are from the HYG Database. The database is a subset of the data in three major catalogs: the Hipparcos Catalog, the Yale Bright Star Catalog (5th Edition), and the Gliese Catalog of Nearby Stars. There are 119,615 stars in the HYG Database. The galaxies are from Data Release 14 from the Sloan Digital Sky Survey and describes the position and size of 755,649 galaxies. Credits Thank you Dr. Miguel Angel Aragon Calvo, Assistant Professor at the National Astronomical Observatory, UNAM for generously providing his galaxy data from the Sloan Digital Sky Survey. Thank you David Nash for your excellent HYG Database of stars.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/930500/header.jpg?t=1569091632",
+    "Price": 2.99,
+    "Developers": "Tesseract Software",
+    "Publishers": "Tesseract Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/930500/ss_13c53876dfdb25e07224372e7195eeaa5904b052.1920x1080.jpg?t=1569091632,https://cdn.akamai.steamstatic.com/steam/apps/930500/ss_59bc78db92d7588a7987af90e1b7a996ca76d8c4.1920x1080.jpg?t=1569091632,https://cdn.akamai.steamstatic.com/steam/apps/930500/ss_4882ae36e4720fdbb653287d8c867cb0699971cb.1920x1080.jpg?t=1569091632,https://cdn.akamai.steamstatic.com/steam/apps/930500/ss_90d4bd448ab571858ed4d3410669544725754063.1920x1080.jpg?t=1569091632,https://cdn.akamai.steamstatic.com/steam/apps/930500/ss_d73cbefd516ad3f91df098f3531bac1f1782b1ff.1920x1080.jpg?t=1569091632,https://cdn.akamai.steamstatic.com/steam/apps/930500/ss_2e81582c593bc59e08584fb1cec0bf8a5724af5d.1920x1080.jpg?t=1569091632,https://cdn.akamai.steamstatic.com/steam/apps/930500/ss_543e05edf6958f3941ace5944a568a72e0ecccd9.1920x1080.jpg?t=1569091632,https://cdn.akamai.steamstatic.com/steam/apps/930500/ss_b7c5fac8b2d3284f2e288e97d7f67d252c59aaa3.1920x1080.jpg?t=1569091632",
+    "Slug": "you-are-here",
+    "Meta Title": "You Are Here: Sep 12, 2019, Tesseract Software and Full O...",
+    "Meta Description": "Looking for information on You Are Here? Check out the release date (Sep 12, 2019), developer insights from Tesseract Software, and a complete game summ...",
+    "Alt Text Image": "Official header image for You Are Here game - Steam 930500",
+    "Canonical URL": "https://gusku.site/game/you-are-here",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"You Are Here\", \"description\": \"Looking for information on You Are Here? Check out the release date (Sep 12, 2019), developer insights from Tesseract Software, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 12, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tesseract Software\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tesseract Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/930500/header.jpg?t=1569091632\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

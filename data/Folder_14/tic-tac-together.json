@@ -1,0 +1,21 @@
+{
+    "AppID": 1583910,
+    "Name": "Tic Tac Together",
+    "Release date": "May 11, 2021",
+    "About the game": "Tic Tac Together is a team-based twist on tic tac toe. Every round, all moves are placed on the board at the same time. If X's and O's are placed in the same space, the teams have to duke it out on a smaller 'inner board' to claim it. The game quickly spirals out of control as more inner boards are created and the number of possible moves grows. Up to twelve players can join the game from their phone or browser through a simple web interface with no downloads required. Games are highly customizable, so players can come up with new and interesting ways to play. Customizable settings include: Number of moves per player Inner boards at the start of a games Number of players on each team Time to enter move More!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1583910/header.jpg?t=1620744120",
+    "Price": 4.99,
+    "Developers": "andrfw,impacioble",
+    "Publishers": "andrfw,impacioble",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1583910/ss_f14e99e3b8982d79474da5c971c84225df5b2c60.1920x1080.jpg?t=1620744120,https://cdn.akamai.steamstatic.com/steam/apps/1583910/ss_93bf972def1ef68f32627ec59718937a5420134c.1920x1080.jpg?t=1620744120,https://cdn.akamai.steamstatic.com/steam/apps/1583910/ss_f6069e50f638b74841ef7b093e09739aa3573b15.1920x1080.jpg?t=1620744120,https://cdn.akamai.steamstatic.com/steam/apps/1583910/ss_68a4e4e2388063b22eca3dfdf9d1a0971087571a.1920x1080.jpg?t=1620744120,https://cdn.akamai.steamstatic.com/steam/apps/1583910/ss_66f179ba8bbacbd8bde506e1734b8c67333e9231.1920x1080.jpg?t=1620744120,https://cdn.akamai.steamstatic.com/steam/apps/1583910/ss_804c9dfd05fd86c031c0aef3becad014d1a1c6e6.1920x1080.jpg?t=1620744120",
+    "Slug": "tic-tac-together",
+    "Meta Title": "Tic Tac Together: May 11, 2021, andrfw,impacioble and Ful...",
+    "Meta Description": "Looking for information on Tic Tac Together? Check out the release date (May 11, 2021), developer insights from andrfw,impacioble, and a complete game s...",
+    "Alt Text Image": "Official header image for Tic Tac Together game - Steam 1583910",
+    "Canonical URL": "https://gusku.site/game/tic-tac-together",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tic Tac Together\", \"description\": \"Looking for information on Tic Tac Together? Check out the release date (May 11, 2021), developer insights from andrfw,impacioble, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 11, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"andrfw,impacioble\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"andrfw,impacioble\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1583910/header.jpg?t=1620744120\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

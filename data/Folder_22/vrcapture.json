@@ -1,0 +1,21 @@
+{
+    "AppID": 544420,
+    "Name": "VRCapture",
+    "Release date": "Nov 3, 2016",
+    "About the game": "VRCapture is a totally free tool to create amazing VR videos. Perfect for professionals and beginners, who really want to pull out great quality videos from vitural world. When you are playing VR games or running VR applications, you can record the full scene with VRCapture and create immersive videos for everyone. The recorded video, which is immersive, can be played on your computer or through HMD. Also, YouTube-share option is available. Your family and friends can experience what you have experienced in virtual world with Cardboard or other HMD. Key features Capture videos in head-mounted display Record multi-channel audio Play recorded video on HMD or PC Share video to YouTube (cardboard view) Compatible devices: HTC Vive, Oculus Rift CV1 and Oculus Rift DK2 How it works Make sure HMD is on and a VR application or game is launched Click the Record button. It starts recording after the countdown hits zero(Shortcut key: Ctrl+F12) Click Stop button to stop recording(Shortcut key: Ctrl+F12) Double click to play the recorded video Click the share button to upload the video to YouTube System Requirements NVidia GTX 970/ AMD R9 290 equivalent or higher Intel i5-4590 or higher Compatible with Windows 7 SP1 or higher Compatible with 64 bit Windows * Note: We have found that F-Secure and BitDefender have misdetection virus alarm of VRCapture. We are contacting them to remove the false alarm. VRCapture does not contain any virus or trojan. Before the alarm removed, please add this program to the whitelist.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/544420/header.jpg?t=1495679285",
+    "Price": 0.0,
+    "Developers": "XR Team",
+    "Publishers": "XR Team",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/544420/ss_6f672036df7a7065d7d8037a0421674dd7f8556a.1920x1080.jpg?t=1495679285,https://cdn.akamai.steamstatic.com/steam/apps/544420/ss_b858d49ee58b84981185fbeb6637785fb54ba6df.1920x1080.jpg?t=1495679285,https://cdn.akamai.steamstatic.com/steam/apps/544420/ss_8db73bc59d16915e3c75b6b669bba8eefee95bcc.1920x1080.jpg?t=1495679285,https://cdn.akamai.steamstatic.com/steam/apps/544420/ss_661fbc0091fc802e164ad1616da1ebf98f5f661c.1920x1080.jpg?t=1495679285,https://cdn.akamai.steamstatic.com/steam/apps/544420/ss_87d53f5fa091aa70f6ad79fd103274115a2c4836.1920x1080.jpg?t=1495679285",
+    "Slug": "vrcapture",
+    "Meta Title": "VRCapture: Nov 3, 2016, XR Team and Full Overview",
+    "Meta Description": "Looking for information on VRCapture? Check out the release date (Nov 3, 2016), developer insights from XR Team, and a complete game summary.",
+    "Alt Text Image": "Official header image for VRCapture game - Steam 544420",
+    "Canonical URL": "https://gusku.site/game/vrcapture",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VRCapture\", \"description\": \"Looking for information on VRCapture? Check out the release date (Nov 3, 2016), developer insights from XR Team, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 3, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"XR Team\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"XR Team\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/544420/header.jpg?t=1495679285\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

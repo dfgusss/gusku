@@ -1,0 +1,21 @@
+{
+    "AppID": 883290,
+    "Name": "MixCast",
+    "Release date": "Jul 4, 2018",
+    "About the game": "MixCast is the best way to create, share and broadcast mixed reality content to any audience, with almost any equipment, VR app, or filming environment. Getting started is easy; MixCast Studio will guide you through each of the three setup steps (Camera Selection, Background Removal, and Camera Alignment) so that you can start creating MR content within minutes. With the all new WildKey™ feature, you can now remove your background with or without a green screen. Whether you’re in a green screen studio, a busy conference booth, or your own living room, MixCast has a background removal option that fits your setup. As of 2.0, we now also offer expanded capabilities with depth cameras! See our website for a complete list of compatible hardware. Once calibrated, MixCast can communicate with almost any Unreal or Unity VR application to enable real-time mixed reality streaming and recording. From trailers, to livestreams, to tradeshow demos, and everything in between, mixed reality content is the best way to share virtual reality beyond the headset You can download and integrate the MixCast SDK for free! Integration adds your title to the growing family of MixCast-compatible titles, and guarantees the best possible mixed reality results. (The best part: our devs are happy to help you out with questions or integration steps!) Download the SDK free from our website, and join the official Discord to chat with our devs. While MixCast results are best when used with an SDK-integrated title, it can also be used with most Unity SteamVR titles, including: Accounting+ Audioshield Breaktime! Climbey Cosmic Trip Cowbots and Aliens Fruit Ninja VR Job simulator Rec Room Richie's Plank Experience Sairento Vr Smashbox Arena The Pierhead Arcade For more information check out our official website!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/883290/header.jpg?t=1532476178",
+    "Price": 0.0,
+    "Developers": "Blueprint Reality",
+    "Publishers": "Blueprint Reality",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/883290/ss_f840808b73c3278a92d3886f28d9f3f48b808bea.1920x1080.jpg?t=1532476178,https://cdn.akamai.steamstatic.com/steam/apps/883290/ss_77f29a77dd8849f407df1cea06732617e3518b2d.1920x1080.jpg?t=1532476178,https://cdn.akamai.steamstatic.com/steam/apps/883290/ss_94192c98733b9f2feed80f96e88d814dfb25c948.1920x1080.jpg?t=1532476178,https://cdn.akamai.steamstatic.com/steam/apps/883290/ss_9ecb6638ee04c6a79315867d003681a734794c72.1920x1080.jpg?t=1532476178,https://cdn.akamai.steamstatic.com/steam/apps/883290/ss_e0c5b3367c7ff72621fb2bc9bb57e22c404b3e20.1920x1080.jpg?t=1532476178",
+    "Slug": "mixcast",
+    "Meta Title": "MixCast: Jul 4, 2018, Blueprint Reality and Full Overview",
+    "Meta Description": "Looking for information on MixCast? Check out the release date (Jul 4, 2018), developer insights from Blueprint Reality, and a complete game summary.",
+    "Alt Text Image": "Official header image for MixCast game - Steam 883290",
+    "Canonical URL": "https://gusku.site/game/mixcast",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MixCast\", \"description\": \"Looking for information on MixCast? Check out the release date (Jul 4, 2018), developer insights from Blueprint Reality, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 4, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Blueprint Reality\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Blueprint Reality\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/883290/header.jpg?t=1532476178\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

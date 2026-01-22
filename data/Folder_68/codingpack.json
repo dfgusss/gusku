@@ -1,0 +1,21 @@
+{
+    "AppID": 2227490,
+    "Name": "CodingPack",
+    "Release date": "Dec 25, 2022",
+    "About the game": "'CodingPack' is a puzzle game about moving package to the right position, and you can do it by no other means than giving them pre-coded commands. The number of commands are limited per level, so you must make logical deductions while you predict the result of your command. As you dive deeper into the levels, there would be more game mechanics to explore. The game has 45 hand-made levels that experiment with the game's mechanics in a wide variety of ways, requiring player to understand and manipulate the rules in order to figure out the answers.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2227490/header.jpg?t=1671961234",
+    "Price": 1.99,
+    "Developers": "Lemon",
+    "Publishers": "Lemon",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2227490/ss_57dada6bc9994da635467c4ef8ce60d80545d9a0.1920x1080.jpg?t=1671961234,https://cdn.akamai.steamstatic.com/steam/apps/2227490/ss_6b0b236b48b75aeb1a3bc52156562b6067f9af21.1920x1080.jpg?t=1671961234,https://cdn.akamai.steamstatic.com/steam/apps/2227490/ss_a704d3ba6346604ae94b147c8fb4f33f6c91d8a8.1920x1080.jpg?t=1671961234,https://cdn.akamai.steamstatic.com/steam/apps/2227490/ss_427facf10b6cc629680048dc47e6200539224726.1920x1080.jpg?t=1671961234,https://cdn.akamai.steamstatic.com/steam/apps/2227490/ss_fe4afca74a1440adecd4e464aa36f4f1e88aa2f4.1920x1080.jpg?t=1671961234,https://cdn.akamai.steamstatic.com/steam/apps/2227490/ss_0f567eb14bdc19025e634f5f3fe7e7154e35d840.1920x1080.jpg?t=1671961234",
+    "Slug": "codingpack",
+    "Meta Title": "CodingPack: Dec 25, 2022, Lemon and Full Overview",
+    "Meta Description": "Looking for information on CodingPack? Check out the release date (Dec 25, 2022), developer insights from Lemon, and a complete game summary.",
+    "Alt Text Image": "Official header image for CodingPack game - Steam 2227490",
+    "Canonical URL": "https://gusku.site/game/codingpack",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CodingPack\", \"description\": \"Looking for information on CodingPack? Check out the release date (Dec 25, 2022), developer insights from Lemon, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 25, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lemon\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Lemon\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2227490/header.jpg?t=1671961234\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

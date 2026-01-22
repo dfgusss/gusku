@@ -1,0 +1,21 @@
+{
+    "AppID": 668230,
+    "Name": "SLI-FI: 2D Planet Platformer",
+    "Release date": "Sep 21, 2020",
+    "About the game": "SLI-FI is a 2D planet platformer. It's all about jumping from planet to planet and collecting coins to unlock more worlds and levels. While jumping from planet to planet you always have to get re used to the atmosphere because planets vary. Some planets have high gravity, others really low gravity. Some planets even bounce you off or are made out of water and you can jump through them. Level Unlocks You have to collect coins in the levels to unlock new worlds and more levels! Each level contains 3 coins you can find. Some are harder to reach and some really easily. Highscores Every level starts with a score of 10.000. The longer it takes you to complete the level, the smaller your score will be. Additionally you can make your score rise again by collecting coins, destroying barrels or doing cool tricks. Physics Every planet has his own atmosphere. Some are broken, stronger or weaker. As soon as the player enters an atmosphere, he will be attracted by this planet. Co-op Share your fun with a friend! You can play with one of your Steam friends and try to solve puzzles and finish the levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/668230/header.jpg?t=1600705759",
+    "Price": 6.99,
+    "Developers": "etaxoft",
+    "Publishers": "etaxoft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/668230/ss_4a9f5d32b06c668c583eca49eab07cd15dc54af5.1920x1080.jpg?t=1600705759,https://cdn.akamai.steamstatic.com/steam/apps/668230/ss_7210cd54b2a834e9a3309e3f694e07c7ffb6249a.1920x1080.jpg?t=1600705759,https://cdn.akamai.steamstatic.com/steam/apps/668230/ss_6ca792c4ea8662a14ce71b5b7d316534c86e585b.1920x1080.jpg?t=1600705759,https://cdn.akamai.steamstatic.com/steam/apps/668230/ss_683dfb2138f925aee0e175ec12035498f310b7f5.1920x1080.jpg?t=1600705759,https://cdn.akamai.steamstatic.com/steam/apps/668230/ss_6277499c1a33216b179e2a4628f4e4dba853f1f1.1920x1080.jpg?t=1600705759,https://cdn.akamai.steamstatic.com/steam/apps/668230/ss_123362299debee399c2d259edcfcdec8f48fde51.1920x1080.jpg?t=1600705759,https://cdn.akamai.steamstatic.com/steam/apps/668230/ss_67b729df0b9a207e81e467f2ebe50807d827d1b6.1920x1080.jpg?t=1600705759",
+    "Slug": "sli-fi-2d-planet-platformer",
+    "Meta Title": "SLI-FI: 2D Planet Platformer: Sep 21, 2020, etaxoft and F...",
+    "Meta Description": "Looking for information on SLI-FI: 2D Planet Platformer? Check out the release date (Sep 21, 2020), developer insights from etaxoft, and a complete game...",
+    "Alt Text Image": "Official header image for SLI-FI: 2D Planet Platformer game - Steam 668230",
+    "Canonical URL": "https://gusku.site/game/sli-fi-2d-planet-platformer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SLI-FI: 2D Planet Platformer\", \"description\": \"Looking for information on SLI-FI: 2D Planet Platformer? Check out the release date (Sep 21, 2020), developer insights from etaxoft, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 21, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"etaxoft\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"etaxoft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/668230/header.jpg?t=1600705759\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1676060,
+    "Name": "Beta Escape",
+    "Release date": "Sep 16, 2021",
+    "About the game": "Beta Escape Beta Escape is an escape room inspired game. You can play in coop with your friends, or you can do it all by yourself. To complete the game, you will need to solve various puzzles. Your host and GM is Romeo, a soon-to-be owner of an escape rooms company. Before he opens his business, he needs to test and improve his game. That's where you come in: you will beta-test Romeo's game. All he asks is that you answer some questions at the end, because he wants to create the best game ever!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1676060/header.jpg?t=1631797710",
+    "Price": 4.99,
+    "Developers": "Guillaume Lamontagne",
+    "Publishers": "Guillaume Lamontagne",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1676060/ss_561382cad758a45fe0c965b191e853c92d33084f.1920x1080.jpg?t=1631797710,https://cdn.akamai.steamstatic.com/steam/apps/1676060/ss_09248226a61b24c828f183e97f2fcbba8250f5a9.1920x1080.jpg?t=1631797710,https://cdn.akamai.steamstatic.com/steam/apps/1676060/ss_131b4fff5678caab9091a5a57bb024c40a36ea2f.1920x1080.jpg?t=1631797710,https://cdn.akamai.steamstatic.com/steam/apps/1676060/ss_a72418d1dbf9c46932362ba03dbda77e75f44be6.1920x1080.jpg?t=1631797710,https://cdn.akamai.steamstatic.com/steam/apps/1676060/ss_545bc8acb1e3d9dac2dfff456c09b15cf2e79ddc.1920x1080.jpg?t=1631797710,https://cdn.akamai.steamstatic.com/steam/apps/1676060/ss_f82bb3f234782ac9f7b194350c7b4f0ba41621b2.1920x1080.jpg?t=1631797710",
+    "Slug": "beta-escape",
+    "Meta Title": "Beta Escape: Sep 16, 2021, Guillaume Lamontagne and Full ...",
+    "Meta Description": "Looking for information on Beta Escape? Check out the release date (Sep 16, 2021), developer insights from Guillaume Lamontagne, and a complete game sum...",
+    "Alt Text Image": "Official header image for Beta Escape game - Steam 1676060",
+    "Canonical URL": "https://gusku.site/game/beta-escape",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Beta Escape\", \"description\": \"Looking for information on Beta Escape? Check out the release date (Sep 16, 2021), developer insights from Guillaume Lamontagne, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 16, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Guillaume Lamontagne\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Guillaume Lamontagne\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1676060/header.jpg?t=1631797710\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2142210,
+    "Name": "Project Alex",
+    "Release date": "Sep 23, 2022",
+    "About the game": "Summary Cyberpunk style! Classic word-filling game! Exquisite anime CG and art style! System There are word prompt questions on the left side of each level, fill in the corresponding word answer in the box, and then click the detect button at the bottom center of the screen. It will monitor whether the answer entered by the player is correct. If it is correct, the enemy on the right side of the level will lose a certain amount of HP. If it is wrong, the player will lose HP. If the enemy's hp is 0, the level will be cleared, and if our hp is 0, the game will be over. Clearing the level will unlock the beautiful CG in the gallery",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2142210/header.jpg?t=1663924998",
+    "Price": 2.09,
+    "Developers": "PAWorks",
+    "Publishers": "PAGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2142210/ss_7314fdaacbbf16a98980084451c060bf278bc1f7.1920x1080.jpg?t=1663924998,https://cdn.akamai.steamstatic.com/steam/apps/2142210/ss_4e24dad756efd2b528525864045f9a00d3ad1e56.1920x1080.jpg?t=1663924998,https://cdn.akamai.steamstatic.com/steam/apps/2142210/ss_74e87f613fcc50df4548d0503f43997caded1b99.1920x1080.jpg?t=1663924998,https://cdn.akamai.steamstatic.com/steam/apps/2142210/ss_2fdd65db8702db8d7d480d1e4af96463b728b057.1920x1080.jpg?t=1663924998,https://cdn.akamai.steamstatic.com/steam/apps/2142210/ss_b6f0b0aff750649ccb369a7ecf8b23404aacbd17.1920x1080.jpg?t=1663924998,https://cdn.akamai.steamstatic.com/steam/apps/2142210/ss_c45c11254ccf72ad7d40be73e2bfd339ca1204c6.1920x1080.jpg?t=1663924998,https://cdn.akamai.steamstatic.com/steam/apps/2142210/ss_7cd2720e6b3a15b5b77e86181541ba74a9ff60fb.1920x1080.jpg?t=1663924998",
+    "Slug": "project-alex",
+    "Meta Title": "Project Alex: Sep 23, 2022, PAWorks and Full Overview",
+    "Meta Description": "Looking for information on Project Alex? Check out the release date (Sep 23, 2022), developer insights from PAWorks, and a complete game summary.",
+    "Alt Text Image": "Official header image for Project Alex game - Steam 2142210",
+    "Canonical URL": "https://gusku.site/game/project-alex",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Project Alex\", \"description\": \"Looking for information on Project Alex? Check out the release date (Sep 23, 2022), developer insights from PAWorks, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 23, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"PAWorks\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PAGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2142210/header.jpg?t=1663924998\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.09, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

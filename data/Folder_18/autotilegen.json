@@ -1,0 +1,21 @@
+{
+    "AppID": 305860,
+    "Name": "AutoTileGen",
+    "Release date": "Jul 9, 2014",
+    "About the game": "Make 2D tilesets for your games in seconds. Save development time and money by getting forty-eight tiles for the effort of making three with added bonus features such as dynamic lighting, corner blending modes and more. Main features Automatic tileset generation (48 tiles) from just three input tiles In app pixel editor for pixel-art tiles with realtime tileset preview Six different corner blending modes Normal maps generation for dynamic lighting Automatic corner mask generation Slope generation for the complete tileset Normal map generation for dynamic lighting Any tile size supported Transparency depth adjustment for surface details (e.g. grass, rocks...) Full tileset exporting for use in your games (GameMaker, Unity, Construct 2 or any other IDE) Manual rendering mode, project importing/exporting, dynamic color palletes and more Get AutoTileGen and start making tiles for your games in no time!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/305860/header.jpg?t=1459631978",
+    "Price": 9.99,
+    "Developers": "Pixelatto",
+    "Publishers": "Pixelatto",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/305860/ss_f75806e53cdd99de2464dca09331cc6cc2f0d5ff.1920x1080.jpg?t=1459631978,https://cdn.akamai.steamstatic.com/steam/apps/305860/ss_5fe6f6ecde2d5e3b0f450b273842474b32fd34af.1920x1080.jpg?t=1459631978,https://cdn.akamai.steamstatic.com/steam/apps/305860/ss_daf504786f8f981f9116409758776fd88a03bb48.1920x1080.jpg?t=1459631978,https://cdn.akamai.steamstatic.com/steam/apps/305860/ss_a3714227344bc167a3fe421f9c3ad3054ab13b63.1920x1080.jpg?t=1459631978",
+    "Slug": "autotilegen",
+    "Meta Title": "AutoTileGen: Jul 9, 2014, Pixelatto and Full Overview",
+    "Meta Description": "Looking for information on AutoTileGen? Check out the release date (Jul 9, 2014), developer insights from Pixelatto, and a complete game summary.",
+    "Alt Text Image": "Official header image for AutoTileGen game - Steam 305860",
+    "Canonical URL": "https://gusku.site/game/autotilegen",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"AutoTileGen\", \"description\": \"Looking for information on AutoTileGen? Check out the release date (Jul 9, 2014), developer insights from Pixelatto, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 9, 2014\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pixelatto\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pixelatto\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/305860/header.jpg?t=1459631978\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1873300,
+    "Name": "Gyelfars",
+    "Release date": "Aug 24, 2022",
+    "About the game": "Gyelfars is a turn-based tactics game with resource management. Narrative Cleanse the lands of a strange corruption. The Game Effeciently defeat enemies by taking advantage of your unit's strengths, terrain and equipment effects. Use the stance system to eliminate random chance in battle, but at a price. Battle damage is persistent across maps. Your units and resources are finite. You'll have to live with the results of the decisions you make at the beginning. The Stance System The stance system can be used to change the odds of a situation and address frustration born of random hit chances, but with a penalty. There are 3 stances: Cautious stance Unit evasion percentage is it's chance to evade damage Reckless stance Target's evasion percentage is now attack damage reduction Unit cannot be evaded Unit cannot evade Unit takes more damage Defender stance Unit takes damage to energy points before hit points Unit cannot evade Unit cannot attack Units cannot attack or restore without energy points",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1873300/header.jpg?t=1661328248",
+    "Price": 0.0,
+    "Developers": "Setso Botswana Pty Ltd",
+    "Publishers": "Setso Botswana Pty Ltd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1873300/ss_f3acef08d7e021ed1b4761a6989fd90b16ff1900.1920x1080.jpg?t=1661328248,https://cdn.akamai.steamstatic.com/steam/apps/1873300/ss_ade9edf236cfb972998853fb8134f38bd02d5254.1920x1080.jpg?t=1661328248,https://cdn.akamai.steamstatic.com/steam/apps/1873300/ss_eb27b48dfb3341042a6de37cb443a7975dc30ef1.1920x1080.jpg?t=1661328248,https://cdn.akamai.steamstatic.com/steam/apps/1873300/ss_8207f00569d6c73509750d6afad402fea8f849cb.1920x1080.jpg?t=1661328248,https://cdn.akamai.steamstatic.com/steam/apps/1873300/ss_e8d07a893b8ca5f71f2c713ef69ef0fa81326b01.1920x1080.jpg?t=1661328248",
+    "Slug": "gyelfars",
+    "Meta Title": "Gyelfars: Aug 24, 2022, Setso Botswana Pty Ltd and Full O...",
+    "Meta Description": "Looking for information on Gyelfars? Check out the release date (Aug 24, 2022), developer insights from Setso Botswana Pty Ltd, and a complete game summ...",
+    "Alt Text Image": "Official header image for Gyelfars game - Steam 1873300",
+    "Canonical URL": "https://gusku.site/game/gyelfars",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Gyelfars\", \"description\": \"Looking for information on Gyelfars? Check out the release date (Aug 24, 2022), developer insights from Setso Botswana Pty Ltd, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 24, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Setso Botswana Pty Ltd\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Setso Botswana Pty Ltd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1873300/header.jpg?t=1661328248\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

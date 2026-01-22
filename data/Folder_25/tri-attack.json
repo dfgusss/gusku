@@ -1,0 +1,21 @@
+{
+    "AppID": 1134190,
+    "Name": "tri.Attack();",
+    "Release date": "Oct 4, 2019",
+    "About the game": "tri.About(' tri.Attack(); is a 2D arcade game with a theme inspired by classic Atari-era entertainment. As the player, you control a single tri with unique powers compared to other polygons. The tri has the ability to shoot out of your body. Once shot out, the tri can recall back to yourself. This boomerang-like tri serves as your weapon, which you need to use to defeat enemy polygons. Several different enemies exist in the game, each giving different amounts of points. The score gained increases for each enemy defeated with a single shot of your tri. Attempt to get as high of a score as possible, unlocking all of the tri variants as you play! Tri Types Normal : Your first tri! This tri has a great size and will move straight in the direction that you shoot it in. Triple : They're smaller, but there are three of them! The tris will go in three separate directions of the player. The player can shoot out again once all of the three tris are recalled. Follow : This tri has homing properties to it, constantly following your cursor, with the caveat that the time for it to automatically recall to the player is less than other tri types. Sponge : Bigger is better. The tri will start out at a somewhat smaller size, but will increase its size for each enemy that it hits. The size of the tri resets once it is recalled. More tris are included! tri.Attack(); is designed and programmed by Demmy Mangusso. Composition is provided by Nick West. Additional programming by Yukon Wainczak ');",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1134190/header.jpg?t=1603215129",
+    "Price": 2.99,
+    "Developers": "Demmy Mangusso",
+    "Publishers": "Demmy Mangusso",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1134190/ss_4a8a6d3ff296e29b3d54565806a781fe3b32e4ca.1920x1080.jpg?t=1603215129,https://cdn.akamai.steamstatic.com/steam/apps/1134190/ss_d83c8924bae8c623f411c189be88149ec49ca633.1920x1080.jpg?t=1603215129,https://cdn.akamai.steamstatic.com/steam/apps/1134190/ss_c055bb271a0102f56f6e4363be095d2da0473ddd.1920x1080.jpg?t=1603215129,https://cdn.akamai.steamstatic.com/steam/apps/1134190/ss_df40200d465742ee0e8911785bba6d4a3122256c.1920x1080.jpg?t=1603215129,https://cdn.akamai.steamstatic.com/steam/apps/1134190/ss_38b36d282406a6c25b1b06dc87d3e19cfa0cf1da.1920x1080.jpg?t=1603215129,https://cdn.akamai.steamstatic.com/steam/apps/1134190/ss_85b506a8e2bc98c140445a2211a3645f39ea97ae.1920x1080.jpg?t=1603215129",
+    "Slug": "tri-attack",
+    "Meta Title": "tri.Attack();: Oct 4, 2019, Demmy Mangusso and Full Overview",
+    "Meta Description": "Looking for information on tri.Attack();? Check out the release date (Oct 4, 2019), developer insights from Demmy Mangusso, and a complete game summary.",
+    "Alt Text Image": "Official header image for tri.Attack(); game - Steam 1134190",
+    "Canonical URL": "https://gusku.site/game/tri-attack",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"tri.Attack();\", \"description\": \"Looking for information on tri.Attack();? Check out the release date (Oct 4, 2019), developer insights from Demmy Mangusso, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 4, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Demmy Mangusso\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Demmy Mangusso\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1134190/header.jpg?t=1603215129\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

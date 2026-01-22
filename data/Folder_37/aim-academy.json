@@ -1,0 +1,21 @@
+{
+    "AppID": 1463020,
+    "Name": "Aim Academy",
+    "Release date": "Jan 22, 2021",
+    "About the game": "Quickly improve different aspects of your ability to aim in FPS games. Practice aiming movements in an isolated and consistent way, without loadings and distractions of a regular shooter game. Just pure training! The game contains a list of trials in active development that can help you improve in the following topics: Reaction time Flicking Target tracking Muscular memory with mouse or gamepad It contains ranking for each test, so you can check where you stand among other players around the world. Also has an experimental feature that can bring mouse sensitivity from other games to be used in your training sessions. This game is in active development, so we expected to implement and improve features based on community feedback. You can follow our public issue tracker on -tracker/-/issues . If you catch any bug or have a feature request please open an issue and we will get back to you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1463020/header.jpg?t=1625149160",
+    "Price": 3.99,
+    "Developers": "Solo Dev",
+    "Publishers": "Solo Dev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1463020/ss_d2d334d336894e48fc596abd04cb6c5aec44b584.1920x1080.jpg?t=1625149160,https://cdn.akamai.steamstatic.com/steam/apps/1463020/ss_821e91464027f61aae6f8c6d255d2b860378d629.1920x1080.jpg?t=1625149160,https://cdn.akamai.steamstatic.com/steam/apps/1463020/ss_7f6b05482adb19b34205409cef320a0ce0eee29a.1920x1080.jpg?t=1625149160,https://cdn.akamai.steamstatic.com/steam/apps/1463020/ss_e5c2dca3730d69652139f6b4b3f5095b6f622fc4.1920x1080.jpg?t=1625149160,https://cdn.akamai.steamstatic.com/steam/apps/1463020/ss_8c5589dfb57195689fd33453b7afcbaaa677cde8.1920x1080.jpg?t=1625149160",
+    "Slug": "aim-academy",
+    "Meta Title": "Aim Academy: Jan 22, 2021, Solo Dev and Full Overview",
+    "Meta Description": "Looking for information on Aim Academy? Check out the release date (Jan 22, 2021), developer insights from Solo Dev, and a complete game summary.",
+    "Alt Text Image": "Official header image for Aim Academy game - Steam 1463020",
+    "Canonical URL": "https://gusku.site/game/aim-academy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Aim Academy\", \"description\": \"Looking for information on Aim Academy? Check out the release date (Jan 22, 2021), developer insights from Solo Dev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 22, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Solo Dev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Solo Dev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1463020/header.jpg?t=1625149160\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1113230,
+    "Name": "TerTD",
+    "Release date": "Aug 12, 2019",
+    "About the game": "TerTD is a mix of tower defense and real-time strategy. The main objective of TerTD is to annihilate the enemy. Command-base is the most important building in the game. Upon destruction by enemy, the player immediately loses the game. The player can build various types of towers and choose your favorite upgrades. These towers must be connected to the energy network which has at least one reactor or the command-base. Additionally, the player must monitor energy production and consumption. If more energy is consumed than gained, weapons won't be able to be recharged as quickly. Hint: Let's use the booster well. The booster strengthens the turret and drone base. The combination of high cost tower and red booster, the combination of drone and blue booster, is effective.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1113230/header.jpg?t=1573878684",
+    "Price": 8.99,
+    "Developers": "TeraHard",
+    "Publishers": "TeraHard",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1113230/ss_94bd5db5d09f7d9d5b62cd0cad3366815a6fd3b4.1920x1080.jpg?t=1573878684,https://cdn.akamai.steamstatic.com/steam/apps/1113230/ss_e3acfa8510e4dcd2815ba19b5beab452bf7eab55.1920x1080.jpg?t=1573878684,https://cdn.akamai.steamstatic.com/steam/apps/1113230/ss_9811a6b7d91b26ae9ff2f2b8c19c05842a2361a7.1920x1080.jpg?t=1573878684,https://cdn.akamai.steamstatic.com/steam/apps/1113230/ss_8e9a215b7581197371da785b72dc0584918e5c4b.1920x1080.jpg?t=1573878684,https://cdn.akamai.steamstatic.com/steam/apps/1113230/ss_172dde65d4ffbdc47c8e9446462d826bd8733333.1920x1080.jpg?t=1573878684,https://cdn.akamai.steamstatic.com/steam/apps/1113230/ss_b0070e2f6ad5c47268718050e2f08de26735cb6e.1920x1080.jpg?t=1573878684",
+    "Slug": "tertd",
+    "Meta Title": "TerTD: Aug 12, 2019, TeraHard and Full Overview",
+    "Meta Description": "Looking for information on TerTD? Check out the release date (Aug 12, 2019), developer insights from TeraHard, and a complete game summary.",
+    "Alt Text Image": "Official header image for TerTD game - Steam 1113230",
+    "Canonical URL": "https://gusku.site/game/tertd",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TerTD\", \"description\": \"Looking for information on TerTD? Check out the release date (Aug 12, 2019), developer insights from TeraHard, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 12, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"TeraHard\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TeraHard\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1113230/header.jpg?t=1573878684\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

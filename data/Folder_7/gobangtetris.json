@@ -1,0 +1,21 @@
+{
+    "AppID": 1907430,
+    "Name": "GoBangTetris",
+    "Release date": "Mar 5, 2022",
+    "About the game": "GoBangTetris is a game combining GoBang and Tetris. GoBangTetris is primarily composed of a field of play in which pieces of different geometric forms, composed of white/black pieces, descend from the top of the field. During this descent, the player can move the pieces laterally and rotate them until they touch the bottom of the field or land on a piece that had been placed before it. The player can neither slow down the falling pieces nor stop them but can accelerate them. When five or more same-color pieces are in a row, column, or diagonal, they disappear, and the pieces placed above fall. Completing elimination gains scores. The player can clear multiple times at once, which can earn bonus scores. Every 20 blocks falling down move the player up a level, the speed of the falling pieces increases with each level, leaving the player with less time to think about the placement. sig:0xa25def1392c499b78d69502a5c58c36f5e63b2585efce8fd73e32b3a34a1a4620e92210c3927118a4aee40b88b7540f79525af1925090ab154ad0a585ea095f51c",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1907430/header.jpg?t=1651593429",
+    "Price": 0.0,
+    "Developers": "Huang Gaole,Aleksandr Makarov",
+    "Publishers": "Huang Gaole",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1907430/ss_addccb1cb0f67d014660aa5f6175749edb854125.1920x1080.jpg?t=1651593429,https://cdn.akamai.steamstatic.com/steam/apps/1907430/ss_46ce6155f765127c0fc23447ca994ca5680fc472.1920x1080.jpg?t=1651593429,https://cdn.akamai.steamstatic.com/steam/apps/1907430/ss_6fbc6f7797bbdb8c4d54117ae7db1b145aa0480f.1920x1080.jpg?t=1651593429,https://cdn.akamai.steamstatic.com/steam/apps/1907430/ss_c65f1cc74aa42aa7ead73e484b04dbca57ea25d9.1920x1080.jpg?t=1651593429,https://cdn.akamai.steamstatic.com/steam/apps/1907430/ss_037f79ba278404ae66242e5404e118f1ae1ee12b.1920x1080.jpg?t=1651593429",
+    "Slug": "gobangtetris",
+    "Meta Title": "GoBangTetris: Mar 5, 2022, Huang Gaole,Aleksandr Makarov ...",
+    "Meta Description": "Looking for information on GoBangTetris? Check out the release date (Mar 5, 2022), developer insights from Huang Gaole,Aleksandr Makarov, and a complete...",
+    "Alt Text Image": "Official header image for GoBangTetris game - Steam 1907430",
+    "Canonical URL": "https://gusku.site/game/gobangtetris",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GoBangTetris\", \"description\": \"Looking for information on GoBangTetris? Check out the release date (Mar 5, 2022), developer insights from Huang Gaole,Aleksandr Makarov, and a complete...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 5, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Huang Gaole,Aleksandr Makarov\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Huang Gaole\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1907430/header.jpg?t=1651593429\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

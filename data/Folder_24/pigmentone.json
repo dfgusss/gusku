@@ -1,0 +1,21 @@
+{
+    "AppID": 496530,
+    "Name": "Pigmentone",
+    "Release date": "Jul 8, 2016",
+    "About the game": "Pigmentone is a game that feels more like a guessing game than a logic puzzle. It will make you waste hours guessing, combining or dividing the colors through multiple rings of rainbow, and it's up to you to find out where each one goes. Badges : Features: · Simple and attractive graphics. · Color combination system in real time who does not obey the rules of material colors, but rather colored light. · 50 Levels that only will make you waste time. · Relaxing music, so that at least you don't despair. · A time-trial score that is only fun if you try the puzzle over and over again. · With a help system punish you if used. It’s a game mostly trial and error. Would you dare to play it? Game rules Emitters These points of color, emitting a beam of the same color. These can move only along the edge of the screen. Receivers Receivers pick up the emitter's color and become this color. The receiver is surrounded by a ring of rainbow, which becomes the same color as the center circle when it's right. Combining colors Receivers can be combined in various colors, and also throw a beam to pass their color to another receiver. Target All receivers need a particular color, and only until each has its right color, level is completed. Obstacles Obstacles are white rectangular elements, no beam can pass through them. Prisms Prisms are triangles that divide a combined color, only work if the combined color comes directly from the receiver where they were combined. These prisms have two triangles in sides that indicate where they throw the rays. Pipelines On stage there are pipes invisible, these divert the beam in a different direction already specified, these become visible when a ray touches them.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/496530/header.jpg?t=1516827648",
+    "Price": 1.99,
+    "Developers": "Sliverbroom Studios",
+    "Publishers": "OtakuMaker SARL",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/496530/ss_94550dd8e1ef2f532a92b71c0034e031fe7489a7.1920x1080.jpg?t=1516827648,https://cdn.akamai.steamstatic.com/steam/apps/496530/ss_ae580b5bb650af9eff5cae858a7ebaf7f39c9839.1920x1080.jpg?t=1516827648,https://cdn.akamai.steamstatic.com/steam/apps/496530/ss_6d6cc9fb299be8b2c86425f85349f8bbfeb6719b.1920x1080.jpg?t=1516827648,https://cdn.akamai.steamstatic.com/steam/apps/496530/ss_daab4f9888c962bf34cfde845fd2c793d228821d.1920x1080.jpg?t=1516827648,https://cdn.akamai.steamstatic.com/steam/apps/496530/ss_0fe00728672a71b27cfb04ff4a2faa3b15b41ec2.1920x1080.jpg?t=1516827648,https://cdn.akamai.steamstatic.com/steam/apps/496530/ss_0862b9a1c6a4bdbcf0a166f06ec50510c05d5882.1920x1080.jpg?t=1516827648,https://cdn.akamai.steamstatic.com/steam/apps/496530/ss_2ab3b90e9cf9ba55287268f821ec13b87c1dabf3.1920x1080.jpg?t=1516827648",
+    "Slug": "pigmentone",
+    "Meta Title": "Pigmentone: Jul 8, 2016, Sliverbroom Studios and Full Ove...",
+    "Meta Description": "Looking for information on Pigmentone? Check out the release date (Jul 8, 2016), developer insights from Sliverbroom Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pigmentone game - Steam 496530",
+    "Canonical URL": "https://gusku.site/game/pigmentone",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pigmentone\", \"description\": \"Looking for information on Pigmentone? Check out the release date (Jul 8, 2016), developer insights from Sliverbroom Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 8, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sliverbroom Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"OtakuMaker SARL\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/496530/header.jpg?t=1516827648\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

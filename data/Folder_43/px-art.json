@@ -1,0 +1,21 @@
+{
+    "AppID": 1378250,
+    "Name": "Px Art",
+    "Release date": "Aug 13, 2020",
+    "About the game": "《Px Art》是一款像素模型制作游戏，在游戏里你可以单人游玩创建自己的24*24*24像素模型，也可以参加在线比赛，在有限的时间中发挥你的创意，同其他人进行比拼，比赛结束后，你可以看到所有人的像素模型，并且进行投票。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1378250/header.jpg?t=1597808472",
+    "Price": 0.99,
+    "Developers": "Xiangsu Tang",
+    "Publishers": "Xiangsu Tang",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1378250/ss_5cb21fab545fb1144d5edd13110044b8668c7331.1920x1080.jpg?t=1597808472,https://cdn.akamai.steamstatic.com/steam/apps/1378250/ss_215c548282ac8bf87fc0c1f9070efba1bbd5c21c.1920x1080.jpg?t=1597808472,https://cdn.akamai.steamstatic.com/steam/apps/1378250/ss_2d164c0093975ff98f1c7b3ba1dbe1f2ff8d56a5.1920x1080.jpg?t=1597808472,https://cdn.akamai.steamstatic.com/steam/apps/1378250/ss_8e7e6be950399dac0e4784bfdbc6d8625f96b1eb.1920x1080.jpg?t=1597808472,https://cdn.akamai.steamstatic.com/steam/apps/1378250/ss_0229fcab229efe5a4d339516af219227e67a2490.1920x1080.jpg?t=1597808472,https://cdn.akamai.steamstatic.com/steam/apps/1378250/ss_c9552395eb34f39df0a6278c9f4f44eb91f4e418.1920x1080.jpg?t=1597808472",
+    "Slug": "px-art",
+    "Meta Title": "Px Art: Aug 13, 2020, Xiangsu Tang and Full Overview",
+    "Meta Description": "Looking for information on Px Art? Check out the release date (Aug 13, 2020), developer insights from Xiangsu Tang, and a complete game summary.",
+    "Alt Text Image": "Official header image for Px Art game - Steam 1378250",
+    "Canonical URL": "https://gusku.site/game/px-art",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Px Art\", \"description\": \"Looking for information on Px Art? Check out the release date (Aug 13, 2020), developer insights from Xiangsu Tang, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 13, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Xiangsu Tang\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Xiangsu Tang\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1378250/header.jpg?t=1597808472\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

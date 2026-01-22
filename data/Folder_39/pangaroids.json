@@ -1,0 +1,21 @@
+{
+    "AppID": 1835040,
+    "Name": "Pangaroids",
+    "Release date": "Apr 1, 2022",
+    "About the game": "Pangaroids is a small retro arcade shooter with simple mechanics, designed for the high score chaser in all of us. Endless survival score chasing gameplay inspired by some of our favourite arcade classics like Asteroids and Pang ! Command your ship to clear the screen of waves of enemy metal orbs. Easy to learn, simple controls to turn your ship, boost, and brake. Keyboard controls – arrow keys for moving, spacebar for shooting. Your ship can’t stop. Turn it left and right and use your thrust and brake to keep from crashing into enemies. Shooting big orbs will cause them to split into smaller orbs. Sometimes they will release a power-up. Pick up a wide variety of awesome power-ups to help you survive longer. But beware bad power-ups that speed up enemies, enlarge or slow your ship down, annoyingly reverse your controls, or encase your ship in a block of ice... making survival even more challenging. So why pick up bad power-ups? They're worth a lot more points! No risk, no reward. Don't like a spawned power-up? Shoot it until it changes to something you like. That is, if you think you have enough time to pick it up... Get the high score. Enjoy the chip tunes.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1835040/header.jpg?t=1648812989",
+    "Price": 0.0,
+    "Developers": "Adam Wozniak,Michal Wozniak",
+    "Publishers": "Adam Wozniak",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1835040/ss_d1991584bf3949f9131e27f1860f749efe567e58.1920x1080.jpg?t=1648812989,https://cdn.akamai.steamstatic.com/steam/apps/1835040/ss_f9e0dd043673145d91fdcf8c0cfb708f120e8849.1920x1080.jpg?t=1648812989,https://cdn.akamai.steamstatic.com/steam/apps/1835040/ss_84aad06785e18d0279df8a299066182c6e049a42.1920x1080.jpg?t=1648812989,https://cdn.akamai.steamstatic.com/steam/apps/1835040/ss_c9a0369616f78a7ed3d970bdf05571fe4ef0725d.1920x1080.jpg?t=1648812989,https://cdn.akamai.steamstatic.com/steam/apps/1835040/ss_05cb8840b3ed41a4e575d6d01529590cc1b933cf.1920x1080.jpg?t=1648812989",
+    "Slug": "pangaroids",
+    "Meta Title": "Pangaroids: Apr 1, 2022, Adam Wozniak,Michal Wozniak and ...",
+    "Meta Description": "Looking for information on Pangaroids? Check out the release date (Apr 1, 2022), developer insights from Adam Wozniak,Michal Wozniak, and a complete gam...",
+    "Alt Text Image": "Official header image for Pangaroids game - Steam 1835040",
+    "Canonical URL": "https://gusku.site/game/pangaroids",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pangaroids\", \"description\": \"Looking for information on Pangaroids? Check out the release date (Apr 1, 2022), developer insights from Adam Wozniak,Michal Wozniak, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Adam Wozniak,Michal Wozniak\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Adam Wozniak\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1835040/header.jpg?t=1648812989\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

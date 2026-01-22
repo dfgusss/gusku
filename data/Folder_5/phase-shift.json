@@ -1,0 +1,21 @@
+{
+    "AppID": 865250,
+    "Name": "Phase Shift",
+    "Release date": "Apr 25, 2019",
+    "About the game": "A multi-mode instrument focused rhythm game, built to work with a whole range of compatible Midi and USB instruments. Use the native Midi support to play with real Drum, or keyboard modes. Every mode can play together in any combination in online or local multiplayer. The game features a range of game modes, single player, vs multiplayer, coop multiplayer, along with practice modes allowing you to adjust the speed and loop specific sections of songs. The game also includes some party modes such as last man standing where the song keeps getting faster over time, weakest link where the weakest player will be eliminated each section and turbo modes. Play any combination of instruments and modes. Real drums - Full MIDI drum kits Advanced drums - Drums compatible with 7+ triggers Basic drums - Drums compatible with 4 or 5 triggers Real Guitar - Full MIDI guitars (post launch) Basic guitar - 5 Fret devices Real Keys - Two handed full range keyboard (post launch) Advanced keys - 2 Octave keyboards Basic keys - 5 Key devices Dance - 4 Direction devices (experimental) Customise the way you want to play, create backgrounds, pick your board colours, adjust the camera ranging from top down to on the board views.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/865250/header.jpg?t=1556210730",
+    "Price": 0.0,
+    "Developers": "DWSK Ltd",
+    "Publishers": "DWSK Ltd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/865250/ss_0a720be823414c2836e6560dd20cd06f10045a1b.1920x1080.jpg?t=1556210730,https://cdn.akamai.steamstatic.com/steam/apps/865250/ss_b636103c048092152d04185fce81b17168872f04.1920x1080.jpg?t=1556210730,https://cdn.akamai.steamstatic.com/steam/apps/865250/ss_3ffcd5a47e335b43beda729e675ee707a47935df.1920x1080.jpg?t=1556210730,https://cdn.akamai.steamstatic.com/steam/apps/865250/ss_7329b5771fa60f6e54a64ff49dcbcd1f24a94017.1920x1080.jpg?t=1556210730,https://cdn.akamai.steamstatic.com/steam/apps/865250/ss_fd838db5f10668526ddf2a5cbe9dc988c0448f07.1920x1080.jpg?t=1556210730,https://cdn.akamai.steamstatic.com/steam/apps/865250/ss_bc2136f2368fb4bacb499acbdac0f7c656896672.1920x1080.jpg?t=1556210730",
+    "Slug": "phase-shift",
+    "Meta Title": "Phase Shift: Apr 25, 2019, DWSK Ltd and Full Overview",
+    "Meta Description": "Looking for information on Phase Shift? Check out the release date (Apr 25, 2019), developer insights from DWSK Ltd, and a complete game summary.",
+    "Alt Text Image": "Official header image for Phase Shift game - Steam 865250",
+    "Canonical URL": "https://gusku.site/game/phase-shift",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Phase Shift\", \"description\": \"Looking for information on Phase Shift? Check out the release date (Apr 25, 2019), developer insights from DWSK Ltd, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 25, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"DWSK Ltd\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DWSK Ltd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/865250/header.jpg?t=1556210730\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

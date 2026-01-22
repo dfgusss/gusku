@@ -1,0 +1,21 @@
+{
+    "AppID": 342890,
+    "Name": "Synonymy",
+    "Release date": "Mar 5, 2015",
+    "About the game": "Synonymy is a non-profit, educational word game narrated by Richard Dawkins where players are challenged to find a path between random words through their network of synonyms. By taking the synonym of a word, and then a synonym of that synonym, and so on, you can ultimately arrive at any other word in a language. The game supports multiplayer, and weekly challenges in which users can compete globally on set start and end words. Every time a path is uncovered by a user, it is tweeted from @synonymygame and posted to our Facebook page. All profits go to educational charities. A visualization of the game's network can be seen here -- -- In order to compute relative distance, all synonyms were mapped using 3d graphing software, as if each word were a planet that had a gravitational pull proportional to its number of relationships to other nodes. Above is a 2D representation of that model, a 40,000 x 40,000 rendering. Music by Daduk",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/342890/header.jpg?t=1642775916",
+    "Price": 1.99,
+    "Developers": "Christopher Cinq-Mars Jarvis",
+    "Publishers": "Christopher Cinq-Mars Jarvis",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/342890/ss_c53ddca1fc111e5d3155fd2577af25290a4e6cbe.1920x1080.jpg?t=1642775916,https://cdn.akamai.steamstatic.com/steam/apps/342890/ss_a3eba19593df9499c2a95f357b3fbe8f4b101f19.1920x1080.jpg?t=1642775916,https://cdn.akamai.steamstatic.com/steam/apps/342890/ss_61345c1c11111bf77336ed9ea583f6501ef8b42a.1920x1080.jpg?t=1642775916,https://cdn.akamai.steamstatic.com/steam/apps/342890/ss_736a36b0fd87e6d0fb41811e01176ebd8dfcb7d3.1920x1080.jpg?t=1642775916,https://cdn.akamai.steamstatic.com/steam/apps/342890/ss_eca84d24cff6c7a48e79f8855bd2d31cc6b9ae91.1920x1080.jpg?t=1642775916",
+    "Slug": "synonymy",
+    "Meta Title": "Synonymy: Mar 5, 2015, Christopher Cinq-Mars Jarvis and F...",
+    "Meta Description": "Looking for information on Synonymy? Check out the release date (Mar 5, 2015), developer insights from Christopher Cinq-Mars Jarvis, and a complete game...",
+    "Alt Text Image": "Official header image for Synonymy game - Steam 342890",
+    "Canonical URL": "https://gusku.site/game/synonymy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Synonymy\", \"description\": \"Looking for information on Synonymy? Check out the release date (Mar 5, 2015), developer insights from Christopher Cinq-Mars Jarvis, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 5, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Christopher Cinq-Mars Jarvis\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Christopher Cinq-Mars Jarvis\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/342890/header.jpg?t=1642775916\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

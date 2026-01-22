@@ -1,0 +1,21 @@
+{
+    "AppID": 1990050,
+    "Name": "Creature Creator",
+    "Release date": "Aug 1, 2022",
+    "About the game": "Create your own creatures to explore online worlds with friends and collect parts to upgrade in this creative multiplayer experience! The creator is comprised of three modes: ✔ BUILD: Shape your creature's body and attach customizable parts to it. Each part may include special abilities that contribute to your overall statistics! ✔ PAINT: Color your creature's body and attached parts, and change the pattern of your creature’s skin! ✔ PLAY: Bring your animated creation to life! Upon release, the game and standalone creature creation tool will be made open source under the GPL-3 and MIT licenses, respectively. This will allow for creators of all disciplines to contribute to the project, let developers add creatures to their own commercial games, and provide students with a new solution to learn SOTA Unity technologies. Disclaimer: This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected to EA, or any of its subsidiaries or affiliates.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1990050/header.jpg?t=1659907785",
+    "Price": 0.99,
+    "Developers": "Daniel Lochner",
+    "Publishers": "Daniel Lochner",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1990050/ss_030eef9a346e7e47298b79a36d4f301967fd7078.1920x1080.jpg?t=1659907785,https://cdn.akamai.steamstatic.com/steam/apps/1990050/ss_c7352d6aff807c228801c992e22db4780539cc72.1920x1080.jpg?t=1659907785,https://cdn.akamai.steamstatic.com/steam/apps/1990050/ss_8f5e1da0de971742cbfe903c17c8eacd4ffb64a6.1920x1080.jpg?t=1659907785,https://cdn.akamai.steamstatic.com/steam/apps/1990050/ss_a92adecdd7b7069950574311bbaf83c8827b127b.1920x1080.jpg?t=1659907785,https://cdn.akamai.steamstatic.com/steam/apps/1990050/ss_c8048fb67acdc6f9dbb9f598067b56a12bd0c8d2.1920x1080.jpg?t=1659907785",
+    "Slug": "creature-creator",
+    "Meta Title": "Creature Creator: Aug 1, 2022, Daniel Lochner and Full Ov...",
+    "Meta Description": "Looking for information on Creature Creator? Check out the release date (Aug 1, 2022), developer insights from Daniel Lochner, and a complete game summary.",
+    "Alt Text Image": "Official header image for Creature Creator game - Steam 1990050",
+    "Canonical URL": "https://gusku.site/game/creature-creator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Creature Creator\", \"description\": \"Looking for information on Creature Creator? Check out the release date (Aug 1, 2022), developer insights from Daniel Lochner, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Daniel Lochner\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Daniel Lochner\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1990050/header.jpg?t=1659907785\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

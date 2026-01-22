@@ -1,0 +1,21 @@
+{
+    "AppID": 751200,
+    "Name": "Puzzle Tactics",
+    "Release date": "Dec 1, 2017",
+    "About the game": "Puzzle Tactics is a turn-based and grid-based tactics game played in various small levels. You play as the blue team with the goal of defeating the red team's units before losing your own. Later levels are more difficult and introduce more unit types in battle. The game is controlled using the mouse. Units Warrior: a powerful melee unit who can also hit multiple targets Archer: can shoot at targets 4-6 tiles away but only in 4 directions Mage: can attack with a fireball that hits multiple targets and ignores walls Defender: has the most health and can shield itself and allies to reduce damage Necromancer: summons skeletons to deal and take extra damage Skeleton: somewhat like a warrior, but weaker and with only a basic attack",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/751200/header.jpg?t=1626900130",
+    "Price": 0.99,
+    "Developers": "Robert Alvarez",
+    "Publishers": "Robert Alvarez",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/751200/ss_b7e0832cf4e4c6c77b3e09489448a0eee0f91449.1920x1080.jpg?t=1626900130,https://cdn.akamai.steamstatic.com/steam/apps/751200/ss_cfad3416e5ab5c63054eb54b160c4378b866d67b.1920x1080.jpg?t=1626900130,https://cdn.akamai.steamstatic.com/steam/apps/751200/ss_5f88c9def66b96e4021d3e7548d35d2bd5f6b117.1920x1080.jpg?t=1626900130,https://cdn.akamai.steamstatic.com/steam/apps/751200/ss_ab7d3b8140a1cdb20b05988b5f4b0fbdb17b3548.1920x1080.jpg?t=1626900130,https://cdn.akamai.steamstatic.com/steam/apps/751200/ss_5e7d36130b08d60096ae62cbea037af46ceb9cd4.1920x1080.jpg?t=1626900130",
+    "Slug": "puzzle-tactics",
+    "Meta Title": "Puzzle Tactics: Dec 1, 2017, Robert Alvarez and Full Over...",
+    "Meta Description": "Looking for information on Puzzle Tactics? Check out the release date (Dec 1, 2017), developer insights from Robert Alvarez, and a complete game summary.",
+    "Alt Text Image": "Official header image for Puzzle Tactics game - Steam 751200",
+    "Canonical URL": "https://gusku.site/game/puzzle-tactics",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Puzzle Tactics\", \"description\": \"Looking for information on Puzzle Tactics? Check out the release date (Dec 1, 2017), developer insights from Robert Alvarez, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 1, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Robert Alvarez\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Robert Alvarez\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/751200/header.jpg?t=1626900130\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

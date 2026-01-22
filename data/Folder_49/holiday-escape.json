@@ -1,0 +1,21 @@
+{
+    "AppID": 911050,
+    "Name": "Holiday Escape",
+    "Release date": "Aug 18, 2018",
+    "About the game": "Holiday Escape is a casual scorekeeping title for the PC originally created as a game jam project. In this title the player plays as a snowman out preparing for christmas when a massive snowball starts chasing him down the mountain. While running from the colossal snowball, players try to grab as many ornaments and presents as possible while evading obstacles on the path before the snowball eventually flattens the snowman. Holiday Escapes features an easy to learn control scheme that players of any skill level can learn quickly. The 2D like movement allows players to move to different sides of the trail while being able to slow down to get out of or prevent sticky situations. More daring players can utilize the rebound from hitting certain objects to change direction and grab more collectables. While collecting ornaments and presents, players will accumulate points talling to a final high score at the end of the game. Casual players can evaluate thier play session while more competitive players aim to beat their previous highest score. To add to this, the game modularly adds mountain pieces to the path by randomly picking from a set of collectable and obstacle arrangements so no two obstacle courses are ever the same.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/911050/header.jpg?t=1534599454",
+    "Price": 0.0,
+    "Developers": "Kit Gardner,Sam Robinson,Holly Gardner,Jason Runkel,Tommy Yoder,Josh Perusse",
+    "Publishers": NaN,
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/911050/ss_66770f254854b3ad6ff24afd6b9e677b585b4738.1920x1080.jpg?t=1534599454,https://cdn.akamai.steamstatic.com/steam/apps/911050/ss_446d6838b47947c49dceedf88187121dcb17f2b2.1920x1080.jpg?t=1534599454,https://cdn.akamai.steamstatic.com/steam/apps/911050/ss_93581659a0c20fa1158e6063b66ddc2dcd9b3ee7.1920x1080.jpg?t=1534599454,https://cdn.akamai.steamstatic.com/steam/apps/911050/ss_34989ef6c4fed05ab75887b245baf031802b8aa0.1920x1080.jpg?t=1534599454,https://cdn.akamai.steamstatic.com/steam/apps/911050/ss_f1f5c9c0e91d374c21bcb124a69c72ef1ef3ace3.1920x1080.jpg?t=1534599454",
+    "Slug": "holiday-escape",
+    "Meta Title": "Holiday Escape: Aug 18, 2018, Kit Gardner,Sam Robinson,Ho...",
+    "Meta Description": "Looking for information on Holiday Escape? Check out the release date (Aug 18, 2018), developer insights from Kit Gardner,Sam Robinson,Holly Gardner,Jas...",
+    "Alt Text Image": "Official header image for Holiday Escape game - Steam 911050",
+    "Canonical URL": "https://gusku.site/game/holiday-escape",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Holiday Escape\", \"description\": \"Looking for information on Holiday Escape? Check out the release date (Aug 18, 2018), developer insights from Kit Gardner,Sam Robinson,Holly Gardner,Jas...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 18, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kit Gardner,Sam Robinson,Holly Gardner,Jason Runkel,Tommy Yoder,Josh Perusse\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": NaN}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/911050/header.jpg?t=1534599454\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

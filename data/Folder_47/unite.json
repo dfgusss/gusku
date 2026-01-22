@@ -1,0 +1,21 @@
+{
+    "AppID": 1573190,
+    "Name": "Unite",
+    "Release date": "Apr 2, 2021",
+    "About the game": "Unite is a two-player board game based on Lines of Action (a game created in the 1960's). Players take turns moving (with some unique rules for movement), trying to connect their pieces. The single-player mode provides 7 difficulty levels against the AI. Or play online against an opponent over the network. Choose from 4 different board types.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1573190/header.jpg?t=1617429877",
+    "Price": 0.99,
+    "Developers": "KG Games",
+    "Publishers": "KG Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1573190/ss_f696ecefd9376c2aba499f810d3d783090f844b3.1920x1080.jpg?t=1617429877,https://cdn.akamai.steamstatic.com/steam/apps/1573190/ss_8cd838c5653179fdbc7bfab14602853549c5b055.1920x1080.jpg?t=1617429877,https://cdn.akamai.steamstatic.com/steam/apps/1573190/ss_f65bd3193cd19d91be4b558e26f6d5d61c8d4254.1920x1080.jpg?t=1617429877,https://cdn.akamai.steamstatic.com/steam/apps/1573190/ss_b5298431521f8b6a608f911d703297fcb655e2ab.1920x1080.jpg?t=1617429877,https://cdn.akamai.steamstatic.com/steam/apps/1573190/ss_c85cd6823089b3fcfc37831a651271c184d8dc24.1920x1080.jpg?t=1617429877",
+    "Slug": "unite",
+    "Meta Title": "Unite: Apr 2, 2021, KG Games and Full Overview",
+    "Meta Description": "Looking for information on Unite? Check out the release date (Apr 2, 2021), developer insights from KG Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Unite game - Steam 1573190",
+    "Canonical URL": "https://gusku.site/game/unite",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Unite\", \"description\": \"Looking for information on Unite? Check out the release date (Apr 2, 2021), developer insights from KG Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 2, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"KG Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"KG Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1573190/header.jpg?t=1617429877\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

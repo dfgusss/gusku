@@ -1,0 +1,21 @@
+{
+    "AppID": 1411870,
+    "Name": "Zball III",
+    "Release date": "Sep 17, 2020",
+    "About the game": "Zball III is the return of physics puzzles series. This game has puzzles about changing the direction of gravity. There are 2 types of objects that can change the direction of gravity. The 1st one is a button - just press it to change the direction of gravity. The 2nd one is an activated object that change gravity when it collides with a green ball. The rest of the game rules remain the same. Blocks can have different powers - some can be destroyed when colliding with other objects or from an explosion, some are monolithic but mobile, some can mve the green ball. Most often, there is no specific algorithm of actions, you should rely only on your intuition to solve the problem. Platforms interact with objects in different ways. For example, there are platforms that make round objects roll in a certain direction. There are transparent platforms that are divided into colors and can only interact with objects of their own color. There are game levels of different difficulty and types. Some levels require dexterity and reaction, some will require patience and caution, others will make you think about the sequence of actions. You can see how to interact with an object by its color. For example, green is the main color, and you need to deliver it to the platform of the corresponding color. Yellow object reacts to explosions from mouse clicks. Blue objects are destroyed when they collide with yellow ones. Blue ones are not destructible, but they can be moved by yellow objects. Red objects break down from the explosion… Gradually you will understand how the system works and will be able to cope with any task! Exciting gameplay will not let you get bored! Game Features: 40 new levels Interesting puzzle Destructible blocks Gravity puzzles Steam achievements Some levels are really hard!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1411870/header.jpg?t=1657802100",
+    "Price": 1.99,
+    "Developers": "334Sgame",
+    "Publishers": "Garage Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1411870/ss_3b92d345dbf6cbb7d5f377ec0e95c7262ecbe08d.1920x1080.jpg?t=1657802100,https://cdn.akamai.steamstatic.com/steam/apps/1411870/ss_d2d09737b29d2543bcb8380018fdbcf3cc05339f.1920x1080.jpg?t=1657802100,https://cdn.akamai.steamstatic.com/steam/apps/1411870/ss_df52ae36369e95f0c76bb058800b6afb1dd477b5.1920x1080.jpg?t=1657802100,https://cdn.akamai.steamstatic.com/steam/apps/1411870/ss_7ce772fb0dd4fa8838b25549a08411734b9a6b42.1920x1080.jpg?t=1657802100,https://cdn.akamai.steamstatic.com/steam/apps/1411870/ss_3f9d727fa98ff5e45e2936b1e9faf2e1db80499b.1920x1080.jpg?t=1657802100,https://cdn.akamai.steamstatic.com/steam/apps/1411870/ss_149a98a09117c0d119bfbc4f4e8338d37652ed73.1920x1080.jpg?t=1657802100",
+    "Slug": "zball-iii",
+    "Meta Title": "Zball III: Sep 17, 2020, 334Sgame and Full Overview",
+    "Meta Description": "Looking for information on Zball III? Check out the release date (Sep 17, 2020), developer insights from 334Sgame, and a complete game summary.",
+    "Alt Text Image": "Official header image for Zball III game - Steam 1411870",
+    "Canonical URL": "https://gusku.site/game/zball-iii",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Zball III\", \"description\": \"Looking for information on Zball III? Check out the release date (Sep 17, 2020), developer insights from 334Sgame, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 17, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"334Sgame\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Garage Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1411870/header.jpg?t=1657802100\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

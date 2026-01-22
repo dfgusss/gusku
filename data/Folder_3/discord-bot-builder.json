@@ -1,0 +1,21 @@
+{
+    "AppID": 1119570,
+    "Name": "Discord Bot Builder",
+    "Release date": "Aug 1, 2019",
+    "About the game": "Discord Bot Builder is an interactive program with a friendly user interface to help people without programming skills to create their Discord bots. What is Discord? Discord is a voice and text chat application for the users who enjoy playing games. If you know TeamSpeak or Skype, Discord is almost the same thing. The Discord application is available for Windows, macOS, Android, iOS, iPadOS, Linux and web browsers. You can download the Discord application in the official Discord website. What is a Discord bot? Discord bot is like a robot disguised as an user which is controlled by the Discord API. Typically, they have more features than a normal Discord user. Bots can be a music, moderator, giveaway, entertainment bot or something else. You can make many things with them, you just need creativity. Seftbot is not allowed on Discord and your account can be banned. What is required to run my bot in Discord Bot Builder? You will need Discord and a bot token, of course. In your Discord, you should enable the 'Developer Mode' option in order to get the ID of an user, channel, server, etc... To get a bot token, you need to register on Discord Developer Portal website. Read the docs for more information. What is possible to do in Discord Bot Builder? Recently, Discord Bot Builder was updated, adding more possibilies for the users creating their bots. You can use music, data, API, moderation, server control, file management and many other 220+ blocks available. What does 'DBB' mean? It is (D)iscord (B)ot (B)uilder, just to avoid typing the whole name every time. How can i get help using this software? Official Discord server: (Recommended, better support) Documentation: / (Under Development) Steam Community",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1119570/header.jpg?t=1629126855",
+    "Price": 5.99,
+    "Developers": "MrGold",
+    "Publishers": "MrGold",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1119570/ss_9fd238516521a1e984a01e8449e188963329d75c.1920x1080.jpg?t=1629126855,https://cdn.akamai.steamstatic.com/steam/apps/1119570/ss_44668d982ac9ccd86c98b0f8cc4712f5b0a9eb5b.1920x1080.jpg?t=1629126855,https://cdn.akamai.steamstatic.com/steam/apps/1119570/ss_658535a79da311d2c87e304c09e77b2b7afb91d9.1920x1080.jpg?t=1629126855,https://cdn.akamai.steamstatic.com/steam/apps/1119570/ss_dc4bf5dbe4c4b0beb3f4e93102379c128454440c.1920x1080.jpg?t=1629126855,https://cdn.akamai.steamstatic.com/steam/apps/1119570/ss_2bfc2dc67cf4b044e9c0e2702c6792ec30ef1b42.1920x1080.jpg?t=1629126855",
+    "Slug": "discord-bot-builder",
+    "Meta Title": "Discord Bot Builder: Aug 1, 2019, MrGold and Full Overview",
+    "Meta Description": "Looking for information on Discord Bot Builder? Check out the release date (Aug 1, 2019), developer insights from MrGold, and a complete game summary.",
+    "Alt Text Image": "Official header image for Discord Bot Builder game - Steam 1119570",
+    "Canonical URL": "https://gusku.site/game/discord-bot-builder",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Discord Bot Builder\", \"description\": \"Looking for information on Discord Bot Builder? Check out the release date (Aug 1, 2019), developer insights from MrGold, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 1, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"MrGold\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MrGold\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1119570/header.jpg?t=1629126855\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

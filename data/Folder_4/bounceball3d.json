@@ -1,0 +1,21 @@
+{
+    "AppID": 1152830,
+    "Name": "BounceBall3D",
+    "Release date": "Sep 22, 2019",
+    "About the game": "It's a simple platformer game. you can manipulates a ball. To clear this game, move the ball( WASD ) and go into green block. This game has 20 stage, and you have 30 life. Each stage has various obstacles to reach the green block. Some obstacles even take your life. you need delicate manipulation, because life is limited. If your life is zero. You have to start over from the beginning. 22 stage, 35 life you can move the ball[WASD] Find the green block Only blocks and ball are existed. Map used by game is made by notepad( txt ), so you can edit and add map file. WASD- move F3- anti-aliasing",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1152830/header.jpg?t=1580142163",
+    "Price": 0.99,
+    "Developers": "Elphie",
+    "Publishers": "Elphie",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1152830/ss_705ec0511b65901c3d5b1d244dbefca4e1c7767a.1920x1080.jpg?t=1580142163,https://cdn.akamai.steamstatic.com/steam/apps/1152830/ss_5d3f0179c16a28c479390fa849e05804476ce858.1920x1080.jpg?t=1580142163,https://cdn.akamai.steamstatic.com/steam/apps/1152830/ss_57e1846b9a756d9c9aabf188d864b11e16498a8b.1920x1080.jpg?t=1580142163,https://cdn.akamai.steamstatic.com/steam/apps/1152830/ss_8d815691432f2270fc0225e2c4811f06de08d3d3.1920x1080.jpg?t=1580142163,https://cdn.akamai.steamstatic.com/steam/apps/1152830/ss_a366311f01a6487675ab746ae839c2b7dd2028cd.1920x1080.jpg?t=1580142163",
+    "Slug": "bounceball3d",
+    "Meta Title": "BounceBall3D: Sep 22, 2019, Elphie and Full Overview",
+    "Meta Description": "Looking for information on BounceBall3D? Check out the release date (Sep 22, 2019), developer insights from Elphie, and a complete game summary.",
+    "Alt Text Image": "Official header image for BounceBall3D game - Steam 1152830",
+    "Canonical URL": "https://gusku.site/game/bounceball3d",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BounceBall3D\", \"description\": \"Looking for information on BounceBall3D? Check out the release date (Sep 22, 2019), developer insights from Elphie, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 22, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Elphie\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Elphie\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1152830/header.jpg?t=1580142163\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

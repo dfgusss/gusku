@@ -1,0 +1,21 @@
+{
+    "AppID": 2096560,
+    "Name": "The Top",
+    "Release date": "Sep 2, 2022",
+    "About the game": "The Top is a simple precision platformer about climbing a mountain. Key Features: 50 levels designed to both teach and test player ability, with assist modes for those less inclined to platformers. A simple narrative that runs as deep as you're willing to follow it. Visual style based off the color palette of the original GameBoy. An original ambient chiptune soundtrack written to accompany the game and its story. Secrets.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2096560/header.jpg?t=1662138056",
+    "Price": 4.99,
+    "Developers": "Eli Bailey,Nathan Laha",
+    "Publishers": "Eli Bailey",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2096560/ss_e06a09b3f8da79417364cadc94e46ba51b2fb8b5.1920x1080.jpg?t=1662138056,https://cdn.akamai.steamstatic.com/steam/apps/2096560/ss_857d5e925916d191d7f94523472f85fd70c15c61.1920x1080.jpg?t=1662138056,https://cdn.akamai.steamstatic.com/steam/apps/2096560/ss_47138187c41a9107f14a2b6cc4da4383f51278c0.1920x1080.jpg?t=1662138056,https://cdn.akamai.steamstatic.com/steam/apps/2096560/ss_8af7ae89785fd44f8b644cb4c04bffbfbfa9f4a0.1920x1080.jpg?t=1662138056,https://cdn.akamai.steamstatic.com/steam/apps/2096560/ss_9e916c10ae273a29ec6df583d56d2c0d2b788418.1920x1080.jpg?t=1662138056",
+    "Slug": "the-top",
+    "Meta Title": "The Top: Sep 2, 2022, Eli Bailey,Nathan Laha and Full Ove...",
+    "Meta Description": "Looking for information on The Top? Check out the release date (Sep 2, 2022), developer insights from Eli Bailey,Nathan Laha, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Top game - Steam 2096560",
+    "Canonical URL": "https://gusku.site/game/the-top",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Top\", \"description\": \"Looking for information on The Top? Check out the release date (Sep 2, 2022), developer insights from Eli Bailey,Nathan Laha, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Eli Bailey,Nathan Laha\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Eli Bailey\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2096560/header.jpg?t=1662138056\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

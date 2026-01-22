@@ -1,0 +1,21 @@
+{
+    "AppID": 2131620,
+    "Name": "Don't Hide",
+    "Release date": "Sep 12, 2022",
+    "About the game": "Trapped in a maze with a beast, you must find five keys and their door to escape. The monster can only smell and hear you, but as long as it hasn't fully caught your scent, you can move freely. Don't Hide offers a horror experience where you're forced to manage the monster and explore the surroundings. Nothing is easy to find, as you'll always be surrounded by dreadful darkness. You'll be left searching for five barely illuminated keys, all scattered around the maze. However, your time is limited, as the creature trapped in the maze with you will will eventually catch your scent. Be sure to run away when close, and if it hasn't fully caught your scent, hide to get it off your tracks. Don't Hide offers 6 different levels, all with varying difficulty and predetermined initial key, object, and exit door locations. A 3 star system will help rank your performance in each room. At least one star is required to progress to the next room. Developed in Godot, this game was a side project of mine that I learned along with Godot. Updates may proceed the release with more levels, objects, or features. Its more than likely that I will release balance changes as well as more and more people play the game and test out the ranking system as well as the minor and major time (scent) limits. Controls: WASD = movement Space = hide Escape = open/close menu (pauses game), or go back to previous menu Enter/Left Click = Select Objectives Find all five keys With 5 Keys, find the exit door Don't get caught by the creature Credits Sole developed: T0rt1z (Shawn F.)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2131620/header.jpg?t=1663028388",
+    "Price": 0.0,
+    "Developers": "Sulfic Games",
+    "Publishers": "Sulfic Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2131620/ss_672a02a1661a15cc6402c638efb9aeefd9a122ff.1920x1080.jpg?t=1663028388,https://cdn.akamai.steamstatic.com/steam/apps/2131620/ss_d7607c2e2f3cc6df9943639482bc48a931192cd5.1920x1080.jpg?t=1663028388,https://cdn.akamai.steamstatic.com/steam/apps/2131620/ss_65e3370b591b58065b11704a5987652f40fc05fa.1920x1080.jpg?t=1663028388,https://cdn.akamai.steamstatic.com/steam/apps/2131620/ss_a278ed9064aced0fca4fa5961d32583d918bb02a.1920x1080.jpg?t=1663028388,https://cdn.akamai.steamstatic.com/steam/apps/2131620/ss_0b19223c8c98445ca95af7acb50fdbeaf41538c8.1920x1080.jpg?t=1663028388",
+    "Slug": "don-t-hide",
+    "Meta Title": "Don't Hide: Sep 12, 2022, Sulfic Games and Full Overview",
+    "Meta Description": "Looking for information on Don't Hide? Check out the release date (Sep 12, 2022), developer insights from Sulfic Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Don't Hide game - Steam 2131620",
+    "Canonical URL": "https://gusku.site/game/don-t-hide",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Don't Hide\", \"description\": \"Looking for information on Don't Hide? Check out the release date (Sep 12, 2022), developer insights from Sulfic Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sulfic Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sulfic Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2131620/header.jpg?t=1663028388\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

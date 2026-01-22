@@ -1,0 +1,21 @@
+{
+    "AppID": 2262960,
+    "Name": "Artur's Pinball",
+    "Release date": "Jan 10, 2023",
+    "About the game": "In this game the player will find several pinball tables joined in a single game, which turns the game into a big pinball table with locks, diamonds to be collected, passes, rotating crosses, springs and a few more things. the commands are simple, just use left and right Ctrl to trigger the flips, use spacebar to restart the game and press Esc to exit the game. The game has simple and colorful graphics and just like pinball tables, the player will find a score indicator and a record indicator. It's a casual and relaxing game, good for anyone who wants to pass the time or just a little distraction.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2262960/header.jpg?t=1673385109",
+    "Price": 0.59,
+    "Developers": "Artur Rezende",
+    "Publishers": "PROATIV GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2262960/ss_8ce8e06b2ad30fc1a594878423312741b040c8e3.1920x1080.jpg?t=1673385109,https://cdn.akamai.steamstatic.com/steam/apps/2262960/ss_aa68f926d0d09695fec9976d02c05387f7afd32c.1920x1080.jpg?t=1673385109,https://cdn.akamai.steamstatic.com/steam/apps/2262960/ss_171d77b66fd991e5acc2d9f0eaad6cee5a4cb9d7.1920x1080.jpg?t=1673385109,https://cdn.akamai.steamstatic.com/steam/apps/2262960/ss_1b9ce5cceda281c7c556bb80d3aaf1dba991d6b7.1920x1080.jpg?t=1673385109,https://cdn.akamai.steamstatic.com/steam/apps/2262960/ss_500fdf60d06f1d282d719123fda250b22f22bb14.1920x1080.jpg?t=1673385109",
+    "Slug": "artur-s-pinball",
+    "Meta Title": "Artur's Pinball: Jan 10, 2023, Artur Rezende and Full Ove...",
+    "Meta Description": "Looking for information on Artur's Pinball? Check out the release date (Jan 10, 2023), developer insights from Artur Rezende, and a complete game summary.",
+    "Alt Text Image": "Official header image for Artur's Pinball game - Steam 2262960",
+    "Canonical URL": "https://gusku.site/game/artur-s-pinball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Artur's Pinball\", \"description\": \"Looking for information on Artur's Pinball? Check out the release date (Jan 10, 2023), developer insights from Artur Rezende, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 10, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Artur Rezende\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PROATIV GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2262960/header.jpg?t=1673385109\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.59, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

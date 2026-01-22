@@ -1,0 +1,21 @@
+{
+    "AppID": 617060,
+    "Name": "Virush",
+    "Release date": "Jun 8, 2017",
+    "About the game": "Fast-paced arcade-style game where you are a snake-like defender program and the last line of defense against invading computer viruses! Navigate! Use the Vive controller to quickly move all around the spherical field of play. Race! Collect data packets by either running over them or encircling them with your tail. Snatch them up before time expires and packets become red and infected. Capture! Get as many flying packets as you can for bonus points if you capture all packets before the wave timer expires. Collect! The more packets you collect, the more bombs you get to use. Destroy! Use bombs to destroy enemy viruses and infected packets near you. Challenges! Compete on the leaderboard in over 10 unique game modes.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/617060/header.jpg?t=1496942691",
+    "Price": 5.99,
+    "Developers": "Arcturus",
+    "Publishers": "DMG Entertainment",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/617060/ss_1139514f80fa47483191240fa82c78714645219f.1920x1080.jpg?t=1496942691,https://cdn.akamai.steamstatic.com/steam/apps/617060/ss_acf4671121283b5cbd9a12174dfbc8975fb77802.1920x1080.jpg?t=1496942691,https://cdn.akamai.steamstatic.com/steam/apps/617060/ss_8f67b11ff0a7cd5330a0044cb8727b3aac3bedd0.1920x1080.jpg?t=1496942691,https://cdn.akamai.steamstatic.com/steam/apps/617060/ss_825e054b5972a60bbf6e763b18a8b143ceb52ed1.1920x1080.jpg?t=1496942691,https://cdn.akamai.steamstatic.com/steam/apps/617060/ss_6e11f3c6c73acd13b92591c7c3dbd62c5523a09b.1920x1080.jpg?t=1496942691",
+    "Slug": "virush",
+    "Meta Title": "Virush: Jun 8, 2017, Arcturus and Full Overview",
+    "Meta Description": "Looking for information on Virush? Check out the release date (Jun 8, 2017), developer insights from Arcturus, and a complete game summary.",
+    "Alt Text Image": "Official header image for Virush game - Steam 617060",
+    "Canonical URL": "https://gusku.site/game/virush",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Virush\", \"description\": \"Looking for information on Virush? Check out the release date (Jun 8, 2017), developer insights from Arcturus, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 8, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Arcturus\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DMG Entertainment\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/617060/header.jpg?t=1496942691\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

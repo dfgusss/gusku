@@ -1,0 +1,21 @@
+{
+    "AppID": 1260400,
+    "Name": "Challenge Speedball",
+    "Release date": "Jan 13, 2021",
+    "About the game": "Challenge Speedball is a cooperative multiplayer game based on the paintball variation called Speedball. In this fast paced competition, teams of 1 to 5 players occupy a small playing field filled with inflatable 'bunkers'. Each team tries to eliminate each others players by 'marking' them with paint until they are all eliminated. They can also win by reaching the other team's home base. Each game match is timed typically depending on the number of players: 2 players play for 2 minutes, 10 players play for 10 minutes. Each team will score 5 points through elimination of the other team's players and/or reaching the other team's home base. Each team will score 1 point for lasting the duration of the game without being eliminated. Design your own playing field! Challenge Speedball provides a field design utility that lets the player design their own custom screens, which can be uploaded to Steam Workshop and shared with friends and the global community. Players may also customize their player with team colors and image logos. These can also be uploaded to Steam Workshop and shared. Logo Photo Credit: Thanks to Stefan Krause, Germany Special thanks to Rama for the excellent Victory Plugin!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1260400/header.jpg?t=1611579909",
+    "Price": 1.99,
+    "Developers": "Bucksoft91",
+    "Publishers": "Bucksoft91",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1260400/ss_398863c8dd9d1483361136379c3fe786f1fe3e49.1920x1080.jpg?t=1611579909,https://cdn.akamai.steamstatic.com/steam/apps/1260400/ss_262829677c56ee54f884b7694b12cf0fea569ce6.1920x1080.jpg?t=1611579909,https://cdn.akamai.steamstatic.com/steam/apps/1260400/ss_ec9ef4b2ccfd763a2fb40bb2838eb1bfc252f5ed.1920x1080.jpg?t=1611579909,https://cdn.akamai.steamstatic.com/steam/apps/1260400/ss_76a7630f7a4200dea522f94b84b0fc5e9af97141.1920x1080.jpg?t=1611579909,https://cdn.akamai.steamstatic.com/steam/apps/1260400/ss_886f4eb75f1357fa398afad4fcc8d52e4c94e854.1920x1080.jpg?t=1611579909",
+    "Slug": "challenge-speedball",
+    "Meta Title": "Challenge Speedball: Jan 13, 2021, Bucksoft91 and Full Ov...",
+    "Meta Description": "Looking for information on Challenge Speedball? Check out the release date (Jan 13, 2021), developer insights from Bucksoft91, and a complete game summary.",
+    "Alt Text Image": "Official header image for Challenge Speedball game - Steam 1260400",
+    "Canonical URL": "https://gusku.site/game/challenge-speedball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Challenge Speedball\", \"description\": \"Looking for information on Challenge Speedball? Check out the release date (Jan 13, 2021), developer insights from Bucksoft91, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 13, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bucksoft91\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bucksoft91\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1260400/header.jpg?t=1611579909\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

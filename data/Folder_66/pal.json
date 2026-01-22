@@ -1,0 +1,21 @@
+{
+    "AppID": 2174080,
+    "Name": "PAL",
+    "Release date": "Oct 30, 2022",
+    "About the game": "Maintain the engine, lights, and oxygen levels while avoiding PAL and navigating towards the mission destination. If your ship takes too much damage from asteroids, runs too low on oxygen, or uses all its fuel, PAL will kill you. Utilities (engine, lights, oxygen) consume fuel, and can be turned on and off manually. If a utility breaks, it does not consume fuel, but must be fixed before it can turn on. During the mission, PAL will break your utilities and periodically search the ship's corridors. If she finds you anywhere other than the cockpit, or if you fail while repairing a utility, PAL will kill you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2174080/header.jpg?t=1667121802",
+    "Price": 0.0,
+    "Developers": "Gus Jewell",
+    "Publishers": "Gus Jewell",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2174080/ss_099bb925fb39030a77340bd89d4856edde1f3fd9.1920x1080.jpg?t=1667121802,https://cdn.akamai.steamstatic.com/steam/apps/2174080/ss_b568236a5414f8d708588e3fcaff6cfe505f2736.1920x1080.jpg?t=1667121802,https://cdn.akamai.steamstatic.com/steam/apps/2174080/ss_a179a520af47c26c17bc3702789c6cb748da8e73.1920x1080.jpg?t=1667121802,https://cdn.akamai.steamstatic.com/steam/apps/2174080/ss_b7ee6a5683fbb6318e0989f6acf757f3ead60f52.1920x1080.jpg?t=1667121802,https://cdn.akamai.steamstatic.com/steam/apps/2174080/ss_c047562c982499b759fa552cfe385b6b69c1ab6d.1920x1080.jpg?t=1667121802,https://cdn.akamai.steamstatic.com/steam/apps/2174080/ss_3bbf0eea1fe8707fb8c6ef3b93270ef2ac9880da.1920x1080.jpg?t=1667121802",
+    "Slug": "pal",
+    "Meta Title": "PAL: Oct 30, 2022, Gus Jewell and Full Overview",
+    "Meta Description": "Looking for information on PAL? Check out the release date (Oct 30, 2022), developer insights from Gus Jewell, and a complete game summary.",
+    "Alt Text Image": "Official header image for PAL game - Steam 2174080",
+    "Canonical URL": "https://gusku.site/game/pal",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PAL\", \"description\": \"Looking for information on PAL? Check out the release date (Oct 30, 2022), developer insights from Gus Jewell, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 30, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gus Jewell\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gus Jewell\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2174080/header.jpg?t=1667121802\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

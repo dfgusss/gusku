@@ -1,0 +1,21 @@
+{
+    "AppID": 2128670,
+    "Name": "Twitch Place",
+    "Release date": "Jan 7, 2023",
+    "About the game": "'Game' like /r place where people place pixels but with twitch integration - you can connect to any twitch chat which the game will listen to, drawing based on users typing commands in chat. Twitch chatters can then create images together. Game is intended for twitch streamers. You can choose from different sizes of canvas based on number of people watching your stream. The game has no end or progression on its own it's up to you what you want to draw with your chat.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2128670/header.jpg?t=1673111341",
+    "Price": 3.99,
+    "Developers": "canyonboss",
+    "Publishers": "canyonboss",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2128670/ss_272cc830a6c22e203d085350127f7bacfd665188.1920x1080.jpg?t=1673111341,https://cdn.akamai.steamstatic.com/steam/apps/2128670/ss_1e6aca8fe6bb953fe7a93757d45a2128c72eb3e0.1920x1080.jpg?t=1673111341,https://cdn.akamai.steamstatic.com/steam/apps/2128670/ss_4e1688f539df84a621d5125631b431df39018604.1920x1080.jpg?t=1673111341,https://cdn.akamai.steamstatic.com/steam/apps/2128670/ss_27b97e22ea238be683485e45b79a1be5d2410ba1.1920x1080.jpg?t=1673111341,https://cdn.akamai.steamstatic.com/steam/apps/2128670/ss_39c86d25935e1aa8adf845984d37f178f0b5a046.1920x1080.jpg?t=1673111341",
+    "Slug": "twitch-place",
+    "Meta Title": "Twitch Place: Jan 7, 2023, canyonboss and Full Overview",
+    "Meta Description": "Looking for information on Twitch Place? Check out the release date (Jan 7, 2023), developer insights from canyonboss, and a complete game summary.",
+    "Alt Text Image": "Official header image for Twitch Place game - Steam 2128670",
+    "Canonical URL": "https://gusku.site/game/twitch-place",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Twitch Place\", \"description\": \"Looking for information on Twitch Place? Check out the release date (Jan 7, 2023), developer insights from canyonboss, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 7, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"canyonboss\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"canyonboss\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2128670/header.jpg?t=1673111341\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1138030,
+    "Name": "Master of LinCard",
+    "Release date": "Sep 26, 2019",
+    "About the game": "Game Feature Master of LinCard is a fast-paced card game. This game includes nearly 500 cards. Players can use character cards to summon characters to attack the opponents in order to win the duel. Magic cards, equipment cards and potion cards are also very useful in the duel. You can build your deck by various ways. The rules of this game are similar to Yu-Gi-Oh. But we make innovations to improve the balance. We can divide character cards into 8 kinds by races . Each race has their special effects. Human -(Critical Strike: Cause multiple times damage to enemy whose attribute is pressed by him.) Fairy -(Damage Buffer: Reduce the damage of player when being attacked.) Ghost -(Take Life: Kill the enemy whose HP is less than 50% and the level is lower than take life level.) Angel -(Cleaving Attack: Cause damage to opponent when he/she attacks enemy in defense state.) Demon -(Armor Weaken: Reduce the DEF of enemy who he attacks.) Vampire -(Lifesteal: Recover HP of the character when he/she causes damage to enemy.) Dragon -(Growth: Increase ATK after attacking.) Cattle -(Anger: Increase ATK after being attacked.) The character cards can also be divided into 7 kinds by attributes . Each attribute can press another one. 3 game modes Journey Mode(New Game) You need to defeat more than 20 duelers and solve some puzzles in order to become a master of LinCard. Provide 4 difficulties to fulfil different players. Quick Battle Battle with random opponent. The opponent will become stronger if the player get consecutive win or the win rate reach certain value. LAN Battle If you are tired of computer AI, you can duel with your friends by LAN.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1138030/header.jpg?t=1570283961",
+    "Price": 6.99,
+    "Developers": "DearSky Studio",
+    "Publishers": "DearSky Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1138030/ss_b83779fc9f1fad043267e2dcb5591f8c1068866e.1920x1080.jpg?t=1570283961,https://cdn.akamai.steamstatic.com/steam/apps/1138030/ss_2820e17487ac843d0daf5b99eed234ce3a47ce23.1920x1080.jpg?t=1570283961,https://cdn.akamai.steamstatic.com/steam/apps/1138030/ss_e86e0fc991897562b42ae2a74dd10b4971baf12c.1920x1080.jpg?t=1570283961,https://cdn.akamai.steamstatic.com/steam/apps/1138030/ss_b609776bbf9cb02c673e2dba2530649da51a0fd4.1920x1080.jpg?t=1570283961,https://cdn.akamai.steamstatic.com/steam/apps/1138030/ss_00cdc9bcf25693ff69d28baf9b4b8e101282ade0.1920x1080.jpg?t=1570283961",
+    "Slug": "master-of-lincard",
+    "Meta Title": "Master of LinCard: Sep 26, 2019, DearSky Studio and Full ...",
+    "Meta Description": "Looking for information on Master of LinCard? Check out the release date (Sep 26, 2019), developer insights from DearSky Studio, and a complete game sum...",
+    "Alt Text Image": "Official header image for Master of LinCard game - Steam 1138030",
+    "Canonical URL": "https://gusku.site/game/master-of-lincard",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Master of LinCard\", \"description\": \"Looking for information on Master of LinCard? Check out the release date (Sep 26, 2019), developer insights from DearSky Studio, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 26, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"DearSky Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DearSky Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1138030/header.jpg?t=1570283961\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

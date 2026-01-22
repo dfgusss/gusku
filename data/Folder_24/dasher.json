@@ -1,0 +1,21 @@
+{
+    "AppID": 1395750,
+    "Name": "Dasher",
+    "Release date": "Jan 25, 2021",
+    "About the game": "Hello, and welcome to Dasher. My name is Doctor Moonbad, and I'm not really a doctor. Dasher is a short game entirely focused on collisions and mechanical reflections. You must use your dashing abilities to destroy and dismantle your enemies, by reflecting on walls or on the enemies themselves. How to win Your goal is to survive long enough to discover an exit, and eventually escape the robotic coliseum. As time passes, the number of enemies increases, as well as their overall intelligence, which makes searching for the exit harder and harder for each second that passes. Death is only the begining No matter how many times you die, you can always retry, although you might as well consider upgrading yourself, both physically and aesthetically. Each time you destroy an enemy, you acquire its bits, which Dasher can use to become stronger, or uselessly prettier. Controls Every move's made by clicking and dragging. Left-Clicking anywhere on the screen creates a pivot point. The cursor's position to that point determinate the direction for Dasher to move, but only while you hold the left mouse button. Releasing it causes Dasher to dash to the last direction it was moving along. In simpler terms, always aim for where Dasher currently is, and drag to where you want it to go.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1395750/header.jpg?t=1657831445",
+    "Price": 1.49,
+    "Developers": "Doctor Moonbad",
+    "Publishers": "Moonbad Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1395750/ss_331059b73d06b20e33b32399a8626092f744800d.1920x1080.jpg?t=1657831445,https://cdn.akamai.steamstatic.com/steam/apps/1395750/ss_6d145aecb0f5153d2b04d1b0edd808fc140f6f2c.1920x1080.jpg?t=1657831445,https://cdn.akamai.steamstatic.com/steam/apps/1395750/ss_2539eab0c66028d959ccf5987bff118a91c5a471.1920x1080.jpg?t=1657831445,https://cdn.akamai.steamstatic.com/steam/apps/1395750/ss_64d7549da6db4241518517a55bf4f31bc0fe6b8c.1920x1080.jpg?t=1657831445,https://cdn.akamai.steamstatic.com/steam/apps/1395750/ss_19dbb5e031d831fdf038586edd54c128963dd256.1920x1080.jpg?t=1657831445",
+    "Slug": "dasher",
+    "Meta Title": "Dasher: Jan 25, 2021, Doctor Moonbad and Full Overview",
+    "Meta Description": "Looking for information on Dasher? Check out the release date (Jan 25, 2021), developer insights from Doctor Moonbad, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dasher game - Steam 1395750",
+    "Canonical URL": "https://gusku.site/game/dasher",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dasher\", \"description\": \"Looking for information on Dasher? Check out the release date (Jan 25, 2021), developer insights from Doctor Moonbad, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 25, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Doctor Moonbad\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Moonbad Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1395750/header.jpg?t=1657831445\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

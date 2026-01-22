@@ -1,0 +1,21 @@
+{
+    "AppID": 1504480,
+    "Name": "Through the Helios",
+    "Release date": "Jan 20, 2021",
+    "About the game": "In a world of magic and wonder you are a Greenhood initiate to The Order, sent on your first task with your master to retrieve a stolen artifact. Learn how to wield your powers and try not to blow yourself up, or worse... Fight monsters through the use of arcane words as you learn to master your new powers leveling to unlock different spells, traverse the zones to locate the entrance to the crypts to face the boss at the end. This is a dungeon crawling action game, there are 5 unique zones to traverse, and many interesting spells to learn. This was a final project build made in 2016 for our degree, we as a team of 5 had 2 and a half months to conceptualize and build this game, there are known problems and we have discussed expanding upon this depending on how well this short version does. Known Bugs: In full screen certain aspect ratio cause the clickable zone to shift left (up and down are unaffected), getting too close to a monster with a spell prepared causes it to disappear, looking straight down causes the spell to disappear.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1504480/header.jpg?t=1611129805",
+    "Price": 4.99,
+    "Developers": "Ben Albright,Brandon Chandler,Joyce Oldham,Gregory Potter,Alexander Zupo",
+    "Publishers": "Undecided",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_ac1c522fabb516adb87678b7a9e4b8b64934d47c.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_4c33b94a1bc2ba1e4cd06d134e4ec2604b33f72d.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_8ac86560f36f0e102dbf15fbe24d99bdcc245412.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_f6bedaf02b8f505abb99129fd093fa1a3bc7d7e3.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_82572a3e0bf092d0eaadd2ca5b74d43cf834dc12.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_20d48ae83458c9ee9ac12f0d79ee6c8457d319b8.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_95775f315849779f3c72788208fc4fdc37c6e5b9.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_3c4c73356751d390dc70cce283e813de8fd2da0c.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_9e5630a3e5a852255d6cc13c163447ed170aef47.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_6293e315ada7383947180fd280ad41d678a5cb77.1920x1080.jpg?t=1611129805,https://cdn.akamai.steamstatic.com/steam/apps/1504480/ss_4279713189392244a872eb314436cd51de2e274d.1920x1080.jpg?t=1611129805",
+    "Slug": "through-the-helios",
+    "Meta Title": "Through the Helios: Jan 20, 2021, Ben Albright,Brandon Ch...",
+    "Meta Description": "Looking for information on Through the Helios? Check out the release date (Jan 20, 2021), developer insights from Ben Albright,Brandon Chandler,Joyce Ol...",
+    "Alt Text Image": "Official header image for Through the Helios game - Steam 1504480",
+    "Canonical URL": "https://gusku.site/game/through-the-helios",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Through the Helios\", \"description\": \"Looking for information on Through the Helios? Check out the release date (Jan 20, 2021), developer insights from Ben Albright,Brandon Chandler,Joyce Ol...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 20, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ben Albright,Brandon Chandler,Joyce Oldham,Gregory Potter,Alexander Zupo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Undecided\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1504480/header.jpg?t=1611129805\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

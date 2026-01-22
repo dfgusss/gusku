@@ -1,0 +1,21 @@
+{
+    "AppID": 1659790,
+    "Name": "Fall Tower",
+    "Release date": "Jul 29, 2021",
+    "About the game": "I made a 2D action game. Aim for the top of the tower with a height of 1000m. The player is constantly moving and flips left and right when hitting a wall. Jump in a timely manner and aim for the top. Once you go to the point where the flag is, you will be able to return there immediately. 【Method of operation】 Only jumps. You can switch between jumping with the 'jump button' or 'tap the screen' in the settings. In the case of 'jump button', you can change the position of the button in the settings. You can also jump with the space key. You can quickly return to the location of the flag once you have passed it with the button.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1659790/header.jpg?t=1628181255",
+    "Price": 0.99,
+    "Developers": "Mitsumaro",
+    "Publishers": "Mitsumaro",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1659790/ss_40a5af531601808b72dc9945c4c8153717917dcf.1920x1080.jpg?t=1628181255,https://cdn.akamai.steamstatic.com/steam/apps/1659790/ss_51379bd7a5211cb8217f885e460087b4502189e0.1920x1080.jpg?t=1628181255,https://cdn.akamai.steamstatic.com/steam/apps/1659790/ss_9ed250cb749ae9075df1a63798549c003e136452.1920x1080.jpg?t=1628181255,https://cdn.akamai.steamstatic.com/steam/apps/1659790/ss_602998f58d90fbf605e97cb7b9ed070ced1e422a.1920x1080.jpg?t=1628181255,https://cdn.akamai.steamstatic.com/steam/apps/1659790/ss_c53a0dd163779431dfb56c07b85385fbd19d7f82.1920x1080.jpg?t=1628181255",
+    "Slug": "fall-tower",
+    "Meta Title": "Fall Tower: Jul 29, 2021, Mitsumaro and Full Overview",
+    "Meta Description": "Looking for information on Fall Tower? Check out the release date (Jul 29, 2021), developer insights from Mitsumaro, and a complete game summary.",
+    "Alt Text Image": "Official header image for Fall Tower game - Steam 1659790",
+    "Canonical URL": "https://gusku.site/game/fall-tower",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fall Tower\", \"description\": \"Looking for information on Fall Tower? Check out the release date (Jul 29, 2021), developer insights from Mitsumaro, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 29, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mitsumaro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mitsumaro\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1659790/header.jpg?t=1628181255\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1373170,
+    "Name": "Slimesphere",
+    "Release date": "Aug 6, 2020",
+    "About the game": "Slimesphere is an isometric turn-based tactics game, where the goal is to kill the enemy slimes within 3 rounds. Its deterministic mechanics make the levels feel like puzzles, and you have to figure out the best strategy to win! Usually, when outnumbered by enemies, you have to rely on traps to beat the AI. Spikes, crossbows, treadmills, launchers, etc. As the difficulty increases, the player has to pay more and more attention to the surroundings, and take advantage of that. There are 12 levels and 14 achievements; if that's not enough, you can create your own maps with the in-game level editor!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1373170/header.jpg?t=1596721125",
+    "Price": 2.99,
+    "Developers": "Matheus Reis",
+    "Publishers": "Matheus Reis",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1373170/ss_037125389902bad050ab10dd19fcf85fd8238475.1920x1080.jpg?t=1596721125,https://cdn.akamai.steamstatic.com/steam/apps/1373170/ss_0df5cee4f1da5e0867d54182fc9e45395bc5f406.1920x1080.jpg?t=1596721125,https://cdn.akamai.steamstatic.com/steam/apps/1373170/ss_f5c5b84534b460bedd17f9f2164afff0370b8413.1920x1080.jpg?t=1596721125,https://cdn.akamai.steamstatic.com/steam/apps/1373170/ss_bdf4cfe24866d491b2fb64fb197c6a13be464872.1920x1080.jpg?t=1596721125,https://cdn.akamai.steamstatic.com/steam/apps/1373170/ss_d3081c2eb85abdadb1e8d98caec333374eb554fa.1920x1080.jpg?t=1596721125,https://cdn.akamai.steamstatic.com/steam/apps/1373170/ss_47bc3c5082b8f66e546b0316ec2de8c8540bedba.1920x1080.jpg?t=1596721125",
+    "Slug": "slimesphere",
+    "Meta Title": "Slimesphere: Aug 6, 2020, Matheus Reis and Full Overview",
+    "Meta Description": "Looking for information on Slimesphere? Check out the release date (Aug 6, 2020), developer insights from Matheus Reis, and a complete game summary.",
+    "Alt Text Image": "Official header image for Slimesphere game - Steam 1373170",
+    "Canonical URL": "https://gusku.site/game/slimesphere",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Slimesphere\", \"description\": \"Looking for information on Slimesphere? Check out the release date (Aug 6, 2020), developer insights from Matheus Reis, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 6, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matheus Reis\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matheus Reis\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1373170/header.jpg?t=1596721125\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1612960,
+    "Name": "Balloon Flight",
+    "Release date": "Jun 1, 2021",
+    "About the game": "Use your balloon-gun to spawn and pop balloons wherever you want! Attach balloons to your glider and fly through the rings to gain more time but be careful - every ring is part of a challenging flying Island. Unlock new balloons and beat the highscore!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1612960/header.jpg?t=1628173520",
+    "Price": 5.99,
+    "Developers": "Cyberwave",
+    "Publishers": "Cyberwave",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1612960/ss_6e7bcc179d1ecc125524dbded582c61b82af02aa.1920x1080.jpg?t=1628173520,https://cdn.akamai.steamstatic.com/steam/apps/1612960/ss_9d1c1645a34b668806df9867201c974e20d9ccdf.1920x1080.jpg?t=1628173520,https://cdn.akamai.steamstatic.com/steam/apps/1612960/ss_208337c604d98b298690e4e8adee0b004251b425.1920x1080.jpg?t=1628173520,https://cdn.akamai.steamstatic.com/steam/apps/1612960/ss_cc5cc3eeceb65729dc92b8a8f4137e64816a6084.1920x1080.jpg?t=1628173520,https://cdn.akamai.steamstatic.com/steam/apps/1612960/ss_9ff8e32838f979f4e4df9d14b2ce5b309aeda9ee.1920x1080.jpg?t=1628173520",
+    "Slug": "balloon-flight",
+    "Meta Title": "Balloon Flight: Jun 1, 2021, Cyberwave and Full Overview",
+    "Meta Description": "Looking for information on Balloon Flight? Check out the release date (Jun 1, 2021), developer insights from Cyberwave, and a complete game summary.",
+    "Alt Text Image": "Official header image for Balloon Flight game - Steam 1612960",
+    "Canonical URL": "https://gusku.site/game/balloon-flight",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Balloon Flight\", \"description\": \"Looking for information on Balloon Flight? Check out the release date (Jun 1, 2021), developer insights from Cyberwave, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cyberwave\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cyberwave\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1612960/header.jpg?t=1628173520\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

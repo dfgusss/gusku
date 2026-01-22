@@ -1,0 +1,21 @@
+{
+    "AppID": 982920,
+    "Name": "HammerBorn: Tears Of Mani",
+    "Release date": "May 2, 2022",
+    "About the game": "Step into adventure in this Immersive, procedural roguelike experience! HammerBorn: Tears of Mani is a 3D VR Rouge-like game designed to create a sense of wonder and adventure through procedurally generated realms of dungeon crawling fun! Currently 20 enemy types are planned to add a sense of variety, depth, and engaging gameplay to the overall feel of the experience. Cross oceans aboard real-time physical sea vessels, throw a boomerang or take a glider from the peak of a nearby mountain. Take part in a larger-than-myth Quest to Uncover the HammerBorn! Current state: -Functional Overworld Terrain Generation -2 enemies ready, 4 more in dev -50 different items -Bow &amp; arrow -Climbing -Simple(and buggy) MP co-op via desktop display -Combat works but needs to be improved upon. -Glider is functional, needs improvement -Crafting system nearly completed -Loot is available by killing mobs, and discovering it randomly by points of interest. -Health system &amp; recovery items, functional but needs work -Stats are not yet saved -First Boss is in development -Dungeon entrances spawn on the overworld. Entering saves the game &amp; your inventory. Dying means you reload the last save. currently if you reach the exit, you keep anything in your pockets and backpack. Onward To Adventure! **this is an Early Access Release Development and is subject to change",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/982920/header.jpg?t=1651764211",
+    "Price": 7.99,
+    "Developers": "Hareware Studios",
+    "Publishers": "Hareware Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/982920/ss_eb9fda05258d6ed95c159f27614e79df3f05234b.1920x1080.jpg?t=1651764211,https://cdn.akamai.steamstatic.com/steam/apps/982920/ss_4644a7ee7f45aa43c350d63b6d01c37396b0a155.1920x1080.jpg?t=1651764211,https://cdn.akamai.steamstatic.com/steam/apps/982920/ss_e93379419707463a137a7b6f121f9d86e94b05ba.1920x1080.jpg?t=1651764211,https://cdn.akamai.steamstatic.com/steam/apps/982920/ss_33ac29986f2c82f67b06c4904d183588df5b10e3.1920x1080.jpg?t=1651764211,https://cdn.akamai.steamstatic.com/steam/apps/982920/ss_d756f84933fd82bd1ca22a8f860bc8ca75a13140.1920x1080.jpg?t=1651764211",
+    "Slug": "hammerborn-tears-of-mani",
+    "Meta Title": "HammerBorn: Tears Of Mani: May 2, 2022, Hareware Studios ...",
+    "Meta Description": "Looking for information on HammerBorn: Tears Of Mani? Check out the release date (May 2, 2022), developer insights from Hareware Studios, and a complete...",
+    "Alt Text Image": "Official header image for HammerBorn: Tears Of Mani game - Steam 982920",
+    "Canonical URL": "https://gusku.site/game/hammerborn-tears-of-mani",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HammerBorn: Tears Of Mani\", \"description\": \"Looking for information on HammerBorn: Tears Of Mani? Check out the release date (May 2, 2022), developer insights from Hareware Studios, and a complete...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hareware Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hareware Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/982920/header.jpg?t=1651764211\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

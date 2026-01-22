@@ -1,0 +1,21 @@
+{
+    "AppID": 2124440,
+    "Name": "SIC-1",
+    "Release date": "Dec 2, 2022",
+    "About the game": "SIC-1 is a programming game where the computer only understands a single instruction. Learn an esoteric assembly language. Implement programs to unlock more impressive job titles. Optimize your programs to climb the leaderboards. Sacrifice your personal life for the good of the company! It's an assembly language zachlike for everyone! New programmers will appreciate how few unique instructions there are to learn (just one!), and experienced programmers will appreciate how poorly suited this one instruction is for writing straight-forward programs. If you're ready for a challenge, respond to this job posting from SIC Systems: SIC Systems is hiring engineers to produce highly efficient programs for our flagship product: the Single Instruction Computer Mark 1 (SIC-1). The SIC-1 represents a transformational change in computing, reducing complexity to the point that the processor only executes a single instruction: subtract and branch if less than or equal to zero ('subleq'). Enter the brave new world of single-instruction computing and invent new ways of implementing programs that would be trivial on a conventional computer. Don't adjust the technology to match how you think, adjust your thinking to match how the SIC-1 operates!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2124440/header.jpg?t=1670020237",
+    "Price": 0.0,
+    "Developers": "Anti-Pattern Games",
+    "Publishers": "Anti-Pattern Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2124440/ss_816ed08821198ac8f7db9a93d0551608300dbe17.1920x1080.jpg?t=1670020237,https://cdn.akamai.steamstatic.com/steam/apps/2124440/ss_98ceaf436dde86533613915ccd5249e0ad0a0e62.1920x1080.jpg?t=1670020237,https://cdn.akamai.steamstatic.com/steam/apps/2124440/ss_3c44a407e4364c784b248d85090eb4109e595604.1920x1080.jpg?t=1670020237,https://cdn.akamai.steamstatic.com/steam/apps/2124440/ss_adf87805fd454a5f643e5dec5ffc541bc453203e.1920x1080.jpg?t=1670020237,https://cdn.akamai.steamstatic.com/steam/apps/2124440/ss_db384673828dc6442f70a51a4f153bb04c32f185.1920x1080.jpg?t=1670020237,https://cdn.akamai.steamstatic.com/steam/apps/2124440/ss_3e0a52aefe5029d779fe6b77a5e15094ae387295.1920x1080.jpg?t=1670020237",
+    "Slug": "sic-1",
+    "Meta Title": "SIC-1: Dec 2, 2022, Anti-Pattern Games and Full Overview",
+    "Meta Description": "Looking for information on SIC-1? Check out the release date (Dec 2, 2022), developer insights from Anti-Pattern Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for SIC-1 game - Steam 2124440",
+    "Canonical URL": "https://gusku.site/game/sic-1",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SIC-1\", \"description\": \"Looking for information on SIC-1? Check out the release date (Dec 2, 2022), developer insights from Anti-Pattern Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Anti-Pattern Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Anti-Pattern Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2124440/header.jpg?t=1670020237\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

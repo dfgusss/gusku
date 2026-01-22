@@ -1,0 +1,21 @@
+{
+    "AppID": 570860,
+    "Name": "AudioBeats",
+    "Release date": "Jan 5, 2017",
+    "About the game": "Audio Beats is a tribute to the classic rhythm games. If you are a traditional rhythm game player seeking for great beats and challenges in VR, Audio Beats is the answer. Audio Beats is about to release the official version. This version contains the core gameplay for players to experience. This version contains the top 6 original tracks from our first album. The official version will have more songs and game functions will be updated regularly. Thank you for all the support! About This Game Audio Beats is a rhythm game. Players have to hit all the notes accurately! Core Gameplay The flying orbs indicate rhythm of the music. When an orb touches the hexagon fields, knock the panels to crash the note! There are three types of note: single, long key, and direction key. There are three levels of difficulty for each song: Easy, Normal, and Hard. Don’t forget good rhythm and accurate timing will get you a higher score! Features To allow players to better judge and hit the flying notes, we make sure that the hit determination point and note hitting panels are friendly for all players. In order for players to experience different ways of note hitting, we use a sophisticated collision algorithm and nested logic to analyze the player's actions.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/570860/header.jpg?t=1509753249",
+    "Price": 9.99,
+    "Developers": "Famiku",
+    "Publishers": "Famiku",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/570860/ss_67617d3169b5a3d5277e1a06613b92d625d6dc2b.1920x1080.jpg?t=1509753249,https://cdn.akamai.steamstatic.com/steam/apps/570860/ss_7f3e3bdd5297446dd324a597e9aa91d8e8ba0f86.1920x1080.jpg?t=1509753249,https://cdn.akamai.steamstatic.com/steam/apps/570860/ss_2d59a2edc9a36131d708d40e1d7bd8c1f8960779.1920x1080.jpg?t=1509753249,https://cdn.akamai.steamstatic.com/steam/apps/570860/ss_42bcd4dae49e75b3e1eaf071e039ae88e21d36e0.1920x1080.jpg?t=1509753249,https://cdn.akamai.steamstatic.com/steam/apps/570860/ss_09af5cab7903a215fce58bf926c811ce57b82c35.1920x1080.jpg?t=1509753249",
+    "Slug": "audiobeats",
+    "Meta Title": "AudioBeats: Jan 5, 2017, Famiku and Full Overview",
+    "Meta Description": "Looking for information on AudioBeats? Check out the release date (Jan 5, 2017), developer insights from Famiku, and a complete game summary.",
+    "Alt Text Image": "Official header image for AudioBeats game - Steam 570860",
+    "Canonical URL": "https://gusku.site/game/audiobeats",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"AudioBeats\", \"description\": \"Looking for information on AudioBeats? Check out the release date (Jan 5, 2017), developer insights from Famiku, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 5, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Famiku\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Famiku\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/570860/header.jpg?t=1509753249\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

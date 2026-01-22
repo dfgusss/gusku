@@ -1,0 +1,21 @@
+{
+    "AppID": 2065860,
+    "Name": "Floor Is Lava",
+    "Release date": "Jul 8, 2022",
+    "About the game": "Floor Is Lava, is a 2d platformer where you have to escape an erupting volcano. Game features: - Running - Jumping - Coins - Timer - Keys - Multiple types of blocks. My name is Paxton and I'm 10. I've been learning C# and have been making games for over a year and this is the second game I've decided to publish. Please enjoy :)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2065860/header.jpg?t=1657293056",
+    "Price": 1.99,
+    "Developers": "Pax Breslaw,Deann Breslaw,Serge Breslavets",
+    "Publishers": "Pax Breslaw,Serge Breslavets",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2065860/ss_f59cbe110953490557a4eee5d8ba6e536e227bb7.1920x1080.jpg?t=1657293056,https://cdn.akamai.steamstatic.com/steam/apps/2065860/ss_3f44f01c1bac473633b858dbf8357a47a8d28d86.1920x1080.jpg?t=1657293056,https://cdn.akamai.steamstatic.com/steam/apps/2065860/ss_cfc274d7fceab7654cb3e269018689617a315d27.1920x1080.jpg?t=1657293056,https://cdn.akamai.steamstatic.com/steam/apps/2065860/ss_1f71d8918186facde1196712a02f63163e272057.1920x1080.jpg?t=1657293056,https://cdn.akamai.steamstatic.com/steam/apps/2065860/ss_bca05cfd352ea64f4f1b9b18d3bbbfd88e7ccd5c.1920x1080.jpg?t=1657293056",
+    "Slug": "floor-is-lava",
+    "Meta Title": "Floor Is Lava: Jul 8, 2022, Pax Breslaw,Deann Breslaw,Ser...",
+    "Meta Description": "Looking for information on Floor Is Lava? Check out the release date (Jul 8, 2022), developer insights from Pax Breslaw,Deann Breslaw,Serge Breslavets, ...",
+    "Alt Text Image": "Official header image for Floor Is Lava game - Steam 2065860",
+    "Canonical URL": "https://gusku.site/game/floor-is-lava",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Floor Is Lava\", \"description\": \"Looking for information on Floor Is Lava? Check out the release date (Jul 8, 2022), developer insights from Pax Breslaw,Deann Breslaw,Serge Breslavets, ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 8, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pax Breslaw,Deann Breslaw,Serge Breslavets\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pax Breslaw,Serge Breslavets\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2065860/header.jpg?t=1657293056\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

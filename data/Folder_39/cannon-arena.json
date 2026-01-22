@@ -1,0 +1,21 @@
+{
+    "AppID": 1078130,
+    "Name": "Cannon Arena",
+    "Release date": "Jun 19, 2019",
+    "About the game": "Cannon Arena is a videogame that puts the player in a tank’s driving seat, in an arena, trying to defend the buildings on his side from a floating globe. His tank, as well as the other players’, can shoot in an attempt to push the globe away from their side and towards the opposing players’ buildings. We implemented both a single player and a multiplayer mode (up to 8 human players). The single player will start by unlocking a map (2 players = 1 vs 1), as well as 4 level-1 tanks. In a multiplayer session, whoever hosts the game can only use the fields and wagons that have been previously unlocked in single player, but he will be able to participate in multiplayer rooms, hosted by otyher players, with more unlocked content (3 players arenas, 4 players arenas and so on, up to the 8 players one). Features: Realistic ball physics free for all game mode single player with bots multiplayer pvp up to 8 players seven tanks with differents stats ( unlockable ) 7 arenas ranging from 2 to 8 players ( unlockable )",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1078130/header.jpg?t=1650540712",
+    "Price": 6.99,
+    "Developers": "1Monkey2Brains",
+    "Publishers": "1Monkey2Brains",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_1e53dae649ad8268f2aba21e5db1bfcb66588956.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_1dcbb11cf124e29576fbb685e4d0000e2f082673.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_b10c0c610bac8d304354f36b9df55913d2fe92a3.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_161fa8d75a4da76bbbbdbc2613757e121ba518bb.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_8838a3c0ed99cce595e6f3fe2bfff936d1b4fda4.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_812b3451396ca4c3e9f12b151c26fdaadc0317be.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_d3c318814e56f6b6b69090e591caac469d0b7a4e.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_f34dce82ba2b3bf2b1ed379e7619e5127139702d.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_adf7ea3ef68722f08d933db2f65a5ac004e671d2.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_868eb7281b277815140c809fbf60ac86efd44a91.1920x1080.jpg?t=1650540712,https://cdn.akamai.steamstatic.com/steam/apps/1078130/ss_14219650525aa312911f199db8d57b3d4ae2bbec.1920x1080.jpg?t=1650540712",
+    "Slug": "cannon-arena",
+    "Meta Title": "Cannon Arena: Jun 19, 2019, 1Monkey2Brains and Full Overview",
+    "Meta Description": "Looking for information on Cannon Arena? Check out the release date (Jun 19, 2019), developer insights from 1Monkey2Brains, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cannon Arena game - Steam 1078130",
+    "Canonical URL": "https://gusku.site/game/cannon-arena",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cannon Arena\", \"description\": \"Looking for information on Cannon Arena? Check out the release date (Jun 19, 2019), developer insights from 1Monkey2Brains, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 19, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"1Monkey2Brains\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"1Monkey2Brains\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1078130/header.jpg?t=1650540712\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

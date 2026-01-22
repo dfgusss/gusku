@@ -1,0 +1,21 @@
+{
+    "AppID": 1518320,
+    "Name": "Minesweeper Versus",
+    "Release date": "Jan 22, 2021",
+    "About the game": "Minesweeper Versus requires tactics and strategy to uncover hidden mines before your opponent beats you to it. It's a modern take on the classic free minesweeper game, for two players. Gameplay The goal of Minesweeper Versus is to uncover more bombs than your opponent. The location of most mines is discovered through a logical process, but some require guessing, usually with a 50-50 chance of being correct. Clicking on the game board will reveal what is hidden underneath the chosen square or squares (a large number of blank squares may be revealed in one go if they are adjacent to each other). Some squares are blank while others contain numbers (from 1 to 8), with each number being the number of mines adjacent to the uncovered square. Matchmaking Depending on the type of game, you can win or lose Elo. A highscore can be seen in the lobby. Custom Game You can play against your friends where neither win nor lose elo.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1518320/header.jpg?t=1611620571",
+    "Price": 5.99,
+    "Developers": "CINAR,KARA,NARIN",
+    "Publishers": "KARA",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1518320/ss_3504a831eee933206e80d826a12c686250ff0f6c.1920x1080.jpg?t=1611620571,https://cdn.akamai.steamstatic.com/steam/apps/1518320/ss_371afd51b0bd3d601c0bcd975b56b69fd14a94d6.1920x1080.jpg?t=1611620571,https://cdn.akamai.steamstatic.com/steam/apps/1518320/ss_11eb30e5717741f39dcdbee30757854582b23408.1920x1080.jpg?t=1611620571,https://cdn.akamai.steamstatic.com/steam/apps/1518320/ss_0b2edd8fcc007a9fe7ae1dc5f90606f27c9b5600.1920x1080.jpg?t=1611620571,https://cdn.akamai.steamstatic.com/steam/apps/1518320/ss_a50e2f4cc8aade838a9ed2a01beb9a19b591ff79.1920x1080.jpg?t=1611620571",
+    "Slug": "minesweeper-versus",
+    "Meta Title": "Minesweeper Versus: Jan 22, 2021, CINAR,KARA,NARIN and Fu...",
+    "Meta Description": "Looking for information on Minesweeper Versus? Check out the release date (Jan 22, 2021), developer insights from CINAR,KARA,NARIN, and a complete game ...",
+    "Alt Text Image": "Official header image for Minesweeper Versus game - Steam 1518320",
+    "Canonical URL": "https://gusku.site/game/minesweeper-versus",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Minesweeper Versus\", \"description\": \"Looking for information on Minesweeper Versus? Check out the release date (Jan 22, 2021), developer insights from CINAR,KARA,NARIN, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 22, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"CINAR,KARA,NARIN\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"KARA\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1518320/header.jpg?t=1611620571\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

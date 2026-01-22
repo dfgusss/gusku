@@ -1,0 +1,21 @@
+{
+    "AppID": 1296480,
+    "Name": "Surviving Isolation",
+    "Release date": "Jun 2, 2020",
+    "About the game": "Surviving isolation is a game where you must survive as long as you can while self isolating. Play by yourself to see how long you can last, or (preferably) play with up to 3 friends and fight over the limited toilet roll supply! Collect Toilet roll, live off of soup, save all your water, ration your antibacterial gel and use music to keep you entertained while you're in quarantine. Currently implemented features; Collect toilet roll Eat Soup Use antibacterial gel DJ set Needs system (thirst/hunger/fun/health) - will decline over time, keep them up! Throwing toilet roll Swimming (floating?) Dying (keep track of how many gravestones you have!) Saving/Loading/deleting Multiplayer Settings (but these + ui need some work) Grass that flattens when you walk on it A sick discord channel Steam features (friends list, send invites, receive invites, accept invites) Shop that spawns in random resources over time Estoban the toilet roll delivery cube Day/Night cycle Future Implementations; Maximum held toilet roll Actually spending your held toilet roll Inventory system (so you can't hold all of the toilet roll/can save food/water/antibac instead of instantly using it) Different types of food Variations of drinks More music (maybe some secret stuff here too) Push/punch each other (gotta get that toilet roll) Fishing Custom gravestones House upgrades More Steam features (achievements, cloud saves) Day/Night cycle needs to sync across all players",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1296480/header.jpg?t=1591101012",
+    "Price": 3.99,
+    "Developers": "Klowd Studio",
+    "Publishers": "Klowd Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1296480/ss_e1920f78e868a65fd5ebc8d7181f34ad662905a1.1920x1080.jpg?t=1591101012,https://cdn.akamai.steamstatic.com/steam/apps/1296480/ss_469cad34bb0be281b57a82554dd3c73649f00205.1920x1080.jpg?t=1591101012,https://cdn.akamai.steamstatic.com/steam/apps/1296480/ss_f3db439d0b5531868cee43b9e9bdec949b7e1b8e.1920x1080.jpg?t=1591101012,https://cdn.akamai.steamstatic.com/steam/apps/1296480/ss_0f0a4abc759b2656743d792b257fa66742180bca.1920x1080.jpg?t=1591101012,https://cdn.akamai.steamstatic.com/steam/apps/1296480/ss_496505ac1ff414596583028ee50836c1a77d3f05.1920x1080.jpg?t=1591101012",
+    "Slug": "surviving-isolation",
+    "Meta Title": "Surviving Isolation: Jun 2, 2020, Klowd Studio and Full O...",
+    "Meta Description": "Looking for information on Surviving Isolation? Check out the release date (Jun 2, 2020), developer insights from Klowd Studio, and a complete game summ...",
+    "Alt Text Image": "Official header image for Surviving Isolation game - Steam 1296480",
+    "Canonical URL": "https://gusku.site/game/surviving-isolation",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Surviving Isolation\", \"description\": \"Looking for information on Surviving Isolation? Check out the release date (Jun 2, 2020), developer insights from Klowd Studio, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 2, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Klowd Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Klowd Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1296480/header.jpg?t=1591101012\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 598660,
+    "Name": "Plevr",
+    "Release date": "Mar 8, 2017",
+    "About the game": "Reach out and touch your Plex Movies and TV in VR with Plevr. **Requires Vive or Oculus Touch and a Plex account** Features: • Built for Comfort - easily reposition yourself and the screen (even lying down), and make the screen as big as you want (think IMAX) • Full Plex Support - video resume, On Deck, Recently Added, video transcoding, remote servers, multi-section support (NEW in v1.1) , subtitle support (NEW in v1.1) • Friends' Content - full access to the libraries of Plex friends • 3D Video - automatically plays both Side-by-Side and Over-Under correctly, through either filenaming or video frame analysis (NEW in v1.1) • Voice Search - search for titles like 'Star Wars' across all libraries with just your voice • YouTube/Vimeo Support - supports Plex's Watch Later feature, including 3D videos • Simple Controls - use a single controller as your remote, even for system volume • Environment Support - black void, space, skyscraper roof and luxury apartment • Widget Support - don't lose track of time with the movable digital clock • Room-Scale Support - walk along the rows of your Plex library Coming Soon: • 360 video support • More environments • More widgets • So much more ...",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/598660/header.jpg?t=1489987759",
+    "Price": 9.99,
+    "Developers": "Fervr Labs",
+    "Publishers": "Fervr Labs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/598660/ss_06f4e3e4ee58781a9cdd42bccdf1b5f15fa45b74.1920x1080.jpg?t=1489987759,https://cdn.akamai.steamstatic.com/steam/apps/598660/ss_384402b10d4418f7f3ef6bbd517058e3acaffedb.1920x1080.jpg?t=1489987759,https://cdn.akamai.steamstatic.com/steam/apps/598660/ss_76a294a5d5af7665d81e20638ae50593d7a30827.1920x1080.jpg?t=1489987759,https://cdn.akamai.steamstatic.com/steam/apps/598660/ss_49652ffb1255f2f9e43696ce66578152896b5e01.1920x1080.jpg?t=1489987759,https://cdn.akamai.steamstatic.com/steam/apps/598660/ss_342c3ac1bf57436acfaf1ec1219b01dd61531151.1920x1080.jpg?t=1489987759,https://cdn.akamai.steamstatic.com/steam/apps/598660/ss_c497793132c67673e35d0bbf9f17b7476d678757.1920x1080.jpg?t=1489987759,https://cdn.akamai.steamstatic.com/steam/apps/598660/ss_38a6c12f059c154a3cf9bf0bc4cde36424a27dec.1920x1080.jpg?t=1489987759,https://cdn.akamai.steamstatic.com/steam/apps/598660/ss_958c4cca574d45f9dcec5da8087f83db785765e3.1920x1080.jpg?t=1489987759,https://cdn.akamai.steamstatic.com/steam/apps/598660/ss_78137a5ab532cf227aad0ca2c3bac3b60dafe183.1920x1080.jpg?t=1489987759",
+    "Slug": "plevr",
+    "Meta Title": "Plevr: Mar 8, 2017, Fervr Labs and Full Overview",
+    "Meta Description": "Looking for information on Plevr? Check out the release date (Mar 8, 2017), developer insights from Fervr Labs, and a complete game summary.",
+    "Alt Text Image": "Official header image for Plevr game - Steam 598660",
+    "Canonical URL": "https://gusku.site/game/plevr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Plevr\", \"description\": \"Looking for information on Plevr? Check out the release date (Mar 8, 2017), developer insights from Fervr Labs, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 8, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fervr Labs\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fervr Labs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/598660/header.jpg?t=1489987759\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

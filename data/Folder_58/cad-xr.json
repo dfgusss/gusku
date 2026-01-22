@@ -1,0 +1,21 @@
+{
+    "AppID": 640720,
+    "Name": "CAD XR",
+    "Release date": "May 24, 2017",
+    "About the game": "CAD XR is a visualization tool that allows users to view their CAD (computer-aided design) models in virtual or augmented reality. Our user interface is extremely simple and intuitive, though also allows for a wide array of customization options. Viewing models in CAD XR gives users a true visualization of their projects before any physical models are built. ​ In the construction or architecture industry? Walk through a building or view a structure in 1:1 scale to get a true sense of the size. ​ Work with microelectronics often? Increase the scale of a microchip to a size large enough to see every individual part. In a medical field? Allow patients to judge the size of a prosthetic limb in VR to see what best fits them. ​ Save time and money by using virtual reality to examine CAD models before they're physically made. CAD XR supports the following formats: AutoCAD DXF (.dxf) Collada (.dae) Stereolithography (.stl) Wavefront Object (.obj) Technical Specs: Windows-based application allows for high performance VR compatible - Utilizes HTC Vive and Oculus Rift Controller support for HTC Vive and Oculus Touch controllers for the VR viewer Easy hand and grip controls to allow fluid model manipulation in the VR viewer Built-in 3D desktop viewer lets users view and play around with a model Shows the triangle count of loaded models in the 3D viewer Supports up to 10 million triangles Displays a coordinate system and viewcube with respect to the 3D model Simple and intuitive mouse controls for 3D desktop viewer Gives users the freedom to export converted files to any specified destination Files can be sorted per the user’s needs (by date, name, or size) User-friendly tool tips are always available to provide assistance Supports backwards-compatible x64 architecture",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/640720/header.jpg?t=1553012630",
+    "Price": 0.0,
+    "Developers": "Lucid Sight, Inc.",
+    "Publishers": "Lucid Sight, Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/640720/ss_5e39d336a880cf15a98f5f945979fbfde78c4974.1920x1080.jpg?t=1553012630,https://cdn.akamai.steamstatic.com/steam/apps/640720/ss_a657b907c3f27cf1af09b305c9b0461dedc24b9d.1920x1080.jpg?t=1553012630,https://cdn.akamai.steamstatic.com/steam/apps/640720/ss_2568f10e4080be0f3b7ebdadf6279a027c2360f3.1920x1080.jpg?t=1553012630,https://cdn.akamai.steamstatic.com/steam/apps/640720/ss_8a584dde60744b3e9fe4580da3336e43010f2592.1920x1080.jpg?t=1553012630,https://cdn.akamai.steamstatic.com/steam/apps/640720/ss_7b8998e3a116a4d4dcc465ec6e811059eb0eaf82.1920x1080.jpg?t=1553012630,https://cdn.akamai.steamstatic.com/steam/apps/640720/ss_5b28f8edf33c7715bc5bd337b5e1ffbc8fff8f4e.1920x1080.jpg?t=1553012630",
+    "Slug": "cad-xr",
+    "Meta Title": "CAD XR: May 24, 2017, Lucid Sight, Inc. and Full Overview",
+    "Meta Description": "Looking for information on CAD XR? Check out the release date (May 24, 2017), developer insights from Lucid Sight, Inc., and a complete game summary.",
+    "Alt Text Image": "Official header image for CAD XR game - Steam 640720",
+    "Canonical URL": "https://gusku.site/game/cad-xr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CAD XR\", \"description\": \"Looking for information on CAD XR? Check out the release date (May 24, 2017), developer insights from Lucid Sight, Inc., and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 24, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lucid Sight, Inc.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Lucid Sight, Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/640720/header.jpg?t=1553012630\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2138480,
+    "Name": "Capsule Rush",
+    "Release date": "Sep 27, 2022",
+    "About the game": "Capsule Rush is a third-person 3D platformer game set in different environments, each with increasing difficulty. Compete against other capsules for the fastest time and get ready for the challenges waiting ahead! There are currently 10 different levels scaling from easy to very hard to choose between. The goal is jumping from one platform to another to make your way towards the finish line. Each level contains obstacles which are recognized as moving enemies which you have to avoid by all means because if you touch one its instant death. You can avoid enemies by jumping over or around them. You can also customize your capsule with different hats for a more appealing appearance. If you are looking for an extra challenge you can also compete against other players for the fastest time, which is displayed on an in-game leaderboard.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2138480/header.jpg?t=1664613711",
+    "Price": 1.79,
+    "Developers": "Tsimo",
+    "Publishers": "Tsimo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2138480/ss_37afb9f64d4f86edfdeedb0c35d9025e2283b765.1920x1080.jpg?t=1664613711,https://cdn.akamai.steamstatic.com/steam/apps/2138480/ss_8e3c2e3fcaabfd6058c7f08866256517763a3fac.1920x1080.jpg?t=1664613711,https://cdn.akamai.steamstatic.com/steam/apps/2138480/ss_42749c8e25bf3b32e617a7e135ee5bba9131d38a.1920x1080.jpg?t=1664613711,https://cdn.akamai.steamstatic.com/steam/apps/2138480/ss_0375b16e67c12a112b6280209dbefd4dc79f9335.1920x1080.jpg?t=1664613711,https://cdn.akamai.steamstatic.com/steam/apps/2138480/ss_918fe21d77e0bd41a538b96e3f466057ef7688a5.1920x1080.jpg?t=1664613711",
+    "Slug": "capsule-rush",
+    "Meta Title": "Capsule Rush: Sep 27, 2022, Tsimo and Full Overview",
+    "Meta Description": "Looking for information on Capsule Rush? Check out the release date (Sep 27, 2022), developer insights from Tsimo, and a complete game summary.",
+    "Alt Text Image": "Official header image for Capsule Rush game - Steam 2138480",
+    "Canonical URL": "https://gusku.site/game/capsule-rush",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Capsule Rush\", \"description\": \"Looking for information on Capsule Rush? Check out the release date (Sep 27, 2022), developer insights from Tsimo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 27, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tsimo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tsimo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2138480/header.jpg?t=1664613711\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.79, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

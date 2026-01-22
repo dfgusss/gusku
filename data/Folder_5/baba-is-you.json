@@ -1,0 +1,21 @@
+{
+    "AppID": 736260,
+    "Name": "Baba Is You",
+    "Release date": "Mar 13, 2019",
+    "About the game": "Baba Is You is an award-winning puzzle game where you can change the rules by which you play. In every level, the rules themselves are present as blocks you can interact with; by manipulating them, you can change how the level works and cause surprising, unexpected interactions! With some simple block-pushing you can turn yourself into a rock, turn patches of grass into dangerously hot obstacles, and even change the goal you need to reach to something entirely different. The game has over 200 levels that experiment with the game's mechanics in a multitude of ways, requiring the player to understand and manipulate the rules of the game and figure out devious ways to make the objects in the game world interact. The game was originally created for and won the Nordic Game Jam 2017. Baba Is You also won the Excellence in Design and Best Student Game awards in the Independent Games Festival 2018, and was nominated a finalist in 2 other categories, including the Seumas McNally Grand Prize. The game was made using Multimedia Fusion 2 by Clickteam.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/736260/header.jpg?t=1656225237",
+    "Price": 14.99,
+    "Developers": "Hempuli Oy",
+    "Publishers": "Hempuli Oy",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_908c8a4fd0ffec9f29341eb50eb7f074c105342f.1920x1080.jpg?t=1656225237,https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_9eadb1cdc09f574d49d32a722d7bda5813c96a64.1920x1080.jpg?t=1656225237,https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_c535fc337bdb15bfe35a164cc13db7ec92fd1f44.1920x1080.jpg?t=1656225237,https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_e421ba3fb93e902eb4af05564ebf3afcabaae951.1920x1080.jpg?t=1656225237,https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_4e489dcc482e3f094cd8caf0a10317fdc71345af.1920x1080.jpg?t=1656225237,https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_ac1cc1552628933847698ea79ec65bd8531b4274.1920x1080.jpg?t=1656225237",
+    "Slug": "baba-is-you",
+    "Meta Title": "Baba Is You: Mar 13, 2019, Hempuli Oy and Full Overview",
+    "Meta Description": "Looking for information on Baba Is You? Check out the release date (Mar 13, 2019), developer insights from Hempuli Oy, and a complete game summary.",
+    "Alt Text Image": "Official header image for Baba Is You game - Steam 736260",
+    "Canonical URL": "https://gusku.site/game/baba-is-you",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Baba Is You\", \"description\": \"Looking for information on Baba Is You? Check out the release date (Mar 13, 2019), developer insights from Hempuli Oy, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 13, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hempuli Oy\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hempuli Oy\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/736260/header.jpg?t=1656225237\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

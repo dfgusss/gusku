@@ -1,0 +1,21 @@
+{
+    "AppID": 1972230,
+    "Name": "Alcyone",
+    "Release date": "May 3, 2022",
+    "About the game": "Alcyone is a Science Fiction 3D First Person Shooter (FPS) Video Game set in an Open World mid-crisis New York City (NYC) that can be freely explored by the players. - 200 Enemies - 2 Weapons : Blaster and Shotgun - 1 Open World Map of New York City (NYC): A real world replica of several city blocks around 30 Rockefeller Plaza in New York City USA. - 1 Easter Egg (jetpack) hidden on the map. Known bugs : Avoid close proximity with trees, you can get stuck and unable to finish the game. Beta bug : missing executable error : right click on the app on steam &gt; properties &gt; beta &gt; select operating system",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1972230/header.jpg?t=1651983132",
+    "Price": 0.0,
+    "Developers": "Yann GEFFROTIN",
+    "Publishers": "Yann GEFFROTIN",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1972230/ss_9624ddb70dd2873d423ee53289464797eddc9ff9.1920x1080.jpg?t=1651983132,https://cdn.akamai.steamstatic.com/steam/apps/1972230/ss_e7ca717deb5cfa72aa515e585f18bb19a5771d4a.1920x1080.jpg?t=1651983132,https://cdn.akamai.steamstatic.com/steam/apps/1972230/ss_2b2bc1597d21cdab9a4d75518557b0fb0ac35359.1920x1080.jpg?t=1651983132,https://cdn.akamai.steamstatic.com/steam/apps/1972230/ss_050b9d1674cfc041eb5565e609be7d23cb4bab56.1920x1080.jpg?t=1651983132,https://cdn.akamai.steamstatic.com/steam/apps/1972230/ss_94c565f95f413dececc7ed6ef40540e5bff7aeee.1920x1080.jpg?t=1651983132",
+    "Slug": "alcyone",
+    "Meta Title": "Alcyone: May 3, 2022, Yann GEFFROTIN and Full Overview",
+    "Meta Description": "Looking for information on Alcyone? Check out the release date (May 3, 2022), developer insights from Yann GEFFROTIN, and a complete game summary.",
+    "Alt Text Image": "Official header image for Alcyone game - Steam 1972230",
+    "Canonical URL": "https://gusku.site/game/alcyone",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Alcyone\", \"description\": \"Looking for information on Alcyone? Check out the release date (May 3, 2022), developer insights from Yann GEFFROTIN, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 3, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Yann GEFFROTIN\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Yann GEFFROTIN\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1972230/header.jpg?t=1651983132\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

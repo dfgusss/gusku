@@ -1,0 +1,21 @@
+{
+    "AppID": 2213600,
+    "Name": "Medusa",
+    "Release date": "Nov 29, 2022",
+    "About the game": "Help Medusa find a foregone creature called the Ancient Sludge. In this classic-style Metroidvania you will explore eight unique regions, find items with unique abilities and learn to cast various spells. Each location contains a unique set of enemies. Completing the game at 100% should take at least 5hours. Example of a map system: Example of gameplay:",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2213600/header.jpg?t=1669747060",
+    "Price": 2.99,
+    "Developers": "radgu8",
+    "Publishers": "radgu8",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2213600/ss_5b4182e4641914a203862f08b9f5afb64dc15e3d.1920x1080.jpg?t=1669747060,https://cdn.akamai.steamstatic.com/steam/apps/2213600/ss_e06cbb5140351b904ddf48839998b7115568f6c1.1920x1080.jpg?t=1669747060,https://cdn.akamai.steamstatic.com/steam/apps/2213600/ss_39b0a03db6a184dc157edc75abc151edb971457e.1920x1080.jpg?t=1669747060,https://cdn.akamai.steamstatic.com/steam/apps/2213600/ss_2fe0cc8133bcc1078ee3144dc55c044ee014a01e.1920x1080.jpg?t=1669747060,https://cdn.akamai.steamstatic.com/steam/apps/2213600/ss_a210ac5764bd9be63d973ee02b3b3dd8d1c3fd32.1920x1080.jpg?t=1669747060,https://cdn.akamai.steamstatic.com/steam/apps/2213600/ss_ea255a0ebe98c09c936fc941222791a5d321dc9f.1920x1080.jpg?t=1669747060,https://cdn.akamai.steamstatic.com/steam/apps/2213600/ss_7982d3c577b9aadc0dd1bc7b28d2f9397b4cb4a7.1920x1080.jpg?t=1669747060",
+    "Slug": "medusa",
+    "Meta Title": "Medusa: Nov 29, 2022, radgu8 and Full Overview",
+    "Meta Description": "Looking for information on Medusa? Check out the release date (Nov 29, 2022), developer insights from radgu8, and a complete game summary.",
+    "Alt Text Image": "Official header image for Medusa game - Steam 2213600",
+    "Canonical URL": "https://gusku.site/game/medusa",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Medusa\", \"description\": \"Looking for information on Medusa? Check out the release date (Nov 29, 2022), developer insights from radgu8, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 29, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"radgu8\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"radgu8\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2213600/header.jpg?t=1669747060\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

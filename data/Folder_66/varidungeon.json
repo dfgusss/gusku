@@ -1,0 +1,21 @@
+{
+    "AppID": 2160560,
+    "Name": "VariDungeon",
+    "Release date": "Oct 20, 2022",
+    "About the game": "In VariDungeon, you are a hero exploring a dungeon. It may sound classic, but each run is different because its structure changes every time you start again ! Power-ups, enemies, bosses, traps, ... You need to adapt to all these elements in order to defeat the final boss and save the King ! Features : - Gorgeous pixel-art graphics in the style of Game Boy - 13 enemies that get stronger as you so - 12 power-ups to combine in order to win each fight - 4 bosses trying to kill you - More environments, enemies, power-ups, playable characters and bosses to come in themed updates !",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2160560/header.jpg?t=1666478044",
+    "Price": 3.99,
+    "Developers": "ZerLab",
+    "Publishers": "ZerLab",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2160560/ss_4b0b55d9563d98e89f55b90c4a3e57bfdbd9ce9e.1920x1080.jpg?t=1666478044,https://cdn.akamai.steamstatic.com/steam/apps/2160560/ss_4e26115b07a738d370f554703aa8a27bd8b1b95f.1920x1080.jpg?t=1666478044,https://cdn.akamai.steamstatic.com/steam/apps/2160560/ss_df88a0f4a8a2265d75917d8fce792a3a9b028b1c.1920x1080.jpg?t=1666478044,https://cdn.akamai.steamstatic.com/steam/apps/2160560/ss_86acea3a8dced00040bde109d2c6b9b4b2cdf520.1920x1080.jpg?t=1666478044,https://cdn.akamai.steamstatic.com/steam/apps/2160560/ss_9aec3450b449be08bfccfface052205ab0a23961.1920x1080.jpg?t=1666478044",
+    "Slug": "varidungeon",
+    "Meta Title": "VariDungeon: Oct 20, 2022, ZerLab and Full Overview",
+    "Meta Description": "Looking for information on VariDungeon? Check out the release date (Oct 20, 2022), developer insights from ZerLab, and a complete game summary.",
+    "Alt Text Image": "Official header image for VariDungeon game - Steam 2160560",
+    "Canonical URL": "https://gusku.site/game/varidungeon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VariDungeon\", \"description\": \"Looking for information on VariDungeon? Check out the release date (Oct 20, 2022), developer insights from ZerLab, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"ZerLab\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ZerLab\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2160560/header.jpg?t=1666478044\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

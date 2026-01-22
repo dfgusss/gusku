@@ -1,0 +1,21 @@
+{
+    "AppID": 2313210,
+    "Name": "SpiderAttack",
+    "Release date": "Feb 21, 2023",
+    "About the game": "SpiderAttack, vous êtes une araignée qui doit capturer des insectes pour se nourrir, le but du jeu avec votre toile que vous tissez et de rapprocher au maximum les insectes de leur toile colorée respective afin qu'elle soit capturée, jeux 2D, 23 niveaux avec différents environnements.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2313210/header.jpg?t=1676971001",
+    "Price": 0.99,
+    "Developers": "Seebacher Norbert",
+    "Publishers": "indépendant",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2313210/ss_48ad990cd0368029bdc2c309a46e6ddb4b96fb81.1920x1080.jpg?t=1676971001,https://cdn.akamai.steamstatic.com/steam/apps/2313210/ss_bdfe339d1bb54ad10c676d2a3daf39be0fecb9a8.1920x1080.jpg?t=1676971001,https://cdn.akamai.steamstatic.com/steam/apps/2313210/ss_17d0c148da891f788e0203b42a176ece2fd35cfa.1920x1080.jpg?t=1676971001,https://cdn.akamai.steamstatic.com/steam/apps/2313210/ss_5fb9ca4d0b7b887ba048d9b4fee416461dc186c5.1920x1080.jpg?t=1676971001,https://cdn.akamai.steamstatic.com/steam/apps/2313210/ss_2896b79ec3c8eb4433830fb5f417e92e6ae9bd60.1920x1080.jpg?t=1676971001,https://cdn.akamai.steamstatic.com/steam/apps/2313210/ss_c296724e77f718ea9e3a58e721fbdccfaefd0d50.1920x1080.jpg?t=1676971001,https://cdn.akamai.steamstatic.com/steam/apps/2313210/ss_1a218a623f9f0d947d5b82d95a7e8144bffa4840.1920x1080.jpg?t=1676971001,https://cdn.akamai.steamstatic.com/steam/apps/2313210/ss_76e91c2b197c199d28d1808af4fbc5daa57331a7.1920x1080.jpg?t=1676971001",
+    "Slug": "spiderattack",
+    "Meta Title": "SpiderAttack: Feb 21, 2023, Seebacher Norbert and Full Ov...",
+    "Meta Description": "Looking for information on SpiderAttack? Check out the release date (Feb 21, 2023), developer insights from Seebacher Norbert, and a complete game summary.",
+    "Alt Text Image": "Official header image for SpiderAttack game - Steam 2313210",
+    "Canonical URL": "https://gusku.site/game/spiderattack",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SpiderAttack\", \"description\": \"Looking for information on SpiderAttack? Check out the release date (Feb 21, 2023), developer insights from Seebacher Norbert, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 21, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Seebacher Norbert\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ind\\u00e9pendant\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2313210/header.jpg?t=1676971001\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

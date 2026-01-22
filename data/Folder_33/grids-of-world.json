@@ -1,0 +1,21 @@
+{
+    "AppID": 1254410,
+    "Name": "破阵图(Grids of World)",
+    "Release date": "Apr 23, 2021",
+    "About the game": "The game is made based on the principle of Tic-Tac-Toe. In order to win, the player needs three consecutive strongholds to form a line. The game is made by UE4. Players can conduct game with computer or other players online. [Gameplay] In game,There are 9 strongholds in total. Attacking the stronghold requires all guard AIs to be killed. Otherwise, the attack to stronghold is invalid. Once the stronghold is occupied, the stronghold will be prompted on the UI interface in the upper right corner of the player. When the stronghold UI shows that the strongholds occupied by a certain team of players is three consecutive strongholds in a line,determine the team's victory.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1254410/header.jpg?t=1619184271",
+    "Price": 0.99,
+    "Developers": "IncreZero Studio",
+    "Publishers": "IncreZero Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1254410/ss_c3eca73306db1c7fc1d62d8099d19a284b64a275.1920x1080.jpg?t=1619184271,https://cdn.akamai.steamstatic.com/steam/apps/1254410/ss_150f35b4127e4f970f7b6dc8889b01b2552f367b.1920x1080.jpg?t=1619184271,https://cdn.akamai.steamstatic.com/steam/apps/1254410/ss_2e96faa34e40c52e5ed0203a595efbeba18af2f2.1920x1080.jpg?t=1619184271,https://cdn.akamai.steamstatic.com/steam/apps/1254410/ss_60201387e17d84dc3ad56bc38e0f60ebb3686382.1920x1080.jpg?t=1619184271,https://cdn.akamai.steamstatic.com/steam/apps/1254410/ss_7e6f0a5402a95693f54d59bd16d7cb582e602608.1920x1080.jpg?t=1619184271",
+    "Slug": "grids-of-world",
+    "Meta Title": "破阵图(Grids of World): Apr 23, 2021, IncreZero Studio and F...",
+    "Meta Description": "Looking for information on 破阵图(Grids of World)? Check out the release date (Apr 23, 2021), developer insights from IncreZero Studio, and a complete game...",
+    "Alt Text Image": "Official header image for 破阵图(Grids of World) game - Steam 1254410",
+    "Canonical URL": "https://gusku.site/game/grids-of-world",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u7834\\u9635\\u56fe(Grids of World)\", \"description\": \"Looking for information on \\u7834\\u9635\\u56fe(Grids of World)? Check out the release date (Apr 23, 2021), developer insights from IncreZero Studio, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"IncreZero Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"IncreZero Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1254410/header.jpg?t=1619184271\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

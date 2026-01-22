@@ -1,0 +1,21 @@
+{
+    "AppID": 729270,
+    "Name": "ALVAROK",
+    "Release date": "Nov 1, 2017",
+    "About the game": "Japanese Indie developer StudioGIW is back with ALVAROK, a fun and easy-to-play Tactical Defense game. Adapt and strategize, utilize your various troops to defend and attack simultaneously. Set yourself up on the left or right of the screen then send troops to attack the opponent. Troops build automatically in your base and you deploy them when you're ready. Destroy the opponent's base by reducing their gauge to zero. Play locally with friends or hone your skills against the computer and its built-in deep learning AI system. For the greatest challenge take on the evolving AI in Super Hard Mode. Online leaderboards track your battles against AI opponents. Compete for the global high score and bask in your hard earned glory. ALVAROK is available for Windows and is fully supported in both English and Japanese. For those familiar with StudioGIW, this game is built using the same engine as 'Dungeon Manager ZV: Resurrection'",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/729270/header.jpg?t=1625638452",
+    "Price": 2.99,
+    "Developers": "StudioGIW",
+    "Publishers": "Zoo Corporation",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/729270/ss_b59b808cf66928107344e695fbfb994fb0db6783.1920x1080.jpg?t=1625638452,https://cdn.akamai.steamstatic.com/steam/apps/729270/ss_70304de67e00494463478becd412eae1e4ce249f.1920x1080.jpg?t=1625638452,https://cdn.akamai.steamstatic.com/steam/apps/729270/ss_67e7238293d76f29f54febc3b572054d41551c2b.1920x1080.jpg?t=1625638452,https://cdn.akamai.steamstatic.com/steam/apps/729270/ss_37ab73bebe1eb94adc7c58b5b124d4efc4baff8d.1920x1080.jpg?t=1625638452,https://cdn.akamai.steamstatic.com/steam/apps/729270/ss_3372c5a54781ffed3039468008857a56bb0bc162.1920x1080.jpg?t=1625638452",
+    "Slug": "alvarok",
+    "Meta Title": "ALVAROK: Nov 1, 2017, StudioGIW and Full Overview",
+    "Meta Description": "Looking for information on ALVAROK? Check out the release date (Nov 1, 2017), developer insights from StudioGIW, and a complete game summary.",
+    "Alt Text Image": "Official header image for ALVAROK game - Steam 729270",
+    "Canonical URL": "https://gusku.site/game/alvarok",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ALVAROK\", \"description\": \"Looking for information on ALVAROK? Check out the release date (Nov 1, 2017), developer insights from StudioGIW, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 1, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"StudioGIW\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Zoo Corporation\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/729270/header.jpg?t=1625638452\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

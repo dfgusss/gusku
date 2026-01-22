@@ -1,0 +1,21 @@
+{
+    "AppID": 1336040,
+    "Name": "Easter Pairs",
+    "Release date": "Sep 11, 2021",
+    "About the game": "A game in the classic 'memory' genre. The images of eggs are laid out on the playing field, your task is to find paired ones. For speed and the least number of misses you get bonus points. You can choose between playing fields of varying difficulty. More images - more load on your memory. Good game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1336040/header.jpg?t=1654494448",
+    "Price": 1.99,
+    "Developers": "FI Pixel",
+    "Publishers": "Gigantum Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1336040/ss_a7bfa7c1fbb35ff829fb36eef092d166c2adf636.1920x1080.jpg?t=1654494448,https://cdn.akamai.steamstatic.com/steam/apps/1336040/ss_2a03bdd837d542009c04cec4b611b7d200c0eb68.1920x1080.jpg?t=1654494448,https://cdn.akamai.steamstatic.com/steam/apps/1336040/ss_618801b301a96b54b7addd12ccc917898cafc4f9.1920x1080.jpg?t=1654494448,https://cdn.akamai.steamstatic.com/steam/apps/1336040/ss_6fd512a54ed63569bc305b9d0d6a7abf4539cbd1.1920x1080.jpg?t=1654494448,https://cdn.akamai.steamstatic.com/steam/apps/1336040/ss_6ab6ebeba4d9515382c17ac7e7d6119ec2c3fc9c.1920x1080.jpg?t=1654494448",
+    "Slug": "easter-pairs",
+    "Meta Title": "Easter Pairs: Sep 11, 2021, FI Pixel and Full Overview",
+    "Meta Description": "Looking for information on Easter Pairs? Check out the release date (Sep 11, 2021), developer insights from FI Pixel, and a complete game summary.",
+    "Alt Text Image": "Official header image for Easter Pairs game - Steam 1336040",
+    "Canonical URL": "https://gusku.site/game/easter-pairs",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Easter Pairs\", \"description\": \"Looking for information on Easter Pairs? Check out the release date (Sep 11, 2021), developer insights from FI Pixel, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 11, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"FI Pixel\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gigantum Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1336040/header.jpg?t=1654494448\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

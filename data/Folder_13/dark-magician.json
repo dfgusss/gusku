@@ -1,0 +1,21 @@
+{
+    "AppID": 1783150,
+    "Name": "Dark Magician",
+    "Release date": "Nov 23, 2021",
+    "About the game": "Dark Magician is a 2d platform game with the story of a protagonist who has his disciple kidnapped by a dark magician. The game consists of the search for your apprentice, traveling through different environments facing numerous enemies and traps. Game possibilities: - Collect coins to improve: spells, unlock new spell space (so you can use more than one spell during battle). - Collect gems to exchange for gold in the shop. - The improvement of spells will be traded with gold, but with the collection of 60 gems you can exchange it for 1000 gold. (Advantage) Game Dark Magician is the first development of the team Guaxinim Studio, which currently has only one programmer and one designer.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1783150/header.jpg?t=1637705817",
+    "Price": 2.99,
+    "Developers": "Guaxinim Studio",
+    "Publishers": "Guaxinim Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1783150/ss_121cb951cec8a00e3b09744f6ed967bf1b33ce1e.1920x1080.jpg?t=1637705817,https://cdn.akamai.steamstatic.com/steam/apps/1783150/ss_6d58ae2453a40ffd281ae7689ff6c273a15ea829.1920x1080.jpg?t=1637705817,https://cdn.akamai.steamstatic.com/steam/apps/1783150/ss_c5976889d290dd4391f92e081ae90a1ad26ffbcf.1920x1080.jpg?t=1637705817,https://cdn.akamai.steamstatic.com/steam/apps/1783150/ss_d7ade28080abcd1b028e7e27362d7dbc42ecfb3e.1920x1080.jpg?t=1637705817,https://cdn.akamai.steamstatic.com/steam/apps/1783150/ss_62319a043724d6d1ba3e8237a4f7ca4c2824923b.1920x1080.jpg?t=1637705817",
+    "Slug": "dark-magician",
+    "Meta Title": "Dark Magician: Nov 23, 2021, Guaxinim Studio and Full Ove...",
+    "Meta Description": "Looking for information on Dark Magician? Check out the release date (Nov 23, 2021), developer insights from Guaxinim Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dark Magician game - Steam 1783150",
+    "Canonical URL": "https://gusku.site/game/dark-magician",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dark Magician\", \"description\": \"Looking for information on Dark Magician? Check out the release date (Nov 23, 2021), developer insights from Guaxinim Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Guaxinim Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Guaxinim Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1783150/header.jpg?t=1637705817\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 682740,
+    "Name": "Data Thief",
+    "Release date": "Apr 10, 2018",
+    "About the game": "Data Thief is a VR puzzle game where the player's goal is to solve light puzzles by redirecting, splitting, and merging colored beams of light in order to reach and obtain a piece of data. The player is only able to view one primary color at a time, alongside secondary colors composed of that primary color. While the spectrum limitation does hinder the player's ability to see the full picture, it allows them to move without fear of coming in contact with the dangerous beams of concentrated light.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/682740/header.jpg?t=1584586803",
+    "Price": 0.0,
+    "Developers": "Ottercopter",
+    "Publishers": "Ottercopter Studios, LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/682740/ss_538562ce7900cbf99bc3c4ec088ee7b897751126.1920x1080.jpg?t=1584586803,https://cdn.akamai.steamstatic.com/steam/apps/682740/ss_ade64f29a02e2f315bee96e92058304df86fa756.1920x1080.jpg?t=1584586803,https://cdn.akamai.steamstatic.com/steam/apps/682740/ss_45be306131abb0ea7daaf7293bbd35f9bc0e2154.1920x1080.jpg?t=1584586803,https://cdn.akamai.steamstatic.com/steam/apps/682740/ss_3abf7e4ea692cd8ed58bb952ec863ca6b80e66c7.1920x1080.jpg?t=1584586803,https://cdn.akamai.steamstatic.com/steam/apps/682740/ss_0184df369117d416b82833207d6967bde7f490a1.1920x1080.jpg?t=1584586803",
+    "Slug": "data-thief",
+    "Meta Title": "Data Thief: Apr 10, 2018, Ottercopter and Full Overview",
+    "Meta Description": "Looking for information on Data Thief? Check out the release date (Apr 10, 2018), developer insights from Ottercopter, and a complete game summary.",
+    "Alt Text Image": "Official header image for Data Thief game - Steam 682740",
+    "Canonical URL": "https://gusku.site/game/data-thief",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Data Thief\", \"description\": \"Looking for information on Data Thief? Check out the release date (Apr 10, 2018), developer insights from Ottercopter, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 10, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ottercopter\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ottercopter Studios, LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/682740/header.jpg?t=1584586803\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

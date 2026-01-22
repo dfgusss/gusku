@@ -1,0 +1,21 @@
+{
+    "AppID": 994360,
+    "Name": "CoderBear",
+    "Release date": "Jun 9, 2019",
+    "About the game": "CoderBear is a puzzle platformer with educational programming aspects. It's about solving logical puzzles by changing variables and executing functions, but does also include parkour, enemies and adventure. It's made to be accessible and fun to everyone. The main feature is to interact with objects and access their code. From there, the possibilities are endless! Player abilities like wall climbing, rolling, swimming and the boomerang will be collected throughout the playthrough and will be needed to complete certain levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/994360/header.jpg?t=1560137826",
+    "Price": 6.99,
+    "Developers": "Magne Tenstad",
+    "Publishers": "Magne Tenstad",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/994360/ss_02126a4756bcb66fa2f876a0cd9fdd7f78aa42c6.1920x1080.jpg?t=1560137826,https://cdn.akamai.steamstatic.com/steam/apps/994360/ss_4522eedfc3d71972e5c79598e8793f57f2c9ed57.1920x1080.jpg?t=1560137826,https://cdn.akamai.steamstatic.com/steam/apps/994360/ss_aebf681128a3bec6f6c5204d73944bbc27138532.1920x1080.jpg?t=1560137826,https://cdn.akamai.steamstatic.com/steam/apps/994360/ss_9f9091679ccbbc8d0a16c35dd4638398786d9d8f.1920x1080.jpg?t=1560137826,https://cdn.akamai.steamstatic.com/steam/apps/994360/ss_3bd971c49d1e30b0c7c11e6937728b7548f75f44.1920x1080.jpg?t=1560137826,https://cdn.akamai.steamstatic.com/steam/apps/994360/ss_207fe85670675badcf29df8a44e38e8c087995e8.1920x1080.jpg?t=1560137826",
+    "Slug": "coderbear",
+    "Meta Title": "CoderBear: Jun 9, 2019, Magne Tenstad and Full Overview",
+    "Meta Description": "Looking for information on CoderBear? Check out the release date (Jun 9, 2019), developer insights from Magne Tenstad, and a complete game summary.",
+    "Alt Text Image": "Official header image for CoderBear game - Steam 994360",
+    "Canonical URL": "https://gusku.site/game/coderbear",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CoderBear\", \"description\": \"Looking for information on CoderBear? Check out the release date (Jun 9, 2019), developer insights from Magne Tenstad, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 9, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Magne Tenstad\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Magne Tenstad\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/994360/header.jpg?t=1560137826\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

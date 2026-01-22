@@ -1,0 +1,21 @@
+{
+    "AppID": 2258040,
+    "Name": "World of Turtle",
+    "Release date": "Jan 13, 2023",
+    "About the game": "World of Turtle is a crazy puzzle game with 100 levels. Navigate Babo Turtle through collapsing grounds, slide on ice, ride on turtles, kick penguins and get punched by gorillas. Collect all fruits and reach the helicopter landing zone. Controls: The game is playable with Keyboard or Gamepad. Background Since I learn to code, I started developing a game called World of Turtle. It started with being a simple game with ASCII graphics written in Basic, and over time, the game evolved with better sound and graphics. A few years ago, it got ported to Flash, where I extended the number of features and levels up to 100. Finally, I am remaking the game back using typescript and WebGL and releasing it on Steam. Features: - 100 levels spread across 10 stages - Breakable blocks, ice blocks, transporting turtles, rolling carpet, crocodile, penguins, gorillas. - Your progress gets saved. - You get 5 passes to skip levels, but you can regain those passes by replaying and solving a skipped level. - One song per stage, and a Jukebox where you can play each song after they're unlocked. - Gamepad support. - AZERTY and QWERTY/Z keyboards supported. - Walkthrough is coming soon. - Some bonus at the end? Languages: Korea, French, English.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2258040/header.jpg?t=1673606505",
+    "Price": 8.49,
+    "Developers": "Jack Le Hamster",
+    "Publishers": "Dobuki Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2258040/ss_b4ef12f86b7fbe0ee04387575dc991594b137981.1920x1080.jpg?t=1673606505,https://cdn.akamai.steamstatic.com/steam/apps/2258040/ss_cf70b1015c7c38d00f2780768fa77a18cd712c9a.1920x1080.jpg?t=1673606505,https://cdn.akamai.steamstatic.com/steam/apps/2258040/ss_a795b76f4940623e91d1f9195eaa76904850b89e.1920x1080.jpg?t=1673606505,https://cdn.akamai.steamstatic.com/steam/apps/2258040/ss_ad599a6136760b0f6fed0836e0d29e496fd9c8fe.1920x1080.jpg?t=1673606505,https://cdn.akamai.steamstatic.com/steam/apps/2258040/ss_050007cf2c4a68ab61d1df8f3a00711dd401b22c.1920x1080.jpg?t=1673606505,https://cdn.akamai.steamstatic.com/steam/apps/2258040/ss_57eca0ccb465bf4fcf6401b9a22cfb556819941f.1920x1080.jpg?t=1673606505,https://cdn.akamai.steamstatic.com/steam/apps/2258040/ss_b44a71e53cc36328e6be8b7749d78ab5a89ac1f6.1920x1080.jpg?t=1673606505,https://cdn.akamai.steamstatic.com/steam/apps/2258040/ss_1d2005b0096b7cfaf79fbb151ce952b44618c8d7.1920x1080.jpg?t=1673606505",
+    "Slug": "world-of-turtle",
+    "Meta Title": "World of Turtle: Jan 13, 2023, Jack Le Hamster and Full O...",
+    "Meta Description": "Looking for information on World of Turtle? Check out the release date (Jan 13, 2023), developer insights from Jack Le Hamster, and a complete game summ...",
+    "Alt Text Image": "Official header image for World of Turtle game - Steam 2258040",
+    "Canonical URL": "https://gusku.site/game/world-of-turtle",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"World of Turtle\", \"description\": \"Looking for information on World of Turtle? Check out the release date (Jan 13, 2023), developer insights from Jack Le Hamster, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 13, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jack Le Hamster\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dobuki Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2258040/header.jpg?t=1673606505\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

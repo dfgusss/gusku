@@ -1,0 +1,21 @@
+{
+    "AppID": 1110600,
+    "Name": "GrayScale",
+    "Release date": "Aug 1, 2019",
+    "About the game": "GrayScale is a stage based action puzzle game. The stage consists of white and black, and when it is white it is black, and when it is black it is white. The player can break the color wall by hitting with force, and it goes on the stage while going back and forth between black and white. The purpose of this game is to take the key on the stage, open the door and escape. Operation method [/] It is simple to move and jump only and you can play easily. break the wall [/] Players can break the wall by gaining momentum. Breaking the wall produces wall debris. The debris on the wall can be a great help in advancing the stage. dyed in color Everything on the stage is gradually tinted into the background color over time. Adjusting the color well is one of the fun of this game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1110600/header.jpg?t=1564750877",
+    "Price": 4.99,
+    "Developers": "FanCluster",
+    "Publishers": "FanCluster",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1110600/ss_dd178631faaa3833e0031387015b5d75728ae952.1920x1080.jpg?t=1564750877,https://cdn.akamai.steamstatic.com/steam/apps/1110600/ss_056715bd807bad885204d4df61d9cb3059a78e44.1920x1080.jpg?t=1564750877,https://cdn.akamai.steamstatic.com/steam/apps/1110600/ss_ddc4fc76529c09c01f23b584c57887417e7914e6.1920x1080.jpg?t=1564750877,https://cdn.akamai.steamstatic.com/steam/apps/1110600/ss_e46541f7cf252c2a51d22b26969326b403d77b15.1920x1080.jpg?t=1564750877,https://cdn.akamai.steamstatic.com/steam/apps/1110600/ss_d859d22259bf8b6f4ddc92d28edfd6c7d448bd7a.1920x1080.jpg?t=1564750877",
+    "Slug": "grayscale",
+    "Meta Title": "GrayScale: Aug 1, 2019, FanCluster and Full Overview",
+    "Meta Description": "Looking for information on GrayScale? Check out the release date (Aug 1, 2019), developer insights from FanCluster, and a complete game summary.",
+    "Alt Text Image": "Official header image for GrayScale game - Steam 1110600",
+    "Canonical URL": "https://gusku.site/game/grayscale",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GrayScale\", \"description\": \"Looking for information on GrayScale? Check out the release date (Aug 1, 2019), developer insights from FanCluster, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 1, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"FanCluster\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"FanCluster\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1110600/header.jpg?t=1564750877\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

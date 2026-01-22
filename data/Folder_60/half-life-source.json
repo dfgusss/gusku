@@ -1,0 +1,21 @@
+{
+    "AppID": 280,
+    "Name": "Half-Life: Source",
+    "Release date": "Jun 1, 2004",
+    "About the game": "Winner of over 50 Game of the Year awards, Half-Life set new standards for action games when it was released in 1998. Half-Life: Source is a digitally remastered version of the critically acclaimed and best selling PC game, enhanced via Source technology to include physics simulation, enhanced effects, and more.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/280/header.jpg?t=1579630049",
+    "Price": 9.99,
+    "Developers": "Valve",
+    "Publishers": "Valve",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/280/0000000187.1920x1080.jpg?t=1579630049,https://cdn.akamai.steamstatic.com/steam/apps/280/0000000188.1920x1080.jpg?t=1579630049,https://cdn.akamai.steamstatic.com/steam/apps/280/0000000189.1920x1080.jpg?t=1579630049,https://cdn.akamai.steamstatic.com/steam/apps/280/0000000190.1920x1080.jpg?t=1579630049",
+    "Slug": "half-life-source",
+    "Meta Title": "Half-Life: Source: Jun 1, 2004, Valve and Full Overview",
+    "Meta Description": "Looking for information on Half-Life: Source? Check out the release date (Jun 1, 2004), developer insights from Valve, and a complete game summary.",
+    "Alt Text Image": "Official header image for Half-Life: Source game - Steam 280",
+    "Canonical URL": "https://gusku.site/game/half-life-source",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Half-Life: Source\", \"description\": \"Looking for information on Half-Life: Source? Check out the release date (Jun 1, 2004), developer insights from Valve, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 1, 2004\", \"author\": {\"@type\": \"Organization\", \"name\": \"Valve\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Valve\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/280/header.jpg?t=1579630049\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

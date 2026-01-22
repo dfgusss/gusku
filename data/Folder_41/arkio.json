@@ -1,0 +1,21 @@
+{
+    "AppID": 1053760,
+    "Name": "Arkio",
+    "Release date": "Mar 11, 2021",
+    "About the game": "Arkio is a collaborative design tool that enables you to easily sketch buildings, interiors and entire urban plans with others in VR as well as on PCs, tablets and phones. Arkio features a unique volumetric modeling kernel built from the ground-up for modeling in VR and on mobile devices, making the modeling experience feel closer to physical model making than traditional mesh modeling. In Arkio you can either start modeling from scratch or import your own 3D models and even 2D images, then sketch on top of them and export your work back to other 3D tools like Rhino and Revit as native Revit geometry. Collaborate and design with up to 24 people in the same scene 8 Powerful and easy to use volumetric modeling tools Work on existing 3D maps Import and draw on models from Revit, Rhino, or Sketchup (OBJ and native plugins) Export your designs back to Revit as native Revit geometry Work from any scale - use your hands in god scale or move things at human scale - like having design superpowers Create design options on the fly, make changes and see both the original and the new version presented side-by-side Smart components that can be grabbed, stretched, and glued like physical building blocks Collaborate locally in hybrid mode with one VR users and one user on PC Work with program data, sun studies, sections and more! Visit our website to download our Rhino/Revit/Sketchup plugins and learn more about the mobile version of Arkio. Arkio is currently in early access so please be aware that not everything works perfectly yet :) We'd love to hear how we can further improve Arkio as a design tool, both for personal and professional use.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1053760/header.jpg?t=1631006340",
+    "Price": 0.0,
+    "Developers": "Arkio ehf.",
+    "Publishers": "Arkio ehf.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1053760/ss_6286019eedf10b8ae9a3de742f85628e25a8790a.1920x1080.jpg?t=1631006340,https://cdn.akamai.steamstatic.com/steam/apps/1053760/ss_492574249a55938cc55a78f0e0def05b7647a7f9.1920x1080.jpg?t=1631006340,https://cdn.akamai.steamstatic.com/steam/apps/1053760/ss_547a4ddb4ff4167872eb9f98d3a22c3fecb0fefe.1920x1080.jpg?t=1631006340,https://cdn.akamai.steamstatic.com/steam/apps/1053760/ss_dd9fd2be1825c262ac37375125877c76c3199f82.1920x1080.jpg?t=1631006340,https://cdn.akamai.steamstatic.com/steam/apps/1053760/ss_7947be3d03c46a3dec4dc470ef803e0b70a3f3dd.1920x1080.jpg?t=1631006340",
+    "Slug": "arkio",
+    "Meta Title": "Arkio: Mar 11, 2021, Arkio ehf. and Full Overview",
+    "Meta Description": "Looking for information on Arkio? Check out the release date (Mar 11, 2021), developer insights from Arkio ehf., and a complete game summary.",
+    "Alt Text Image": "Official header image for Arkio game - Steam 1053760",
+    "Canonical URL": "https://gusku.site/game/arkio",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Arkio\", \"description\": \"Looking for information on Arkio? Check out the release date (Mar 11, 2021), developer insights from Arkio ehf., and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 11, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Arkio ehf.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Arkio ehf.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1053760/header.jpg?t=1631006340\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

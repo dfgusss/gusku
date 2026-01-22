@@ -1,0 +1,21 @@
+{
+    "AppID": 1781430,
+    "Name": "NotiVR",
+    "Release date": "Nov 22, 2021",
+    "About the game": "NotiVR (previously PhoneLink VR) is a super simple app that makes it easy to stay connected in VR. Using NotiVR you can see a live feed of notifications from your Android and reply to messages without removing your headset (reply function requires compatible phone and support may vary per app) Setup is simple, just download the NotiVR Android app and scan the pairing code. Your phone will automatically send any notifications to SteamVR. Plus you can check your notification history at any time without taking your headset off using our custom SteamVR dashboard overlay. Features Seamless notification mirroring from your Android device Reply to texts from most messaging apps without removing your VR headset (Android 7.0+ required, apps that support inline replies are supported) Supports XSOverlay notifications (Requries purchase of XSOverlay) Quick and easy setup process Desktop control panel with notification history and pairing controls See your notification history in SteamVR",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1781430/header.jpg?t=1658015796",
+    "Price": 6.99,
+    "Developers": "Matterworks Interactive",
+    "Publishers": "Matterworks Interactive",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1781430/ss_1fb3511c290d3b6442e8e1443b5c0439743e5df3.1920x1080.jpg?t=1658015796,https://cdn.akamai.steamstatic.com/steam/apps/1781430/ss_fd2da00ba29dce045e3743e4eff1eb4c8d2a442c.1920x1080.jpg?t=1658015796,https://cdn.akamai.steamstatic.com/steam/apps/1781430/ss_ce7f5452b1bae8d4d641e6db4203dbcc7076bee2.1920x1080.jpg?t=1658015796,https://cdn.akamai.steamstatic.com/steam/apps/1781430/ss_9d16df5f3795b5d1936306d3bc01ae86ff7f933a.1920x1080.jpg?t=1658015796,https://cdn.akamai.steamstatic.com/steam/apps/1781430/ss_f5eac974532a9a72d66551d097f353dc617800ff.1920x1080.jpg?t=1658015796",
+    "Slug": "notivr",
+    "Meta Title": "NotiVR: Nov 22, 2021, Matterworks Interactive and Full Ov...",
+    "Meta Description": "Looking for information on NotiVR? Check out the release date (Nov 22, 2021), developer insights from Matterworks Interactive, and a complete game summary.",
+    "Alt Text Image": "Official header image for NotiVR game - Steam 1781430",
+    "Canonical URL": "https://gusku.site/game/notivr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"NotiVR\", \"description\": \"Looking for information on NotiVR? Check out the release date (Nov 22, 2021), developer insights from Matterworks Interactive, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 22, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matterworks Interactive\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matterworks Interactive\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1781430/header.jpg?t=1658015796\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

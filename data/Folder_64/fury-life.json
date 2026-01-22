@@ -1,0 +1,21 @@
+{
+    "AppID": 1930780,
+    "Name": "Fury Life",
+    "Release date": "Sep 16, 2022",
+    "About the game": "Fury Life is a Conway's Game of Life (CGOL) simulator where cells are visualized as animated creatures called 'Octos'. The rules of the game are that: (1) Each turn an Octo produces eight seeds for its neighbours. (2) When three seeds come together a new Octo is born. (3) An Octo needs to eat at least two seeds per turn or it starves. (4) If an Octo eats four seeds it becomes overfed and explodes. Features of the simulator: - Create New Colony (either Blank or Random) - Click to Add or Remove Octos to/from the colony with Flip Tool - Pause/Play/FastForward/UltraFastForward to advance turns. - Skip backward/forward to last turn where modification was made. - Select groups/patterns of Octos with the Lasso Tool . - Capture selected groups of Octos by clicking a Cage Tool - Add a caged pattern to by clicking the board with Cage Tool selected. - Zoom in to a few Octos on the screen or zoom out to one per pixel - Scroll sideways/up/down - the board is infinite. - Four load/save slots for colonies. Experiment with different patterns and see what amazing colonies you can come up with!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1930780/header.jpg?t=1663378025",
+    "Price": 0.99,
+    "Developers": "Fury Games Pty Ltd",
+    "Publishers": "Fury Games Pty Ltd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1930780/ss_653ee9afed7eccc4c322a9e90fdb8e8c7a0382ed.1920x1080.jpg?t=1663378025,https://cdn.akamai.steamstatic.com/steam/apps/1930780/ss_3baeb17d875fd7bac75d861de04ba9482e70db72.1920x1080.jpg?t=1663378025,https://cdn.akamai.steamstatic.com/steam/apps/1930780/ss_339d1027ed4434c628725188b7a5abac959f7b68.1920x1080.jpg?t=1663378025,https://cdn.akamai.steamstatic.com/steam/apps/1930780/ss_b3f6a8213fa83f1be47a6d2b0338e27e78a1d82e.1920x1080.jpg?t=1663378025,https://cdn.akamai.steamstatic.com/steam/apps/1930780/ss_bdc7ebf549fe1e4cd4ffe57911821f3f846dee35.1920x1080.jpg?t=1663378025,https://cdn.akamai.steamstatic.com/steam/apps/1930780/ss_9bdde03b57f14ff17d9f91fdbee8575ac61af479.1920x1080.jpg?t=1663378025,https://cdn.akamai.steamstatic.com/steam/apps/1930780/ss_80f32917729daff0f6b14c84b400ab0a941d50f9.1920x1080.jpg?t=1663378025",
+    "Slug": "fury-life",
+    "Meta Title": "Fury Life: Sep 16, 2022, Fury Games Pty Ltd and Full Over...",
+    "Meta Description": "Looking for information on Fury Life? Check out the release date (Sep 16, 2022), developer insights from Fury Games Pty Ltd, and a complete game summary.",
+    "Alt Text Image": "Official header image for Fury Life game - Steam 1930780",
+    "Canonical URL": "https://gusku.site/game/fury-life",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fury Life\", \"description\": \"Looking for information on Fury Life? Check out the release date (Sep 16, 2022), developer insights from Fury Games Pty Ltd, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 16, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fury Games Pty Ltd\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fury Games Pty Ltd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1930780/header.jpg?t=1663378025\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

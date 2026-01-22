@@ -1,0 +1,21 @@
+{
+    "AppID": 913000,
+    "Name": "Sheepageddon",
+    "Release date": "Aug 23, 2018",
+    "About the game": "Sheepageddon is a 2d puzzle game where you play as a cute wolf that is constantly craving for sheep to eat in order to not starve to death. In each level it is more difficult to do so as the sheep have guard dogs near by to alert all the sheep in the level. A level is passed when all the sheep have been eaten in any given level. The game is made to be fast paced due to a constant decline of the wolfs health and zero second transition delays between levels or restarting the level at hand. There are 7 levels. Estimated play threw time is 10-30 minutes depending on how fast you figure out how to get all the sheep. The game is locked to 640x640 windowed mode, so it should run on any device.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/913000/header.jpg?t=1536607639",
+    "Price": 0.99,
+    "Developers": "Sander Juss,Liisa Lvova",
+    "Publishers": "Sander Juss",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/913000/ss_8e05a50c24f33c676d3666c8ea8c23b7d66e5bc3.1920x1080.jpg?t=1536607639,https://cdn.akamai.steamstatic.com/steam/apps/913000/ss_e9cc96ea08369bb33ae00d0284e9e8466e0b6d86.1920x1080.jpg?t=1536607639,https://cdn.akamai.steamstatic.com/steam/apps/913000/ss_a451c06be9e64ae97d2d785f119601413c68db0c.1920x1080.jpg?t=1536607639,https://cdn.akamai.steamstatic.com/steam/apps/913000/ss_e9f36d610b6e325d6b3ffdc605781ec0012cce95.1920x1080.jpg?t=1536607639,https://cdn.akamai.steamstatic.com/steam/apps/913000/ss_af5bd4693fac338fbedde6a690c8de0b9d58ac6d.1920x1080.jpg?t=1536607639",
+    "Slug": "sheepageddon",
+    "Meta Title": "Sheepageddon: Aug 23, 2018, Sander Juss,Liisa Lvova and F...",
+    "Meta Description": "Looking for information on Sheepageddon? Check out the release date (Aug 23, 2018), developer insights from Sander Juss,Liisa Lvova, and a complete game...",
+    "Alt Text Image": "Official header image for Sheepageddon game - Steam 913000",
+    "Canonical URL": "https://gusku.site/game/sheepageddon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sheepageddon\", \"description\": \"Looking for information on Sheepageddon? Check out the release date (Aug 23, 2018), developer insights from Sander Juss,Liisa Lvova, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 23, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sander Juss,Liisa Lvova\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sander Juss\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/913000/header.jpg?t=1536607639\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2268880,
+    "Name": "GirlPuzzle 2",
+    "Release date": "Jan 24, 2023",
+    "About the game": "基础玩法 在有限的空位中，放置相同种类的3个相同方块，以完成消除。 进阶玩法 游戏的进阶玩法，不只是需要完成方块的消除。最好还需要在有限的时间内，完成尽可能多的连击，以达到更高的分数。得到的点数可以用来解锁更多的内容。 美术内容 游戏内，含有4个人物。每个人物根据好感度解锁程度的不懂，可以对其进行对应好感度的互动行为，直至可以推倒。 音乐内容 内涵多种曲目，在游戏内搭配使用可以有全新体验。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2268880/header.jpg?t=1674551574",
+    "Price": 3.39,
+    "Developers": "CatGirl_Studio",
+    "Publishers": "CatGirl_Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2268880/ss_0104db69fe145ea8d5e9150da759bdc53556b25e.1920x1080.jpg?t=1674551574,https://cdn.akamai.steamstatic.com/steam/apps/2268880/ss_2f87712a4ceaf81718d05b4071d488cd64d95b17.1920x1080.jpg?t=1674551574,https://cdn.akamai.steamstatic.com/steam/apps/2268880/ss_43f21ac284dfe1ff9126d413aabb439a00cdc270.1920x1080.jpg?t=1674551574,https://cdn.akamai.steamstatic.com/steam/apps/2268880/ss_b5ccc5df626c6cbea293258e4a2017e88f51f58c.1920x1080.jpg?t=1674551574,https://cdn.akamai.steamstatic.com/steam/apps/2268880/ss_872240569daebec9ef59c3f77206624e181bfa39.1920x1080.jpg?t=1674551574",
+    "Slug": "girlpuzzle-2",
+    "Meta Title": "GirlPuzzle 2: Jan 24, 2023, CatGirl_Studio and Full Overview",
+    "Meta Description": "Looking for information on GirlPuzzle 2? Check out the release date (Jan 24, 2023), developer insights from CatGirl_Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for GirlPuzzle 2 game - Steam 2268880",
+    "Canonical URL": "https://gusku.site/game/girlpuzzle-2",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GirlPuzzle 2\", \"description\": \"Looking for information on GirlPuzzle 2? Check out the release date (Jan 24, 2023), developer insights from CatGirl_Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 24, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"CatGirl_Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CatGirl_Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2268880/header.jpg?t=1674551574\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

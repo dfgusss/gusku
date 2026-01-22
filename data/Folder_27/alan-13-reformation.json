@@ -1,0 +1,21 @@
+{
+    "AppID": 1888130,
+    "Name": "ALAN-13 Reformation",
+    "Release date": "May 11, 2022",
+    "About the game": "ALAN-13 Reformation: ALAN-13 first and foremost is a fun puzzle game, which puts your logical thinking skills to the test. You have to solve various challenges by wiring an autonomous robot: ALAN-13. While doing so, you gradually learn how to think like a programmer (without writing any code) and get familiar with some of the fundamental tools of programming. You can view it as step 0 to become a software developer, if you are interested in that sort of things. If not, just enjoy the ride! Your task: In 2177 (30 years after the initial launch of the first units) the terraformation of planet Venus was right on track. Then, for yet undiscovered reasons the sun started expressing unusual behavior with regular solar flares and massive CMEs on a scale we never experienced before. These effects essentially destroyed our electrical infrastructure on the surface, and the lingering disturbance in the electromagnetic field makes regular means of communication unreliable. To conquer these challenges and to restore the infrastructure, our mechanical engineers updated our general purpose robot (ALAN series) with heavy shielding and additional hardware that we may require. Your task (as our only engineer on location with background in automation) is to make these units fully autonomous and self-sustaining because remote communication is not guaranteed at any point. For this task, you can build the microcontroller for ALAN-13 by using our tried and tested GENESIS™ components. Furthermore, you have to equip the robot with the right set of peripherals for any given mission. Feedback: Always feel free to share any feedback or suggestion, we are eager to make adjustments that makes the game even more fun. :) You can find our contact details on our website, or you can share your thoughts on the community hub.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1888130/header.jpg?t=1653402802",
+    "Price": 16.99,
+    "Developers": "Viktor Kovács",
+    "Publishers": "smithandcherryapps",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1888130/ss_50c0ac73fd8079c8cba2410d47f95435aaa58023.1920x1080.jpg?t=1653402802,https://cdn.akamai.steamstatic.com/steam/apps/1888130/ss_274cb933f4f4c0da9d6454af84751a99a021da30.1920x1080.jpg?t=1653402802,https://cdn.akamai.steamstatic.com/steam/apps/1888130/ss_61c861237083745ea25096d25c798e73f9b57f33.1920x1080.jpg?t=1653402802,https://cdn.akamai.steamstatic.com/steam/apps/1888130/ss_c7b2689d5e8d7de45e1317904903081e60d8cff4.1920x1080.jpg?t=1653402802,https://cdn.akamai.steamstatic.com/steam/apps/1888130/ss_d6bbe4861174a4e9d2e4bb4a9502a295e2e85439.1920x1080.jpg?t=1653402802",
+    "Slug": "alan-13-reformation",
+    "Meta Title": "ALAN-13 Reformation: May 11, 2022, Viktor Kovács and Full...",
+    "Meta Description": "Looking for information on ALAN-13 Reformation? Check out the release date (May 11, 2022), developer insights from Viktor Kovács, and a complete game su...",
+    "Alt Text Image": "Official header image for ALAN-13 Reformation game - Steam 1888130",
+    "Canonical URL": "https://gusku.site/game/alan-13-reformation",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ALAN-13 Reformation\", \"description\": \"Looking for information on ALAN-13 Reformation? Check out the release date (May 11, 2022), developer insights from Viktor Kov\\u00e1cs, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Viktor Kov\\u00e1cs\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"smithandcherryapps\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1888130/header.jpg?t=1653402802\", \"offers\": {\"@type\": \"Offer\", \"price\": 16.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 665410,
+    "Name": "SQUARE BOX",
+    "Release date": "Jul 17, 2017",
+    "About the game": "Square Box: a game with the ball falling in a box. You have twenty maps to complete the game. Each map is a box that rotates in the sky. The player controls the box not the ball. You can rotate the box to the right or to the left and you can overturn the box. If you use the 'reversal' command the kinetic forces are canceled and the ball changes trajectory. On each map you will find small yellow boxes, these will give you the green arrow to move to the next map. You will also find obstacles, for example you will never have to touch black balls or gears. To protect you, you can use shields, or you can change your position with the white ball (instant swap). You can also use the rings to push the black balls away. You will need to use the intelligence more than the instinct and you will need quick reflections and a lot of patience. Good fun!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/665410/header.jpg?t=1618099338",
+    "Price": 0.99,
+    "Developers": "Vox Mare",
+    "Publishers": "Vox Mare",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/665410/ss_51fccc5cbc3482bfa668c2c7b5d0744e414d6c89.1920x1080.jpg?t=1618099338,https://cdn.akamai.steamstatic.com/steam/apps/665410/ss_f930275f8de626e1245ba37b22aad26a26b545f2.1920x1080.jpg?t=1618099338,https://cdn.akamai.steamstatic.com/steam/apps/665410/ss_1df7b11b7a26f007d84e23877e7b561b204d282f.1920x1080.jpg?t=1618099338,https://cdn.akamai.steamstatic.com/steam/apps/665410/ss_831be38a738e6e4f1ebe1c6035603ee1e5e5f208.1920x1080.jpg?t=1618099338,https://cdn.akamai.steamstatic.com/steam/apps/665410/ss_fdf0e49fc4c8537ff6384e89a9ddf65d2089718a.1920x1080.jpg?t=1618099338",
+    "Slug": "square-box",
+    "Meta Title": "SQUARE BOX: Jul 17, 2017, Vox Mare and Full Overview",
+    "Meta Description": "Looking for information on SQUARE BOX? Check out the release date (Jul 17, 2017), developer insights from Vox Mare, and a complete game summary.",
+    "Alt Text Image": "Official header image for SQUARE BOX game - Steam 665410",
+    "Canonical URL": "https://gusku.site/game/square-box",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SQUARE BOX\", \"description\": \"Looking for information on SQUARE BOX? Check out the release date (Jul 17, 2017), developer insights from Vox Mare, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 17, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vox Mare\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vox Mare\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/665410/header.jpg?t=1618099338\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1081800,
+    "Name": "101010",
+    "Release date": "Oct 3, 2019",
+    "About the game": "101010 is a simple VR puzzle game created as a class project for CS 498 VR at UIUC to help showcase the capabilities of VR. Place 3D blocks in virtual reality and clear lines to earn points. How long can you last? How high of a score can you earn? Features Grab 3D blocks in virtual reality with your own hands. Place blocks strategically in a 3D grid. Clear lines to earn points (both horizontally and vertically). Rotate the grid if you wish. You are given a constant amount of time to place each block, so don't dawdle! If you do not successfully place a block in time, it's game over. Develops spatial ability, visual memory, and quick thinking. Designed for use with Occulus Rift. Inspired by the game 1010. Created by Eric Shen, Miranda Li, Hunter Ha Huynh, Changcheng Fu, and Jenny Chen.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1081800/header.jpg?t=1570118185",
+    "Price": 0.0,
+    "Developers": "Jenny Chen,Changcheng Fu,Hunter Huynh,Miranda Liu,Eric Shen",
+    "Publishers": "Hunter Huynh",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1081800/ss_9a23fdc9c4768690e5c83ef1aa13b344cd82dd8c.1920x1080.jpg?t=1570118185,https://cdn.akamai.steamstatic.com/steam/apps/1081800/ss_0e11463cb6dd9a3846ef7de731084b6845148934.1920x1080.jpg?t=1570118185,https://cdn.akamai.steamstatic.com/steam/apps/1081800/ss_e5e5e2eeeaee906a3aad2b0a126c7fc24b89b3b5.1920x1080.jpg?t=1570118185,https://cdn.akamai.steamstatic.com/steam/apps/1081800/ss_98288c7e7194ea47f15c38a36f665877958eb132.1920x1080.jpg?t=1570118185,https://cdn.akamai.steamstatic.com/steam/apps/1081800/ss_71a64ca68aa21bed2070f7e9aa53465e9e0f95b1.1920x1080.jpg?t=1570118185",
+    "Slug": "101010",
+    "Meta Title": "101010: Oct 3, 2019, Jenny Chen,Changcheng Fu,Hunter Huyn...",
+    "Meta Description": "Looking for information on 101010? Check out the release date (Oct 3, 2019), developer insights from Jenny Chen,Changcheng Fu,Hunter Huynh,Miranda Liu,E...",
+    "Alt Text Image": "Official header image for 101010 game - Steam 1081800",
+    "Canonical URL": "https://gusku.site/game/101010",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"101010\", \"description\": \"Looking for information on 101010? Check out the release date (Oct 3, 2019), developer insights from Jenny Chen,Changcheng Fu,Hunter Huynh,Miranda Liu,E...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 3, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jenny Chen,Changcheng Fu,Hunter Huynh,Miranda Liu,Eric Shen\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hunter Huynh\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1081800/header.jpg?t=1570118185\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

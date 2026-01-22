@@ -1,0 +1,21 @@
+{
+    "AppID": 918850,
+    "Name": "SPITE",
+    "Release date": "Sep 1, 2018",
+    "About the game": "SPITE is a wave based survival game. The waves go up to 100! If you can pass wave 100, you have beat one of the levels. There are currently 8 levels to choose from. All sorts of ammo, health and bomb spawns, and weapons to choose from throughout the maps. Health does increase over time. SPITE is set in a world with zombies and monsters coming at you from everywhere!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/918850/header.jpg?t=1592016807",
+    "Price": 4.99,
+    "Developers": "Budget Labs",
+    "Publishers": "Budget Labs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/918850/ss_7905e161a8b3a15b88940f5a8784d8a4599ade89.1920x1080.jpg?t=1592016807,https://cdn.akamai.steamstatic.com/steam/apps/918850/ss_a3682a324a9f3fa31706508356510962244355fb.1920x1080.jpg?t=1592016807,https://cdn.akamai.steamstatic.com/steam/apps/918850/ss_1cae64ae75253ceb3b7af69e9b8c13365879bafb.1920x1080.jpg?t=1592016807,https://cdn.akamai.steamstatic.com/steam/apps/918850/ss_6ad0b582c9e4d9a6e6df817187311e15a25c6c16.1920x1080.jpg?t=1592016807,https://cdn.akamai.steamstatic.com/steam/apps/918850/ss_d3247c14653413aa15f3c11b0d7a16a87514b6dd.1920x1080.jpg?t=1592016807,https://cdn.akamai.steamstatic.com/steam/apps/918850/ss_e1bd9e84f70dc05cb72c9f3d8344270be8145fde.1920x1080.jpg?t=1592016807,https://cdn.akamai.steamstatic.com/steam/apps/918850/ss_6728679c300a5c5e548e44aa01cf7c8555e78823.1920x1080.jpg?t=1592016807",
+    "Slug": "spite",
+    "Meta Title": "SPITE: Sep 1, 2018, Budget Labs and Full Overview",
+    "Meta Description": "Looking for information on SPITE? Check out the release date (Sep 1, 2018), developer insights from Budget Labs, and a complete game summary.",
+    "Alt Text Image": "Official header image for SPITE game - Steam 918850",
+    "Canonical URL": "https://gusku.site/game/spite",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SPITE\", \"description\": \"Looking for information on SPITE? Check out the release date (Sep 1, 2018), developer insights from Budget Labs, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Budget Labs\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Budget Labs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/918850/header.jpg?t=1592016807\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

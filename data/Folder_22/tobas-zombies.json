@@ -1,0 +1,21 @@
+{
+    "AppID": 1758260,
+    "Name": "ToBas Zombies",
+    "Release date": "Dec 28, 2021",
+    "About the game": "What is ToBas Zombies? ToBas Zombies is a multiplayer/singleplayer zombie shooter in low poly style. Features various NPCs (non-player characters) who sell you weapons, expansions aka Perks (*WIP) and healing packs Different zombies (level 1-5) Level 1 has the least health, level 5 has the most health, mini zombies only have 50% health but are 25% faster 3 different game world sizes (small, normal, large) completely randomly generated game worlds (each game world contains houses, trees, grass and at least 1 lake, 1 mountain) Zombies spawn non-stop 34 different weapons and 6 different colors per weapon (*WIP) NOT all weapons can be used directly, some have to be played freely Day night cycle Weather system Steam Multiplayer (*WIP - May still contain bugs) You can play with any player The functions marked with *WIP are still being implemented You have: Ideas? Feedback? Then join our Discord server now to bring your ideas into the game! The game You start a round in single player or multiplayer mode (*Early Access) and buy a starting weapon from the NPC. As soon as all players have a weapon, the game begins. The goal is to survive! Each round is an endless game, depending on the level of difficulty you have chosen, up to 50 zombies can exist on the map. The game ends when all players are dead. You have 34 different firearms and grenades (*WIP) at your disposal. For each zombie you save, you get gold and experience points. You need the coins for new weapons, extensions (perks), and healing packages to heal/revive you and other players. You need experience to increase your level and unlock new weapons/extensions.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1758260/header.jpg?t=1647350267",
+    "Price": 6.99,
+    "Developers": "ToBa Productions",
+    "Publishers": "ToBa Productions",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1758260/ss_41f1440329d93bf35ea38cf6ec140484992d6b56.1920x1080.jpg?t=1647350267,https://cdn.akamai.steamstatic.com/steam/apps/1758260/ss_4078df115c5f3d3faffadb12bbd28b39a3866669.1920x1080.jpg?t=1647350267,https://cdn.akamai.steamstatic.com/steam/apps/1758260/ss_57d15c9afa4026d451dab5ece592fc178383cd8b.1920x1080.jpg?t=1647350267,https://cdn.akamai.steamstatic.com/steam/apps/1758260/ss_69a444ccdae31fb08052188312469db61a168f6d.1920x1080.jpg?t=1647350267,https://cdn.akamai.steamstatic.com/steam/apps/1758260/ss_22ab43930ea967edd4ac1256f07359e21c17ebc1.1920x1080.jpg?t=1647350267,https://cdn.akamai.steamstatic.com/steam/apps/1758260/ss_09882560f9875fc89bb6b6b049806e50db1f07d2.1920x1080.jpg?t=1647350267",
+    "Slug": "tobas-zombies",
+    "Meta Title": "ToBas Zombies: Dec 28, 2021, ToBa Productions and Full Ov...",
+    "Meta Description": "Looking for information on ToBas Zombies? Check out the release date (Dec 28, 2021), developer insights from ToBa Productions, and a complete game summary.",
+    "Alt Text Image": "Official header image for ToBas Zombies game - Steam 1758260",
+    "Canonical URL": "https://gusku.site/game/tobas-zombies",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ToBas Zombies\", \"description\": \"Looking for information on ToBas Zombies? Check out the release date (Dec 28, 2021), developer insights from ToBa Productions, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 28, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"ToBa Productions\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ToBa Productions\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1758260/header.jpg?t=1647350267\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

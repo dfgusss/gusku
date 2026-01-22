@@ -1,0 +1,21 @@
+{
+    "AppID": 1354460,
+    "Name": "miniStrike",
+    "Release date": "Nov 1, 2020",
+    "About the game": "A shoot’em up game with bite-size levels about diving into the hole inside a giant meteor and stops it from crashing to the earth. Features Battle through many different areas with unique enemies Boss fight. Weird and unique graphics with retro vibes. Play solo or couch co-op with your friend. Power by PICO-8. Support joysticks. Music from Pico-8 Tune by @gruber_music​ Come with the raspberry pi build. Latest version. (May 2021) move draw layer of enemy bullets to the top.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1354460/header.jpg?t=1621487874",
+    "Price": 1.99,
+    "Developers": "Pollapee Sroysuwan",
+    "Publishers": "Pollapee Sroysuwan",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1354460/ss_78b850495784f487be45e2ed5471c3411ae00b9e.1920x1080.jpg?t=1621487874,https://cdn.akamai.steamstatic.com/steam/apps/1354460/ss_4cbca0fe7657b60c60adb15b0e3c61b58c159f90.1920x1080.jpg?t=1621487874,https://cdn.akamai.steamstatic.com/steam/apps/1354460/ss_547bcb2b9f338f57f46a3526ab20786b05602fee.1920x1080.jpg?t=1621487874,https://cdn.akamai.steamstatic.com/steam/apps/1354460/ss_bf96a81d20ed5fbe5e8e7151411c33f97ca8aee8.1920x1080.jpg?t=1621487874,https://cdn.akamai.steamstatic.com/steam/apps/1354460/ss_944e3466b01fdae158f71f58f48347c82644eced.1920x1080.jpg?t=1621487874",
+    "Slug": "ministrike",
+    "Meta Title": "miniStrike: Nov 1, 2020, Pollapee Sroysuwan and Full Over...",
+    "Meta Description": "Looking for information on miniStrike? Check out the release date (Nov 1, 2020), developer insights from Pollapee Sroysuwan, and a complete game summary.",
+    "Alt Text Image": "Official header image for miniStrike game - Steam 1354460",
+    "Canonical URL": "https://gusku.site/game/ministrike",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"miniStrike\", \"description\": \"Looking for information on miniStrike? Check out the release date (Nov 1, 2020), developer insights from Pollapee Sroysuwan, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 1, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pollapee Sroysuwan\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pollapee Sroysuwan\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1354460/header.jpg?t=1621487874\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

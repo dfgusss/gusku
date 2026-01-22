@@ -1,0 +1,21 @@
+{
+    "AppID": 1734480,
+    "Name": "Neondrops",
+    "Release date": "Sep 13, 2021",
+    "About the game": "Neon drops is a synthesizer, sampler, and midi controller all in one that utilizes your mice and keyboards. Features 120+ instruments Up to a total of 8 mice and keyboards can send unique MIDI signals to the internal synthesizer or your DAW Record up to 16 seconds of playback to try out new musical ideas 15 musical scales included Slice and flip your own music and recordings (mono 48khz) Block input to foreground applications Use the Game port to send keys to supported applications MIDI IN Support Controls Tilde - QUIT Ctrl + Space + Shift- MINIMIZE / MAXIMIZE Shift + WASDQE - NAV / SELECT / NEXT PAGE / PREV PAGE Space - CHORD MODE 4,5,6,+,1,2,3,Numpad enter - SAMPLE PADS 1-8 Numpad 0 - SAMPLE PADS 9-16 WHEN 16 SLICES IS ON \\ - RECORD",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1734480/header.jpg?t=1638222807",
+    "Price": 19.99,
+    "Developers": "Emmanuel Douge",
+    "Publishers": "Emmanuel Douge",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1734480/ss_3038952b428eb2c0d81546a998c76075b60606a1.1920x1080.jpg?t=1638222807,https://cdn.akamai.steamstatic.com/steam/apps/1734480/ss_219ac3e3f42c31beac5c85c597f2d99bc3cd4640.1920x1080.jpg?t=1638222807,https://cdn.akamai.steamstatic.com/steam/apps/1734480/ss_19eb41e299489b571349db676bec25c24d4ede2d.1920x1080.jpg?t=1638222807,https://cdn.akamai.steamstatic.com/steam/apps/1734480/ss_b425af8102b15e16077743a26db9ea23bab20d7c.1920x1080.jpg?t=1638222807,https://cdn.akamai.steamstatic.com/steam/apps/1734480/ss_413b4409fcd97fdf529da4f9b988adcd86ba5c32.1920x1080.jpg?t=1638222807",
+    "Slug": "neondrops",
+    "Meta Title": "Neondrops: Sep 13, 2021, Emmanuel Douge and Full Overview",
+    "Meta Description": "Looking for information on Neondrops? Check out the release date (Sep 13, 2021), developer insights from Emmanuel Douge, and a complete game summary.",
+    "Alt Text Image": "Official header image for Neondrops game - Steam 1734480",
+    "Canonical URL": "https://gusku.site/game/neondrops",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Neondrops\", \"description\": \"Looking for information on Neondrops? Check out the release date (Sep 13, 2021), developer insights from Emmanuel Douge, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 13, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Emmanuel Douge\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Emmanuel Douge\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1734480/header.jpg?t=1638222807\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

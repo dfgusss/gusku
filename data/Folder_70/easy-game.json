@@ -1,0 +1,21 @@
+{
+    "AppID": 2257380,
+    "Name": "Easy Game",
+    "Release date": "Jan 30, 2023",
+    "About the game": "Easy Game is a platformer game that breaks through the stage to avoid obstacles by stepping on the treadmill. The player aims to avoid various obstacles in the game and finally catch the boss monster. As its name suggests, it is easy among platformer games and consists of difficulty levels that are good for introducing.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2257380/header.jpg?t=1675065898",
+    "Price": 2.99,
+    "Developers": "M&SG Studio",
+    "Publishers": "M&SG Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2257380/ss_7e7d0c1bff8804ddd41a82624914a2c7f40c3588.1920x1080.jpg?t=1675065898,https://cdn.akamai.steamstatic.com/steam/apps/2257380/ss_683d70b9c8c157e403df1ab6166850a74cd9953f.1920x1080.jpg?t=1675065898,https://cdn.akamai.steamstatic.com/steam/apps/2257380/ss_a15f0904fddbcf80367515a6f144e105b3b5bc14.1920x1080.jpg?t=1675065898,https://cdn.akamai.steamstatic.com/steam/apps/2257380/ss_38c47113c74f4a88cf2f0dc6b687f18d6c664d0f.1920x1080.jpg?t=1675065898,https://cdn.akamai.steamstatic.com/steam/apps/2257380/ss_c19c96bd0e0045e6d42e14627ef448cd6e81a7aa.1920x1080.jpg?t=1675065898",
+    "Slug": "easy-game",
+    "Meta Title": "Easy Game: Jan 30, 2023, M&SG Studio and Full Overview",
+    "Meta Description": "Looking for information on Easy Game? Check out the release date (Jan 30, 2023), developer insights from M&SG Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Easy Game game - Steam 2257380",
+    "Canonical URL": "https://gusku.site/game/easy-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Easy Game\", \"description\": \"Looking for information on Easy Game? Check out the release date (Jan 30, 2023), developer insights from M&SG Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 30, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"M&SG Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"M&SG Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2257380/header.jpg?t=1675065898\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

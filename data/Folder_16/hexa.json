@@ -1,0 +1,21 @@
+{
+    "AppID": 981620,
+    "Name": "Hexa",
+    "Release date": "Jan 30, 2019",
+    "About the game": "Hexa is a easy to learn puzzle game with a unique concept. Use the different hex side types to get the beams to their destination. With a simple to use level editor you can create and share your levels with the Steam community. Key Features: Easy to learn yet complex puzzles Level Editor to create and share you levels on the Steam Workshop Simple controls 33 Carefully thought out levels with more getting added constantly Random level generator. Play unlimited random levels! Hex Side Types In Hexa the puzzles are solved using various types of hex sides. Link Hex Side A Link hex side lets you teleport projectiles from one place to another Converter Hex Side A Converter hex side lets you teleport projectiles from one place to another and also change the type of projectile Splitter Hex Side A Splitter hex side splits a stream of projectiles into two. Switch Hex Side A Switch hex side will only allow projectiles through if the switch is receiving projectiles of the requested type. Credits Trailer Song cdk - Sunday by Analog By Nature (c) copyright 2016 Licensed under a Creative Commons Attribution (3.0) license.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/981620/header.jpg?t=1578859120",
+    "Price": 1.99,
+    "Developers": "Salus Games",
+    "Publishers": "Salus Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/981620/ss_69d4f11e5e7e498be9160b38cf163dbad02fe6b0.1920x1080.jpg?t=1578859120,https://cdn.akamai.steamstatic.com/steam/apps/981620/ss_31eb9ddf750f03228c0a4782ee31a967d17c9151.1920x1080.jpg?t=1578859120,https://cdn.akamai.steamstatic.com/steam/apps/981620/ss_d15b83c937b96bcd2eb7f441031f8260baac5b72.1920x1080.jpg?t=1578859120,https://cdn.akamai.steamstatic.com/steam/apps/981620/ss_d2aac4f9911d72ab7ee08b7791f738e5d7b30562.1920x1080.jpg?t=1578859120,https://cdn.akamai.steamstatic.com/steam/apps/981620/ss_de2b5e81cd94702d2554cbf88579ed9dc7516eb7.1920x1080.jpg?t=1578859120",
+    "Slug": "hexa",
+    "Meta Title": "Hexa: Jan 30, 2019, Salus Games and Full Overview",
+    "Meta Description": "Looking for information on Hexa? Check out the release date (Jan 30, 2019), developer insights from Salus Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hexa game - Steam 981620",
+    "Canonical URL": "https://gusku.site/game/hexa",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hexa\", \"description\": \"Looking for information on Hexa? Check out the release date (Jan 30, 2019), developer insights from Salus Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 30, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Salus Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Salus Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/981620/header.jpg?t=1578859120\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1488110,
+    "Name": "Puzzle Box",
+    "Release date": "Jan 30, 2022",
+    "About the game": "This is Box Puzzle A cute little indiegame where the goal is to go through all the levels and reach the cake, but be quick! The crow might get there before you, and you might have to shapeshift into something different to be quicker. Use ladders, boxes, pressureplates and moving platforms to move through the levels. But be aware of dangerous spikes and canons that will kill the player if you are not carefull. There is also an internal clock in the game, that makes it possible to speedrun the game with an accurat clock! The game is made by us, a small group of students from NTNU in Ålesund, Norway. We had a project, and this is what we came up with!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1488110/header.jpg?t=1643549017",
+    "Price": 0.99,
+    "Developers": "Box Production",
+    "Publishers": "Box Production",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1488110/ss_5eb398f9dff61931fa3c215e7bfbd515dae0e2d1.1920x1080.jpg?t=1643549017,https://cdn.akamai.steamstatic.com/steam/apps/1488110/ss_4c64a95658e4da0d433feff4108d8ea170621deb.1920x1080.jpg?t=1643549017,https://cdn.akamai.steamstatic.com/steam/apps/1488110/ss_558598e1ad9daacdc9a3afd2be036381959d92f0.1920x1080.jpg?t=1643549017,https://cdn.akamai.steamstatic.com/steam/apps/1488110/ss_c60e13631a2df73892b04e6413254f3c82b8e3bf.1920x1080.jpg?t=1643549017,https://cdn.akamai.steamstatic.com/steam/apps/1488110/ss_d86bef43d9f9e4537d3862156b1e67e2276fb773.1920x1080.jpg?t=1643549017",
+    "Slug": "puzzle-box",
+    "Meta Title": "Puzzle Box: Jan 30, 2022, Box Production and Full Overview",
+    "Meta Description": "Looking for information on Puzzle Box? Check out the release date (Jan 30, 2022), developer insights from Box Production, and a complete game summary.",
+    "Alt Text Image": "Official header image for Puzzle Box game - Steam 1488110",
+    "Canonical URL": "https://gusku.site/game/puzzle-box",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Puzzle Box\", \"description\": \"Looking for information on Puzzle Box? Check out the release date (Jan 30, 2022), developer insights from Box Production, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 30, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Box Production\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Box Production\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1488110/header.jpg?t=1643549017\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1552020,
+    "Name": "Mirrored Pawns",
+    "Release date": "Feb 26, 2021",
+    "About the game": "Mirrored Pawns is a relaxing puzzle game that will challenge your spatial reasoning. Your goal is to successfully navigate 2 pawns across a chess-like board to the goal positions by working with the axes of symmetry provided to you. When either vertical or horizontal symmetry is active, the non-player pawn will move in the opposite vertical or horizontal direction, respectively. You will need to be careful in your movements and use the puzzle board's characteristics to your advantage. Features 50 puzzle levels, each varying in difficulty and strategy Secondary pawn moves equal and/or opposite to player pawn movement, depending on active axes of symmetry Crystal block allows offsetting of pawn positions Symmetry axis toggle for the more complex puzzles Undo button allows you to undo moves Relaxing soundtrack and sound effects",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1552020/header.jpg?t=1614352747",
+    "Price": 2.99,
+    "Developers": "Firebelley",
+    "Publishers": "Firebelley",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1552020/ss_9f755a434ad6a5b3f9db4659a04741a163b1a160.1920x1080.jpg?t=1614352747,https://cdn.akamai.steamstatic.com/steam/apps/1552020/ss_79dbb8be5e8bb669d61d480789b5ead32d16e95f.1920x1080.jpg?t=1614352747,https://cdn.akamai.steamstatic.com/steam/apps/1552020/ss_1ab05e0245072f6c18a65a46482fed1ed537aae7.1920x1080.jpg?t=1614352747,https://cdn.akamai.steamstatic.com/steam/apps/1552020/ss_cf12882bcf0418ed9b6b4475c49e49b1ffd2bfd3.1920x1080.jpg?t=1614352747,https://cdn.akamai.steamstatic.com/steam/apps/1552020/ss_c29d0648074f8c46b15453ee3e5b71edc1d35c7a.1920x1080.jpg?t=1614352747,https://cdn.akamai.steamstatic.com/steam/apps/1552020/ss_8a68fd5db93f0a745b9ed0f45f3609fe48170426.1920x1080.jpg?t=1614352747",
+    "Slug": "mirrored-pawns",
+    "Meta Title": "Mirrored Pawns: Feb 26, 2021, Firebelley and Full Overview",
+    "Meta Description": "Looking for information on Mirrored Pawns? Check out the release date (Feb 26, 2021), developer insights from Firebelley, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mirrored Pawns game - Steam 1552020",
+    "Canonical URL": "https://gusku.site/game/mirrored-pawns",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mirrored Pawns\", \"description\": \"Looking for information on Mirrored Pawns? Check out the release date (Feb 26, 2021), developer insights from Firebelley, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 26, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Firebelley\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Firebelley\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1552020/header.jpg?t=1614352747\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

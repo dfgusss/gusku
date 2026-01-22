@@ -1,0 +1,21 @@
+{
+    "AppID": 1982900,
+    "Name": "Coding Learn",
+    "Release date": "Jul 13, 2022",
+    "About the game": "Attention! You should have basic programming experience in pascal, python or any other programming language to roughly understand the essence of what is happening here !!! Coding Learn is a game that will help you learn the c# programming language. You play as a robot whose main goal is to get to a mysterious castle. To accomplish this goal, you will write real code for c# using: A working compiler that runs your code and will be sure to tell you where your error is in the code if anything happens. Theory with small video clips before each task will help you get up to speed quickly and help you improve your code. Built-in hints for each task will help you solve the problem if you have unexpected difficulties with it. If you find it too easy, additional challenges for each task will challenge you. After completing the game, you'll explore 10 topics and go through over 60 problems, learning basic constructs like branching and more complex ones, recursion, and sorting. Start programming right now! Don't be afraid to make a mistake, the compiler will always help you find out where the error occurred.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1982900/header.jpg?t=1658455068",
+    "Price": 1.99,
+    "Developers": "twelveAddOne",
+    "Publishers": "Baker's dozen",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1982900/ss_73bde62256bd1777da269ecddcb88cab46289bfc.1920x1080.jpg?t=1658455068,https://cdn.akamai.steamstatic.com/steam/apps/1982900/ss_80c155b5f6b068cff9d1606b58253c151495611a.1920x1080.jpg?t=1658455068,https://cdn.akamai.steamstatic.com/steam/apps/1982900/ss_1e9ccc7570935c592d9779b07845420817f62105.1920x1080.jpg?t=1658455068,https://cdn.akamai.steamstatic.com/steam/apps/1982900/ss_bac2e1a474a7b41f9c04642fdfe4a30b465ce969.1920x1080.jpg?t=1658455068,https://cdn.akamai.steamstatic.com/steam/apps/1982900/ss_365126455854bdd022fa3c9f99a2119db96ba155.1920x1080.jpg?t=1658455068",
+    "Slug": "coding-learn",
+    "Meta Title": "Coding Learn: Jul 13, 2022, twelveAddOne and Full Overview",
+    "Meta Description": "Looking for information on Coding Learn? Check out the release date (Jul 13, 2022), developer insights from twelveAddOne, and a complete game summary.",
+    "Alt Text Image": "Official header image for Coding Learn game - Steam 1982900",
+    "Canonical URL": "https://gusku.site/game/coding-learn",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Coding Learn\", \"description\": \"Looking for information on Coding Learn? Check out the release date (Jul 13, 2022), developer insights from twelveAddOne, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 13, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"twelveAddOne\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Baker's dozen\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1982900/header.jpg?t=1658455068\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

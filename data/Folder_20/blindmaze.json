@@ -1,0 +1,21 @@
+{
+    "AppID": 841570,
+    "Name": "BlindMaze",
+    "Release date": "Apr 20, 2018",
+    "About the game": "You are inside a maze, but you cannot see the maze, you only can see your position inside the maze, use your memory to keep the track of the maze and reach the goal. Keys: You only can move horizontal or vertical (not diagonal) The indicator of your position turns red when you touch a wall Non-Linear gameplay, you can skip some levels if you want to.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/841570/header.jpg?t=1524243650",
+    "Price": 0.99,
+    "Developers": "Alfa-Omega",
+    "Publishers": "Alfa-Omega",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/841570/ss_35291279306a89d76f41e70da187a4509ef05e6e.1920x1080.jpg?t=1524243650,https://cdn.akamai.steamstatic.com/steam/apps/841570/ss_2129fe977e205666a4d8a5605a5f7ded3a4ecbae.1920x1080.jpg?t=1524243650,https://cdn.akamai.steamstatic.com/steam/apps/841570/ss_1ad521124e7aed6633df13bb3afd20d9c0e722c8.1920x1080.jpg?t=1524243650,https://cdn.akamai.steamstatic.com/steam/apps/841570/ss_e964ca26ca8b6bc5f462ea5194d56e043fce3e3a.1920x1080.jpg?t=1524243650,https://cdn.akamai.steamstatic.com/steam/apps/841570/ss_a8f663b7c2f850b5f0bde2d54954b4d51de2a76e.1920x1080.jpg?t=1524243650,https://cdn.akamai.steamstatic.com/steam/apps/841570/ss_893e272488980ac1a2899a6c5df5e19ed11b9125.1920x1080.jpg?t=1524243650",
+    "Slug": "blindmaze",
+    "Meta Title": "BlindMaze: Apr 20, 2018, Alfa-Omega and Full Overview",
+    "Meta Description": "Looking for information on BlindMaze? Check out the release date (Apr 20, 2018), developer insights from Alfa-Omega, and a complete game summary.",
+    "Alt Text Image": "Official header image for BlindMaze game - Steam 841570",
+    "Canonical URL": "https://gusku.site/game/blindmaze",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BlindMaze\", \"description\": \"Looking for information on BlindMaze? Check out the release date (Apr 20, 2018), developer insights from Alfa-Omega, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 20, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Alfa-Omega\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Alfa-Omega\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/841570/header.jpg?t=1524243650\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

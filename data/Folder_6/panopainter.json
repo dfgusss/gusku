@@ -1,0 +1,21 @@
+{
+    "AppID": 954880,
+    "Name": "PanoPainter",
+    "Release date": "May 20, 2019",
+    "About the game": "PanoPainter is the first software ever made to enable an immersive experience for artists that want to sketch, paint, and animate on a full 360° panoramic canvas. Its native workflow allows artists to work in an intuitive environment and create amazing illustrations that can also be viewed using any virtual reality headset and be immersed inside the artwork. These are the main features you will find: - Import regular images and place them in the scene - Copy/paste and transform the selection - Immersive 360° panoramic canvas - High-Performance GPU Accelerated Paint Engine - Intuitive gestures to navigate - Dynamic cross-platform User Interface - Native Apple Pencil support - Native Sonar Pen support - Massive resolution up to 16K panorama - Highly customizable brushes - Cloud Storage for device interoperability - Timelapse - Layers - Side panel for quick access to brush settings. - Popup panels. - Height-map tool for landscapes generation. - Ray-traced shadows generation. - Multi-threading for faster computation. - Overall performance optimized. - Import Photoshop Brushes ABR file. - Improved color picker. - Layer blending modes. - Improved Brush Engine with Dual-Brush and Patterns. - VR Painting - High DPI display support More features will be added as the software evolves. Useful links: - Web based demo: - Discord server:",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/954880/header.jpg?t=1605393438",
+    "Price": 19.99,
+    "Developers": "OmixLab LTD",
+    "Publishers": "OmixLab LTD",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/954880/ss_c1b5b678cc9997bf4a84997aba67be67c778498f.1920x1080.jpg?t=1605393438,https://cdn.akamai.steamstatic.com/steam/apps/954880/ss_7860fa7c17ac98235e1047f79b3f1dded84567a7.1920x1080.jpg?t=1605393438,https://cdn.akamai.steamstatic.com/steam/apps/954880/ss_2c92b30a3257ee4ae17710245319cfb5f0748aca.1920x1080.jpg?t=1605393438,https://cdn.akamai.steamstatic.com/steam/apps/954880/ss_b4ccc4814ab76cb13c914dc1bfa995fc2c38e978.1920x1080.jpg?t=1605393438,https://cdn.akamai.steamstatic.com/steam/apps/954880/ss_495af495ef7fea67ed4d935d33bf2da68d2eb43f.1920x1080.jpg?t=1605393438",
+    "Slug": "panopainter",
+    "Meta Title": "PanoPainter: May 20, 2019, OmixLab LTD and Full Overview",
+    "Meta Description": "Looking for information on PanoPainter? Check out the release date (May 20, 2019), developer insights from OmixLab LTD, and a complete game summary.",
+    "Alt Text Image": "Official header image for PanoPainter game - Steam 954880",
+    "Canonical URL": "https://gusku.site/game/panopainter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PanoPainter\", \"description\": \"Looking for information on PanoPainter? Check out the release date (May 20, 2019), developer insights from OmixLab LTD, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 20, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"OmixLab LTD\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"OmixLab LTD\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/954880/header.jpg?t=1605393438\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

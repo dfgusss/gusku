@@ -1,0 +1,21 @@
+{
+    "AppID": 1482890,
+    "Name": "Sputnik",
+    "Release date": "Sep 17, 2021",
+    "About the game": "Sputnik is an indie arcade space game where player needs to repair old Soviet Union space settlements. It's a single player game with cyberpunk style graphics and real retro feel. Gameplay is based on old school games from 1980's and 1990's with lives and permadeath. Player needs to explore abandon settlement in space and fix electricity, oxygen and water generators and make the settlement inhabitable. Explore the settlement and find materials to fix generators and upgrade your space ship to face the challenge! Explore and survive: Explore the settlements and find pickups, repair the generators and try to survive. Upgrade your ship: Player can upgrade his ship on the start of each level. Ship is being upgraded with scraps left from previous level. Upgrade your weapon: Weapon can be upgraded as well. Increase fire rate and ammo capacity with scraps. Use mods for better gaming experience: Game supports mods. Player can set default values from simple text file. Exceptional Soundtrack: Music and sounds are influenced by classic 8-bit, synth wave and ambience music. There are multiple levels and each level is generated semi-procedurally to give a bit different experience on each gameplay. It is also possible to mod different properties of player and game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1482890/header.jpg?t=1632502305",
+    "Price": 11.99,
+    "Developers": "Kelobyte Oy",
+    "Publishers": "Kelobyte Oy",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1482890/ss_b260895b7a5fd8bd257cad1de52717b195b8446f.1920x1080.jpg?t=1632502305,https://cdn.akamai.steamstatic.com/steam/apps/1482890/ss_e43e29c2296b2b6d3281edb1452245e6d332ae7c.1920x1080.jpg?t=1632502305,https://cdn.akamai.steamstatic.com/steam/apps/1482890/ss_e1f3d56577770117d48b1bb55c030f4856761bcc.1920x1080.jpg?t=1632502305,https://cdn.akamai.steamstatic.com/steam/apps/1482890/ss_fe564a19f8241e037f57adc9f59e12b511ed6443.1920x1080.jpg?t=1632502305,https://cdn.akamai.steamstatic.com/steam/apps/1482890/ss_a6b5b4b867815d0d33e3edbafa40fa89598eae62.1920x1080.jpg?t=1632502305",
+    "Slug": "sputnik",
+    "Meta Title": "Sputnik: Sep 17, 2021, Kelobyte Oy and Full Overview",
+    "Meta Description": "Looking for information on Sputnik? Check out the release date (Sep 17, 2021), developer insights from Kelobyte Oy, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sputnik game - Steam 1482890",
+    "Canonical URL": "https://gusku.site/game/sputnik",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sputnik\", \"description\": \"Looking for information on Sputnik? Check out the release date (Sep 17, 2021), developer insights from Kelobyte Oy, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 17, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kelobyte Oy\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kelobyte Oy\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1482890/header.jpg?t=1632502305\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

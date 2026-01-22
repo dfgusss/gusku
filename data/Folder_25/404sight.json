@@ -1,0 +1,21 @@
+{
+    "AppID": 361630,
+    "Name": "404Sight",
+    "Release date": "Apr 16, 2015",
+    "About the game": "404Sight is a free game made in support of net neutrality. It’s a 3D playground runner influenced by parkour running with the addition of a special ping ability that reveals areas that can speed the player up or slow them down. Hidden fast and slow lanes become visible, so it takes a bit of planning to plot a course through a world full of hazards – especially when the internet service providers themselves are actively trying to impede the player’s progress. In 404sight, the player attempts to traverse a level as quickly as possible without getting throttled by the ISPs, who actively throws slow tiles and inhibitors in their way. This game was made by Retro Yeti Games, a team of graduate students currently enrolled in the Entertainment Arts and Engineering program at the University of Utah. More information can be found at /",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/361630/header.jpg?t=1575513224",
+    "Price": 0.0,
+    "Developers": "Retro Yeti Games",
+    "Publishers": "Retro Yeti Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/361630/ss_c6b36880be3470e7ee945ef0a50726521e634a92.1920x1080.jpg?t=1575513224,https://cdn.akamai.steamstatic.com/steam/apps/361630/ss_3441d50b120501c17a71167bca2703ec6c936c3e.1920x1080.jpg?t=1575513224,https://cdn.akamai.steamstatic.com/steam/apps/361630/ss_d0490114bdbf10e5f47f6d2f1c9a92fc257f17ec.1920x1080.jpg?t=1575513224,https://cdn.akamai.steamstatic.com/steam/apps/361630/ss_39ba5a0d14fb163c3773d77a67885794e9e0ccfe.1920x1080.jpg?t=1575513224,https://cdn.akamai.steamstatic.com/steam/apps/361630/ss_aab0b39421d2e0a62d4e74fab72122808d91de83.1920x1080.jpg?t=1575513224",
+    "Slug": "404sight",
+    "Meta Title": "404Sight: Apr 16, 2015, Retro Yeti Games and Full Overview",
+    "Meta Description": "Looking for information on 404Sight? Check out the release date (Apr 16, 2015), developer insights from Retro Yeti Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for 404Sight game - Steam 361630",
+    "Canonical URL": "https://gusku.site/game/404sight",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"404Sight\", \"description\": \"Looking for information on 404Sight? Check out the release date (Apr 16, 2015), developer insights from Retro Yeti Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 16, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Retro Yeti Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Retro Yeti Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/361630/header.jpg?t=1575513224\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

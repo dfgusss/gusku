@@ -1,0 +1,21 @@
+{
+    "AppID": 1512520,
+    "Name": "4096",
+    "Release date": "Jan 20, 2021",
+    "About the game": "Move the number panels that appear every turn up, down, left and right. Combine the same number to get 4096! If you can't move the panel, the game is over! Compete on the leaderboard for high scores!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1512520/header.jpg?t=1611145988",
+    "Price": 9.99,
+    "Developers": "JinCycle",
+    "Publishers": "JinCycle",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1512520/ss_8e8f36b4d8113281134dbf7f35ec4a99dd52306e.1920x1080.jpg?t=1611145988,https://cdn.akamai.steamstatic.com/steam/apps/1512520/ss_65a17a5cdc3a3df1a66f7c8f7d5036e966fdb9c2.1920x1080.jpg?t=1611145988,https://cdn.akamai.steamstatic.com/steam/apps/1512520/ss_5d58be224a0126f8812e8eea3c8af69df3dbb463.1920x1080.jpg?t=1611145988,https://cdn.akamai.steamstatic.com/steam/apps/1512520/ss_c7ad079ce60e1badd6f4ef69e10113ce27ec26a4.1920x1080.jpg?t=1611145988,https://cdn.akamai.steamstatic.com/steam/apps/1512520/ss_0ce8f41a7ccae8f44d89654e5f6727112d8b7d48.1920x1080.jpg?t=1611145988",
+    "Slug": "4096",
+    "Meta Title": "4096: Jan 20, 2021, JinCycle and Full Overview",
+    "Meta Description": "Looking for information on 4096? Check out the release date (Jan 20, 2021), developer insights from JinCycle, and a complete game summary.",
+    "Alt Text Image": "Official header image for 4096 game - Steam 1512520",
+    "Canonical URL": "https://gusku.site/game/4096",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"4096\", \"description\": \"Looking for information on 4096? Check out the release date (Jan 20, 2021), developer insights from JinCycle, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 20, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"JinCycle\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"JinCycle\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1512520/header.jpg?t=1611145988\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

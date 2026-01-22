@@ -1,0 +1,21 @@
+{
+    "AppID": 1274340,
+    "Name": "ColorsInvasion",
+    "Release date": "Apr 27, 2020",
+    "About the game": "This game is a modern version like Space Invaders, with 12 levels and coloured invaders. The last level will never be the same twice ! Bullets are limited to the initial level (100) and can be increased by shooting bombs during the game. So there are 3 ways to lose : No more bullet , no more lives and invaders touch down . You have 3 lives in level 1 and one more at each new level. Since 08.09.2020, you can resize the window and exit more easily. You can reach level 4, 8 and 10 using number 4, 8 and 0 (keyboard, not numpad). Level 10 is a resting level, use it to get bullets shooting bombs !!! New shooter with 3 guns starting at level 10 (Since 08.19.20). New animations of the explosions for the shooter and for the bombs !",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1274340/header.jpg?t=1602091533",
+    "Price": 0.99,
+    "Developers": "Color Games",
+    "Publishers": "A. Cardinaux",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_3c8526fc3f5746881d7c420232ba9b2c30eeef83.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_d544993928116f61cf993a3d1cc65677db083cf4.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_db80195751dadf4cbad6fd82b6eee2cd52760d85.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_142f25dff49fb078b33c3f6413282197c9550218.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_9216f2260fe6f9d27cfd1b096567d5bc69b13729.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_e70eaf0f06d58a8e4e058c5ddb1fbbb7cc773047.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_d81a03e24915f0c90af3c8d6a66cc9dcb7d5b13a.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_80310d645cc77a60d375c28b543fc8a00f35e5c9.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_a45a1a740779d364f8c819e3d61a3914a813bc26.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_ed8e6329e7152f5da8cd19c119c1cc0919042220.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_9f29441ea57af8aeeae76ea2c0cb4362b45a60b0.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_b8022b4332d932baef5496a050e9d0465c3fca1b.1920x1080.jpg?t=1602091533,https://cdn.akamai.steamstatic.com/steam/apps/1274340/ss_3019f9c9de9bc888d37c695afdd324ab3e741dd2.1920x1080.jpg?t=1602091533",
+    "Slug": "colorsinvasion",
+    "Meta Title": "ColorsInvasion: Apr 27, 2020, Color Games and Full Overview",
+    "Meta Description": "Looking for information on ColorsInvasion? Check out the release date (Apr 27, 2020), developer insights from Color Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for ColorsInvasion game - Steam 1274340",
+    "Canonical URL": "https://gusku.site/game/colorsinvasion",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ColorsInvasion\", \"description\": \"Looking for information on ColorsInvasion? Check out the release date (Apr 27, 2020), developer insights from Color Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 27, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Color Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"A. Cardinaux\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1274340/header.jpg?t=1602091533\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

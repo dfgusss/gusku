@@ -1,0 +1,21 @@
+{
+    "AppID": 1558100,
+    "Name": "PixPhys",
+    "Release date": "Apr 25, 2021",
+    "About the game": "We were tired of the polished details in other games and decided to try creating a game with a different visual look! When we talk about space, we imagine beautiful, only built spaceships, and if we take it and say that the parts from which these ships were assembled lay for many years and were destroyed. It is this mood that we tried to convey with our visual style. The actions of the game take place on the system in which the colonization ship was sent on board which there were only autonomous machines. They were supposed to prepare the planet for the arrival of people, but no one flew to them. At the moment, there are two worlds available in the game: Flat Sea We are also planning to add a map with planets so that you can explore them on your aircraft, build space stations and whatever your imagination wants. Our game has a system of logical connections, through which you can create amazing mechanisms and machines. The types of logical connections available in the game: Bool Number String Color Vector Also in the game there are items for entering information (constants and sensors). You can operate on data, perform mathematical operations on it, and convert one data type to another. So that you can diversify the items in the game and add to it what you want, we have made support for modifications. Modifications are created in the C# programming language. To make this process easier for you, we have created the ModAPI documentation.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1558100/header.jpg?t=1627238587",
+    "Price": 3.99,
+    "Developers": "Red Starship",
+    "Publishers": "Red Starship",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1558100/ss_1a241af7502008845a5ed20ddfa6d1c38a8a4348.1920x1080.jpg?t=1627238587,https://cdn.akamai.steamstatic.com/steam/apps/1558100/ss_0969559d48814f3808a6e2c8c0ea83c83cb62df9.1920x1080.jpg?t=1627238587,https://cdn.akamai.steamstatic.com/steam/apps/1558100/ss_f1ed3d0dac6ffdafa610e8a8402001cca1968914.1920x1080.jpg?t=1627238587,https://cdn.akamai.steamstatic.com/steam/apps/1558100/ss_db600a2cc790fbc7bf8ca39c56bd31ef100ac2e3.1920x1080.jpg?t=1627238587,https://cdn.akamai.steamstatic.com/steam/apps/1558100/ss_57ba7c3e3f44aa19844e530c8da8ffb4fa31f46c.1920x1080.jpg?t=1627238587,https://cdn.akamai.steamstatic.com/steam/apps/1558100/ss_cc08bcf188178d8b99adf5c7381b89096a678703.1920x1080.jpg?t=1627238587,https://cdn.akamai.steamstatic.com/steam/apps/1558100/ss_533acc7c21d9912459f7fd0ffa0cc6d9f9835570.1920x1080.jpg?t=1627238587,https://cdn.akamai.steamstatic.com/steam/apps/1558100/ss_ec43cf3269118e250f1406121b145ee527274962.1920x1080.jpg?t=1627238587",
+    "Slug": "pixphys",
+    "Meta Title": "PixPhys: Apr 25, 2021, Red Starship and Full Overview",
+    "Meta Description": "Looking for information on PixPhys? Check out the release date (Apr 25, 2021), developer insights from Red Starship, and a complete game summary.",
+    "Alt Text Image": "Official header image for PixPhys game - Steam 1558100",
+    "Canonical URL": "https://gusku.site/game/pixphys",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PixPhys\", \"description\": \"Looking for information on PixPhys? Check out the release date (Apr 25, 2021), developer insights from Red Starship, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 25, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Red Starship\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Red Starship\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1558100/header.jpg?t=1627238587\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

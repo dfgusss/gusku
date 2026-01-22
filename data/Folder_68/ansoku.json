@@ -1,0 +1,21 @@
+{
+    "AppID": 2224830,
+    "Name": "Ansoku",
+    "Release date": "Dec 19, 2022",
+    "About the game": "Ansoku is a relaxing, fun, simple, and yet challenging puzzle game with a high replay value. The concept of the game is simple, use the given blocks to create rows, once a row is created it will be cleared and you receive the sum of its points and charge your rotate points. If however, you can no longer place any of the blocks you are given, the game will be over. Now also available on desktop, its main intent is to be a game that can be played when you just want to relax. It can run in its own smaller window so you can do things on the side if you wish. No time pressure, play at your own pace and you can stop the game at any time to return where you left off later. Play smart and grow your high score! But most importantly, have fun :)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2224830/header.jpg?t=1671478285",
+    "Price": 0.89,
+    "Developers": "Frans Haeck",
+    "Publishers": "Frans Haeck",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2224830/ss_d024c1427be35ff2194de7fb7c49567d66ab7c5c.1920x1080.jpg?t=1671478285,https://cdn.akamai.steamstatic.com/steam/apps/2224830/ss_86e24c2cafd21c6943f524ac595a212eb0cb84d0.1920x1080.jpg?t=1671478285,https://cdn.akamai.steamstatic.com/steam/apps/2224830/ss_ed896460dbae747d0e7e607551c53556eb93f593.1920x1080.jpg?t=1671478285,https://cdn.akamai.steamstatic.com/steam/apps/2224830/ss_d75d704226869f4950b75ccdba38e821773a48db.1920x1080.jpg?t=1671478285,https://cdn.akamai.steamstatic.com/steam/apps/2224830/ss_8cb223910a420f4c99415bad1d6b2bbb8c7c16ae.1920x1080.jpg?t=1671478285,https://cdn.akamai.steamstatic.com/steam/apps/2224830/ss_b77b2276ce936513bc56a62c7b5e9ce6077b5587.1920x1080.jpg?t=1671478285",
+    "Slug": "ansoku",
+    "Meta Title": "Ansoku: Dec 19, 2022, Frans Haeck and Full Overview",
+    "Meta Description": "Looking for information on Ansoku? Check out the release date (Dec 19, 2022), developer insights from Frans Haeck, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ansoku game - Steam 2224830",
+    "Canonical URL": "https://gusku.site/game/ansoku",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ansoku\", \"description\": \"Looking for information on Ansoku? Check out the release date (Dec 19, 2022), developer insights from Frans Haeck, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 19, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Frans Haeck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Frans Haeck\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2224830/header.jpg?t=1671478285\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.89, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

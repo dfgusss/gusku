@@ -1,0 +1,21 @@
+{
+    "AppID": 787950,
+    "Name": "PixelCraft VR",
+    "Release date": "Nov 28, 2019",
+    "About the game": "PixelCraft VR is a sandbox game that allows you to construct 3D models out of colorful 3D pixels. Our user interface has been carefully tuned to be simple, intuitive, and enjoyable. You can move around the environment with your left controller and build with your right one. The game also includes handy features to streamline the building process: FEATURES Add, remove, and move 3D pixels Fill and clear areas Cut, copy, and paste groups of 3D pixels Rotate and mirror selected groups of 3D pixels Select any color on the RGB spectrum Sample any color from an existing 3D pixel Color fill a group of 3D pixels Measure objects from one pixel to another Change pixel scale from 0.2 to 20.0 inches (5 to 500 millimeters) Fly and teleport around the environment Undo/redo operations Select black or white background Save and load projects Sample models include a house, living room, spaceship, car, and pistol PERFORMANCE Your models can grow to contain a very large number of 3D pixels. To ensure best performance, the game comes with optional project bounds and brush limits. It is recommended to stay within those limits, but they can be disabled from the options menu.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/787950/header.jpg?t=1575010914",
+    "Price": 4.99,
+    "Developers": "Bitlexia",
+    "Publishers": "Bitlexia",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/787950/ss_10fee034c0bb00389089ee3dde41ba1e868640c5.1920x1080.jpg?t=1575010914,https://cdn.akamai.steamstatic.com/steam/apps/787950/ss_d4968aefb2bcc155de8b52ca769efd90bf6f6ca8.1920x1080.jpg?t=1575010914,https://cdn.akamai.steamstatic.com/steam/apps/787950/ss_2a7631c2af8378a6106c7c72ee917b5d538777d0.1920x1080.jpg?t=1575010914,https://cdn.akamai.steamstatic.com/steam/apps/787950/ss_1b5e9d56ead66d97a162169363684a58e532914d.1920x1080.jpg?t=1575010914,https://cdn.akamai.steamstatic.com/steam/apps/787950/ss_9b5b0380ed30b20144c14125970849eeecf93857.1920x1080.jpg?t=1575010914",
+    "Slug": "pixelcraft-vr",
+    "Meta Title": "PixelCraft VR: Nov 28, 2019, Bitlexia and Full Overview",
+    "Meta Description": "Looking for information on PixelCraft VR? Check out the release date (Nov 28, 2019), developer insights from Bitlexia, and a complete game summary.",
+    "Alt Text Image": "Official header image for PixelCraft VR game - Steam 787950",
+    "Canonical URL": "https://gusku.site/game/pixelcraft-vr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PixelCraft VR\", \"description\": \"Looking for information on PixelCraft VR? Check out the release date (Nov 28, 2019), developer insights from Bitlexia, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 28, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bitlexia\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bitlexia\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/787950/header.jpg?t=1575010914\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

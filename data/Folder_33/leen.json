@@ -1,0 +1,21 @@
+{
+    "AppID": 2018140,
+    "Name": "LEEN",
+    "Release date": "Jun 17, 2022",
+    "About the game": "LEEN is a Turn-based Multiplayer game, where you have to calculate your move to fight with your friend. Your character is simple, it's tiny paper with a pin as a head. Map in this game will auto generated and items will be randomly placed. Every turn player will receive energy to walk and at the end of the turn, If your head points at another player your character will attack them. The last standing is the winner.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2018140/header.jpg?t=1655449284",
+    "Price": 3.99,
+    "Developers": "Techcast",
+    "Publishers": "Techcast",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2018140/ss_57a592fd9647e460d24427efead83684a6ed8828.1920x1080.jpg?t=1655449284,https://cdn.akamai.steamstatic.com/steam/apps/2018140/ss_8fa17e4f2416f7a1fe0afb08d7bf45a8e1c0b671.1920x1080.jpg?t=1655449284,https://cdn.akamai.steamstatic.com/steam/apps/2018140/ss_78b376ee34da7825ba2c206dc6581be71be2d4a5.1920x1080.jpg?t=1655449284,https://cdn.akamai.steamstatic.com/steam/apps/2018140/ss_c9639fe43549f10737f0f993329aec2e830fb217.1920x1080.jpg?t=1655449284,https://cdn.akamai.steamstatic.com/steam/apps/2018140/ss_558502dc111043bd34f6db901a04971e287e1d70.1920x1080.jpg?t=1655449284",
+    "Slug": "leen",
+    "Meta Title": "LEEN: Jun 17, 2022, Techcast and Full Overview",
+    "Meta Description": "Looking for information on LEEN? Check out the release date (Jun 17, 2022), developer insights from Techcast, and a complete game summary.",
+    "Alt Text Image": "Official header image for LEEN game - Steam 2018140",
+    "Canonical URL": "https://gusku.site/game/leen",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"LEEN\", \"description\": \"Looking for information on LEEN? Check out the release date (Jun 17, 2022), developer insights from Techcast, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Techcast\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Techcast\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2018140/header.jpg?t=1655449284\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

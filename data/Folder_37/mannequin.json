@@ -1,0 +1,21 @@
+{
+    "AppID": 1280420,
+    "Name": "Mannequin",
+    "Release date": "Jul 31, 2020",
+    "About the game": "Mannequin is a 2D character sprite generator which is designed for video game developers, especially visual novel and JRPG creators. With it, you can create full-body character sprites with various poses, clothing styles, hairstyles and expressions.  Mannequin is fine-tuned with ease of use as its focus. If you're an artist or have an artist in your team, you will find Mannequin's simple interface useful for quick prototyping. If you're not an artist, then you'll find that its high-quality output can match a lot of other games' art, so you can confidently use it for production. You are free to use any of your exported character files in your personal and commercial projects.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1280420/header.jpg?t=1640844759",
+    "Price": 14.99,
+    "Developers": "AR14.works",
+    "Publishers": "AR14.works",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1280420/ss_62b9525ccae972f7cfe3fe27ad07d3db19459b0c.1920x1080.jpg?t=1640844759,https://cdn.akamai.steamstatic.com/steam/apps/1280420/ss_eac2e0d2a4783e58cba28a7694b88ba3d1f70d1d.1920x1080.jpg?t=1640844759,https://cdn.akamai.steamstatic.com/steam/apps/1280420/ss_cf18485535c4df38db7e7cd7e2882f1cf8816cac.1920x1080.jpg?t=1640844759,https://cdn.akamai.steamstatic.com/steam/apps/1280420/ss_4d124e3e6cf19c6886f6c8f1d886729c00633efd.1920x1080.jpg?t=1640844759,https://cdn.akamai.steamstatic.com/steam/apps/1280420/ss_473157f0965dc25c626724d34c706229f977484d.1920x1080.jpg?t=1640844759,https://cdn.akamai.steamstatic.com/steam/apps/1280420/ss_1da4eb541c2031c424fe65cc3f6606ea47799579.1920x1080.jpg?t=1640844759",
+    "Slug": "mannequin",
+    "Meta Title": "Mannequin: Jul 31, 2020, AR14.works and Full Overview",
+    "Meta Description": "Looking for information on Mannequin? Check out the release date (Jul 31, 2020), developer insights from AR14.works, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mannequin game - Steam 1280420",
+    "Canonical URL": "https://gusku.site/game/mannequin",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mannequin\", \"description\": \"Looking for information on Mannequin? Check out the release date (Jul 31, 2020), developer insights from AR14.works, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 31, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"AR14.works\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"AR14.works\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1280420/header.jpg?t=1640844759\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

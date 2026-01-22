@@ -1,0 +1,21 @@
+{
+    "AppID": 1834500,
+    "Name": "做了个魔塔 MageTower",
+    "Release date": "Dec 25, 2021",
+    "About the game": "关注我们： Bilibili：@万一游戏作坊WanyiGames QQ群:383534788 这是款由虚幻4（unreal4）引擎开发，保留了原本玩法的换皮魔塔。 在这里，你不用再上下左右进行缓慢爬行，我们为勇者加入了自动寻路的功能。 为了防止寻路的时候打到不想打的怪，你可以开启防误触模式选择是否进行战斗。 在这里，你不用再一遍遍的跑去找商人升级，我们把升级做成了随身携带的功能。 只要按U键或者是升级按钮，就可以一键进行升级。 在这里，你不用再为反复打开图鉴查询怪物信息而感到烦恼， 我们增加了怪物头顶的伤害显示功能，还增加了鼠标挪动查看具体图鉴的功能。 在这里，你不用再为存档数量发愁， 我们加入了65535个存档槽位，包你够用。 在这里，你也不用再为那些一言难尽的隐藏墙和隐藏道具查攻略， 我们承诺不加入任何影响游戏性的彩蛋。 最后，游戏中加入了大量的由虚幻引擎制作的视觉效果，应该会给你惊喜。 平心而论，魔塔，这个来自于二十多年前的老游戏并不复杂。 数值只有基础的攻防血量，计算模型是小学二年级水平的加减法，以及乘法。 决定路线选择的，钥匙和门的对应关系也只有三种， 游戏中所有的选择策略都可以被抽象为——先去打收益高的怪。 但是用这些最简单的要素，却能组合出一个大多数人都没法第一次就通关的游戏， 这里我斗胆代表一下大多数，起码我没有在第一次通关。 就像蛋炒饭一样，最简单又最难，这确实是一件值得游戏制作者挑战的事情。 做了个魔塔，欢迎大家体验游玩。 这也是我们工作室在Steam上架的第一款游戏，还请多多包含，也请期待后续更多的作品。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1834500/header.jpg?t=1640587116",
+    "Price": 0.0,
+    "Developers": "万一游戏作坊 WanyiGames",
+    "Publishers": "万一游戏作坊 WanyiGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_6c89d89b8b9948feee2a8ee77c060ffe067c4611.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_b789611481f57b86a9c133851d41c010c58654db.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_ab81fb6a8ad88187c4818478d523565745299f13.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_b7a738d36885b820fa2f5111810699f04fc784b5.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_800a33fb6b9b8452a8de6508d38274b28ef738b6.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_cfb9c7b5353108ffa4d9e8a5738c9a8ac06e901a.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_784f3947c41472e3cc372376741adb91356bb211.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_87ec2ae141d23026a7dc80076a37916fb7f06ac7.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_ee8bed054b59f1ccd961f08ba4443529e0ca3457.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_ccf2fedfc9137e692101b9db5c809228a64cde02.1920x1080.jpg?t=1640587116,https://cdn.akamai.steamstatic.com/steam/apps/1834500/ss_19c342118b2ba06870c7d8094597fbe4f9a9b694.1920x1080.jpg?t=1640587116",
+    "Slug": "magetower",
+    "Meta Title": "做了个魔塔 MageTower: Dec 25, 2021, 万一游戏作坊 WanyiGames and Full...",
+    "Meta Description": "Looking for information on 做了个魔塔 MageTower? Check out the release date (Dec 25, 2021), developer insights from 万一游戏作坊 WanyiGames, and a complete game su...",
+    "Alt Text Image": "Official header image for 做了个魔塔 MageTower game - Steam 1834500",
+    "Canonical URL": "https://gusku.site/game/magetower",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u505a\\u4e86\\u4e2a\\u9b54\\u5854 MageTower\", \"description\": \"Looking for information on \\u505a\\u4e86\\u4e2a\\u9b54\\u5854 MageTower? Check out the release date (Dec 25, 2021), developer insights from \\u4e07\\u4e00\\u6e38\\u620f\\u4f5c\\u574a WanyiGames, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 25, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u4e07\\u4e00\\u6e38\\u620f\\u4f5c\\u574a WanyiGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u4e07\\u4e00\\u6e38\\u620f\\u4f5c\\u574a WanyiGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1834500/header.jpg?t=1640587116\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

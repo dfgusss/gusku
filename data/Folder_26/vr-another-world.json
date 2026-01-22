@@ -1,0 +1,21 @@
+{
+    "AppID": 1646650,
+    "Name": "VR Another World",
+    "Release date": "Jun 11, 2021",
+    "About the game": "This is a walking simulation software for VR. You can freely walk around the medieval European style world. There are no game elements at all, and you can enjoy all the elements in as little as five minutes. ■How to move There are two ways to move: warp mode, which is very sickness-free, and smooth mode, which increases the sense of immersion. You can also jump by holding both hands at the same time. You can jump infinitely and continuously. ■Miniature Mode A miniature mode has been implemented that allows you to observe the entire map at 1/100 scale. ■BGM A total of six types of BGM are available to match the map, and can be changed freely.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1646650/header.jpg?t=1628067668",
+    "Price": 4.99,
+    "Developers": "kan.kikuchi",
+    "Publishers": "kan.kikuchi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1646650/ss_eb8586ff7240ed61e3c30067c501612f842171ac.1920x1080.jpg?t=1628067668,https://cdn.akamai.steamstatic.com/steam/apps/1646650/ss_f1037bde1ec7194c3f93e08724cee34525bf126f.1920x1080.jpg?t=1628067668,https://cdn.akamai.steamstatic.com/steam/apps/1646650/ss_d5af57a6a85a3328cb488a45215107cedb4f7b35.1920x1080.jpg?t=1628067668,https://cdn.akamai.steamstatic.com/steam/apps/1646650/ss_5c737b9e8c11ce6e2462020ddbf8e7313b2d648f.1920x1080.jpg?t=1628067668,https://cdn.akamai.steamstatic.com/steam/apps/1646650/ss_09641f01d5466b4b5cb22ac4f2da5e6c82fcd35f.1920x1080.jpg?t=1628067668",
+    "Slug": "vr-another-world",
+    "Meta Title": "VR Another World: Jun 11, 2021, kan.kikuchi and Full Over...",
+    "Meta Description": "Looking for information on VR Another World? Check out the release date (Jun 11, 2021), developer insights from kan.kikuchi, and a complete game summary.",
+    "Alt Text Image": "Official header image for VR Another World game - Steam 1646650",
+    "Canonical URL": "https://gusku.site/game/vr-another-world",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VR Another World\", \"description\": \"Looking for information on VR Another World? Check out the release date (Jun 11, 2021), developer insights from kan.kikuchi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 11, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"kan.kikuchi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"kan.kikuchi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1646650/header.jpg?t=1628067668\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

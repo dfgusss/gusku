@@ -1,0 +1,21 @@
+{
+    "AppID": 1548870,
+    "Name": "MOENTO - Modular Environment Toolkit",
+    "Release date": "Apr 23, 2021",
+    "About the game": "This toolkit accelerates the invention of unique structures for games using well-known purchasable assets or individual game specific DLC's and allows developers to give their audience a tool to actively participate in the development of the game world. A simple wireframe editor allows for quick creation of the structure layout. In panel mode, all automatically spawned panels can then be customized and modified. Panels can also be hidden and added separately if needed. In Part mode, you can decorate the structure with a variety of objects to give it a 'lived-in' feel. The main purpose of this toolkit is to allow the community and gamedevs to think up and create unique structures for their game. To convert the structures into Unity prefabs, which you can then easily integrate into your game world, the MOENTO converter sold in the Unity asset store must be purchased.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1548870/header.jpg?t=1648893433",
+    "Price": 0.0,
+    "Developers": "Voronoi Studios",
+    "Publishers": "Voronoi Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1548870/ss_d600520f844b724041ce4004f02109c50715d029.1920x1080.jpg?t=1648893433,https://cdn.akamai.steamstatic.com/steam/apps/1548870/ss_e8900436b2789f5aebcee1555d688d2f4d950a9e.1920x1080.jpg?t=1648893433,https://cdn.akamai.steamstatic.com/steam/apps/1548870/ss_9c63fa1a6843ac2b2fe1b7a0dd290a7d4551390c.1920x1080.jpg?t=1648893433,https://cdn.akamai.steamstatic.com/steam/apps/1548870/ss_89a00684a1ee67b62bb34ab66cf04be44e03af9e.1920x1080.jpg?t=1648893433,https://cdn.akamai.steamstatic.com/steam/apps/1548870/ss_77ad0efda0cba70d8160b2675324069671950d26.1920x1080.jpg?t=1648893433,https://cdn.akamai.steamstatic.com/steam/apps/1548870/ss_41f3619e51042639cff5cac2674a5e8f9ed262d1.1920x1080.jpg?t=1648893433",
+    "Slug": "moento-modular-environment-toolkit",
+    "Meta Title": "MOENTO - Modular Environment Toolkit: Apr 23, 2021, Voron...",
+    "Meta Description": "Looking for information on MOENTO - Modular Environment Toolkit? Check out the release date (Apr 23, 2021), developer insights from Voronoi Studios, and...",
+    "Alt Text Image": "Official header image for MOENTO - Modular Environment Toolkit game - Steam 1548870",
+    "Canonical URL": "https://gusku.site/game/moento-modular-environment-toolkit",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MOENTO - Modular Environment Toolkit\", \"description\": \"Looking for information on MOENTO - Modular Environment Toolkit? Check out the release date (Apr 23, 2021), developer insights from Voronoi Studios, and...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Voronoi Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Voronoi Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1548870/header.jpg?t=1648893433\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1718000,
+    "Name": "Trigger",
+    "Release date": "Mar 4, 2022",
+    "About the game": "Inspired by many 3d side-scrolling games, I bring to you all 'Trigger!' This a 3d side-scrolling platformer which allows you to explore various locations through the eyes of your character, Neo. Ludwig Hallow, a brilliant game designer and scientist, has chosen you for various trial experimentations to ensure that you'll be able to handle future missions he has planned for you. If you pass, you'll be set free to go back to your home planet Flurrous after having completed the final mission you were assigned to complete. If you fail, you'll have the opportunity to retry and prove your worth to Ludwig. You can roll in any direction to get to where you need, jumping will be an ability you gain once you get to chapters 2 and up, you can take pictures of your adventure by pressing the '1' key and can pull up objectives if you forget what it was you were assigned to do. Utilizing tools from Unreal engine 4 and Quixels Megascans, I was able to bring each scene to life and pump out the best visual experience possible. I hope this game can bring joy to all that play it and am appreciative of all the support this game can get. Thank you all for reading this and I hope you enjoy the game!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1718000/header.jpg?t=1646427823",
+    "Price": 4.99,
+    "Developers": "St. Trell",
+    "Publishers": "St. Trell",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1718000/ss_06227ee69ac19e73295a70bc9d0606e81e5e1b82.1920x1080.jpg?t=1646427823,https://cdn.akamai.steamstatic.com/steam/apps/1718000/ss_59aad7290ae7bd966a72ea1a1340f4ad5aa2416d.1920x1080.jpg?t=1646427823,https://cdn.akamai.steamstatic.com/steam/apps/1718000/ss_e2d1fa984d50da145bddd67b33c703939fdb51aa.1920x1080.jpg?t=1646427823,https://cdn.akamai.steamstatic.com/steam/apps/1718000/ss_8d1f90d9aa8a0e58a41389675f506f51fedcbd82.1920x1080.jpg?t=1646427823,https://cdn.akamai.steamstatic.com/steam/apps/1718000/ss_3dc8adb236ac7d26c44734c2a1fc0b4b8af333d7.1920x1080.jpg?t=1646427823,https://cdn.akamai.steamstatic.com/steam/apps/1718000/ss_071684c0431ae415ff0bfe381b6061a7d7646919.1920x1080.jpg?t=1646427823,https://cdn.akamai.steamstatic.com/steam/apps/1718000/ss_8e37424833f5cad8e04fb9033fb0dbf6f54094df.1920x1080.jpg?t=1646427823,https://cdn.akamai.steamstatic.com/steam/apps/1718000/ss_3813aa29d4e07151a5486fa42c45d1ec4b06e63e.1920x1080.jpg?t=1646427823,https://cdn.akamai.steamstatic.com/steam/apps/1718000/ss_4a60e486d6fbdad0b7985fa032e1d51373462dc3.1920x1080.jpg?t=1646427823",
+    "Slug": "trigger",
+    "Meta Title": "Trigger: Mar 4, 2022, St. Trell and Full Overview",
+    "Meta Description": "Looking for information on Trigger? Check out the release date (Mar 4, 2022), developer insights from St. Trell, and a complete game summary.",
+    "Alt Text Image": "Official header image for Trigger game - Steam 1718000",
+    "Canonical URL": "https://gusku.site/game/trigger",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Trigger\", \"description\": \"Looking for information on Trigger? Check out the release date (Mar 4, 2022), developer insights from St. Trell, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 4, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"St. Trell\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"St. Trell\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1718000/header.jpg?t=1646427823\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1683820,
+    "Name": "Board Game Engine",
+    "Release date": "Jan 21, 2022",
+    "About the game": "Normally the Editor would be paid, however since multiplayer has not been implemented we are allowing free access until we release the multiplayer update. You can buy the Editor early to support us, but note that it does not unlock additional features at this time. The Board Game Engine was built with game developers in mind as a tool for designing and prototyping your very own tabletop games with as much freedom as possible. Free to Play Play your favorite games or playtest upcoming titles for free! Pay only for the Editor. Game Editor A detailed game editor for creating your final prototypes. Everything you need to make your games can be found in the Game Editor, though dedicated editors are planned for all components. Modify core mechanics like players, hand limits, create a grid, or place snapping points for objects. Versioning Support All save types have versioning support, so you can switch between different versions of any type of save, even down to individual components. Update items of the same version in bulk inside the game editor. Deck Editor A dedicated deck editor, pulling together all saved cards into one simple UI for constructing decks. Steam Workshop Support Upload and download creations on the Steam Workshop. Free to play users can download from the Workshop too!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1683820/header.jpg?t=1642999937",
+    "Price": 0.0,
+    "Developers": "Omnibox Games Ltd",
+    "Publishers": "Omnibox Games Ltd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1683820/ss_aac07d1157a321c70c923800757d2571b1a8f293.1920x1080.jpg?t=1642999937,https://cdn.akamai.steamstatic.com/steam/apps/1683820/ss_e55fece9a31c64d9df911003beb333e81769ceb8.1920x1080.jpg?t=1642999937,https://cdn.akamai.steamstatic.com/steam/apps/1683820/ss_07137d06a2df7f54cbb0c892bb1610a6d7d47bc2.1920x1080.jpg?t=1642999937,https://cdn.akamai.steamstatic.com/steam/apps/1683820/ss_16aaafc6338d93d28ba339ee616417d5de6ac998.1920x1080.jpg?t=1642999937,https://cdn.akamai.steamstatic.com/steam/apps/1683820/ss_d0078ab1c66bc26d2a76e765b2d591ac72b4c265.1920x1080.jpg?t=1642999937,https://cdn.akamai.steamstatic.com/steam/apps/1683820/ss_eb32012df466019a5e9d7bd77f9c972dff6067ee.1920x1080.jpg?t=1642999937",
+    "Slug": "board-game-engine",
+    "Meta Title": "Board Game Engine: Jan 21, 2022, Omnibox Games Ltd and Fu...",
+    "Meta Description": "Looking for information on Board Game Engine? Check out the release date (Jan 21, 2022), developer insights from Omnibox Games Ltd, and a complete game ...",
+    "Alt Text Image": "Official header image for Board Game Engine game - Steam 1683820",
+    "Canonical URL": "https://gusku.site/game/board-game-engine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Board Game Engine\", \"description\": \"Looking for information on Board Game Engine? Check out the release date (Jan 21, 2022), developer insights from Omnibox Games Ltd, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Omnibox Games Ltd\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Omnibox Games Ltd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1683820/header.jpg?t=1642999937\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

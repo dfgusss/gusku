@@ -1,0 +1,21 @@
+{
+    "AppID": 2083790,
+    "Name": "Capitals",
+    "Release date": "Aug 8, 2022",
+    "About the game": "(IN DEVELOPMENT, sorry for any bugs..) A mash-up of the common idle clicker genre and a city builder, Capitals is a fast-paced and competitive strategy game. Each match is set on a resizable game board made up of hexagonal tiles, randomly generated each time you play. Games will have you try to build and grow your city as fast as possible, forcing you to keep up with the ai or players you're up against. There are two ways to win: spread your territory as far across the map as possible, building over enough 'winning tiles' to collect the majority out of all other players; or play the offense/defense game and wipe out your competition. But if you aren't playing a balance of both you're bound to lose. This game is a year-long labor of love accompanied by a thorough soundtrack from a project partner, so I hope this delivers! If you'd like to learn more about the both of us the developer credits include links and are on the first page upon opening the game...",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2083790/header.jpg?t=1660053087",
+    "Price": 0.0,
+    "Developers": "TheTrueEnding",
+    "Publishers": "TheTrueEnding",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2083790/ss_8d9f21a6098a7515b6939ed59431da60b889f346.1920x1080.jpg?t=1660053087,https://cdn.akamai.steamstatic.com/steam/apps/2083790/ss_3705e2e7ad925fe39cab325a43222a8a87d5002d.1920x1080.jpg?t=1660053087,https://cdn.akamai.steamstatic.com/steam/apps/2083790/ss_3e26542f3714b3b457fd6dcba1a6a27495497901.1920x1080.jpg?t=1660053087,https://cdn.akamai.steamstatic.com/steam/apps/2083790/ss_98c644c87d178cba79cded5d39dffbad732f8301.1920x1080.jpg?t=1660053087,https://cdn.akamai.steamstatic.com/steam/apps/2083790/ss_283300248111342fa6768ee8cfbb899a300d5e73.1920x1080.jpg?t=1660053087,https://cdn.akamai.steamstatic.com/steam/apps/2083790/ss_4e0145550eded74da8d7e1eb288c2886fc3b17b6.1920x1080.jpg?t=1660053087",
+    "Slug": "capitals",
+    "Meta Title": "Capitals: Aug 8, 2022, TheTrueEnding and Full Overview",
+    "Meta Description": "Looking for information on Capitals? Check out the release date (Aug 8, 2022), developer insights from TheTrueEnding, and a complete game summary.",
+    "Alt Text Image": "Official header image for Capitals game - Steam 2083790",
+    "Canonical URL": "https://gusku.site/game/capitals",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Capitals\", \"description\": \"Looking for information on Capitals? Check out the release date (Aug 8, 2022), developer insights from TheTrueEnding, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 8, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"TheTrueEnding\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TheTrueEnding\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2083790/header.jpg?t=1660053087\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2127330,
+    "Name": "Basic Platformer",
+    "Release date": "Dec 9, 2022",
+    "About the game": "Its a basic platformer, where you have to run through three levels of progressively getting harder. Their are two types of enemies you will encounter, the first being a slime and the second being a fly. To defeat both you simply have to jump on top of them, then there's the spike traps. As it stands there are three levels, I intend to make more levels to the game in the future.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2127330/header.jpg?t=1670595384",
+    "Price": 1.99,
+    "Developers": "Robert Murphy-Hosler",
+    "Publishers": "Robert Murphy-Hosler",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2127330/ss_6669a603e819e0f82b61be9910c8b5302dc5ad8b.1920x1080.jpg?t=1670595384,https://cdn.akamai.steamstatic.com/steam/apps/2127330/ss_099ca09f422e2f167ee8616cedf57dfd958239aa.1920x1080.jpg?t=1670595384,https://cdn.akamai.steamstatic.com/steam/apps/2127330/ss_981935f0d4f446a1e067c7fcf2b957bd316a1837.1920x1080.jpg?t=1670595384,https://cdn.akamai.steamstatic.com/steam/apps/2127330/ss_4ef5358c904bb65299178133da020e61f24c8dcd.1920x1080.jpg?t=1670595384,https://cdn.akamai.steamstatic.com/steam/apps/2127330/ss_19624b6a3b2d381fb96e3a020e78c366075ac8bb.1920x1080.jpg?t=1670595384",
+    "Slug": "basic-platformer",
+    "Meta Title": "Basic Platformer: Dec 9, 2022, Robert Murphy-Hosler and F...",
+    "Meta Description": "Looking for information on Basic Platformer? Check out the release date (Dec 9, 2022), developer insights from Robert Murphy-Hosler, and a complete game...",
+    "Alt Text Image": "Official header image for Basic Platformer game - Steam 2127330",
+    "Canonical URL": "https://gusku.site/game/basic-platformer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Basic Platformer\", \"description\": \"Looking for information on Basic Platformer? Check out the release date (Dec 9, 2022), developer insights from Robert Murphy-Hosler, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 9, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Robert Murphy-Hosler\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Robert Murphy-Hosler\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2127330/header.jpg?t=1670595384\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

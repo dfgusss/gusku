@@ -1,0 +1,21 @@
+{
+    "AppID": 1414490,
+    "Name": "Kasmo",
+    "Release date": "Sep 18, 2020",
+    "About the game": "Kasmo - is a casual game where you have to launch rockets and destroy bombs. Bombs appear on the playing field in a random place, you can launch rockets that destroy them when they explode, for each destroyed bomb you get 2 points. The difficulty is that launching one rocket costs one point, and they fly to the target for a certain time, so you need to calculate the trajectory to the bombs and try not to miss. If you run out of points, you will immediately lose. You also need to make sure that the number of bombs on the field does not exceed 20, otherwise you will also lose. Use your accuracy. How many points can you earn? Features: - Interesting and simple gameplay - Minimalistic graphics - Nice soundtrack - Using physics",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1414490/header.jpg?t=1600447597",
+    "Price": 0.99,
+    "Developers": "somdy age",
+    "Publishers": "somdy age",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1414490/ss_db2f301d4b7ff8cad54a524c1dcf66973629effe.1920x1080.jpg?t=1600447597,https://cdn.akamai.steamstatic.com/steam/apps/1414490/ss_ef75265d54a405e69247237cc44e24ae71f9d2cd.1920x1080.jpg?t=1600447597,https://cdn.akamai.steamstatic.com/steam/apps/1414490/ss_0d6b3cd858b6a3757458683faa556f087ec78b6c.1920x1080.jpg?t=1600447597,https://cdn.akamai.steamstatic.com/steam/apps/1414490/ss_9469d3dd75a322eb9d37fc8fcdd1823be5653439.1920x1080.jpg?t=1600447597,https://cdn.akamai.steamstatic.com/steam/apps/1414490/ss_b35c9926ca5bbc0abc8f0ee8aa55b7a575afc40c.1920x1080.jpg?t=1600447597",
+    "Slug": "kasmo",
+    "Meta Title": "Kasmo: Sep 18, 2020, somdy age and Full Overview",
+    "Meta Description": "Looking for information on Kasmo? Check out the release date (Sep 18, 2020), developer insights from somdy age, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kasmo game - Steam 1414490",
+    "Canonical URL": "https://gusku.site/game/kasmo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kasmo\", \"description\": \"Looking for information on Kasmo? Check out the release date (Sep 18, 2020), developer insights from somdy age, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 18, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"somdy age\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"somdy age\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1414490/header.jpg?t=1600447597\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

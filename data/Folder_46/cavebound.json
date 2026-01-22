@@ -1,0 +1,21 @@
+{
+    "AppID": 1522980,
+    "Name": "Cavebound",
+    "Release date": "Mar 1, 2021",
+    "About the game": "Cavebound is a game about working in a mine, and keeping the mine operational while avoiding a horrible monster. The aim of the game is to survive your shift in the mine without getting killed. Cavebound is both single player and co-op with up to 3 other players.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1522980/header.jpg?t=1614638182",
+    "Price": 0.99,
+    "Developers": "Ariel Spry",
+    "Publishers": "Ariel Spry",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1522980/ss_6f1ee31db88743002d84f4e3f45421a86529d3e6.1920x1080.jpg?t=1614638182,https://cdn.akamai.steamstatic.com/steam/apps/1522980/ss_8a37829bfc00ca9d83e6650a0898ae972ee81e9c.1920x1080.jpg?t=1614638182,https://cdn.akamai.steamstatic.com/steam/apps/1522980/ss_6d684b6eeb7abeb8cec538375b65013b0a7b76b5.1920x1080.jpg?t=1614638182,https://cdn.akamai.steamstatic.com/steam/apps/1522980/ss_68ed4bb77856dfd25bc156294ef8184d0cd49c7d.1920x1080.jpg?t=1614638182,https://cdn.akamai.steamstatic.com/steam/apps/1522980/ss_702093b44aa2e9059e8ae33f2a69bc1a7d5ea416.1920x1080.jpg?t=1614638182",
+    "Slug": "cavebound",
+    "Meta Title": "Cavebound: Mar 1, 2021, Ariel Spry and Full Overview",
+    "Meta Description": "Looking for information on Cavebound? Check out the release date (Mar 1, 2021), developer insights from Ariel Spry, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cavebound game - Steam 1522980",
+    "Canonical URL": "https://gusku.site/game/cavebound",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cavebound\", \"description\": \"Looking for information on Cavebound? Check out the release date (Mar 1, 2021), developer insights from Ariel Spry, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ariel Spry\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ariel Spry\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1522980/header.jpg?t=1614638182\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

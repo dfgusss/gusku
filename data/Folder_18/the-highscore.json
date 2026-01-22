@@ -1,0 +1,21 @@
+{
+    "AppID": 1055420,
+    "Name": "The Highscore",
+    "Release date": "Apr 30, 2019",
+    "About the game": "The Highscore is a non-stop action Shoot ‘em up with old school graphics in which you have to survive by defeating waves of enemies, accumulate points and reach the highest score possible. But to do so, you can only count on five lives, various powers and your own skill. You control a spaceship firing various types of lasers, depending on your progress in the game. Gain more firepower as you kill bosses, and collect special powers to deal more damage or protect yourself from the constant waves of enemies. The Highscore is a pure arcade game developped around the 'Die and Retry' concept. You shoot, you survive and you go as far as you can. When your life drops to zero, the game ends and your score is saved if your total number of points collected during the game exceeds your previous highscore.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1055420/header.jpg?t=1558369481",
+    "Price": 3.99,
+    "Developers": "Frederic Drago",
+    "Publishers": "Frederic Drago",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1055420/ss_7229d63d9264d0babfa0d4cf648fe191daf69df6.1920x1080.jpg?t=1558369481,https://cdn.akamai.steamstatic.com/steam/apps/1055420/ss_190cf0b44bdefbcc26e89e3c73fa9630bc74ef1e.1920x1080.jpg?t=1558369481,https://cdn.akamai.steamstatic.com/steam/apps/1055420/ss_d4157578fdb0cd9f832e24558b08401b1a5d83cc.1920x1080.jpg?t=1558369481,https://cdn.akamai.steamstatic.com/steam/apps/1055420/ss_37540d42341cac5af66eed5b0a5ffac70b0d4492.1920x1080.jpg?t=1558369481,https://cdn.akamai.steamstatic.com/steam/apps/1055420/ss_267272fe399f14c5c99cc0ee59d022da1683ee60.1920x1080.jpg?t=1558369481",
+    "Slug": "the-highscore",
+    "Meta Title": "The Highscore: Apr 30, 2019, Frederic Drago and Full Over...",
+    "Meta Description": "Looking for information on The Highscore? Check out the release date (Apr 30, 2019), developer insights from Frederic Drago, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Highscore game - Steam 1055420",
+    "Canonical URL": "https://gusku.site/game/the-highscore",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Highscore\", \"description\": \"Looking for information on The Highscore? Check out the release date (Apr 30, 2019), developer insights from Frederic Drago, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 30, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Frederic Drago\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Frederic Drago\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1055420/header.jpg?t=1558369481\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

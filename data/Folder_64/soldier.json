@@ -1,0 +1,21 @@
+{
+    "AppID": 2119420,
+    "Name": "Soldier",
+    "Release date": "Sep 1, 2022",
+    "About the game": "Juego para un jugador, de momento contiene 3 modos de juego, Modo Bomba, Modo Desafío y Modo Zombie. Corre, dispara y acaba con tus enemigos, Terroristas que quieren explotar una oficina, Zombies que buscan tu cerebro y un modo de juego que pondrá a prueba tu paciencia con trampas y salas en las que te preguntaras porque has entrado. -En el modo bomba, debéras encontrar las tarjetas de acceso para abrir las puertas, derrotar a todos los enemigos y encontrar la posición de la bomba para poder desactivarla antes de que esta explote. -En el modo desafío, deberás encontrar las tarjetas de acceso para abrir las puertas, superar las pruebas y enfrentarte a hordas de zombies, y enemigos aprovisionados de rifles y poco que perder. ¿podrás superar el modo desafío? -En el modo Zombie, solo estáis tu rifle y tú, no hay medicina, demuestra que eres el mejor eliminando a todos los zombies que puedas ¡Hazlos explotar con los barriles explosivos!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2119420/header.jpg?t=1662017230",
+    "Price": 5.99,
+    "Developers": "Oscar Orio Costoya,OCGames",
+    "Publishers": "Oscar Orio Costoya",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2119420/ss_fc21c3379e8a6d4675508c9ec76e724149e5fe5b.1920x1080.jpg?t=1662017230,https://cdn.akamai.steamstatic.com/steam/apps/2119420/ss_81ca9edc312d43c3c30dee29c2bb41071af1ce3c.1920x1080.jpg?t=1662017230,https://cdn.akamai.steamstatic.com/steam/apps/2119420/ss_f9e6faebe2f40cd7dd4e258fab896fdbd40e62cf.1920x1080.jpg?t=1662017230,https://cdn.akamai.steamstatic.com/steam/apps/2119420/ss_bd3414d1643851592bc9c0935d12432a8f645e84.1920x1080.jpg?t=1662017230,https://cdn.akamai.steamstatic.com/steam/apps/2119420/ss_ff67ca179c6a0b703780dcc670983123a86bb92f.1920x1080.jpg?t=1662017230",
+    "Slug": "soldier",
+    "Meta Title": "Soldier: Sep 1, 2022, Oscar Orio Costoya,OCGames and Full...",
+    "Meta Description": "Looking for information on Soldier? Check out the release date (Sep 1, 2022), developer insights from Oscar Orio Costoya,OCGames, and a complete game su...",
+    "Alt Text Image": "Official header image for Soldier game - Steam 2119420",
+    "Canonical URL": "https://gusku.site/game/soldier",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Soldier\", \"description\": \"Looking for information on Soldier? Check out the release date (Sep 1, 2022), developer insights from Oscar Orio Costoya,OCGames, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Oscar Orio Costoya,OCGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Oscar Orio Costoya\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2119420/header.jpg?t=1662017230\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

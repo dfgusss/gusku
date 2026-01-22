@@ -1,0 +1,21 @@
+{
+    "AppID": 1994810,
+    "Name": "MOMENTUM",
+    "Release date": "May 31, 2022",
+    "About the game": "MOMENTUM is a 2 KB high-score chaser. Avoid asteroids and use your nukes to get past tricky areas. Your score is NUKES concatenated with SCORE. Every 256 points you get is exchanged for another nuke. Your score is in hexadecimal. It's easy to learn. Instead of 0-9 there is 0-F starting with 0-9 then A-F. There are just 16 possible digits instead of 10. When you have F and you add 1 there's no more room so it becomes 10. In normal decimal adding 1 to 9 gives you 10 also but it's a different number. 10 in hexadecimal is 16, 100 is 16*16 (256), 1000 is 16*16*16 (4096) while in decimal it's 10's instead of 16's so it's the familiar value (10, 100, 1000.)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1994810/header.jpg?t=1657677392",
+    "Price": 4.99,
+    "Developers": "b1stable",
+    "Publishers": "b1stable",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1994810/ss_2a3cab04c207be7b7f14668d9b0ada88612893f9.1920x1080.jpg?t=1657677392,https://cdn.akamai.steamstatic.com/steam/apps/1994810/ss_ee21c1c5513f825800044aba435b7d5681561f6d.1920x1080.jpg?t=1657677392,https://cdn.akamai.steamstatic.com/steam/apps/1994810/ss_9157685ae04df872afe8cae0a49b9999a1318e81.1920x1080.jpg?t=1657677392,https://cdn.akamai.steamstatic.com/steam/apps/1994810/ss_9950920638b4b7c17b53c9f6127bc7b08f240304.1920x1080.jpg?t=1657677392,https://cdn.akamai.steamstatic.com/steam/apps/1994810/ss_63ef979dedd6035b11c37d2db6ef48b93ebb285e.1920x1080.jpg?t=1657677392",
+    "Slug": "momentum",
+    "Meta Title": "MOMENTUM: May 31, 2022, b1stable and Full Overview",
+    "Meta Description": "Looking for information on MOMENTUM? Check out the release date (May 31, 2022), developer insights from b1stable, and a complete game summary.",
+    "Alt Text Image": "Official header image for MOMENTUM game - Steam 1994810",
+    "Canonical URL": "https://gusku.site/game/momentum",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MOMENTUM\", \"description\": \"Looking for information on MOMENTUM? Check out the release date (May 31, 2022), developer insights from b1stable, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 31, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"b1stable\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"b1stable\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1994810/header.jpg?t=1657677392\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

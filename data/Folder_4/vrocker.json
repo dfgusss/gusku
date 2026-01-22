@@ -1,0 +1,21 @@
+{
+    "AppID": 1143750,
+    "Name": "VRocker",
+    "Release date": "Jun 18, 2020",
+    "About the game": "VRocker is a movement app that enables you to enjoy your VR games with more lifelike player movement. With VRocker you ‘walk’ or ‘run’ in games by moving your body without the need for any external gadgets. To move you can: Run In Place Sway Step Squat Rock Lunge How you move is up to you! How to use To use VRocker, simply start VRocker first and then the game of your choosing. VRocker runs parallel to other SteamVR games and overrides in-game joystick/pad ‘smooth locomotion’. The player can still use the game’s own movement as well, seamlessly changing between VRocker and in-game movement without a need to interrupt playing. Stay Active VRocker includes broad customization options to allow for a wide variety of play styles - from stepping or gentle swaying to jogging in place, doing squats or even lunges. You can fine-tune the movement ‘feel’ for your liking or you can choose one from the pre-defined options. You can also save user-defined presets for each game. VRocker’s intuitive tutorial will help to get you started! Motion Sickness There is some evidence that 'stepping' while moving in VR can reduced perceived motion sickness, and some users have reported back that using VRocker has helped them. Motion sickness varies from person to person but if you do suffer you can try the demo to see if VRocking helps Try the demo first You can test VRocker with any game using the demo * it runs for 120 seconds before a 20 second cool down period is set * The demo also includes a tutorial without limits so you can try the the various movement techniques yourself, as well as to see how it performs with the games you play. Some VR games might not combine well with VRocker, although it works well with most SteamVR games. If you own it, Half Life Alyx will give you a good idea of what VRocking is all about! Driver Note that upon installing VRocker, a SteamVR driver is also installed requiring SteamVR to restart. Discord If you are interested in helping with the development of VRocker please join the Discord Server: [/b] [/b]",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1143750/header.jpg?t=1620570774",
+    "Price": 10.99,
+    "Developers": "digitalsoulVR",
+    "Publishers": "digitalsoulVR",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1143750/ss_8a4e0b8eb044ea4770864f8c5d9290b8a514b8bc.1920x1080.jpg?t=1620570774,https://cdn.akamai.steamstatic.com/steam/apps/1143750/ss_fd6b54459b701cd5fa02c7624ab1ea42be1ff634.1920x1080.jpg?t=1620570774,https://cdn.akamai.steamstatic.com/steam/apps/1143750/ss_d0d5885c771d11f3d930b543e3a4e17ee5e993e6.1920x1080.jpg?t=1620570774,https://cdn.akamai.steamstatic.com/steam/apps/1143750/ss_d4f036eeb380c4253215d95af578626c157572a6.1920x1080.jpg?t=1620570774,https://cdn.akamai.steamstatic.com/steam/apps/1143750/ss_24b6cd3df5d00c68317ae7d4c3e6bdfc233f3ae0.1920x1080.jpg?t=1620570774",
+    "Slug": "vrocker",
+    "Meta Title": "VRocker: Jun 18, 2020, digitalsoulVR and Full Overview",
+    "Meta Description": "Looking for information on VRocker? Check out the release date (Jun 18, 2020), developer insights from digitalsoulVR, and a complete game summary.",
+    "Alt Text Image": "Official header image for VRocker game - Steam 1143750",
+    "Canonical URL": "https://gusku.site/game/vrocker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VRocker\", \"description\": \"Looking for information on VRocker? Check out the release date (Jun 18, 2020), developer insights from digitalsoulVR, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 18, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"digitalsoulVR\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"digitalsoulVR\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1143750/header.jpg?t=1620570774\", \"offers\": {\"@type\": \"Offer\", \"price\": 10.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

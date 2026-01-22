@@ -1,0 +1,21 @@
+{
+    "AppID": 729970,
+    "Name": "Dogma",
+    "Release date": "Nov 3, 2017",
+    "About the game": "Dogma is a 2d puzzle platformer with a unique grab and pivot mechanic. Take control of Jacko the dog as he travels through 6 different worlds to save his human friend. You'll need to be quick on your feet to get through the 60 levels full of puzzles and challenges to win!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/729970/header.jpg?t=1519239538",
+    "Price": 4.99,
+    "Developers": "Indispensable Studios",
+    "Publishers": "Indispensable Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/729970/ss_cc57db43bd16c4154097882d2f9d1456d217cf0c.1920x1080.jpg?t=1519239538,https://cdn.akamai.steamstatic.com/steam/apps/729970/ss_2d2744b6ef196b5848e7f3a242be54090682af47.1920x1080.jpg?t=1519239538,https://cdn.akamai.steamstatic.com/steam/apps/729970/ss_ce9a0111ec99ab79ac3793b33d976b61394919bf.1920x1080.jpg?t=1519239538,https://cdn.akamai.steamstatic.com/steam/apps/729970/ss_6d7895affa497d2aa27eb26fed04f35253994ac7.1920x1080.jpg?t=1519239538,https://cdn.akamai.steamstatic.com/steam/apps/729970/ss_096ecff7ba525f90b3c780034e6269dc2aa5f70f.1920x1080.jpg?t=1519239538,https://cdn.akamai.steamstatic.com/steam/apps/729970/ss_a8637ba95fc9f1fdc9c7e40e9b1f2c843cecc0f5.1920x1080.jpg?t=1519239538,https://cdn.akamai.steamstatic.com/steam/apps/729970/ss_6293568271041031c75a93f363025d6e1a144f73.1920x1080.jpg?t=1519239538",
+    "Slug": "dogma",
+    "Meta Title": "Dogma: Nov 3, 2017, Indispensable Studios and Full Overview",
+    "Meta Description": "Looking for information on Dogma? Check out the release date (Nov 3, 2017), developer insights from Indispensable Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dogma game - Steam 729970",
+    "Canonical URL": "https://gusku.site/game/dogma",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dogma\", \"description\": \"Looking for information on Dogma? Check out the release date (Nov 3, 2017), developer insights from Indispensable Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 3, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Indispensable Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Indispensable Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/729970/header.jpg?t=1519239538\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

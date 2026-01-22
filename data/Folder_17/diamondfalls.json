@@ -1,0 +1,21 @@
+{
+    "AppID": 718840,
+    "Name": "DiamondFalls",
+    "Release date": "Oct 10, 2017",
+    "About the game": "DiamondFalls like tetris-match-3 type puzzle game designed for puzzle fans. The goal of the game is to solve the puzzle in such a way that there should be a possibility to collect all same colored diamonds and balls in the certain order on the level. The puzzle consists of many interacting objects, which can change their state depending on some influence or different game situation. Diamonds, balls, stones and bombs fall down under gravitation influence and time for all these operations is limited. Enthralling and advanced logic levels, elaborated interface and various visual and sound effects will bring you a lot of pleasure!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/718840/header.jpg?t=1646766357",
+    "Price": 9.99,
+    "Developers": "GraphXGames",
+    "Publishers": "GraphXGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/718840/ss_ff819a9bbb002f0bb06d092bd14631a61c8e9b13.1920x1080.jpg?t=1646766357,https://cdn.akamai.steamstatic.com/steam/apps/718840/ss_b0e45cd29b75d2f5c2aaf618607ce0367f978687.1920x1080.jpg?t=1646766357,https://cdn.akamai.steamstatic.com/steam/apps/718840/ss_828d2f5cdd9478dd4aeda8ab9124d2dfd6c6326e.1920x1080.jpg?t=1646766357,https://cdn.akamai.steamstatic.com/steam/apps/718840/ss_e4fab9116e1c464a70ee1d76b198d2514ed7696d.1920x1080.jpg?t=1646766357,https://cdn.akamai.steamstatic.com/steam/apps/718840/ss_a94859758abd0718218515ad4a42badca05f7d8d.1920x1080.jpg?t=1646766357",
+    "Slug": "diamondfalls",
+    "Meta Title": "DiamondFalls: Oct 10, 2017, GraphXGames and Full Overview",
+    "Meta Description": "Looking for information on DiamondFalls? Check out the release date (Oct 10, 2017), developer insights from GraphXGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for DiamondFalls game - Steam 718840",
+    "Canonical URL": "https://gusku.site/game/diamondfalls",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DiamondFalls\", \"description\": \"Looking for information on DiamondFalls? Check out the release date (Oct 10, 2017), developer insights from GraphXGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 10, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"GraphXGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"GraphXGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/718840/header.jpg?t=1646766357\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

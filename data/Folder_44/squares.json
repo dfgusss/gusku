@@ -1,0 +1,21 @@
+{
+    "AppID": 786750,
+    "Name": "Squares",
+    "Release date": "Jan 31, 2018",
+    "About the game": "Squares is a puzzle game in which you have to put everything in its place. You need to arrange the colored squares from the initial position to the position marked with colored stars for each color of square, appropriately. To pass the level you need to make every square be on the cell with the star of its color. To complicate passage of levels will varied mechanics: teleports, cells changing the direction of movement, and cells that change color of the square.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/786750/header.jpg?t=1517405472",
+    "Price": 0.99,
+    "Developers": "Mikhail Melnikov",
+    "Publishers": "Mikhail Melnikov",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/786750/ss_eb800655bb6077a8080ae1468abad2d20fdadff5.1920x1080.jpg?t=1517405472,https://cdn.akamai.steamstatic.com/steam/apps/786750/ss_fa3d2e15b579600945965c42befa839bafe9e9b8.1920x1080.jpg?t=1517405472,https://cdn.akamai.steamstatic.com/steam/apps/786750/ss_59e4b277872b0d01c386e75fcd669bb1cad0ad0f.1920x1080.jpg?t=1517405472,https://cdn.akamai.steamstatic.com/steam/apps/786750/ss_0afdad633ecc04dfdb399d0370a242128e11423d.1920x1080.jpg?t=1517405472,https://cdn.akamai.steamstatic.com/steam/apps/786750/ss_31d44195caa6a3356dfb62e5a623b8dbcbe72d85.1920x1080.jpg?t=1517405472,https://cdn.akamai.steamstatic.com/steam/apps/786750/ss_1c2bf7687b7b2845fa611a24925863bb63d8b5d4.1920x1080.jpg?t=1517405472",
+    "Slug": "squares",
+    "Meta Title": "Squares: Jan 31, 2018, Mikhail Melnikov and Full Overview",
+    "Meta Description": "Looking for information on Squares? Check out the release date (Jan 31, 2018), developer insights from Mikhail Melnikov, and a complete game summary.",
+    "Alt Text Image": "Official header image for Squares game - Steam 786750",
+    "Canonical URL": "https://gusku.site/game/squares",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Squares\", \"description\": \"Looking for information on Squares? Check out the release date (Jan 31, 2018), developer insights from Mikhail Melnikov, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 31, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mikhail Melnikov\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mikhail Melnikov\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/786750/header.jpg?t=1517405472\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

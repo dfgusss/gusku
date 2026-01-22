@@ -1,0 +1,21 @@
+{
+    "AppID": 1383410,
+    "Name": "Gravitaze: One",
+    "Release date": "Aug 24, 2020",
+    "About the game": "Gravitaze is a minimalist puzzle whose objective is to make the circle reach the center of the maze, changing the gravity of the circle and rotating the maze. make the circle reach the center of the maze. use space key to chage circle gravity, use left key and right key to rotate the maze. finish all mazes",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1383410/header.jpg?t=1625193097",
+    "Price": 0.99,
+    "Developers": "Double E",
+    "Publishers": "Double E",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1383410/ss_cdcfda05522298fd61e4cc104d7d04070455b340.1920x1080.jpg?t=1625193097,https://cdn.akamai.steamstatic.com/steam/apps/1383410/ss_b9a8c72c2ac0663b9673d310bd72e9856f69db9e.1920x1080.jpg?t=1625193097,https://cdn.akamai.steamstatic.com/steam/apps/1383410/ss_ce8662f5dd230249acf2eeabeed018dd922f527b.1920x1080.jpg?t=1625193097,https://cdn.akamai.steamstatic.com/steam/apps/1383410/ss_6f10836a7a8018ffb7dfa73b1144d08722202ed0.1920x1080.jpg?t=1625193097,https://cdn.akamai.steamstatic.com/steam/apps/1383410/ss_f017879f5ee93e5cbb053c27c3b0e41ea4bee8e4.1920x1080.jpg?t=1625193097",
+    "Slug": "gravitaze-one",
+    "Meta Title": "Gravitaze: One: Aug 24, 2020, Double E and Full Overview",
+    "Meta Description": "Looking for information on Gravitaze: One? Check out the release date (Aug 24, 2020), developer insights from Double E, and a complete game summary.",
+    "Alt Text Image": "Official header image for Gravitaze: One game - Steam 1383410",
+    "Canonical URL": "https://gusku.site/game/gravitaze-one",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Gravitaze: One\", \"description\": \"Looking for information on Gravitaze: One? Check out the release date (Aug 24, 2020), developer insights from Double E, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 24, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Double E\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Double E\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1383410/header.jpg?t=1625193097\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

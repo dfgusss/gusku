@@ -1,0 +1,21 @@
+{
+    "AppID": 2241410,
+    "Name": "Chex",
+    "Release date": "Jan 21, 2023",
+    "About the game": "Welcome to Chex, an exciting new twist on the classic strategy game of chess! In this thrilling game, you'll need to use all of your cunning and strategy to outwit your opponent on the hexagonal board. Each player starts with a set of pieces, each with their own special abilities and movement patterns. You'll need to carefully plan your moves and anticipate your opponent's actions in order to capture their pieces and emerge victorious. But beware! The hexagonal board introduces new challenges and opportunities for your pieces. Diagonal lines of attack are now a possibility, and you'll need to think creatively to navigate the curved borders of the board. Do you have what it takes to become the ultimate hexagonal chess master? Play Chex now and find out! -- ChatGPT Features included: * Gliński's hexagonal chess variant * Undo by pressing 'Z' * Win/Loose by a king's death!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2241410/header.jpg?t=1674323155",
+    "Price": 0.0,
+    "Developers": "KonsolKongen,JayJay",
+    "Publishers": "Stuen",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2241410/ss_d9bfd326da3623eccac4427bfcf5a3cabf535ec5.1920x1080.jpg?t=1674323155,https://cdn.akamai.steamstatic.com/steam/apps/2241410/ss_345c4074ef54f6cd5c76064d8afd52ed5aa60043.1920x1080.jpg?t=1674323155,https://cdn.akamai.steamstatic.com/steam/apps/2241410/ss_f9eb92d55e18d802a4fb1cfd6528b65f8d731705.1920x1080.jpg?t=1674323155,https://cdn.akamai.steamstatic.com/steam/apps/2241410/ss_25d4e86dafda971a4b8694d5107d63b303302e12.1920x1080.jpg?t=1674323155,https://cdn.akamai.steamstatic.com/steam/apps/2241410/ss_071cec9854c737711d559e581df01e21a41da4b6.1920x1080.jpg?t=1674323155",
+    "Slug": "chex",
+    "Meta Title": "Chex: Jan 21, 2023, KonsolKongen,JayJay and Full Overview",
+    "Meta Description": "Looking for information on Chex? Check out the release date (Jan 21, 2023), developer insights from KonsolKongen,JayJay, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chex game - Steam 2241410",
+    "Canonical URL": "https://gusku.site/game/chex",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chex\", \"description\": \"Looking for information on Chex? Check out the release date (Jan 21, 2023), developer insights from KonsolKongen,JayJay, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 21, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"KonsolKongen,JayJay\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Stuen\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2241410/header.jpg?t=1674323155\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

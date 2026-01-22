@@ -1,0 +1,21 @@
+{
+    "AppID": 454430,
+    "Name": "Crystal Chip Collector",
+    "Release date": "Mar 21, 2016",
+    "About the game": "A fast puzzle platformer where the goal is to 'optimize' a computer full of redundant parts (who put them there?). Taking place within a crammed and hopelessly messy computer, the game follows a good spirit in his fight for restoring balance. Includes five polarity based worlds (ten levels each) plus a tutorial. Each room usually has an 'optimal' solution but there are multiple solutions to each puzzle. Upon beating the last room in each level, the next world unlocks. The progress is saved automatically. Controls (ingame): Joypad is autodetected. Keyboard (customizable): cursor keys to move, 'X' to select / jump, 'space' for 'Start'. Controls (system): Esc to exit game. Tab+Space resets the game to opening. F4 to switch between windowed / fullscreen. Redefine the controls in the windowed mode (menu 'Settings'). Please see about.txt for additional information. This game requires DirectX9.0c (Windows 10 usually has it). In case it is not already installed, it can be obtained from the Microsoft page: -us/download/details.aspx?id=8109 more info here: -us/windows/forum/games_windows_10/windows-10-and-dirextx-90c/b116744d-73da-41e6-97ba-031212bf2606?auth=1",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/454430/header.jpg?t=1458784048",
+    "Price": 4.99,
+    "Developers": "Nekomura Games",
+    "Publishers": "Nekomura Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/454430/ss_91347f9dbb273f4eed18a010544ec6d26db976b5.1920x1080.jpg?t=1458784048,https://cdn.akamai.steamstatic.com/steam/apps/454430/ss_f79b0e32b8114f74fbfcfd2d60a9679a4e8cf5f7.1920x1080.jpg?t=1458784048,https://cdn.akamai.steamstatic.com/steam/apps/454430/ss_0c537c6791cb3b10f4330e61f6fb73779a955060.1920x1080.jpg?t=1458784048,https://cdn.akamai.steamstatic.com/steam/apps/454430/ss_06adf5ec4daae7240af58d52f4aef0eac6b89eec.1920x1080.jpg?t=1458784048,https://cdn.akamai.steamstatic.com/steam/apps/454430/ss_14e6b47ea60f1dc4ead3cbded5b6d0433872fa2a.1920x1080.jpg?t=1458784048,https://cdn.akamai.steamstatic.com/steam/apps/454430/ss_9839d290af6070f04ebf4d7f4f3f97fb2a2cc19d.1920x1080.jpg?t=1458784048",
+    "Slug": "crystal-chip-collector",
+    "Meta Title": "Crystal Chip Collector: Mar 21, 2016, Nekomura Games and ...",
+    "Meta Description": "Looking for information on Crystal Chip Collector? Check out the release date (Mar 21, 2016), developer insights from Nekomura Games, and a complete gam...",
+    "Alt Text Image": "Official header image for Crystal Chip Collector game - Steam 454430",
+    "Canonical URL": "https://gusku.site/game/crystal-chip-collector",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Crystal Chip Collector\", \"description\": \"Looking for information on Crystal Chip Collector? Check out the release date (Mar 21, 2016), developer insights from Nekomura Games, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 21, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nekomura Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nekomura Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/454430/header.jpg?t=1458784048\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

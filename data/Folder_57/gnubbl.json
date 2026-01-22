@@ -1,0 +1,21 @@
+{
+    "AppID": 1012670,
+    "Name": "Gnubbl",
+    "Release date": "Dec 31, 2019",
+    "About the game": "A casual game to get the ball to the goal. You need to avoid lasers and turrets, think of a good way across the level and dont miss your timing.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1012670/header.jpg?t=1577838948",
+    "Price": 0.99,
+    "Developers": "Sadillac",
+    "Publishers": "Sadillac",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1012670/ss_83d6ce431c4d834dbf865839314f99d9481467d9.1920x1080.jpg?t=1577838948,https://cdn.akamai.steamstatic.com/steam/apps/1012670/ss_68b947aedce85ebc2f56b2c5756ee1182d803f9d.1920x1080.jpg?t=1577838948,https://cdn.akamai.steamstatic.com/steam/apps/1012670/ss_80e2c0bd13a5a0de7deb11efe0775b5244ce7037.1920x1080.jpg?t=1577838948,https://cdn.akamai.steamstatic.com/steam/apps/1012670/ss_7c7d12411f164f229cb880d0da40e08a990369ab.1920x1080.jpg?t=1577838948,https://cdn.akamai.steamstatic.com/steam/apps/1012670/ss_dc6d65a1535927a1c3c5bdcc969ff00c316df091.1920x1080.jpg?t=1577838948",
+    "Slug": "gnubbl",
+    "Meta Title": "Gnubbl: Dec 31, 2019, Sadillac and Full Overview",
+    "Meta Description": "Looking for information on Gnubbl? Check out the release date (Dec 31, 2019), developer insights from Sadillac, and a complete game summary.",
+    "Alt Text Image": "Official header image for Gnubbl game - Steam 1012670",
+    "Canonical URL": "https://gusku.site/game/gnubbl",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Gnubbl\", \"description\": \"Looking for information on Gnubbl? Check out the release date (Dec 31, 2019), developer insights from Sadillac, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 31, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sadillac\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sadillac\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1012670/header.jpg?t=1577838948\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 628530,
+    "Name": "Blobby Tennis",
+    "Release date": "May 12, 2017",
+    "About the game": "In Blobby Tennis you are standing in a relaxing beach scene, controlling a tennis racket and ball. You can do tricks, play the ball back and forth over the net with Blobby or outplay him to score points. Because beach sand isn't very bouncy this is obviously no real tennis, but open ended play with a ball without fixed rules or goals.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/628530/header.jpg?t=1503866341",
+    "Price": 0.0,
+    "Developers": "SlinDev",
+    "Publishers": "SlinDev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/628530/ss_6783f551048f7dac9965739f359ff7669692861e.1920x1080.jpg?t=1503866341,https://cdn.akamai.steamstatic.com/steam/apps/628530/ss_547bccd6e0d79b8928c4184245c9da7dc0883371.1920x1080.jpg?t=1503866341,https://cdn.akamai.steamstatic.com/steam/apps/628530/ss_9d659978cef719bace55c36e64c71a583a8b813a.1920x1080.jpg?t=1503866341,https://cdn.akamai.steamstatic.com/steam/apps/628530/ss_15952038472511829b61afaa1e815b63c0214f6f.1920x1080.jpg?t=1503866341,https://cdn.akamai.steamstatic.com/steam/apps/628530/ss_3b2c98ec1532bd28a90c5b9f52dc30155086eca5.1920x1080.jpg?t=1503866341",
+    "Slug": "blobby-tennis",
+    "Meta Title": "Blobby Tennis: May 12, 2017, SlinDev and Full Overview",
+    "Meta Description": "Looking for information on Blobby Tennis? Check out the release date (May 12, 2017), developer insights from SlinDev, and a complete game summary.",
+    "Alt Text Image": "Official header image for Blobby Tennis game - Steam 628530",
+    "Canonical URL": "https://gusku.site/game/blobby-tennis",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Blobby Tennis\", \"description\": \"Looking for information on Blobby Tennis? Check out the release date (May 12, 2017), developer insights from SlinDev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 12, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"SlinDev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SlinDev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/628530/header.jpg?t=1503866341\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

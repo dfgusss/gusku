@@ -1,0 +1,21 @@
+{
+    "AppID": 1952760,
+    "Name": "RGB Rush",
+    "Release date": "Apr 20, 2022",
+    "About the game": "Given a random colour, how accurately can you recreate it with sliders or type it in? RGB rush allows you to develop your colour defining abilities. Colour spaces: The following colour spaces are available to practice in. These are all the different ways you are able to assemble a colour from individual components. CMYK - Sort by cyan, magenta, yellow and key - used in printing. HSV - Sort by colour, intensity and brightness. RGB - Sort by red, green and blue - The actual colours your pixels emit HEX single - Practice understanding base 16. HEX - Same as RGB, except letters can be numbers too. Accuracy The higher your accuracy, the better your score will be. Can you keep it above 98%? Reports Measure your colour ability with graphs that show your strengths and weaknesses on an individual channel basis. Perhaps you're better at distinguishing different blues, or perhaps your monitor has low contrast in green? Gamemodes: Practice - Go at your own pace, get familiar with how the colours work. Blindfolded - You cannot see your colour until you submit it. Timed - You’re on the clock. Only guesses with an accuracy of 90% or higher reset the clock. Example use cases: - Prototyping - Website design - Photo editing - Digital art - Show off at an interview - Impress your crush",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1952760/header.jpg?t=1653658696",
+    "Price": 5.99,
+    "Developers": "Follow The Fun",
+    "Publishers": "Follow The Fun",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1952760/ss_57f7c6abd3d23b5c49b04d1601f02aa706b4a3c8.1920x1080.jpg?t=1653658696,https://cdn.akamai.steamstatic.com/steam/apps/1952760/ss_ea15ec9e54ccb7d1f441a97f65707c815b7f58ec.1920x1080.jpg?t=1653658696,https://cdn.akamai.steamstatic.com/steam/apps/1952760/ss_675c0ef2585b4672a6759b6dfca94e9e116078aa.1920x1080.jpg?t=1653658696,https://cdn.akamai.steamstatic.com/steam/apps/1952760/ss_52aa065311889c041dcfbe8e874759d9a4dabdac.1920x1080.jpg?t=1653658696,https://cdn.akamai.steamstatic.com/steam/apps/1952760/ss_3d8c5e8d0814c9d0aee3f86f853c179da4c1448b.1920x1080.jpg?t=1653658696,https://cdn.akamai.steamstatic.com/steam/apps/1952760/ss_af982d280f1d80d21eacd016be172353ff5a7508.1920x1080.jpg?t=1653658696",
+    "Slug": "rgb-rush",
+    "Meta Title": "RGB Rush: Apr 20, 2022, Follow The Fun and Full Overview",
+    "Meta Description": "Looking for information on RGB Rush? Check out the release date (Apr 20, 2022), developer insights from Follow The Fun, and a complete game summary.",
+    "Alt Text Image": "Official header image for RGB Rush game - Steam 1952760",
+    "Canonical URL": "https://gusku.site/game/rgb-rush",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RGB Rush\", \"description\": \"Looking for information on RGB Rush? Check out the release date (Apr 20, 2022), developer insights from Follow The Fun, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Follow The Fun\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Follow The Fun\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1952760/header.jpg?t=1653658696\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

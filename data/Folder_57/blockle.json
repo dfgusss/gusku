@@ -1,0 +1,21 @@
+{
+    "AppID": 632510,
+    "Name": "Blockle",
+    "Release date": "May 8, 2017",
+    "About the game": "Blockle is multiplayer physics-based tower dismantling game. Each turn, you must carefully remove a block without causing the whole tower to come crashing down. The last player to successfully remove a block without the tower falling is the winner! Features Physics-based gameplay Throw blocks around, get drunk, and flip off your friends Online and local multiplayer, up to 6 players Controller support (may require official or third party drivers) Online multiplayer population may be low. Bring your own friends!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/632510/header.jpg?t=1494291194",
+    "Price": 4.99,
+    "Developers": "David Schneider",
+    "Publishers": "David Schneider",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/632510/ss_5c90fa7d238de569e36a59ad396a1e75dc3cd78c.1920x1080.jpg?t=1494291194,https://cdn.akamai.steamstatic.com/steam/apps/632510/ss_a1fda42295abb3fb73c2a392c6ab89827ca06720.1920x1080.jpg?t=1494291194,https://cdn.akamai.steamstatic.com/steam/apps/632510/ss_ad8d9bbc62f34da6aea0059d40836417d85669b7.1920x1080.jpg?t=1494291194,https://cdn.akamai.steamstatic.com/steam/apps/632510/ss_72050ae033fe7ef49a83e6591464492e3810254c.1920x1080.jpg?t=1494291194,https://cdn.akamai.steamstatic.com/steam/apps/632510/ss_9d72166e26b4c35e300ac42c92d7ea429d0608b9.1920x1080.jpg?t=1494291194",
+    "Slug": "blockle",
+    "Meta Title": "Blockle: May 8, 2017, David Schneider and Full Overview",
+    "Meta Description": "Looking for information on Blockle? Check out the release date (May 8, 2017), developer insights from David Schneider, and a complete game summary.",
+    "Alt Text Image": "Official header image for Blockle game - Steam 632510",
+    "Canonical URL": "https://gusku.site/game/blockle",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Blockle\", \"description\": \"Looking for information on Blockle? Check out the release date (May 8, 2017), developer insights from David Schneider, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 8, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"David Schneider\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"David Schneider\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/632510/header.jpg?t=1494291194\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

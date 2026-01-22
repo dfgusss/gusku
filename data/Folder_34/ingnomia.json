@@ -1,0 +1,21 @@
+{
+    "AppID": 709240,
+    "Name": "Ingnomia",
+    "Release date": "Aug 23, 2018",
+    "About the game": "Ingnomia started out as an independent remake of the older Gnomoria colony simulator, from which it was permitted to borrow some of the assets. While the graphics look similar, all of the engine was rewritten from scratch. Compared to the reference, Ingnomias engine scales significantly better with large colonies. In terms of features, balancing, user interface design etc. Ingnomia has since given its own spin to many of the core game elements. While already in a playable state, it's still under heavy development and truly, by all means, 'Early Access'. Not all game components have been implemented yet and some bugs are to be expected. Ingnomia is a pure hobby project, and true free-to-play. With 'free' spelled as in 'free beer'. Ingnomia uses some of the sprite assets of Gnomoria by permission of Robotronic Games.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/709240/header.jpg?t=1623593489",
+    "Price": 0.0,
+    "Developers": "Roest",
+    "Publishers": "Roest",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/709240/ss_6d9046e769bf0f2f93d4c2c1335f3b604b6ad0e8.1920x1080.jpg?t=1623593489,https://cdn.akamai.steamstatic.com/steam/apps/709240/ss_9196434c1d3670e9a0cc106aa7ab4c6f8b923fb5.1920x1080.jpg?t=1623593489,https://cdn.akamai.steamstatic.com/steam/apps/709240/ss_8353d5bd8a1a83446fd6be48a7c6dc6a38d0093f.1920x1080.jpg?t=1623593489,https://cdn.akamai.steamstatic.com/steam/apps/709240/ss_a5e545baefbb57bbc43f285f347c2413b7a8a984.1920x1080.jpg?t=1623593489,https://cdn.akamai.steamstatic.com/steam/apps/709240/ss_aadce6378e2734377afdbe434cac23942535b8f9.1920x1080.jpg?t=1623593489",
+    "Slug": "ingnomia",
+    "Meta Title": "Ingnomia: Aug 23, 2018, Roest and Full Overview",
+    "Meta Description": "Looking for information on Ingnomia? Check out the release date (Aug 23, 2018), developer insights from Roest, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ingnomia game - Steam 709240",
+    "Canonical URL": "https://gusku.site/game/ingnomia",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ingnomia\", \"description\": \"Looking for information on Ingnomia? Check out the release date (Aug 23, 2018), developer insights from Roest, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 23, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Roest\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Roest\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/709240/header.jpg?t=1623593489\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

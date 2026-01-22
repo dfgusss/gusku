@@ -1,0 +1,21 @@
+{
+    "AppID": 691250,
+    "Name": "Charlie the Duck",
+    "Release date": "Sep 22, 2017",
+    "About the game": "Charlie the Duck is an old school 2D side-scrolling platform game. Run through levels, collect coins, diamonds and other power ups. Jump on top of enemies to defeat them. Dive into the water to find hidden areas! This is a complete remake of the PC version originally released in 1996 for MS-DOS. The game is nearly identical, but some small changes have been made. This version does not use separate buttons to walk slower or faster, some levels were modified a bit to make everything work well with the constant walking speed. Also, there have been some small changes to make the game a little easier and less frustrating. And now there is also background music! [Left] and [Right]: walk [Up] / [Space]: jump [Down]: in some places Charlie can dive into the water",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/691250/header.jpg?t=1543796805",
+    "Price": 6.99,
+    "Developers": "Mike Wiering",
+    "Publishers": "Wiering Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_42cb99b651fba5c9715ccbe1c67dcfd645930a80.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_55276968ee321f187ef68323b2a7443e129069ac.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_9fdd10463f3a272e036d1d560ed72041a1e6082c.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_3a4e99318b22f4ee1d5563e523a5652eb4d814db.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_dd553bccf215253b5f0ca198deb51e705b7ac06b.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_bd0f3106c64625068175f251c456898527e857a4.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_a6f1a5eef6915f20adbb2775577bdb0e323641c6.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_65500fd6786daa5eb27ed38db0fef27839f87ae3.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_e13e2d748b2527a3529c53d2e64ac4c360595e47.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_5ce5646041dab6016b5c66820f2d65876734f163.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_af3e84ecf04bea4d4113ae71e44c3fa0954e09c2.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_3c3cd8062aea7a86e9baf5fe2aa3214e99a0e885.1920x1080.jpg?t=1543796805,https://cdn.akamai.steamstatic.com/steam/apps/691250/ss_d06b8d3c8a039919c92e4bf9c87d9a2fce8a411f.1920x1080.jpg?t=1543796805",
+    "Slug": "charlie-the-duck",
+    "Meta Title": "Charlie the Duck: Sep 22, 2017, Mike Wiering and Full Ove...",
+    "Meta Description": "Looking for information on Charlie the Duck? Check out the release date (Sep 22, 2017), developer insights from Mike Wiering, and a complete game summary.",
+    "Alt Text Image": "Official header image for Charlie the Duck game - Steam 691250",
+    "Canonical URL": "https://gusku.site/game/charlie-the-duck",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Charlie the Duck\", \"description\": \"Looking for information on Charlie the Duck? Check out the release date (Sep 22, 2017), developer insights from Mike Wiering, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 22, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mike Wiering\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Wiering Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/691250/header.jpg?t=1543796805\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

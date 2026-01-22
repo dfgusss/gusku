@@ -1,0 +1,21 @@
+{
+    "AppID": 1255300,
+    "Name": "Space Sergeants",
+    "Release date": "Mar 24, 2020",
+    "About the game": "Single-player first-person shooter, fight against crazy bots and get to the enemy base to survive and remain the winner in this battle.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1255300/header.jpg?t=1585085697",
+    "Price": 0.99,
+    "Developers": "EV",
+    "Publishers": "EV",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1255300/ss_4bc2dad8ee0b460d23cc380908d5b66a9c9b635a.1920x1080.jpg?t=1585085697,https://cdn.akamai.steamstatic.com/steam/apps/1255300/ss_ef0d518872784bc48f6a150ec3ef4796976d7fc5.1920x1080.jpg?t=1585085697,https://cdn.akamai.steamstatic.com/steam/apps/1255300/ss_e8a6592ae27ded26e7c5efb1552da95b2238f2a6.1920x1080.jpg?t=1585085697,https://cdn.akamai.steamstatic.com/steam/apps/1255300/ss_46d275c09d18d31e762222a7c4b17a41efd97dae.1920x1080.jpg?t=1585085697,https://cdn.akamai.steamstatic.com/steam/apps/1255300/ss_8da14091d38dc1d32dab2a4e715ee7bbf8568f83.1920x1080.jpg?t=1585085697",
+    "Slug": "space-sergeants",
+    "Meta Title": "Space Sergeants: Mar 24, 2020, EV and Full Overview",
+    "Meta Description": "Looking for information on Space Sergeants? Check out the release date (Mar 24, 2020), developer insights from EV, and a complete game summary.",
+    "Alt Text Image": "Official header image for Space Sergeants game - Steam 1255300",
+    "Canonical URL": "https://gusku.site/game/space-sergeants",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Space Sergeants\", \"description\": \"Looking for information on Space Sergeants? Check out the release date (Mar 24, 2020), developer insights from EV, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 24, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"EV\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"EV\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1255300/header.jpg?t=1585085697\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

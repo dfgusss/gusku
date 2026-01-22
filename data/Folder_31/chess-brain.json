@@ -1,0 +1,21 @@
+{
+    "AppID": 1404190,
+    "Name": "Chess Brain",
+    "Release date": "Sep 8, 2020",
+    "About the game": "Chess Brain is a chess puzzle game. The King must reach the destination. Draw the correct path and don't let it get killed by the opposite pieces! Every second all the pieces will move! Solve 30 puzzles! Some may be simple, but others will make you think about every second ahead! The correct path will take you to the destination point! Do you know the correct path?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1404190/header.jpg?t=1621027485",
+    "Price": 0.99,
+    "Developers": "Caio Flavio",
+    "Publishers": "Caio Flavio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1404190/ss_978970ff9534b6387bc542ee14c388cc18a6218e.1920x1080.jpg?t=1621027485,https://cdn.akamai.steamstatic.com/steam/apps/1404190/ss_18d7a093b36ff1c2458b16ce22f0df7e04931424.1920x1080.jpg?t=1621027485,https://cdn.akamai.steamstatic.com/steam/apps/1404190/ss_0673f9b1056d07850173a839e3c9d503bbe7bf81.1920x1080.jpg?t=1621027485,https://cdn.akamai.steamstatic.com/steam/apps/1404190/ss_15ca887ae2299cddf286fd213450e1744517c397.1920x1080.jpg?t=1621027485,https://cdn.akamai.steamstatic.com/steam/apps/1404190/ss_ee39979033dfbf661120386ebcb4dc1f4ba89441.1920x1080.jpg?t=1621027485",
+    "Slug": "chess-brain",
+    "Meta Title": "Chess Brain: Sep 8, 2020, Caio Flavio and Full Overview",
+    "Meta Description": "Looking for information on Chess Brain? Check out the release date (Sep 8, 2020), developer insights from Caio Flavio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chess Brain game - Steam 1404190",
+    "Canonical URL": "https://gusku.site/game/chess-brain",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chess Brain\", \"description\": \"Looking for information on Chess Brain? Check out the release date (Sep 8, 2020), developer insights from Caio Flavio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 8, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Caio Flavio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Caio Flavio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1404190/header.jpg?t=1621027485\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

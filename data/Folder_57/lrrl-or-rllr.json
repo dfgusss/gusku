@@ -1,0 +1,21 @@
+{
+    "AppID": 1201520,
+    "Name": "LRRL or RLLR",
+    "Release date": "Jun 30, 2020",
+    "About the game": "Must be symmetric, To all those who think so. LRRL or RLLR is a puzzle game in which you enjoy increasing your score by choosing left or right according to one recursive rule. You can enjoy it as long as you don't make the wrong choice. All choices are divided to the left or right when you start, and either contains all of your later choices. If you start from the left, consider the left-right-right-left as one left and complete the next left-right-right-left. Repeat this process. e.g. LRRL-RLLR-RLLR-LRRL... LRRLRLLRRLLRLRRL-RLLRLRRLLRRLRLLR-RLLRLRRLLRRLRLLR-LRRLRLLRRLLRLRRL... If you start from the right, consider the right-left-left-right as one right and complete the next right-left-left-right. Repeat this process. e.g. RLLR-LRRL-LRRL-RLLR... RLLRLRRLLRRLRLLR-LRRLRLLRRLLRLRRL-LRRLRLLRRLLRLRRL-RLLRLRRLLRRLRLLR... You can keep correcting choice bias. Please make your choice. Left or Right.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1201520/header.jpg?t=1593529862",
+    "Price": 3.0,
+    "Developers": "talalilulalilula",
+    "Publishers": "talalilulalilula",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1201520/ss_a6d433ae27b72600102947b12a5f2adf86443633.1920x1080.jpg?t=1593529862,https://cdn.akamai.steamstatic.com/steam/apps/1201520/ss_5dfbdebc5d3da17165d5f2d16c0ae8cac78fff4b.1920x1080.jpg?t=1593529862,https://cdn.akamai.steamstatic.com/steam/apps/1201520/ss_55841c7d7e946d13cec905ba1a067cfa82825cec.1920x1080.jpg?t=1593529862,https://cdn.akamai.steamstatic.com/steam/apps/1201520/ss_4e31363f6e9268866ff2108d8fe87b8f0d5db936.1920x1080.jpg?t=1593529862,https://cdn.akamai.steamstatic.com/steam/apps/1201520/ss_4ae13298d1ec2877b80f88d6c3a6e39b972bd844.1920x1080.jpg?t=1593529862,https://cdn.akamai.steamstatic.com/steam/apps/1201520/ss_5ee19fa336fb38e1004da4fb8b147e928085493d.1920x1080.jpg?t=1593529862",
+    "Slug": "lrrl-or-rllr",
+    "Meta Title": "LRRL or RLLR: Jun 30, 2020, talalilulalilula and Full Ove...",
+    "Meta Description": "Looking for information on LRRL or RLLR? Check out the release date (Jun 30, 2020), developer insights from talalilulalilula, and a complete game summary.",
+    "Alt Text Image": "Official header image for LRRL or RLLR game - Steam 1201520",
+    "Canonical URL": "https://gusku.site/game/lrrl-or-rllr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"LRRL or RLLR\", \"description\": \"Looking for information on LRRL or RLLR? Check out the release date (Jun 30, 2020), developer insights from talalilulalilula, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 30, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"talalilulalilula\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"talalilulalilula\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1201520/header.jpg?t=1593529862\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

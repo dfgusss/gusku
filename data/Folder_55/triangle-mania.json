@@ -1,0 +1,21 @@
+{
+    "AppID": 1062390,
+    "Name": "Triangle Mania",
+    "Release date": "May 17, 2019",
+    "About the game": "An original satisfying puzzle game with lots of strategies to discover once you get over the initial small learning hump and mind bendingness. We're not kidding on lots of strategies involved. There are a lot of things going through your head when you play it and its exactly what an action/twitch/reflex puzzle game should be. You gotta think on your feet and it's fun and addicting. There's just a small learning curve to get over. The first tricky part is learning how to score. You need 3 of the same colored triangles facing up and forming a triangle or 3 of the same colored triangles facing down and forming a triangle. I know this explanation does not fully explain, so check the pictures and youtube. It is okay to not get it the first few runs and be frustrated, that feeling passes and fun rushes in if you stick with it for a few minutes. Here is an example of a Tri being solved: There is a blue up falling into two blue ups on the right and left. The color in the middle(green) is irrelevant for the blue to being scored. The middle color has purpose, but don't focus on it now. Just focus on one top blue up triangle, and one base blue up triangle to the left and one to the right. Controls: Arrow keys move, space bar flips Mouse Controls, click left and hold to move, drag down to drop, drag up to flip",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1062390/header.jpg?t=1558119579",
+    "Price": 0.99,
+    "Developers": "James W Sager III,Steve Reynolds",
+    "Publishers": "James Sager",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1062390/ss_55fad0d562a759717bf999f50ed0ccc816b60773.1920x1080.jpg?t=1558119579,https://cdn.akamai.steamstatic.com/steam/apps/1062390/ss_d1ab9955e0fcb1b1e09c2c27bb621ded054e4920.1920x1080.jpg?t=1558119579,https://cdn.akamai.steamstatic.com/steam/apps/1062390/ss_9b0d2d72975783fc3b5e549a081b572302090f2e.1920x1080.jpg?t=1558119579,https://cdn.akamai.steamstatic.com/steam/apps/1062390/ss_6f0768e86d9fb4ea5d9be7087fec24e8e1295529.1920x1080.jpg?t=1558119579,https://cdn.akamai.steamstatic.com/steam/apps/1062390/ss_ff7964aab22a973aa75a9337d038bf9551b26a37.1920x1080.jpg?t=1558119579,https://cdn.akamai.steamstatic.com/steam/apps/1062390/ss_58e0296fd1833e11390f984418537f3973bc083a.1920x1080.jpg?t=1558119579",
+    "Slug": "triangle-mania",
+    "Meta Title": "Triangle Mania: May 17, 2019, James W Sager III,Steve Rey...",
+    "Meta Description": "Looking for information on Triangle Mania? Check out the release date (May 17, 2019), developer insights from James W Sager III,Steve Reynolds, and a co...",
+    "Alt Text Image": "Official header image for Triangle Mania game - Steam 1062390",
+    "Canonical URL": "https://gusku.site/game/triangle-mania",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Triangle Mania\", \"description\": \"Looking for information on Triangle Mania? Check out the release date (May 17, 2019), developer insights from James W Sager III,Steve Reynolds, and a co...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 17, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"James W Sager III,Steve Reynolds\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"James Sager\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1062390/header.jpg?t=1558119579\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

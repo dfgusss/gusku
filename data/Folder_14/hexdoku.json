@@ -1,0 +1,21 @@
+{
+    "AppID": 1414270,
+    "Name": "Hexdoku",
+    "Release date": "Dec 22, 2020",
+    "About the game": "Another puzzle game with hexagon grid, but difficult! Player must fill the grid with different shapes. Each line and area must not contain same shape, just like classic Sudoku game! Feature 30 unique levels on main branch. Each level is crafted carefully and only have one possible answer. 10 unique levels for each side branch. You have to think differently on every side branch. 4 different beautiful skins for you to choose from. Design your own puzzle and share with people on workshop!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1414270/header.jpg?t=1627382398",
+    "Price": 2.99,
+    "Developers": "Pue-Tsuâ Game",
+    "Publishers": "Pue-Tsuâ Game",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1414270/ss_9cebccfd2168bfbbe5a1becc86de096e2117740c.1920x1080.jpg?t=1627382398,https://cdn.akamai.steamstatic.com/steam/apps/1414270/ss_9f5d55cd44e272204db65c57a632a1f09ea388cf.1920x1080.jpg?t=1627382398,https://cdn.akamai.steamstatic.com/steam/apps/1414270/ss_f8cd2dee35a5471ab9e60363292a048132c6ee21.1920x1080.jpg?t=1627382398,https://cdn.akamai.steamstatic.com/steam/apps/1414270/ss_4b3e4e6d6aed88d47f40c6b4616777ef2b8c723e.1920x1080.jpg?t=1627382398,https://cdn.akamai.steamstatic.com/steam/apps/1414270/ss_b9e4dbd10eec2866db9f316c4c0ae41a0503d8b1.1920x1080.jpg?t=1627382398",
+    "Slug": "hexdoku",
+    "Meta Title": "Hexdoku: Dec 22, 2020, Pue-Tsuâ Game and Full Overview",
+    "Meta Description": "Looking for information on Hexdoku? Check out the release date (Dec 22, 2020), developer insights from Pue-Tsuâ Game, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hexdoku game - Steam 1414270",
+    "Canonical URL": "https://gusku.site/game/hexdoku",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hexdoku\", \"description\": \"Looking for information on Hexdoku? Check out the release date (Dec 22, 2020), developer insights from Pue-Tsu\\u00e2 Game, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 22, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pue-Tsu\\u00e2 Game\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pue-Tsu\\u00e2 Game\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1414270/header.jpg?t=1627382398\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

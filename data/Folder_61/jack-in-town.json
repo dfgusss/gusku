@@ -1,0 +1,21 @@
+{
+    "AppID": 1175500,
+    "Name": "Jack In Town",
+    "Release date": "Jan 10, 2020",
+    "About the game": "Jack In Town est un jeu en monde ouvert, où le joueur peut faire tout ce qu'il veut parmi plus de 20 crimes et activités différentes. Quantité et diversité d'actions sont à sa disponibilité: gagnez le plus d'argent possible, sans vous faire attraper par la police!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1175500/header.jpg?t=1656443320",
+    "Price": 0.0,
+    "Developers": "MCG",
+    "Publishers": "MCG",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1175500/ss_e5c6244b3afbf68acfc594242ebf960216fc2bc6.1920x1080.jpg?t=1656443320,https://cdn.akamai.steamstatic.com/steam/apps/1175500/ss_90b84a2e7335e7d228700f0cc4dc0c4256e878a2.1920x1080.jpg?t=1656443320,https://cdn.akamai.steamstatic.com/steam/apps/1175500/ss_b95c0b3fb40683ac8115898588d31de03db1c7ee.1920x1080.jpg?t=1656443320,https://cdn.akamai.steamstatic.com/steam/apps/1175500/ss_6cd12f42789944074a7347ff2ed152876c340cfd.1920x1080.jpg?t=1656443320,https://cdn.akamai.steamstatic.com/steam/apps/1175500/ss_b9d839c5e05f156d80c95c8a2f082789d5fa36d5.1920x1080.jpg?t=1656443320,https://cdn.akamai.steamstatic.com/steam/apps/1175500/ss_bd2278ca7fedaaa0a56350e7b7240baa7aa85f3f.1920x1080.jpg?t=1656443320,https://cdn.akamai.steamstatic.com/steam/apps/1175500/ss_221ed719c717aa3c27d01ceae0488cfe8530302c.1920x1080.jpg?t=1656443320,https://cdn.akamai.steamstatic.com/steam/apps/1175500/ss_1da1a60e1926a407bba08c568718b30846bc6cb4.1920x1080.jpg?t=1656443320,https://cdn.akamai.steamstatic.com/steam/apps/1175500/ss_1ebcb37f9fca47747d87ecf24c99fa1ca6c5ef49.1920x1080.jpg?t=1656443320",
+    "Slug": "jack-in-town",
+    "Meta Title": "Jack In Town: Jan 10, 2020, MCG and Full Overview",
+    "Meta Description": "Looking for information on Jack In Town? Check out the release date (Jan 10, 2020), developer insights from MCG, and a complete game summary.",
+    "Alt Text Image": "Official header image for Jack In Town game - Steam 1175500",
+    "Canonical URL": "https://gusku.site/game/jack-in-town",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Jack In Town\", \"description\": \"Looking for information on Jack In Town? Check out the release date (Jan 10, 2020), developer insights from MCG, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 10, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"MCG\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MCG\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1175500/header.jpg?t=1656443320\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

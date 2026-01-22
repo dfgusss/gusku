@@ -1,0 +1,21 @@
+{
+    "AppID": 721420,
+    "Name": "FIGHTING BOX",
+    "Release date": "Oct 25, 2017",
+    "About the game": "Fighting box is a casual game with characters that use boxing gloves, the player must to hit the opponent until his energy bar drain out, or the opponent fall out from the ring. The game use procedural levels, so the player can play as long as he survives or until the time out per round. I intend to improve the AI, work a bit more on graphics, and as the levels are formed procedurally, i intend to to create more objects, traps, and more interaction between them, in order to deliver many diferent levels for the game not become repetitive. i'm also creating the multiplayer mode and cooperative mode. This is one more game made on Blender Game Engine, i hope the players enjoy. CHARACTERS:",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/721420/header.jpg?t=1658412388",
+    "Price": 0.99,
+    "Developers": "Artur Rezende",
+    "Publishers": "PROATIV GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/721420/ss_abec5fbca4d8f2289ad741574b3664c303334c94.1920x1080.jpg?t=1658412388,https://cdn.akamai.steamstatic.com/steam/apps/721420/ss_bba2fe06f19b9df21df4ece3d4736d5bdefe9e2e.1920x1080.jpg?t=1658412388,https://cdn.akamai.steamstatic.com/steam/apps/721420/ss_0cb2d7263b2ac73bd591046080a995e63be110ba.1920x1080.jpg?t=1658412388,https://cdn.akamai.steamstatic.com/steam/apps/721420/ss_e5be3a1b57c4c4bebdd02c30bbb2378f14dede6a.1920x1080.jpg?t=1658412388,https://cdn.akamai.steamstatic.com/steam/apps/721420/ss_66cf606fd2cce12f30c9020eee87d7b3ffdb61ca.1920x1080.jpg?t=1658412388,https://cdn.akamai.steamstatic.com/steam/apps/721420/ss_617138367749bfe5e2c3ada5f910316470ec16de.1920x1080.jpg?t=1658412388",
+    "Slug": "fighting-box",
+    "Meta Title": "FIGHTING BOX: Oct 25, 2017, Artur Rezende and Full Overview",
+    "Meta Description": "Looking for information on FIGHTING BOX? Check out the release date (Oct 25, 2017), developer insights from Artur Rezende, and a complete game summary.",
+    "Alt Text Image": "Official header image for FIGHTING BOX game - Steam 721420",
+    "Canonical URL": "https://gusku.site/game/fighting-box",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FIGHTING BOX\", \"description\": \"Looking for information on FIGHTING BOX? Check out the release date (Oct 25, 2017), developer insights from Artur Rezende, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 25, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Artur Rezende\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PROATIV GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/721420/header.jpg?t=1658412388\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

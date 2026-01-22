@@ -1,0 +1,21 @@
+{
+    "AppID": 541150,
+    "Name": "Vox-L",
+    "Release date": "Dec 12, 2016",
+    "About the game": "Vox-L is not a game. It's a customizable virtual reality playground. By default, Vox-L is just an infinite white terrain. There's nothing there. You can't do anything fun. Sounds boring, I know... But here are some reasons we think you'll enjoy it. Reason 1: It has free multiplayer. You can invite your friends. (If you have troubles starting a multiplayer game, we have a forum topic where we are discussing the multiplayer feature. See the Basic Info section for a link to our forum.) Reason 2: It is customizable. With free in-game apps, you can transform your playground into whatever you want. Apps let you change the terrain, spawn toys, load dynamic content, launch mini-games, etc. Reason 3: We've already added several apps for you to customize your experience. Builder app: Gives you tools to deform the voxel terrain by placing/removing blocks (like in Minecraft). Lets you spawn physical objects in the world. Multiplayer app: Host a server and invite your friends. Or find and join a server. (NOTE: This feature is still in development. If it doesn't work for you, please post on our support forum.) Worlds app: Choose from various pre-built worlds. We currently have 3 voxel worlds. We'll be adding over 100 more in early 2017. Flashlight app: Turn your tablet into a flashlight. Control the color and brightness. It's surprisingly fun. Sky app: Change the time of day, add fog, add clouds. Reason 4: We are adding new apps constantly. In fact, if you want to, you can make your own. (NOTE: If you want to develop apps for Vox-L, contact us to be part of our developer Beta. Anyone who knows JavaScript, HTML, and CSS can do it.)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/541150/header.jpg?t=1481559256",
+    "Price": 9.99,
+    "Developers": "Multi-Dimensional Games",
+    "Publishers": "Multi-Dimensional Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/541150/ss_b8dd7bce0c09a40a3fbeae6edd356c8a08fa938d.1920x1080.jpg?t=1481559256,https://cdn.akamai.steamstatic.com/steam/apps/541150/ss_176632eccf56b290dbdc1ed39a7fd88cf527d97b.1920x1080.jpg?t=1481559256,https://cdn.akamai.steamstatic.com/steam/apps/541150/ss_623f5a30453bddf14de0e98d55c0aff2fce9a7f4.1920x1080.jpg?t=1481559256,https://cdn.akamai.steamstatic.com/steam/apps/541150/ss_9d2f8e15e830a286e963cd59fe16bd26f030bca2.1920x1080.jpg?t=1481559256,https://cdn.akamai.steamstatic.com/steam/apps/541150/ss_0eef0a3108905701dce3be2d8290569b8b662542.1920x1080.jpg?t=1481559256",
+    "Slug": "vox-l",
+    "Meta Title": "Vox-L: Dec 12, 2016, Multi-Dimensional Games and Full Ove...",
+    "Meta Description": "Looking for information on Vox-L? Check out the release date (Dec 12, 2016), developer insights from Multi-Dimensional Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Vox-L game - Steam 541150",
+    "Canonical URL": "https://gusku.site/game/vox-l",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Vox-L\", \"description\": \"Looking for information on Vox-L? Check out the release date (Dec 12, 2016), developer insights from Multi-Dimensional Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 12, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Multi-Dimensional Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Multi-Dimensional Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/541150/header.jpg?t=1481559256\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

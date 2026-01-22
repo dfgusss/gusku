@@ -1,0 +1,21 @@
+{
+    "AppID": 539460,
+    "Name": "Puzzle Cube",
+    "Release date": "Oct 11, 2016",
+    "About the game": "THREE IN A ROW, BUT IN 3D! This puzzle game has a 'Easy to Learn - Hard to Master'-concept to it. Each level has a number of movable boxes, with different colors, within the playable area. Slide all boxes towards one of the six edges of the playable area to get three or more in a row. Boxes that are on a row will disappear and make it possible to continue. Planning and logical sense is required to make all boxes disappear and thereby clearing the level. All the 120 levels are handcrafted and has a progressive difficulty curve. There are also special boxes Frozen Blocks that starts out frozen as a hidering in the level. Exploding Blocks that, when hit, will destroys all blocks around them.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/539460/header.jpg?t=1654378226",
+    "Price": 0.99,
+    "Developers": "ThinkOfGames",
+    "Publishers": "Big Black Bear",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/539460/ss_be831cf99ed994690ede9236f45813bdf6dd2613.1920x1080.jpg?t=1654378226,https://cdn.akamai.steamstatic.com/steam/apps/539460/ss_fae201f1d63653db14fc36d4d1821978fa02769f.1920x1080.jpg?t=1654378226,https://cdn.akamai.steamstatic.com/steam/apps/539460/ss_bc6ec8831fae615f8e09c049d04cc6ee2841a613.1920x1080.jpg?t=1654378226,https://cdn.akamai.steamstatic.com/steam/apps/539460/ss_9b82bd7469f9d3fb14c734a48eb096062e6cbf6e.1920x1080.jpg?t=1654378226,https://cdn.akamai.steamstatic.com/steam/apps/539460/ss_ad90f35dfe9a0833db25d9859342919a8dde025e.1920x1080.jpg?t=1654378226",
+    "Slug": "puzzle-cube",
+    "Meta Title": "Puzzle Cube: Oct 11, 2016, ThinkOfGames and Full Overview",
+    "Meta Description": "Looking for information on Puzzle Cube? Check out the release date (Oct 11, 2016), developer insights from ThinkOfGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Puzzle Cube game - Steam 539460",
+    "Canonical URL": "https://gusku.site/game/puzzle-cube",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Puzzle Cube\", \"description\": \"Looking for information on Puzzle Cube? Check out the release date (Oct 11, 2016), developer insights from ThinkOfGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 11, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"ThinkOfGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Big Black Bear\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/539460/header.jpg?t=1654378226\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1575310,
+    "Name": "Rotego",
+    "Release date": "Apr 1, 2021",
+    "About the game": "A puzzle platformer where you must tether to finish! Hold space while jumping to shoot out a tether, which will shift the gravity towards any surface it connects with. Earn XP and cash by completing achievements, which can then be used to purchase powers. Levels are randomly generated and the game continues endlessly.. though a 'Final Enemy' will appear and harass you from time to time until they are beaten.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1575310/header.jpg?t=1617311735",
+    "Price": 0.0,
+    "Developers": "Kaan Bukusoglu",
+    "Publishers": "Kaan Bukusoglu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1575310/ss_24ade4d56724ffda56975b0ae2c57a6cb031f9d4.1920x1080.jpg?t=1617311735,https://cdn.akamai.steamstatic.com/steam/apps/1575310/ss_b3a5465e85a2e1765febab2b9562b7a6ad6069d0.1920x1080.jpg?t=1617311735,https://cdn.akamai.steamstatic.com/steam/apps/1575310/ss_f6db8aac7a8d440826567f714380b640eae55c3e.1920x1080.jpg?t=1617311735,https://cdn.akamai.steamstatic.com/steam/apps/1575310/ss_93852e3cf29ec62c73d3c743ae0f203cb1c1a426.1920x1080.jpg?t=1617311735,https://cdn.akamai.steamstatic.com/steam/apps/1575310/ss_ab0781624db58d9945c8779ab890021512292bde.1920x1080.jpg?t=1617311735,https://cdn.akamai.steamstatic.com/steam/apps/1575310/ss_1c55ea81b42f1e9a37c6abba6e436ac39bae0625.1920x1080.jpg?t=1617311735",
+    "Slug": "rotego",
+    "Meta Title": "Rotego: Apr 1, 2021, Kaan Bukusoglu and Full Overview",
+    "Meta Description": "Looking for information on Rotego? Check out the release date (Apr 1, 2021), developer insights from Kaan Bukusoglu, and a complete game summary.",
+    "Alt Text Image": "Official header image for Rotego game - Steam 1575310",
+    "Canonical URL": "https://gusku.site/game/rotego",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Rotego\", \"description\": \"Looking for information on Rotego? Check out the release date (Apr 1, 2021), developer insights from Kaan Bukusoglu, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kaan Bukusoglu\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kaan Bukusoglu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1575310/header.jpg?t=1617311735\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

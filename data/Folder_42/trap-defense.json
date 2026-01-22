@@ -1,0 +1,21 @@
+{
+    "AppID": 864110,
+    "Name": "Trap Defense",
+    "Release date": "Jul 2, 2018",
+    "About the game": "Description Trap Defense is a TD like puzzle game. In each level, you need to place the traps at a correct position to prevent the balls reach the finish point. In a tradition tower defense game, you always don't know what enemies will appear in a level. It always influencing you to make best decisions. In Trap Defense, you don't need to estimate any unknowes. All balls and traps is appear at the start of each levels. What you need to do is to try your best to place the traps at a correct position. It makes you feel more that you are solving a puzzle! Gameplay Traps Cannon can destroy a ball in front of it. It can shoot another ball again after 3 seconds reload. Landmine can destroy all balls in 3x3 Squares. Any balls rolling on it will make it active. Snap Trap can stop a ball rolling on it for 1 second. Spiked Trap can destroy a ball rolling on it every 2 seconds. Balls Normal Ball will keep rolling to the End Point by following the Arrow. Iron Ball protected by an iron layer. It can resist an attack from traps for 1 time. Fire ball will explosion when destroyed by traps. The explosion will destroy all traps in 3x3 Squares.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/864110/header.jpg?t=1589902019",
+    "Price": 0.99,
+    "Developers": "Yutaka",
+    "Publishers": "Yutaka",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/864110/ss_eb3b3403a2fde2244db9895b10f7ee4ed3284535.1920x1080.jpg?t=1589902019,https://cdn.akamai.steamstatic.com/steam/apps/864110/ss_735d3f62e86ebb2c3fbb1105cef87ddde08d3795.1920x1080.jpg?t=1589902019,https://cdn.akamai.steamstatic.com/steam/apps/864110/ss_e25568ea5e75b04ff88a3818442f9c21f0bd6701.1920x1080.jpg?t=1589902019,https://cdn.akamai.steamstatic.com/steam/apps/864110/ss_8d2986aedbef94d346bb69754bec51662aa0945d.1920x1080.jpg?t=1589902019,https://cdn.akamai.steamstatic.com/steam/apps/864110/ss_e329907857702bce0ab81f25849fcc44ebf4ddbf.1920x1080.jpg?t=1589902019",
+    "Slug": "trap-defense",
+    "Meta Title": "Trap Defense: Jul 2, 2018, Yutaka and Full Overview",
+    "Meta Description": "Looking for information on Trap Defense? Check out the release date (Jul 2, 2018), developer insights from Yutaka, and a complete game summary.",
+    "Alt Text Image": "Official header image for Trap Defense game - Steam 864110",
+    "Canonical URL": "https://gusku.site/game/trap-defense",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Trap Defense\", \"description\": \"Looking for information on Trap Defense? Check out the release date (Jul 2, 2018), developer insights from Yutaka, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 2, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Yutaka\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Yutaka\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/864110/header.jpg?t=1589902019\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

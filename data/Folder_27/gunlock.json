@@ -1,0 +1,21 @@
+{
+    "AppID": 750450,
+    "Name": "Gunlock",
+    "Release date": "Dec 7, 2017",
+    "About the game": "I have been developing games and creating pixel art full time for a little over three years now. I have spent a lot of time studying and trying to perfect 'game feel' principles. Gunlock is the first installment in what I have dubbed the 'mini series.' Gunlock is a small but very polished score chasing game with retro gameboy palette pixelart. Stomp on enemies in order to increase combo multiplier and reload ammo. Pick up ammo supplies to fully reload and swap to a random gun. Gun them enemies down with over a dozen different guns! Collect coins to purchase more guns and sexy color palettes! Compete against other players across the Steam leaderboards on 3 different stages! Defeat 3 Giant bosses! One hit and you're dead... so don't get hit. Gunlock was developed by two people: Aleksandar Kuzmanovic [MrAmlice] - Coding / Design / Art / SFX Brian Havey [zminusone] - Music / Additional SFX",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/750450/header.jpg?t=1512828990",
+    "Price": 0.99,
+    "Developers": "Aleksandar Kuzmanovic Games",
+    "Publishers": "Aleksandar Kuzmanovic Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/750450/ss_17049467eb3e1e3ad0524f1cab1e5606a361f0e3.1920x1080.jpg?t=1512828990,https://cdn.akamai.steamstatic.com/steam/apps/750450/ss_2a85f37963414c68fd2a693bf0ef35cf52a16883.1920x1080.jpg?t=1512828990,https://cdn.akamai.steamstatic.com/steam/apps/750450/ss_077de81652be9f9ccec9b964110807c39288c274.1920x1080.jpg?t=1512828990,https://cdn.akamai.steamstatic.com/steam/apps/750450/ss_9e62a5133129296feb1a2cf5148564f4329cb04e.1920x1080.jpg?t=1512828990,https://cdn.akamai.steamstatic.com/steam/apps/750450/ss_372f31d1adf103254c859888aec37732fa6b4ef3.1920x1080.jpg?t=1512828990",
+    "Slug": "gunlock",
+    "Meta Title": "Gunlock: Dec 7, 2017, Aleksandar Kuzmanovic Games and Ful...",
+    "Meta Description": "Looking for information on Gunlock? Check out the release date (Dec 7, 2017), developer insights from Aleksandar Kuzmanovic Games, and a complete game s...",
+    "Alt Text Image": "Official header image for Gunlock game - Steam 750450",
+    "Canonical URL": "https://gusku.site/game/gunlock",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Gunlock\", \"description\": \"Looking for information on Gunlock? Check out the release date (Dec 7, 2017), developer insights from Aleksandar Kuzmanovic Games, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 7, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Aleksandar Kuzmanovic Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Aleksandar Kuzmanovic Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/750450/header.jpg?t=1512828990\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

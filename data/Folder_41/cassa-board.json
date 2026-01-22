@@ -1,0 +1,21 @@
+{
+    "AppID": 1648660,
+    "Name": "Caïssa Board",
+    "Release date": "Jul 1, 2021",
+    "About the game": "The first graphical user interfaces for chess have appeared in the 1990s. Since then, they have considerably evolved but are still very complicated. Caïssa Board is a modern Chess GUI that is capable of interfacing with many chess engines while being tuned toward simplicity of use. It also provides tactical and strategic hints such as the possibility of forks or the controlled squares. The public domain Chess Engine Gull 3 is included with Caïssa Board so you can start playing and analyze games without delay. This is an Early Access Release, as there is still much work to do to offer complete capabilities.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1648660/header.jpg?t=1625155522",
+    "Price": 9.99,
+    "Developers": "Dominique Lorre",
+    "Publishers": "Dominique Lorre",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1648660/ss_21028fcfbe69461622cab1e2b8c016af12ff5b4b.1920x1080.jpg?t=1625155522,https://cdn.akamai.steamstatic.com/steam/apps/1648660/ss_e03f64a30cb2832cf61bbdf4bb7eefb770f6c48b.1920x1080.jpg?t=1625155522,https://cdn.akamai.steamstatic.com/steam/apps/1648660/ss_66dc106d0e4c69517818bd00ae46a7b06aabd790.1920x1080.jpg?t=1625155522,https://cdn.akamai.steamstatic.com/steam/apps/1648660/ss_f7ce6c815da3e47dd6ac028903d42beec2941f40.1920x1080.jpg?t=1625155522,https://cdn.akamai.steamstatic.com/steam/apps/1648660/ss_dc115ee33fab93fac9f6831f78633c76740c919b.1920x1080.jpg?t=1625155522",
+    "Slug": "cassa-board",
+    "Meta Title": "Caïssa Board: Jul 1, 2021, Dominique Lorre and Full Overview",
+    "Meta Description": "Looking for information on Caïssa Board? Check out the release date (Jul 1, 2021), developer insights from Dominique Lorre, and a complete game summary.",
+    "Alt Text Image": "Official header image for Caïssa Board game - Steam 1648660",
+    "Canonical URL": "https://gusku.site/game/cassa-board",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ca\\u00efssa Board\", \"description\": \"Looking for information on Ca\\u00efssa Board? Check out the release date (Jul 1, 2021), developer insights from Dominique Lorre, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dominique Lorre\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dominique Lorre\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1648660/header.jpg?t=1625155522\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

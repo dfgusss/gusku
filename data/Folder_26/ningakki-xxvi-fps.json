@@ -1,0 +1,21 @@
+{
+    "AppID": 1647990,
+    "Name": "Ningakki XXVI FPS",
+    "Release date": "Sep 25, 2021",
+    "About the game": "For many years, it has been apparent that any idiot can write a game and publish it on Steam. This year, I decided to become one of those idiots. The first iteration of my attempts is the Ningakki XXVI FPS game, written in Unity, and reliant upon the Unity FPS Microgame for core functionality. The game is set in an abandoned post-apocalyptic world where the player seems to be the only remaining living animal. One hundred and one robots, however, still exist, and they plan to extinguish the last animal on 'their' planet. The terrain is procedurally generated, and therefore infinite, but the game play is concentrated around the center of the map where the player spawns in. The game was developed and tested under Linux with a keyboard. At one point it mostly worked with a controller, but that appears to have fallen apart, so be careful if you attempt to use a controller. The very first version put up for release is quite meager, and is primarily an example of some things that I could do with Unity months ago. The terrain is infinite, and I added land mines to what the Unity FPS Microgame provided to me. There is a sniper rifle somewhat near the player start location, but it is defended by a turret with a high vantage point. The turrets tend to aim badly, so if you stand still and far away they will always miss you. The smaller robots don't patrol, they just wait to see you then move in to kill you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1647990/header.jpg?t=1634103603",
+    "Price": 0.0,
+    "Developers": "WilliamDColburn",
+    "Publishers": "WilliamDColburn",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1647990/ss_2b571b5b7219a331f80835134efc9bd299c97c81.1920x1080.jpg?t=1634103603,https://cdn.akamai.steamstatic.com/steam/apps/1647990/ss_5a5148718b862f24857a2150c4c0c24241042242.1920x1080.jpg?t=1634103603,https://cdn.akamai.steamstatic.com/steam/apps/1647990/ss_ae239bec94cf3ab4c0e6e1f78589e8c2e916da34.1920x1080.jpg?t=1634103603,https://cdn.akamai.steamstatic.com/steam/apps/1647990/ss_04897d7cc7ae6d7442c62331e9eadbf211b1791b.1920x1080.jpg?t=1634103603,https://cdn.akamai.steamstatic.com/steam/apps/1647990/ss_e13278077a5baeb43bf13117265beb8a6b412f6d.1920x1080.jpg?t=1634103603,https://cdn.akamai.steamstatic.com/steam/apps/1647990/ss_6cdfb9a0996123bed36d769e7b8bb2ac5b6b0c47.1920x1080.jpg?t=1634103603",
+    "Slug": "ningakki-xxvi-fps",
+    "Meta Title": "Ningakki XXVI FPS: Sep 25, 2021, WilliamDColburn and Full...",
+    "Meta Description": "Looking for information on Ningakki XXVI FPS? Check out the release date (Sep 25, 2021), developer insights from WilliamDColburn, and a complete game su...",
+    "Alt Text Image": "Official header image for Ningakki XXVI FPS game - Steam 1647990",
+    "Canonical URL": "https://gusku.site/game/ningakki-xxvi-fps",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ningakki XXVI FPS\", \"description\": \"Looking for information on Ningakki XXVI FPS? Check out the release date (Sep 25, 2021), developer insights from WilliamDColburn, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 25, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"WilliamDColburn\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"WilliamDColburn\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1647990/header.jpg?t=1634103603\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

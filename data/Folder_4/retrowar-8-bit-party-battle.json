@@ -1,0 +1,21 @@
+{
+    "AppID": 664240,
+    "Name": "RetroWar: 8-bit Party Battle",
+    "Release date": "Jun 17, 2019",
+    "About the game": "RetroWar is a collection of 8-bit retro style arcade games. Currently we are focused on single-screen multiplayer games that you play with your friends locally (i.e. sitting on the couch together.) Most of the games don't have single player mode (If you want single player mode then vote for it in the forums!) Games Spaceships - vector thrust in the tradition of SpaceWar / Asteroids / Subspace. Droids - fast-paced twin stick shooter. Tanks - tactical sniping game . Bomb Bots - drop bombs to blow up your opponents, but don't get caught in the blast. Ghost Jumpers - platform race to be first while jumping over spooky enemies. SnakeEaters - the classic snake game. Balloonacy - mash buttons to fill your balloon. Our UniBlaster game engine is designed with the specs of a 'fantasy' 1980s console, akin to an NES, but with modern standards for framerate, aspect ratio and controller input. It's easily extensible, so you can mod games, mash up different games, or even create your own. Features Authentic : old school low resolution gaming - no mixing of different sized pixels here. Controls : modern controllers/keyboard/mouse, but still fully playable with a NES or SNES style controller. Music : authentic soundtracker mods and 8-bit chiptunes. Modable : change the music, graphics, rules, or write your own games. 16 local players Early Access plans We want feedback from you as to what you would like to play. None of these features are guaranteed, but we plan to work on the features you support. Steam Workshop (download games and mods made by fans). Online multiplayer. Linux and Mac support. JumpJet Troopers - run and gun game. Artillery game. Football mod for Droids.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/664240/header.jpg?t=1606509202",
+    "Price": 9.99,
+    "Developers": "Electron Studio",
+    "Publishers": "Electron Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/664240/ss_58fecc790436b05554370b86f0779e259884dbc4.1920x1080.jpg?t=1606509202,https://cdn.akamai.steamstatic.com/steam/apps/664240/ss_14e5b9c1ccfde22b83618bf03e8ffce60e8088e2.1920x1080.jpg?t=1606509202,https://cdn.akamai.steamstatic.com/steam/apps/664240/ss_196912b35b3df1527839499d504974bd17b2aba4.1920x1080.jpg?t=1606509202,https://cdn.akamai.steamstatic.com/steam/apps/664240/ss_5c86d05bbc8c1268a0efd01201c1016c9eeca0d8.1920x1080.jpg?t=1606509202,https://cdn.akamai.steamstatic.com/steam/apps/664240/ss_90208dbf12fcc5bcfaec8ec47f60989582d008ab.1920x1080.jpg?t=1606509202,https://cdn.akamai.steamstatic.com/steam/apps/664240/ss_8cba58a123e84b15785a5792080493addc0151d5.1920x1080.jpg?t=1606509202,https://cdn.akamai.steamstatic.com/steam/apps/664240/ss_443a5b74d1f4c15c86dfa304da8ec408bf706165.1920x1080.jpg?t=1606509202",
+    "Slug": "retrowar-8-bit-party-battle",
+    "Meta Title": "RetroWar: 8-bit Party Battle: Jun 17, 2019, Electron Stud...",
+    "Meta Description": "Looking for information on RetroWar: 8-bit Party Battle? Check out the release date (Jun 17, 2019), developer insights from Electron Studio, and a compl...",
+    "Alt Text Image": "Official header image for RetroWar: 8-bit Party Battle game - Steam 664240",
+    "Canonical URL": "https://gusku.site/game/retrowar-8-bit-party-battle",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RetroWar: 8-bit Party Battle\", \"description\": \"Looking for information on RetroWar: 8-bit Party Battle? Check out the release date (Jun 17, 2019), developer insights from Electron Studio, and a compl...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 17, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Electron Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Electron Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/664240/header.jpg?t=1606509202\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

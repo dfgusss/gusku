@@ -1,0 +1,21 @@
+{
+    "AppID": 898320,
+    "Name": "Synth Ninja",
+    "Release date": "Oct 11, 2021",
+    "About the game": "Synth Ninja is our take of casual games in VR. Synth Ninja brings together the unforgettable Synthwave theme of the 80's with ninjas and offers a unique VR experience. Your goal in the game hit the targets with shurikens. Each target have random blue and red colors. You have to shot with shuriken that match the color of targets. • Immersive shuriken throwing system. • A unique VR experience with help of the shuriken throwing system. • Power-Up system. (Multi Shuriken, Slow-Mo, Shatter) • You can add your own music to the SynthNinja/SynthNinja_Data/ Music/ folder in .mp3 format. • You can create a list to play in order musics that you added. *This is not a rhythm game right now, we are planning to add beat detection system.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/898320/header.jpg?t=1633966373",
+    "Price": 1.99,
+    "Developers": "Volens Nolens Games",
+    "Publishers": "Volens Nolens Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/898320/ss_cc68ebb5d8f6669f37a3c13cd933b949c68ec25a.1920x1080.jpg?t=1633966373,https://cdn.akamai.steamstatic.com/steam/apps/898320/ss_e68dfdb60977bad8ac3b0b806e40f137fdbf06b3.1920x1080.jpg?t=1633966373,https://cdn.akamai.steamstatic.com/steam/apps/898320/ss_f67c69a301e9aaf44d2abcde5b3c6f3d48036974.1920x1080.jpg?t=1633966373,https://cdn.akamai.steamstatic.com/steam/apps/898320/ss_8f1b08872fe5346e5ae58b79d277dec8cf1a84b4.1920x1080.jpg?t=1633966373,https://cdn.akamai.steamstatic.com/steam/apps/898320/ss_26bfd06f8b9b9e82a2b9a06f6a22b4161e37c67b.1920x1080.jpg?t=1633966373",
+    "Slug": "synth-ninja",
+    "Meta Title": "Synth Ninja: Oct 11, 2021, Volens Nolens Games and Full O...",
+    "Meta Description": "Looking for information on Synth Ninja? Check out the release date (Oct 11, 2021), developer insights from Volens Nolens Games, and a complete game summ...",
+    "Alt Text Image": "Official header image for Synth Ninja game - Steam 898320",
+    "Canonical URL": "https://gusku.site/game/synth-ninja",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Synth Ninja\", \"description\": \"Looking for information on Synth Ninja? Check out the release date (Oct 11, 2021), developer insights from Volens Nolens Games, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 11, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Volens Nolens Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Volens Nolens Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/898320/header.jpg?t=1633966373\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2110240,
+    "Name": "PUCK RUNNER",
+    "Release date": "Sep 1, 2022",
+    "About the game": "PUCK RUNNER is a challenging endless runner inspired by air hockey. Physically hit the puck to with your mouse to avoid obstacles, with your control of the puck being constantly threatened by ever-increasing speed and complexity. TACTILE GAMEPLAY Everything in-game from the puck, obstacles and even the mouse is a physics object with tactile, satisfying interactions and sounds. TIME MANIPULATION Puck Runner is simple to learn but tough to master, with a very high skill ceiling, Collecting energy allows you to slow down time to alllow you to regain control if you're in a tight spot, or speed up time to reach greater distances faster. STEAM LEADERBOARDS Compare your best distances and speeds with your friends and the community on Steam. Can you beat the rest?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2110240/header.jpg?t=1662059685",
+    "Price": 3.39,
+    "Developers": "Bennett Farmer",
+    "Publishers": "Bennett Farmer",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2110240/ss_87845a83298890657cd9d33ae1d89358d6394c4b.1920x1080.jpg?t=1662059685,https://cdn.akamai.steamstatic.com/steam/apps/2110240/ss_a50614419c40e67d0be60e285468b4d823a8e434.1920x1080.jpg?t=1662059685,https://cdn.akamai.steamstatic.com/steam/apps/2110240/ss_ab7aef592593e5b5d1ab2dacfbc02e5523619ec3.1920x1080.jpg?t=1662059685,https://cdn.akamai.steamstatic.com/steam/apps/2110240/ss_18a522bb472db1953f1d2f4b04b3d7b66e9d958c.1920x1080.jpg?t=1662059685,https://cdn.akamai.steamstatic.com/steam/apps/2110240/ss_3aec375f6a73f2e21fa6ae85bd82a0f3075ac625.1920x1080.jpg?t=1662059685",
+    "Slug": "puck-runner",
+    "Meta Title": "PUCK RUNNER: Sep 1, 2022, Bennett Farmer and Full Overview",
+    "Meta Description": "Looking for information on PUCK RUNNER? Check out the release date (Sep 1, 2022), developer insights from Bennett Farmer, and a complete game summary.",
+    "Alt Text Image": "Official header image for PUCK RUNNER game - Steam 2110240",
+    "Canonical URL": "https://gusku.site/game/puck-runner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PUCK RUNNER\", \"description\": \"Looking for information on PUCK RUNNER? Check out the release date (Sep 1, 2022), developer insights from Bennett Farmer, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bennett Farmer\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bennett Farmer\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2110240/header.jpg?t=1662059685\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

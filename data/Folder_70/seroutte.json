@@ -1,0 +1,21 @@
+{
+    "AppID": 2265380,
+    "Name": "Seroutte",
+    "Release date": "Feb 10, 2023",
+    "About the game": "Seroutte is a short atmospheric experimental horror dreamscape based on the developer's nightmares. It explores themes such as the loss of control, fear of the dark, and the paranoia found within the unknown. After waking up in the middle of the night, your only desire is for a drink of water, and to go back to sleep. The game heavily emphasises exploration, with the ability to interact with various objects in the world. Originally released in 2019 on Itch, the Steam Edition of Seroutte is updated with a number of small fixes. This game is *very* short. You aren't going to get hours of gameplay from this. It was created by a solo developer in a short amount of time, with the aim to learn as much as possible from developing and releasing the game. Key Features Explore a familiar yet distant environment. Even our own homes can feel foreign to us in the dead of night. Exploring the house may give you some clues on what to do. Immerse yourself in the universal sense of unease. You are alone, in the dark, in the middle of the night. You've finally built up the courage to get out of bed, and get the drink of water you so desperately need, but your entire body is screaming at you to stay where it's safe. Future Updates Future plans include updated audio, achievements, translations, and various other features. Currently the game works on the Steam Deck though with some minor bugs, these will be fixed in coming updates. If you discover any bugs, or have any suggestions feel free to contact us at any of the included links.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2265380/header.jpg?t=1676059073",
+    "Price": 0.99,
+    "Developers": "Studio Hex",
+    "Publishers": "Studio Hex",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2265380/ss_99c8894700f435830e2e95a817eb0cceedf79f71.1920x1080.jpg?t=1676059073,https://cdn.akamai.steamstatic.com/steam/apps/2265380/ss_3ba38e4632e3308518878ccbb32549fc192ab18e.1920x1080.jpg?t=1676059073,https://cdn.akamai.steamstatic.com/steam/apps/2265380/ss_6eb9abdd551c086160fa0e69980289ee2cc03818.1920x1080.jpg?t=1676059073,https://cdn.akamai.steamstatic.com/steam/apps/2265380/ss_55a1e917cf8f4433dac5e9cd3ac038828aa81ac6.1920x1080.jpg?t=1676059073,https://cdn.akamai.steamstatic.com/steam/apps/2265380/ss_b6bf2c3a1954fca5e55f388738064c07f63c70fd.1920x1080.jpg?t=1676059073",
+    "Slug": "seroutte",
+    "Meta Title": "Seroutte: Feb 10, 2023, Studio Hex and Full Overview",
+    "Meta Description": "Looking for information on Seroutte? Check out the release date (Feb 10, 2023), developer insights from Studio Hex, and a complete game summary.",
+    "Alt Text Image": "Official header image for Seroutte game - Steam 2265380",
+    "Canonical URL": "https://gusku.site/game/seroutte",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Seroutte\", \"description\": \"Looking for information on Seroutte? Check out the release date (Feb 10, 2023), developer insights from Studio Hex, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 10, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Studio Hex\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Studio Hex\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2265380/header.jpg?t=1676059073\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

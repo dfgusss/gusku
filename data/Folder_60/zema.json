@@ -1,0 +1,21 @@
+{
+    "AppID": 849340,
+    "Name": "zeMa",
+    "Release date": "Jan 28, 2022",
+    "About the game": "Take a look at electronics from the inside. There are copper conductors, resistors, inductors, diodes and capacitors. This is a spherical maze. It is very easy to get lost. Let's get rid of all the foreign objects. Caution! High voltage! The game is a maze puzzle on a sphere. Each time you start, a new random map is generated. The player is guaranteed to be able to visit any corner of this labyrinth. Control is the arrow keys. There is always a way out, and this is 'Esc'.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/849340/header.jpg?t=1643360414",
+    "Price": 0.99,
+    "Developers": "Max Ponomarev",
+    "Publishers": "Max Ponomarev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/849340/ss_668ee71ec1d1585863cd990234e48edbfca12e62.1920x1080.jpg?t=1643360414,https://cdn.akamai.steamstatic.com/steam/apps/849340/ss_4c8eeedf067b262a8a39506f19e30cfc6cc0267c.1920x1080.jpg?t=1643360414,https://cdn.akamai.steamstatic.com/steam/apps/849340/ss_87f4525a8408c7d3501fec34c86913f3a9b83ccb.1920x1080.jpg?t=1643360414,https://cdn.akamai.steamstatic.com/steam/apps/849340/ss_9e9687418696ced4d879a5a77b407744ffc40b6d.1920x1080.jpg?t=1643360414,https://cdn.akamai.steamstatic.com/steam/apps/849340/ss_4c52481ea32e4751e9150f5dab6057e39fed5e23.1920x1080.jpg?t=1643360414,https://cdn.akamai.steamstatic.com/steam/apps/849340/ss_24194f831b675ed0b461e6c6674e7e8c9f52f500.1920x1080.jpg?t=1643360414",
+    "Slug": "zema",
+    "Meta Title": "zeMa: Jan 28, 2022, Max Ponomarev and Full Overview",
+    "Meta Description": "Looking for information on zeMa? Check out the release date (Jan 28, 2022), developer insights from Max Ponomarev, and a complete game summary.",
+    "Alt Text Image": "Official header image for zeMa game - Steam 849340",
+    "Canonical URL": "https://gusku.site/game/zema",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"zeMa\", \"description\": \"Looking for information on zeMa? Check out the release date (Jan 28, 2022), developer insights from Max Ponomarev, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 28, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Max Ponomarev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Max Ponomarev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/849340/header.jpg?t=1643360414\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

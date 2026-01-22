@@ -1,0 +1,21 @@
+{
+    "AppID": 530720,
+    "Name": "Solitaire Royale",
+    "Release date": "Sep 15, 2016",
+    "About the game": "Solitaire Royale is the classic 52-card deck Solitaire game also known as Klondike Solitaire . This version of Solitaire features a 3-card waste when flipping through the deck and is both easy to learn and still challenging for expert players. Your goal is to get all 52 cards into the four foundations at the top in order from Ace through King. Cycle through the deck, three cards at a time, and remove cards to build stacks of cards in the tableau.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/530720/header.jpg?t=1474002483",
+    "Price": 0.0,
+    "Developers": "EnsenaSoft",
+    "Publishers": "EnsenaSoft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/530720/ss_26aeb7d3f7602c70a89c4efce0918734109cd3c4.1920x1080.jpg?t=1474002483,https://cdn.akamai.steamstatic.com/steam/apps/530720/ss_9a08f6c0a0d625e7916ce711083b417795a900bc.1920x1080.jpg?t=1474002483,https://cdn.akamai.steamstatic.com/steam/apps/530720/ss_3ee144bfe97d64c1b649ccc3e264cc66a0651407.1920x1080.jpg?t=1474002483,https://cdn.akamai.steamstatic.com/steam/apps/530720/ss_6c6c6b3b1021a7c27a5505f6d4f066bfff2ddbdc.1920x1080.jpg?t=1474002483,https://cdn.akamai.steamstatic.com/steam/apps/530720/ss_3b9a9df511cf78839af2d8fcb96ccebfb76a956c.1920x1080.jpg?t=1474002483,https://cdn.akamai.steamstatic.com/steam/apps/530720/ss_82408a3faa00efff7d73439aaa9a4ddfd2d978ad.1920x1080.jpg?t=1474002483,https://cdn.akamai.steamstatic.com/steam/apps/530720/ss_e062785c6cdce138485554053f44560aab8dc84a.1920x1080.jpg?t=1474002483,https://cdn.akamai.steamstatic.com/steam/apps/530720/ss_3050f4f245427f9198381af93eef375f44a26d18.1920x1080.jpg?t=1474002483",
+    "Slug": "solitaire-royale",
+    "Meta Title": "Solitaire Royale: Sep 15, 2016, EnsenaSoft and Full Overview",
+    "Meta Description": "Looking for information on Solitaire Royale? Check out the release date (Sep 15, 2016), developer insights from EnsenaSoft, and a complete game summary.",
+    "Alt Text Image": "Official header image for Solitaire Royale game - Steam 530720",
+    "Canonical URL": "https://gusku.site/game/solitaire-royale",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Solitaire Royale\", \"description\": \"Looking for information on Solitaire Royale? Check out the release date (Sep 15, 2016), developer insights from EnsenaSoft, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 15, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"EnsenaSoft\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"EnsenaSoft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/530720/header.jpg?t=1474002483\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

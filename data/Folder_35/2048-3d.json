@@ -1,0 +1,21 @@
+{
+    "AppID": 1833670,
+    "Name": "2048 3D",
+    "Release date": "Dec 14, 2021",
+    "About the game": "2048 3D is a casual digital game, adapted from the classic game 2048. In 2048 3D, number cubes will fall from the air. Players need to use the ↑↓←→ or WASD keys on the keyboard to control the movement of all the cubes, and merge the same cubes to get larger number cubes. Try not to let the big number cubes outside the box, otherwise you will suffer a heavy loss! Try to get big cubes to win the game!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1833670/header.jpg?t=1639529064",
+    "Price": 0.99,
+    "Developers": "zP1nG",
+    "Publishers": "zP1nG",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1833670/ss_4787cd5bb8f15490898a83cabb592d519d19ad73.1920x1080.jpg?t=1639529064,https://cdn.akamai.steamstatic.com/steam/apps/1833670/ss_fc63d2f483b889a39fc6049263fd43579d282dd0.1920x1080.jpg?t=1639529064,https://cdn.akamai.steamstatic.com/steam/apps/1833670/ss_50cbce31bcaa1b86f071cc47f032788d39065462.1920x1080.jpg?t=1639529064,https://cdn.akamai.steamstatic.com/steam/apps/1833670/ss_9ee2cbb598bddb9a23a1363180db7f9cc26903ee.1920x1080.jpg?t=1639529064,https://cdn.akamai.steamstatic.com/steam/apps/1833670/ss_1e6b51fad84077d64cc6885b0aa1b681f7408eef.1920x1080.jpg?t=1639529064",
+    "Slug": "2048-3d",
+    "Meta Title": "2048 3D: Dec 14, 2021, zP1nG and Full Overview",
+    "Meta Description": "Looking for information on 2048 3D? Check out the release date (Dec 14, 2021), developer insights from zP1nG, and a complete game summary.",
+    "Alt Text Image": "Official header image for 2048 3D game - Steam 1833670",
+    "Canonical URL": "https://gusku.site/game/2048-3d",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"2048 3D\", \"description\": \"Looking for information on 2048 3D? Check out the release date (Dec 14, 2021), developer insights from zP1nG, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 14, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"zP1nG\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"zP1nG\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1833670/header.jpg?t=1639529064\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

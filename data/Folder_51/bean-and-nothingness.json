@@ -1,0 +1,21 @@
+{
+    "AppID": 1706090,
+    "Name": "Bean and Nothingness",
+    "Release date": "Dec 1, 2021",
+    "About the game": "Bean and Nothingness is a challenging, turn-based puzzle game in which you turn beans into monsters to help you -- but then these same monsters will get in your way. Each puzzle has a set of recipes -- instructions for how to create various monsters. In the puzzle below, the books in the lower-left show that you can create the orange dinosaur-looking monster (a 'roller') by combining a red and yellow bean, or the yellow circle-looking monster (a 'bomb') by combining two green beans. Putting the right combination of beans on a grassy tile and shooting it with your magic wand will create a monster. These monsters can help you -- for instance, both the roller and the bomb are capable of destroying the cracked blocks between you and the goal tile in the puzzle above. But these monsters can also get in your way -- the roller will roll at you if it sees you, and if it catches you, you'll die! Likewise, getting caught in the bomb's explosion kills you. As you progress in the game, you'll meet new monsters (and other mechanics); for each monster, you'll have to learn how it behaves in some easy puzzles, and then move on to more difficult puzzles, where you'll have to combine the mechanics you've learned in new ways. Expect puzzles that: Challenge you to come up with creative ideas Require you to make efficient use of resources Test your ability to manage 'tactics'-like, grid-based interactions Bean and Nothingness is a long game, with over 180 puzzles, with difficulties from 'elementary' to 'extremely challenging'. New puzzles open up quickly, so you should never be stuck on only a few puzzles with nothing new to try. Additional Features A colorblind-friendly mode gives the beans distinct shapes. Controller is supported, although the game is best experienced on keyboard. Controls are customizable.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1706090/header.jpg?t=1649001412",
+    "Price": 11.99,
+    "Developers": "RBOR Games",
+    "Publishers": "RBOR Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1706090/ss_2db37e86c65a60798fbeeb11be57bd801dc550f7.1920x1080.jpg?t=1649001412,https://cdn.akamai.steamstatic.com/steam/apps/1706090/ss_d750aaaac630bb871e52a207ac5951aabce75548.1920x1080.jpg?t=1649001412,https://cdn.akamai.steamstatic.com/steam/apps/1706090/ss_c0cda648f3477150408a5438fe3bb5ce9e912e5e.1920x1080.jpg?t=1649001412,https://cdn.akamai.steamstatic.com/steam/apps/1706090/ss_9db88981fcf7b3faa747eaf83434ce04b87d822a.1920x1080.jpg?t=1649001412,https://cdn.akamai.steamstatic.com/steam/apps/1706090/ss_b6d12cc1907a9b85fa7dafd2d778703fbfbdeece.1920x1080.jpg?t=1649001412,https://cdn.akamai.steamstatic.com/steam/apps/1706090/ss_e10858c0e25a861b455913ddf552b0c16dbe7f53.1920x1080.jpg?t=1649001412",
+    "Slug": "bean-and-nothingness",
+    "Meta Title": "Bean and Nothingness: Dec 1, 2021, RBOR Games and Full Ov...",
+    "Meta Description": "Looking for information on Bean and Nothingness? Check out the release date (Dec 1, 2021), developer insights from RBOR Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bean and Nothingness game - Steam 1706090",
+    "Canonical URL": "https://gusku.site/game/bean-and-nothingness",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bean and Nothingness\", \"description\": \"Looking for information on Bean and Nothingness? Check out the release date (Dec 1, 2021), developer insights from RBOR Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"RBOR Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"RBOR Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1706090/header.jpg?t=1649001412\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

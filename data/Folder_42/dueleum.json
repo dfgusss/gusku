@@ -1,0 +1,21 @@
+{
+    "AppID": 689830,
+    "Name": "DUELEUM",
+    "Release date": "Sep 15, 2017",
+    "About the game": "DUELEUM is an action game that fights enemies by making full use of magic and sword. Let's survive using various techniques.  - Features 1: Charge   By maintaining a certain posture, the charge will be activated.   Sword skill and magic to activate depending on the position and charge time are different.  - Features 2: Sword technique   Sword skill is a powerful attack.   Sword skill deals damage to enemies by consecutive attack.  - Features 3: Magic   You can make magic team with the left controller joystick.   Magic has a wide range and can damage many enemies.  - Features 4: Guard   Reduce damage by applying armor to ordinary attacks and skills of enemies.   Guard activates by placing your weapon on enemy's weapon.  - Features 5: Parry &amp; Break   Attacking an attack of a certain power during enemy attack and defense, the enemy is greatly frightened. ※ These functions may be modified at the early access stage without notice. Method of operation - Right controller   Shake: Attack   Fixed: Charge (Please see the figure below)   Index finger button: select (only chapter select stage)   Grip button: holding objects, holding back (Hold with both hands fixed in the field) - Left controller   Index finger button: move   Joystick: Magic (type varies depending on touch direction)   Grip button: holding objects, holding back (Hold with both hands fixed in the field) ※ Currently there is no menu and pose ※ To be added in the future Charge skill chart (by weapon position)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/689830/header.jpg?t=1531059972",
+    "Price": 0.0,
+    "Developers": "nohoho (Individual)",
+    "Publishers": "nohoho",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/689830/ss_37c95c4d47b8aff7eb0c940f41bc4611b5b22a1f.1920x1080.jpg?t=1531059972,https://cdn.akamai.steamstatic.com/steam/apps/689830/ss_41b30d978a65e3c4f60c1d0c0228211248ecca2c.1920x1080.jpg?t=1531059972,https://cdn.akamai.steamstatic.com/steam/apps/689830/ss_d8e79c614c24023c369eeedc4232849e2b683d4a.1920x1080.jpg?t=1531059972,https://cdn.akamai.steamstatic.com/steam/apps/689830/ss_ce7078c28d28c8709f85c3fe13ffed1de91d75ab.1920x1080.jpg?t=1531059972,https://cdn.akamai.steamstatic.com/steam/apps/689830/ss_d8243f28efc368cf8f0f0fc855cfdeab6a123194.1920x1080.jpg?t=1531059972,https://cdn.akamai.steamstatic.com/steam/apps/689830/ss_8980bb28af9570a12cbbbe4964dcc87d86b884ab.1920x1080.jpg?t=1531059972,https://cdn.akamai.steamstatic.com/steam/apps/689830/ss_4d697343c5d9a87bb3c1ca38b71cbc44fdcd2f1c.1920x1080.jpg?t=1531059972,https://cdn.akamai.steamstatic.com/steam/apps/689830/ss_180fdaafff2bd0440f25a7a43edd7ea69f3c9716.1920x1080.jpg?t=1531059972",
+    "Slug": "dueleum",
+    "Meta Title": "DUELEUM: Sep 15, 2017, nohoho (Individual) and Full Overview",
+    "Meta Description": "Looking for information on DUELEUM? Check out the release date (Sep 15, 2017), developer insights from nohoho (Individual), and a complete game summary.",
+    "Alt Text Image": "Official header image for DUELEUM game - Steam 689830",
+    "Canonical URL": "https://gusku.site/game/dueleum",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DUELEUM\", \"description\": \"Looking for information on DUELEUM? Check out the release date (Sep 15, 2017), developer insights from nohoho (Individual), and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 15, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"nohoho (Individual)\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"nohoho\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/689830/header.jpg?t=1531059972\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

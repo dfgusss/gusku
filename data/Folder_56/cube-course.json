@@ -1,0 +1,21 @@
+{
+    "AppID": 1247490,
+    "Name": "Cube Course",
+    "Release date": "Jun 22, 2020",
+    "About the game": "A simple, yet challenging 2D Platformer. Test your skills and see if you can get from Point A to Point B without hitting a spike and having to start over. Collect coins on the way to buy features to make the game more atmospheric, challenging and interesting.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1247490/header.jpg?t=1626098129",
+    "Price": 1.99,
+    "Developers": "CopingCode",
+    "Publishers": "CopingCode",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1247490/ss_03f5eba014f3eb4bcb75f31605cd2a5fa1c590dd.1920x1080.jpg?t=1626098129,https://cdn.akamai.steamstatic.com/steam/apps/1247490/ss_d010a474a1ab7f8baec6323809f419ff09f5610b.1920x1080.jpg?t=1626098129,https://cdn.akamai.steamstatic.com/steam/apps/1247490/ss_ecbdf396f175e3b6c422ff1856c8970beb31cbf4.1920x1080.jpg?t=1626098129,https://cdn.akamai.steamstatic.com/steam/apps/1247490/ss_6d0da0a4985a338609202069a7bee9555cb36dd0.1920x1080.jpg?t=1626098129,https://cdn.akamai.steamstatic.com/steam/apps/1247490/ss_17488271b3e3cf852795429ea44173a4ffe941a9.1920x1080.jpg?t=1626098129",
+    "Slug": "cube-course",
+    "Meta Title": "Cube Course: Jun 22, 2020, CopingCode and Full Overview",
+    "Meta Description": "Looking for information on Cube Course? Check out the release date (Jun 22, 2020), developer insights from CopingCode, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cube Course game - Steam 1247490",
+    "Canonical URL": "https://gusku.site/game/cube-course",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cube Course\", \"description\": \"Looking for information on Cube Course? Check out the release date (Jun 22, 2020), developer insights from CopingCode, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 22, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"CopingCode\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CopingCode\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1247490/header.jpg?t=1626098129\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

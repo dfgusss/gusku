@@ -1,0 +1,21 @@
+{
+    "AppID": 1201000,
+    "Name": "Reincarnated As A Monster",
+    "Release date": "Dec 20, 2019",
+    "About the game": "Reincarnated As A Monster is an RPG game that you became a monster and try to survive in a fantasy world. Uncover the truth about the world, and make your choice to help or destroy others. Of course, it will affect the story's ending. The battle is not just lost or win, but you can also escape from battle! The different results will affect the story too! For now, we focus more on fix bugs on playable features more than the story. So in early access, there are less story events. But we will continue adding the story after we fixed most of the critical bugs. Features(Available now): Dozens of events Strategy Battle System Hundred of Characters Multiple types of Evolution for each monster Dozens of Items Party system, you can recruit party members by defeating them Hundred types of skills, actives and passives Skill Enhancement System, customize your skills to maximize the effect Training System Grassfield, Forest, Swamp and Desert area unlocked(Remaining will be unlocked on the full version) Starting Race - Slime and Ball Beast(Remaining will be unlocked on the full version) Title System Chinese Translation These features are not implemented: More Monsters More Stories More Endings More Skills More Items More Titles More Area Unlock Item Crafting System =====V0.4.1===== Fixed counter skill bug =====V0.4.1===== -Chinese Translation(Simplified &amp; Traditional) -Title System =====V0.3.4===== Fixed bug: Battle inventory =====V0.3.3===== Fixed bugs: -Can Control enemy. -Heal will deduct HP. -Debuff harder to activate. -Fix Compete with Fiora event. -Save after evolution and training. =====V0.3.2===== Fixed bugs: -Start game Explore will directly lead to game over. -Can't close popup for member collect item. -Can't close inventory during battle. -Infinite spawn Rat boss. -Stuck in locked area.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1201000/header.jpg?t=1580233515",
+    "Price": 10.0,
+    "Developers": "SpiritWing",
+    "Publishers": "SpiritWing",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1201000/ss_e518a9720cc277e5ad2dc1ec25b9e5894aaa7424.1920x1080.jpg?t=1580233515,https://cdn.akamai.steamstatic.com/steam/apps/1201000/ss_f600a1b973a092c91c3a84b78de529c188268fef.1920x1080.jpg?t=1580233515,https://cdn.akamai.steamstatic.com/steam/apps/1201000/ss_b56c17021879356344c67519056655fb85be0f90.1920x1080.jpg?t=1580233515,https://cdn.akamai.steamstatic.com/steam/apps/1201000/ss_6f9a6eb48ec939e30c6329b7ed050742191b1b39.1920x1080.jpg?t=1580233515,https://cdn.akamai.steamstatic.com/steam/apps/1201000/ss_2d1b7099340b81583fc1cf5a95cc3c7bfbb81ed8.1920x1080.jpg?t=1580233515,https://cdn.akamai.steamstatic.com/steam/apps/1201000/ss_8180659deadaa98375376261c6c335a2c55079d7.1920x1080.jpg?t=1580233515",
+    "Slug": "reincarnated-as-a-monster",
+    "Meta Title": "Reincarnated As A Monster: Dec 20, 2019, SpiritWing and F...",
+    "Meta Description": "Looking for information on Reincarnated As A Monster? Check out the release date (Dec 20, 2019), developer insights from SpiritWing, and a complete game...",
+    "Alt Text Image": "Official header image for Reincarnated As A Monster game - Steam 1201000",
+    "Canonical URL": "https://gusku.site/game/reincarnated-as-a-monster",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Reincarnated As A Monster\", \"description\": \"Looking for information on Reincarnated As A Monster? Check out the release date (Dec 20, 2019), developer insights from SpiritWing, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 20, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"SpiritWing\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SpiritWing\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1201000/header.jpg?t=1580233515\", \"offers\": {\"@type\": \"Offer\", \"price\": 10.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

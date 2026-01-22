@@ -1,0 +1,21 @@
+{
+    "AppID": 2209210,
+    "Name": "Iron Guard",
+    "Release date": "Dec 22, 2022",
+    "About the game": "Iron Guard is a steampunk-fantasy pixel art tower defense game, developed by Griffin G. Salazar with art by the wonderful Gabriela 'Brysia' Szmit. Enjoy this bite-sized game from a burgeoning indie developer, who hopes to make many more games in the coming years, each better than the last. Join the Discord to give feedback and join the game's community:",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2209210/header.jpg?t=1671910854",
+    "Price": 0.99,
+    "Developers": "Griffin G. Salazar",
+    "Publishers": "Griffin G. Salazar",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2209210/ss_a363891df1c9bfed66802977ab8a0ef95af08146.1920x1080.jpg?t=1671910854,https://cdn.akamai.steamstatic.com/steam/apps/2209210/ss_c6046b59f38892959661f0a7dae97341da70e97a.1920x1080.jpg?t=1671910854,https://cdn.akamai.steamstatic.com/steam/apps/2209210/ss_a2283ddfbd4b0ad284dbdfd6b54d767c8b13e77f.1920x1080.jpg?t=1671910854,https://cdn.akamai.steamstatic.com/steam/apps/2209210/ss_bd8d7227ec632f7b9d48b060942bb404b2d04d5d.1920x1080.jpg?t=1671910854,https://cdn.akamai.steamstatic.com/steam/apps/2209210/ss_ec55271d87645de6da71e84f5edab5cb6c4e9e48.1920x1080.jpg?t=1671910854",
+    "Slug": "iron-guard",
+    "Meta Title": "Iron Guard: Dec 22, 2022, Griffin G. Salazar and Full Ove...",
+    "Meta Description": "Looking for information on Iron Guard? Check out the release date (Dec 22, 2022), developer insights from Griffin G. Salazar, and a complete game summary.",
+    "Alt Text Image": "Official header image for Iron Guard game - Steam 2209210",
+    "Canonical URL": "https://gusku.site/game/iron-guard",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Iron Guard\", \"description\": \"Looking for information on Iron Guard? Check out the release date (Dec 22, 2022), developer insights from Griffin G. Salazar, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 22, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Griffin G. Salazar\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Griffin G. Salazar\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2209210/header.jpg?t=1671910854\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

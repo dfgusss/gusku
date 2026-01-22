@@ -1,0 +1,21 @@
+{
+    "AppID": 1688690,
+    "Name": "DeadLock",
+    "Release date": "Aug 23, 2021",
+    "About the game": "In DeadLock, the player must connect the processor (circle) and the resources it needs (square) in the appropriate order to end the processors without falling into a 'deadlock situation' where all processors wait for the other processors to finish. More and more targets need to be scheduled and new kinds of resources appear. Key Features : SpeedUp mode for quick viewing of connections Pause mode that allows you to think on the spot if you're wrong. elaborately crafted puzzles. Comfortable pastel tone color The answer is not one! What is the most efficient way to connect? What is Deadlock? DeadLock is a game created based on the 'Deadlock' that occurs in real computer systems. In fact, each processor has the resources it needs, and the processor does not return the resources it previously occupied until it occupies all the resources it needs. In this situation, when two or more processes wait for each other for resources occupied by another process, it is called a 'Deadlock'. Controls : if you click on the processor(circle), you'll see the color of the resources(square) you need below, drag them to the resources you want to connect! 'space' : Pause / Play 'R' : Restart 'ESC' : Menu",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1688690/header.jpg?t=1629765071",
+    "Price": 2.99,
+    "Developers": "LLL games",
+    "Publishers": "LLL games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_c47d5e710ce7a6f7aa851e6c13e34bdde2a4a9ac.1920x1080.jpg?t=1629765071,https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_b99d155bde08849197916676c42d971687b677f2.1920x1080.jpg?t=1629765071,https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_765dfc6a743bb98f7252f13e691124d513761fd9.1920x1080.jpg?t=1629765071,https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_2b2506dbd6a5c7154cf6781f67e44e71e9bbb647.1920x1080.jpg?t=1629765071,https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_f9014166bb9bb10db0c68cadfcdd115092196c5e.1920x1080.jpg?t=1629765071,https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_67e47fe723dbb8c8d45cba61cadb406dace37f11.1920x1080.jpg?t=1629765071,https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_b0169bb73f38421d5de0272fe29ab8611866dcbe.1920x1080.jpg?t=1629765071,https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_176f6e9fbe566a34425d8dfc12a2cc929beccb0d.1920x1080.jpg?t=1629765071,https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_475e4dbc6ae3781c0f4687d552dba471738c5a2c.1920x1080.jpg?t=1629765071,https://cdn.akamai.steamstatic.com/steam/apps/1688690/ss_bd5cb215c6bdcc72540c07cce3c429c60c2d2156.1920x1080.jpg?t=1629765071",
+    "Slug": "deadlock",
+    "Meta Title": "DeadLock: Aug 23, 2021, LLL games and Full Overview",
+    "Meta Description": "Looking for information on DeadLock? Check out the release date (Aug 23, 2021), developer insights from LLL games, and a complete game summary.",
+    "Alt Text Image": "Official header image for DeadLock game - Steam 1688690",
+    "Canonical URL": "https://gusku.site/game/deadlock",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DeadLock\", \"description\": \"Looking for information on DeadLock? Check out the release date (Aug 23, 2021), developer insights from LLL games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"LLL games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LLL games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1688690/header.jpg?t=1629765071\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

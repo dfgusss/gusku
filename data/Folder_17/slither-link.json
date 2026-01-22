@@ -1,0 +1,21 @@
+{
+    "AppID": 931090,
+    "Name": "Slither Link",
+    "Release date": "Sep 9, 2018",
+    "About the game": "SlitherLink is a kind of mathematical intelligence game, which consists of a checkerboard and a number in the checkerboard. When solving the problem, you must use the clues provided by the numbers to connect an uninterrupted closed loop on the checkerboard line. Game rules: On a board of the same dot size, connect two adjacent points with a straight line or a horizontal line. The goal is to make all the connecting lines form a closed loop. A number between four points indicating the number of edges on the square formed by the four points. Where there is no number, the number of surrounding edges is unknown. When marking, you cannot make a cross or branch on the entire line that is connected last time. Can not appear more than two closed loops. The game contains a total of 300+ N challenging levels for 6 board sizes. There are a variety of color themes to choose from. The level generator can generate levels of 6 board sizes and 3 levels of difficulty, it can generate Infinite levels for you to play. If you have any suggestions to make the game better, you can tell me in the steam community.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/931090/header.jpg?t=1608708309",
+    "Price": 0.99,
+    "Developers": "Zkolibre Studio",
+    "Publishers": "Zkolibre Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/931090/ss_15b00832cdb24f7ea6ca93717b7cdf6ceb7cbbf6.1920x1080.jpg?t=1608708309,https://cdn.akamai.steamstatic.com/steam/apps/931090/ss_7f86d1e98d5f0279e187c2807283d60d1465e76f.1920x1080.jpg?t=1608708309,https://cdn.akamai.steamstatic.com/steam/apps/931090/ss_5ad4eb31777d88e39bb416b8574ea6381fb5e2c0.1920x1080.jpg?t=1608708309,https://cdn.akamai.steamstatic.com/steam/apps/931090/ss_a75af9fb70dfafaf298a38d7b7fa850a5819eb2b.1920x1080.jpg?t=1608708309,https://cdn.akamai.steamstatic.com/steam/apps/931090/ss_31d002629dcdb67b176b48b0f05802cd033cbce7.1920x1080.jpg?t=1608708309",
+    "Slug": "slither-link",
+    "Meta Title": "Slither Link: Sep 9, 2018, Zkolibre Studio and Full Overview",
+    "Meta Description": "Looking for information on Slither Link? Check out the release date (Sep 9, 2018), developer insights from Zkolibre Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Slither Link game - Steam 931090",
+    "Canonical URL": "https://gusku.site/game/slither-link",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Slither Link\", \"description\": \"Looking for information on Slither Link? Check out the release date (Sep 9, 2018), developer insights from Zkolibre Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 9, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Zkolibre Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Zkolibre Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/931090/header.jpg?t=1608708309\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

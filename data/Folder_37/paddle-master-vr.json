@@ -1,0 +1,21 @@
+{
+    "AppID": 743070,
+    "Name": "Paddle Master VR",
+    "Release date": "Nov 18, 2017",
+    "About the game": "Paddle Master VR is a cross between a breakout-style game and racquetball, inspired by a popular mobile game (Ballz). You play inside something like a racquetball court, but with numbered blocks that you must destroy. You have a gun that you use to shoot balls at the blocks, and a paddle to keep the balls in play when they bounce back to you. When your balls are all gone, your gun is automatically reloaded, and a new row of blocks appears, and any old blocks are moved closer to you. You lose when any blocks get pushed past the red line marking the front of the play area. Oh, and the balls have a tendency to explode... How long can you last?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/743070/header.jpg?t=1529348594",
+    "Price": 3.99,
+    "Developers": "Raging Pygmy Goat Games",
+    "Publishers": "Raging Pygmy Goat Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/743070/ss_347c2116577768bf746cf587ccda90a4f1ccde8c.1920x1080.jpg?t=1529348594,https://cdn.akamai.steamstatic.com/steam/apps/743070/ss_fe7bb1817f103825f57a977da07e8ed0c15e1de1.1920x1080.jpg?t=1529348594,https://cdn.akamai.steamstatic.com/steam/apps/743070/ss_9ba106c4b4c6948418fd3d5747d42c9586fae428.1920x1080.jpg?t=1529348594,https://cdn.akamai.steamstatic.com/steam/apps/743070/ss_c4fb2e7137770e19ab91cd7299e2ddf39fefd9be.1920x1080.jpg?t=1529348594,https://cdn.akamai.steamstatic.com/steam/apps/743070/ss_3fc1c69527c757262decd1103158130ee3ce9b9c.1920x1080.jpg?t=1529348594",
+    "Slug": "paddle-master-vr",
+    "Meta Title": "Paddle Master VR: Nov 18, 2017, Raging Pygmy Goat Games a...",
+    "Meta Description": "Looking for information on Paddle Master VR? Check out the release date (Nov 18, 2017), developer insights from Raging Pygmy Goat Games, and a complete ...",
+    "Alt Text Image": "Official header image for Paddle Master VR game - Steam 743070",
+    "Canonical URL": "https://gusku.site/game/paddle-master-vr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Paddle Master VR\", \"description\": \"Looking for information on Paddle Master VR? Check out the release date (Nov 18, 2017), developer insights from Raging Pygmy Goat Games, and a complete ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 18, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Raging Pygmy Goat Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Raging Pygmy Goat Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/743070/header.jpg?t=1529348594\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

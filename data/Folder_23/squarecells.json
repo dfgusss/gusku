@@ -1,0 +1,21 @@
+{
+    "AppID": 416770,
+    "Name": "SquareCells",
+    "Release date": "Dec 7, 2015",
+    "About the game": "SquareCells is an ambient logic puzzle game. Reveal the pattern in the grid using the surrounding clues. Includes 36 brain teasing puzzles.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/416770/header.jpg?t=1560433983",
+    "Price": 0.89,
+    "Developers": "Matthew Brown",
+    "Publishers": "Matthew Brown",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/416770/ss_f9b6bf873a5406137710c09b45ce576a7f25d371.1920x1080.jpg?t=1560433983,https://cdn.akamai.steamstatic.com/steam/apps/416770/ss_ba5060d1374d0cf3e333b0831fbc578f9073006c.1920x1080.jpg?t=1560433983,https://cdn.akamai.steamstatic.com/steam/apps/416770/ss_9bd91944de6213f0d63fde09e16fc53d8452dadd.1920x1080.jpg?t=1560433983,https://cdn.akamai.steamstatic.com/steam/apps/416770/ss_74872e0023bc76cceff7204ae04a71d95ab6f082.1920x1080.jpg?t=1560433983,https://cdn.akamai.steamstatic.com/steam/apps/416770/ss_e576b52456a8016683d966430b2b28bbdc91b9d2.1920x1080.jpg?t=1560433983,https://cdn.akamai.steamstatic.com/steam/apps/416770/ss_159d47e0aa6b377838bdfca45cd8d870286315ba.1920x1080.jpg?t=1560433983,https://cdn.akamai.steamstatic.com/steam/apps/416770/ss_a2832a202d7dc18070f8b14393c2eb54feeea096.1920x1080.jpg?t=1560433983,https://cdn.akamai.steamstatic.com/steam/apps/416770/ss_4a63e208146581f1222f33ee992b71ddf37dd810.1920x1080.jpg?t=1560433983",
+    "Slug": "squarecells",
+    "Meta Title": "SquareCells: Dec 7, 2015, Matthew Brown and Full Overview",
+    "Meta Description": "Looking for information on SquareCells? Check out the release date (Dec 7, 2015), developer insights from Matthew Brown, and a complete game summary.",
+    "Alt Text Image": "Official header image for SquareCells game - Steam 416770",
+    "Canonical URL": "https://gusku.site/game/squarecells",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SquareCells\", \"description\": \"Looking for information on SquareCells? Check out the release date (Dec 7, 2015), developer insights from Matthew Brown, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 7, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matthew Brown\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matthew Brown\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/416770/header.jpg?t=1560433983\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.89, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

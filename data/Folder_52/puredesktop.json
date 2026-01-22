@@ -1,0 +1,21 @@
+{
+    "AppID": 1069090,
+    "Name": "PureDesktop",
+    "Release date": "Aug 2, 2019",
+    "About the game": "With PureDesktop you can easily create your own animated wallpaper. Videos, Pictures, Effects, Visualizers and much more. Everything you need in one application. With the power of Qt and QML you can easily create your own Extensions. Or get extensions from the community over the ShareCenter . Also you can download complete wallpaper from the community or publish your own wallpapers. Important: The software needs a bit of training and is not 'Plug'n'Play'. It therefore requires a little training time! Please note this! Tutorials: / Layer based design Live Designer High Performance Low CPU usage Different modes: Behind Desktop , Over Desktop , Always on top ShareCenter - Upload and download extensions and wallpapers Reacts to mouse and keyboard The full Qt package: Qt3D, QML, OpenGL, QtQuick, Qt WebEngine (Chromium), Shaders and Lottie 60 FPS should be stable most of the time, but it depends on the amount of visual effects and layers your wallpaper is using. The Software will run with a lower CPU priority, which leads to lags if some other process (like games) is running at the same time. But rather your wallpaper is lagging than your game ;) You also have some Performance-Options like Render-Type, Swap-Interval, etc. Thanks to the simple integration of Qt plugins (QML / C ++) extensions can be developed quickly and efficiently. Anyone can expand the software as required. No matter if visualizer, effects, multimedia, animations, web content, launcher ... There are no limits.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1069090/header.jpg?t=1585236184",
+    "Price": 0.0,
+    "Developers": "PurePortal",
+    "Publishers": "PurePortal",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1069090/ss_1f86192d4a89e4fc31951910c455e23ec11811d8.1920x1080.jpg?t=1585236184,https://cdn.akamai.steamstatic.com/steam/apps/1069090/ss_a57cb7d0b3812e06bbb665177c9ef12ef58e1f57.1920x1080.jpg?t=1585236184,https://cdn.akamai.steamstatic.com/steam/apps/1069090/ss_c010eb419a4a29017c1029a5a7a5b5a306bea5dd.1920x1080.jpg?t=1585236184,https://cdn.akamai.steamstatic.com/steam/apps/1069090/ss_4bcae7b36ad9b57836de919c1ff51e860a7df7b3.1920x1080.jpg?t=1585236184,https://cdn.akamai.steamstatic.com/steam/apps/1069090/ss_78f5611bd29094b62df90ed6152996712f436b23.1920x1080.jpg?t=1585236184,https://cdn.akamai.steamstatic.com/steam/apps/1069090/ss_92ebaab7ecb61fde86ca02296edf508b59351cdb.1920x1080.jpg?t=1585236184,https://cdn.akamai.steamstatic.com/steam/apps/1069090/ss_419e60e344233501853f40f0fd8d250c2d9c1233.1920x1080.jpg?t=1585236184,https://cdn.akamai.steamstatic.com/steam/apps/1069090/ss_ee8cc43cd6b49efae59a04dd217b094cb6874a80.1920x1080.jpg?t=1585236184,https://cdn.akamai.steamstatic.com/steam/apps/1069090/ss_589245f5ce6c5c0cc4aa8d7a7b01e8b7b5cb5ae4.1920x1080.jpg?t=1585236184",
+    "Slug": "puredesktop",
+    "Meta Title": "PureDesktop: Aug 2, 2019, PurePortal and Full Overview",
+    "Meta Description": "Looking for information on PureDesktop? Check out the release date (Aug 2, 2019), developer insights from PurePortal, and a complete game summary.",
+    "Alt Text Image": "Official header image for PureDesktop game - Steam 1069090",
+    "Canonical URL": "https://gusku.site/game/puredesktop",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PureDesktop\", \"description\": \"Looking for information on PureDesktop? Check out the release date (Aug 2, 2019), developer insights from PurePortal, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 2, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"PurePortal\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PurePortal\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1069090/header.jpg?t=1585236184\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

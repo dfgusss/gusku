@@ -1,0 +1,21 @@
+{
+    "AppID": 547140,
+    "Name": "Owari",
+    "Release date": "Jun 16, 2017",
+    "About the game": "Owari is a variant of Mancala where players strategically attempt to capture stones from their opponent's row. Easy to learn, hard to master Owari is a very simple game at it's core: grab the stones in a pit, sow them around the board. Landing in a pit with 2 or 3 will result in some points. First to 25 points, wins. The game includes a tutorial to get you through the basics. Practice makes perfect Owari will come with 3 levels of AI difficulty that should offer up different levels of challenge to the player. The easy AI will greedily attempt to capture all that it can without much regard to defense, while the medium AI is a little more careful about leaving itself open. Finally, the hard AI will attempt to think one step ahead in order to defeat the more advanced players. Two is better than one Be it local or online, Owari will allow you to play with a friend (or stranger) with it's different multiplayer modes. If you're playing online, you can choose from hosting a private lobby for a friend, or waiting/joining a match in the public lobby. Extra Info Owari was heavily inspired by the DOS game 'Wari: The Ancient Game of Africa', redone with a modern aesthetic. It is meant to be a very simple, play-it-during-your-break sort of game. Special thanks to Rachel Franco and Marius Ioan for their help in testing and debugging.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/547140/header.jpg?t=1497638629",
+    "Price": 2.99,
+    "Developers": "Brian Franco",
+    "Publishers": "Brian Franco",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/547140/ss_3e03d8f6b18a85bd226cdfbf9f03cc1d62215399.1920x1080.jpg?t=1497638629,https://cdn.akamai.steamstatic.com/steam/apps/547140/ss_cd9c50d3749f2f2cd21d460d2d575fd1be40065e.1920x1080.jpg?t=1497638629,https://cdn.akamai.steamstatic.com/steam/apps/547140/ss_bfdbddf1c131cd007ca98de7723aa442bcdd2a2d.1920x1080.jpg?t=1497638629,https://cdn.akamai.steamstatic.com/steam/apps/547140/ss_f20f1e77c0ce6fc3beaa8ae7fdbef17bb8296591.1920x1080.jpg?t=1497638629,https://cdn.akamai.steamstatic.com/steam/apps/547140/ss_385d875785d07aaaff49efc34dbed08f31ab1d24.1920x1080.jpg?t=1497638629",
+    "Slug": "owari",
+    "Meta Title": "Owari: Jun 16, 2017, Brian Franco and Full Overview",
+    "Meta Description": "Looking for information on Owari? Check out the release date (Jun 16, 2017), developer insights from Brian Franco, and a complete game summary.",
+    "Alt Text Image": "Official header image for Owari game - Steam 547140",
+    "Canonical URL": "https://gusku.site/game/owari",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Owari\", \"description\": \"Looking for information on Owari? Check out the release date (Jun 16, 2017), developer insights from Brian Franco, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 16, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Brian Franco\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Brian Franco\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/547140/header.jpg?t=1497638629\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

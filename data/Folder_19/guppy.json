@@ -1,0 +1,21 @@
+{
+    "AppID": 698500,
+    "Name": "Guppy",
+    "Release date": "Nov 21, 2017",
+    "About the game": "Guppy is a 2D watercolor fish simulation. The game tries to replicate the movement of fish: alternate moving your tail left and right to propel yourself through the water. Hide in the shade of waterlilies and venture carefully into the open in search of food. Try not to get eaten. FEATURES: - swim like a fish! - procedural levels - watercolors NOTE: The game is designed to be played in a window. It CAN be played fullscreen but does NOT support higher resolutions (max 480p).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/698500/header.jpg?t=1560510297",
+    "Price": 2.99,
+    "Developers": "ninjadodogames",
+    "Publishers": "ninjadodogames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/698500/ss_d580ad5f3c553e17cf50cccc086c0b12209bf785.1920x1080.jpg?t=1560510297,https://cdn.akamai.steamstatic.com/steam/apps/698500/ss_928917d397edf28d4a035fbb0ecb9e4b509ec081.1920x1080.jpg?t=1560510297,https://cdn.akamai.steamstatic.com/steam/apps/698500/ss_50365fddf676dc9dc284be52d7598c10de0f0d2b.1920x1080.jpg?t=1560510297,https://cdn.akamai.steamstatic.com/steam/apps/698500/ss_cff8ba82ce4e6dac3fe638add59474ffb3a681e7.1920x1080.jpg?t=1560510297,https://cdn.akamai.steamstatic.com/steam/apps/698500/ss_c96d7dd9875972b344e956218c991a70c5b5efe9.1920x1080.jpg?t=1560510297",
+    "Slug": "guppy",
+    "Meta Title": "Guppy: Nov 21, 2017, ninjadodogames and Full Overview",
+    "Meta Description": "Looking for information on Guppy? Check out the release date (Nov 21, 2017), developer insights from ninjadodogames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Guppy game - Steam 698500",
+    "Canonical URL": "https://gusku.site/game/guppy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Guppy\", \"description\": \"Looking for information on Guppy? Check out the release date (Nov 21, 2017), developer insights from ninjadodogames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 21, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"ninjadodogames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ninjadodogames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/698500/header.jpg?t=1560510297\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

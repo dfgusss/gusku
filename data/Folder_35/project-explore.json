@@ -1,0 +1,21 @@
+{
+    "AppID": 357650,
+    "Name": "Project Explore",
+    "Release date": "Aug 10, 2017",
+    "About the game": "Project Explore is a 2D sandbox survival game developed with only the best in mind. The simple yet responsive UI is there to help the player, not hinder them. It has a high-functioning inventory system- the items can have their own unique traits through metadata system. The game’s multiplayer is light-weight and has very minimal hardware requirements. With that said, server hosting is extremely optimized. The game comes with up-to-date patch notes and documentation to help with server configuration, mod creation/support, and everything in-between. Modding One of our priorities is mod development. We are huge fans of Feed The Beast (Minecraft Mod Pack Distributors) and similar teams. Having the freedom to be a fruit salad chef, a weapon smith, or a mercenary. That's what it's about. We are constantly encouraging users to create new mods and help us to expand what is possible with the game engine. As a user you can install mods very easily. Simply drag mods into the mod folder and you've added a mod to your game! They work in multiplayer and singleplayer without any extra hassle. You can easily create and share them with friends. Developer Quote 'I think every player deserves a voice and the direction of the game should be based on community feedback, and ideas. I've followed this idea since the beginning of the games development and so far it has helped the game become something I could not have ever imagined.' -Seabass",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/357650/header.jpg?t=1645621941",
+    "Price": 4.99,
+    "Developers": "Fern Nigro",
+    "Publishers": "Fern Nigro",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/357650/ss_3601cc8913ca278189037a48faf01462fdbead65.1920x1080.jpg?t=1645621941,https://cdn.akamai.steamstatic.com/steam/apps/357650/ss_393eaa01bccb530e31badf0cee67d63c719feb63.1920x1080.jpg?t=1645621941,https://cdn.akamai.steamstatic.com/steam/apps/357650/ss_6b0182960236c9ba46e07db18a248be3e3c1ef01.1920x1080.jpg?t=1645621941,https://cdn.akamai.steamstatic.com/steam/apps/357650/ss_ab5784b373d56468c81f1fe763b60250c7218271.1920x1080.jpg?t=1645621941,https://cdn.akamai.steamstatic.com/steam/apps/357650/ss_52dc4d78231e828626a75c7bc8cb4cbc77b5ab48.1920x1080.jpg?t=1645621941,https://cdn.akamai.steamstatic.com/steam/apps/357650/ss_13016cfa54453f60253c94bb7608e9d11b227a3b.1920x1080.jpg?t=1645621941",
+    "Slug": "project-explore",
+    "Meta Title": "Project Explore: Aug 10, 2017, Fern Nigro and Full Overview",
+    "Meta Description": "Looking for information on Project Explore? Check out the release date (Aug 10, 2017), developer insights from Fern Nigro, and a complete game summary.",
+    "Alt Text Image": "Official header image for Project Explore game - Steam 357650",
+    "Canonical URL": "https://gusku.site/game/project-explore",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Project Explore\", \"description\": \"Looking for information on Project Explore? Check out the release date (Aug 10, 2017), developer insights from Fern Nigro, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 10, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fern Nigro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fern Nigro\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/357650/header.jpg?t=1645621941\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

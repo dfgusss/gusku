@@ -1,0 +1,21 @@
+{
+    "AppID": 567020,
+    "Name": "TILE",
+    "Release date": "Dec 9, 2016",
+    "About the game": "TILE is a minimalist puzzle game with relaxing soundtrack. Move tiles, complete puzzles and relax. Contains 5 episodes with 15 levels in each episode. Features dozens of levels with different puzzles minimalist interface relaxing soundtrack thousands of tiles",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/567020/header.jpg?t=1507395326",
+    "Price": 1.99,
+    "Developers": "Egor Magurin",
+    "Publishers": "Indovers Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/567020/ss_b4b221f5e9d5f4a551ebcf4461b3bd06ced99784.1920x1080.jpg?t=1507395326,https://cdn.akamai.steamstatic.com/steam/apps/567020/ss_0f6d0c641c1faae87e0ee7ce93cf33ef72bd3a16.1920x1080.jpg?t=1507395326,https://cdn.akamai.steamstatic.com/steam/apps/567020/ss_7f59c5a49c217c5c9e9f1044c0c03e0c7682ec89.1920x1080.jpg?t=1507395326,https://cdn.akamai.steamstatic.com/steam/apps/567020/ss_b7a6dfe978dae7933ac1012fccc8195b0d54287e.1920x1080.jpg?t=1507395326,https://cdn.akamai.steamstatic.com/steam/apps/567020/ss_fd7ca4e429594c089d85429259ba6f8266159260.1920x1080.jpg?t=1507395326",
+    "Slug": "tile",
+    "Meta Title": "TILE: Dec 9, 2016, Egor Magurin and Full Overview",
+    "Meta Description": "Looking for information on TILE? Check out the release date (Dec 9, 2016), developer insights from Egor Magurin, and a complete game summary.",
+    "Alt Text Image": "Official header image for TILE game - Steam 567020",
+    "Canonical URL": "https://gusku.site/game/tile",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TILE\", \"description\": \"Looking for information on TILE? Check out the release date (Dec 9, 2016), developer insights from Egor Magurin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 9, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Egor Magurin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Indovers Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/567020/header.jpg?t=1507395326\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

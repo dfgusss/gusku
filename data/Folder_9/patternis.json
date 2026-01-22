@@ -1,0 +1,21 @@
+{
+    "AppID": 822610,
+    "Name": "Patternis",
+    "Release date": "Aug 30, 2018",
+    "About the game": "Patternis ! It's a game in which you have to match a 3x3 block shape with the same exact shape on an upcoming grid. Sounds simple, but it can be quite challenging!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/822610/header.jpg?t=1653348791",
+    "Price": 0.0,
+    "Developers": "Oddscure",
+    "Publishers": "Oddscure",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/822610/ss_b6c189e4c3f42fa1adfa2c2e1226a67f6d073fb5.1920x1080.jpg?t=1653348791,https://cdn.akamai.steamstatic.com/steam/apps/822610/ss_0dbc4b4f0e2322fd795df0ee200dd19a8379fa07.1920x1080.jpg?t=1653348791,https://cdn.akamai.steamstatic.com/steam/apps/822610/ss_282a46835242cdb7b92c09d9130849575d18c37e.1920x1080.jpg?t=1653348791,https://cdn.akamai.steamstatic.com/steam/apps/822610/ss_9af3e007221d81b2cca75cbf636536184db7fd2a.1920x1080.jpg?t=1653348791,https://cdn.akamai.steamstatic.com/steam/apps/822610/ss_faa1d75c23bf1b8dd629dc1b79d9dd72ec68ec9b.1920x1080.jpg?t=1653348791",
+    "Slug": "patternis",
+    "Meta Title": "Patternis: Aug 30, 2018, Oddscure and Full Overview",
+    "Meta Description": "Looking for information on Patternis? Check out the release date (Aug 30, 2018), developer insights from Oddscure, and a complete game summary.",
+    "Alt Text Image": "Official header image for Patternis game - Steam 822610",
+    "Canonical URL": "https://gusku.site/game/patternis",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Patternis\", \"description\": \"Looking for information on Patternis? Check out the release date (Aug 30, 2018), developer insights from Oddscure, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 30, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Oddscure\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Oddscure\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/822610/header.jpg?t=1653348791\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

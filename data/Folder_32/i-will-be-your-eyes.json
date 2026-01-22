@@ -1,0 +1,21 @@
+{
+    "AppID": 1180000,
+    "Name": "I Will Be Your Eyes",
+    "Release date": "Nov 14, 2019",
+    "About the game": "This is a cooperative game for two or more players. Multiplayer options are currently limited to local co-op or screen sharing applications such as Steam's Remote Play Together or Parsec. Although the game may be played with just a keyboard and mouse, we recommend using an Xbox 360 controller for control of the Captive. In I Will Be Your Eyes, players team up to guide a blinded captive out of a maze of death. Players assume one of two roles: The Captive is tasked with controlling the character and escaping the maze. This player cannot see, and must navigate using the instructions of the Operator as well as audio and tactile cues. The Operator(s) observe the action via security cameras and direct the Captive on where and when to go. Operators are able to move between cameras but have no direct control over the character. I Will Be Your Eyes is a low-fidelity game. Maps are randomly generated to put the focus on teamwork rather than memorization. At the end of the run, the Captive's movements can be replayed so as to allow all the players to see what happened. How to Play The Captive plays like a normal video game character, using WASD movement or (ideally) a controller. The player playing as the Captive should not look at the screen when the game is unpaused. Use the A button on your controller, or the E button on your keyboard, to push buttons. The RB and LB buttons can be used to turn exactly 90 degrees at a time. The Operator moves between security cameras using the left and right arrow keys. You can also press spacebar to zoom your camera and use the number pad to swivel around while zoomed. Currently only keyboard controls can be reassigned through the in-game UI. If you'd like to reassign controls that are not listed in the Options menu, or use a controller not supported by the default configuration, hold Alt as the game launches and go to the 'Input' tab.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1180000/header.jpg?t=1573744833",
+    "Price": 3.99,
+    "Developers": "Jake Johnson",
+    "Publishers": "Jake Johnson",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1180000/ss_0550753fce84372fcd4ac7c073831968167f6c17.1920x1080.jpg?t=1573744833,https://cdn.akamai.steamstatic.com/steam/apps/1180000/ss_0d8ed63a5d0590183971948b1dcf830cf4b8daa2.1920x1080.jpg?t=1573744833,https://cdn.akamai.steamstatic.com/steam/apps/1180000/ss_0bf5ea142898cba7754ab42bd8b1ea1c32cc1c27.1920x1080.jpg?t=1573744833,https://cdn.akamai.steamstatic.com/steam/apps/1180000/ss_392c64912d4b1e118f677b1991589dae13c1a7bc.1920x1080.jpg?t=1573744833,https://cdn.akamai.steamstatic.com/steam/apps/1180000/ss_001f387cbcb012012981fee6bb2e7f438cd7a063.1920x1080.jpg?t=1573744833",
+    "Slug": "i-will-be-your-eyes",
+    "Meta Title": "I Will Be Your Eyes: Nov 14, 2019, Jake Johnson and Full ...",
+    "Meta Description": "Looking for information on I Will Be Your Eyes? Check out the release date (Nov 14, 2019), developer insights from Jake Johnson, and a complete game sum...",
+    "Alt Text Image": "Official header image for I Will Be Your Eyes game - Steam 1180000",
+    "Canonical URL": "https://gusku.site/game/i-will-be-your-eyes",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"I Will Be Your Eyes\", \"description\": \"Looking for information on I Will Be Your Eyes? Check out the release date (Nov 14, 2019), developer insights from Jake Johnson, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 14, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jake Johnson\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jake Johnson\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1180000/header.jpg?t=1573744833\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

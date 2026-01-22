@@ -1,0 +1,21 @@
+{
+    "AppID": 1002210,
+    "Name": "孤岛(Isolated Island)",
+    "Release date": "Jan 14, 2019",
+    "About the game": "买游戏之前请务必阅读如下内容！！！ 1.这是一款无聊到爆的游戏。由一个人独立完成，代码都是寻思着能运行的。 2.无穷无尽的对话。甚至还没有黄图。 3.无穷无尽的大道理，甚至可能玩睡着。 那我们凭啥买你的游戏？ 1.游戏时长不超过两小时，可以白嫖后退款。 2.游戏中的音乐很好听。 3.游戏很便宜。 那么，你为什么做这个游戏？ 1.作为一个早晚成为程序猿的大学僧，我想做点事情。 2.这是为我患抑郁症的朋友做的游戏，虽然他现在已经康复，但我好像得抑郁症了。=。= 3.我是一个发烧级游戏爱好者，也爱好做游戏。 4.我希望我做的游戏能够反应一些社会现象，有实际的效果，起码能够引起大家的独立思考。（但愿） 5.我也希望这款游戏能够带给大家更多的爱，温暖和感动。 所以你这个游戏是要干啥？ 本游戏是类似avg的非avg游戏，由粗糙的建模（感谢cubeworld提供的精美模型），构造一个个 具有特殊意义 的 孤岛 。 玩家的任务是扮演主人公，探索各个孤岛，倾听每个人的故事，每个人的故事都是不一样的，也都影射着一些现实生活中的东西 。 咋玩？ 键盘(wasd,上下左右用于镜头移动)＋鼠标左键（用于进行对话和交互。以及打开steam进行退款。）即可。 鼠标右键：用于打开任务管理器强制结束程序。 需要注意的事项 1.对话进行时请尽量不要点击其他的地方，以免造成游戏的逻辑问题。（我很努力地排bug了，但是确保万一，告诉大家一声。） 2.存档只有一个，位于：c盘/用户名/AppData/LocalLow/Lixiaoyao 目录下的 gamesave.sav 请不要误删。（lixiaoyao是固定的文件夹名字。AppData是隐藏文件夹。） 3.对话进行时是无法存档的，所以请耐心等待对话结束再存档~ 4.如果发现了bug，或者有其他的建议等等请及时反馈给我，我也不一定改。 （临近年底，炒鸡忙。） 其他 这肯定是个不完善，有很多瑕疵的作品（我之前也参加过很多比赛，做些小游戏之类的，这是我第一次自己一个人独立完成一款游戏。） 所以，请大家无情的鞭挞我（好羞耻。。。） 一个好的游戏制作人，会把差评一个个的变成好评。 最后，不管游戏怎么样，还是得感谢所有玩我游戏的玩家们，谢谢你们玩我的游戏。也希望你们从这游戏中能够悟出点东西来，祝你们都是温暖的人~ 没有人是座孤岛。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1002210/header.jpg?t=1547481668",
+    "Price": 2.99,
+    "Developers": "LixiaoYao",
+    "Publishers": "LiXiaoYao",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1002210/ss_687ff03b56745e0d8f6b922fce6c1d7f61255789.1920x1080.jpg?t=1547481668,https://cdn.akamai.steamstatic.com/steam/apps/1002210/ss_aa5fce59f32429dfb8aa146157b585897ee2061c.1920x1080.jpg?t=1547481668,https://cdn.akamai.steamstatic.com/steam/apps/1002210/ss_7ac513f0ee5ed6cfcf7e6c1e704d7fb4dd365db0.1920x1080.jpg?t=1547481668,https://cdn.akamai.steamstatic.com/steam/apps/1002210/ss_9d944b504293e6861544a93adbcfc1fdfe548fb2.1920x1080.jpg?t=1547481668,https://cdn.akamai.steamstatic.com/steam/apps/1002210/ss_662d263a683cc69471d67930b4b3d1ad58bf6fcb.1920x1080.jpg?t=1547481668,https://cdn.akamai.steamstatic.com/steam/apps/1002210/ss_8c45da28f8a4f61bd8fb0c1f8634fbbd03aef5d9.1920x1080.jpg?t=1547481668",
+    "Slug": "isolated-island",
+    "Meta Title": "孤岛(Isolated Island): Jan 14, 2019, LixiaoYao and Full Ove...",
+    "Meta Description": "Looking for information on 孤岛(Isolated Island)? Check out the release date (Jan 14, 2019), developer insights from LixiaoYao, and a complete game summary.",
+    "Alt Text Image": "Official header image for 孤岛(Isolated Island) game - Steam 1002210",
+    "Canonical URL": "https://gusku.site/game/isolated-island",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u5b64\\u5c9b(Isolated Island)\", \"description\": \"Looking for information on \\u5b64\\u5c9b(Isolated Island)? Check out the release date (Jan 14, 2019), developer insights from LixiaoYao, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 14, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"LixiaoYao\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LiXiaoYao\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1002210/header.jpg?t=1547481668\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

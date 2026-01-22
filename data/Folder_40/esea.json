@@ -1,0 +1,21 @@
+{
+    "AppID": 479130,
+    "Name": "ESEA",
+    "Release date": "Jul 8, 2016",
+    "About the game": "ESEA is a third party matchmaking service that uses the industry leading anti-cheat (ESEA Client) to protect matches for CS:GO. ESEA currently has PUGs, Scrims, Ladders, Events and runs one of the largest open format leagues in the world. Join us today for access to one of the largest gaming communities in the world. A premium subscription not only unlocks the game features, it also allows you to join our active website community and forums. A Premium subscription is required to use the ESEA network. Users must have a Steam Account that does not carry any VAC bans in order to play on ESEA. ESEA Premium is used for CS:GO on the ESEA Network.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/479130/header.jpg?t=1583258559",
+    "Price": 0.0,
+    "Developers": "ESEA",
+    "Publishers": "ESEA",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/479130/ss_6bf7491bb90d305ea8c841420fbd20548d52afd6.1920x1080.jpg?t=1583258559,https://cdn.akamai.steamstatic.com/steam/apps/479130/ss_1cd62033ec7f8114e4ca99c407d7b952e37dc90a.1920x1080.jpg?t=1583258559,https://cdn.akamai.steamstatic.com/steam/apps/479130/ss_b4ed1d9819e2b89f5946d87f746fbcaa3e831c35.1920x1080.jpg?t=1583258559,https://cdn.akamai.steamstatic.com/steam/apps/479130/ss_728939741ae3cddca56b8233b8db6d8483863789.1920x1080.jpg?t=1583258559,https://cdn.akamai.steamstatic.com/steam/apps/479130/ss_73123b09b4cb52752d41c84865e8a2beea7ca47c.1920x1080.jpg?t=1583258559",
+    "Slug": "esea",
+    "Meta Title": "ESEA: Jul 8, 2016, ESEA and Full Overview",
+    "Meta Description": "Looking for information on ESEA? Check out the release date (Jul 8, 2016), developer insights from ESEA, and a complete game summary.",
+    "Alt Text Image": "Official header image for ESEA game - Steam 479130",
+    "Canonical URL": "https://gusku.site/game/esea",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ESEA\", \"description\": \"Looking for information on ESEA? Check out the release date (Jul 8, 2016), developer insights from ESEA, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 8, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"ESEA\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ESEA\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/479130/header.jpg?t=1583258559\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

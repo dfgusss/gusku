@@ -1,0 +1,21 @@
+{
+    "AppID": 1204540,
+    "Name": "Pictassembler",
+    "Release date": "Dec 24, 2019",
+    "About the game": "​Pictassembler is an engineering puzzle game where you set up a production line of marbles and operator blocks to assemble pixel art images one block at a time. Each marble can be stuck to an anchor or an existing pixel block to create a new pixel block in a given location, and can also be shaded appropriately. The finished block shape needs to match the solution image to finish the level. The challenge comes in setting up the placement and timing of the marbles' paths to ensure that they land in the solution grid correctly.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1204540/header.jpg?t=1577193639",
+    "Price": 4.99,
+    "Developers": "Active Up Games",
+    "Publishers": "Active Up Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1204540/ss_e8e71533fe21a664df5a99227c4d5251e5761f54.1920x1080.jpg?t=1577193639,https://cdn.akamai.steamstatic.com/steam/apps/1204540/ss_9b5175f3c19ec116d22b8e4ca83919f564ab36c6.1920x1080.jpg?t=1577193639,https://cdn.akamai.steamstatic.com/steam/apps/1204540/ss_c318e48d82160c522fe81923c761a9cc95460195.1920x1080.jpg?t=1577193639,https://cdn.akamai.steamstatic.com/steam/apps/1204540/ss_440abab101d421db2f2752729b468804d45d7d14.1920x1080.jpg?t=1577193639,https://cdn.akamai.steamstatic.com/steam/apps/1204540/ss_ae6181f56c4e62728ea3e6623dc4efa5b45b0df2.1920x1080.jpg?t=1577193639",
+    "Slug": "pictassembler",
+    "Meta Title": "Pictassembler: Dec 24, 2019, Active Up Games and Full Ove...",
+    "Meta Description": "Looking for information on Pictassembler? Check out the release date (Dec 24, 2019), developer insights from Active Up Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pictassembler game - Steam 1204540",
+    "Canonical URL": "https://gusku.site/game/pictassembler",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pictassembler\", \"description\": \"Looking for information on Pictassembler? Check out the release date (Dec 24, 2019), developer insights from Active Up Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 24, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Active Up Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Active Up Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1204540/header.jpg?t=1577193639\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

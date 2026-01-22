@@ -1,0 +1,21 @@
+{
+    "AppID": 526240,
+    "Name": "CloudBound",
+    "Release date": "Sep 7, 2016",
+    "About the game": "Welcome to CloudBound, the first indie title to be released by Silicon Storm! We've had a lot of fun making this game, and we're excited to hear what people think! If you have any comments, questions, or suggestions for what you'd like to see in CloudBound, please let us know! A Virtual Reality Grappling Hook! CloudBound is a VR platformer where the player uses a Grappling Hook gun to swing, climb, and fling their way to the top of each level. Using our DFoV System ('Dynamic Field of View') we've managed to dramatically reduce simulation sickness to the point that users can move comfortably at high speeds! Don't take our word for it, let us know what you think! This game is currently planned for Early Access, as we have many more additions currently in production; new levels, hazards, mechanics, graphics updates, and story elements will all make their into the game with each update.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/526240/header.jpg?t=1484872148",
+    "Price": 6.99,
+    "Developers": "Silicon Storm",
+    "Publishers": "Silicon Storm",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/526240/ss_c48c407ee9d8b2e57d2c879004efc7c4a261c3ce.1920x1080.jpg?t=1484872148,https://cdn.akamai.steamstatic.com/steam/apps/526240/ss_18c688a9edd2f948e393b448167d4c5e524896cc.1920x1080.jpg?t=1484872148,https://cdn.akamai.steamstatic.com/steam/apps/526240/ss_48e7a2e6b5b3fda71e72573bceae7e6c8660105c.1920x1080.jpg?t=1484872148,https://cdn.akamai.steamstatic.com/steam/apps/526240/ss_f36b267c796725a9a6b25e96da5360d716050477.1920x1080.jpg?t=1484872148,https://cdn.akamai.steamstatic.com/steam/apps/526240/ss_5f79e78c2204afa19e18bc43bc04d1de46a781d5.1920x1080.jpg?t=1484872148,https://cdn.akamai.steamstatic.com/steam/apps/526240/ss_2841eb3a9bf702ffcedf617f4b9e628ee0c8e02e.1920x1080.jpg?t=1484872148,https://cdn.akamai.steamstatic.com/steam/apps/526240/ss_e0a7a7ca178a7b42ae36df6e2e7233baf2140af7.1920x1080.jpg?t=1484872148",
+    "Slug": "cloudbound",
+    "Meta Title": "CloudBound: Sep 7, 2016, Silicon Storm and Full Overview",
+    "Meta Description": "Looking for information on CloudBound? Check out the release date (Sep 7, 2016), developer insights from Silicon Storm, and a complete game summary.",
+    "Alt Text Image": "Official header image for CloudBound game - Steam 526240",
+    "Canonical URL": "https://gusku.site/game/cloudbound",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CloudBound\", \"description\": \"Looking for information on CloudBound? Check out the release date (Sep 7, 2016), developer insights from Silicon Storm, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 7, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Silicon Storm\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Silicon Storm\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/526240/header.jpg?t=1484872148\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

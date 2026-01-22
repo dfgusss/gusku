@@ -1,0 +1,21 @@
+{
+    "AppID": 306510,
+    "Name": "CRYENGINE - Sample Assets",
+    "Release date": "Jun 6, 2014",
+    "About the game": "The CRYENGINE Sample Assets is a Free DLC package containing several example source files in either Max or Maya format which can be used for learning how to get the most out of your assets and utilize the built-in tech and tools in CRYENGINE. CRYENGINE subscribers can use these Sample Assets for their own game projects, though we encourage you to create your own assets to give your game a unique look all of its own! DCC denotes the Digital Content Creation tool for which there are source files included. Included Assets (June 2014) Objects Characters: Objects\\characters\\animals\\amphibians\\toad: Example Boid asset setup. DCC: Maya Objects\\characters\\human\\generic: SDK Skeleton rig setup. DCC: Max Objects\\characters\\human\\sdk_player: SDK Character model setup. DCC: Max Natural Objects: Objects\\natural\\bushes\\hangingvegetation: Merged mesh vegetation (brush). DCC: Max/Maya Objects\\natural\\ground\\field_grass: Merged mesh vegetation. DCC: Maya Objects\\natural\\ground\\forestgrass: Merged mesh vegetation. DCC: Max/Maya Objects\\natural\\trees\\aspen: Breakable trees. DCC: Max Objects\\natural\\trees\\pine: Trees of varied styles. DCC: Maya Objects\\natural\\water\\water_foam: Foam brushes for rivers. DCC: Max Props: Objects\\props\\misc\\breakable_glass: Breakable glass. DCC: Max Objects\\props\\misc\\cloth: Cloth. DCC: Max/Maya Objects\\props\\misc\\jointed_breakable: Jointed breakable. DCC: Max/Maya Objects\\props\\misc\\wind_turbine: Animated static object. DCC: Max Vehicles: Objects\\vehicles\\abrams: Abrams Tank tracked vehicle. DCC: Max/Maya Objects\\vehicles\\hmmwv: HMMWV 4-wheel vehicle. DCC: Max/Maya Objects\\vehicles\\mh60_blackhawk: MH60_Blackhawk Helicopter. DCC: Max Weapons: Objects\\weapons\\attachments\\pistol_magazine: Magazine attachment for Pistol. DCC: Max Objects\\weapons\\attachments\\rifle_magazine: Magazine attachment for Rifle. DCC: Max Objects\\weapons\\pistol: Pistol weapon asset. DCC: Max Objects\\weapons\\rifle: Rifle weapon asset. DCC: Max",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/306510/header.jpg?t=1478096536",
+    "Price": 0.0,
+    "Developers": "Crytek",
+    "Publishers": "Crytek",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/306510/ss_91e9fbf15bf9d0977ed9942a965b4d2493d5b8e8.1920x1080.jpg?t=1478096536,https://cdn.akamai.steamstatic.com/steam/apps/306510/ss_e20b44f8d391c78acb2a143843e9322aaa24e079.1920x1080.jpg?t=1478096536,https://cdn.akamai.steamstatic.com/steam/apps/306510/ss_8095bbbb81e3adf26704a19974ed0bba3c4917ea.1920x1080.jpg?t=1478096536,https://cdn.akamai.steamstatic.com/steam/apps/306510/ss_6890ace4ee09d698af4091af28d0f2561f8e0278.1920x1080.jpg?t=1478096536,https://cdn.akamai.steamstatic.com/steam/apps/306510/ss_26b149db45d39ba4cf2a143b3fa46125f940cdb3.1920x1080.jpg?t=1478096536",
+    "Slug": "cryengine-sample-assets",
+    "Meta Title": "CRYENGINE - Sample Assets: Jun 6, 2014, Crytek and Full O...",
+    "Meta Description": "Looking for information on CRYENGINE - Sample Assets? Check out the release date (Jun 6, 2014), developer insights from Crytek, and a complete game summ...",
+    "Alt Text Image": "Official header image for CRYENGINE - Sample Assets game - Steam 306510",
+    "Canonical URL": "https://gusku.site/game/cryengine-sample-assets",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CRYENGINE - Sample Assets\", \"description\": \"Looking for information on CRYENGINE - Sample Assets? Check out the release date (Jun 6, 2014), developer insights from Crytek, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 6, 2014\", \"author\": {\"@type\": \"Organization\", \"name\": \"Crytek\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Crytek\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/306510/header.jpg?t=1478096536\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

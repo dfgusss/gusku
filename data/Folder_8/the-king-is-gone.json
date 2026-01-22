@@ -1,0 +1,21 @@
+{
+    "AppID": 1468820,
+    "Name": "The king is gone",
+    "Release date": "Dec 15, 2020",
+    "About the game": "A puzzle game about running, not because one has somewhere to be, but because one has somewhere they don't want to be. In this game, you have to run away. Different doors are blocking the way, that need to be unlocked to proceed as fast as possible. Each door will give a different benefit, and a combination of them is the key to succeed .. or fail. To open a door, a puzzle is presented, where pieces of a key have to be rotated and merged together to open the door. The further you run, the more difficult the key puzzles become. There are three different modes: Normal Mode: Score is increasing the more you survive. It decreases the more you stay idle in a room without picking a door. There's a set amount of rooms to complete before reaching the end. Endless Mode: Score increases with each room that is completed. There is no end to the amount of rooms presented. Random Mode: Each door has a specific score as a reward when opened. Rooms and their rewards spawn at random. The available benefits from the doors are: Green doors: Increase running speed. Purple doors: Increase lock-picking skills, which makes opening new doors easier. Blue doors: Gives extra chances before losing. Brown doors provide no direct benefit, apart from helping complete more rooms.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1468820/header.jpg?t=1611656778",
+    "Price": 2.99,
+    "Developers": "Dark Dimension",
+    "Publishers": "Dark Dimension",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1468820/ss_f8a1952ba700e7bf2c61be559861fb083eca6c06.1920x1080.jpg?t=1611656778,https://cdn.akamai.steamstatic.com/steam/apps/1468820/ss_03173521ab8c4ca0d20410267798108dfe2b3718.1920x1080.jpg?t=1611656778,https://cdn.akamai.steamstatic.com/steam/apps/1468820/ss_30058ffae957cdbfefba6dc0e48309b9dc31f81f.1920x1080.jpg?t=1611656778,https://cdn.akamai.steamstatic.com/steam/apps/1468820/ss_b40e5b89952a264075fbd7d4247de2ddca8406f4.1920x1080.jpg?t=1611656778,https://cdn.akamai.steamstatic.com/steam/apps/1468820/ss_8ae400334361f482a6ac9f82a83a0b3200fa9ad9.1920x1080.jpg?t=1611656778,https://cdn.akamai.steamstatic.com/steam/apps/1468820/ss_57325a6348651b52f8860ae216f582069f74f6fc.1920x1080.jpg?t=1611656778",
+    "Slug": "the-king-is-gone",
+    "Meta Title": "The king is gone: Dec 15, 2020, Dark Dimension and Full O...",
+    "Meta Description": "Looking for information on The king is gone? Check out the release date (Dec 15, 2020), developer insights from Dark Dimension, and a complete game summ...",
+    "Alt Text Image": "Official header image for The king is gone game - Steam 1468820",
+    "Canonical URL": "https://gusku.site/game/the-king-is-gone",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The king is gone\", \"description\": \"Looking for information on The king is gone? Check out the release date (Dec 15, 2020), developer insights from Dark Dimension, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 15, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dark Dimension\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dark Dimension\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1468820/header.jpg?t=1611656778\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

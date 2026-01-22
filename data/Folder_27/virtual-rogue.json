@@ -1,0 +1,21 @@
+{
+    "AppID": 448090,
+    "Name": "Virtual Rogue",
+    "Release date": "Apr 8, 2016",
+    "About the game": "Virtual Rogue is a top-down action roguelike shooter set in a computer controlled by a cruel and merciless User. You play as a text document file named “Note” who, after being accidentally created by the User, is thrown into the Recycle Bin. Your goal is to take your revenge against the User through the destruction of his computer and ultimately the User himself. The game contains 6 different characters to choose from, 121 different items, 36 different pickups, and 31 different enemies and bosses. Everything from items, pickups, enemy locations and formations, level layouts, bosses, shops, to almost all other components of the game are procedurally generated each and every run! Key Features: Procedurally generated environments EPIC bosses and loot 121 different items 36 different pickups 6 different characters 32 different enemies Full controller support",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/448090/header.jpg?t=1573599204",
+    "Price": 0.0,
+    "Developers": "Snowy Productions",
+    "Publishers": NaN,
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/448090/ss_7d6af49e2d5b47260854c3fdb38f757efec90ddd.1920x1080.jpg?t=1573599204,https://cdn.akamai.steamstatic.com/steam/apps/448090/ss_80d60247c4df4c83e901d1a8ea752d33946193dc.1920x1080.jpg?t=1573599204,https://cdn.akamai.steamstatic.com/steam/apps/448090/ss_14fd2f42c1a650740f51aa4a6ea45a553d92dce8.1920x1080.jpg?t=1573599204,https://cdn.akamai.steamstatic.com/steam/apps/448090/ss_cc99f2c7f547911e916aef1561690a098f565dae.1920x1080.jpg?t=1573599204,https://cdn.akamai.steamstatic.com/steam/apps/448090/ss_e5370fc59faf0312051b46aeec45438f3f6c846c.1920x1080.jpg?t=1573599204",
+    "Slug": "virtual-rogue",
+    "Meta Title": "Virtual Rogue: Apr 8, 2016, Snowy Productions and Full Ov...",
+    "Meta Description": "Looking for information on Virtual Rogue? Check out the release date (Apr 8, 2016), developer insights from Snowy Productions, and a complete game summary.",
+    "Alt Text Image": "Official header image for Virtual Rogue game - Steam 448090",
+    "Canonical URL": "https://gusku.site/game/virtual-rogue",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Virtual Rogue\", \"description\": \"Looking for information on Virtual Rogue? Check out the release date (Apr 8, 2016), developer insights from Snowy Productions, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 8, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Snowy Productions\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": NaN}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/448090/header.jpg?t=1573599204\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

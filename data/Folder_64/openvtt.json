@@ -1,0 +1,21 @@
+{
+    "AppID": 1896030,
+    "Name": "OpenVTT",
+    "Release date": "Sep 11, 2022",
+    "About the game": "OpenVTT is a Virtual Tabletop platform that focuses on modularity and customization. That means for example that the handouts are customizable, allowing you to change and design your own handout designs. OpenVTT’s vision is to be a Virtual Tabletop for most if not all TTRPGS, offering a free version with the base functionalities needed by most and with a selection of Premium features, that as needed for a one-time price. Removing the hassle of having to pay high prices or monthly subscriptions, to play a simple pen and paper game digitally.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1896030/header.jpg?t=1662903785",
+    "Price": 0.0,
+    "Developers": "Northplane AB",
+    "Publishers": "Northplane AB",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1896030/ss_d63934db2443f17a038a963e0a6f67f50ae2358c.1920x1080.jpg?t=1662903785,https://cdn.akamai.steamstatic.com/steam/apps/1896030/ss_8114efbf791b06ebecf8e14a93daa88d3cda86ec.1920x1080.jpg?t=1662903785,https://cdn.akamai.steamstatic.com/steam/apps/1896030/ss_bbc415a8a6d43f29c41056479756cd6323ce4f18.1920x1080.jpg?t=1662903785,https://cdn.akamai.steamstatic.com/steam/apps/1896030/ss_a36aaf9f5b69d388426f23bfddde1381bed2d3c7.1920x1080.jpg?t=1662903785,https://cdn.akamai.steamstatic.com/steam/apps/1896030/ss_48027df01509542c24c63e71ee5e1a0690a12a71.1920x1080.jpg?t=1662903785",
+    "Slug": "openvtt",
+    "Meta Title": "OpenVTT: Sep 11, 2022, Northplane AB and Full Overview",
+    "Meta Description": "Looking for information on OpenVTT? Check out the release date (Sep 11, 2022), developer insights from Northplane AB, and a complete game summary.",
+    "Alt Text Image": "Official header image for OpenVTT game - Steam 1896030",
+    "Canonical URL": "https://gusku.site/game/openvtt",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"OpenVTT\", \"description\": \"Looking for information on OpenVTT? Check out the release date (Sep 11, 2022), developer insights from Northplane AB, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Northplane AB\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Northplane AB\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1896030/header.jpg?t=1662903785\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

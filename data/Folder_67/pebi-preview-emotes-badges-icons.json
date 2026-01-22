@@ -1,0 +1,21 @@
+{
+    "AppID": 2192700,
+    "Name": "PEBI - Preview Emotes Badges Icons",
+    "Release date": "Nov 21, 2022",
+    "About the game": "PEBI - Preview Emotes Badges Icons is the emote artists best friend 🐹💖 The main purpose of PEBI is hot-reloading your drawing(s) while you draw them and show a preview in different sizes for Twitch, Discord or any size you desire. You select a PNG or JPG file and PEBI will 'watch' if the file has been changed. Then you can draw in any program like Adobe Photoshop, Clip Studio Paint, Microsoft Paint or any other program, save to the file you selected with PEBI and it will instantly update all previews. It works on a single image or a tile sheet with and without borders. PEBI is currently in BETA, so there will be bugs and/or missing features, please be aware of that. FEATURES hot reload of different image formats png, bmp, jpg, PSD (experimental) single image tile sheet / tiled image configurable tile sizes profiles configurable preview size window on-top mode advanced preview animator exporter emote display maker tile sheet generator 6+ different tile sheet sizes included",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2192700/header.jpg?t=1669057226",
+    "Price": 11.24,
+    "Developers": "SpielmannSpiel,bison",
+    "Publishers": "SpielmannSpiel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2192700/ss_839b4089124481335fb4630a4377dc75bd66fc10.1920x1080.jpg?t=1669057226,https://cdn.akamai.steamstatic.com/steam/apps/2192700/ss_f0a4a1a076d55cf4e75ec38cbf0ce69c7d6a9d78.1920x1080.jpg?t=1669057226,https://cdn.akamai.steamstatic.com/steam/apps/2192700/ss_c97d779f76a660e0a005c1fda15ccba4b1375323.1920x1080.jpg?t=1669057226,https://cdn.akamai.steamstatic.com/steam/apps/2192700/ss_5b6225f91b6ce87746ec19d4addb48bd91cba137.1920x1080.jpg?t=1669057226,https://cdn.akamai.steamstatic.com/steam/apps/2192700/ss_6f584610899a1d88f93faeddcded62732f628ec1.1920x1080.jpg?t=1669057226",
+    "Slug": "pebi-preview-emotes-badges-icons",
+    "Meta Title": "PEBI - Preview Emotes Badges Icons: Nov 21, 2022, Spielma...",
+    "Meta Description": "Looking for information on PEBI - Preview Emotes Badges Icons? Check out the release date (Nov 21, 2022), developer insights from SpielmannSpiel,bison, ...",
+    "Alt Text Image": "Official header image for PEBI - Preview Emotes Badges Icons game - Steam 2192700",
+    "Canonical URL": "https://gusku.site/game/pebi-preview-emotes-badges-icons",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PEBI - Preview Emotes Badges Icons\", \"description\": \"Looking for information on PEBI - Preview Emotes Badges Icons? Check out the release date (Nov 21, 2022), developer insights from SpielmannSpiel,bison, ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"SpielmannSpiel,bison\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SpielmannSpiel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2192700/header.jpg?t=1669057226\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.24, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

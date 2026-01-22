@@ -1,0 +1,21 @@
+{
+    "AppID": 1279610,
+    "Name": "PrprLive",
+    "Release date": "May 14, 2020",
+    "About the game": "PrPrive is a Live2D live broadcast assistant software developed by us. The software can achieve high frame rate, multi-expression switching, targetless auto-drop frame at a lower CPU occupancy, while the software also supports transparent push streaming, gift drop interaction, Live2D lighting, and other powerful features to make your live broadcast have better results. characteristic High-frame rate Live2D animation with low resource consumption through high-performance facial capture. -No need for a specific device, just a camera for face capture -Multi-expression switching is supported to make your live interaction stronger. No-targeted automatic frame drops, further reducing the resource drain on the system. -Transparent push flow, reducing the number of operating steps and making it less difficult to use. -Gift drop interaction, the physical collision effect between the standup and the gift gives the viewer a better interactive experience (this feature supports FaceRig output). -Live2D lighting to make your stills more vivid. -Connected interactions, in which the elements in the live broadcast are changed to correspond to the audience's interactive content according to the settings.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1279610/header.jpg?t=1607500590",
+    "Price": 0.0,
+    "Developers": "1-reality",
+    "Publishers": "1-reality",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1279610/ss_a90ec740bee1c97e0b4f861f9816db2508956d8d.1920x1080.jpg?t=1607500590,https://cdn.akamai.steamstatic.com/steam/apps/1279610/ss_9c76023d81104acf6a8d507499bb73f438f733ae.1920x1080.jpg?t=1607500590,https://cdn.akamai.steamstatic.com/steam/apps/1279610/ss_64f98f8793dfa61b31dede507174e7c3e0e3aef0.1920x1080.jpg?t=1607500590,https://cdn.akamai.steamstatic.com/steam/apps/1279610/ss_dd69b7abdcfc5b1b93df0cf29c964552a2b2617c.1920x1080.jpg?t=1607500590,https://cdn.akamai.steamstatic.com/steam/apps/1279610/ss_6af7336809253eddaef9679133be240a0aede9e4.1920x1080.jpg?t=1607500590",
+    "Slug": "prprlive",
+    "Meta Title": "PrprLive: May 14, 2020, 1-reality and Full Overview",
+    "Meta Description": "Looking for information on PrprLive? Check out the release date (May 14, 2020), developer insights from 1-reality, and a complete game summary.",
+    "Alt Text Image": "Official header image for PrprLive game - Steam 1279610",
+    "Canonical URL": "https://gusku.site/game/prprlive",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PrprLive\", \"description\": \"Looking for information on PrprLive? Check out the release date (May 14, 2020), developer insights from 1-reality, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 14, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"1-reality\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"1-reality\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1279610/header.jpg?t=1607500590\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

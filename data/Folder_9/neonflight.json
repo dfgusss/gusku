@@ -1,0 +1,21 @@
+{
+    "AppID": 1246120,
+    "Name": "NeonFlight",
+    "Release date": "Feb 26, 2020",
+    "About the game": "NeonFlight NeonFlight is an endless-scrolling arcade game in which the player controls his character via his mouse to avoid rapidly approaching obstacles. Your ultimate goal is to beat your highscore and improve your skills. Can you also beat your friend's score?! NeonFlight gives the player the sense of speed he wanted for a long time. Improve your reaction time by playing over and over. The random generated level will change every time and will prevent you from boring yourself to death. So get yourself NeonFlight for half the price of a coffee-to-go and jump into an accelerating neon color race against yourself!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1246120/header.jpg?t=1615473562",
+    "Price": 0.99,
+    "Developers": "Lasse Eversmeier",
+    "Publishers": "MikasArts",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1246120/ss_877604df920c5f1673fe15526c577bdae33ea850.1920x1080.jpg?t=1615473562,https://cdn.akamai.steamstatic.com/steam/apps/1246120/ss_32b1ddf58eddb2a31fbdd480d761c856a2a41075.1920x1080.jpg?t=1615473562,https://cdn.akamai.steamstatic.com/steam/apps/1246120/ss_280e36380cf5792b5b9dfd6d75fe88bd4ee6ff19.1920x1080.jpg?t=1615473562,https://cdn.akamai.steamstatic.com/steam/apps/1246120/ss_4a4bfb0acc19e4320b2c5d47f0d305d421c44602.1920x1080.jpg?t=1615473562,https://cdn.akamai.steamstatic.com/steam/apps/1246120/ss_62203df883d2ebf738e99b6a2293a084b55d9b6c.1920x1080.jpg?t=1615473562",
+    "Slug": "neonflight",
+    "Meta Title": "NeonFlight: Feb 26, 2020, Lasse Eversmeier and Full Overview",
+    "Meta Description": "Looking for information on NeonFlight? Check out the release date (Feb 26, 2020), developer insights from Lasse Eversmeier, and a complete game summary.",
+    "Alt Text Image": "Official header image for NeonFlight game - Steam 1246120",
+    "Canonical URL": "https://gusku.site/game/neonflight",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"NeonFlight\", \"description\": \"Looking for information on NeonFlight? Check out the release date (Feb 26, 2020), developer insights from Lasse Eversmeier, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 26, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lasse Eversmeier\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MikasArts\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1246120/header.jpg?t=1615473562\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

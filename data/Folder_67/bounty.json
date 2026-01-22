@@ -1,0 +1,21 @@
+{
+    "AppID": 2211750,
+    "Name": "Bounty",
+    "Release date": "Dec 2, 2022",
+    "About the game": "A student project made in Unreal Engine 4 at SAE Expression College. A demo level from our game Bounty. Bounty is a first-person shooter bounty-hunting game. The player lands on a space station overrun with robotic bounty hunters. The player must locate and kill the bounty. The player is equipped with a six-shooter that shoots explosive rounds. The player fights through the robot bounty hunters to claim the ultimate prize, his reward. The game is a tactical first-person game. The robots are just as deadly as the six shooters the character wields. The player uses a cover system to avoid being shot. The cover system allows the player to return fire in a deadly firefight a little more safely. The game's plot is to create a mix of wild west gunslingers in a future period. The story behind this bounty hunter is that his father owes money to an intergalactic crime syndicate. This bounty is the “last” job for the crime family before he can free his father from his debt or so he thinks.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2211750/header.jpg?t=1670016339",
+    "Price": 0.0,
+    "Developers": "Cupine Army",
+    "Publishers": "Cupine Army",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2211750/ss_9b122320c5b580523db9c75d1dfb5b417ba77209.1920x1080.jpg?t=1670016339,https://cdn.akamai.steamstatic.com/steam/apps/2211750/ss_4a6844d7c040be23aa6498469dc7e230c1af2dcc.1920x1080.jpg?t=1670016339,https://cdn.akamai.steamstatic.com/steam/apps/2211750/ss_a617981ff8f30d862b8924a220f9811b4cc20131.1920x1080.jpg?t=1670016339,https://cdn.akamai.steamstatic.com/steam/apps/2211750/ss_14e14acbbf0a9315490fbe172037e626b9ca8540.1920x1080.jpg?t=1670016339,https://cdn.akamai.steamstatic.com/steam/apps/2211750/ss_a1f6a06ea706bf5ed848fd3e1878bbc228bd7f66.1920x1080.jpg?t=1670016339",
+    "Slug": "bounty",
+    "Meta Title": "Bounty: Dec 2, 2022, Cupine Army and Full Overview",
+    "Meta Description": "Looking for information on Bounty? Check out the release date (Dec 2, 2022), developer insights from Cupine Army, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bounty game - Steam 2211750",
+    "Canonical URL": "https://gusku.site/game/bounty",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bounty\", \"description\": \"Looking for information on Bounty? Check out the release date (Dec 2, 2022), developer insights from Cupine Army, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cupine Army\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cupine Army\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2211750/header.jpg?t=1670016339\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2215460,
+    "Name": "Efpiyes",
+    "Release date": "Jan 29, 2023",
+    "About the game": "Efpiyes was inspired by the venerable shooters of the 90s: an era of straightforward, fast-paced action, LAN parties and creative tools you didn't need a gamedev degree to use. It's about fun with friends and running, jumping, shooting mayhem. Multiplayer Host and join games over Steam. Choose good old-fashioned Deathmatch or change it up with some King of the Hill or Tag. Game Modes Currently Implemented: Deathmatch: Kill other players. Player with highest kills minus deaths wins. King of the Hill: Occupy the hill and fight off other players. Player with most time on the hill wins. Tag: First player to die becomes It. Whoever is killed by the It player becomes It. Player who spends the least time It wins. Anti-Tag: First player to get a kill becomes it. Whoever kills the It player becomes It. Player who spends the most time It wins. Steal the Bacon: A ball spawns somewhere on the map. The ball can be picked up and will be dropped when you die. Player with the most time carrying the ball wins. Grim Piñata: Same as Steal the Bacon, but more balls keep spawning over time. Each ball carried counts additively towards your time. Bots Add bots to your game for solo practice or to add extra spice to multiplayer games. The bots know how to play all game modes, and can be adjusted to a wide range of difficulty levels. Map Editor Design your own maps with the built-in map editor and share them with your friends. Maps are voxel-based for simple, intuitive editing.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2215460/header.jpg?t=1675026634",
+    "Price": 6.99,
+    "Developers": "Karl John Goebel",
+    "Publishers": "Karl John Goebel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2215460/ss_9c09ef148548a8347936242b6744f40efe31374b.1920x1080.jpg?t=1675026634,https://cdn.akamai.steamstatic.com/steam/apps/2215460/ss_4d5a935e79d7a720ee61a12d92c64777353852ff.1920x1080.jpg?t=1675026634,https://cdn.akamai.steamstatic.com/steam/apps/2215460/ss_61af306cd4bf7317529ed3848c296d9e13aa4cc1.1920x1080.jpg?t=1675026634,https://cdn.akamai.steamstatic.com/steam/apps/2215460/ss_ccfce005fd36f9d4cc86981021378a5666a98eca.1920x1080.jpg?t=1675026634,https://cdn.akamai.steamstatic.com/steam/apps/2215460/ss_42b08f513ff4f72df60a5e045e55212d58f6e791.1920x1080.jpg?t=1675026634",
+    "Slug": "efpiyes",
+    "Meta Title": "Efpiyes: Jan 29, 2023, Karl John Goebel and Full Overview",
+    "Meta Description": "Looking for information on Efpiyes? Check out the release date (Jan 29, 2023), developer insights from Karl John Goebel, and a complete game summary.",
+    "Alt Text Image": "Official header image for Efpiyes game - Steam 2215460",
+    "Canonical URL": "https://gusku.site/game/efpiyes",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Efpiyes\", \"description\": \"Looking for information on Efpiyes? Check out the release date (Jan 29, 2023), developer insights from Karl John Goebel, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 29, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Karl John Goebel\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Karl John Goebel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2215460/header.jpg?t=1675026634\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

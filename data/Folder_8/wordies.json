@@ -1,0 +1,21 @@
+{
+    "AppID": 1905310,
+    "Name": "Wordies",
+    "Release date": "Mar 1, 2022",
+    "About the game": "WORDIES The premise of wordies is simple, you're randomly assigned the task of guessing a commonly used American word. But with only 5 tries, Wordies is harder than it looks. Wordies also features a Daily Word &amp; a global highstreak leaderboard where you can compete with not only your friends but the rest of the world to be the best! When guessing you're given 3 different clues in the form of colors to help you along your way! Dark Gray - Indicates the letter you've chosen does not appear in the word. Orange - Indicates the letter you've entered is in the word, but appears in a different place. Green - Indicates the letter is in the correct place, but there is still the possibility of it appearing twice! Build up winstreaks, fustrate yourself, &amp; challenge friends all in an hour of wordies!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1905310/header.jpg?t=1646154769",
+    "Price": 0.99,
+    "Developers": "Rye",
+    "Publishers": "Rye",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1905310/ss_3eedc4f648564c986667297e5e8855fa9383309f.1920x1080.jpg?t=1646154769,https://cdn.akamai.steamstatic.com/steam/apps/1905310/ss_8c0469ca42d488d27d657080c044e977799b3c47.1920x1080.jpg?t=1646154769,https://cdn.akamai.steamstatic.com/steam/apps/1905310/ss_5e2afdbb7c22b4b07a2e2d058b50f9412ec8851e.1920x1080.jpg?t=1646154769,https://cdn.akamai.steamstatic.com/steam/apps/1905310/ss_683e9035b772b5f67be2484a95ef784893aa1859.1920x1080.jpg?t=1646154769,https://cdn.akamai.steamstatic.com/steam/apps/1905310/ss_5c05a9b9e976a5664becb60916306c1855bd22e7.1920x1080.jpg?t=1646154769",
+    "Slug": "wordies",
+    "Meta Title": "Wordies: Mar 1, 2022, Rye and Full Overview",
+    "Meta Description": "Looking for information on Wordies? Check out the release date (Mar 1, 2022), developer insights from Rye, and a complete game summary.",
+    "Alt Text Image": "Official header image for Wordies game - Steam 1905310",
+    "Canonical URL": "https://gusku.site/game/wordies",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Wordies\", \"description\": \"Looking for information on Wordies? Check out the release date (Mar 1, 2022), developer insights from Rye, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rye\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rye\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1905310/header.jpg?t=1646154769\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

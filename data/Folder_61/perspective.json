@@ -1,0 +1,21 @@
+{
+    "AppID": 1109410,
+    "Name": "Perspective",
+    "Release date": "Oct 9, 2019",
+    "About the game": "Perspective is a first person puzzle game developed by students at DigiPen in 2012. Now, for the first time, the game comes to Steam, updated for modern computers. In Perspective, the player has two modes of control: a first person camera moving in 3D space, and a 2D avatar constrained to your screen. In order to get the 2D avatar to the exit at the end of the level, the 3D player needs to move around to create new 2D paths. Unlike other spatial puzzle games like Crush or Fez, Perspective allows the 3D player to move around freely, opening up new ways to use perspective tricks to solve puzzles in 2D. About Development This game was developed as a student project at DigiPen Institute of Technology and was created for educational purposes only. Please check out our publisher page for more information.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1109410/header.jpg?t=1638156223",
+    "Price": 0.0,
+    "Developers": "Widdershins",
+    "Publishers": "DigiPen Institute of Technology",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1109410/ss_c1d1b08b70caf0d4d3e99bd5174a7964d6c5fe8d.1920x1080.jpg?t=1638156223,https://cdn.akamai.steamstatic.com/steam/apps/1109410/ss_84ea9f227617624d1d695124bb3895c7287f406b.1920x1080.jpg?t=1638156223,https://cdn.akamai.steamstatic.com/steam/apps/1109410/ss_ac8d78555c6713b429e3359698afb029967a09ec.1920x1080.jpg?t=1638156223,https://cdn.akamai.steamstatic.com/steam/apps/1109410/ss_07583deb385968b92a06c6117659c3438cac8f5e.1920x1080.jpg?t=1638156223,https://cdn.akamai.steamstatic.com/steam/apps/1109410/ss_372115118d08747ae4b87cbeb92fdfcd84fcde74.1920x1080.jpg?t=1638156223",
+    "Slug": "perspective",
+    "Meta Title": "Perspective: Oct 9, 2019, Widdershins and Full Overview",
+    "Meta Description": "Looking for information on Perspective? Check out the release date (Oct 9, 2019), developer insights from Widdershins, and a complete game summary.",
+    "Alt Text Image": "Official header image for Perspective game - Steam 1109410",
+    "Canonical URL": "https://gusku.site/game/perspective",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Perspective\", \"description\": \"Looking for information on Perspective? Check out the release date (Oct 9, 2019), developer insights from Widdershins, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 9, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Widdershins\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DigiPen Institute of Technology\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1109410/header.jpg?t=1638156223\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

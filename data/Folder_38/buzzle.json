@@ -1,0 +1,21 @@
+{
+    "AppID": 1414600,
+    "Name": "Buzzle",
+    "Release date": "Oct 1, 2020",
+    "About the game": "Buzzle is a simple, small, 3D Puzzle game where you move the cubes up, down, left and right. The goal is to get the marked cube to the opening. There are also 40 levels to complete. A small Note for the players: The levels aren't sorted in difficulty, meaning a level that is before one other level could be harder than the next one. Controls: Move orange with: W - Up S - Down Move pink with: A - Left D - Right R - Restart ESC - Pause Updates: More Updates are coming in the future!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1414600/header.jpg?t=1633280080",
+    "Price": 1.99,
+    "Developers": "rai",
+    "Publishers": "rai",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1414600/ss_6cd4b831afb8b935c3698b92de2cb7680c0c5b07.1920x1080.jpg?t=1633280080,https://cdn.akamai.steamstatic.com/steam/apps/1414600/ss_0d298c846d1caf3ab95f33efa114628128b01e27.1920x1080.jpg?t=1633280080,https://cdn.akamai.steamstatic.com/steam/apps/1414600/ss_fb576cbcd1de6dbd6ac71e6c2cb52391987a97b9.1920x1080.jpg?t=1633280080,https://cdn.akamai.steamstatic.com/steam/apps/1414600/ss_21a9b4ca71fa15a784e8e592ded174ec54a9278f.1920x1080.jpg?t=1633280080,https://cdn.akamai.steamstatic.com/steam/apps/1414600/ss_29270f5d91300070e4c6708524bf3913b2b61873.1920x1080.jpg?t=1633280080,https://cdn.akamai.steamstatic.com/steam/apps/1414600/ss_ff22256cabf9c73012f51f434f22e44a811ace22.1920x1080.jpg?t=1633280080,https://cdn.akamai.steamstatic.com/steam/apps/1414600/ss_e4a5064736d25733e56ca7c47a0a3e8f6d8ed981.1920x1080.jpg?t=1633280080,https://cdn.akamai.steamstatic.com/steam/apps/1414600/ss_989488f3bc9144dd34a0f979780808e42c066956.1920x1080.jpg?t=1633280080",
+    "Slug": "buzzle",
+    "Meta Title": "Buzzle: Oct 1, 2020, rai and Full Overview",
+    "Meta Description": "Looking for information on Buzzle? Check out the release date (Oct 1, 2020), developer insights from rai, and a complete game summary.",
+    "Alt Text Image": "Official header image for Buzzle game - Steam 1414600",
+    "Canonical URL": "https://gusku.site/game/buzzle",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Buzzle\", \"description\": \"Looking for information on Buzzle? Check out the release date (Oct 1, 2020), developer insights from rai, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 1, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"rai\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"rai\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1414600/header.jpg?t=1633280080\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

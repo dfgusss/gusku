@@ -1,0 +1,21 @@
+{
+    "AppID": 1072000,
+    "Name": "Alice in CyberCity",
+    "Release date": "May 27, 2019",
+    "About the game": "Alice in CyberCity Alice in CyberCity is cyberpunk themed outcome of five week studentproject in Ahlman Institute. CyberCity is city of future where droids and ex-humans-now-cyborgs and few human still left are living their everyday lives. Few humans left in city are not satisfied how things are changing more bad for them from day to day, but must come along with the change. Player must complete quests as Alice, the main character of story. Genre Single-player first person view science-fiction fantasy action indiegame. Controls W - Move forward A - Move left S - Move reverse D - Move right E - Interact Space - Jump Shift - Run Left ctrl - Crouch Left mouse button - Next during dialogs / Shoot / Show middle finger Right mouse button - Throw items Quests Questlog is located in upper left corner of the game. Quests will always be there and successfully guide you through the whole game. Minimap Minimap is located in upper right corner of the game. Arrow shows direction related to current quest where to go. Programmers Jussi Mäki-Kahra Game Design, Project Lead, Lead Programmer Olli Grön Vice Lead Programmer Markus Alvinen Programmer Väinö Oksanen Programmer Artists Anna-Lydia Surakka Vice Project Lead, Lead Artist Anisia Turunen Vice Lead Artist Petri Maatraiva Artist Katariina Paulaniemi Artist Juha Pudassalo Artist Heidi Sällström Artist Writer Sampo Vihavainen Story Writing Tools used Blender Gimp Substance Painter Unity Visual Studio Scripting language C#",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1072000/header.jpg?t=1565620201",
+    "Price": 0.0,
+    "Developers": "Team League",
+    "Publishers": "Ahlman Game Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1072000/ss_fd1f10a77ebece0a119a92941242ae26ba320c64.1920x1080.jpg?t=1565620201,https://cdn.akamai.steamstatic.com/steam/apps/1072000/ss_dadf8eccba68778435aa830cefcbdc576cccd953.1920x1080.jpg?t=1565620201,https://cdn.akamai.steamstatic.com/steam/apps/1072000/ss_4e10fe96869f90e029ff115f9a942e3f748f083a.1920x1080.jpg?t=1565620201,https://cdn.akamai.steamstatic.com/steam/apps/1072000/ss_3854ea1d45fc1bc95ccd37230c77030c4a751af7.1920x1080.jpg?t=1565620201,https://cdn.akamai.steamstatic.com/steam/apps/1072000/ss_91b3ddf9d3b7b2a6cd378db9c8273f7e5fba381c.1920x1080.jpg?t=1565620201",
+    "Slug": "alice-in-cybercity",
+    "Meta Title": "Alice in CyberCity: May 27, 2019, Team League and Full Ov...",
+    "Meta Description": "Looking for information on Alice in CyberCity? Check out the release date (May 27, 2019), developer insights from Team League, and a complete game summary.",
+    "Alt Text Image": "Official header image for Alice in CyberCity game - Steam 1072000",
+    "Canonical URL": "https://gusku.site/game/alice-in-cybercity",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Alice in CyberCity\", \"description\": \"Looking for information on Alice in CyberCity? Check out the release date (May 27, 2019), developer insights from Team League, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 27, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Team League\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ahlman Game Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1072000/header.jpg?t=1565620201\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

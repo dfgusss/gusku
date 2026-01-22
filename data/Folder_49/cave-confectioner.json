@@ -1,0 +1,21 @@
+{
+    "AppID": 1181900,
+    "Name": "Cave Confectioner",
+    "Release date": "Mar 16, 2021",
+    "About the game": "Cave Confectioner is a back-to-the-land farming and cooking RPG. Farm crops, discover new recipes, fight wild animals, and get to know the locals. Explore an open world Go almost anywhere, interact with almost anything, eat almost anything. The temperate climate makes crops grow fast and food plentiful. Combine ingredients An intuitive crafting system lets you at least attempt to combine everything with everything, whether or not the things go together. Combine natural ingredients with manmade things and fixtures of the world. Dozens of end products are formed by unique recipes, and only the correct combinations yield the goods. Choose your own path Craft things, sell foodstuffs to cave people, poke around and see how nature reacts. There is no 'quest' or 'mission' dialog box telling you where to go. Advancement is achieved through secrets and exploration. Built to last This developer has done the heavy lifting to give you a constant 60 FPS. A custom C++/OpenGL engine is used, Windows executables are built with MinGW, Linux executables are built against glibc 2.25 and tested on the latest versions of Ubuntu. There is no third-party proprietary software outside of Apple platforms. Anything that breaks is fixable.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1181900/header.jpg?t=1653244480",
+    "Price": 2.99,
+    "Developers": "Motor Strip Entertainment",
+    "Publishers": "Motor Strip Entertainment",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1181900/ss_b58e1124bb569e243b42ec080015017e98d10f28.1920x1080.jpg?t=1653244480,https://cdn.akamai.steamstatic.com/steam/apps/1181900/ss_5eb18a3a7f69b6b70b2fec57c976564c415e4d1c.1920x1080.jpg?t=1653244480,https://cdn.akamai.steamstatic.com/steam/apps/1181900/ss_c67e76d2d65fe1d220d4cc27bc316b589d69ad59.1920x1080.jpg?t=1653244480,https://cdn.akamai.steamstatic.com/steam/apps/1181900/ss_d7f1b744eef381c06bbec255e9dd9677c1717b6e.1920x1080.jpg?t=1653244480,https://cdn.akamai.steamstatic.com/steam/apps/1181900/ss_20f6af528f3b6d2c9f1ff966e1a9460d2c19c806.1920x1080.jpg?t=1653244480,https://cdn.akamai.steamstatic.com/steam/apps/1181900/ss_17c9549d81bb9291b7615bee4cea87823598f60e.1920x1080.jpg?t=1653244480,https://cdn.akamai.steamstatic.com/steam/apps/1181900/ss_71edb6fa6ce229d49af828e85a42f5495e3113a7.1920x1080.jpg?t=1653244480",
+    "Slug": "cave-confectioner",
+    "Meta Title": "Cave Confectioner: Mar 16, 2021, Motor Strip Entertainmen...",
+    "Meta Description": "Looking for information on Cave Confectioner? Check out the release date (Mar 16, 2021), developer insights from Motor Strip Entertainment, and a comple...",
+    "Alt Text Image": "Official header image for Cave Confectioner game - Steam 1181900",
+    "Canonical URL": "https://gusku.site/game/cave-confectioner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cave Confectioner\", \"description\": \"Looking for information on Cave Confectioner? Check out the release date (Mar 16, 2021), developer insights from Motor Strip Entertainment, and a comple...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 16, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Motor Strip Entertainment\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Motor Strip Entertainment\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1181900/header.jpg?t=1653244480\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

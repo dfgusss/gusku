@@ -1,0 +1,21 @@
+{
+    "AppID": 1171220,
+    "Name": "RPG Maker MV Tools - Database ConVerter MV",
+    "Release date": "Nov 5, 2019",
+    "About the game": "This software is a support application to exchange databases of RPG Maker MV into Excel or CSV format. It can write RPG Maker MV's database and events into datasheets for Excel or CSV, and read them. You can use this software for purposes such as below: Parameter adjustment to give an overview of database Edit database and events efficiently and with high flexibility by using formula, format and Macro Port data or events to other project 2. Output Object Data listed below: ●Database: Input / output existing database. The file name is Database. Extension will be applied to fit the output format. Tileset and common event do no apply. Independently defined data (referred to from the script) can be input / output as well. ●Common Event: Input / output executed contents of common event, The file name is CommonEvents. ●Map Event: Input / output executed contents of map event. The file name is MapXXX. Event ID and Event Page will be output in sheet name",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1171220/header.jpg?t=1654504256",
+    "Price": 0.0,
+    "Developers": "Gotcha Gotcha Games,KADOKAWA",
+    "Publishers": "Degica",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1171220/ss_53a354d9360d849fde07bdb4f966d6fc7667eb2e.1920x1080.jpg?t=1654504256,https://cdn.akamai.steamstatic.com/steam/apps/1171220/ss_c8623e395865053d2c5a04e84d84837745c259ca.1920x1080.jpg?t=1654504256,https://cdn.akamai.steamstatic.com/steam/apps/1171220/ss_0ffe14bafd4d2bb8832833619e38a09bb0bf9150.1920x1080.jpg?t=1654504256,https://cdn.akamai.steamstatic.com/steam/apps/1171220/ss_da8fb3b7f34304ea2f0cac099c1bab91002a098a.1920x1080.jpg?t=1654504256,https://cdn.akamai.steamstatic.com/steam/apps/1171220/ss_2e4c213cd31d93fe53db5354d254b84686c0ac28.1920x1080.jpg?t=1654504256",
+    "Slug": "rpg-maker-mv-tools-database-converter-mv",
+    "Meta Title": "RPG Maker MV Tools - Database ConVerter MV: Nov 5, 2019, ...",
+    "Meta Description": "Looking for information on RPG Maker MV Tools - Database ConVerter MV? Check out the release date (Nov 5, 2019), developer insights from Gotcha Gotcha G...",
+    "Alt Text Image": "Official header image for RPG Maker MV Tools - Database ConVerter MV game - Steam 1171220",
+    "Canonical URL": "https://gusku.site/game/rpg-maker-mv-tools-database-converter-mv",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RPG Maker MV Tools - Database ConVerter MV\", \"description\": \"Looking for information on RPG Maker MV Tools - Database ConVerter MV? Check out the release date (Nov 5, 2019), developer insights from Gotcha Gotcha G...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 5, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gotcha Gotcha Games,KADOKAWA\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Degica\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1171220/header.jpg?t=1654504256\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

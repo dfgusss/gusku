@@ -1,0 +1,21 @@
+{
+    "AppID": 1828400,
+    "Name": "Ghoul Dungeon",
+    "Release date": "Dec 27, 2021",
+    "About the game": "Ghoul Dungeon is a level-based adventure. As you make your way, you will encounter monsters you must fight off. You'll only be able to hit them up close, so make use of the ability to dash in order to avoid getting hit. In addition, you will be able to use power slashes to deal additional damage. Make sure you're aware of your cooldowns! You'll also encounter capsules to to heal you or provide attack boosts. Make use of these to power through! Note: Game is still in development, so more levels will be released over time. Updates might be slow since I'm going through high school, but I'd definitely appreciate feedback! Current number of levels available: 4 Additional notes: - Ghoul Dungeon is playable with a controller, however this is implemented only for experimental purposes (suggested method to play is with keyboard and mouse) - Currently, enemies can only attack at a close range, however in a future update a ranged variant will be added",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1828400/header.jpg?t=1640636822",
+    "Price": 0.0,
+    "Developers": "Ghoul Dungeon Dev",
+    "Publishers": "Exponent Foundation",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1828400/ss_027db0d82d09bb43f3822b19d336ebc41a366af0.1920x1080.jpg?t=1640636822,https://cdn.akamai.steamstatic.com/steam/apps/1828400/ss_9efc240b62a343596f22920b2a17bbb429001241.1920x1080.jpg?t=1640636822,https://cdn.akamai.steamstatic.com/steam/apps/1828400/ss_0916521ad4c8032101d408fa5b4da68d1f818104.1920x1080.jpg?t=1640636822,https://cdn.akamai.steamstatic.com/steam/apps/1828400/ss_f36165671476e7f7751acaceac0f458c70c05192.1920x1080.jpg?t=1640636822,https://cdn.akamai.steamstatic.com/steam/apps/1828400/ss_bca92c0634e4d3948f28c156bf91e9698844e405.1920x1080.jpg?t=1640636822",
+    "Slug": "ghoul-dungeon",
+    "Meta Title": "Ghoul Dungeon: Dec 27, 2021, Ghoul Dungeon Dev and Full O...",
+    "Meta Description": "Looking for information on Ghoul Dungeon? Check out the release date (Dec 27, 2021), developer insights from Ghoul Dungeon Dev, and a complete game summ...",
+    "Alt Text Image": "Official header image for Ghoul Dungeon game - Steam 1828400",
+    "Canonical URL": "https://gusku.site/game/ghoul-dungeon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ghoul Dungeon\", \"description\": \"Looking for information on Ghoul Dungeon? Check out the release date (Dec 27, 2021), developer insights from Ghoul Dungeon Dev, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ghoul Dungeon Dev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Exponent Foundation\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1828400/header.jpg?t=1640636822\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

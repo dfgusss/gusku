@@ -1,0 +1,21 @@
+{
+    "AppID": 2221190,
+    "Name": "Neon Blast",
+    "Release date": "Feb 16, 2023",
+    "About the game": "In Neon Blast, the gamepad/keyboard is used to control a ball that can be recolored via color fields and destroys blocks of the same color. Furthermore, there are sliding stones and skull fields that cost a life. A level is solved when all destructible blocks are destroyed, the faster this happens, the more bonus points you get. Features challenging puzzle game 50 unique levels stylish, modern and clean graphics amazing soundtrack lightweight game engine Blocks yes, it is the ball ;) Move it with your controller Remove all of them in all colors changes the current ball color can be moved with the ball to reveal passages may not be touched, one life is lost cannot be removed, serves as an obstacle Hot to play A colored ball appears on the playing field and can be moved horizontally with the gamepad. The direction of the vertical movement is changed with each collision on a block or on the edge of the level. The goal is to remove all blocks of one color to get to the next level. The color of the ball is important because only blocks with the current ball color can be cleared. You have a limited number of lives, when all are lost you have the choice to start the game from scratch to improve your highscore or to continue playing. However, the points are set to zero again. Special blocks help to complete the level or make the game more difficult.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2221190/header.jpg?t=1676632374",
+    "Price": 3.99,
+    "Developers": "EntwicklerX",
+    "Publishers": "EntwicklerX",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2221190/ss_26b5ea25600a028f3a5c7d91690280ab03d9dbfa.1920x1080.jpg?t=1676632374,https://cdn.akamai.steamstatic.com/steam/apps/2221190/ss_5f40345cd9890c55ac44c4e370a07bd2cf5b762e.1920x1080.jpg?t=1676632374,https://cdn.akamai.steamstatic.com/steam/apps/2221190/ss_d27a6c31d3838e85ac55590e25a98e22be62bd97.1920x1080.jpg?t=1676632374,https://cdn.akamai.steamstatic.com/steam/apps/2221190/ss_2def998f3121312e5ab216923c1fba91a212b7d8.1920x1080.jpg?t=1676632374,https://cdn.akamai.steamstatic.com/steam/apps/2221190/ss_3215c05f2d1f3212c4fad69fc29b3fb96b0dce2f.1920x1080.jpg?t=1676632374,https://cdn.akamai.steamstatic.com/steam/apps/2221190/ss_3fc6df1a31302e76129ce265b102abb12edb0656.1920x1080.jpg?t=1676632374",
+    "Slug": "neon-blast",
+    "Meta Title": "Neon Blast: Feb 16, 2023, EntwicklerX and Full Overview",
+    "Meta Description": "Looking for information on Neon Blast? Check out the release date (Feb 16, 2023), developer insights from EntwicklerX, and a complete game summary.",
+    "Alt Text Image": "Official header image for Neon Blast game - Steam 2221190",
+    "Canonical URL": "https://gusku.site/game/neon-blast",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Neon Blast\", \"description\": \"Looking for information on Neon Blast? Check out the release date (Feb 16, 2023), developer insights from EntwicklerX, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 16, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"EntwicklerX\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"EntwicklerX\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2221190/header.jpg?t=1676632374\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

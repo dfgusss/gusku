@@ -1,0 +1,21 @@
+{
+    "AppID": 1060840,
+    "Name": "Maze of Memories",
+    "Release date": "Apr 25, 2019",
+    "About the game": "Maze of Memories is a mildly challenging maze puzzle game where the solution - the path from start to finish - is an outline of a known landmark or place from around the world. Some of the levels are easier while others are more difficult. It features 3 different sizes for a total of 60 levels: - 10 levels of 40x40 - 20 levels of 76x50 - 30 levels of 120x70 All of the mazes are perfect mazes, meaning none of them has a loop in it and there is only one solution. The controls are done either by the W.A.S.D. buttons or by the arrow keys. Alternatively the mouse can be used as well by clicking on the head of the 'snake'. Clicking on it again or using the keyboard movements disables this effect. The path that has already been taken is marked in the maze. This might help to not to get lost twice in the same dead end. This feature can be turned off/on in the lower right corner. Some tips: - if it seems that you are stuck then somewhere along the way you've taken a wrong turn. Maybe right at the start. - sometimes the way forward goes backwards. - sometimes the correct path can be seen just by looking at the big picture. Other times it's just misleading. Have fun! Rumly",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1060840/header.jpg?t=1628267722",
+    "Price": 1.99,
+    "Developers": "Rumly",
+    "Publishers": "Rumly",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1060840/ss_79cf3126c0eafa859e9d3a705c744d63772baa2f.1920x1080.jpg?t=1628267722,https://cdn.akamai.steamstatic.com/steam/apps/1060840/ss_d910e83f8a388ce656a5fad6e4e814ce2661c44a.1920x1080.jpg?t=1628267722,https://cdn.akamai.steamstatic.com/steam/apps/1060840/ss_2b49ca3f9a9bf78bbf32ca1d69f41f8ce51805f8.1920x1080.jpg?t=1628267722,https://cdn.akamai.steamstatic.com/steam/apps/1060840/ss_5e1ddc8d998da223e98698bc3d15870d799a572c.1920x1080.jpg?t=1628267722,https://cdn.akamai.steamstatic.com/steam/apps/1060840/ss_e12e0fdab9a9e9405137b2bc06b7758ae9d68a25.1920x1080.jpg?t=1628267722,https://cdn.akamai.steamstatic.com/steam/apps/1060840/ss_ba65b9547e2bce1dd6ccfa9c5cb944386bf0c117.1920x1080.jpg?t=1628267722,https://cdn.akamai.steamstatic.com/steam/apps/1060840/ss_71f60a5622e9fd532587353c80eaba7c09d623c2.1920x1080.jpg?t=1628267722",
+    "Slug": "maze-of-memories",
+    "Meta Title": "Maze of Memories: Apr 25, 2019, Rumly and Full Overview",
+    "Meta Description": "Looking for information on Maze of Memories? Check out the release date (Apr 25, 2019), developer insights from Rumly, and a complete game summary.",
+    "Alt Text Image": "Official header image for Maze of Memories game - Steam 1060840",
+    "Canonical URL": "https://gusku.site/game/maze-of-memories",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Maze of Memories\", \"description\": \"Looking for information on Maze of Memories? Check out the release date (Apr 25, 2019), developer insights from Rumly, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 25, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rumly\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rumly\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1060840/header.jpg?t=1628267722\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

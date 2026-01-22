@@ -1,0 +1,21 @@
+{
+    "AppID": 1838980,
+    "Name": "Polyion",
+    "Release date": "Nov 9, 2022",
+    "About the game": "Polyion is a casual world building game. The only catch is that your world has a lifetime and it's your job to place tiles strategically to fill up the reset square and reset the timer to keep your world alive. World Building You're provided with random tiles which you can place anywhere. These tiles have stats that change how the reset square is affected, place the tiles in the best and most optimal position and you might just be able to keep your world alive. The Timers The timer on the bottom right of your screen (white square) is your world health and it is your priority to keep resetting it as often as you can to make sure your world continues to survive, which is done by filling up the reset gauge (golden square). Keep that up and your world will continue to survive, but fail and your world will eventually fall. World Types and Modes As of right now there are three different world types to choose from, each world has its own unique tiles and variables. Survival mode puts you up against a timer, which counts down until it hits zero... unless you manage to fill your reset bar and reset the timer to keep your world alive. There is also a creative mode which allows you to build your world with all the tiles in the game, this can be used as a way to plan out worlds or just as a way to have fun and to see what's in the game!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1838980/header.jpg?t=1668015045",
+    "Price": 1.99,
+    "Developers": "WideLuke",
+    "Publishers": "WideLuke",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1838980/ss_fa5879009b756b1729c1c086337dae35e2451a9c.1920x1080.jpg?t=1668015045,https://cdn.akamai.steamstatic.com/steam/apps/1838980/ss_d1858f13123ad4ea5ab8070765e615a93a556474.1920x1080.jpg?t=1668015045,https://cdn.akamai.steamstatic.com/steam/apps/1838980/ss_dfbdf68358f622f87d5c8b110c507167eb17d081.1920x1080.jpg?t=1668015045,https://cdn.akamai.steamstatic.com/steam/apps/1838980/ss_f6c477b763170b500c0be5409b2df08df78f3174.1920x1080.jpg?t=1668015045,https://cdn.akamai.steamstatic.com/steam/apps/1838980/ss_f55b36a29c5da30ed6c4c4e67d071d1f62b22630.1920x1080.jpg?t=1668015045",
+    "Slug": "polyion",
+    "Meta Title": "Polyion: Nov 9, 2022, WideLuke and Full Overview",
+    "Meta Description": "Looking for information on Polyion? Check out the release date (Nov 9, 2022), developer insights from WideLuke, and a complete game summary.",
+    "Alt Text Image": "Official header image for Polyion game - Steam 1838980",
+    "Canonical URL": "https://gusku.site/game/polyion",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Polyion\", \"description\": \"Looking for information on Polyion? Check out the release date (Nov 9, 2022), developer insights from WideLuke, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 9, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"WideLuke\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"WideLuke\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1838980/header.jpg?t=1668015045\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

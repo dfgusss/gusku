@@ -1,0 +1,21 @@
+{
+    "AppID": 2105420,
+    "Name": "Flappy Bird",
+    "Release date": "Aug 17, 2022",
+    "About the game": "'Flappy Bird' is a casual game in which the player controls a cute bird through obstacles after obstacles. The bird controlled by the player will automatically fly forward, and the player can control the height of the bird's flight. After the bird flies over the obstacle, it will add points, but it cannot touch the obstacle or the ground. Once it touches the obstacle or the ground, the game will fail. 【Game Control】 Click the left mouse button to increase the flying height of the bird. 【Game Features】 During the flight of the bird, it will fall due to gravity. The player can increase the flying height of the bird by clicking the mouse. The height of the raising will be determined according to the time of pressing the mouse, so it is necessary to master a certain rhythm. The difficulty of the game is great, waiting for your challenge.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2105420/header.jpg?t=1660739624",
+    "Price": 4.99,
+    "Developers": "jjGame",
+    "Publishers": "jjGame",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2105420/ss_e266fb51fc90133df147ad718f9ea370097ca760.1920x1080.jpg?t=1660739624,https://cdn.akamai.steamstatic.com/steam/apps/2105420/ss_1402363798be1d64c437f2baee129444b8bc2441.1920x1080.jpg?t=1660739624,https://cdn.akamai.steamstatic.com/steam/apps/2105420/ss_958784da5bfc4e61fe932dd4d24c1735f7d73bc1.1920x1080.jpg?t=1660739624,https://cdn.akamai.steamstatic.com/steam/apps/2105420/ss_8a4b3bb76f481fc25f408e31594b78f8cb1885bf.1920x1080.jpg?t=1660739624,https://cdn.akamai.steamstatic.com/steam/apps/2105420/ss_b01954fc6ca8842040fdeb6da3ad9401d4a35e2d.1920x1080.jpg?t=1660739624,https://cdn.akamai.steamstatic.com/steam/apps/2105420/ss_87ca8441d368b3025f21cfddc18738869e5ceaa4.1920x1080.jpg?t=1660739624",
+    "Slug": "flappy-bird",
+    "Meta Title": "Flappy Bird: Aug 17, 2022, jjGame and Full Overview",
+    "Meta Description": "Looking for information on Flappy Bird? Check out the release date (Aug 17, 2022), developer insights from jjGame, and a complete game summary.",
+    "Alt Text Image": "Official header image for Flappy Bird game - Steam 2105420",
+    "Canonical URL": "https://gusku.site/game/flappy-bird",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Flappy Bird\", \"description\": \"Looking for information on Flappy Bird? Check out the release date (Aug 17, 2022), developer insights from jjGame, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"jjGame\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"jjGame\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2105420/header.jpg?t=1660739624\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

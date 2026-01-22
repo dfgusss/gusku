@@ -1,0 +1,21 @@
+{
+    "AppID": 1995340,
+    "Name": "Zoo Chess",
+    "Release date": "Sep 7, 2022",
+    "About the game": "ZooChess is a turn-based strategy game where each piece on the board, in addition to the classic chess moves, has its own unique abilities. To win, the player must capture the opposing player's king. Game Modes: Player vs A.I. Player vs Player GamePlay: Two players face off in PvP or PvE matches on a board inspired by the rules of chess. The blue player is always the first to play and can choose to use one of his piece's abilities or do his normal movement, after making his decision the red player has the option to counterattack. Parts Abilities: Lion - Can attack again whenever he defeats an enemy piece. Lioness - Can incorporate the movement of all pieces on the board for 1 turn. Praying Mantis - Can permanently silence enemy pieces' abilities. Donkey - can kick a piece on its back, stunning it for 3 turns. Giraffe - Can run over allied pieces. Fox - Can move back one square. Rabbit - Can move 1 additional square to the frontline. Turtle - Can hide in its shell making it invulnerable to any damage for 3 turns. Chicken - Can lay an egg on the board that will hatch into a new piece as soon as it leaves the nest. Toad - Will poison the attacker. Crab - Can move sideways. Pig - If you are on the field your player has 10 seconds more time to play per turn. Wolf - Can attack pieces in front of you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1995340/header.jpg?t=1662572530",
+    "Price": 7.99,
+    "Developers": "Anderson Magalhães,João Murackami",
+    "Publishers": NaN,
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1995340/ss_f33bdba56d652f491ab6f492c99ff3eda6b33883.1920x1080.jpg?t=1662572530,https://cdn.akamai.steamstatic.com/steam/apps/1995340/ss_ecd72f7583efdc7a0f915bd4c65eb3f92fd79880.1920x1080.jpg?t=1662572530,https://cdn.akamai.steamstatic.com/steam/apps/1995340/ss_c9e8b08c997ccfd551831a60777f775416679fa1.1920x1080.jpg?t=1662572530,https://cdn.akamai.steamstatic.com/steam/apps/1995340/ss_e86f6214509ec65cef090a15c81fc005e1d137bf.1920x1080.jpg?t=1662572530,https://cdn.akamai.steamstatic.com/steam/apps/1995340/ss_36bd260ce1c48a0be1fa4177d5fe2938311912ce.1920x1080.jpg?t=1662572530",
+    "Slug": "zoo-chess",
+    "Meta Title": "Zoo Chess: Sep 7, 2022, Anderson Magalhães,João Murackami...",
+    "Meta Description": "Looking for information on Zoo Chess? Check out the release date (Sep 7, 2022), developer insights from Anderson Magalhães,João Murackami, and a complet...",
+    "Alt Text Image": "Official header image for Zoo Chess game - Steam 1995340",
+    "Canonical URL": "https://gusku.site/game/zoo-chess",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Zoo Chess\", \"description\": \"Looking for information on Zoo Chess? Check out the release date (Sep 7, 2022), developer insights from Anderson Magalh\\u00e3es,Jo\\u00e3o Murackami, and a complet...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 7, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Anderson Magalh\\u00e3es,Jo\\u00e3o Murackami\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": NaN}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1995340/header.jpg?t=1662572530\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

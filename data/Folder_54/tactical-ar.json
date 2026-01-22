@@ -1,0 +1,21 @@
+{
+    "AppID": 720510,
+    "Name": "Tactical AR",
+    "Release date": "Nov 7, 2017",
+    "About the game": "Tactical AR is a training platform for firearms skills in virtual reality. We make training engaging, and accessible to help individuals be prepared to protect life. Muscle memory, and reaction time is built through repetition, and measured through data. All of our weapon profiles can be recalibrated to make sure that what you see, matches the grip angle of the weapon you run in the real world. Our training courses are scored on time, to induce stress. Each course of fire tracks top scores to help measure improvement and consistency. Our platform makes heavy use of dynamic content, and provides tools for editing and creating additional content while in VR. All SteamVR and Oculus headsets now fully supported, including Quest and Quest 2 on Link Unique Features: We currently support 3 external firearms controllers, with more on the way. Current Course Support Over 20 unique run and gun courses currently available, with more on the way, and we have an In VR Course builder Live in game Current controller support: All Standard VR controllers (Grip angle of all weapons is customizable per profile) Sony Sharpshooter Cabela's Top Shot Elite (PS3) Current Movement Support: Controller based directional movement (Menu button, and direction controller is facing, when at a low ready, and pointing your muzzle at the ground) Course Builder: Select Level Builder profile, and follow the on screen instructions to start making your own. A future release will include built in course sharing features.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/720510/header.jpg?t=1613735769",
+    "Price": 12.99,
+    "Developers": "Tactical AR",
+    "Publishers": "Tactical AR",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/720510/ss_81af11eef99d98ac1715d8fd524ef0485b38d238.1920x1080.jpg?t=1613735769,https://cdn.akamai.steamstatic.com/steam/apps/720510/ss_1be373e4cee8fa640b2f4ab220515b4bbc678523.1920x1080.jpg?t=1613735769,https://cdn.akamai.steamstatic.com/steam/apps/720510/ss_64a5e363163f2f053a37f5f2b01cd6df5476d697.1920x1080.jpg?t=1613735769,https://cdn.akamai.steamstatic.com/steam/apps/720510/ss_73466bd3ffc5024bcb2722270877e589843a1608.1920x1080.jpg?t=1613735769,https://cdn.akamai.steamstatic.com/steam/apps/720510/ss_1203855bf9c7b54b01cc9714a2e2e6c9f1406498.1920x1080.jpg?t=1613735769",
+    "Slug": "tactical-ar",
+    "Meta Title": "Tactical AR: Nov 7, 2017, Tactical AR and Full Overview",
+    "Meta Description": "Looking for information on Tactical AR? Check out the release date (Nov 7, 2017), developer insights from Tactical AR, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tactical AR game - Steam 720510",
+    "Canonical URL": "https://gusku.site/game/tactical-ar",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tactical AR\", \"description\": \"Looking for information on Tactical AR? Check out the release date (Nov 7, 2017), developer insights from Tactical AR, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 7, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tactical AR\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tactical AR\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/720510/header.jpg?t=1613735769\", \"offers\": {\"@type\": \"Offer\", \"price\": 12.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2027180,
+    "Name": "Silver Wire",
+    "Release date": "Jun 22, 2022",
+    "About the game": "'Silver Wire' is an action game where you can enjoy defeating enemies with wires. The purpose of this game is to kill as many enemies as possible. Player Actions: - Bind and cut monsters. Stages: - 1. Night Hall (zombie, bat) - 2. Butterfly cage (zombie, butterfly) - 3. Jellyfish Aquarium (zombie, jellyfish) - 4. Knight Hall (zombie, knight) Rules: - If you touch an enemy, you will be damaged. - The first damage is prevented by the shield, but the second is game over. - The shield will heal when you defeat 100 enemies. You are free to make gameplay videos and stream live.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2027180/header.jpg?t=1658407816",
+    "Price": 1.99,
+    "Developers": "IzukawaN",
+    "Publishers": "IzukawaN",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2027180/ss_474aa0a541ad7c5c8d5eb21d8e31257ce52eb08e.1920x1080.jpg?t=1658407816,https://cdn.akamai.steamstatic.com/steam/apps/2027180/ss_bf6809c2c56c6db0a964d0ee20c2963577c5ea01.1920x1080.jpg?t=1658407816,https://cdn.akamai.steamstatic.com/steam/apps/2027180/ss_0426cb40ae24ec900bd630c41d7a13957509a817.1920x1080.jpg?t=1658407816,https://cdn.akamai.steamstatic.com/steam/apps/2027180/ss_e11125bd0f430289b644335ffa8fd1ee89443e96.1920x1080.jpg?t=1658407816,https://cdn.akamai.steamstatic.com/steam/apps/2027180/ss_978524c9d40bdc04ba30051f619cd95ddb8f5434.1920x1080.jpg?t=1658407816",
+    "Slug": "silver-wire",
+    "Meta Title": "Silver Wire: Jun 22, 2022, IzukawaN and Full Overview",
+    "Meta Description": "Looking for information on Silver Wire? Check out the release date (Jun 22, 2022), developer insights from IzukawaN, and a complete game summary.",
+    "Alt Text Image": "Official header image for Silver Wire game - Steam 2027180",
+    "Canonical URL": "https://gusku.site/game/silver-wire",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Silver Wire\", \"description\": \"Looking for information on Silver Wire? Check out the release date (Jun 22, 2022), developer insights from IzukawaN, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 22, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"IzukawaN\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"IzukawaN\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2027180/header.jpg?t=1658407816\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

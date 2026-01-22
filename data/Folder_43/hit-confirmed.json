@@ -1,0 +1,21 @@
+{
+    "AppID": 1710530,
+    "Name": "Hit Confirmed",
+    "Release date": "Aug 12, 2021",
+    "About the game": "The sniper makes a shot and your task is to control the bullet to make as many kills as possible. The bullet goes down all the time, and by pressing the left mouse button, you push the bullet up, and, avoiding obstacles, you need to make as many kills as possible, hitting the soldiers. The bullet has health points that decrease after each collision with an obstacle, so you need to get used to it so as not to lose.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1710530/header.jpg?t=1628754235",
+    "Price": 0.99,
+    "Developers": "beans rolls",
+    "Publishers": "beans rolls",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1710530/ss_b614ac38ea7d7976023e03d77d9efac07ecf498e.1920x1080.jpg?t=1628754235,https://cdn.akamai.steamstatic.com/steam/apps/1710530/ss_54264d34f3ece42762d9b1b14f366104fa56acf6.1920x1080.jpg?t=1628754235,https://cdn.akamai.steamstatic.com/steam/apps/1710530/ss_ac69f44cb7d385edfdeba067b44d2d297679d607.1920x1080.jpg?t=1628754235,https://cdn.akamai.steamstatic.com/steam/apps/1710530/ss_db68f14b1f42fef39b21d9cea24cdd6dcdef5ab0.1920x1080.jpg?t=1628754235,https://cdn.akamai.steamstatic.com/steam/apps/1710530/ss_fdde42adad4a60ec2ce77c95316df10fbb586c48.1920x1080.jpg?t=1628754235",
+    "Slug": "hit-confirmed",
+    "Meta Title": "Hit Confirmed: Aug 12, 2021, beans rolls and Full Overview",
+    "Meta Description": "Looking for information on Hit Confirmed? Check out the release date (Aug 12, 2021), developer insights from beans rolls, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hit Confirmed game - Steam 1710530",
+    "Canonical URL": "https://gusku.site/game/hit-confirmed",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hit Confirmed\", \"description\": \"Looking for information on Hit Confirmed? Check out the release date (Aug 12, 2021), developer insights from beans rolls, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 12, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"beans rolls\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1710530/header.jpg?t=1628754235\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

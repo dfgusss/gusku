@@ -1,0 +1,21 @@
+{
+    "AppID": 1366160,
+    "Name": "Top Billiards",
+    "Release date": "Jul 23, 2020",
+    "About the game": "'Top billiards' is an billiards competition game, In the current version, the game is divided into different levels, and players can play according to their own abilities. We implement and ensure the fairness of the game. We will not add props that can change any property in the game, but only provide props that change the appearance. Therefore, it basically depends on your ability and luck.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1366160/header.jpg?t=1602466562",
+    "Price": 1.99,
+    "Developers": "Tyluk",
+    "Publishers": "Tyluk",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1366160/ss_0f9b64e750f282f70bcedd1fccf5a08c49a85e2a.1920x1080.jpg?t=1602466562,https://cdn.akamai.steamstatic.com/steam/apps/1366160/ss_031f3f14e28ba82ffdcd8eb97aa906c8c934fd1f.1920x1080.jpg?t=1602466562,https://cdn.akamai.steamstatic.com/steam/apps/1366160/ss_60dc5cb9515b8d6aee0c31fdfa9dee4a3955b834.1920x1080.jpg?t=1602466562,https://cdn.akamai.steamstatic.com/steam/apps/1366160/ss_4afc2e219dc9544557c0a25ce6e27c117191abad.1920x1080.jpg?t=1602466562,https://cdn.akamai.steamstatic.com/steam/apps/1366160/ss_f69f602fe6c8cdc0882ef679d39ec4b08fef2705.1920x1080.jpg?t=1602466562,https://cdn.akamai.steamstatic.com/steam/apps/1366160/ss_6335a9c793aee2ccb4e1f12c1a2481662ab50c7b.1920x1080.jpg?t=1602466562,https://cdn.akamai.steamstatic.com/steam/apps/1366160/ss_0f3734f9d5d0e0225db830aec5d1c725e3684116.1920x1080.jpg?t=1602466562",
+    "Slug": "top-billiards",
+    "Meta Title": "Top Billiards: Jul 23, 2020, Tyluk and Full Overview",
+    "Meta Description": "Looking for information on Top Billiards? Check out the release date (Jul 23, 2020), developer insights from Tyluk, and a complete game summary.",
+    "Alt Text Image": "Official header image for Top Billiards game - Steam 1366160",
+    "Canonical URL": "https://gusku.site/game/top-billiards",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Top Billiards\", \"description\": \"Looking for information on Top Billiards? Check out the release date (Jul 23, 2020), developer insights from Tyluk, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 23, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tyluk\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tyluk\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1366160/header.jpg?t=1602466562\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

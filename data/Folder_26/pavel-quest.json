@@ -1,0 +1,21 @@
+{
+    "AppID": 366460,
+    "Name": "Pavel Quest",
+    "Release date": "May 13, 2015",
+    "About the game": "Pavel Quest is a pixel art, puzzle platformer where you cannot stop running, and you can only turn around by bumping into walls. Breakable walls, fireballs, acid spouts, and spikes are only some of the obstacles in your way. Created by ElevenSeventy, a team of two game lovers, Pavel Quest is the first commercial product released by ElevenSeventy. We opted to aim for a simple concept, and make it great. Over time we added features like gravity anomalies, bounce pads, fireballs, acid spouts, secret characters, and a replay system. All while preserving the balance of simplicity and difficulty. Pavel Quest is a hard game, but it is rewarding as well.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/366460/header.jpg?t=1478104067",
+    "Price": 2.99,
+    "Developers": "ElevenSeventy, LLC",
+    "Publishers": "ElevenSeventy, LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/366460/ss_bb7a539fed5d8cfd742acfea2c4b9713bfe97939.1920x1080.jpg?t=1478104067,https://cdn.akamai.steamstatic.com/steam/apps/366460/ss_6d0b8db96682ff3437cac087b04988bf4c035688.1920x1080.jpg?t=1478104067,https://cdn.akamai.steamstatic.com/steam/apps/366460/ss_2ab1292edeb633756620ad937da68a78d2505b1d.1920x1080.jpg?t=1478104067,https://cdn.akamai.steamstatic.com/steam/apps/366460/ss_72b9db7e54f19cad8ccb40d730f478ef408b1ae4.1920x1080.jpg?t=1478104067,https://cdn.akamai.steamstatic.com/steam/apps/366460/ss_af8bff8e8a9b91c1a867671a0dfda4f246eeba18.1920x1080.jpg?t=1478104067",
+    "Slug": "pavel-quest",
+    "Meta Title": "Pavel Quest: May 13, 2015, ElevenSeventy, LLC and Full Ov...",
+    "Meta Description": "Looking for information on Pavel Quest? Check out the release date (May 13, 2015), developer insights from ElevenSeventy, LLC, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pavel Quest game - Steam 366460",
+    "Canonical URL": "https://gusku.site/game/pavel-quest",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pavel Quest\", \"description\": \"Looking for information on Pavel Quest? Check out the release date (May 13, 2015), developer insights from ElevenSeventy, LLC, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 13, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"ElevenSeventy, LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ElevenSeventy, LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/366460/header.jpg?t=1478104067\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

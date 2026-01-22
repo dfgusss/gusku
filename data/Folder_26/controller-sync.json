@@ -1,0 +1,21 @@
+{
+    "AppID": 2075820,
+    "Name": "Controller Sync",
+    "Release date": "Jul 21, 2022",
+    "About the game": "Description Controller Sync is an arcade-style reaction game that lets you practice and compare your controller-skills with all other players. In order to play, you have to have an X-Box - or Playstation - like controller installed on your device. Gamemodes There are two main gamemodes in Controller Sync: Solo and Duo The Solo gamemode lets you focus on reaction speed and correct key usage , while you have to focus on good communication and synchronization in the Duo gamemode. You can play together with anyone! Leaderboard You can see the highscores of all players on the ingame-leaderboard. How does the game work? When starting a new game, you got 60 seconds to collect as many points as you can. Points can be gained by controlling a cursor with your joystick and pressing the right button for the nearest dot. Dots can either have the color blue or red . To collect a blue dot, you have to select blue as your controller color (The opposite with red dots). The collected dots are then stored in a blue or a red bar depending on the dot color. You can consume these bars to get one of three values increased: Blue bar - Time Red bar - Score (x2) Both Bars - Multiplier When you got no time left, the game is over and you see your new leaderboard-rank. So what are you waiting for? Practice your skills and prove them to others!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2075820/header.jpg?t=1658389783",
+    "Price": 0.99,
+    "Developers": "Matti Kuehl",
+    "Publishers": "Matti Kuehl",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2075820/ss_822ba258d0c563e7f5651026a83cc1bcb2ca40e9.1920x1080.jpg?t=1658389783,https://cdn.akamai.steamstatic.com/steam/apps/2075820/ss_59c5bcfd87046177917f89ded7f186e5fc6d1969.1920x1080.jpg?t=1658389783,https://cdn.akamai.steamstatic.com/steam/apps/2075820/ss_73aa406ac89422ace1c99da2b9b3abb99166f0e8.1920x1080.jpg?t=1658389783,https://cdn.akamai.steamstatic.com/steam/apps/2075820/ss_a57f277a4b278f0f98581571cc2f6c2beccdc696.1920x1080.jpg?t=1658389783,https://cdn.akamai.steamstatic.com/steam/apps/2075820/ss_29ae6b0ea5c0b04e04c43000d97996ca256e2829.1920x1080.jpg?t=1658389783",
+    "Slug": "controller-sync",
+    "Meta Title": "Controller Sync: Jul 21, 2022, Matti Kuehl and Full Overview",
+    "Meta Description": "Looking for information on Controller Sync? Check out the release date (Jul 21, 2022), developer insights from Matti Kuehl, and a complete game summary.",
+    "Alt Text Image": "Official header image for Controller Sync game - Steam 2075820",
+    "Canonical URL": "https://gusku.site/game/controller-sync",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Controller Sync\", \"description\": \"Looking for information on Controller Sync? Check out the release date (Jul 21, 2022), developer insights from Matti Kuehl, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matti Kuehl\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matti Kuehl\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2075820/header.jpg?t=1658389783\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

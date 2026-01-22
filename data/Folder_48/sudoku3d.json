@@ -1,0 +1,21 @@
+{
+    "AppID": 992480,
+    "Name": "Sudoku3D",
+    "Release date": "Dec 23, 2018",
+    "About the game": "Sudoku puzzle - from easy to hardcore... Fully random generation with a choice of field size and difficulty. Possibility to choose size from 3x3 to 9x9. The choice of complexity from 1 to 9 (a certain analogue of the probability of an empty cell from 10% to 90%). As the level of complexity increases, several solutions appear. Since In this version of Sudoku there is a choice of size, the rule of small composite squares 3x3 as part of a full 9x9 does not actual.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/992480/header.jpg?t=1633205475",
+    "Price": 0.99,
+    "Developers": "Shmurdik",
+    "Publishers": "Shmurdik Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/992480/ss_c360ecc908c98af24cffc840b62076f3a61144ff.1920x1080.jpg?t=1633205475,https://cdn.akamai.steamstatic.com/steam/apps/992480/ss_54987d040cf11cae8abdb4d8e727ee2711383a2b.1920x1080.jpg?t=1633205475,https://cdn.akamai.steamstatic.com/steam/apps/992480/ss_527102120f0b333bc820bc647231ced03e20a569.1920x1080.jpg?t=1633205475,https://cdn.akamai.steamstatic.com/steam/apps/992480/ss_397f4161f280fea89b899e683ac352a241bafa4c.1920x1080.jpg?t=1633205475,https://cdn.akamai.steamstatic.com/steam/apps/992480/ss_d5b9ec9e9dcd332ac54fd4cbd21a919c7f69823d.1920x1080.jpg?t=1633205475,https://cdn.akamai.steamstatic.com/steam/apps/992480/ss_43edb8ae81230baff2f2fc56afcfe38991795a3d.1920x1080.jpg?t=1633205475",
+    "Slug": "sudoku3d",
+    "Meta Title": "Sudoku3D: Dec 23, 2018, Shmurdik and Full Overview",
+    "Meta Description": "Looking for information on Sudoku3D? Check out the release date (Dec 23, 2018), developer insights from Shmurdik, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sudoku3D game - Steam 992480",
+    "Canonical URL": "https://gusku.site/game/sudoku3d",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sudoku3D\", \"description\": \"Looking for information on Sudoku3D? Check out the release date (Dec 23, 2018), developer insights from Shmurdik, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 23, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Shmurdik\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Shmurdik Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/992480/header.jpg?t=1633205475\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

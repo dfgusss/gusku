@@ -1,0 +1,21 @@
+{
+    "AppID": 1531940,
+    "Name": "CONNECT",
+    "Release date": "Feb 15, 2021",
+    "About the game": "Connect is a puzzle game based on a board of hexagons. In Connect there are three types of tiles: Sources , Pipes and Rotators . Sources are tiles which output a signal of a certain color in certain direction. Pipes are used in order to relay signals to nearby tiles. Tiles come in many different variations. Rotators are the rarest of the three. Rotators rotate all the tiles around them, regardless of their type. You can rotate Sources and Pipes by clicking on them. And by clicking on Rotators you will apply their effect.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1531940/header.jpg?t=1613400410",
+    "Price": 3.99,
+    "Developers": "Applied Structures",
+    "Publishers": "Applied Structures",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1531940/ss_c23833df9279df46e0650496cce16627f64a4744.1920x1080.jpg?t=1613400410,https://cdn.akamai.steamstatic.com/steam/apps/1531940/ss_6fa78b7f4c0607d12f1ccf51fb88144e45f29e6e.1920x1080.jpg?t=1613400410,https://cdn.akamai.steamstatic.com/steam/apps/1531940/ss_f0549e54983ba07895cfff87789b5a8b7b3ae2e1.1920x1080.jpg?t=1613400410,https://cdn.akamai.steamstatic.com/steam/apps/1531940/ss_6252e237c3217236be8b5b44dd6cea0e3c6278d8.1920x1080.jpg?t=1613400410,https://cdn.akamai.steamstatic.com/steam/apps/1531940/ss_b2b09d37eed0ba9b386dc0ec70bd1e47c136a084.1920x1080.jpg?t=1613400410",
+    "Slug": "connect",
+    "Meta Title": "CONNECT: Feb 15, 2021, Applied Structures and Full Overview",
+    "Meta Description": "Looking for information on CONNECT? Check out the release date (Feb 15, 2021), developer insights from Applied Structures, and a complete game summary.",
+    "Alt Text Image": "Official header image for CONNECT game - Steam 1531940",
+    "Canonical URL": "https://gusku.site/game/connect",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CONNECT\", \"description\": \"Looking for information on CONNECT? Check out the release date (Feb 15, 2021), developer insights from Applied Structures, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 15, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Applied Structures\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Applied Structures\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1531940/header.jpg?t=1613400410\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

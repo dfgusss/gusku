@@ -1,0 +1,21 @@
+{
+    "AppID": 1218460,
+    "Name": "Chase",
+    "Release date": "Jan 24, 2020",
+    "About the game": "Chase is an arcade racing game. You control the spacecraft following the creek of the river on some unknown planet. You are chased by enemies who want to destroy you. Your spacecraft has limited health and each collision with creek walls damages spacecraft. The goal is to reach finish and stay alive. - Ultra fast and intense gameplay - Hours of action filled gameplay across six different levels - Spectacular sound tracks - Integrated Leaderboards",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1218460/header.jpg?t=1579895192",
+    "Price": 4.99,
+    "Developers": "7th Hill Games",
+    "Publishers": "7th Hill Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1218460/ss_c8d3a76ab53c0c815897f91ce4b6da04239649db.1920x1080.jpg?t=1579895192,https://cdn.akamai.steamstatic.com/steam/apps/1218460/ss_6d56f524626479fd49ea309ecae61ef0ea0aa49e.1920x1080.jpg?t=1579895192,https://cdn.akamai.steamstatic.com/steam/apps/1218460/ss_4cbf742fe38d011eb3371e258da869a3aa7e53d4.1920x1080.jpg?t=1579895192,https://cdn.akamai.steamstatic.com/steam/apps/1218460/ss_6a3010799f120d1be42edd2c467fb5c2615843ac.1920x1080.jpg?t=1579895192,https://cdn.akamai.steamstatic.com/steam/apps/1218460/ss_82d98a4265dd472bbf08c32255dccd65674ca2ab.1920x1080.jpg?t=1579895192",
+    "Slug": "chase",
+    "Meta Title": "Chase: Jan 24, 2020, 7th Hill Games and Full Overview",
+    "Meta Description": "Looking for information on Chase? Check out the release date (Jan 24, 2020), developer insights from 7th Hill Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chase game - Steam 1218460",
+    "Canonical URL": "https://gusku.site/game/chase",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chase\", \"description\": \"Looking for information on Chase? Check out the release date (Jan 24, 2020), developer insights from 7th Hill Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 24, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"7th Hill Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"7th Hill Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1218460/header.jpg?t=1579895192\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

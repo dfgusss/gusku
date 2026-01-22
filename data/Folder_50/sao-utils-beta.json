@@ -1,0 +1,21 @@
+{
+    "AppID": 786520,
+    "Name": "SAO Utils: Beta",
+    "Release date": "Mar 14, 2018",
+    "About the game": "SAO Utils provides you a customizable Full-Dive 3D app launcher with varieties of themes, desktop widgets and powerful utilities. In built-in stereo mode, you can even browse multiple web pages in the same time inside the cool launcher virtual space with stereo displays. Its pluggable architecture allows you, the developer, to add any kinds of plug-ins to the core program. Features Slide to Launch Anywhere and whenever, holds mouse LMB and RMB, or holds two fingers on tablet, slide down to call out the launcher. Arrange as You like Right click to edit any items, drag to arrange them. You can also d'n'd files from the external File Explorer. Desktop Widgets Decorate desktop with your favorite images, web pages, animation, notes...varieties system and custom status. Stereo Mode Browse web pages and images with stereo display devices. Built-in stereo supports for launcher: Side by Side (Squeezed) Side by Side (Cropped) Side by Side (Black Bars) Anaglyph Enable stereo mode: In 'Preference' - 'Graphics' - 'Stereo' config panel, select a stereo mode and save. Stereo mode controls: Hold RMB and drag on launcher background to zoom the viewport. Hold RMB and drag on built-in browser to adjust distance of web pages. Configuration Migration If you are migrating configurations from another version, select the ' Launch Configuration Tool ' from Steam launch option. Steam Cloud is supported, synchronizing your settings and launcher menu anywhere. Workshop Find more Icons, Sound FXs, Themes and cool staffs in SAO Utils Workshop .",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/786520/header.jpg?t=1645821948",
+    "Price": 3.99,
+    "Developers": "Joshua Chen",
+    "Publishers": "Studio GPBeta",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/786520/ss_794732063faa565af81dcb630a2494cce146d094.1920x1080.jpg?t=1645821948,https://cdn.akamai.steamstatic.com/steam/apps/786520/ss_3deb8f7ee06796335b1bcb9305b86683c1232c38.1920x1080.jpg?t=1645821948,https://cdn.akamai.steamstatic.com/steam/apps/786520/ss_3f9fd882061f43dea081bbb74b29a5a4b376d6e0.1920x1080.jpg?t=1645821948,https://cdn.akamai.steamstatic.com/steam/apps/786520/ss_803a33ffa22b5a83a6478edf2cf8b518be8f3726.1920x1080.jpg?t=1645821948,https://cdn.akamai.steamstatic.com/steam/apps/786520/ss_bb561ef71bc31de54ff88ec4b09976167ee0eefc.1920x1080.jpg?t=1645821948,https://cdn.akamai.steamstatic.com/steam/apps/786520/ss_64f0ac14943201e0521239afa141b7c8bb575414.1920x1080.jpg?t=1645821948,https://cdn.akamai.steamstatic.com/steam/apps/786520/ss_5a9e922566bb5e925f29c1acc861aa7934ac3fe1.1920x1080.jpg?t=1645821948,https://cdn.akamai.steamstatic.com/steam/apps/786520/ss_7723ca4ca5092ef53727287f5666ef3d58973d4a.1920x1080.jpg?t=1645821948",
+    "Slug": "sao-utils-beta",
+    "Meta Title": "SAO Utils: Beta: Mar 14, 2018, Joshua Chen and Full Overview",
+    "Meta Description": "Looking for information on SAO Utils: Beta? Check out the release date (Mar 14, 2018), developer insights from Joshua Chen, and a complete game summary.",
+    "Alt Text Image": "Official header image for SAO Utils: Beta game - Steam 786520",
+    "Canonical URL": "https://gusku.site/game/sao-utils-beta",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SAO Utils: Beta\", \"description\": \"Looking for information on SAO Utils: Beta? Check out the release date (Mar 14, 2018), developer insights from Joshua Chen, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 14, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Joshua Chen\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Studio GPBeta\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/786520/header.jpg?t=1645821948\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1606300,
+    "Name": "Puzzle Light",
+    "Release date": "Apr 30, 2021",
+    "About the game": "Puzzle Light is a Logic Game. The goal in each level is to swap the pieces to form the circuit and turn on the lights. 50 hand-crafted levels; A fun puzzle game (even for those who have no knowledge of electronic circuits); At some levels, it is possible to assemble the circuit in more than one way; If you make a short circuit on battery, it will explode. (Be careful).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1606300/header.jpg?t=1623800553",
+    "Price": 0.99,
+    "Developers": "Waidy Andrade",
+    "Publishers": "Cronostase",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1606300/ss_d03351bc7d02c32b16a25afafedfd46b837b6175.1920x1080.jpg?t=1623800553,https://cdn.akamai.steamstatic.com/steam/apps/1606300/ss_ddbc39b1bae9301184581d2fe4b615f6cc177d87.1920x1080.jpg?t=1623800553,https://cdn.akamai.steamstatic.com/steam/apps/1606300/ss_45a404f59e7561c146b9f5a8046fda58fa44b29c.1920x1080.jpg?t=1623800553,https://cdn.akamai.steamstatic.com/steam/apps/1606300/ss_68acfee0e75e661587b5850f6aab17da1ae68420.1920x1080.jpg?t=1623800553,https://cdn.akamai.steamstatic.com/steam/apps/1606300/ss_976642364711f1c80d1d424ab66229500d21b91e.1920x1080.jpg?t=1623800553",
+    "Slug": "puzzle-light",
+    "Meta Title": "Puzzle Light: Apr 30, 2021, Waidy Andrade and Full Overview",
+    "Meta Description": "Looking for information on Puzzle Light? Check out the release date (Apr 30, 2021), developer insights from Waidy Andrade, and a complete game summary.",
+    "Alt Text Image": "Official header image for Puzzle Light game - Steam 1606300",
+    "Canonical URL": "https://gusku.site/game/puzzle-light",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Puzzle Light\", \"description\": \"Looking for information on Puzzle Light? Check out the release date (Apr 30, 2021), developer insights from Waidy Andrade, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Waidy Andrade\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cronostase\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1606300/header.jpg?t=1623800553\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

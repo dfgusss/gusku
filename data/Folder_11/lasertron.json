@@ -1,0 +1,21 @@
+{
+    "AppID": 1488060,
+    "Name": "Lasertron",
+    "Release date": "Dec 28, 2020",
+    "About the game": "Arkanoid with optic styled physics and different bonuses. Lasertrons can be reflected, refracted, decompose into a spectrum of lasertrons, change their colors. The white lasertrons can destroy blocks of any color, while the color lasertrons can only destroy blocks of the same color. Deactivated lasertrons can't destroy any blocks. Clean the playing field by lasertrons! There are 3 difficulty levels: Easy, Medium, Hard. The game supports two save modes by checkpoints or passed levels. The complete game distribution includes 60 levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1488060/header.jpg?t=1646766283",
+    "Price": 9.99,
+    "Developers": "GraphXGames",
+    "Publishers": "GraphXGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1488060/ss_aef60ae7159b8b9dae188c278820bd39d76abcb9.1920x1080.jpg?t=1646766283,https://cdn.akamai.steamstatic.com/steam/apps/1488060/ss_b66ff776e68156ccf603813e2893e7c48b613cbe.1920x1080.jpg?t=1646766283,https://cdn.akamai.steamstatic.com/steam/apps/1488060/ss_fc0e874db2ac405ac76f70f5ff922d4198b22695.1920x1080.jpg?t=1646766283,https://cdn.akamai.steamstatic.com/steam/apps/1488060/ss_e61d9fe953e2adf8e7c2a4502457017f215f4526.1920x1080.jpg?t=1646766283,https://cdn.akamai.steamstatic.com/steam/apps/1488060/ss_745503ce4035be032664c2d40b8d536afbe21a0e.1920x1080.jpg?t=1646766283,https://cdn.akamai.steamstatic.com/steam/apps/1488060/ss_983f81e555371f00aa950ed04f72ce8d85d6088e.1920x1080.jpg?t=1646766283",
+    "Slug": "lasertron",
+    "Meta Title": "Lasertron: Dec 28, 2020, GraphXGames and Full Overview",
+    "Meta Description": "Looking for information on Lasertron? Check out the release date (Dec 28, 2020), developer insights from GraphXGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lasertron game - Steam 1488060",
+    "Canonical URL": "https://gusku.site/game/lasertron",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lasertron\", \"description\": \"Looking for information on Lasertron? Check out the release date (Dec 28, 2020), developer insights from GraphXGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 28, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"GraphXGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"GraphXGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1488060/header.jpg?t=1646766283\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1969280,
+    "Name": "Automaton Kingdom",
+    "Release date": "May 23, 2022",
+    "About the game": "Automaton Kingdom is a 2D Autochess puzzle game . It has two different phases , the edit phase and the play phase . -Gameplay. In the edit phase , different characters can be placed in different areas of the map and you can customize many parameters such as direction to face, inventory, team, etc. You can also interact and edit some game objects directly by clicking on them in this phase. After completing the edit phase , the player can see the resolution of the game as the characters interact on their own with the level and with each other. -Mechanics. The player can interact with different elements on the map to alter the outcome. Some elements allow direct interaction , such as some ladders , the inventory , Characters or the team to which the character belongs. On the other hand, there are the elements with which the player interacts in an indirect way . Either by placing a character in the path of a lever so that it activates it, or giving him an object that allows him to destroy an obstacle. -Items. -Characters. Adventurer: The basic character moves in the selected direction and is able to interact with levers and open doors if he has the key equiped. Knight: Heavy character capable of breaking fragile floors and he can also destroy boxes with the hammer equiped. Backpacker: This character has a larger inventory, and is capable of giving items to other characters. Archer: Equipped with a bow, this character is capable of shooting with items other than arrows. like keys to open locked doors. Assassin: This character cannot carry items but is very effective in combat and has great agility. Smith/Mechanic: This character has the ability to fix certain objects if he has the necessary pieces.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1969280/header.jpg?t=1653516548",
+    "Price": 0.0,
+    "Developers": "Trail Studio",
+    "Publishers": "Trail Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1969280/ss_550bf072871cf2b7814851f0c2d043419b0aab86.1920x1080.jpg?t=1653516548,https://cdn.akamai.steamstatic.com/steam/apps/1969280/ss_8b92d865ff660d9a6a5148ec441bc1ad534fd533.1920x1080.jpg?t=1653516548,https://cdn.akamai.steamstatic.com/steam/apps/1969280/ss_9b50d55916c81ffa0beb2ffe3d2856485fff9d75.1920x1080.jpg?t=1653516548,https://cdn.akamai.steamstatic.com/steam/apps/1969280/ss_fbe17f7a90a212b5c05557ce4af8063a0754981d.1920x1080.jpg?t=1653516548,https://cdn.akamai.steamstatic.com/steam/apps/1969280/ss_223ffc0a2cdacfbeb952b528071ac2eef1177281.1920x1080.jpg?t=1653516548",
+    "Slug": "automaton-kingdom",
+    "Meta Title": "Automaton Kingdom: May 23, 2022, Trail Studio and Full Ov...",
+    "Meta Description": "Looking for information on Automaton Kingdom? Check out the release date (May 23, 2022), developer insights from Trail Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Automaton Kingdom game - Steam 1969280",
+    "Canonical URL": "https://gusku.site/game/automaton-kingdom",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Automaton Kingdom\", \"description\": \"Looking for information on Automaton Kingdom? Check out the release date (May 23, 2022), developer insights from Trail Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 23, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Trail Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Trail Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1969280/header.jpg?t=1653516548\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

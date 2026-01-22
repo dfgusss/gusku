@@ -1,0 +1,21 @@
+{
+    "AppID": 2166580,
+    "Name": "The Janus Problem",
+    "Release date": "Feb 24, 2023",
+    "About the game": "The Janus Problem is a first-person, single player puzzle game where players can reverse time. Set in a virtual testing environment, players must get to the exit of each room. Players create time marks which, when recalled, cause objects to move back to their position at that time. Players also have the ability to place time locks on different objects which preclude them from reversing. Using these tools, players must orchestrate the movement of objects to solve each level.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2166580/header.jpg?t=1677285547",
+    "Price": 8.49,
+    "Developers": "James Decker",
+    "Publishers": "Flying Circle Games LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2166580/ss_1ed9b0ab54ae7d4b1b0597a883d0b7600743eae3.1920x1080.jpg?t=1677285547,https://cdn.akamai.steamstatic.com/steam/apps/2166580/ss_9bc4a7e44e7cc385a519b35b2c2558bbba40d24a.1920x1080.jpg?t=1677285547,https://cdn.akamai.steamstatic.com/steam/apps/2166580/ss_95d2cf8c5cc47a38be47349ea34a80a6988a1bb8.1920x1080.jpg?t=1677285547,https://cdn.akamai.steamstatic.com/steam/apps/2166580/ss_8d4b62d465f291e7d88a9472469f712720ae2dcf.1920x1080.jpg?t=1677285547,https://cdn.akamai.steamstatic.com/steam/apps/2166580/ss_fec6bdc4aa438a30b2ef8b8c91547553504bd9f0.1920x1080.jpg?t=1677285547,https://cdn.akamai.steamstatic.com/steam/apps/2166580/ss_7bd9fc98ac843eb1874aa4faf256d6a186c2bcbc.1920x1080.jpg?t=1677285547",
+    "Slug": "the-janus-problem",
+    "Meta Title": "The Janus Problem: Feb 24, 2023, James Decker and Full Ov...",
+    "Meta Description": "Looking for information on The Janus Problem? Check out the release date (Feb 24, 2023), developer insights from James Decker, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Janus Problem game - Steam 2166580",
+    "Canonical URL": "https://gusku.site/game/the-janus-problem",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Janus Problem\", \"description\": \"Looking for information on The Janus Problem? Check out the release date (Feb 24, 2023), developer insights from James Decker, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 24, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"James Decker\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Flying Circle Games LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2166580/header.jpg?t=1677285547\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1209060,
+    "Name": "Cowboy",
+    "Release date": "Dec 28, 2019",
+    "About the game": "This is a third person role-playing game，Players have swords, bows and arrows, and guns（You need to be on a horse to use it）,Players are free to explore the surrounding area,Players must maintain health，Players can kill nearby monsters or dodge attacks from monsters. Control keys: Right-click targeting WASD movement Left mouse button attack Mouse control direction R Loaded Weapons Number keys 1,2,3 switch horse speed Numeric keys 4,5,6 switch weapons（It only works when you're on a horse）",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1209060/header.jpg?t=1577601386",
+    "Price": 0.99,
+    "Developers": "jack",
+    "Publishers": "jack",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1209060/ss_ab340916217c3066f9985b8ba77311e064a0fbc9.1920x1080.jpg?t=1577601386,https://cdn.akamai.steamstatic.com/steam/apps/1209060/ss_5d6107c80501ff5c15c9eac88ca6d21300f2d097.1920x1080.jpg?t=1577601386,https://cdn.akamai.steamstatic.com/steam/apps/1209060/ss_2b3b858a0cea7598e9f171d66d9d3fd516f06fcd.1920x1080.jpg?t=1577601386,https://cdn.akamai.steamstatic.com/steam/apps/1209060/ss_af7eed7c6b8caa838c3f6aa5a231035414a6f2de.1920x1080.jpg?t=1577601386,https://cdn.akamai.steamstatic.com/steam/apps/1209060/ss_8f0285c22dcb6013a52a6e6cf3b9288e1898d9d0.1920x1080.jpg?t=1577601386,https://cdn.akamai.steamstatic.com/steam/apps/1209060/ss_b721f4ee5dbfacbc8428204f7938264a037faa47.1920x1080.jpg?t=1577601386,https://cdn.akamai.steamstatic.com/steam/apps/1209060/ss_249ddbb2866d417ecbb9f1a3f78af27ef4604e3f.1920x1080.jpg?t=1577601386,https://cdn.akamai.steamstatic.com/steam/apps/1209060/ss_fd281d2640f895a2945db9dd7b0ae0ec15f26b4e.1920x1080.jpg?t=1577601386",
+    "Slug": "cowboy",
+    "Meta Title": "Cowboy: Dec 28, 2019, jack and Full Overview",
+    "Meta Description": "Looking for information on Cowboy? Check out the release date (Dec 28, 2019), developer insights from jack, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cowboy game - Steam 1209060",
+    "Canonical URL": "https://gusku.site/game/cowboy",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cowboy\", \"description\": \"Looking for information on Cowboy? Check out the release date (Dec 28, 2019), developer insights from jack, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 28, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"jack\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"jack\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1209060/header.jpg?t=1577601386\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 939360,
+    "Name": "Pixel FX Designer",
+    "Release date": "Oct 1, 2018",
+    "About the game": "WHAT IS PIXEL FX DESIGNER? Pixel FX Designer allows you to create incredible particle effects just by tweaking sliders and punching buttons. Once you are done, you can export the result animation to a spritesheet, frame by frame or even a GIF. You don't like those pixels? Disable the pixel effect and use it as a normal particle animation generator. Everything works in real-time so you can see how your animation is looking at all times. FEATURES Import any palette until 256 colors Import your custom dithering Import your custom particle shapes Seamless loop animations Copy emitters Change canvas size Delay parameters Timeline for particles Draw paths Custom pixel render pixelation Particle layers for Back/Front Order Ignore colors from a palette to be used in pixel render Manual rendering. Draw the particle movement. Add effects: Glow, Outline, Sepia.... EXTRA Various project with all kind of tipes ready to edit/export +1000 Particle assets. 512x512 .Png with transparency.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/939360/header.jpg?t=1640122269",
+    "Price": 19.99,
+    "Developers": "CodeManu,Davit Masiá",
+    "Publishers": "CodeManu",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/939360/ss_cc8e96719d4e74333520dc8c06ae81a7af0c7741.1920x1080.jpg?t=1640122269,https://cdn.akamai.steamstatic.com/steam/apps/939360/ss_6bbbfef644424f695b236a7a8f4abb2e5c82d634.1920x1080.jpg?t=1640122269,https://cdn.akamai.steamstatic.com/steam/apps/939360/ss_ce88e238cd8839a098618e26d13bd11b48693598.1920x1080.jpg?t=1640122269,https://cdn.akamai.steamstatic.com/steam/apps/939360/ss_fb6c70841ad1a395d60f6ec76af4a03bda95073f.1920x1080.jpg?t=1640122269,https://cdn.akamai.steamstatic.com/steam/apps/939360/ss_b74087ee15e88c29aa81ffbfffba8c913ad8026f.1920x1080.jpg?t=1640122269,https://cdn.akamai.steamstatic.com/steam/apps/939360/ss_b1c56452d74f7f5d8b7d7e53440ea6b02c094875.1920x1080.jpg?t=1640122269,https://cdn.akamai.steamstatic.com/steam/apps/939360/ss_25746bf8be2498d20c805af8e83f353e2df3dc5e.1920x1080.jpg?t=1640122269",
+    "Slug": "pixel-fx-designer",
+    "Meta Title": "Pixel FX Designer: Oct 1, 2018, CodeManu,Davit Masiá and ...",
+    "Meta Description": "Looking for information on Pixel FX Designer? Check out the release date (Oct 1, 2018), developer insights from CodeManu,Davit Masiá, and a complete gam...",
+    "Alt Text Image": "Official header image for Pixel FX Designer game - Steam 939360",
+    "Canonical URL": "https://gusku.site/game/pixel-fx-designer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixel FX Designer\", \"description\": \"Looking for information on Pixel FX Designer? Check out the release date (Oct 1, 2018), developer insights from CodeManu,Davit Masi\\u00e1, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 1, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"CodeManu,Davit Masi\\u00e1\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CodeManu\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/939360/header.jpg?t=1640122269\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

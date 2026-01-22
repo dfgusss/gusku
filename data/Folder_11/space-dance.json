@@ -1,0 +1,21 @@
+{
+    "AppID": 1103870,
+    "Name": "Space Dance",
+    "Release date": "Jul 10, 2019",
+    "About the game": "Old-school twin-stick arcade shooter where enemies spawn to the beat of the music, made casual enough to fit into your lunch break. Easy to get going, challenging to finish, and nearly impossible to master the highscore. Our new link-gun mechanic allows you to balance between an increased score multiplier and the risk of keeping more enemies alive. More risk means more rewards, so the only way to get a good score is to play with maximum difficulty. If you succeed, each level is the length of one song, so about 2-3 minutes per round. Controls Keyboard WASD to move Arrow keys to shoot Space bar for slow-motion Enter to confirm menu Controls Gamepad Left stick to move Right stick to shoot Right trigger for slow-motion A/B to confirm menu",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1103870/header.jpg?t=1562774432",
+    "Price": 0.99,
+    "Developers": "hajo",
+    "Publishers": "hajo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1103870/ss_83aaaa267a19ef84f4cbe31e8209473487dbeaff.1920x1080.jpg?t=1562774432,https://cdn.akamai.steamstatic.com/steam/apps/1103870/ss_b44b96f493c872af88035066cfde458b05519f1e.1920x1080.jpg?t=1562774432,https://cdn.akamai.steamstatic.com/steam/apps/1103870/ss_331be7f7e3e36921bd4a1d4fc78adc5edbb566ab.1920x1080.jpg?t=1562774432,https://cdn.akamai.steamstatic.com/steam/apps/1103870/ss_44fe1e5e81e73979e6e88dab86223af6502ae292.1920x1080.jpg?t=1562774432,https://cdn.akamai.steamstatic.com/steam/apps/1103870/ss_f1a7eafa7375ac8f9ad9bb5907535a1f58ce354f.1920x1080.jpg?t=1562774432",
+    "Slug": "space-dance",
+    "Meta Title": "Space Dance: Jul 10, 2019, hajo and Full Overview",
+    "Meta Description": "Looking for information on Space Dance? Check out the release date (Jul 10, 2019), developer insights from hajo, and a complete game summary.",
+    "Alt Text Image": "Official header image for Space Dance game - Steam 1103870",
+    "Canonical URL": "https://gusku.site/game/space-dance",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Space Dance\", \"description\": \"Looking for information on Space Dance? Check out the release date (Jul 10, 2019), developer insights from hajo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 10, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"hajo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"hajo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1103870/header.jpg?t=1562774432\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

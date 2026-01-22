@@ -1,0 +1,21 @@
+{
+    "AppID": 2053580,
+    "Name": "Nonozle",
+    "Release date": "Aug 12, 2022",
+    "About the game": "Nonozle is a game where you solve puzzles by filling in pixels to form an image. This style of puzzle is called a nonogram. Each row and column of a nonogram has one or more number hints attached to it, and each number represents a contiguous group of filled in pixels. Using these hints, you can figure out which squares should be filled in and which ones should be blank, and thus fill in the puzzle one step at a time until it forms a complete image. Features 200 hand-made nonograms to solve, ranging in size from 5 by 5 to 25 by 25 Solve puzzles in any order Unlimited undo and redo Optional warning for when the puzzle is filled incorrectly Automatic mid-puzzle progress saving Tutorials and step-by-step puzzle solution examples Mouse, keyboard, and controller support Highly customizable Light, grey, and dark preset themes Selectable main color for each preset theme Custom theme editor Numerous gameplay and appearance options Full control remapping Supports up to 8K resolutions, as well as ultra-wide aspect ratios Arbitrarily high refresh rate support (240+) Chill electronic soundtrack",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2053580/header.jpg?t=1660346334",
+    "Price": 3.99,
+    "Developers": "HopefulToad",
+    "Publishers": "HopefulToad",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_bf0bdc1afddae384bb766cefe3f0e1982a7793f4.1920x1080.jpg?t=1660346334,https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_3c1c492f22f667c9539bdd4d13e55c259385f8cd.1920x1080.jpg?t=1660346334,https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_b07f231114c6cea903806aaa32b2f90e1a552020.1920x1080.jpg?t=1660346334,https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_871e542b352d44ee96c443e9812f27ea777a324d.1920x1080.jpg?t=1660346334,https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_d50afb30a4faef186cae4b3bb1d903ed93fa36b8.1920x1080.jpg?t=1660346334,https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_1a43e90373ba5bf2c57000fd0579beb082cac3d2.1920x1080.jpg?t=1660346334,https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_31c3922d3e68dc509ed89e7496420c11dc04b80a.1920x1080.jpg?t=1660346334,https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_2059491868b9f572b991c9c73034d459ed0d68b4.1920x1080.jpg?t=1660346334,https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_93351b319bbe90d2152e06e1cf0c090b37462237.1920x1080.jpg?t=1660346334,https://cdn.akamai.steamstatic.com/steam/apps/2053580/ss_8cd97b07b3d06b7b250b2b8264ec6d6a24431ded.1920x1080.jpg?t=1660346334",
+    "Slug": "nonozle",
+    "Meta Title": "Nonozle: Aug 12, 2022, HopefulToad and Full Overview",
+    "Meta Description": "Looking for information on Nonozle? Check out the release date (Aug 12, 2022), developer insights from HopefulToad, and a complete game summary.",
+    "Alt Text Image": "Official header image for Nonozle game - Steam 2053580",
+    "Canonical URL": "https://gusku.site/game/nonozle",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nonozle\", \"description\": \"Looking for information on Nonozle? Check out the release date (Aug 12, 2022), developer insights from HopefulToad, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"HopefulToad\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HopefulToad\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2053580/header.jpg?t=1660346334\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

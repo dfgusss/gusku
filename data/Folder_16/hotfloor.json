@@ -1,0 +1,21 @@
+{
+    "AppID": 865190,
+    "Name": "HotFloor",
+    "Release date": "May 30, 2018",
+    "About the game": "Run, Jump, Glide, Bounce and maneuver your way through unique and challenging levels. Lack of elegance, however, will get your *** in lava, and nobody wants any of that. HotFloor is a first person action parkour game. Controls are tight and movement feels just right. If all else fails, you can still watch lava dry.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/865190/header.jpg?t=1613074110",
+    "Price": 0.99,
+    "Developers": "David Mulder",
+    "Publishers": "SA Industry",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/865190/ss_01a1072aea97ea59e63dc78186f9e04c5eccb749.1920x1080.jpg?t=1613074110,https://cdn.akamai.steamstatic.com/steam/apps/865190/ss_b6f27a8d475c6b5cabac7a73c54b68df9359a828.1920x1080.jpg?t=1613074110,https://cdn.akamai.steamstatic.com/steam/apps/865190/ss_7efa2cb9be73fe1a421e969d3a043ae04389352c.1920x1080.jpg?t=1613074110,https://cdn.akamai.steamstatic.com/steam/apps/865190/ss_39e725c76acc195970dffb57477e484216385d5e.1920x1080.jpg?t=1613074110,https://cdn.akamai.steamstatic.com/steam/apps/865190/ss_009e7629abb4c04b8b8af6cc644947ed9d627106.1920x1080.jpg?t=1613074110,https://cdn.akamai.steamstatic.com/steam/apps/865190/ss_1cffe4e8965b4bc57560b28bf5e925bea07d23c6.1920x1080.jpg?t=1613074110,https://cdn.akamai.steamstatic.com/steam/apps/865190/ss_2348205f1d95463f3ac4f2ab5cf685765a09fb2d.1920x1080.jpg?t=1613074110",
+    "Slug": "hotfloor",
+    "Meta Title": "HotFloor: May 30, 2018, David Mulder and Full Overview",
+    "Meta Description": "Looking for information on HotFloor? Check out the release date (May 30, 2018), developer insights from David Mulder, and a complete game summary.",
+    "Alt Text Image": "Official header image for HotFloor game - Steam 865190",
+    "Canonical URL": "https://gusku.site/game/hotfloor",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HotFloor\", \"description\": \"Looking for information on HotFloor? Check out the release date (May 30, 2018), developer insights from David Mulder, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 30, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"David Mulder\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SA Industry\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/865190/header.jpg?t=1613074110\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

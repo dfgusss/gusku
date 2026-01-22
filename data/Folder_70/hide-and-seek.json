@@ -1,0 +1,21 @@
+{
+    "AppID": 2247670,
+    "Name": "Hide and Seek",
+    "Release date": "Feb 10, 2023",
+    "About the game": "Participants in the game are divided into two teams, one of which hides and the other searches. At the beginning of the game the hiding team is given a certain amount of time to hide. During this time, the searching team waits outside. When the time expires, the doors open and you can search. The hiding team can transform into various objects and has great movement speed. To make it harder to find the player after turning into an object, there are various dynamic objects scattered on the map that change their position each time the map is loaded. The search team runs slowly and has a narrow line of sight. They cannot see through objects, unlike the other team. They have a special flashlight with which they can search for other players. Both teams have a double jump. In addition, there are mini-games on the map, for example, while the team that will be searching is waiting for the other team while they are hiding, you can play soccer. Also scattered on the map are various physical objects that you can interact with. In closets, doors open - close. You can hide in the closet.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2247670/header.jpg?t=1676045123",
+    "Price": 7.99,
+    "Developers": "HIDY GAME",
+    "Publishers": "HIDY GAME",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2247670/ss_ebad4bf415198ef8b207b1c07fdb9a4161948af0.1920x1080.jpg?t=1676045123,https://cdn.akamai.steamstatic.com/steam/apps/2247670/ss_3b546cfefb1f43b233d14671408c927f3dfc8704.1920x1080.jpg?t=1676045123,https://cdn.akamai.steamstatic.com/steam/apps/2247670/ss_fb81edad5b56c344d3004f1584bdc762a0841f2d.1920x1080.jpg?t=1676045123,https://cdn.akamai.steamstatic.com/steam/apps/2247670/ss_b1607f485780520fcbe6c696d81b64441f3e6227.1920x1080.jpg?t=1676045123,https://cdn.akamai.steamstatic.com/steam/apps/2247670/ss_748b72af05cd1630cd5ab28f8ac2dff12ca00812.1920x1080.jpg?t=1676045123,https://cdn.akamai.steamstatic.com/steam/apps/2247670/ss_a4d14de91306fbec0e21dcc434658b462d355831.1920x1080.jpg?t=1676045123,https://cdn.akamai.steamstatic.com/steam/apps/2247670/ss_1f1ec94f7c78fcf3826683d6bc5187348a1f52c0.1920x1080.jpg?t=1676045123",
+    "Slug": "hide-and-seek",
+    "Meta Title": "Hide and Seek: Feb 10, 2023, HIDY GAME and Full Overview",
+    "Meta Description": "Looking for information on Hide and Seek? Check out the release date (Feb 10, 2023), developer insights from HIDY GAME, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hide and Seek game - Steam 2247670",
+    "Canonical URL": "https://gusku.site/game/hide-and-seek",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hide and Seek\", \"description\": \"Looking for information on Hide and Seek? Check out the release date (Feb 10, 2023), developer insights from HIDY GAME, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 10, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"HIDY GAME\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HIDY GAME\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2247670/header.jpg?t=1676045123\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

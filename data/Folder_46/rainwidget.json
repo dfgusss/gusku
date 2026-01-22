@@ -1,0 +1,21 @@
+{
+    "AppID": 983820,
+    "Name": "RainWidget",
+    "Release date": "Dec 6, 2018",
+    "About the game": "WHAT IS RAINWIDGET RainWidget is a powerful widget engine based on Chrome Core that allow you create stunning smooth animations widgets using the latest web technologies(JS HTML5 CSS3) for your desktop . Choose an existing widget or create your own and share it to the Online Gallery! FEATURES Make your desktop lively with stunning smooth animation widgets. Download widgets via the built-in online gallery with just one-click. Clean UI, Easy to use and don't use too much resource Support create widgets with latest Web technology(JS HTML5 CSS3 ). Use the online gallery to share your widgets. Support Steam Cloud Sync Widgets and User Data PERFORMANCE RainWidget aims to deliver an entertaining experience using as few system resources as possible. All the animated widgets have been optimised to bring great visuals and fast system performance at the same time. Various options to tweak quality and performance exist to make widgets suit your needs. As a general rule of thumb, static based widgets will perform best, while full animations widgets will require more resources from your system. A dedicated GPU is highly recommended, but not required. FAQ Q: How to config shortcuts in widget? A: Please right click widget and select menuitem 'Settings...' Q: How to change widget size or zoom in/out widget? A: Please right click widget and select menuitem 'Window &gt; Zoom' Q: How to change widget Opacity? A: Please right click widget and select menuitem 'Window &gt; Opacity' Q: How to create widget? A: Right click the tray icon of RainWidget and select the menu item 'Create Widget',it will auto create a simple widget from template and run it on your desktop,and it will auto open the folder of the widget and list all the widget's files e.g. HTML CSS JS , you can edit the files and then click the widget and select menu item 'Refresh' or press F5 to update widget.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/983820/header.jpg?t=1577013219",
+    "Price": 3.99,
+    "Developers": "RainySoft",
+    "Publishers": "RainySoft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/983820/ss_852c7bb4e1163358024b88b5dd5f289bd19ecceb.1920x1080.jpg?t=1577013219,https://cdn.akamai.steamstatic.com/steam/apps/983820/ss_3a32f144a38db780d8c3e2b19b265d72e83d0d6e.1920x1080.jpg?t=1577013219,https://cdn.akamai.steamstatic.com/steam/apps/983820/ss_8fe83cf2dc14fde3dd35b4305c9307f40a4b9756.1920x1080.jpg?t=1577013219,https://cdn.akamai.steamstatic.com/steam/apps/983820/ss_20fe29ccc347fbdc3da7ba65e573aa201d8fcbd0.1920x1080.jpg?t=1577013219,https://cdn.akamai.steamstatic.com/steam/apps/983820/ss_1ec60ac768a77dc46d4d19724283a43ab042b2b1.1920x1080.jpg?t=1577013219",
+    "Slug": "rainwidget",
+    "Meta Title": "RainWidget: Dec 6, 2018, RainySoft and Full Overview",
+    "Meta Description": "Looking for information on RainWidget? Check out the release date (Dec 6, 2018), developer insights from RainySoft, and a complete game summary.",
+    "Alt Text Image": "Official header image for RainWidget game - Steam 983820",
+    "Canonical URL": "https://gusku.site/game/rainwidget",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RainWidget\", \"description\": \"Looking for information on RainWidget? Check out the release date (Dec 6, 2018), developer insights from RainySoft, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 6, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"RainySoft\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"RainySoft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/983820/header.jpg?t=1577013219\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

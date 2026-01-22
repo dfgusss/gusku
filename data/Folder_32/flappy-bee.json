@@ -1,0 +1,21 @@
+{
+    "AppID": 1377950,
+    "Name": "Flappy Bee",
+    "Release date": "Aug 10, 2020",
+    "About the game": "Flappy Bee is a high-score chasing thrill ride based upon staying alive while dodging lava and birds. Press the Space bar to fly or click the screen to dodge obstacles and keep your lives for as long as possible. High-scores Flowers Survive in A Forest Lava Birds",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1377950/header.jpg?t=1597090067",
+    "Price": 9.99,
+    "Developers": "PTW Inc.",
+    "Publishers": "PTW Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1377950/ss_bc2abea0752787f9dec7be7953bfd5053ab00ef7.1920x1080.jpg?t=1597090067,https://cdn.akamai.steamstatic.com/steam/apps/1377950/ss_f466c65ffac5dcfd8868f14255ea340a21d72722.1920x1080.jpg?t=1597090067,https://cdn.akamai.steamstatic.com/steam/apps/1377950/ss_d80d579f3a3b80567cf2fb840e62f09142b18447.1920x1080.jpg?t=1597090067,https://cdn.akamai.steamstatic.com/steam/apps/1377950/ss_f34c193e83ade353293e9b3f4de363c0def3c41e.1920x1080.jpg?t=1597090067,https://cdn.akamai.steamstatic.com/steam/apps/1377950/ss_9b0eb263cb5a70890ac3b2ba704962bab9ef35c0.1920x1080.jpg?t=1597090067",
+    "Slug": "flappy-bee",
+    "Meta Title": "Flappy Bee: Aug 10, 2020, PTW Inc. and Full Overview",
+    "Meta Description": "Looking for information on Flappy Bee? Check out the release date (Aug 10, 2020), developer insights from PTW Inc., and a complete game summary.",
+    "Alt Text Image": "Official header image for Flappy Bee game - Steam 1377950",
+    "Canonical URL": "https://gusku.site/game/flappy-bee",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Flappy Bee\", \"description\": \"Looking for information on Flappy Bee? Check out the release date (Aug 10, 2020), developer insights from PTW Inc., and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 10, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"PTW Inc.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PTW Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1377950/header.jpg?t=1597090067\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

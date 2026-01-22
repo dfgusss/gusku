@@ -1,0 +1,21 @@
+{
+    "AppID": 1169460,
+    "Name": "遠古大陸外傳-古道的盡頭",
+    "Release date": "May 14, 2020",
+    "About the game": "本遊戲是一款動作角色扮演類型的遊戲,遊戲方式可以由五個角色選擇一隻操控,可以收集材料製作裝備道具,最終擊敗魔王,是一款相當典型的動作角色扮演遊戲。 本產品是由RPG Maker MV所設計完成的遊戲,適合所有年齡層的小孩成人遊玩... 以下是遊戲規則的相關說明 1.其操作方法主要是透過裝備道具和技能與主要武器還有盾牌來進行攻擊或防禦。 2.完成主線任務後此遊戲可以在酒館內重複不斷在時間限制內接取新的懸賞任務來討伐曾經遇過的首領,而這些首領寶箱會掉落製作裝備的素材。 3.這款遊戲隨著主線的通關還可以在牧場內種植作物和在牧場內抓取路上的小怪來釋放可以選擇小怪來跟隨。 4.後期還有拍賣場可供玩家競標拍賣品,這些製作出來的武器可以透過材料附上屬性,每種屬性都有不同的效果。 5.另外這些商品可以在NPC上進行交易,庫存後的商品可以透過NPC間接交易給其他玩家。 6.裝備武器耐久是這遊戲的核心玩法，每個武器和裝備都有耐久值而耐久值的損耗會因怪物的強弱度和武器的等級而影響其損耗的速度，當耐久值歸零時武器或裝備會自動 消失，必須再重新裝備新的武器或裝備,另外裝備替換也會自動丟棄在這遊戲裡面裝備和武器是消耗品。 7.遊戲的所有庫存物品皆可依每日抽中的折扣與時段以優惠價進行購買，最低則扣為一折每日都更新一次。 8.遊戲在每個城鎮都會看到彼此玩家的頭像，算是這款遊戲滿特別的地方有點類似線上遊戲的玩法但是又沒有過多多人合作或PVP的要素，相比純單機遊戲而言這遊戲可以 脫離一般枯燥單人的玩法。 9.此外遊戲還有許多種天賦可以搭配，每種搭配可以創造出不同的流派玩法，每個角色天賦都是獨一無二，後期還提供競技場與競標場來讓玩家以不同方式來換得稀有珍貴 的寶物，透過交易商人都可購買玩家販賣後庫存的商品於其他玩家，算是這遊戲滿特別的合作方式。 1.這遊戲必須要透過連線才能遊玩本遊戲，所以如果是只想玩單機的朋友可能要說聲抱歉。 2.相關的更多說明請參閱遊戲說明手冊。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1169460/header.jpg?t=1639289754",
+    "Price": 9.99,
+    "Developers": "chi",
+    "Publishers": "chi,RMAsia",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1169460/ss_c8d1ee8b48bbf5623512a24b0ea2c576eaa90c08.1920x1080.jpg?t=1639289754,https://cdn.akamai.steamstatic.com/steam/apps/1169460/ss_62c175b362f22d0d26e787c2b18a2616ecd8beef.1920x1080.jpg?t=1639289754,https://cdn.akamai.steamstatic.com/steam/apps/1169460/ss_b934ee28a3b5438425db3e083032def9b329c8d4.1920x1080.jpg?t=1639289754,https://cdn.akamai.steamstatic.com/steam/apps/1169460/ss_8ef46cafe172c90c9d821166389541fb290f038f.1920x1080.jpg?t=1639289754,https://cdn.akamai.steamstatic.com/steam/apps/1169460/ss_3090e5221fa6223f55a42bac1820103f20f12f7f.1920x1080.jpg?t=1639289754,https://cdn.akamai.steamstatic.com/steam/apps/1169460/ss_ce98ecdd07fc28358c745452eeba4d307bc44942.1920x1080.jpg?t=1639289754,https://cdn.akamai.steamstatic.com/steam/apps/1169460/ss_32722361c981f6536bcfcb558863808dec87f345.1920x1080.jpg?t=1639289754,https://cdn.akamai.steamstatic.com/steam/apps/1169460/ss_e14f181c01795db3996d00322c4bd54527625772.1920x1080.jpg?t=1639289754",
+    "Slug": "",
+    "Meta Title": "遠古大陸外傳-古道的盡頭: May 14, 2020, chi and Full Overview",
+    "Meta Description": "Looking for information on 遠古大陸外傳-古道的盡頭? Check out the release date (May 14, 2020), developer insights from chi, and a complete game summary.",
+    "Alt Text Image": "Official header image for 遠古大陸外傳-古道的盡頭 game - Steam 1169460",
+    "Canonical URL": "https://gusku.site/game/",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u9060\\u53e4\\u5927\\u9678\\u5916\\u50b3-\\u53e4\\u9053\\u7684\\u76e1\\u982d\", \"description\": \"Looking for information on \\u9060\\u53e4\\u5927\\u9678\\u5916\\u50b3-\\u53e4\\u9053\\u7684\\u76e1\\u982d? Check out the release date (May 14, 2020), developer insights from chi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 14, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"chi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"chi,RMAsia\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1169460/header.jpg?t=1639289754\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

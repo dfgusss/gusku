@@ -1,0 +1,21 @@
+{
+    "AppID": 726030,
+    "Name": "MinSweeper",
+    "Release date": "Oct 30, 2017",
+    "About the game": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time. Play the given puzzles or play a custom puzzle. Also features a soothing soundtrack. MinSweeper also includes 3 minigames: Sudoku: The classic, intense puzzle Catcher: Catch falling blocks while avoiding mines. Asteroids: Play as a spaceship; avoid and destroy asteroids to rack up score. Integrated with Steam API to include achievements and Leaderboards.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/726030/header.jpg?t=1509398949",
+    "Price": 2.99,
+    "Developers": "LinQ",
+    "Publishers": "LinQ",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/726030/ss_1bac9a2ef0d25be5baebce650ce7bd44f9b8fe40.1920x1080.jpg?t=1509398949,https://cdn.akamai.steamstatic.com/steam/apps/726030/ss_17a9459c040b1f9db32c8bd3b744a6cc65a91a34.1920x1080.jpg?t=1509398949,https://cdn.akamai.steamstatic.com/steam/apps/726030/ss_4dcc2e3b9be159076d5cf90e42a3105f713f35e8.1920x1080.jpg?t=1509398949,https://cdn.akamai.steamstatic.com/steam/apps/726030/ss_64d595b45644c9804d1b9a0fd83cb11fda2a6a1c.1920x1080.jpg?t=1509398949,https://cdn.akamai.steamstatic.com/steam/apps/726030/ss_5143c25f3830f873bf4e060689df5dddb3a6167c.1920x1080.jpg?t=1509398949,https://cdn.akamai.steamstatic.com/steam/apps/726030/ss_04cdb5f5ca397ad3d463747b3d707c14d425daae.1920x1080.jpg?t=1509398949,https://cdn.akamai.steamstatic.com/steam/apps/726030/ss_d0b0ac5ab05a8345fc0366e8a969dacfd2e84596.1920x1080.jpg?t=1509398949",
+    "Slug": "minsweeper",
+    "Meta Title": "MinSweeper: Oct 30, 2017, LinQ and Full Overview",
+    "Meta Description": "Looking for information on MinSweeper? Check out the release date (Oct 30, 2017), developer insights from LinQ, and a complete game summary.",
+    "Alt Text Image": "Official header image for MinSweeper game - Steam 726030",
+    "Canonical URL": "https://gusku.site/game/minsweeper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MinSweeper\", \"description\": \"Looking for information on MinSweeper? Check out the release date (Oct 30, 2017), developer insights from LinQ, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 30, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"LinQ\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LinQ\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/726030/header.jpg?t=1509398949\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

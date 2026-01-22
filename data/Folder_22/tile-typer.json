@@ -1,0 +1,21 @@
+{
+    "AppID": 760390,
+    "Name": "Tile Typer",
+    "Release date": "Jan 23, 2018",
+    "About the game": "Test your fingers with this simple score chasing game. The basics are simple: there is one correct tile, press the correct key corresponding to it. There are two main mods: Stamina and Speed. In Stamina mode, the goal is to never miss a tile, the game is over. Every time you correctly type the tile, you gain a second. How long can you be accurate? In Speed mode, the goal is to be fast without missing a tile. Get to a specified number of tiles and check your score. Can you beat your previous scores?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/760390/header.jpg?t=1516694501",
+    "Price": 0.99,
+    "Developers": "Divagated",
+    "Publishers": "Divagated",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/760390/ss_eace2c5a91600e705c8d5fdc8355fbc2b3038902.1920x1080.jpg?t=1516694501,https://cdn.akamai.steamstatic.com/steam/apps/760390/ss_e503825275faab7989e34c5760a3b43c781ac195.1920x1080.jpg?t=1516694501,https://cdn.akamai.steamstatic.com/steam/apps/760390/ss_bb01631819fc18d16f332daa5a0d6b45250ca231.1920x1080.jpg?t=1516694501,https://cdn.akamai.steamstatic.com/steam/apps/760390/ss_c523c6f3ca84e12dfe502656d0365b8e90433478.1920x1080.jpg?t=1516694501,https://cdn.akamai.steamstatic.com/steam/apps/760390/ss_a2c5adc48ef927a92ac2e85a4b0f4f334c95b4dc.1920x1080.jpg?t=1516694501,https://cdn.akamai.steamstatic.com/steam/apps/760390/ss_73f608c2d0106275edfa8d01028c4440bb1768f1.1920x1080.jpg?t=1516694501",
+    "Slug": "tile-typer",
+    "Meta Title": "Tile Typer: Jan 23, 2018, Divagated and Full Overview",
+    "Meta Description": "Looking for information on Tile Typer? Check out the release date (Jan 23, 2018), developer insights from Divagated, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tile Typer game - Steam 760390",
+    "Canonical URL": "https://gusku.site/game/tile-typer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tile Typer\", \"description\": \"Looking for information on Tile Typer? Check out the release date (Jan 23, 2018), developer insights from Divagated, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 23, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Divagated\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Divagated\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/760390/header.jpg?t=1516694501\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 451930,
+    "Name": "qrth-phyl",
+    "Release date": "Jul 19, 2018",
+    "About the game": "In qrth-phyl you will manoeuvre around, and within, three dimensional stages, leaving a persistent tail behind you that you must avoid. The stages are algorithmically generated and adapted according to how you play. Hidden in the game are documentary elements that chart the development and inception of Blockade/snake/worm videogames from 1976 to today. The game plays in 3D, is adaptive and fuses elements of documentary. qrth-phyl continues the algorithmic, generative and metaphorical arcade game design ideas last seen in previous hermitgames/Verran release Leave Home . Key Features - Sequence game mode: play through an infinite algorithmicly generated sequence of stages collecting dots to unlock the exit and generate the next stage informed by how you've played. - Seed game mode: generate a single infinite stage from a chosen seed recorded to the leaderboard. Optimise the best seed for the highest score. - Box game mode: simple fixed size box 3D stage for hiscore chasing - Steam Leaderboards, chase friends scores or better every player in the world - 14 carefully chosen Steam Achievements - Unique electronic soundtrack created using the AY-3-8912 (ZX Sinclair Spectrum audio microchip) Based on a prototype created in the deep south west of Cornwall circa 2004 it was (re)developed for PC and XBLIG between 2011-2013 and revised for Steam in 2018. Built by one person with custom tools, self generating code and a modified AY-3-8912 audio chip. ​",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/451930/header.jpg?t=1545246337",
+    "Price": 4.99,
+    "Developers": "Verran",
+    "Publishers": "Verran",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/451930/ss_cc7248d3ac3071efa0019a4377c60d8f268e7892.1920x1080.jpg?t=1545246337,https://cdn.akamai.steamstatic.com/steam/apps/451930/ss_68b0cca4214e43466a2385e4865577fb3019a779.1920x1080.jpg?t=1545246337,https://cdn.akamai.steamstatic.com/steam/apps/451930/ss_0631743a7af63d0beac7b59333a332cc9e0673b7.1920x1080.jpg?t=1545246337,https://cdn.akamai.steamstatic.com/steam/apps/451930/ss_7bd747b343f38e264d84aa6e44b62187695d90cc.1920x1080.jpg?t=1545246337,https://cdn.akamai.steamstatic.com/steam/apps/451930/ss_74308ba11594c8569198415dcf8535904d3da6ab.1920x1080.jpg?t=1545246337",
+    "Slug": "qrth-phyl",
+    "Meta Title": "qrth-phyl: Jul 19, 2018, Verran and Full Overview",
+    "Meta Description": "Looking for information on qrth-phyl? Check out the release date (Jul 19, 2018), developer insights from Verran, and a complete game summary.",
+    "Alt Text Image": "Official header image for qrth-phyl game - Steam 451930",
+    "Canonical URL": "https://gusku.site/game/qrth-phyl",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"qrth-phyl\", \"description\": \"Looking for information on qrth-phyl? Check out the release date (Jul 19, 2018), developer insights from Verran, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 19, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Verran\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Verran\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/451930/header.jpg?t=1545246337\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

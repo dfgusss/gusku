@@ -1,0 +1,21 @@
+{
+    "AppID": 1217850,
+    "Name": "Angry food",
+    "Release date": "Jan 14, 2020",
+    "About the game": "Angry food is a logic game for creating chains of identical elements. The goal of the game is to put in a row from 3 identical elements, get points and go to the next level There are also bonuses. Not all bonuses are useful. Some may do harm.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1217850/header.jpg?t=1584728641",
+    "Price": 19.99,
+    "Developers": "Kedexa",
+    "Publishers": "Kedexa",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1217850/ss_816e2fb09e9101fd0d50bbd020222ede66f6b6ce.1920x1080.jpg?t=1584728641,https://cdn.akamai.steamstatic.com/steam/apps/1217850/ss_a170eb3f289f3b2b87ec8671860d173caca9eef8.1920x1080.jpg?t=1584728641,https://cdn.akamai.steamstatic.com/steam/apps/1217850/ss_81de2a23fbf801765f8e46e87d33ad6b840d0c40.1920x1080.jpg?t=1584728641,https://cdn.akamai.steamstatic.com/steam/apps/1217850/ss_bb058d92565c4fc931a40fd2ca60ccf64775ac56.1920x1080.jpg?t=1584728641,https://cdn.akamai.steamstatic.com/steam/apps/1217850/ss_01b05f4f44b2638cf751db7ef1a78d592751a6b6.1920x1080.jpg?t=1584728641,https://cdn.akamai.steamstatic.com/steam/apps/1217850/ss_a64a9934b6f535c090b9601e4722fa23bac1b6bc.1920x1080.jpg?t=1584728641",
+    "Slug": "angry-food",
+    "Meta Title": "Angry food: Jan 14, 2020, Kedexa and Full Overview",
+    "Meta Description": "Looking for information on Angry food? Check out the release date (Jan 14, 2020), developer insights from Kedexa, and a complete game summary.",
+    "Alt Text Image": "Official header image for Angry food game - Steam 1217850",
+    "Canonical URL": "https://gusku.site/game/angry-food",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Angry food\", \"description\": \"Looking for information on Angry food? Check out the release date (Jan 14, 2020), developer insights from Kedexa, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 14, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kedexa\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kedexa\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1217850/header.jpg?t=1584728641\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

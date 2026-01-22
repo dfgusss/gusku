@@ -1,0 +1,21 @@
+{
+    "AppID": 1852220,
+    "Name": "The Phoenix",
+    "Release date": "Jan 31, 2022",
+    "About the game": "The Phoenix is a classic 2D action-platformer. This game is inspired by Capcom's Mega Man games from the late 1980s and early 1990s, with 8-bit art, a soundtrack inspired by chiptune music, and simple yet challenging gameplay. Play as the Phoenix as you traverse 5 difficult levels, fight through hordes of henchmen, and fight powerful supervillains in an attempt to save the city from an evil mob boss!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1852220/header.jpg?t=1643680848",
+    "Price": 4.99,
+    "Developers": "Grant G Heffner",
+    "Publishers": "Grant G Heffner",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1852220/ss_19d032c0d263d5a0165c16624930ffddb91323ea.1920x1080.jpg?t=1643680848,https://cdn.akamai.steamstatic.com/steam/apps/1852220/ss_0a4bfcad36171bd1c47131129aef1539a013f1e9.1920x1080.jpg?t=1643680848,https://cdn.akamai.steamstatic.com/steam/apps/1852220/ss_d219ba7c47643f3bae21a6c577ba14d64f2dc620.1920x1080.jpg?t=1643680848,https://cdn.akamai.steamstatic.com/steam/apps/1852220/ss_99bd9d2447e35f1d6d426a4c12aa7a1c0d950c28.1920x1080.jpg?t=1643680848,https://cdn.akamai.steamstatic.com/steam/apps/1852220/ss_4d621e72ab392e95b6bf357fba04f88745375544.1920x1080.jpg?t=1643680848",
+    "Slug": "the-phoenix",
+    "Meta Title": "The Phoenix: Jan 31, 2022, Grant G Heffner and Full Overview",
+    "Meta Description": "Looking for information on The Phoenix? Check out the release date (Jan 31, 2022), developer insights from Grant G Heffner, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Phoenix game - Steam 1852220",
+    "Canonical URL": "https://gusku.site/game/the-phoenix",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Phoenix\", \"description\": \"Looking for information on The Phoenix? Check out the release date (Jan 31, 2022), developer insights from Grant G Heffner, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 31, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Grant G Heffner\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Grant G Heffner\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1852220/header.jpg?t=1643680848\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

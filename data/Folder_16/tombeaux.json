@@ -1,0 +1,21 @@
+{
+    "AppID": 943900,
+    "Name": "Tombeaux",
+    "Release date": "Nov 5, 2018",
+    "About the game": "Tombeaux is a short first-person exploration game set in a historically accurate 3D environment. Developed as a solo art, design, and research project by Dave Beck, this interactive historical experience investigates the convergence between cultures and the environment across a few hundred years of midwestern American history. Through exploration, the player discovers various unique objects, environments, and narratives, all of which cause reflection upon our history and our future. Unique points about the game: Realistic exploratory world Historically researched and presented narrative and events, meant to be both educational and contemplative Environment transforms in reaction to progress in game Game Audience: All ages, including non-gamers and gamers Game Style/Type: Atmospheric, Story-rich Walking Simulator (minimal controls and mechanics, with a larger focus on story and environment) Focus Issues: The human nature to desire control, environmental awareness, and historical consequence The game is meant to be an artistic experience &amp; concept for the player, lasting roughly 30-60 minutes Solo Project by Dave Beck *Dave Beck will be donating 100% of the profits from Tombeaux right back to protecting the river which it is based upon. The donation will be made to the St. Croix Watershed Research Station in Minnesota, in order to continue to support research on the river and the Artist at Pine Needles Program, from which this game was first envisioned. Note on Partial Controller Support: After navigating the Unity Launcher that appears when starting the game with a keyboard and mouse, Tombeaux has full controller support within the game itself",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/943900/header.jpg?t=1572650212",
+    "Price": 4.99,
+    "Developers": "Dave Beck",
+    "Publishers": "Dave Beck",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/943900/ss_a5a2261062b8bf1d0d1fa3e035e0292516f68c8e.1920x1080.jpg?t=1572650212,https://cdn.akamai.steamstatic.com/steam/apps/943900/ss_0e5d64d0bb5ea5e3a4ddb7e641c93d7b281c4d27.1920x1080.jpg?t=1572650212,https://cdn.akamai.steamstatic.com/steam/apps/943900/ss_7bf7e61edb2fcbfe676fc6f54f92cdc08f24f4dc.1920x1080.jpg?t=1572650212,https://cdn.akamai.steamstatic.com/steam/apps/943900/ss_5621eb0e109fcfdce7809881dd6563a58a65ab2b.1920x1080.jpg?t=1572650212,https://cdn.akamai.steamstatic.com/steam/apps/943900/ss_dc14c7fd696b70f4d1ac5ca72426e96b8708e8d3.1920x1080.jpg?t=1572650212,https://cdn.akamai.steamstatic.com/steam/apps/943900/ss_2527217412a356c064567e20ff66a974d5791b01.1920x1080.jpg?t=1572650212",
+    "Slug": "tombeaux",
+    "Meta Title": "Tombeaux: Nov 5, 2018, Dave Beck and Full Overview",
+    "Meta Description": "Looking for information on Tombeaux? Check out the release date (Nov 5, 2018), developer insights from Dave Beck, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tombeaux game - Steam 943900",
+    "Canonical URL": "https://gusku.site/game/tombeaux",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tombeaux\", \"description\": \"Looking for information on Tombeaux? Check out the release date (Nov 5, 2018), developer insights from Dave Beck, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 5, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dave Beck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dave Beck\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/943900/header.jpg?t=1572650212\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

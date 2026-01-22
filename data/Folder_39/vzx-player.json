@@ -1,0 +1,21 @@
+{
+    "AppID": 981590,
+    "Name": "VZX Player",
+    "Release date": "Dec 13, 2019",
+    "About the game": "VZX Player generates awesome audio reactive graphics in real time from any audio source - music player, youtube, microphone, line-in etc. VZX Player has been used by multiple twitch streamers and DJ's and is enjoyed by many home users and tech enthusiasts. Feature Highlights Multiple 'visuals' (a.k.a. 'individual scenes' or 'graphical effects') Toggling on and off visuals and packs of visuals Can visualize audio from one audio device at a time - microphone, line-in or what is currently playing Easy tweaking of parameters for many of the visuals - for instance color, saturation and camera rotation speed Blackout support (F12) Input Support UI is 100% controllable with Game Controller, mouse and keyboard Key remapping of most input actions Display support 1080p, 4k and high-frequency monitor support (144Hz) Ultra wide monitor support Display on any secondary monitor Perfectly position and scale the window for advanced streaming setups Performance Low CPU usage for the basic visuals &lt; 500 MB RAM used when all basic visuals loaded When program launches, only visuals that are in the current playlist are loaded. Trailer Music 'Gold in you' by Ashleigh Ball",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/981590/header.jpg?t=1645199157",
+    "Price": 0.0,
+    "Developers": "Vovoid Media Technologies AB",
+    "Publishers": "Vovoid Media Technologies AB",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/981590/ss_b7093890030540eb59cdf92f2bdd8317fa4bf988.1920x1080.jpg?t=1645199157,https://cdn.akamai.steamstatic.com/steam/apps/981590/ss_b28c43176e1f9be2e58b95cb58557b955b434d0a.1920x1080.jpg?t=1645199157,https://cdn.akamai.steamstatic.com/steam/apps/981590/ss_5d38c8dd15e153bef061c131722ef1f6e7b23e12.1920x1080.jpg?t=1645199157,https://cdn.akamai.steamstatic.com/steam/apps/981590/ss_a983f3ae4265caa5dd38d41a4834bdc2df7b8b48.1920x1080.jpg?t=1645199157,https://cdn.akamai.steamstatic.com/steam/apps/981590/ss_fafc0286710acb2985812bc4e2067a8921d541fb.1920x1080.jpg?t=1645199157",
+    "Slug": "vzx-player",
+    "Meta Title": "VZX Player: Dec 13, 2019, Vovoid Media Technologies AB an...",
+    "Meta Description": "Looking for information on VZX Player? Check out the release date (Dec 13, 2019), developer insights from Vovoid Media Technologies AB, and a complete g...",
+    "Alt Text Image": "Official header image for VZX Player game - Steam 981590",
+    "Canonical URL": "https://gusku.site/game/vzx-player",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VZX Player\", \"description\": \"Looking for information on VZX Player? Check out the release date (Dec 13, 2019), developer insights from Vovoid Media Technologies AB, and a complete g...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 13, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vovoid Media Technologies AB\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vovoid Media Technologies AB\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/981590/header.jpg?t=1645199157\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

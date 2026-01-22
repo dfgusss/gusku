@@ -1,0 +1,21 @@
+{
+    "AppID": 495200,
+    "Name": "DATH",
+    "Release date": "Nov 28, 2016",
+    "About the game": "Slasher platformer with RPG elements. You have to fight for the creatures of darkness against the kingdom. Features: 3 races 12+ bosses 30+ cap level swords, bows and magic dungeons full of traps and enemies.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/495200/header.jpg?t=1571674859",
+    "Price": 5.99,
+    "Developers": "kivoro",
+    "Publishers": "kivoro",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/495200/ss_cc6c648957ac95ef989aa03451b54ce634ef0331.1920x1080.jpg?t=1571674859,https://cdn.akamai.steamstatic.com/steam/apps/495200/ss_5d64d87b884d0ac7cf833abc19be3bbf4caeae96.1920x1080.jpg?t=1571674859,https://cdn.akamai.steamstatic.com/steam/apps/495200/ss_cb77a7e8c53d84441e6dd96e9e5f0881b9dd9598.1920x1080.jpg?t=1571674859,https://cdn.akamai.steamstatic.com/steam/apps/495200/ss_d7beea4b57cb02d530477a4943d1b0a1ac7aabca.1920x1080.jpg?t=1571674859,https://cdn.akamai.steamstatic.com/steam/apps/495200/ss_1e28998b5e3e2ea08e812ef46dacc0a2943b990c.1920x1080.jpg?t=1571674859",
+    "Slug": "dath",
+    "Meta Title": "DATH: Nov 28, 2016, kivoro and Full Overview",
+    "Meta Description": "Looking for information on DATH? Check out the release date (Nov 28, 2016), developer insights from kivoro, and a complete game summary.",
+    "Alt Text Image": "Official header image for DATH game - Steam 495200",
+    "Canonical URL": "https://gusku.site/game/dath",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DATH\", \"description\": \"Looking for information on DATH? Check out the release date (Nov 28, 2016), developer insights from kivoro, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 28, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"kivoro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"kivoro\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/495200/header.jpg?t=1571674859\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

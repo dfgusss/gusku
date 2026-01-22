@@ -1,0 +1,21 @@
+{
+    "AppID": 2231280,
+    "Name": "Spirit Slider",
+    "Release date": "Dec 19, 2022",
+    "About the game": "Spirit Slider features five sliding puzzle games. Each puzzle game consist of 27 game pieces that have the ability to slide anywhere within a 3x3x3 grid. At the start, the puzzle game will mixed. Leaving the inner most space vacant. The player must slide the game pieces, starting with a center piece, and return the puzzle to its original configuration. Each puzzle game can be played using a timer. The last timed game and the fastest time will be saved with each puzzle game. During play the player may choose to toggle the 'Eye button'. When activated it will allow the player to see through the game pieces. During a timed game the player may pause the game at any time by toggling the 'Pause button' next to the clock. When active it will stop the clock and display a pause screen until toggled back off. The player has options to select from three different pause screens, and set the volume of the sounds.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2231280/header.jpg?t=1671439582",
+    "Price": 3.59,
+    "Developers": "Koi Ishto Studio",
+    "Publishers": "Koi Ishto Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2231280/ss_18afcaf3c46d9397506659c7a8866d2ce4832939.1920x1080.jpg?t=1671439582,https://cdn.akamai.steamstatic.com/steam/apps/2231280/ss_65c8ebccc3780b45e691f2c949e1be3492ff3910.1920x1080.jpg?t=1671439582,https://cdn.akamai.steamstatic.com/steam/apps/2231280/ss_ff4c62a95742eb17a5cad7b00cbad85780a7cc11.1920x1080.jpg?t=1671439582,https://cdn.akamai.steamstatic.com/steam/apps/2231280/ss_c0b39d029c7ff6e1f11a96e15a2a80aef32944ed.1920x1080.jpg?t=1671439582,https://cdn.akamai.steamstatic.com/steam/apps/2231280/ss_a56bde5bac269454eb74f29b652249cce0849704.1920x1080.jpg?t=1671439582,https://cdn.akamai.steamstatic.com/steam/apps/2231280/ss_830182fee2218ecd4f423404b394da5101eafe5c.1920x1080.jpg?t=1671439582",
+    "Slug": "spirit-slider",
+    "Meta Title": "Spirit Slider: Dec 19, 2022, Koi Ishto Studio and Full Ov...",
+    "Meta Description": "Looking for information on Spirit Slider? Check out the release date (Dec 19, 2022), developer insights from Koi Ishto Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Spirit Slider game - Steam 2231280",
+    "Canonical URL": "https://gusku.site/game/spirit-slider",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Spirit Slider\", \"description\": \"Looking for information on Spirit Slider? Check out the release date (Dec 19, 2022), developer insights from Koi Ishto Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 19, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Koi Ishto Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Koi Ishto Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2231280/header.jpg?t=1671439582\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.59, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

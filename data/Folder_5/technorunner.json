@@ -1,0 +1,21 @@
+{
+    "AppID": 1454930,
+    "Name": "TechnoRunner",
+    "Release date": "Nov 12, 2020",
+    "About the game": "TechnoRunner is an indie Arcade game, mixing Rythm game and Endless Runner, set in procedurally generated levels. Compete on a global leaderboard or against your friends for the highest score! The music sets the pace! Move in the rythm, and take as many risks as possible to unlock combo chains. The walls are procedurally generated using a complex APM tuning algorithm. Can you reach the end of a song? The game was carefully crafted by a solo indie developer. And he hopes you like it!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1454930/header.jpg?t=1605970135",
+    "Price": 3.99,
+    "Developers": "Corentin Cournac",
+    "Publishers": "Corentin Cournac",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1454930/ss_95312a23c61524b91c8f2cb3a74dd40332df3d47.1920x1080.jpg?t=1605970135,https://cdn.akamai.steamstatic.com/steam/apps/1454930/ss_0e9f18643175d3fbecd86da1145cd9c42c05e7e0.1920x1080.jpg?t=1605970135,https://cdn.akamai.steamstatic.com/steam/apps/1454930/ss_dc9a16a8fc6c92af35eb8400721a21b67d7c715f.1920x1080.jpg?t=1605970135,https://cdn.akamai.steamstatic.com/steam/apps/1454930/ss_66939dda5a0589fdfb964bb6a5bb822515a24ae0.1920x1080.jpg?t=1605970135,https://cdn.akamai.steamstatic.com/steam/apps/1454930/ss_3d3e471f15749a3b8ef2f969344100d18310554d.1920x1080.jpg?t=1605970135",
+    "Slug": "technorunner",
+    "Meta Title": "TechnoRunner: Nov 12, 2020, Corentin Cournac and Full Ove...",
+    "Meta Description": "Looking for information on TechnoRunner? Check out the release date (Nov 12, 2020), developer insights from Corentin Cournac, and a complete game summary.",
+    "Alt Text Image": "Official header image for TechnoRunner game - Steam 1454930",
+    "Canonical URL": "https://gusku.site/game/technorunner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TechnoRunner\", \"description\": \"Looking for information on TechnoRunner? Check out the release date (Nov 12, 2020), developer insights from Corentin Cournac, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 12, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Corentin Cournac\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Corentin Cournac\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1454930/header.jpg?t=1605970135\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1743120,
+    "Name": "Abettor",
+    "Release date": "Sep 25, 2021",
+    "About the game": "Hey Gamers, Overview This is a top-down survivor shooting game, where your goal is to kill as many enemies as possible. In this game, the world and enemies generate around you, creating a bullet hell scenario where you are constantly struggling to survive. Enemies will spawn off screen and will face and head towards you, so be on guard at all times. Features Tutorial Score and High Score (based on number of enemies killed) Epic sound track by Gabe Orellana Cool sprites from the Youtube channel Brackeys About the Developer Hello, I am a young game developer, currently in my senior year of Uni, majoring in Civil Engineering. I have been learning Unity on my off-time for four years now and am finally publishing my first game to Steam. Last year I made several mods for the game Endless Legend, and even made a Youtube channel teaching people how to mod the game. I will try to update the game as frequently as I can, but that all depends on the amount of work I have. Future Plans I plan to add a story to this, as well as add more music and better graphics. As for the gameplay, I plan to add RPG elements to make the game more dynamic. I also plan to improve the AI so that enemies can dodge bullets. Technically that is a feature already, but because there are many bullets on the screen, the AI doesnt have enough time to dodge all of them.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1743120/header.jpg?t=1651377170",
+    "Price": 0.0,
+    "Developers": "Justin Avila",
+    "Publishers": "Justin Avila",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1743120/ss_5610fd36e6aa879e3bc3e03fff9456c7a45f1804.1920x1080.jpg?t=1651377170,https://cdn.akamai.steamstatic.com/steam/apps/1743120/ss_0ffe71dcc2905a35afc2d52e05c764a382dc5ace.1920x1080.jpg?t=1651377170,https://cdn.akamai.steamstatic.com/steam/apps/1743120/ss_88b8cee84af7a6b0399c4641012f711f184de970.1920x1080.jpg?t=1651377170,https://cdn.akamai.steamstatic.com/steam/apps/1743120/ss_24515be27ee37b3bef45088cb7f7e2f1f350a5d6.1920x1080.jpg?t=1651377170,https://cdn.akamai.steamstatic.com/steam/apps/1743120/ss_aece275f9a5027e615e1d62c2efdcc87fe21dfde.1920x1080.jpg?t=1651377170",
+    "Slug": "abettor",
+    "Meta Title": "Abettor: Sep 25, 2021, Justin Avila and Full Overview",
+    "Meta Description": "Looking for information on Abettor? Check out the release date (Sep 25, 2021), developer insights from Justin Avila, and a complete game summary.",
+    "Alt Text Image": "Official header image for Abettor game - Steam 1743120",
+    "Canonical URL": "https://gusku.site/game/abettor",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Abettor\", \"description\": \"Looking for information on Abettor? Check out the release date (Sep 25, 2021), developer insights from Justin Avila, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 25, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Justin Avila\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Justin Avila\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1743120/header.jpg?t=1651377170\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

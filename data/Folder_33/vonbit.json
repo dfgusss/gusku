@@ -1,0 +1,21 @@
+{
+    "AppID": 1900480,
+    "Name": "Vonbit",
+    "Release date": "Mar 31, 2022",
+    "About the game": "Vonbit is a simple 2D arcade shooter where you aim to get the highest score by shooting down moving enemies while avoiding their projectiles. It features low-resolution one-bit graphics and a low frame rate - all of which add to the retro experience!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1900480/header.jpg?t=1648734340",
+    "Price": 0.0,
+    "Developers": "Chris Boyfield",
+    "Publishers": "Chris Boyfield",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1900480/ss_0647512ad284a11452cb4a481431f35dfce0cf8a.1920x1080.jpg?t=1648734340,https://cdn.akamai.steamstatic.com/steam/apps/1900480/ss_82efc5d4ee24e7cecda09077e170afadaa94f0eb.1920x1080.jpg?t=1648734340,https://cdn.akamai.steamstatic.com/steam/apps/1900480/ss_1520a799c64c962d0b46f9e6b2271d5749a664c9.1920x1080.jpg?t=1648734340,https://cdn.akamai.steamstatic.com/steam/apps/1900480/ss_677f5d629ee1ef49c09325f5ac8d12d239947bbf.1920x1080.jpg?t=1648734340,https://cdn.akamai.steamstatic.com/steam/apps/1900480/ss_e16249fc6ef7aacaf6ed85401b11b363ca45dfab.1920x1080.jpg?t=1648734340",
+    "Slug": "vonbit",
+    "Meta Title": "Vonbit: Mar 31, 2022, Chris Boyfield and Full Overview",
+    "Meta Description": "Looking for information on Vonbit? Check out the release date (Mar 31, 2022), developer insights from Chris Boyfield, and a complete game summary.",
+    "Alt Text Image": "Official header image for Vonbit game - Steam 1900480",
+    "Canonical URL": "https://gusku.site/game/vonbit",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Vonbit\", \"description\": \"Looking for information on Vonbit? Check out the release date (Mar 31, 2022), developer insights from Chris Boyfield, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 31, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Chris Boyfield\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Chris Boyfield\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1900480/header.jpg?t=1648734340\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 600650,
+    "Name": "OK Bob",
+    "Release date": "Mar 31, 2017",
+    "About the game": "OK Bob is a short atmospheric escape room game. You find yourself locked in an unfamiliar custodial closet with only your wits to aid your escape. Find clues, read notes, and solve puzzles to ultimately make your way out. OK Bob currently only supports the HTC Vive and play spaces of at least 1.7 by 1.5 meters.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/600650/header.jpg?t=1490987926",
+    "Price": 3.99,
+    "Developers": "Lumen Labs",
+    "Publishers": "Lumen Labs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/600650/ss_932dbaff7bf42f4ec945db4a9ea93ec9e7beb40c.1920x1080.jpg?t=1490987926,https://cdn.akamai.steamstatic.com/steam/apps/600650/ss_a8a8b766f6b0eae9882e079cd7e76575cdaf9fc3.1920x1080.jpg?t=1490987926,https://cdn.akamai.steamstatic.com/steam/apps/600650/ss_c63fb11355f71939c00e174a5822eea7708577ee.1920x1080.jpg?t=1490987926,https://cdn.akamai.steamstatic.com/steam/apps/600650/ss_6a510dbe4f8e9e2ddd9820c72eaf191f8e4898e6.1920x1080.jpg?t=1490987926,https://cdn.akamai.steamstatic.com/steam/apps/600650/ss_52dba91b6c5136b8ec6d7c2218f3b343c91df1b3.1920x1080.jpg?t=1490987926",
+    "Slug": "ok-bob",
+    "Meta Title": "OK Bob: Mar 31, 2017, Lumen Labs and Full Overview",
+    "Meta Description": "Looking for information on OK Bob? Check out the release date (Mar 31, 2017), developer insights from Lumen Labs, and a complete game summary.",
+    "Alt Text Image": "Official header image for OK Bob game - Steam 600650",
+    "Canonical URL": "https://gusku.site/game/ok-bob",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"OK Bob\", \"description\": \"Looking for information on OK Bob? Check out the release date (Mar 31, 2017), developer insights from Lumen Labs, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 31, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lumen Labs\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Lumen Labs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/600650/header.jpg?t=1490987926\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

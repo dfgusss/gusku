@@ -1,0 +1,21 @@
+{
+    "AppID": 1095370,
+    "Name": "Voxel Bot",
+    "Release date": "Jun 11, 2019",
+    "About the game": "In Voxel Bot you play as a robot that needs to clear all cubes in the level. By jumping from cube to cube you change the color of the cubes and when all the cubes are purple you cleared the level. To make your goal harder there are enemies that you can’t touch or trying to catch you. To make it even more challenging there are spikes that strike when you are too long idle on a cube. The levels will get more complex progressing the game. New mechanics will be introduced like a green cube that will let you move further and a cube that can be solid or not solid by pressing a button. In this game, the player controls a cubicle robot, who starts each game on a grid of cubes and moves by hopping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to purple allows the player to progress to the next stage.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1095370/header.jpg?t=1609498833",
+    "Price": 1.99,
+    "Developers": "NanningsGames",
+    "Publishers": "NanningsGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1095370/ss_d774097f0f6f4ff4dc0bd9d90cc4baac019bc216.1920x1080.jpg?t=1609498833,https://cdn.akamai.steamstatic.com/steam/apps/1095370/ss_b2fd93ed510ad5abb933395b8babb5f100aa0542.1920x1080.jpg?t=1609498833,https://cdn.akamai.steamstatic.com/steam/apps/1095370/ss_2274b2b584242cacf7d8b42e962bf24c93cd218f.1920x1080.jpg?t=1609498833,https://cdn.akamai.steamstatic.com/steam/apps/1095370/ss_5874e806558c7b29db45b7cd36d4172c24a91717.1920x1080.jpg?t=1609498833,https://cdn.akamai.steamstatic.com/steam/apps/1095370/ss_88267c0133f6bfe5e77197708a1d35a15169519a.1920x1080.jpg?t=1609498833,https://cdn.akamai.steamstatic.com/steam/apps/1095370/ss_967917c2af52a90f1b99c0147880b1aa7ca2dde5.1920x1080.jpg?t=1609498833,https://cdn.akamai.steamstatic.com/steam/apps/1095370/ss_f0d7b2bf52e2913079ff508f3e3faa1aa1b39a25.1920x1080.jpg?t=1609498833,https://cdn.akamai.steamstatic.com/steam/apps/1095370/ss_18156fc183c22d87cf07f5f511631e09306d374d.1920x1080.jpg?t=1609498833",
+    "Slug": "voxel-bot",
+    "Meta Title": "Voxel Bot: Jun 11, 2019, NanningsGames and Full Overview",
+    "Meta Description": "Looking for information on Voxel Bot? Check out the release date (Jun 11, 2019), developer insights from NanningsGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Voxel Bot game - Steam 1095370",
+    "Canonical URL": "https://gusku.site/game/voxel-bot",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Voxel Bot\", \"description\": \"Looking for information on Voxel Bot? Check out the release date (Jun 11, 2019), developer insights from NanningsGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 11, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"NanningsGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"NanningsGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1095370/header.jpg?t=1609498833\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

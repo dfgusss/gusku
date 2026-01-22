@@ -1,0 +1,21 @@
+{
+    "AppID": 2138130,
+    "Name": "Flax Engine - Tech Demo 2022",
+    "Release date": "Sep 21, 2022",
+    "About the game": "Flax Engine Tech Demo 2022 is a small demo application that showcases realistic scene rendering. New real-time Global Illumination rendering effect using DDGI algorithm simulates how the indirect light bounces through the world. This can be used in games and visualization products such as Arch Vis projects. Use the input Controls list to learn how to control the light direction and toggle custom options such as lights, GI, FPS counter, or dynamically simulated ball physics. Visit Flax Engine Website to learn more.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2138130/header.jpg?t=1663749596",
+    "Price": 0.0,
+    "Developers": "Flax Team",
+    "Publishers": "Flax Team",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2138130/ss_8c53328c278fa3ea17ea990c5ca7c23c70c9a4b2.1920x1080.jpg?t=1663749596,https://cdn.akamai.steamstatic.com/steam/apps/2138130/ss_1712734fddf39a7c12dc88f70b3591fc72716c63.1920x1080.jpg?t=1663749596,https://cdn.akamai.steamstatic.com/steam/apps/2138130/ss_a46ca3f846846203372adaf9185855a8b619775a.1920x1080.jpg?t=1663749596,https://cdn.akamai.steamstatic.com/steam/apps/2138130/ss_8525ef9600d5f3b7712f33a2e84d25bc5ac81ce0.1920x1080.jpg?t=1663749596,https://cdn.akamai.steamstatic.com/steam/apps/2138130/ss_f5522e0955e2885f538e083dc03db581b46a042e.1920x1080.jpg?t=1663749596",
+    "Slug": "flax-engine-tech-demo-2022",
+    "Meta Title": "Flax Engine - Tech Demo 2022: Sep 21, 2022, Flax Team and...",
+    "Meta Description": "Looking for information on Flax Engine - Tech Demo 2022? Check out the release date (Sep 21, 2022), developer insights from Flax Team, and a complete ga...",
+    "Alt Text Image": "Official header image for Flax Engine - Tech Demo 2022 game - Steam 2138130",
+    "Canonical URL": "https://gusku.site/game/flax-engine-tech-demo-2022",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Flax Engine - Tech Demo 2022\", \"description\": \"Looking for information on Flax Engine - Tech Demo 2022? Check out the release date (Sep 21, 2022), developer insights from Flax Team, and a complete ga...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Flax Team\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Flax Team\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2138130/header.jpg?t=1663749596\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

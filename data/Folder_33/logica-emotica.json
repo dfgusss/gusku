@@ -1,0 +1,21 @@
+{
+    "AppID": 1979700,
+    "Name": "Logica Emotica",
+    "Release date": "Jun 7, 2022",
+    "About the game": "An emoji infused puzzle game for you! Each level is a different puzzle and by observing the different emoji you will have to figure out the goal of the level. You complete each level by using the cursor keys, moving things into place, filling up areas, ... it's up to you to discover! Each level has its own logic, so figuring out what to do is part of the fun. There are 50 levels, increasing in difficulty. Can you solve them all? (controls: cursor keys or WSAD, Z key to undo moves, R key to restart a level) A new Bart Bonte / bontegames puzzle game. Enjoy the game! Bart",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1979700/header.jpg?t=1655104742",
+    "Price": 2.99,
+    "Developers": "Bart Bonte",
+    "Publishers": "Bart Bonte",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1979700/ss_849ca4733e0a662d637187cae47c6210a8da53ea.1920x1080.jpg?t=1655104742,https://cdn.akamai.steamstatic.com/steam/apps/1979700/ss_4942ab7e4a3c8b04521faa7cd786b946ef0c6f9f.1920x1080.jpg?t=1655104742,https://cdn.akamai.steamstatic.com/steam/apps/1979700/ss_5e80b3108807c2031bee76bb0ae0b831eac32377.1920x1080.jpg?t=1655104742,https://cdn.akamai.steamstatic.com/steam/apps/1979700/ss_a02367a05a6f44780129e3364eb8aed507f028ec.1920x1080.jpg?t=1655104742,https://cdn.akamai.steamstatic.com/steam/apps/1979700/ss_62438fcd4b432d05736be5ac060fcdc7b0e553b2.1920x1080.jpg?t=1655104742",
+    "Slug": "logica-emotica",
+    "Meta Title": "Logica Emotica: Jun 7, 2022, Bart Bonte and Full Overview",
+    "Meta Description": "Looking for information on Logica Emotica? Check out the release date (Jun 7, 2022), developer insights from Bart Bonte, and a complete game summary.",
+    "Alt Text Image": "Official header image for Logica Emotica game - Steam 1979700",
+    "Canonical URL": "https://gusku.site/game/logica-emotica",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Logica Emotica\", \"description\": \"Looking for information on Logica Emotica? Check out the release date (Jun 7, 2022), developer insights from Bart Bonte, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 7, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bart Bonte\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bart Bonte\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1979700/header.jpg?t=1655104742\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

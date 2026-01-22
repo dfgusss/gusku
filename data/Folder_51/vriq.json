@@ -1,0 +1,21 @@
+{
+    "AppID": 612050,
+    "Name": "VRIQ",
+    "Release date": "May 3, 2017",
+    "About the game": "Built as an experiment, VRIQ puts users into a room with one goal and instruction: 'light up all the lights'. But how? Using your creative problem solving ability, you'll have to figure out as much as you can before time runs out. The test only takes 5 minutes, so if you're curious how your 'intelligence' compares to other VR users, give it a try! We are open-sourcing the final score data (all anonymized) so that we can build an accurate distribution, just like a normal IQ test! Check out the 3DIQ blog to see how your score compares to others'. We'll also be comparing Vive and Oculus scores for some friendly competition. Note: Intelligence is a complex skill/ability. This test is merely one indicator of comparative problem solving ability in a VR scenario, so don't feel discouraged if you get a low score. You'll have a chance to redeem yourself in future tests, and each test you take will help hone your problem solving skills! Created by: Sky Nite Michael Carney Ken Richlin",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/612050/header.jpg?t=1493834710",
+    "Price": 0.0,
+    "Developers": "3DIQ",
+    "Publishers": "3DIQ",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/612050/ss_b5b0f8a2c9d92d358d97ef3f31b01b36ac5ba1e3.1920x1080.jpg?t=1493834710,https://cdn.akamai.steamstatic.com/steam/apps/612050/ss_a42c36306ae88147821b1ab4d4227cb227057211.1920x1080.jpg?t=1493834710,https://cdn.akamai.steamstatic.com/steam/apps/612050/ss_f20fe9c152ae3f41ef8829723eefebc598acf431.1920x1080.jpg?t=1493834710,https://cdn.akamai.steamstatic.com/steam/apps/612050/ss_3c571efb962c6f235a3f0855237e2c0f27158366.1920x1080.jpg?t=1493834710,https://cdn.akamai.steamstatic.com/steam/apps/612050/ss_685fa1e2d34630cf437b2655fdc6e2ec82fa158d.1920x1080.jpg?t=1493834710",
+    "Slug": "vriq",
+    "Meta Title": "VRIQ: May 3, 2017, 3DIQ and Full Overview",
+    "Meta Description": "Looking for information on VRIQ? Check out the release date (May 3, 2017), developer insights from 3DIQ, and a complete game summary.",
+    "Alt Text Image": "Official header image for VRIQ game - Steam 612050",
+    "Canonical URL": "https://gusku.site/game/vriq",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VRIQ\", \"description\": \"Looking for information on VRIQ? Check out the release date (May 3, 2017), developer insights from 3DIQ, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 3, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"3DIQ\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"3DIQ\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/612050/header.jpg?t=1493834710\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

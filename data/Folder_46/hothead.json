@@ -1,0 +1,21 @@
+{
+    "AppID": 904680,
+    "Name": "HotHead",
+    "Release date": "Oct 5, 2018",
+    "About the game": "HotHead is a retro-style platforming shooter game. Game Modes Choose between two game modes: 'Arcade Mode and 'Stage Mode.' In 'Arcade Mode' you will have to progress through all of the stages with a limited number of lives. 'Stage Mode' allows you to play the game at your own pace. Each stage has three letters: 'H,' 'O,' and 'T.' Collecting all three will gets you a 'HOT Bonus.' In 'Arcade Mode' the 'Hot Bonus' will grant you an extra life. In 'Stage Mode' it will add your current power-ups to your inventory. Different Ways to Play HotHead can be played with either a keyboard and mouse setup or with a game controller. With the game controller, there are two control options: Single joystick or dual joystick gameplay. Power-Ups There are two types of power-ups in HotHead. One modifies your attack, while the other grants you a bonus effect. There are four power-ups of each type. You can only hold one of each type at a time. In 'Stage Mode' you can collect power-ups by completing stages and getting the 'Hot Bonus.' These power-ups will go in your inventory where you can select which power-ups you want to use before selecting a stage. High Scores &amp; Speed Runs Each stage has a goal score and time to beat. If you obtain the goals for each world you will be rewarded with a bonus for 'Stage Mode.'",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/904680/header.jpg?t=1647596865",
+    "Price": 2.99,
+    "Developers": "Sean Baker",
+    "Publishers": "Sean Baker",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/904680/ss_111a072c6a41c314591e1809159dea1f0007e462.1920x1080.jpg?t=1647596865,https://cdn.akamai.steamstatic.com/steam/apps/904680/ss_a5f0030634a4fcd74e67cc9293ef1db4ecd16cb8.1920x1080.jpg?t=1647596865,https://cdn.akamai.steamstatic.com/steam/apps/904680/ss_62c62eee004a599b5bd491425408cec99ac0ac67.1920x1080.jpg?t=1647596865,https://cdn.akamai.steamstatic.com/steam/apps/904680/ss_dc1cc939c91d8b4c7808bfd9281a574b07ab22d1.1920x1080.jpg?t=1647596865,https://cdn.akamai.steamstatic.com/steam/apps/904680/ss_3d4e6df547c75a2e60f20b9463e38228030a669b.1920x1080.jpg?t=1647596865",
+    "Slug": "hothead",
+    "Meta Title": "HotHead: Oct 5, 2018, Sean Baker and Full Overview",
+    "Meta Description": "Looking for information on HotHead? Check out the release date (Oct 5, 2018), developer insights from Sean Baker, and a complete game summary.",
+    "Alt Text Image": "Official header image for HotHead game - Steam 904680",
+    "Canonical URL": "https://gusku.site/game/hothead",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HotHead\", \"description\": \"Looking for information on HotHead? Check out the release date (Oct 5, 2018), developer insights from Sean Baker, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 5, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sean Baker\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sean Baker\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/904680/header.jpg?t=1647596865\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

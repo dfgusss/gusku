@@ -1,0 +1,21 @@
+{
+    "AppID": 766210,
+    "Name": "Wargs",
+    "Release date": "Aug 27, 2021",
+    "About the game": "Wargs is a click-to-move MOBA with game mechanics that are inspired by massively multiplayer games like Perpetuum and Eve. WARNING! Steep learning curve ahead, but you'll be just fine if you played one of those previously mentioned titles. Scheduled matches every day at 20:00 Coordinated Universal Time (UTC) . +utc+to+local and Scheduled matches every day at 05:00 Coordinated Universal Time (UTC) . +am+utc+to+local As in most MOBAs, the core mechanics of Wargs revolve around capturing towers. The match is won when one of the teams captures the main enemy tower (the one closest to the enemy base). This game allows matches with the asymmetric number of players, for example, 1 vs. 2. Also, players can hop in the match while it's already running (without any penalties). This effectively reduces the number of failed matches due to mid-game quitting.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/766210/header.jpg?t=1644851468",
+    "Price": 0.0,
+    "Developers": "Hoopoe",
+    "Publishers": "Hoopoe",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/766210/ss_c9a31dd915e2990ca6d85c32e55081528bf76b41.1920x1080.jpg?t=1644851468,https://cdn.akamai.steamstatic.com/steam/apps/766210/ss_284475d34c7322be79377cf0ffb96056f6d9ecbd.1920x1080.jpg?t=1644851468",
+    "Slug": "wargs",
+    "Meta Title": "Wargs: Aug 27, 2021, Hoopoe and Full Overview",
+    "Meta Description": "Looking for information on Wargs? Check out the release date (Aug 27, 2021), developer insights from Hoopoe, and a complete game summary.",
+    "Alt Text Image": "Official header image for Wargs game - Steam 766210",
+    "Canonical URL": "https://gusku.site/game/wargs",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Wargs\", \"description\": \"Looking for information on Wargs? Check out the release date (Aug 27, 2021), developer insights from Hoopoe, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hoopoe\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hoopoe\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/766210/header.jpg?t=1644851468\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

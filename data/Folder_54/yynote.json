@@ -1,0 +1,21 @@
+{
+    "AppID": 847890,
+    "Name": "小黄条/YYNote",
+    "Release date": "May 8, 2018",
+    "About the game": "YYNote is a cross-platform todolist that already supports Windows, Android, and IOS. The Windows client supports embedded desktops, allowing custom fonts, font sizes, spacing, and text color combinations. The Minimalist mode can adapt to any style of wallpaper. Main functions: Task Record Cloud Storage Never Lose Atlas list, simple, pure, practical Simultaneous cross-platform, covering all office scenarios, viewing, recording, editing, and managing tasks anytime, anywhere Provides a simple sorting feature that can 'top' important tasks Completed tasks are archived on a daily basis to facilitate a quick review of the main work of the week and an efficient weekly report Embedded desktop with minimal mode, perfect integration with system desktop Notes are hidden automatically when they are close to the edge of the screen. Shortcuts are quickly hidden to support the protection of invisibility For Windows V1.9.4: The development brother said that he changed the code confusion scheme and solved the problem of Windows Defender false positives. False positives will cause some users to fail to install under win10, using an error Added the function of locking the interface position. After opening, the main interface no longer responds to dragging. A new slot link has been added to the settings page. Welcome everyone to come and vomit. A new share button has been added to the settings page. Click to copy our official website to the system paste board. If you think we are OK, please recommend us to our friends.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/847890/header.jpg?t=1532180288",
+    "Price": 0.0,
+    "Developers": "肥羊",
+    "Publishers": "肥羊",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/847890/ss_416bf4b733eb382c12aac48069dea107a77faf6e.1920x1080.jpg?t=1532180288,https://cdn.akamai.steamstatic.com/steam/apps/847890/ss_0a1ec17354a50c838d4680db96326d51c7338493.1920x1080.jpg?t=1532180288,https://cdn.akamai.steamstatic.com/steam/apps/847890/ss_c3cfeaf4b767099ba22b217d916701919ad022ac.1920x1080.jpg?t=1532180288,https://cdn.akamai.steamstatic.com/steam/apps/847890/ss_826d2da2c97e29fea9c84e32af5294da983af6f0.1920x1080.jpg?t=1532180288,https://cdn.akamai.steamstatic.com/steam/apps/847890/ss_f05b7d5fcbe4c139eeaa967d241a71146d0e9205.1920x1080.jpg?t=1532180288",
+    "Slug": "yynote",
+    "Meta Title": "小黄条/YYNote: May 8, 2018, 肥羊 and Full Overview",
+    "Meta Description": "Looking for information on 小黄条/YYNote? Check out the release date (May 8, 2018), developer insights from 肥羊, and a complete game summary.",
+    "Alt Text Image": "Official header image for 小黄条/YYNote game - Steam 847890",
+    "Canonical URL": "https://gusku.site/game/yynote",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u5c0f\\u9ec4\\u6761/YYNote\", \"description\": \"Looking for information on \\u5c0f\\u9ec4\\u6761/YYNote? Check out the release date (May 8, 2018), developer insights from \\u80a5\\u7f8a, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 8, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u80a5\\u7f8a\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u80a5\\u7f8a\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/847890/header.jpg?t=1532180288\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

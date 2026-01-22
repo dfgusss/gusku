@@ -1,0 +1,21 @@
+{
+    "AppID": 1825970,
+    "Name": "Blockworks",
+    "Release date": "Jan 7, 2023",
+    "About the game": "Blockworks is a creative sandbox in VR. Express your full creativity and build anything your mind can imagine! There will be 2 distinct modes available, Creator and Builder. Creator In the creator mode your only limit is your imagination. All blocks and all materials are to your disposal. You can save your block creations in the library or share them on the workshop Builder In the builder mode you will walk through a small campaign where in each level you have to build a more difficult set. Features - 100s of block types - 30 materials - 4 build in sets Gameplay - use you virtual hands to grab and manipulate blocks. When blocks are close enough each other a blue preview will show up. Dropped block will instantly connect to the other block. Help blocks are highlighted, when the disconnect button is hit, the highlighted block is separated from the rest of the group. The game features lot of buttons and gizmos that have good feeling feedback. There is no UI in the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1825970/header.jpg?t=1673219253",
+    "Price": 8.99,
+    "Developers": "Elastic Sea",
+    "Publishers": "Elastic Sea",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1825970/ss_1e55bbba80a3fabfd8ef2f9e8f05bc1141147326.1920x1080.jpg?t=1673219253,https://cdn.akamai.steamstatic.com/steam/apps/1825970/ss_68f502b2de2607506de6ab3803e81aa128d9b5aa.1920x1080.jpg?t=1673219253,https://cdn.akamai.steamstatic.com/steam/apps/1825970/ss_22af3aa4dd30e00c91de9b2e2b0e257963cec4ce.1920x1080.jpg?t=1673219253,https://cdn.akamai.steamstatic.com/steam/apps/1825970/ss_02d1e5216a8115edc19e06846c09a416ef094b88.1920x1080.jpg?t=1673219253,https://cdn.akamai.steamstatic.com/steam/apps/1825970/ss_0e5979d31c315d4564649a12f0538ce6ec119268.1920x1080.jpg?t=1673219253",
+    "Slug": "blockworks",
+    "Meta Title": "Blockworks: Jan 7, 2023, Elastic Sea and Full Overview",
+    "Meta Description": "Looking for information on Blockworks? Check out the release date (Jan 7, 2023), developer insights from Elastic Sea, and a complete game summary.",
+    "Alt Text Image": "Official header image for Blockworks game - Steam 1825970",
+    "Canonical URL": "https://gusku.site/game/blockworks",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Blockworks\", \"description\": \"Looking for information on Blockworks? Check out the release date (Jan 7, 2023), developer insights from Elastic Sea, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 7, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Elastic Sea\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Elastic Sea\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1825970/header.jpg?t=1673219253\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

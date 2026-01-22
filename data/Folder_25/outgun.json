@@ -1,0 +1,21 @@
+{
+    "AppID": 663760,
+    "Name": "Outgun",
+    "Release date": "Oct 8, 2020",
+    "About the game": "Outgun is a multiplayer capture the flag game, with minimalist graphics in 2D top-view. Inspired by classic shooters from the 90s like Quake and Doom, Outgun was created as an open source game in 2002 by Brazilian Fabiana Cecin (Spinal) and developed between 2003 and 2011 by Finnish Niko Ritari (Nix) and Jani Rivinoja (Huntta). Players are divided into two teams, with the goal of stealing the enemy's flag and bringing it to their base while protecting their own flag. The team with the most captured flags wins the match. Its simplicity makes room for fast-paced action and competitive team play, making Outgun have a strong fan base even 18 years after its launch. The game supports dedicated servers, bots, spectator mode and replays, as well as graphic and sound themes created by players.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/663760/header.jpg?t=1602165036",
+    "Price": 0.0,
+    "Developers": "Fabiana Cecin,Niko Ritari,Jani Rivinoja",
+    "Publishers": "Onlumi.dev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/663760/ss_cba8d45007eafccf1375cda966a467e09f802d91.1920x1080.jpg?t=1602165036,https://cdn.akamai.steamstatic.com/steam/apps/663760/ss_758514f0a88fffa5032bd96e70ab392e75f19210.1920x1080.jpg?t=1602165036,https://cdn.akamai.steamstatic.com/steam/apps/663760/ss_60db137d4938209303c1346eb5e5e50fd5b4b64f.1920x1080.jpg?t=1602165036,https://cdn.akamai.steamstatic.com/steam/apps/663760/ss_d0694ef5a9291ccd67fc69c56ced633c423c433f.1920x1080.jpg?t=1602165036,https://cdn.akamai.steamstatic.com/steam/apps/663760/ss_110c17ba313509c4bcfc9ee5dc809ce743e79323.1920x1080.jpg?t=1602165036",
+    "Slug": "outgun",
+    "Meta Title": "Outgun: Oct 8, 2020, Fabiana Cecin,Niko Ritari,Jani Rivin...",
+    "Meta Description": "Looking for information on Outgun? Check out the release date (Oct 8, 2020), developer insights from Fabiana Cecin,Niko Ritari,Jani Rivinoja, and a comp...",
+    "Alt Text Image": "Official header image for Outgun game - Steam 663760",
+    "Canonical URL": "https://gusku.site/game/outgun",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Outgun\", \"description\": \"Looking for information on Outgun? Check out the release date (Oct 8, 2020), developer insights from Fabiana Cecin,Niko Ritari,Jani Rivinoja, and a comp...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 8, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fabiana Cecin,Niko Ritari,Jani Rivinoja\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Onlumi.dev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/663760/header.jpg?t=1602165036\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

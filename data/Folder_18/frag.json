@@ -1,0 +1,21 @@
+{
+    "AppID": 1327370,
+    "Name": "Frag",
+    "Release date": "Oct 29, 2020",
+    "About the game": "Frag is a roguelike gridless turn-based game of tactical combat. Kill the enemy. Grab the loot. Craft new gear. Level up your team. Learn new skills. If you lose a single match, you are done. How long can you survive? Gridless turn-based tactical combat Frag tries to capture the experience of miniature wargaming. Use distances and templates to measure range and movement. Units activate one at a time, in an order determined by their statistics. Attacks hit or miss based on a percent roll, that is influenced by a unit’s stats, weapons and skills. Intuitive cover system Cover is your friend. Cover keeps you alive. If you are in cover, enemies cannot shoot you. This does not prevent you from shooting them, though. Watch your units pop out of cover, attack their target, then pop back in. Specialized skills and gear Winning a match requires much more than just shooting. Defend your position deploying automated turrets, shield your teammates with energy barriers, buff your units or hack into enemy droids. Customize your team Between each match, your team can gain new gear and skills. Each unit can choose a different class, each one with its skill progression. Find the right combination of classes and skills, synergies and combos to multiply your team’s strength and cancel out each individual unit’s weaknesses.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1327370/header.jpg?t=1603979477",
+    "Price": 5.99,
+    "Developers": "Zule",
+    "Publishers": "Zule",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1327370/ss_6dfc97024979caa51d5c69cbfc8c4a072aeceb6e.1920x1080.jpg?t=1603979477,https://cdn.akamai.steamstatic.com/steam/apps/1327370/ss_d574a3d1c23e689936beb1f13129afa20701f046.1920x1080.jpg?t=1603979477,https://cdn.akamai.steamstatic.com/steam/apps/1327370/ss_5c968a62da59c107d789ef23c9ff57d0af49a62f.1920x1080.jpg?t=1603979477,https://cdn.akamai.steamstatic.com/steam/apps/1327370/ss_f7ba342e009dcbfc655320e518c418e9e4989706.1920x1080.jpg?t=1603979477,https://cdn.akamai.steamstatic.com/steam/apps/1327370/ss_035a4f358eecceda90703a3bb32dfd9a711f02c1.1920x1080.jpg?t=1603979477,https://cdn.akamai.steamstatic.com/steam/apps/1327370/ss_783db3d3f5ce259ddc2c3c669b667846fec80f2a.1920x1080.jpg?t=1603979477",
+    "Slug": "frag",
+    "Meta Title": "Frag: Oct 29, 2020, Zule and Full Overview",
+    "Meta Description": "Looking for information on Frag? Check out the release date (Oct 29, 2020), developer insights from Zule, and a complete game summary.",
+    "Alt Text Image": "Official header image for Frag game - Steam 1327370",
+    "Canonical URL": "https://gusku.site/game/frag",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Frag\", \"description\": \"Looking for information on Frag? Check out the release date (Oct 29, 2020), developer insights from Zule, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 29, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Zule\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Zule\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1327370/header.jpg?t=1603979477\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

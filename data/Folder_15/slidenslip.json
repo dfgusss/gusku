@@ -1,0 +1,21 @@
+{
+    "AppID": 1686600,
+    "Name": "SlideNSlip",
+    "Release date": "Jul 23, 2021",
+    "About the game": "SlideNSlip is a challenging and addictive (but simple) puzzle game. Move Mac and the penguins around, and guide Mac to the jet ski in the center of the level. Rules 1. Click on Mac or a Penguin to select him/it. 2. The selected character can then be moved horizontally or vertically, as long as the move is valid. 3. A move is only valid if there is something for the moving character to slide into (i.e. Mac or a Penguin). 4. Once a character has started moving, he will continue until he slides into another character. 5. Watch the trailer to get a good idea of what the gameplay is like. Features Over 65 unique levels ranging in difficulty from mindlessly easy to break-your-computer-screen difficult 10 super awesome background songs written by cubic lights An undo button, allowing you to undo your previous move in case you need to go back 6 different save files, so lots of people can enjoy the game TONS of penguins P.S. No penguins were harmed in the making of this game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1686600/header.jpg?t=1627059409",
+    "Price": 1.99,
+    "Developers": "Amendment 2 Studios",
+    "Publishers": "Amendment 2 Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1686600/ss_3c57b8d502fe701d73dfb2e628522e6af146dcf5.1920x1080.jpg?t=1627059409,https://cdn.akamai.steamstatic.com/steam/apps/1686600/ss_6bdec96d7c1571c9f0f7b5e7628714aa48f39786.1920x1080.jpg?t=1627059409,https://cdn.akamai.steamstatic.com/steam/apps/1686600/ss_46eb6777c35197d283cd96b3bb4caba45a4a8ba0.1920x1080.jpg?t=1627059409,https://cdn.akamai.steamstatic.com/steam/apps/1686600/ss_eea7b481ceceda11a16abb6a1c4e9a0b5867d328.1920x1080.jpg?t=1627059409,https://cdn.akamai.steamstatic.com/steam/apps/1686600/ss_32295ab7d38c06446fb52b3483f7f838920357b4.1920x1080.jpg?t=1627059409",
+    "Slug": "slidenslip",
+    "Meta Title": "SlideNSlip: Jul 23, 2021, Amendment 2 Studios and Full Ov...",
+    "Meta Description": "Looking for information on SlideNSlip? Check out the release date (Jul 23, 2021), developer insights from Amendment 2 Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for SlideNSlip game - Steam 1686600",
+    "Canonical URL": "https://gusku.site/game/slidenslip",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SlideNSlip\", \"description\": \"Looking for information on SlideNSlip? Check out the release date (Jul 23, 2021), developer insights from Amendment 2 Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Amendment 2 Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Amendment 2 Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1686600/header.jpg?t=1627059409\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

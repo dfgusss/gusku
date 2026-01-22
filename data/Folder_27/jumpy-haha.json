@@ -1,0 +1,21 @@
+{
+    "AppID": 1819970,
+    "Name": "Jumpy Haha",
+    "Release date": "Dec 7, 2021",
+    "About the game": "Jumpy Haha is a result of my 2021 new years resolution to learn Unreal Engine. It is a 3D platformer that is made to be completed as fast as possible. The main mechanic is jumping and boosting into walls. Bouncing off a wall gives you some speed and another boost. You can also repeatedly jump and boost into the ground to gain extra speed. There are a ton of short cuts in the levels that are possible Thanks to Zach Paquette for modeling the character!! Here are my times:",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1819970/header.jpg?t=1638889960",
+    "Price": 0.0,
+    "Developers": "Randy Paquette",
+    "Publishers": "Randy Paquette",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1819970/ss_4a4455a06b0b03d27aef038453da896f685a0bba.1920x1080.jpg?t=1638889960,https://cdn.akamai.steamstatic.com/steam/apps/1819970/ss_be28dd4ee14b27c40b489adb2be786ae3a24b2e9.1920x1080.jpg?t=1638889960,https://cdn.akamai.steamstatic.com/steam/apps/1819970/ss_8aa3da72fc5990a8818b0c6cbe4f73fcabb661dd.1920x1080.jpg?t=1638889960,https://cdn.akamai.steamstatic.com/steam/apps/1819970/ss_d3fa309bb67405bdb1ba4c9d7810afdfb2b65d78.1920x1080.jpg?t=1638889960,https://cdn.akamai.steamstatic.com/steam/apps/1819970/ss_7f39b5ee1d022f12727d6df28434bab2d6654807.1920x1080.jpg?t=1638889960",
+    "Slug": "jumpy-haha",
+    "Meta Title": "Jumpy Haha: Dec 7, 2021, Randy Paquette and Full Overview",
+    "Meta Description": "Looking for information on Jumpy Haha? Check out the release date (Dec 7, 2021), developer insights from Randy Paquette, and a complete game summary.",
+    "Alt Text Image": "Official header image for Jumpy Haha game - Steam 1819970",
+    "Canonical URL": "https://gusku.site/game/jumpy-haha",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Jumpy Haha\", \"description\": \"Looking for information on Jumpy Haha? Check out the release date (Dec 7, 2021), developer insights from Randy Paquette, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 7, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Randy Paquette\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Randy Paquette\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1819970/header.jpg?t=1638889960\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

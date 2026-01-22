@@ -1,0 +1,21 @@
+{
+    "AppID": 1424960,
+    "Name": "Random(platformer)",
+    "Release date": "Oct 13, 2020",
+    "About the game": "This game is minimalist in every aspect. No enemies, no points, no time limit, no collectibles, only jumping! But that doesn’t mean you’ll have an easy time! All levels filled up with platforms randomly, and those platforms are tricky. one can change its length, the other its visibility but there is also one that changes its position. When you choose a difficulty level you decide how many lives you start the game with. But beware, because one mistake is one life, and there is 40+ levels in the main game! Your progress will be saved automatically, but just locally. Steam Cloud isn't available. This game is developed by one person. Except for music. All music track is created by Eric Matyas. I would like to thank him again!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1424960/header.jpg?t=1604471924",
+    "Price": 9.99,
+    "Developers": "remete",
+    "Publishers": "remete",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1424960/ss_2d31c8da5446bb645355943a42d0a757b519f37b.1920x1080.jpg?t=1604471924,https://cdn.akamai.steamstatic.com/steam/apps/1424960/ss_e2d38e1183b8c0a9c919f3750bce77b626e0fb68.1920x1080.jpg?t=1604471924,https://cdn.akamai.steamstatic.com/steam/apps/1424960/ss_47691a428a63370b73b6b8bc770ba98014c1b5f5.1920x1080.jpg?t=1604471924,https://cdn.akamai.steamstatic.com/steam/apps/1424960/ss_60414e25be11c6e46619aa2acc3e787a6f40c0ed.1920x1080.jpg?t=1604471924,https://cdn.akamai.steamstatic.com/steam/apps/1424960/ss_cdd04461a36a76aeaa01d11249fb887922b56646.1920x1080.jpg?t=1604471924,https://cdn.akamai.steamstatic.com/steam/apps/1424960/ss_f5d0e2f879dbe5d061161f8a55cd346e29cbb625.1920x1080.jpg?t=1604471924,https://cdn.akamai.steamstatic.com/steam/apps/1424960/ss_1b3ffc8031755e15b419f760fd409b727199359b.1920x1080.jpg?t=1604471924",
+    "Slug": "random-platformer",
+    "Meta Title": "Random(platformer): Oct 13, 2020, remete and Full Overview",
+    "Meta Description": "Looking for information on Random(platformer)? Check out the release date (Oct 13, 2020), developer insights from remete, and a complete game summary.",
+    "Alt Text Image": "Official header image for Random(platformer) game - Steam 1424960",
+    "Canonical URL": "https://gusku.site/game/random-platformer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Random(platformer)\", \"description\": \"Looking for information on Random(platformer)? Check out the release date (Oct 13, 2020), developer insights from remete, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 13, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"remete\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"remete\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1424960/header.jpg?t=1604471924\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

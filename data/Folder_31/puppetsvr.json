@@ -1,0 +1,21 @@
+{
+    "AppID": 494040,
+    "Name": "PuppetsVR",
+    "Release date": "Sep 27, 2017",
+    "About the game": "PuppetsVR is a family friendly game about puppetry. Practice your puppetry skills and make your own show for friends, family or other players to enjoy! Create your puppet Although there are limited customization options available right now, we plan to add more and more according to your feedback. The game has two base puppets right now, and only one of them is customizable. As we create more art assets, we'll make more options available to you. Meet other puppeteers If you've dreamed of getting on a stage and creating your own show, you might know that renting a venue can be costly. With a virtual stage, you won't have to worry about selling tickets to fund your show. PuppetsVR supports multiplayer! Set the mood With a rudimentary implementation for stage lights, you can set the lighting to reflect the mood of your show. PuppetsVR is meant to be a platform for puppets enthusiasts, families and gamers. We want to grow this platform according to your feedback to provide more customization and creative tools.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/494040/header.jpg?t=1579883333",
+    "Price": 4.99,
+    "Developers": "Expo Virtualis",
+    "Publishers": "Expo Virtualis",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/494040/ss_1b5b663b726f583520a0750e9da227b17f279331.1920x1080.jpg?t=1579883333,https://cdn.akamai.steamstatic.com/steam/apps/494040/ss_040d9c63dc52cb6d67113ae66e8dc44f31152e6f.1920x1080.jpg?t=1579883333,https://cdn.akamai.steamstatic.com/steam/apps/494040/ss_a995977b67359c3df9841525075257c8939923d0.1920x1080.jpg?t=1579883333,https://cdn.akamai.steamstatic.com/steam/apps/494040/ss_819f255dd667a7aad8687151498446b5fef555b9.1920x1080.jpg?t=1579883333,https://cdn.akamai.steamstatic.com/steam/apps/494040/ss_611c1f48c71eb9439b3b28b7a6d018d80a68d7f8.1920x1080.jpg?t=1579883333,https://cdn.akamai.steamstatic.com/steam/apps/494040/ss_c7a8f5aee5c97c1cdfef624ab323df9b4f549bf9.1920x1080.jpg?t=1579883333",
+    "Slug": "puppetsvr",
+    "Meta Title": "PuppetsVR: Sep 27, 2017, Expo Virtualis and Full Overview",
+    "Meta Description": "Looking for information on PuppetsVR? Check out the release date (Sep 27, 2017), developer insights from Expo Virtualis, and a complete game summary.",
+    "Alt Text Image": "Official header image for PuppetsVR game - Steam 494040",
+    "Canonical URL": "https://gusku.site/game/puppetsvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PuppetsVR\", \"description\": \"Looking for information on PuppetsVR? Check out the release date (Sep 27, 2017), developer insights from Expo Virtualis, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 27, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Expo Virtualis\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Expo Virtualis\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/494040/header.jpg?t=1579883333\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

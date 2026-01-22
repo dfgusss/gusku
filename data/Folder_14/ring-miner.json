@@ -1,0 +1,21 @@
+{
+    "AppID": 1461410,
+    "Name": "Ring Miner",
+    "Release date": "Dec 31, 2020",
+    "About the game": "Operate a mining rover in outer space. Your domain is vast: each and every rock orbiting the planet can be mined, anywhere. This game features an Open World where you can truly dig anywhere and everywhere. Every planetoid, roughly a billion cubic feet of rock, and you can start prospecting where ever you want. You can even tunnel from one end to the other end of the planetoid, if you so desire. Procedural The planet's ring is procedurally generated, with every orbiting rock unique. There is no telling what you will find. Hidden cavities, twisted terrains, rich veins of ore, it is all out there, floating in space. The rocks are generated from a 64 bit seed, giving a total of 18 billion billion different rocks. That is an 18 with 18 zeros behind it. Rover The little mining rover has six wheels and can climb pretty much any terrain. Just try to keep it upright. The rover is equipped with a laser turret to blast the terrain. Dig holes, create tunnels, find ore veins, so that you can collect those precious off-world minerals. Transport To hop from planetoid to planetoid, load your rover in the transport ship, and take control of the space flight. Find a good landing spot, so that your rover can do some prospecting on virgin grounds. REQUIREMENTS WARNING : You require a CPU with AVX2 support. WARNING : You require OpenGL and OpenCL drivers installed on your system.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1461410/header.jpg?t=1609436816",
+    "Price": 9.99,
+    "Developers": "Game Studio Abraham Stolk Inc.",
+    "Publishers": "Game Studio Abraham Stolk Inc.",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1461410/ss_b478c0e886fdd26c0222a7a9f66fd0e8c6a6cd4c.1920x1080.jpg?t=1609436816,https://cdn.akamai.steamstatic.com/steam/apps/1461410/ss_b97858e2be72c2869ac505cf6f7f95c026065265.1920x1080.jpg?t=1609436816,https://cdn.akamai.steamstatic.com/steam/apps/1461410/ss_0353ee2aa8217fc58575bec0ebc35c15d7bdf879.1920x1080.jpg?t=1609436816,https://cdn.akamai.steamstatic.com/steam/apps/1461410/ss_47b448514c4bb70ad3981c2331b4d6c66ec070a5.1920x1080.jpg?t=1609436816,https://cdn.akamai.steamstatic.com/steam/apps/1461410/ss_b682ca3e98fe84cb488c48a4b4cc04b9a45aafc9.1920x1080.jpg?t=1609436816",
+    "Slug": "ring-miner",
+    "Meta Title": "Ring Miner: Dec 31, 2020, Game Studio Abraham Stolk Inc. ...",
+    "Meta Description": "Looking for information on Ring Miner? Check out the release date (Dec 31, 2020), developer insights from Game Studio Abraham Stolk Inc., and a complete...",
+    "Alt Text Image": "Official header image for Ring Miner game - Steam 1461410",
+    "Canonical URL": "https://gusku.site/game/ring-miner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ring Miner\", \"description\": \"Looking for information on Ring Miner? Check out the release date (Dec 31, 2020), developer insights from Game Studio Abraham Stolk Inc., and a complete...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 31, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Game Studio Abraham Stolk Inc.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Game Studio Abraham Stolk Inc.\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1461410/header.jpg?t=1609436816\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

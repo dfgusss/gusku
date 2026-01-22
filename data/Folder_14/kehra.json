@@ -1,0 +1,21 @@
+{
+    "AppID": 1813010,
+    "Name": "Kehra",
+    "Release date": "Dec 1, 2021",
+    "About the game": "Kehra is a First-Person Singleplayer game where you try to escape a simulation controled by an AI called 'KEHRA' by playing and completing minigames (currently there is only one minigame available, but we'll add more in the future) Features (or something like that idk) 'Hacking' (sort of) Using a flashlight (also known as trying to see something) Listening to music (there is literally music all the time) Surviving (I'm impressed if you die, because it isn't possible...*) Currently playable minigames Escaping a maze to the beat of some really amazing music :D *technically it is possible because you have limit hearts in a minigame but I wouldn't consider that as being able to die. Lets call it being able to ' FAIL '.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1813010/header.jpg?t=1638370585",
+    "Price": 4.99,
+    "Developers": "Anomateri",
+    "Publishers": "Anomateri",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1813010/ss_6d8c7fc4534293217b832420d8efcaf8027addca.1920x1080.jpg?t=1638370585,https://cdn.akamai.steamstatic.com/steam/apps/1813010/ss_589049aa120ebb4de3e3c651d6d26480deaa79dd.1920x1080.jpg?t=1638370585,https://cdn.akamai.steamstatic.com/steam/apps/1813010/ss_46e342ccd2db3742eccde3dedb566225513280a0.1920x1080.jpg?t=1638370585,https://cdn.akamai.steamstatic.com/steam/apps/1813010/ss_fe4ab9d03eecdb9b2d0bb16db8dbb467c0cd368f.1920x1080.jpg?t=1638370585,https://cdn.akamai.steamstatic.com/steam/apps/1813010/ss_d96ef164a01b5057c6bb94f8ab935decb148e153.1920x1080.jpg?t=1638370585,https://cdn.akamai.steamstatic.com/steam/apps/1813010/ss_4541ff96d8c33bd4dbb7cfc586d2b39a7a7b7b64.1920x1080.jpg?t=1638370585",
+    "Slug": "kehra",
+    "Meta Title": "Kehra: Dec 1, 2021, Anomateri and Full Overview",
+    "Meta Description": "Looking for information on Kehra? Check out the release date (Dec 1, 2021), developer insights from Anomateri, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kehra game - Steam 1813010",
+    "Canonical URL": "https://gusku.site/game/kehra",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kehra\", \"description\": \"Looking for information on Kehra? Check out the release date (Dec 1, 2021), developer insights from Anomateri, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Anomateri\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Anomateri\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1813010/header.jpg?t=1638370585\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

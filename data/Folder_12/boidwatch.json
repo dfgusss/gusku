@@ -1,0 +1,21 @@
+{
+    "AppID": 688050,
+    "Name": "BoidWatch",
+    "Release date": "Sep 1, 2017",
+    "About the game": "Soar alongside these majestic cones, or modify them to act as you see fit. You can create and destroy members of a complex simulation, or just enjoy the magic of flight. Wand - Direct the flock to travel wherever you command. Boid Spawner - Use the sliders to customize the different behavioral parameters of each Boid. Gun - Introduce Boids to a fiery and explosive demise. Mind Control - attach yourself to a member of the flock, and command it to swoop by pointing where you want them to go and pulling the trigger.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/688050/header.jpg?t=1504274184",
+    "Price": 0.99,
+    "Developers": "Emmett Baber",
+    "Publishers": "LongShip LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/688050/ss_f27a8cba3115c20b03454c0a55dba552c3d00fb5.1920x1080.jpg?t=1504274184,https://cdn.akamai.steamstatic.com/steam/apps/688050/ss_fa7808b11f7b5f4794b1597e04ac57fbe2cdec16.1920x1080.jpg?t=1504274184,https://cdn.akamai.steamstatic.com/steam/apps/688050/ss_2277b3b2ee44af7fbfbd7caf40b32ca5dbf49652.1920x1080.jpg?t=1504274184,https://cdn.akamai.steamstatic.com/steam/apps/688050/ss_efb2ccc51ec1dcc8178a9f0207f046e845fd34a8.1920x1080.jpg?t=1504274184,https://cdn.akamai.steamstatic.com/steam/apps/688050/ss_8bfabe5ea9b79c469b087eee1ef72ea155bb50d1.1920x1080.jpg?t=1504274184,https://cdn.akamai.steamstatic.com/steam/apps/688050/ss_32855f04d121dd72a56f36214d9aee28a8cdba5a.1920x1080.jpg?t=1504274184",
+    "Slug": "boidwatch",
+    "Meta Title": "BoidWatch: Sep 1, 2017, Emmett Baber and Full Overview",
+    "Meta Description": "Looking for information on BoidWatch? Check out the release date (Sep 1, 2017), developer insights from Emmett Baber, and a complete game summary.",
+    "Alt Text Image": "Official header image for BoidWatch game - Steam 688050",
+    "Canonical URL": "https://gusku.site/game/boidwatch",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BoidWatch\", \"description\": \"Looking for information on BoidWatch? Check out the release date (Sep 1, 2017), developer insights from Emmett Baber, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Emmett Baber\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LongShip LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/688050/header.jpg?t=1504274184\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

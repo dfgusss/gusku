@@ -1,0 +1,21 @@
+{
+    "AppID": 867660,
+    "Name": "NYKRA",
+    "Release date": "Sep 27, 2021",
+    "About the game": "NYKRA is a narrative platformer pixelart game with puzzle and RPG mechanics set in an ever collapsing reality. You travel via a being named Keu through 7 different planets, unraveling the complex mess of reality ahead of you. But as you read through the alien literature, discover archaic long lost ruins, and delve your thoughts into the unfamiliar languages of the galaxy, you start to realise the 'dark virus' people fear might not be what you expect. The game was developed by one person, EDG, over the span of 8 years, all while learning how to make games at the same time. There were a few unfortunate consequences of this, but it has made NYKRA quite a unique experience. EDG has always been more of just a designer at heart, so learning how to program and developing an entire game was a colossal challenge. But NYKRA is here, after all these years of development and redesigns.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/867660/header.jpg?t=1633132055",
+    "Price": 19.99,
+    "Developers": "ENDESGA",
+    "Publishers": "ENDESGA",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/867660/ss_9a75d2f812667594dfa052c460619db69c042c04.1920x1080.jpg?t=1633132055,https://cdn.akamai.steamstatic.com/steam/apps/867660/ss_22f34a5fb9b47736f6182646dd444a1f11c904e1.1920x1080.jpg?t=1633132055,https://cdn.akamai.steamstatic.com/steam/apps/867660/ss_2ba89bd01c6c8ef489524303b64aa578717644f7.1920x1080.jpg?t=1633132055,https://cdn.akamai.steamstatic.com/steam/apps/867660/ss_c442e6368e8a24236f7c5ff8f16aacf71515c4c1.1920x1080.jpg?t=1633132055,https://cdn.akamai.steamstatic.com/steam/apps/867660/ss_a0db2832762e82f1d3fc9b3d5f0cb558e96afce3.1920x1080.jpg?t=1633132055,https://cdn.akamai.steamstatic.com/steam/apps/867660/ss_f45f13944daa8bd5268702d7e744c2e235bb7577.1920x1080.jpg?t=1633132055,https://cdn.akamai.steamstatic.com/steam/apps/867660/ss_f68d11e801fcd01cc438ef9fce88c20a96e79ece.1920x1080.jpg?t=1633132055,https://cdn.akamai.steamstatic.com/steam/apps/867660/ss_d871199fe1874832b411cd313fc2a2642d487e1a.1920x1080.jpg?t=1633132055,https://cdn.akamai.steamstatic.com/steam/apps/867660/ss_c789dfc945b71872f2f2f05c9efff987d876ceea.1920x1080.jpg?t=1633132055",
+    "Slug": "nykra",
+    "Meta Title": "NYKRA: Sep 27, 2021, ENDESGA and Full Overview",
+    "Meta Description": "Looking for information on NYKRA? Check out the release date (Sep 27, 2021), developer insights from ENDESGA, and a complete game summary.",
+    "Alt Text Image": "Official header image for NYKRA game - Steam 867660",
+    "Canonical URL": "https://gusku.site/game/nykra",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"NYKRA\", \"description\": \"Looking for information on NYKRA? Check out the release date (Sep 27, 2021), developer insights from ENDESGA, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"ENDESGA\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ENDESGA\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/867660/header.jpg?t=1633132055\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

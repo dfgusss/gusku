@@ -1,0 +1,21 @@
+{
+    "AppID": 1854630,
+    "Name": "Morph King",
+    "Release date": "Aug 26, 2022",
+    "About the game": "Developer's Note MORPH KING began as a little experiment on an idea for a Chess variant, one that I wasn't planning on selling until the scope grew a bit. Please expect MORPH KING to be an arcade score-chaser game. Feel free to contact me through my email address or on Twitter with any feedback. What's this? MORPH KING is an arcade chess variant that has you control only one piece, but this piece is special: every time it moves, it morphs . Use this ability to outmaneuver predictable enemies, and don't let them swarm you! Gameplay On your turn, you'll move your only piece, then morph into a random piece type (you can see the next 3 morphs). On the enemy turn, every enemy will move in perfectly predictable ways. For every enemy you capture, you gain a score point, successive captures increase the points gained. If you get captured, you'll be locked as a King for some turns, if you're captured as a King, it's game over. Features Master the ability to morph and use it to escape sticky situations. Use a come-back mechanic creatively to not just avoid death, but take out pesky enemies. Determine the patterns of enemy pieces, then exploit them. Last as long as you can in Endless mode, as difficulty increases. Score as many points as you can in 60 seconds in Bullet mode. Find creative solutions to quickly beat randomized waves of enemies. Listen to piano covers of traditional Russian folk music. Credits Most soundtrack pieces are by Sheet Music Boss, sound effects are retrieved from various royalty free SFX sites.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1854630/header.jpg?t=1661508088",
+    "Price": 1.69,
+    "Developers": "Curionautics",
+    "Publishers": "Curionautics",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1854630/ss_cb1cc8355478f020ec219079ec74000406ec6702.1920x1080.jpg?t=1661508088,https://cdn.akamai.steamstatic.com/steam/apps/1854630/ss_f334c91d79aef45fc0a32869b18b3783fc0c9cba.1920x1080.jpg?t=1661508088,https://cdn.akamai.steamstatic.com/steam/apps/1854630/ss_80142df2fca9801f37b9f6ed192446367789c90e.1920x1080.jpg?t=1661508088,https://cdn.akamai.steamstatic.com/steam/apps/1854630/ss_09df03459095b7a97134d999d6b47e955a1de033.1920x1080.jpg?t=1661508088,https://cdn.akamai.steamstatic.com/steam/apps/1854630/ss_9b17a227f78ea32b170bcb8ed8f4e385df01e107.1920x1080.jpg?t=1661508088,https://cdn.akamai.steamstatic.com/steam/apps/1854630/ss_61a5f8022a3f2a96efb7f274182c8f3937bababe.1920x1080.jpg?t=1661508088",
+    "Slug": "morph-king",
+    "Meta Title": "Morph King: Aug 26, 2022, Curionautics and Full Overview",
+    "Meta Description": "Looking for information on Morph King? Check out the release date (Aug 26, 2022), developer insights from Curionautics, and a complete game summary.",
+    "Alt Text Image": "Official header image for Morph King game - Steam 1854630",
+    "Canonical URL": "https://gusku.site/game/morph-king",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Morph King\", \"description\": \"Looking for information on Morph King? Check out the release date (Aug 26, 2022), developer insights from Curionautics, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 26, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Curionautics\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Curionautics\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1854630/header.jpg?t=1661508088\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.69, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

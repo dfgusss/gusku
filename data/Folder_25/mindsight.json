@@ -1,0 +1,21 @@
+{
+    "AppID": 716070,
+    "Name": "Mindsight",
+    "Release date": "Oct 26, 2017",
+    "About the game": "Mindsight is a minimalistic evolution of a match-3 game. The goal of the game is to find all sets of three adjacent symbols whose characteristics either match or differ. Each symbol has three characteristics: Color, Shape, and Shading. The color can be blue, green, or red. The shape can be a triangle, a circle, or a square. And the shading can be solid, striped, or empty. Each of these characteristics either need to be the same or different for three consecutive horizontal or vertical symbols to make a set. You beat the level when you've found all possible sets on the board. Over 450 Levels Steam Achievements Random Level Generator Colorblind friendly options in settings Relaxing and low pressure, no timer Find sets of three consecutive symbols whose characteristics either match or differ. All three characteristics match (color, shape, and shading) One characteristic is different (shading), two characteristics match (color and shape) Two characteristics are different (color and shape), one characteristic matches (shading) All three characteristics are different (color, shape, and shading) See if you can find the set that meets the conditions on this board",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/716070/header.jpg?t=1535370089",
+    "Price": 0.99,
+    "Developers": "Smokey Moose Games",
+    "Publishers": "Smokey Moose Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/716070/ss_9020804eb9cf38235e0417bb0883821e7a14748e.1920x1080.jpg?t=1535370089,https://cdn.akamai.steamstatic.com/steam/apps/716070/ss_ce9905dfe6f37c1a28979e957ac4351bc8294e00.1920x1080.jpg?t=1535370089,https://cdn.akamai.steamstatic.com/steam/apps/716070/ss_0bb205b92f632968171b4b0b712ac861652e1cc7.1920x1080.jpg?t=1535370089,https://cdn.akamai.steamstatic.com/steam/apps/716070/ss_a06713c186273045103078dd83204d95701eaa06.1920x1080.jpg?t=1535370089,https://cdn.akamai.steamstatic.com/steam/apps/716070/ss_21d0059742475cfc6860985084fb56e26a54a528.1920x1080.jpg?t=1535370089",
+    "Slug": "mindsight",
+    "Meta Title": "Mindsight: Oct 26, 2017, Smokey Moose Games and Full Over...",
+    "Meta Description": "Looking for information on Mindsight? Check out the release date (Oct 26, 2017), developer insights from Smokey Moose Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mindsight game - Steam 716070",
+    "Canonical URL": "https://gusku.site/game/mindsight",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mindsight\", \"description\": \"Looking for information on Mindsight? Check out the release date (Oct 26, 2017), developer insights from Smokey Moose Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 26, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Smokey Moose Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Smokey Moose Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/716070/header.jpg?t=1535370089\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

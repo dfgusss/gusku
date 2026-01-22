@@ -1,0 +1,21 @@
+{
+    "AppID": 1266410,
+    "Name": "Climb",
+    "Release date": "Jul 29, 2020",
+    "About the game": "In Climb, you take control of a semi aware ball whose sole purpose is to reach the glowing objective at the end of each level. The idea is simple, but the physics present unforeseen challenges. After the learning curve, you'll take on increasingly challenging levels across multiple stages. Each stage is unique in theme and contains multiple levels. Start with the tutorial to learn the controls, and then you’re off! Replay the levels to beat your high score. Take on one challenge after another and try not to get frustrated in the process. The first stage is “The Basics”. There are ten levels to challenge you and many ways to reach the end. Then comes the next stage, “Light Out”, which will challenge your ability to navigate the environment when light becomes a more valuable resource. As my first ever game I’m not sure how to present it other than to say that I enjoy it and my friends say it’s great.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1266410/header.jpg?t=1596657354",
+    "Price": 0.99,
+    "Developers": "Travis Biancardi",
+    "Publishers": "Travis Biancardi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1266410/ss_d4e3674fdf1420f6454b02c860933acc764e2876.1920x1080.jpg?t=1596657354,https://cdn.akamai.steamstatic.com/steam/apps/1266410/ss_c73fef69089037b056092ae70cdbfc73713bf74a.1920x1080.jpg?t=1596657354,https://cdn.akamai.steamstatic.com/steam/apps/1266410/ss_830df31667a3a034b73f9229546c5e580b49f881.1920x1080.jpg?t=1596657354,https://cdn.akamai.steamstatic.com/steam/apps/1266410/ss_99c6bb888afd8c294e6106375fa75ffbaf2edec5.1920x1080.jpg?t=1596657354,https://cdn.akamai.steamstatic.com/steam/apps/1266410/ss_1cb51f4ce434c6211ee82e03645b390b846b93f3.1920x1080.jpg?t=1596657354",
+    "Slug": "climb",
+    "Meta Title": "Climb: Jul 29, 2020, Travis Biancardi and Full Overview",
+    "Meta Description": "Looking for information on Climb? Check out the release date (Jul 29, 2020), developer insights from Travis Biancardi, and a complete game summary.",
+    "Alt Text Image": "Official header image for Climb game - Steam 1266410",
+    "Canonical URL": "https://gusku.site/game/climb",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Climb\", \"description\": \"Looking for information on Climb? Check out the release date (Jul 29, 2020), developer insights from Travis Biancardi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 29, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Travis Biancardi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Travis Biancardi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1266410/header.jpg?t=1596657354\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

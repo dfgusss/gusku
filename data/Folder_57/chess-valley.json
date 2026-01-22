@@ -1,0 +1,21 @@
+{
+    "AppID": 1485580,
+    "Name": "Chess Valley",
+    "Release date": "Feb 4, 2021",
+    "About the game": "In this game i created a new and fun way to play chess. The game uses the original board, however, it contains only the black pieces and some blocks that can serve to facilitate or hinder the game. All white pieces are behind the board waiting for the king. The king stands alone in front of the board where he must choose his first move, and from there, the player must cross the entire board without being killed by the black pieces. The Game was released with 25 /50 stages and now already has 50/50, all levels are working correctly. this number may increase depending on the acceptance of the game. The controls are simple and easy, basically the player control the king pressing the keyboard arrows or WASD, the player also change the cam pressing C on keyboard, after complete the challenge the game will change level automatically.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1485580/header.jpg?t=1658412426",
+    "Price": 0.99,
+    "Developers": "Artur Rezende",
+    "Publishers": "PROATIV GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1485580/ss_8fb1b35a113a49687a19109e71764bd76d500634.1920x1080.jpg?t=1658412426,https://cdn.akamai.steamstatic.com/steam/apps/1485580/ss_bb70d9cf98f13535051d8ff7259ce24c33ff8137.1920x1080.jpg?t=1658412426,https://cdn.akamai.steamstatic.com/steam/apps/1485580/ss_d1ab94668b7b8cec9a57a24170e74b114082042f.1920x1080.jpg?t=1658412426,https://cdn.akamai.steamstatic.com/steam/apps/1485580/ss_b327008c652bbc96684f35471b1437a9a277e8c0.1920x1080.jpg?t=1658412426,https://cdn.akamai.steamstatic.com/steam/apps/1485580/ss_df17098419263ebc9174e395014383143a0096ee.1920x1080.jpg?t=1658412426,https://cdn.akamai.steamstatic.com/steam/apps/1485580/ss_f938ff83575b3ece38e60a90190e666aa38d11e3.1920x1080.jpg?t=1658412426,https://cdn.akamai.steamstatic.com/steam/apps/1485580/ss_7e5812cc6894b84b7718b657a9bd2000446c841e.1920x1080.jpg?t=1658412426,https://cdn.akamai.steamstatic.com/steam/apps/1485580/ss_60f0faddc07a7b6a57c81b3201922a1233d6fc16.1920x1080.jpg?t=1658412426",
+    "Slug": "chess-valley",
+    "Meta Title": "Chess Valley: Feb 4, 2021, Artur Rezende and Full Overview",
+    "Meta Description": "Looking for information on Chess Valley? Check out the release date (Feb 4, 2021), developer insights from Artur Rezende, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chess Valley game - Steam 1485580",
+    "Canonical URL": "https://gusku.site/game/chess-valley",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chess Valley\", \"description\": \"Looking for information on Chess Valley? Check out the release date (Feb 4, 2021), developer insights from Artur Rezende, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 4, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Artur Rezende\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PROATIV GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1485580/header.jpg?t=1658412426\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

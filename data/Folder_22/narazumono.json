@@ -1,0 +1,21 @@
+{
+    "AppID": 1063210,
+    "Name": "Narazumono",
+    "Release date": "May 17, 2019",
+    "About the game": "Narazumono is a roguelike game. The goal is to reach the bottom of the randomly generated dungeon. • Random Dungeon The dungeon's layout is randomly generated, with the placement of items and enemies changing every time. Explore each floor to find the stairs, and descend to proceed to the next floor. • Turn-based combat system Each time a player takes an action such as movement or attacking, enemies will also take one action. Until the player acts, the enemies will not act either. • Permadeath It is game over when the player is killed. When you get a game over, all the items you have will be lost except for three. You will have to begin the adventure again from the starting point. This game is compatible with XBox 360 controller. To use the XBox 360 controller with mac, please install TattieBogle Xbox 360 Driver.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1063210/header.jpg?t=1560519506",
+    "Price": 15.99,
+    "Developers": "noprops",
+    "Publishers": "noprops",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1063210/ss_a7faedb25cf1eb31eccdbee5110edf5a61867363.1920x1080.jpg?t=1560519506,https://cdn.akamai.steamstatic.com/steam/apps/1063210/ss_ebf8ce1ee399a7ea77242d643b5b5107932b025b.1920x1080.jpg?t=1560519506,https://cdn.akamai.steamstatic.com/steam/apps/1063210/ss_54c7b092378e38e8386f874eb7126c333a653f03.1920x1080.jpg?t=1560519506,https://cdn.akamai.steamstatic.com/steam/apps/1063210/ss_d67b5b4695133de155aafd703e353890007a57be.1920x1080.jpg?t=1560519506,https://cdn.akamai.steamstatic.com/steam/apps/1063210/ss_289d2d37bdf420e33486e95bd96ea1d6eca634c9.1920x1080.jpg?t=1560519506",
+    "Slug": "narazumono",
+    "Meta Title": "Narazumono: May 17, 2019, noprops and Full Overview",
+    "Meta Description": "Looking for information on Narazumono? Check out the release date (May 17, 2019), developer insights from noprops, and a complete game summary.",
+    "Alt Text Image": "Official header image for Narazumono game - Steam 1063210",
+    "Canonical URL": "https://gusku.site/game/narazumono",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Narazumono\", \"description\": \"Looking for information on Narazumono? Check out the release date (May 17, 2019), developer insights from noprops, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 17, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"noprops\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"noprops\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1063210/header.jpg?t=1560519506\", \"offers\": {\"@type\": \"Offer\", \"price\": 15.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

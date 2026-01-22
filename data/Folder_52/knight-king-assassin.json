@@ -1,0 +1,21 @@
+{
+    "AppID": 890590,
+    "Name": "Knight King Assassin",
+    "Release date": "Jul 11, 2018",
+    "About the game": "Knight King Assassin is a minimal puzzle game inspired by rock-paper-scissors and chess. Your objective is to clear the board from all the symbols by moving them while taking into account their place in the hierarchy. KNIGHT Defeats Assassin but is defeated by King. Moves horizontally and vertically. KING Defeats Knight but is defeated by Assassin. Moves horizontally, vertically and diagonally. ASSASSIN Defeats King but is defeated by Knight. Moves only diagonally. DEATH Knight, King and Assassin symbols have their designated Death symbols. Destroys itself and the designated symbol. Immovable. + More symbols that are introduced later as the game goes on. + Minimalist style. + 30 Levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/890590/header.jpg?t=1531503357",
+    "Price": 0.99,
+    "Developers": "Niko Kivilahti",
+    "Publishers": "Niko Kivilahti",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/890590/ss_f7f22aea07a153307bd86a3a9c60e8976fa18ad9.1920x1080.jpg?t=1531503357,https://cdn.akamai.steamstatic.com/steam/apps/890590/ss_d67505c13038556f948f35681dacaf70f74ca927.1920x1080.jpg?t=1531503357,https://cdn.akamai.steamstatic.com/steam/apps/890590/ss_2a9f66ea4a69da27087173e0f4dda4647007a376.1920x1080.jpg?t=1531503357,https://cdn.akamai.steamstatic.com/steam/apps/890590/ss_7c1489e60e630b31642a8810fcaef3bd3de09225.1920x1080.jpg?t=1531503357,https://cdn.akamai.steamstatic.com/steam/apps/890590/ss_86cfe0b45eb7c7a622f9ec568efa1e4969a7772d.1920x1080.jpg?t=1531503357",
+    "Slug": "knight-king-assassin",
+    "Meta Title": "Knight King Assassin: Jul 11, 2018, Niko Kivilahti and Fu...",
+    "Meta Description": "Looking for information on Knight King Assassin? Check out the release date (Jul 11, 2018), developer insights from Niko Kivilahti, and a complete game ...",
+    "Alt Text Image": "Official header image for Knight King Assassin game - Steam 890590",
+    "Canonical URL": "https://gusku.site/game/knight-king-assassin",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Knight King Assassin\", \"description\": \"Looking for information on Knight King Assassin? Check out the release date (Jul 11, 2018), developer insights from Niko Kivilahti, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 11, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Niko Kivilahti\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Niko Kivilahti\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/890590/header.jpg?t=1531503357\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1284820,
+    "Name": "Desktop Kanojo",
+    "Release date": "Apr 23, 2020",
+    "About the game": "Introduction This is a desktop mascot, which can be placed anywhere on your desktop to bring more fun to your desktop. The character has multiple costume transformations and can use mouse click to interact with the character more. Some parts of the character have physical effects and can simulate shaking when moving. Characters can move, rotate and scale freely. Players can also import local custom models to create new desktop partners of their own. The game supports creative workshops. You can upload and share your favorite models, or subscribe and download others' models to generate your favorite desktop characters. features cute desktop mascot Click interaction + independent interaction move, rotate and scale freely contains more than 40 actions and 30 Chinese Japanese bilingual language packs changing clothes has physical jitter effect alarm function import local model (VRM format model file required) Creative Workshop supports model, action and voice upload, so that you have more choices. Action and voice can be associated and bound! multi display support The black screen solution is as follows: 1. Please open the dvidia panel and select [manage 3D settings] on the left 2. In the right, the options of [multi frame sampling AA (MFAA)] and [smoothing fxaa] are changed to [off] 3. When the application is closed and the game is restarted, the black screen of the game can be solved. Tips: 1. Double click the model to quickly stop the current action",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1284820/header.jpg?t=1644628710",
+    "Price": 2.99,
+    "Developers": "Neko Game",
+    "Publishers": "Neko Game",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1284820/ss_626a563ad70e555054c5a90961be371dd35c5415.1920x1080.jpg?t=1644628710,https://cdn.akamai.steamstatic.com/steam/apps/1284820/ss_d50d64464809b7205857db89b11dd63fc70fdf53.1920x1080.jpg?t=1644628710,https://cdn.akamai.steamstatic.com/steam/apps/1284820/ss_60fc807a08744e3f932b63948175fedcf5342f72.1920x1080.jpg?t=1644628710,https://cdn.akamai.steamstatic.com/steam/apps/1284820/ss_dfab827bbe394520a509bf9331f17ae8b08fb368.1920x1080.jpg?t=1644628710,https://cdn.akamai.steamstatic.com/steam/apps/1284820/ss_c618b500ef15e0f6c5588b1e49e0cee4646b57ef.1920x1080.jpg?t=1644628710,https://cdn.akamai.steamstatic.com/steam/apps/1284820/ss_2fb0bd9a6de0e588b8ade7c439043eedc86756f0.1920x1080.jpg?t=1644628710,https://cdn.akamai.steamstatic.com/steam/apps/1284820/ss_4959ba880b1032516bf14a2e44be7ac707a28154.1920x1080.jpg?t=1644628710",
+    "Slug": "desktop-kanojo",
+    "Meta Title": "Desktop Kanojo: Apr 23, 2020, Neko Game and Full Overview",
+    "Meta Description": "Looking for information on Desktop Kanojo? Check out the release date (Apr 23, 2020), developer insights from Neko Game, and a complete game summary.",
+    "Alt Text Image": "Official header image for Desktop Kanojo game - Steam 1284820",
+    "Canonical URL": "https://gusku.site/game/desktop-kanojo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Desktop Kanojo\", \"description\": \"Looking for information on Desktop Kanojo? Check out the release date (Apr 23, 2020), developer insights from Neko Game, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 23, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Neko Game\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Neko Game\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1284820/header.jpg?t=1644628710\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

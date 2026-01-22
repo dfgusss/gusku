@@ -1,0 +1,21 @@
+{
+    "AppID": 2127930,
+    "Name": "PixelType",
+    "Release date": "Sep 9, 2022",
+    "About the game": "PixelType is a tool that can generate pixel fonts from images. Easy to use You can create fonts immediately by simply importing an image file with glyphs lined up. Suitable for game development PixelType generates fonts compatible with pixel-perfect, allowing you to display text beautifully in games. Features Export TrueType fonts Almost all characters in the Unicode Basic Multilingual Plane Character sheet mapping by ASCII, Unicode, and Shift_JIS Monospace or automatic proportional font settings",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2127930/header.jpg?t=1662786024",
+    "Price": 8.49,
+    "Developers": "Hiragana Works",
+    "Publishers": "Hiragana Works",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2127930/ss_071936ee996e10b003defacf9bb250b555e7d226.1920x1080.jpg?t=1662786024,https://cdn.akamai.steamstatic.com/steam/apps/2127930/ss_117c84773fb9dd8247464f0c007a6f5ac133b295.1920x1080.jpg?t=1662786024,https://cdn.akamai.steamstatic.com/steam/apps/2127930/ss_ba2eb8be8e2e2381b49120575536f26528fd18a7.1920x1080.jpg?t=1662786024,https://cdn.akamai.steamstatic.com/steam/apps/2127930/ss_88e344ba2e8d3e71e34ec495f0cf6eae3b1abd65.1920x1080.jpg?t=1662786024,https://cdn.akamai.steamstatic.com/steam/apps/2127930/ss_ec3080fcf15c8640c88220f34266d8926614ff49.1920x1080.jpg?t=1662786024,https://cdn.akamai.steamstatic.com/steam/apps/2127930/ss_d81f53549551bf6dedec807bcaf08f0bf1b358de.1920x1080.jpg?t=1662786024",
+    "Slug": "pixeltype",
+    "Meta Title": "PixelType: Sep 9, 2022, Hiragana Works and Full Overview",
+    "Meta Description": "Looking for information on PixelType? Check out the release date (Sep 9, 2022), developer insights from Hiragana Works, and a complete game summary.",
+    "Alt Text Image": "Official header image for PixelType game - Steam 2127930",
+    "Canonical URL": "https://gusku.site/game/pixeltype",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PixelType\", \"description\": \"Looking for information on PixelType? Check out the release date (Sep 9, 2022), developer insights from Hiragana Works, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 9, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hiragana Works\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hiragana Works\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2127930/header.jpg?t=1662786024\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

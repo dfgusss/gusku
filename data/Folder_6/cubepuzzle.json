@@ -1,0 +1,21 @@
+{
+    "AppID": 1683300,
+    "Name": "CubePuzzle",
+    "Release date": "Jul 25, 2021",
+    "About the game": "physics-based puzzle platformer, Move objects to reach the exit, the levels consist of two-way controls to pass the level, the pipes are turned to get the main cube to the exit, each level becomes more difficult and takes more time to complete. Combine a variety of graceful ways to overcome increasingly difficult challenges. Features: - Over 15 levels to complete! - Unusual gameplay - Nice graphics - Nice soundtrack",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1683300/header.jpg?t=1627198691",
+    "Price": 4.99,
+    "Developers": "RRTS",
+    "Publishers": "kazakovstudios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1683300/ss_3d0ab08a5770b4e3eb100d82d8b5380a82b6bb91.1920x1080.jpg?t=1627198691,https://cdn.akamai.steamstatic.com/steam/apps/1683300/ss_0155e403a4bcc90b2f9e2c9cf3ee7a94a1b46cd0.1920x1080.jpg?t=1627198691,https://cdn.akamai.steamstatic.com/steam/apps/1683300/ss_a7c5718c0cc6be8da2b4aaed203c27f199825549.1920x1080.jpg?t=1627198691,https://cdn.akamai.steamstatic.com/steam/apps/1683300/ss_b1b352d5aa144aa657b3e953d20a3a1979b92a33.1920x1080.jpg?t=1627198691,https://cdn.akamai.steamstatic.com/steam/apps/1683300/ss_f2f99bf012a5911102558b54c55b035c1dadea5b.1920x1080.jpg?t=1627198691",
+    "Slug": "cubepuzzle",
+    "Meta Title": "CubePuzzle: Jul 25, 2021, RRTS and Full Overview",
+    "Meta Description": "Looking for information on CubePuzzle? Check out the release date (Jul 25, 2021), developer insights from RRTS, and a complete game summary.",
+    "Alt Text Image": "Official header image for CubePuzzle game - Steam 1683300",
+    "Canonical URL": "https://gusku.site/game/cubepuzzle",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CubePuzzle\", \"description\": \"Looking for information on CubePuzzle? Check out the release date (Jul 25, 2021), developer insights from RRTS, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 25, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"RRTS\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"kazakovstudios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1683300/header.jpg?t=1627198691\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

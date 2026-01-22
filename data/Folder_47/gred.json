@@ -1,0 +1,21 @@
+{
+    "AppID": 1143320,
+    "Name": "Gred",
+    "Release date": "Nov 11, 2019",
+    "About the game": "Gred is a 2,5D platformer in which you incarn both green and red light men who's goal is to save a lost child from a road sign. But your path is full of dangers and you'll have to carefully use your time powers. Indeed, when you are the green guy, you can move but time is stopped and when you switch to the red guy, you are immobilized but time goes on ! The game has multiple environments with their unique gameplay specifications that fully use the abilities of your time powers. The game will test your dexterity with pure platforming levels but also your ability to solve puzzles. Never forget that the key to save the child is to switch time ! Gred is a game created by four students, two developpers and two artists, willing to discover the universe of video game creation. Made in a little bit more of two months, we had fun realizing it and we hope you'll have fun playing it !",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1143320/header.jpg?t=1573469868",
+    "Price": 3.99,
+    "Developers": "Kevin Bergeal,Pierre Compagnon,Gregory Diaz,Guillaume Mellet",
+    "Publishers": "Team Gred",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1143320/ss_ff20f10e561edc9f4748bfee29e718e78b67c8c8.1920x1080.jpg?t=1573469868,https://cdn.akamai.steamstatic.com/steam/apps/1143320/ss_0dfb0116d867745ed1d69bad46eebcd1ae58e2a1.1920x1080.jpg?t=1573469868,https://cdn.akamai.steamstatic.com/steam/apps/1143320/ss_7fa391374004e36e72b9208e47982d511ef55df9.1920x1080.jpg?t=1573469868,https://cdn.akamai.steamstatic.com/steam/apps/1143320/ss_202ec0350d7d0420de3414282b67c0341a5ad0ce.1920x1080.jpg?t=1573469868,https://cdn.akamai.steamstatic.com/steam/apps/1143320/ss_db516f3ba6760f2c798201bf3f889f9a9eed2327.1920x1080.jpg?t=1573469868,https://cdn.akamai.steamstatic.com/steam/apps/1143320/ss_4d646d89d5069de9a75ecad23d66e0bf90d2f079.1920x1080.jpg?t=1573469868",
+    "Slug": "gred",
+    "Meta Title": "Gred: Nov 11, 2019, Kevin Bergeal,Pierre Compagnon,Gregor...",
+    "Meta Description": "Looking for information on Gred? Check out the release date (Nov 11, 2019), developer insights from Kevin Bergeal,Pierre Compagnon,Gregory Diaz,Guillaum...",
+    "Alt Text Image": "Official header image for Gred game - Steam 1143320",
+    "Canonical URL": "https://gusku.site/game/gred",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Gred\", \"description\": \"Looking for information on Gred? Check out the release date (Nov 11, 2019), developer insights from Kevin Bergeal,Pierre Compagnon,Gregory Diaz,Guillaum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 11, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kevin Bergeal,Pierre Compagnon,Gregory Diaz,Guillaume Mellet\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Team Gred\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1143320/header.jpg?t=1573469868\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

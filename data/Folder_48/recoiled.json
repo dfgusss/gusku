@@ -1,0 +1,21 @@
+{
+    "AppID": 1573080,
+    "Name": "Recoiled",
+    "Release date": "Apr 4, 2021",
+    "About the game": "Welcome to Recoiled PvP. This is a fact paced online multiplayer PvP game that supports up to two players. This was the first multiplayer I ever created and it uses Steamworks for networking, so latency is very minimal. Keep in mind that both players must have a Steam account open in order to join into Steamworks. This game uses a unique gameplay mechanic where you can use the recoil of your weapon to launch yourself opposite to where you shot. Join up with a friend into three gameplay modes: Free-for-all, racing mode, and target mode. In Free-for-all, the objective is to defeat the opponent. You can either reduce their health to zero or shoot them and launch them into an instant death zone. Your other objective is to survive by dodging enemy projectiles by normal movement or recoiled movement. In Racing mode, your one and only goal is to reach the end of the map and touch the flag before the opponent. Use the power of the recoil ability to gain fast speed as well as launch yourself high. In Target mode, your only objective is to shoot target to earn points. The first to thirty points wins the game. Each colored targets will be worth differently but some will be harder to shoot than others. Have fun and be nice to each other!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1573080/header.jpg?t=1617575379",
+    "Price": 0.0,
+    "Developers": "Felix Situ,David Bass",
+    "Publishers": "Felix Situ",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1573080/ss_5a9f2f34ffcc5329f70cfc755b732f23190b7924.1920x1080.jpg?t=1617575379,https://cdn.akamai.steamstatic.com/steam/apps/1573080/ss_fe2a258f7ab205590234b8a05e0f31340e30e58f.1920x1080.jpg?t=1617575379,https://cdn.akamai.steamstatic.com/steam/apps/1573080/ss_b4fca67cf997b5123ecc3768d7ed6d89b86a951b.1920x1080.jpg?t=1617575379,https://cdn.akamai.steamstatic.com/steam/apps/1573080/ss_07bae8c1c9c57ce469aef654f09f3ce393aa4c45.1920x1080.jpg?t=1617575379,https://cdn.akamai.steamstatic.com/steam/apps/1573080/ss_97f5a01c5dafe704d4ab99ecc9b850d5bb2f05ed.1920x1080.jpg?t=1617575379,https://cdn.akamai.steamstatic.com/steam/apps/1573080/ss_bf702071f53f9d0f61bf1b4b8a43d3f783eef463.1920x1080.jpg?t=1617575379,https://cdn.akamai.steamstatic.com/steam/apps/1573080/ss_5c4730bb059bdfcbd8093834a8e7aefbd7fcc718.1920x1080.jpg?t=1617575379,https://cdn.akamai.steamstatic.com/steam/apps/1573080/ss_1a3d2f25784781b350ef953aebfcbd612141babb.1920x1080.jpg?t=1617575379,https://cdn.akamai.steamstatic.com/steam/apps/1573080/ss_389e9eb3798f147dbe4b8f7c464282beea272098.1920x1080.jpg?t=1617575379",
+    "Slug": "recoiled",
+    "Meta Title": "Recoiled: Apr 4, 2021, Felix Situ,David Bass and Full Ove...",
+    "Meta Description": "Looking for information on Recoiled? Check out the release date (Apr 4, 2021), developer insights from Felix Situ,David Bass, and a complete game summary.",
+    "Alt Text Image": "Official header image for Recoiled game - Steam 1573080",
+    "Canonical URL": "https://gusku.site/game/recoiled",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Recoiled\", \"description\": \"Looking for information on Recoiled? Check out the release date (Apr 4, 2021), developer insights from Felix Situ,David Bass, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 4, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Felix Situ,David Bass\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Felix Situ\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1573080/header.jpg?t=1617575379\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

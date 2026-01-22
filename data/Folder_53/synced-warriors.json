@@ -1,0 +1,21 @@
+{
+    "AppID": 764390,
+    "Name": "Synced Warriors",
+    "Release date": "Jan 17, 2018",
+    "About the game": "Description Synced Warriors is a puzzle game where each button press controls all of the characters on the screen at the same time. The main feature of the game is that each character moves relative to the direction they are facing. This means that if you instruct the characters to move left, they do not move to the left relative to the camera. Instead, they move left relative to the direction they are facing. This makes for some interesting puzzle situations as you attempt to orchestrate a battle between the forces of red, blue, green, and yellow. Modes In puzzle mode you attempt to move the warriors to the puzzle pads of the same color while killing off the extra warriors. In infinite mode you attempt to keep the number of warriors on the map greater than 0 and less than a specified number. Features Dozens of puzzles Three kinds of warriors that add complexity to the puzzles Moving blocks and ballistae Puzzle editor for making and sharing puzzles",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/764390/header.jpg?t=1516196249",
+    "Price": 1.99,
+    "Developers": "Zack Garrett",
+    "Publishers": "TallShrimp",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/764390/ss_83c09ac7e1e623fcc2d639a2e6b09813d3b79541.1920x1080.jpg?t=1516196249,https://cdn.akamai.steamstatic.com/steam/apps/764390/ss_cdb425a58fd31bc7688e6adbbe33c10b8fef52ed.1920x1080.jpg?t=1516196249,https://cdn.akamai.steamstatic.com/steam/apps/764390/ss_c5af3c5e846d3e62f3fedfeb5c93b641d3c15b2b.1920x1080.jpg?t=1516196249,https://cdn.akamai.steamstatic.com/steam/apps/764390/ss_de9e459f201877927e720e09fac7cc6915458c01.1920x1080.jpg?t=1516196249,https://cdn.akamai.steamstatic.com/steam/apps/764390/ss_28bd54345e03f15ade4fdc7fd11af9c39194a64d.1920x1080.jpg?t=1516196249",
+    "Slug": "synced-warriors",
+    "Meta Title": "Synced Warriors: Jan 17, 2018, Zack Garrett and Full Over...",
+    "Meta Description": "Looking for information on Synced Warriors? Check out the release date (Jan 17, 2018), developer insights from Zack Garrett, and a complete game summary.",
+    "Alt Text Image": "Official header image for Synced Warriors game - Steam 764390",
+    "Canonical URL": "https://gusku.site/game/synced-warriors",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Synced Warriors\", \"description\": \"Looking for information on Synced Warriors? Check out the release date (Jan 17, 2018), developer insights from Zack Garrett, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 17, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Zack Garrett\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TallShrimp\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/764390/header.jpg?t=1516196249\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

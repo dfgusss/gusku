@@ -1,0 +1,21 @@
+{
+    "AppID": 1086140,
+    "Name": "Weaving",
+    "Release date": "Jun 4, 2019",
+    "About the game": "Weaving is a relaxing, minimalist reaction game. Hold the left mouse button - the particle rises higher, release - it moves below. Your task is to collect round molecules and pass through the rings. Victory is the highest score in the game. And all this against the background of soft shades. Nice graphics and music.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1086140/header.jpg?t=1559674086",
+    "Price": 0.99,
+    "Developers": "Bitlock Studio",
+    "Publishers": "Bitlock Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1086140/ss_8ad8e52c4df9ffb60bcad402e006400ac2af4aac.1920x1080.jpg?t=1559674086,https://cdn.akamai.steamstatic.com/steam/apps/1086140/ss_20b3d8d7b4f73bd8cc1f18d5712e1a0396de10a7.1920x1080.jpg?t=1559674086,https://cdn.akamai.steamstatic.com/steam/apps/1086140/ss_311bbe6bad60813ab31ff55ee46b44d24363627b.1920x1080.jpg?t=1559674086,https://cdn.akamai.steamstatic.com/steam/apps/1086140/ss_a5cc3aefafaf9591e9ae7de57f58e2d8c63fa0b4.1920x1080.jpg?t=1559674086,https://cdn.akamai.steamstatic.com/steam/apps/1086140/ss_c4d69ff8db4f00195d92e890217da267b85ec5ab.1920x1080.jpg?t=1559674086",
+    "Slug": "weaving",
+    "Meta Title": "Weaving: Jun 4, 2019, Bitlock Studio and Full Overview",
+    "Meta Description": "Looking for information on Weaving? Check out the release date (Jun 4, 2019), developer insights from Bitlock Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Weaving game - Steam 1086140",
+    "Canonical URL": "https://gusku.site/game/weaving",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Weaving\", \"description\": \"Looking for information on Weaving? Check out the release date (Jun 4, 2019), developer insights from Bitlock Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 4, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bitlock Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bitlock Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1086140/header.jpg?t=1559674086\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

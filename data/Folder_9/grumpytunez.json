@@ -1,0 +1,21 @@
+{
+    "AppID": 1921570,
+    "Name": "GrumpyTunez",
+    "Release date": "May 18, 2022",
+    "About the game": "GrumpyTunez was designed for anyone to quickly tune a vehicle. This process can assist tuning a vehicle fast without prior knowledge of gear tuning. Grumpytunez runs as an overlay with supported games to analyze the telemetry data. Telemetry data out features are disabled by default. Features can be enabled via Settings/Hud and Gameplay menu of the game. Grumpytunez will analyze live output of telemetry data. Tune fast, Go fast! Features: Gear tuning Dyno chart Live RPM, HP, &amp; TQ displays Suspension tuning Live Suspension display Customizable tuning and display panel layouts. Grumpytunez currently supports the following games: Forza Horizon 4 Forza Horizon 5 Future supported titles: Project Cars Assetto Corsa",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1921570/header.jpg?t=1655913018",
+    "Price": 7.99,
+    "Developers": "Cranky Wizard Studios LLC",
+    "Publishers": "Cranky Wizard Studios LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1921570/ss_3002779153b6a13f199dfed3a765495c158100e2.1920x1080.jpg?t=1655913018,https://cdn.akamai.steamstatic.com/steam/apps/1921570/ss_8d61d6c6185d14d040fb825ac7a6a5c625a0072d.1920x1080.jpg?t=1655913018,https://cdn.akamai.steamstatic.com/steam/apps/1921570/ss_1319f164661df9bf324c742ed4b16a74abab7947.1920x1080.jpg?t=1655913018,https://cdn.akamai.steamstatic.com/steam/apps/1921570/ss_1d917b2dadd7c256523cf428cd3d14a4e468984d.1920x1080.jpg?t=1655913018,https://cdn.akamai.steamstatic.com/steam/apps/1921570/ss_dc98cf8f9fe79c850428e4a6ad47266c189a666b.1920x1080.jpg?t=1655913018,https://cdn.akamai.steamstatic.com/steam/apps/1921570/ss_340c0a64180e2df661c5b31dff086b681bbe5d12.1920x1080.jpg?t=1655913018",
+    "Slug": "grumpytunez",
+    "Meta Title": "GrumpyTunez: May 18, 2022, Cranky Wizard Studios LLC and ...",
+    "Meta Description": "Looking for information on GrumpyTunez? Check out the release date (May 18, 2022), developer insights from Cranky Wizard Studios LLC, and a complete gam...",
+    "Alt Text Image": "Official header image for GrumpyTunez game - Steam 1921570",
+    "Canonical URL": "https://gusku.site/game/grumpytunez",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GrumpyTunez\", \"description\": \"Looking for information on GrumpyTunez? Check out the release date (May 18, 2022), developer insights from Cranky Wizard Studios LLC, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 18, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cranky Wizard Studios LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cranky Wizard Studios LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1921570/header.jpg?t=1655913018\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

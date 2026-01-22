@@ -1,0 +1,21 @@
+{
+    "AppID": 2179990,
+    "Name": "Art AI Compass: Prompt Generator & Manager",
+    "Release date": "Nov 30, 2022",
+    "About the game": "Prerelease Note: The store images and videos will soon be updated with a new version, containing extendable word theme dictionaries and ease of life additions. If you like please support the product! At the moment there is just one basic word theme, but you can create your own and add any words you like to use. Further improvements made soon are: The style of the app, other ease of life improvements, maybe a change of word types. There is no documentation yet, but it will soon be added in the community hub. Also please note that it has been mainly tested with MJ. Other AIs should not be a problem though. Visit the forums if you would like to share an idea! DESCRIPTION The Art AI compass is a visual editor for prompts. It can randomize specific words like colors or adjectives from specified word theme dictionaries. It can automatically paste your prompt to a specified window as well as read and adapt existing prompts from text. Please visit the forums for discussion! FEATURES: Dictionary of words - you can create your own dictionary/'theme' Prompt structure creator (pull in object, adjective etc etc to create your prompt structure) Universal prompt paste to other application capability Drag Drop text from outside to load as prompt (to roll a die on certain words) Quick image save - drag drop to window to save in preconfigured directory (might get further improvements in future) Randomizer for specific wordtypes (like: change all adjectives) AI specific settings (custom parameters, window title, ...)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2179990/header.jpg?t=1669810162",
+    "Price": 24.99,
+    "Developers": "Libor Turek",
+    "Publishers": "Libor Turek",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2179990/ss_90de487f6cffa89bbee91338e594f1bb02d3a9cb.1920x1080.jpg?t=1669810162,https://cdn.akamai.steamstatic.com/steam/apps/2179990/ss_7d22ff75e5dd60a7179850fe81d77422beef68b2.1920x1080.jpg?t=1669810162,https://cdn.akamai.steamstatic.com/steam/apps/2179990/ss_d517531abc466c8a03299c46d989fc94531b78f6.1920x1080.jpg?t=1669810162,https://cdn.akamai.steamstatic.com/steam/apps/2179990/ss_a19429f2e905ff56692b19927798041ad90a4a41.1920x1080.jpg?t=1669810162,https://cdn.akamai.steamstatic.com/steam/apps/2179990/ss_3b777ad01ecde79e9f0321c8231cbfc4636b7276.1920x1080.jpg?t=1669810162",
+    "Slug": "art-ai-compass-prompt-generator-manager",
+    "Meta Title": "Art AI Compass: Prompt Generator & Manager: Nov 30, 2022,...",
+    "Meta Description": "Looking for information on Art AI Compass: Prompt Generator & Manager? Check out the release date (Nov 30, 2022), developer insights from Libor Turek, a...",
+    "Alt Text Image": "Official header image for Art AI Compass: Prompt Generator & Manager game - Steam 2179990",
+    "Canonical URL": "https://gusku.site/game/art-ai-compass-prompt-generator-manager",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Art AI Compass: Prompt Generator & Manager\", \"description\": \"Looking for information on Art AI Compass: Prompt Generator & Manager? Check out the release date (Nov 30, 2022), developer insights from Libor Turek, a...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 30, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Libor Turek\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Libor Turek\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2179990/header.jpg?t=1669810162\", \"offers\": {\"@type\": \"Offer\", \"price\": 24.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1864490,
+    "Name": "3D Solar System Simulator",
+    "Release date": "Jan 24, 2022",
+    "About the game": "This is a fun and educational simulation that allows you to create your own solar systems and observe the effect of gravity on each body in the solar system. The simulation calculates and displays the orbits of any solar system based upon Newtons Universal Law of Gravitation. You can fly through the solar system in your spaceship and feel the effects of gravity as you navigate through the solar system. You can also experiment with creating your own solar system made of planets of any size and orbit. eg. See of you can create a stable binary star system. This simulation is designed for use with a 3D Headset such as the Oculus Quest or HTC Vive.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1864490/header.jpg?t=1643011557",
+    "Price": 0.99,
+    "Developers": "Rob Moore",
+    "Publishers": "NARP",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1864490/ss_b4d28d7bb8715b536e5804f3454d41f567d32298.1920x1080.jpg?t=1643011557,https://cdn.akamai.steamstatic.com/steam/apps/1864490/ss_9fe8516277de72c708a056ed61157dc74d0f2c77.1920x1080.jpg?t=1643011557,https://cdn.akamai.steamstatic.com/steam/apps/1864490/ss_51cd008347e8824908f4f1b727b5faa56976c2a1.1920x1080.jpg?t=1643011557,https://cdn.akamai.steamstatic.com/steam/apps/1864490/ss_2113c867ef306c1b59bf5db0153a129e6273fb45.1920x1080.jpg?t=1643011557,https://cdn.akamai.steamstatic.com/steam/apps/1864490/ss_54ece9389aa89f50a81d147fab2bdc42c5c75240.1920x1080.jpg?t=1643011557",
+    "Slug": "3d-solar-system-simulator",
+    "Meta Title": "3D Solar System Simulator: Jan 24, 2022, Rob Moore and Fu...",
+    "Meta Description": "Looking for information on 3D Solar System Simulator? Check out the release date (Jan 24, 2022), developer insights from Rob Moore, and a complete game ...",
+    "Alt Text Image": "Official header image for 3D Solar System Simulator game - Steam 1864490",
+    "Canonical URL": "https://gusku.site/game/3d-solar-system-simulator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"3D Solar System Simulator\", \"description\": \"Looking for information on 3D Solar System Simulator? Check out the release date (Jan 24, 2022), developer insights from Rob Moore, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 24, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rob Moore\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"NARP\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1864490/header.jpg?t=1643011557\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

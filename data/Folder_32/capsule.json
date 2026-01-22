@@ -1,0 +1,21 @@
+{
+    "AppID": 891490,
+    "Name": "Capsule",
+    "Release date": "Nov 15, 2019",
+    "About the game": "Capsule is a challenging VR escape game developed for the HTC Vive and Valve Index. It is set in a fictional 1982 and takes place in a fallout bunker following a nuclear attack. Explore the environment, examine items and solve puzzles in order to leave the bunker in time to be rescued. Throughout the bunker the player can find audio tapes, recorded previously by the character that they are assuming during game play, that offer insight pertaining to the situation they are currently in. Capsule is designed to be played best at room scale where players navigate by a simple teleport mechanic. Controls are minimal and, overall, game play is designed to be intuitive and immersive allowing the player to focus on the environment around them. The solutions to the puzzles in the game are randomized, so that the player wont be able to simply remember combinations and solutions from their last play through, this ensures that subsequent play-throughs and speed-run achievements retain a certain level of challenge.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/891490/header.jpg?t=1573911011",
+    "Price": 2.99,
+    "Developers": "Chris Pow",
+    "Publishers": "Chris Pow",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/891490/ss_4f02c4424f90fd816801d200b418d40158f29012.1920x1080.jpg?t=1573911011,https://cdn.akamai.steamstatic.com/steam/apps/891490/ss_faad1927a8554fea61a4716f6cb344bb495fde72.1920x1080.jpg?t=1573911011,https://cdn.akamai.steamstatic.com/steam/apps/891490/ss_6082e4c75295b3db8bb3b2ddc31fb71dc1beeb76.1920x1080.jpg?t=1573911011,https://cdn.akamai.steamstatic.com/steam/apps/891490/ss_3a0131756e8ac0b6346e78d1bbc74df8e264aec1.1920x1080.jpg?t=1573911011,https://cdn.akamai.steamstatic.com/steam/apps/891490/ss_2895ec65b203c5ebdd6b5b9147d0f34c9c2756b0.1920x1080.jpg?t=1573911011,https://cdn.akamai.steamstatic.com/steam/apps/891490/ss_4fcb37bc1fe5bc7b4c8f985dba9afef01d024a60.1920x1080.jpg?t=1573911011",
+    "Slug": "capsule",
+    "Meta Title": "Capsule: Nov 15, 2019, Chris Pow and Full Overview",
+    "Meta Description": "Looking for information on Capsule? Check out the release date (Nov 15, 2019), developer insights from Chris Pow, and a complete game summary.",
+    "Alt Text Image": "Official header image for Capsule game - Steam 891490",
+    "Canonical URL": "https://gusku.site/game/capsule",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Capsule\", \"description\": \"Looking for information on Capsule? Check out the release date (Nov 15, 2019), developer insights from Chris Pow, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 15, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Chris Pow\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Chris Pow\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/891490/header.jpg?t=1573911011\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

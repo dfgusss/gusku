@@ -1,0 +1,21 @@
+{
+    "AppID": 1166540,
+    "Name": "Beetle Hunter",
+    "Release date": "Oct 15, 2019",
+    "About the game": "BEETLE HUNTER is a simple first-person shooter. Beat various ferocious enemies, collect powerful weapons, explore the randomly generated complex steampunk stage, aim for the top floor and hunt the mighty beetle! YouTuber’s Video This is a Japanese YouTuber's video. It was fun. If you know Japanese, look at this. It explains about this game much better than my store's explanation. Version 1.1 Changed the timing of AUTOSAVE. Fixed bug: HISTORY's death count. Increased the appearance rate of HEAL items. Increased the count of bullets. Control WASD - Move Mouse - Direction Left Click - Fire Right Click - Aim Space - Jump Shift - Dash C - Crouch E - Activate R - Reload G - Grenade H - Heal F - Freeze Mouse Scroll - Change Weapon 12345 - Change Weapon P - Pause ESC - Pause Alt + Enter - Fullscreen Save It has AUTOSAVE and PAUSESAVE. When you continue from the game over, AUTOSAVE data will be used. PAUSESAVE will be deleted when you load it. You cannot use AUTOSAVE in hard mode. Weapon PISTOL with no limitation bullet ASSAULT RIFLE with continuous fire LASER GUN with penetration possible SHOTGUN for a short distance Powerful ROCKET LAUNCHER Item HEAL restores HP. GRENADE attacks multiple enemies and destroys wires and rocks that block the way. FREEZE stops the enemies for a moment. WEAPON PLUS upgrades the weapon you are using. GEMs make you stronger. Enemy Ant Hornet Mantis Locust and more… Difficulty There are two types of difficulty, NORMAL and HARD. In NORMAL mode, you can resume from AUTOSAVE even if you are killed. When you are killed in HARD mode, it ends there.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1166540/header.jpg?t=1589382232",
+    "Price": 0.0,
+    "Developers": "tinybugbot",
+    "Publishers": "tinybugbot",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1166540/ss_20d56df872796fa47ef267ab7791ab0789910314.1920x1080.jpg?t=1589382232,https://cdn.akamai.steamstatic.com/steam/apps/1166540/ss_4910324cfdba438f7f085e1e47611daa3a75f85f.1920x1080.jpg?t=1589382232,https://cdn.akamai.steamstatic.com/steam/apps/1166540/ss_41719227813dee9624c3492dde718a9fa83fb5cb.1920x1080.jpg?t=1589382232,https://cdn.akamai.steamstatic.com/steam/apps/1166540/ss_8af00a187bb233af085131ff3986f16b53532e75.1920x1080.jpg?t=1589382232,https://cdn.akamai.steamstatic.com/steam/apps/1166540/ss_a906fc8f0db3511e5eb76f10a13259471558690c.1920x1080.jpg?t=1589382232",
+    "Slug": "beetle-hunter",
+    "Meta Title": "Beetle Hunter: Oct 15, 2019, tinybugbot and Full Overview",
+    "Meta Description": "Looking for information on Beetle Hunter? Check out the release date (Oct 15, 2019), developer insights from tinybugbot, and a complete game summary.",
+    "Alt Text Image": "Official header image for Beetle Hunter game - Steam 1166540",
+    "Canonical URL": "https://gusku.site/game/beetle-hunter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Beetle Hunter\", \"description\": \"Looking for information on Beetle Hunter? Check out the release date (Oct 15, 2019), developer insights from tinybugbot, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 15, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"tinybugbot\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"tinybugbot\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1166540/header.jpg?t=1589382232\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

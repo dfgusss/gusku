@@ -1,0 +1,21 @@
+{
+    "AppID": 1671770,
+    "Name": "Star Vortex",
+    "Release date": "Jul 8, 2021",
+    "About the game": "Star Vortex is a casual game where you gather stars, avoid the asteroids and try to set a high score. Each run lasts around 1 minute. Star Vortex was developed for me to learn Steams tools, as such it is completely free. No Ads No In App Purchases It uses GPU instancing and Burst compiler tech from Unity, which means it requires decent hardware to run since each individual star is simulated and there can be around 20k simulated at a time.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1671770/header.jpg?t=1625727872",
+    "Price": 0.0,
+    "Developers": "Laireon Games",
+    "Publishers": "Laireon Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1671770/ss_5138ac241e0cc03852df44bea2dd8d5ec83afac6.1920x1080.jpg?t=1625727872,https://cdn.akamai.steamstatic.com/steam/apps/1671770/ss_a63f5bd078db3680bcd58ba3575d61d8e81599e9.1920x1080.jpg?t=1625727872,https://cdn.akamai.steamstatic.com/steam/apps/1671770/ss_5d3575b2cef7392ee5d15ee05cdeac2dc3fe8268.1920x1080.jpg?t=1625727872,https://cdn.akamai.steamstatic.com/steam/apps/1671770/ss_b0aa943dede082e007c8cf9b91d8d62ef198b220.1920x1080.jpg?t=1625727872,https://cdn.akamai.steamstatic.com/steam/apps/1671770/ss_b2a4c6c4902ccd285d7330b50517e5e50cc9827b.1920x1080.jpg?t=1625727872",
+    "Slug": "star-vortex",
+    "Meta Title": "Star Vortex: Jul 8, 2021, Laireon Games and Full Overview",
+    "Meta Description": "Looking for information on Star Vortex? Check out the release date (Jul 8, 2021), developer insights from Laireon Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Star Vortex game - Steam 1671770",
+    "Canonical URL": "https://gusku.site/game/star-vortex",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Star Vortex\", \"description\": \"Looking for information on Star Vortex? Check out the release date (Jul 8, 2021), developer insights from Laireon Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 8, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Laireon Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Laireon Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1671770/header.jpg?t=1625727872\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

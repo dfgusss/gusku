@@ -1,0 +1,21 @@
+{
+    "AppID": 562510,
+    "Name": "JugiPaint",
+    "Release date": "Dec 6, 2016",
+    "About the game": "JugiPaint is a painting software with diverse tools for various illustration works. It provides many standard digital painting features like layers, brushes, selections, transformations, etc., as well as some less often like guide layers and panels. The raster based painting and editing capabilities are supplemented with powerful tools for creating vector based line art. JugiPaint is the successor of Comicado and is also well suited for creating comics. Key features: - a versatile brush system which powers a wide range of brushes with a high level of customization - vector drawing - filter layers - text layers - guide layers - perspective and simple mannequin - layered panels for comics creation - rulers",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/562510/header.jpg?t=1481097309",
+    "Price": 14.99,
+    "Developers": "Jugilus",
+    "Publishers": "Jugilus",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/562510/ss_40c0b47ae90a22af1a10330193609f241c295c26.1920x1080.jpg?t=1481097309,https://cdn.akamai.steamstatic.com/steam/apps/562510/ss_90259c5a74a7c1f3fff5cf1e7d0b53b4f750a84c.1920x1080.jpg?t=1481097309,https://cdn.akamai.steamstatic.com/steam/apps/562510/ss_1490d71db2ad8ccda2fab898e788517e353872b7.1920x1080.jpg?t=1481097309,https://cdn.akamai.steamstatic.com/steam/apps/562510/ss_200ce3e84439403d1605fdcdcedcb866369e68f9.1920x1080.jpg?t=1481097309,https://cdn.akamai.steamstatic.com/steam/apps/562510/ss_bac0c129a8fab7e13a3980abdaaeed4569ed0a08.1920x1080.jpg?t=1481097309",
+    "Slug": "jugipaint",
+    "Meta Title": "JugiPaint: Dec 6, 2016, Jugilus and Full Overview",
+    "Meta Description": "Looking for information on JugiPaint? Check out the release date (Dec 6, 2016), developer insights from Jugilus, and a complete game summary.",
+    "Alt Text Image": "Official header image for JugiPaint game - Steam 562510",
+    "Canonical URL": "https://gusku.site/game/jugipaint",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"JugiPaint\", \"description\": \"Looking for information on JugiPaint? Check out the release date (Dec 6, 2016), developer insights from Jugilus, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 6, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jugilus\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jugilus\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/562510/header.jpg?t=1481097309\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

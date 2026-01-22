@@ -1,0 +1,21 @@
+{
+    "AppID": 1874420,
+    "Name": "Don't Push Me",
+    "Release date": "Jan 31, 2022",
+    "About the game": "Square off against your friends in this life-or-death shoving simulator! 2 Player Local Competitive 1v1. Best played with gamepads. Otherwise, keyboard can be used, and controls are displayed on screen. Keybindings can be re-bound by using the text files in the installation directory. FEATURES 1 vs 1 - Local Player vs Player Competitive Play. The best way to play! 1 vs AI - Local training! AI vs AI - Watch two AI duke it out, for fun! To play ONLINE , utilize Steam's 'Remote Play Together' function. The Parsec application is also recommended. GOAL Shove your opponent into the spikes on either side of the arena by DASHING into them! Each MATCH is a 'Best of Five'. That is, each player has '3 lives', and the first person to lose all three lives to the spikes loses the match! MOVES JUMP and DASH DEFAULT CONTROLS If no controllers or gamepads are plugged in, the game will default to the following keys. You can rebind the default controls using the KeyboardBindings.txt file in the installation directory. Player 1 MOVEMENT/DIRECTION - W/A/S/D JUMP - G DASH - H Player 2 MOVEMENT/DIRECTION - Arrow Keys JUMP - ' (quote) DASH - ; (semicolon) Game By Jakeypoo, @jmanoclay Audio By Ian Smith",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1874420/header.jpg?t=1643739956",
+    "Price": 2.99,
+    "Developers": "Jakeypoo",
+    "Publishers": "Jakeypoo Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1874420/ss_e7ec8835e2704f828661a702f865706dbf1f65da.1920x1080.jpg?t=1643739956,https://cdn.akamai.steamstatic.com/steam/apps/1874420/ss_6a35adf6037c52168d1866c74f485b608402268d.1920x1080.jpg?t=1643739956,https://cdn.akamai.steamstatic.com/steam/apps/1874420/ss_50a3f1be20e38c233f266379d0544af311193b72.1920x1080.jpg?t=1643739956,https://cdn.akamai.steamstatic.com/steam/apps/1874420/ss_41b99d8af2ec290cfd0d6217201d4b14d9530fe5.1920x1080.jpg?t=1643739956,https://cdn.akamai.steamstatic.com/steam/apps/1874420/ss_3af18b8398c7dedd7be93e7b97dd723e712a879e.1920x1080.jpg?t=1643739956",
+    "Slug": "don-t-push-me",
+    "Meta Title": "Don't Push Me: Jan 31, 2022, Jakeypoo and Full Overview",
+    "Meta Description": "Looking for information on Don't Push Me? Check out the release date (Jan 31, 2022), developer insights from Jakeypoo, and a complete game summary.",
+    "Alt Text Image": "Official header image for Don't Push Me game - Steam 1874420",
+    "Canonical URL": "https://gusku.site/game/don-t-push-me",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Don't Push Me\", \"description\": \"Looking for information on Don't Push Me? Check out the release date (Jan 31, 2022), developer insights from Jakeypoo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 31, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jakeypoo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jakeypoo Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1874420/header.jpg?t=1643739956\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

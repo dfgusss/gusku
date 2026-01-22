@@ -1,0 +1,21 @@
+{
+    "AppID": 1933570,
+    "Name": "IDF-ASD",
+    "Release date": "Mar 25, 2022",
+    "About the game": "Intense bullet hell. Upgrade your ships unlock capabilities and push against difficult design. One or two player game with both players being on the same screen. Think of the old arcade top down shooters. There are a total of ten ships, you can select one of the first four when you start a new game after that the other nine can be rescued during missions. Ship 1 can be rescued in mission 1 ship 2 in mission 2 etc. There are eleven researchers that can be rescued, they unlock upgrade research that goes across all the ships. - Speed, Fire Power, Fire Rate, Missiles, Bombs etc. I am designing the game so that the end missions will be close to impossible with out upgrading the capabilities of your ships. - During beta testing mission 2, it drove me crazy because I designed it's difficulty to really push the player from what they experienced on mission 1. Game is progress based once you beat mission 1 you get access to mission 2 etc, but secret missions 1 2 and 3 will require conditions to be met, such as beat mission 5 with out taking any red health damage.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1933570/header.jpg?t=1651125262",
+    "Price": 7.99,
+    "Developers": "Initial Node",
+    "Publishers": "Initial Node",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1933570/ss_47582d98c800c8318e2536831aa36b328d170e82.1920x1080.jpg?t=1651125262,https://cdn.akamai.steamstatic.com/steam/apps/1933570/ss_d44f26afb73e309d3c15be11654da083d8eb7754.1920x1080.jpg?t=1651125262,https://cdn.akamai.steamstatic.com/steam/apps/1933570/ss_242edbf8f5758969e7348296cdd2b9af8d5cd9f6.1920x1080.jpg?t=1651125262,https://cdn.akamai.steamstatic.com/steam/apps/1933570/ss_e0e85b95d876d8d0032af09bdb17d9e7ec7a92bc.1920x1080.jpg?t=1651125262,https://cdn.akamai.steamstatic.com/steam/apps/1933570/ss_aac6b143ea2b9bb7c67272a3fe752bc3a0d49ffd.1920x1080.jpg?t=1651125262,https://cdn.akamai.steamstatic.com/steam/apps/1933570/ss_9ead7dc1fc23e1c18682b010fe447c0269bd47ff.1920x1080.jpg?t=1651125262",
+    "Slug": "idf-asd",
+    "Meta Title": "IDF-ASD: Mar 25, 2022, Initial Node and Full Overview",
+    "Meta Description": "Looking for information on IDF-ASD? Check out the release date (Mar 25, 2022), developer insights from Initial Node, and a complete game summary.",
+    "Alt Text Image": "Official header image for IDF-ASD game - Steam 1933570",
+    "Canonical URL": "https://gusku.site/game/idf-asd",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"IDF-ASD\", \"description\": \"Looking for information on IDF-ASD? Check out the release date (Mar 25, 2022), developer insights from Initial Node, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 25, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Initial Node\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Initial Node\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1933570/header.jpg?t=1651125262\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

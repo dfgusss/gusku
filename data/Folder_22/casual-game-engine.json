@@ -1,0 +1,21 @@
+{
+    "AppID": 1725730,
+    "Name": "Casual Game Engine",
+    "Release date": "Jun 15, 2022",
+    "About the game": "Welcome to Casual Game Engine! Casual Game Engine is another playground for both gamers and developers. With the game engine you can create your own singleplayer shooter games in 2D in top-down perspective using AngelScript. Games can be made as standalone games, mods and, if desired, shared with Steam (you need an own developer account for that). Casual Game Engine utilizes the famous AngelScript scripting language which has its valid place in the game development universe. It is easy to learn and has an easy understandable C++ style syntax. Your actual game is implemented by creating custom entities, player behaviour and define maps with custom entities. You can just launch the engine GUI builder, create a new project and everything is generated for you. You then just have to modify the entity source files. We suggest to use VS Code as editor. Note that this product is quite oldschool: There is no visual scripting or map editor included yet, so this is preferably suited for developers who like to write code.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1725730/header.jpg?t=1655301859",
+    "Price": 0.0,
+    "Developers": "Daniel Brendel",
+    "Publishers": "Daniel Brendel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1725730/ss_913941a5757209d919dbe44fe39540102484f621.1920x1080.jpg?t=1655301859,https://cdn.akamai.steamstatic.com/steam/apps/1725730/ss_5fd55c094468bbb85c57aca2e3b2647a220d333c.1920x1080.jpg?t=1655301859,https://cdn.akamai.steamstatic.com/steam/apps/1725730/ss_fa56b1c00fe27ac313c65a81793b10bc05f37c8b.1920x1080.jpg?t=1655301859,https://cdn.akamai.steamstatic.com/steam/apps/1725730/ss_5bafb52b5ce0c70c2d8dbaef9c7a8859a29f7311.1920x1080.jpg?t=1655301859,https://cdn.akamai.steamstatic.com/steam/apps/1725730/ss_507ce197329376550b9cc3ea5e01294f93095a19.1920x1080.jpg?t=1655301859",
+    "Slug": "casual-game-engine",
+    "Meta Title": "Casual Game Engine: Jun 15, 2022, Daniel Brendel and Full...",
+    "Meta Description": "Looking for information on Casual Game Engine? Check out the release date (Jun 15, 2022), developer insights from Daniel Brendel, and a complete game su...",
+    "Alt Text Image": "Official header image for Casual Game Engine game - Steam 1725730",
+    "Canonical URL": "https://gusku.site/game/casual-game-engine",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Casual Game Engine\", \"description\": \"Looking for information on Casual Game Engine? Check out the release date (Jun 15, 2022), developer insights from Daniel Brendel, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 15, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Daniel Brendel\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Daniel Brendel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1725730/header.jpg?t=1655301859\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

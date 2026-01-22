@@ -1,0 +1,21 @@
+{
+    "AppID": 1248680,
+    "Name": "Speed Sweeper",
+    "Release date": "Mar 6, 2020",
+    "About the game": "Speed Sweeper A competitive minesweeper speed-runner! With multiple game modes, daily challenges, and online leader boards. Focused on enabling speed running, the game is tailored towards players of all skill sets. Take full control over the size of the game board, and amount of bombs. Customize the board Set custom board sizes, bomb amount, themes and backgrounds. Game modes include: Classic - Clear the board as fast as you can Speed - Make each move before the timer runs out Daily Challenge - Compete on the same board as everyone else 3 Lives - Mines don't instantly end the game. Tower - Complete 5 levels in a row",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1248680/header.jpg?t=1583505941",
+    "Price": 1.99,
+    "Developers": "WubsGames",
+    "Publishers": "WubsGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1248680/ss_6241973366ece088885fba1df3eff426aaf08c96.1920x1080.jpg?t=1583505941,https://cdn.akamai.steamstatic.com/steam/apps/1248680/ss_f06dfbd7d25d7d24a2af2c944147dce143cbbf5c.1920x1080.jpg?t=1583505941,https://cdn.akamai.steamstatic.com/steam/apps/1248680/ss_3974772106d95e76e2a94e5d6246174459dca021.1920x1080.jpg?t=1583505941,https://cdn.akamai.steamstatic.com/steam/apps/1248680/ss_f6a75e06016e75a48cf2809a8397daebdb8c889b.1920x1080.jpg?t=1583505941,https://cdn.akamai.steamstatic.com/steam/apps/1248680/ss_0e69b181800bc1f08a2994a81f2524a646ac1d22.1920x1080.jpg?t=1583505941",
+    "Slug": "speed-sweeper",
+    "Meta Title": "Speed Sweeper: Mar 6, 2020, WubsGames and Full Overview",
+    "Meta Description": "Looking for information on Speed Sweeper? Check out the release date (Mar 6, 2020), developer insights from WubsGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for Speed Sweeper game - Steam 1248680",
+    "Canonical URL": "https://gusku.site/game/speed-sweeper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Speed Sweeper\", \"description\": \"Looking for information on Speed Sweeper? Check out the release date (Mar 6, 2020), developer insights from WubsGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 6, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"WubsGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"WubsGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1248680/header.jpg?t=1583505941\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

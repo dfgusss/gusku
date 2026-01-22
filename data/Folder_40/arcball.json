@@ -1,0 +1,21 @@
+{
+    "AppID": 801060,
+    "Name": "ArcBall",
+    "Release date": "Mar 29, 2018",
+    "About the game": "ArcBall - Simple and casual arcanoid-like game. Interesting levels and nice retro-graphics are waiting you! List of game features: ~ Interesting designed levels ~ Nice game graphics like in retro games ~ Old-school gameplay: destroy blocks and complete all levels!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/801060/header.jpg?t=1541016012",
+    "Price": 0.99,
+    "Developers": "VladProduction",
+    "Publishers": "VladProduction",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/801060/ss_10ea01868a453c1f721d523a754c6eb6c8897423.1920x1080.jpg?t=1541016012,https://cdn.akamai.steamstatic.com/steam/apps/801060/ss_ab7eb9876242fdcd4a04e98cb2973c00cd755ac3.1920x1080.jpg?t=1541016012,https://cdn.akamai.steamstatic.com/steam/apps/801060/ss_0c6c8df5a4af2c54058e289cc27bba7874120b51.1920x1080.jpg?t=1541016012,https://cdn.akamai.steamstatic.com/steam/apps/801060/ss_154ff205c2137c7ca68d029c53000e77d5dca670.1920x1080.jpg?t=1541016012,https://cdn.akamai.steamstatic.com/steam/apps/801060/ss_237638ceb6bac42418d6f9472c2feee5875a74e8.1920x1080.jpg?t=1541016012",
+    "Slug": "arcball",
+    "Meta Title": "ArcBall: Mar 29, 2018, VladProduction and Full Overview",
+    "Meta Description": "Looking for information on ArcBall? Check out the release date (Mar 29, 2018), developer insights from VladProduction, and a complete game summary.",
+    "Alt Text Image": "Official header image for ArcBall game - Steam 801060",
+    "Canonical URL": "https://gusku.site/game/arcball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ArcBall\", \"description\": \"Looking for information on ArcBall? Check out the release date (Mar 29, 2018), developer insights from VladProduction, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 29, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"VladProduction\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"VladProduction\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/801060/header.jpg?t=1541016012\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

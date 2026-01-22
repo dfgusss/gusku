@@ -1,0 +1,21 @@
+{
+    "AppID": 1899370,
+    "Name": "3D将棋",
+    "Release date": "Jul 14, 2022",
+    "About the game": "[What is Shogi] It is one of the traditional Japanese board games. The rules are similar to Western chess, but the roles of the pieces are different, and the pieces can be strengthened under certain conditions. Like chess, you can capture and acquire enemy pieces that exist at the destination of your own pieces, and unlike chess, you can use them as new pieces of your own army. You win if you can defeat the king of the other army. On the contrary, if you take the king of your own army, you will lose. [Play shogi with easy operation] (1) First, move the square cursor by clicking the cross key or the left mouse button. (2) Press the ENTER key or left-click to select the piece in that square. (3) The square where the selected piece can move shines. Also move the cursor to select the destination of this piece. (4) The piece moves. If there is an opponent's piece at the destination, take it. If the destination is the opponent's position, the pieces can be further powered up. (5) Next is the opponent's turn. Repeat until you or your opponent lose the foul. [Use your own model] Both the shogi board and the Japanese-style room use their own models. In particular, the shogi board is a work that was made with unnecessary attention to the invisible back part.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1899370/header.jpg?t=1657790772",
+    "Price": 4.99,
+    "Developers": "あべの会",
+    "Publishers": "あべの会",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1899370/ss_ef9556b0211640093137a6420186620b64999bd0.1920x1080.jpg?t=1657790772,https://cdn.akamai.steamstatic.com/steam/apps/1899370/ss_93e245ba5fba8d89fb7a9eb47b44079c8bed26c3.1920x1080.jpg?t=1657790772,https://cdn.akamai.steamstatic.com/steam/apps/1899370/ss_9dc0bbc8e38b17af409e39daa332a3c57dd7262e.1920x1080.jpg?t=1657790772,https://cdn.akamai.steamstatic.com/steam/apps/1899370/ss_e5e796dfdf3132893aa3f5bdc3b07cc37259adaa.1920x1080.jpg?t=1657790772,https://cdn.akamai.steamstatic.com/steam/apps/1899370/ss_648724f339787f37f4d7997e123a6ebde29539a0.1920x1080.jpg?t=1657790772",
+    "Slug": "3d",
+    "Meta Title": "3D将棋: Jul 14, 2022, あべの会 and Full Overview",
+    "Meta Description": "Looking for information on 3D将棋? Check out the release date (Jul 14, 2022), developer insights from あべの会, and a complete game summary.",
+    "Alt Text Image": "Official header image for 3D将棋 game - Steam 1899370",
+    "Canonical URL": "https://gusku.site/game/3d",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"3D\\u5c06\\u68cb\", \"description\": \"Looking for information on 3D\\u5c06\\u68cb? Check out the release date (Jul 14, 2022), developer insights from \\u3042\\u3079\\u306e\\u4f1a, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 14, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u3042\\u3079\\u306e\\u4f1a\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u3042\\u3079\\u306e\\u4f1a\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1899370/header.jpg?t=1657790772\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

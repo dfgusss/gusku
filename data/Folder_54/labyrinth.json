@@ -1,0 +1,21 @@
+{
+    "AppID": 1456900,
+    "Name": "Labyrinth",
+    "Release date": "Nov 14, 2020",
+    "About the game": "Labyrinth is a Maze Escape game that follows a player who has been thrown into the Labyrinth of Crete. The Labyrinth of Crete was an elaborate, confusing structure designed and built by the legendary artificer Daedalus for King Minos of Crete at Knossos. Its function was to hold the Minotaur, the illigitimate stepson of King Minos. For many years, the people of athens had to provide food for the Minotaur in the form of human sacrifice. They did this by sending their criminals to the Labyrinth. You are one such criminal. Will you escape? Will you meet the Minotaur? Only one way to find out... Controls: Move - A, S, D, W Jump - Space Run - Shift Interact - E Attack with Left Weapon - Left Click Attack with Right Weapon - Right Click Toggle Sneak - C Pause, Save Menu - Esc",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1456900/header.jpg?t=1605804551",
+    "Price": 0.99,
+    "Developers": "James Butler",
+    "Publishers": "LSADevelopment",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1456900/ss_277e43c529eec48ba7bf7677c8e3077c165c40ec.1920x1080.jpg?t=1605804551,https://cdn.akamai.steamstatic.com/steam/apps/1456900/ss_72eef9bcbe32e517728d5ad195d82e72a095ca79.1920x1080.jpg?t=1605804551,https://cdn.akamai.steamstatic.com/steam/apps/1456900/ss_8b885559e1a6ea9beddcb2599d172c0f4b7885f5.1920x1080.jpg?t=1605804551,https://cdn.akamai.steamstatic.com/steam/apps/1456900/ss_7b011bab1e57161bdde5242a41583086618b24f7.1920x1080.jpg?t=1605804551,https://cdn.akamai.steamstatic.com/steam/apps/1456900/ss_f1221f1d72382c48a90da1c65e5fbe1a0baed39f.1920x1080.jpg?t=1605804551,https://cdn.akamai.steamstatic.com/steam/apps/1456900/ss_09c9194a62a50eebae7846623829f0e094d1232a.1920x1080.jpg?t=1605804551,https://cdn.akamai.steamstatic.com/steam/apps/1456900/ss_c0919333cf870e7e712c18a3abf8e6254a3ac58b.1920x1080.jpg?t=1605804551",
+    "Slug": "labyrinth",
+    "Meta Title": "Labyrinth: Nov 14, 2020, James Butler and Full Overview",
+    "Meta Description": "Looking for information on Labyrinth? Check out the release date (Nov 14, 2020), developer insights from James Butler, and a complete game summary.",
+    "Alt Text Image": "Official header image for Labyrinth game - Steam 1456900",
+    "Canonical URL": "https://gusku.site/game/labyrinth",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Labyrinth\", \"description\": \"Looking for information on Labyrinth? Check out the release date (Nov 14, 2020), developer insights from James Butler, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 14, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"James Butler\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LSADevelopment\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1456900/header.jpg?t=1605804551\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

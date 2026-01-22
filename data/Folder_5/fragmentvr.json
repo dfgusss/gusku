@@ -1,0 +1,21 @@
+{
+    "AppID": 864790,
+    "Name": "FragmentVR",
+    "Release date": "Mar 1, 2019",
+    "About the game": "FragmentVR is a VR application for HTC Vive owners that makes use of the front camera to create windows onto your surroundings from within virtual reality. FragmentVR puts each view into a SteamVR Overlay so that you can create and use them while inside any other VR game or app. HTC Vive Pro is currently not supported Usage is simple: Place corners using the controller. Once 4 corners have been placed the view is created and remains fixed in 3D space. Upcoming Features &amp; improvements: HTC Vive Pro support other HMDs + external camera support Check out our Discord server to complain about bugs and request features! FragmentVR is only compatible with the standard HTC Vive for now since it is the only HMD with an accessible camera (HTC Vive Pro support is high on the to-do list but not currently supported ).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/864790/header.jpg?t=1563199744",
+    "Price": 8.99,
+    "Developers": "FragmentVR",
+    "Publishers": "FragmentVR",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/864790/ss_735036724b2ac206873bbb6fe004238ec56f440f.1920x1080.jpg?t=1563199744,https://cdn.akamai.steamstatic.com/steam/apps/864790/ss_4998feed22d5e82b6aa11c0cc2df5e2ffeca4a8b.1920x1080.jpg?t=1563199744,https://cdn.akamai.steamstatic.com/steam/apps/864790/ss_fe384011d343bad79ba3995d79f8be72429d7e1f.1920x1080.jpg?t=1563199744,https://cdn.akamai.steamstatic.com/steam/apps/864790/ss_58e2d7eb20f3012bcdd55b50d2c6136c55cb729c.1920x1080.jpg?t=1563199744,https://cdn.akamai.steamstatic.com/steam/apps/864790/ss_e1e7a56e74e0bbb382d0529b6a6b6d6b0011be8b.1920x1080.jpg?t=1563199744",
+    "Slug": "fragmentvr",
+    "Meta Title": "FragmentVR: Mar 1, 2019, FragmentVR and Full Overview",
+    "Meta Description": "Looking for information on FragmentVR? Check out the release date (Mar 1, 2019), developer insights from FragmentVR, and a complete game summary.",
+    "Alt Text Image": "Official header image for FragmentVR game - Steam 864790",
+    "Canonical URL": "https://gusku.site/game/fragmentvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FragmentVR\", \"description\": \"Looking for information on FragmentVR? Check out the release date (Mar 1, 2019), developer insights from FragmentVR, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 1, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"FragmentVR\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"FragmentVR\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/864790/header.jpg?t=1563199744\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

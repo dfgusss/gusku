@@ -1,0 +1,21 @@
+{
+    "AppID": 1264900,
+    "Name": "Simple Farm",
+    "Release date": "Apr 1, 2020",
+    "About the game": "My new game, Cozy Cabin, is now available to Wishlist! - Now with turrets! Grow plants and build guns to fight off daily waves of invading fireflies after a cataclysmic event wipes out the sun! Start off on a small island in the middle of nowhere. A terrible event has wiped out the sun. You’ll have to build lights to grow crops as the island slowly expands, and use those crops to make guns to ward off the fireflies that are attracted to your light. Simple Farm started as a little prototype farming sim, and I released it as such, but it has since grown into a project that I’m really invested in. I can’t wait for your feedback!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1264900/header.jpg?t=1624302702",
+    "Price": 0.99,
+    "Developers": "Charmeager",
+    "Publishers": "Charmeager",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1264900/ss_04cb36049fbfdf27f4f73ab87b0bc69f17385350.1920x1080.jpg?t=1624302702,https://cdn.akamai.steamstatic.com/steam/apps/1264900/ss_abebfaed9a06938d711ea90a37b2f25ff73bf4bb.1920x1080.jpg?t=1624302702,https://cdn.akamai.steamstatic.com/steam/apps/1264900/ss_65c51277c1aa9a2c2d1239b9366e47eb81282509.1920x1080.jpg?t=1624302702,https://cdn.akamai.steamstatic.com/steam/apps/1264900/ss_d3a7a1b05d9b1f60376e77a0fa38f1c48a5061aa.1920x1080.jpg?t=1624302702,https://cdn.akamai.steamstatic.com/steam/apps/1264900/ss_44b0b0f9d591b62c98df2f4c74fff5c992a11e53.1920x1080.jpg?t=1624302702",
+    "Slug": "simple-farm",
+    "Meta Title": "Simple Farm: Apr 1, 2020, Charmeager and Full Overview",
+    "Meta Description": "Looking for information on Simple Farm? Check out the release date (Apr 1, 2020), developer insights from Charmeager, and a complete game summary.",
+    "Alt Text Image": "Official header image for Simple Farm game - Steam 1264900",
+    "Canonical URL": "https://gusku.site/game/simple-farm",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Simple Farm\", \"description\": \"Looking for information on Simple Farm? Check out the release date (Apr 1, 2020), developer insights from Charmeager, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 1, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Charmeager\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Charmeager\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1264900/header.jpg?t=1624302702\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

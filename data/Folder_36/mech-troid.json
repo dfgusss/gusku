@@ -1,0 +1,21 @@
+{
+    "AppID": 789680,
+    "Name": "Mech Troid",
+    "Release date": "Feb 3, 2018",
+    "About the game": "MechTroid is a sci-fi themed shooter, the gameplay consists of shooting your way through the levels getting upgrades as you go and learning the different enemy types like many arcade classics. this game features 8 increasingly difficult levels with varying enemy types that will keep you on your toes.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/789680/header.jpg?t=1518976477",
+    "Price": 0.99,
+    "Developers": "Daimen Gaming",
+    "Publishers": "Daimen Gaming",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/789680/ss_44a29c771aa07e0a372fff81d3bed79d966dac64.1920x1080.jpg?t=1518976477,https://cdn.akamai.steamstatic.com/steam/apps/789680/ss_214768f824030bb119f84b467349d289c381bc1d.1920x1080.jpg?t=1518976477,https://cdn.akamai.steamstatic.com/steam/apps/789680/ss_acaf9b0c641127c362e22d1b7d82b167fee111b3.1920x1080.jpg?t=1518976477,https://cdn.akamai.steamstatic.com/steam/apps/789680/ss_bcb67e1a2aa8dd0e893dba0fdb5307b7857d2f55.1920x1080.jpg?t=1518976477,https://cdn.akamai.steamstatic.com/steam/apps/789680/ss_0be9d3340d2de4b52cba81cc7fce41229447e0e1.1920x1080.jpg?t=1518976477",
+    "Slug": "mech-troid",
+    "Meta Title": "Mech Troid: Feb 3, 2018, Daimen Gaming and Full Overview",
+    "Meta Description": "Looking for information on Mech Troid? Check out the release date (Feb 3, 2018), developer insights from Daimen Gaming, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mech Troid game - Steam 789680",
+    "Canonical URL": "https://gusku.site/game/mech-troid",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mech Troid\", \"description\": \"Looking for information on Mech Troid? Check out the release date (Feb 3, 2018), developer insights from Daimen Gaming, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 3, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Daimen Gaming\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Daimen Gaming\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/789680/header.jpg?t=1518976477\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 804530,
+    "Name": "Cubism",
+    "Release date": "Sep 17, 2020",
+    "About the game": "Challenge your mind in Cubism, a deceptively simple VR puzzle game where you assemble increasingly complex shapes out of colorful blocks. Immerse yourself in a Zen environment as you reason your way through 60 puzzles which will put your spatial thinking skills to the test.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/804530/header.jpg?t=1636713090",
+    "Price": 9.99,
+    "Developers": "Thomas Van Bouwel",
+    "Publishers": "Vanbo LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/804530/ss_ed41ab4131c58428bd497a65f0a994f0ac77cf47.1920x1080.jpg?t=1636713090,https://cdn.akamai.steamstatic.com/steam/apps/804530/ss_bd964ea31b57879cc0e1ba8c6c6cf1c274a3e72e.1920x1080.jpg?t=1636713090,https://cdn.akamai.steamstatic.com/steam/apps/804530/ss_edefa6e2bf30a3f8536421dab4fd0f319ee085ae.1920x1080.jpg?t=1636713090,https://cdn.akamai.steamstatic.com/steam/apps/804530/ss_3a45ba1aae85af81d67c92a5d8dde3b4d6475e05.1920x1080.jpg?t=1636713090,https://cdn.akamai.steamstatic.com/steam/apps/804530/ss_166de1a4feb0ac599edfc4d1af01fec5d9821ece.1920x1080.jpg?t=1636713090,https://cdn.akamai.steamstatic.com/steam/apps/804530/ss_043fd3b29268d125d05f5e60cc45d89d11be46c7.1920x1080.jpg?t=1636713090",
+    "Slug": "cubism",
+    "Meta Title": "Cubism: Sep 17, 2020, Thomas Van Bouwel and Full Overview",
+    "Meta Description": "Looking for information on Cubism? Check out the release date (Sep 17, 2020), developer insights from Thomas Van Bouwel, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cubism game - Steam 804530",
+    "Canonical URL": "https://gusku.site/game/cubism",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cubism\", \"description\": \"Looking for information on Cubism? Check out the release date (Sep 17, 2020), developer insights from Thomas Van Bouwel, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 17, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Thomas Van Bouwel\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vanbo LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/804530/header.jpg?t=1636713090\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

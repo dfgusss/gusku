@@ -1,0 +1,21 @@
+{
+    "AppID": 2190410,
+    "Name": "Beach Runner",
+    "Release date": "Nov 11, 2022",
+    "About the game": "Beach Runner is a casual runner game. Move the block/player so you dont fall into the water. If you touch the water will you start from the begining/start point. Complete the level and start the next level. The level becomes more and more difficult after each level and there are new obstacles. Game Details 25 Levels 1 Epic Level",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2190410/header.jpg?t=1668172591",
+    "Price": 1.39,
+    "Developers": "Frederik Holst",
+    "Publishers": "Frederik Holst",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2190410/ss_4fe587e2d20361fdc8690a2dcbf0e6584ea97b14.1920x1080.jpg?t=1668172591,https://cdn.akamai.steamstatic.com/steam/apps/2190410/ss_1b9f19a83e700abd10068581c97ec246fa023b77.1920x1080.jpg?t=1668172591,https://cdn.akamai.steamstatic.com/steam/apps/2190410/ss_5f472086c9a632a7a3d28590ab143a87f67242c6.1920x1080.jpg?t=1668172591,https://cdn.akamai.steamstatic.com/steam/apps/2190410/ss_36116bbb764c5aad1c0c8e532259b37846de9d46.1920x1080.jpg?t=1668172591,https://cdn.akamai.steamstatic.com/steam/apps/2190410/ss_5a58db18174584eda5433571cf9d43caf50ceec6.1920x1080.jpg?t=1668172591",
+    "Slug": "beach-runner",
+    "Meta Title": "Beach Runner: Nov 11, 2022, Frederik Holst and Full Overview",
+    "Meta Description": "Looking for information on Beach Runner? Check out the release date (Nov 11, 2022), developer insights from Frederik Holst, and a complete game summary.",
+    "Alt Text Image": "Official header image for Beach Runner game - Steam 2190410",
+    "Canonical URL": "https://gusku.site/game/beach-runner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Beach Runner\", \"description\": \"Looking for information on Beach Runner? Check out the release date (Nov 11, 2022), developer insights from Frederik Holst, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Frederik Holst\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Frederik Holst\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2190410/header.jpg?t=1668172591\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

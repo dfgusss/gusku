@@ -1,0 +1,21 @@
+{
+    "AppID": 1851790,
+    "Name": "Dungeon Maker",
+    "Release date": "Jan 7, 2022",
+    "About the game": "Dungeon Maker is a multiplayer application/game to bring your tabletop fantasy role-playing online. Dungeon Maker is designed to work best with the Dungeons and Dragons 5e ruleset, though no content from DnD is included with the game. With Dungeon Maker you can design Characters, Enemies, and NPCs, and set their portraits which will be shared to all players in the game. Dungeon masters can use the Campaign Designer to create a world map for your campaign, and host this campaign to any players without having to have players download the maps. A continually evolving and robust Map Maker will let you create encounters and areas for your players to explore. These maps and encounters are hosted purely by the Dungeon master, so anyone can join without downloading the campaign. Campaigns are hosted over the internet using Steamworks, by IP, or by LAN. Let your play group join you from anywhere. Steamworks provides easy to use multiplayer with player invites, and simple connections to anyone in your friends list. If you want to go the IP route a video tutorial for multiplayer by IP can be found on the Tavarin Games YouTube channel: Players can see the world, interact with NPCs and enemies, and roleplay to their heart's content. Dungeon Masters can switch between maps and encounters, control enemies and NPCs, move players, and control the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1851790/header.jpg?t=1658360538",
+    "Price": 9.99,
+    "Developers": "Brian De La Franier",
+    "Publishers": "Tavarin Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1851790/ss_63a5238c5eabe2ae05837cb2cb978355f46fed0b.1920x1080.jpg?t=1658360538,https://cdn.akamai.steamstatic.com/steam/apps/1851790/ss_6a75451c36344e7fa780131bbdd8c3867054ea1a.1920x1080.jpg?t=1658360538,https://cdn.akamai.steamstatic.com/steam/apps/1851790/ss_d0b6c4576acf83cf25a17a24b21b0ada869104cb.1920x1080.jpg?t=1658360538,https://cdn.akamai.steamstatic.com/steam/apps/1851790/ss_3669c4c927b61be44c34fca160bbb8e4f53745bd.1920x1080.jpg?t=1658360538,https://cdn.akamai.steamstatic.com/steam/apps/1851790/ss_3fb2035997759e5bf79e55b47d80cb6e78421e48.1920x1080.jpg?t=1658360538,https://cdn.akamai.steamstatic.com/steam/apps/1851790/ss_e910c5be698369970093f226cff5b47ec50892ec.1920x1080.jpg?t=1658360538,https://cdn.akamai.steamstatic.com/steam/apps/1851790/ss_5f9d7776dc5f636f735eb0fb568d6e70323358d3.1920x1080.jpg?t=1658360538",
+    "Slug": "dungeon-maker",
+    "Meta Title": "Dungeon Maker: Jan 7, 2022, Brian De La Franier and Full ...",
+    "Meta Description": "Looking for information on Dungeon Maker? Check out the release date (Jan 7, 2022), developer insights from Brian De La Franier, and a complete game sum...",
+    "Alt Text Image": "Official header image for Dungeon Maker game - Steam 1851790",
+    "Canonical URL": "https://gusku.site/game/dungeon-maker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dungeon Maker\", \"description\": \"Looking for information on Dungeon Maker? Check out the release date (Jan 7, 2022), developer insights from Brian De La Franier, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 7, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Brian De La Franier\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tavarin Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1851790/header.jpg?t=1658360538\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

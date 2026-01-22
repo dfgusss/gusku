@@ -1,0 +1,21 @@
+{
+    "AppID": 740270,
+    "Name": "MusicWave",
+    "Release date": "May 1, 2020",
+    "About the game": "Lose yourself in a sea of vibrant lights as you tap along to your favorite electronic music. Music Wave is a challanging Rhythm game for Electronic Dance Music that uses the home row of the keyboard. Players can create, share and download custom tracks through use of third party tools. With a modern skin and beautiful effects, each song will captivate your senses. Gameplay Ranging from difficult to easy, players can play through various EDM songs using ten keys from the home row of the keyboard. Through pressing notes as they traverse across the activation area, players accumulate score. Missing a note or pressing the wrong key losses life whereas hitting notes in succession heals the player. Score is accumulated from both streak and precision. Hitting notes in a row builds streak which applies to the base note value. Base note values are determined by the accuracy of the press. There are three tiers of accuracy. Players must master both precision and consistency to score high. Custom Songs Players can easily create, share, and download custom songs through use of third party tools. This means any song can be turned into a MusicWave track. Songs are generated from midis allowing players to use their favorite midi editing software to create tracks. For more information on creating songs, see the game website. Career Mode There are plans for a career mode, or standard set of songs that grow in difficulty. Unlock new songs by scoring higher in the already unlocked songs. All score in career mode goes towards your career score which can be compared against the world for a global ranking in skill.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/740270/header.jpg?t=1588379444",
+    "Price": 0.0,
+    "Developers": "Stephen Joseph",
+    "Publishers": "PUREHEART",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/740270/ss_75415427541a90fb224f63b605b4f4619bb0ab8a.1920x1080.jpg?t=1588379444,https://cdn.akamai.steamstatic.com/steam/apps/740270/ss_72b111d6ddb12989e0ddc6e1692c1b512d5d5efe.1920x1080.jpg?t=1588379444,https://cdn.akamai.steamstatic.com/steam/apps/740270/ss_009c0214a7fc332ebcc26ecdaa6d5e7b20be5378.1920x1080.jpg?t=1588379444,https://cdn.akamai.steamstatic.com/steam/apps/740270/ss_5aa5e58b53323f937c139d024e6198e3e8f922f5.1920x1080.jpg?t=1588379444,https://cdn.akamai.steamstatic.com/steam/apps/740270/ss_336dd2684fa5e195328f1f59fc91b4a66622ef71.1920x1080.jpg?t=1588379444",
+    "Slug": "musicwave",
+    "Meta Title": "MusicWave: May 1, 2020, Stephen Joseph and Full Overview",
+    "Meta Description": "Looking for information on MusicWave? Check out the release date (May 1, 2020), developer insights from Stephen Joseph, and a complete game summary.",
+    "Alt Text Image": "Official header image for MusicWave game - Steam 740270",
+    "Canonical URL": "https://gusku.site/game/musicwave",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MusicWave\", \"description\": \"Looking for information on MusicWave? Check out the release date (May 1, 2020), developer insights from Stephen Joseph, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 1, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Stephen Joseph\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PUREHEART\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/740270/header.jpg?t=1588379444\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

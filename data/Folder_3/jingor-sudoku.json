@@ -1,0 +1,21 @@
+{
+    "AppID": 1813570,
+    "Name": "jingor sudoku",
+    "Release date": "Dec 3, 2021",
+    "About the game": "Jingor Sudoku is a puzzle game, can be used as a hobby, can challenge intelligence, can be leisure entertainment. Jingor Sudoku is to fill the number between 1 and 8 in Jingor face (the expanding surface of the cube) with some numbers in accordance with the following two rules into the blank nine grid except the middle grid. Rule 1: Each number can appear only once in the same side. The middle grid of the ninth grid is invalid. There are 6 sides. Rule 2: Each number can appear only once in the same edge. There are 12 edges. Summary rule: that is, each number from 1 to 8 can only appear once on each side or edge. It is emphasized that the answer to each Jingor Sudoku is unique The same edge refers to the 8 cells involved by the edge in the cube. Please refer to: The cells circled in red in the figure below are those with the same edge",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1813570/header.jpg?t=1641193221",
+    "Price": 1.99,
+    "Developers": "ZHANG LIDONG",
+    "Publishers": "ZHANG LIDONG",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1813570/ss_c6b1579323d452fd415323f0919e3471a981c3c8.1920x1080.jpg?t=1641193221,https://cdn.akamai.steamstatic.com/steam/apps/1813570/ss_1c618a559acb7eb00b4d4774f6c35d977b5eb06a.1920x1080.jpg?t=1641193221,https://cdn.akamai.steamstatic.com/steam/apps/1813570/ss_9291d904a2a4f3bdedd42e47b263bf249e209227.1920x1080.jpg?t=1641193221,https://cdn.akamai.steamstatic.com/steam/apps/1813570/ss_6028104de09cb7c6799779033a0c2eb37908681b.1920x1080.jpg?t=1641193221,https://cdn.akamai.steamstatic.com/steam/apps/1813570/ss_ac28411ad1a783cdee84d387e0fd738446e8391c.1920x1080.jpg?t=1641193221",
+    "Slug": "jingor-sudoku",
+    "Meta Title": "jingor sudoku: Dec 3, 2021, ZHANG LIDONG and Full Overview",
+    "Meta Description": "Looking for information on jingor sudoku? Check out the release date (Dec 3, 2021), developer insights from ZHANG LIDONG, and a complete game summary.",
+    "Alt Text Image": "Official header image for jingor sudoku game - Steam 1813570",
+    "Canonical URL": "https://gusku.site/game/jingor-sudoku",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"jingor sudoku\", \"description\": \"Looking for information on jingor sudoku? Check out the release date (Dec 3, 2021), developer insights from ZHANG LIDONG, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 3, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"ZHANG LIDONG\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ZHANG LIDONG\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1813570/header.jpg?t=1641193221\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

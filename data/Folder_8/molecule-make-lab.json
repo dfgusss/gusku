@@ -1,0 +1,21 @@
+{
+    "AppID": 1972830,
+    "Name": "Molecule Make Lab",
+    "Release date": "May 13, 2022",
+    "About the game": "Molecule Make Lab is a puzzle game about chemistry, you need to place the atoms in the right places by rotating the hexagons clockwise and counterclockwise until the molecule is formed. Minimalist and elegant There are 100 puzzle levels carefully chosen. Knowledge in chemical is not required *** THIS GAME IT'S NOT AN APPRENTICESHIP WAY *** To molecule representation we chose the model 'Simplified structural form' , in this format the hydrogen can be hidden or grouping in H2 or H3, not being necessary to inform that a connection with a single hydrogen occurs. We selected molecules to be represented in Hexagon form and because of this shape some molecules were adapted to game mechanisms, making it difficult to read the simplified structural form. MiniMap Used the map to navigate between the puzzles Puzzle Organized the atoms in the correct position Challenge Find molecules with huge atom quantity and complex structure",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1972830/header.jpg?t=1652497480",
+    "Price": 0.99,
+    "Developers": "JoyJog",
+    "Publishers": "JoyJog",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1972830/ss_693d92ec46d79dac74d0d7083904fa59544bac7d.1920x1080.jpg?t=1652497480,https://cdn.akamai.steamstatic.com/steam/apps/1972830/ss_e262445c734d9c9e153bb23abacabe8acc95ab83.1920x1080.jpg?t=1652497480,https://cdn.akamai.steamstatic.com/steam/apps/1972830/ss_1d5db8705118ad2e324f2b4cc0b93dbe2432eea4.1920x1080.jpg?t=1652497480,https://cdn.akamai.steamstatic.com/steam/apps/1972830/ss_d2a027c2e1e0abd73d15075ac6f18ff1fe8eed01.1920x1080.jpg?t=1652497480,https://cdn.akamai.steamstatic.com/steam/apps/1972830/ss_3aa399fbf24169ccbb7ebc0c09d6afa888a8604d.1920x1080.jpg?t=1652497480",
+    "Slug": "molecule-make-lab",
+    "Meta Title": "Molecule Make Lab: May 13, 2022, JoyJog and Full Overview",
+    "Meta Description": "Looking for information on Molecule Make Lab? Check out the release date (May 13, 2022), developer insights from JoyJog, and a complete game summary.",
+    "Alt Text Image": "Official header image for Molecule Make Lab game - Steam 1972830",
+    "Canonical URL": "https://gusku.site/game/molecule-make-lab",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Molecule Make Lab\", \"description\": \"Looking for information on Molecule Make Lab? Check out the release date (May 13, 2022), developer insights from JoyJog, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 13, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"JoyJog\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"JoyJog\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1972830/header.jpg?t=1652497480\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

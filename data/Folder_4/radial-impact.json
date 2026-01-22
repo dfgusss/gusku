@@ -1,0 +1,21 @@
+{
+    "AppID": 387890,
+    "Name": "Radial Impact",
+    "Release date": "Aug 3, 2015",
+    "About the game": "Radial Impact is a fast-paced, single-player game that challenges players’ reflexes by matching the sizes of two circles; one static and one dynamic. Game Features: Single-Player. Multiple Game Modes (Classic, Time Trial, and Waves). Simple Mechanics (Click to Interact). Dynamic Circle Sizes and Locations. Developed solely by Devin Sherry. Classic Mode – Overview Game-play focused on getting the highest score. Points earned based on how close the player matches the shape of the circles. Three Lives – Once all lives are lost, the player loses and the game ends. Slow-down ability unlocked if the player gets a Perfect rating 5x in a row. If the player reaches a 10X Perfect multiplier, they earn back a life if one was lost. Lives are lost if the player gets either a Bad or a Miss rating. Saved Data for High Score. Time Trial – Overview Game-play focused on lasting the longest without time running out. Time is added and subtracted based on how close the player matches the shape of the circles. The player starts with 59 seconds until the game ends. Slow-down ability unlocked if the player gets a Perfect rating 5x in a row. Saved Data for Longest Time. -p2m9s Waves Mode – Overview The goal of the player is to earn a score that is larger than the “Score to Beat” for each waves option and set there own high score. There are multiple “Waves” options for the player to choose from. There are 5 Waves, 10 Waves, 25 Waves, and 50 Waves. A “Wave” consists of one turn of the player matching the two circles shapes. At the start, only the “5 Waves” mode is unlocked for the player. As the player scores higher than the “Score to Beat” the player will unlock the higher waves options. Slow-down ability unlocked if the player gets a Perfect rating 5x in a row. Saved Data to track which waves options have been unlocked.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/387890/header.jpg?t=1447377133",
+    "Price": 0.99,
+    "Developers": "Devin Sherry",
+    "Publishers": "Devin Sherry",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/387890/ss_1b80d9eb92c8f9a7b20edf181bacef8abd68b037.1920x1080.jpg?t=1447377133,https://cdn.akamai.steamstatic.com/steam/apps/387890/ss_ca4595369ef0ea6ee6a47daa44ec4ccc06883ac4.1920x1080.jpg?t=1447377133,https://cdn.akamai.steamstatic.com/steam/apps/387890/ss_9f3cb9d23b0442a2a9a507c2d55f5679c5be42d8.1920x1080.jpg?t=1447377133,https://cdn.akamai.steamstatic.com/steam/apps/387890/ss_4e15c873d78bc91d12e48c756cbea107c6bcb113.1920x1080.jpg?t=1447377133,https://cdn.akamai.steamstatic.com/steam/apps/387890/ss_7a2e62a4328888d11c33a0a974a763358e4dacd5.1920x1080.jpg?t=1447377133",
+    "Slug": "radial-impact",
+    "Meta Title": "Radial Impact: Aug 3, 2015, Devin Sherry and Full Overview",
+    "Meta Description": "Looking for information on Radial Impact? Check out the release date (Aug 3, 2015), developer insights from Devin Sherry, and a complete game summary.",
+    "Alt Text Image": "Official header image for Radial Impact game - Steam 387890",
+    "Canonical URL": "https://gusku.site/game/radial-impact",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Radial Impact\", \"description\": \"Looking for information on Radial Impact? Check out the release date (Aug 3, 2015), developer insights from Devin Sherry, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 3, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Devin Sherry\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Devin Sherry\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/387890/header.jpg?t=1447377133\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

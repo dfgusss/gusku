@@ -1,0 +1,21 @@
+{
+    "AppID": 1328750,
+    "Name": "BRDG",
+    "Release date": "Jun 19, 2020",
+    "About the game": "BRDG is a puzzle game about pushing blocks and making bridges. Blocks can be part of a group and that group will move together when pushed. In later levels, blocks can be added or removed from a group. Can you make a bridge to the end in all 28 levels? Keyboard Controls Menu Select: Enter or Space Move: WASD or Arrow Keys Undo: U or Z Reset: R Back: Esc or B The game will also attempt to automatically configure gamepad controls if one is plugged in before running the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1328750/header.jpg?t=1626900756",
+    "Price": 0.99,
+    "Developers": "Robert Alvarez",
+    "Publishers": "Robert Alvarez",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1328750/ss_bbd77fd827eba28f3f3c81a2e91d1bd987b0efcf.1920x1080.jpg?t=1626900756,https://cdn.akamai.steamstatic.com/steam/apps/1328750/ss_8f6d25f39cd9ae55418d2474ab1932e437906c08.1920x1080.jpg?t=1626900756,https://cdn.akamai.steamstatic.com/steam/apps/1328750/ss_4151a6130b2d96f58b57fba36263856e754aa931.1920x1080.jpg?t=1626900756,https://cdn.akamai.steamstatic.com/steam/apps/1328750/ss_b5b178e8dd555d87ea8ab644cf1474b606141585.1920x1080.jpg?t=1626900756,https://cdn.akamai.steamstatic.com/steam/apps/1328750/ss_7b296c8ff9d92a7dffedea21ec217261d3f6b31b.1920x1080.jpg?t=1626900756",
+    "Slug": "brdg",
+    "Meta Title": "BRDG: Jun 19, 2020, Robert Alvarez and Full Overview",
+    "Meta Description": "Looking for information on BRDG? Check out the release date (Jun 19, 2020), developer insights from Robert Alvarez, and a complete game summary.",
+    "Alt Text Image": "Official header image for BRDG game - Steam 1328750",
+    "Canonical URL": "https://gusku.site/game/brdg",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"BRDG\", \"description\": \"Looking for information on BRDG? Check out the release date (Jun 19, 2020), developer insights from Robert Alvarez, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 19, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Robert Alvarez\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Robert Alvarez\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1328750/header.jpg?t=1626900756\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

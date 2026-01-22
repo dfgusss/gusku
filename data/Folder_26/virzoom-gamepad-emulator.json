@@ -1,0 +1,21 @@
+{
+    "AppID": 501280,
+    "Name": "VirZOOM Gamepad Emulator",
+    "Release date": "Jul 29, 2016",
+    "About the game": "The VirZOOM Gamepad Emulator, or VZGE, is an application that allows you to use the VirZOOM Bike Controller as a normal joystick. The application uses the buttons on the bike, the pedal speed, as well as the Oculus or Vive's position tracking as input into games, disguised as normal joystick input. • Use to hookup the VirZOOM bike to compatible PC games • Maps bike data and VR inputs, including player lean, to virtual joystick controls • Currently compatible with Vive and Oculus games launched from Steam (Oculus Home compatibility intended in future update) • Uses per-game configuration files, which players can author and share through the Steam Workspace • Some games additionally require x360ce",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/501280/header.jpg?t=1469824681",
+    "Price": 0.0,
+    "Developers": "VirZOOM",
+    "Publishers": "VirZOOM",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/501280/ss_3504466f33a0533bd9f07a98cf25f236ad8d5145.1920x1080.jpg?t=1469824681,https://cdn.akamai.steamstatic.com/steam/apps/501280/ss_2f898fcbb97c4b4cb3ba0fdbc55318aac766c43e.1920x1080.jpg?t=1469824681,https://cdn.akamai.steamstatic.com/steam/apps/501280/ss_eeb2fff06d1ecd4fd275b3b2999b43f3205009b3.1920x1080.jpg?t=1469824681,https://cdn.akamai.steamstatic.com/steam/apps/501280/ss_f911281a90c0ddc3cea6473c7af461eca21a8210.1920x1080.jpg?t=1469824681,https://cdn.akamai.steamstatic.com/steam/apps/501280/ss_99b0199e5166e3745e8457825da779f94614c2dc.1920x1080.jpg?t=1469824681",
+    "Slug": "virzoom-gamepad-emulator",
+    "Meta Title": "VirZOOM Gamepad Emulator: Jul 29, 2016, VirZOOM and Full ...",
+    "Meta Description": "Looking for information on VirZOOM Gamepad Emulator? Check out the release date (Jul 29, 2016), developer insights from VirZOOM, and a complete game sum...",
+    "Alt Text Image": "Official header image for VirZOOM Gamepad Emulator game - Steam 501280",
+    "Canonical URL": "https://gusku.site/game/virzoom-gamepad-emulator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VirZOOM Gamepad Emulator\", \"description\": \"Looking for information on VirZOOM Gamepad Emulator? Check out the release date (Jul 29, 2016), developer insights from VirZOOM, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 29, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"VirZOOM\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"VirZOOM\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/501280/header.jpg?t=1469824681\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

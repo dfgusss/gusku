@@ -1,0 +1,21 @@
+{
+    "AppID": 1231710,
+    "Name": "Super Foosball",
+    "Release date": "Feb 20, 2020",
+    "About the game": "Super Foosball is an arcade inspired Foosball game. First player to score 5 goals will win. The game contains both a single and multiplayer mode. Note: The game does NOT have matchmaking. You must forward port 7777 to play with your friend. Only the person hosting has to do this. Keyboard + Mouse Q W E R to select a pole Mouse movement to move poles Hold left or right click and scroll to rotate characters Scroll to kick the ball Keyboard only Q W E R to select pole Up / Down to move poles Left / Right to rotate characters Space to kick the ball This is a remake of an older game I created a few years ago. The previous game was a tech demo and I felt it deserved a bit of more polish. Music : Racing Cars by @SuperSonicDash",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1231710/header.jpg?t=1583731011",
+    "Price": 0.0,
+    "Developers": "DenyingProduct",
+    "Publishers": "DenyingProduct",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1231710/ss_37e3115129a9d0ab069d0f8bee1cffca9c07a9c2.1920x1080.jpg?t=1583731011,https://cdn.akamai.steamstatic.com/steam/apps/1231710/ss_5f557e67630a933c5efe92e55fe1bbdb884466e9.1920x1080.jpg?t=1583731011,https://cdn.akamai.steamstatic.com/steam/apps/1231710/ss_09bcccf22a8a0f8941f2b7faa5807cf5bc758e4d.1920x1080.jpg?t=1583731011,https://cdn.akamai.steamstatic.com/steam/apps/1231710/ss_faee3224d0ef706c2dd52801d7f7cd6006d0b03d.1920x1080.jpg?t=1583731011,https://cdn.akamai.steamstatic.com/steam/apps/1231710/ss_16bfa93b48061dec051bb12d4c6e6667e2a9366e.1920x1080.jpg?t=1583731011",
+    "Slug": "super-foosball",
+    "Meta Title": "Super Foosball: Feb 20, 2020, DenyingProduct and Full Ove...",
+    "Meta Description": "Looking for information on Super Foosball? Check out the release date (Feb 20, 2020), developer insights from DenyingProduct, and a complete game summary.",
+    "Alt Text Image": "Official header image for Super Foosball game - Steam 1231710",
+    "Canonical URL": "https://gusku.site/game/super-foosball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Super Foosball\", \"description\": \"Looking for information on Super Foosball? Check out the release date (Feb 20, 2020), developer insights from DenyingProduct, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 20, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"DenyingProduct\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DenyingProduct\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1231710/header.jpg?t=1583731011\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

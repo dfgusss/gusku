@@ -1,0 +1,21 @@
+{
+    "AppID": 1529240,
+    "Name": "AudiobookConverter",
+    "Release date": "Apr 12, 2021",
+    "About the game": "History AudioBookConverter was originally designed as a simple and lightweight application to convert a set of mp3 files to single or set of m4b (aac) files to be played on your mobile device (or any device now). Now Over time AudioBookConverter evolved and currently can support conversion of most of the popular formats (mp3, wma, m4a, flac) to m4b, mp3, ogg. It also can handle existing m4b files and process them with chapters, artwork and other meta information. AudioBookConverter can work smart to find relevant artwork and can do advanced chapter management. Features Parallel encoding of files: more cores - faster results (unlike other legacy encoders which use single core from your '24-core beast') Parallel processing of conversions queue: prepare next book while encoding another Smart artwork support: combined from MP3 artwork and cover files from MP3 directory or copy and paste picture from internet Unicode tags support: keep tags in own language Flexible quality management: find balance between size and quality, managed by prebuilt and custom presets Instant preview: listen what you are going to encode Simple and lightweight user interface: convert a book with few clicks Advanced chapters support: combining multiple mp3 into single chapter re-import existing chapters from existing m4a/m4b loading chapters information from mp3 or cue files splitting monolithic file into chapters automatic naming of chapters based on metadata or filename of source files",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1529240/header.jpg?t=1640257305",
+    "Price": 4.99,
+    "Developers": "Recoupler",
+    "Publishers": "Recoupler",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1529240/ss_8106f545023657b3a78dcd8fd5850ada2f1b8070.1920x1080.jpg?t=1640257305,https://cdn.akamai.steamstatic.com/steam/apps/1529240/ss_6d98a7a7db4982349a200645cf29ebe56cb7cf99.1920x1080.jpg?t=1640257305,https://cdn.akamai.steamstatic.com/steam/apps/1529240/ss_9047b49031088bd9e585d1f8cb284b3838193f9c.1920x1080.jpg?t=1640257305,https://cdn.akamai.steamstatic.com/steam/apps/1529240/ss_1f9894d8e51709a20a5366df6c2495583b9ed1e7.1920x1080.jpg?t=1640257305,https://cdn.akamai.steamstatic.com/steam/apps/1529240/ss_6baa06b1609afe4ef2e82d265bc8c25a0b69dda5.1920x1080.jpg?t=1640257305",
+    "Slug": "audiobookconverter",
+    "Meta Title": "AudiobookConverter: Apr 12, 2021, Recoupler and Full Over...",
+    "Meta Description": "Looking for information on AudiobookConverter? Check out the release date (Apr 12, 2021), developer insights from Recoupler, and a complete game summary.",
+    "Alt Text Image": "Official header image for AudiobookConverter game - Steam 1529240",
+    "Canonical URL": "https://gusku.site/game/audiobookconverter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"AudiobookConverter\", \"description\": \"Looking for information on AudiobookConverter? Check out the release date (Apr 12, 2021), developer insights from Recoupler, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 12, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Recoupler\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Recoupler\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1529240/header.jpg?t=1640257305\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

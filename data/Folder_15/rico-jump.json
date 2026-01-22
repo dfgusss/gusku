@@ -1,0 +1,21 @@
+{
+    "AppID": 1328490,
+    "Name": "Rico-Jump",
+    "Release date": "Jan 24, 2021",
+    "About the game": "Welcome to Rico-Jump! Rico-Jump is a single-/multiplayer 3D-Platform racer, where you try to beat the leaderboard by skillfully maneuvering through a futuristic obstacle course. The movement mechanics are similar to the popular e-Sport title 'Counter-Strike' and should therefore be familiar to most people. The concept of using the jump-pads and maneuvering mid-air is easy to learn, but be assured, it is hard to master. A map editor offers the possibilities to create your own Rico-Jump courses to challange your friends and the world. Additionally, it offers 3 extra game modes, where you are able to throw balls at one another trying push other people off their platforms. This is implemented as a Deathmatch-Mode as well as a Battle Royal-mode, with falling platforms. The third game mode is a coop-based team-game. This game is in early 'Early Access' as I am developing it besides my full-time job as a hobby. So expect some bugs and unpolished UI. I hope you enjoy it and feel free to hit me up with your opinions and suggestions. :) Current Features Jump through existing or self-made obstacle courses Global leaderboards (challange your friends high-scores!) Multiplayer! Chat Map editor Very ugly hats to put on your robot!!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1328490/header.jpg?t=1612777423",
+    "Price": 0.0,
+    "Developers": "Christopher Juerges",
+    "Publishers": "Christopher Juerges",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1328490/ss_548da2868a9eb0502c35399022f66110a34751ca.1920x1080.jpg?t=1612777423,https://cdn.akamai.steamstatic.com/steam/apps/1328490/ss_c83941393b5bf9c67d31e2f4af0d6a2fad7ac8f3.1920x1080.jpg?t=1612777423,https://cdn.akamai.steamstatic.com/steam/apps/1328490/ss_f0123ac466bc22c07a83fa320df4878a13c73f1f.1920x1080.jpg?t=1612777423,https://cdn.akamai.steamstatic.com/steam/apps/1328490/ss_0bc1da194eec3853d18cad1f0255f60c0730945c.1920x1080.jpg?t=1612777423,https://cdn.akamai.steamstatic.com/steam/apps/1328490/ss_f0d667162da7e11e5d0acee6e9b9378557dc62dd.1920x1080.jpg?t=1612777423",
+    "Slug": "rico-jump",
+    "Meta Title": "Rico-Jump: Jan 24, 2021, Christopher Juerges and Full Ove...",
+    "Meta Description": "Looking for information on Rico-Jump? Check out the release date (Jan 24, 2021), developer insights from Christopher Juerges, and a complete game summary.",
+    "Alt Text Image": "Official header image for Rico-Jump game - Steam 1328490",
+    "Canonical URL": "https://gusku.site/game/rico-jump",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Rico-Jump\", \"description\": \"Looking for information on Rico-Jump? Check out the release date (Jan 24, 2021), developer insights from Christopher Juerges, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 24, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Christopher Juerges\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Christopher Juerges\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1328490/header.jpg?t=1612777423\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

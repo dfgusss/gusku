@@ -1,0 +1,21 @@
+{
+    "AppID": 2078210,
+    "Name": "Bulls and Cows",
+    "Release date": "Oct 11, 2022",
+    "About the game": "Bulls and cows is an ancient puzzle game of password cracking. Now, we make the process of this game more concise and interesting. Take advantage of limited opportunities to guess a random four digit number. Every time you guess, you can get a prompt about whether the number and position are correct, until you guess the correct answer (victory), or use up all opportunities (failure). According to different difficulty and guess times, corresponding points will be obtained. Game mode In simple mode, the answer does not contain duplicate numbers. The hard mode may contain repeated numbers - which will greatly increase the difficulty and, of course, obtain higher points. Achievement Unlock new achievements after obtaining certain points or completing specified tasks. Expectation If more people like it, we hope to continue to improve it, especially the introduction of battle mode and leaderboard, so that people from all over the world can play together.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2078210/header.jpg?t=1665514818",
+    "Price": 1.99,
+    "Developers": "ClassJoy",
+    "Publishers": "ClassJoy",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2078210/ss_99433fb6dfffc78769f11deae0a66b95d74b3d77.1920x1080.jpg?t=1665514818,https://cdn.akamai.steamstatic.com/steam/apps/2078210/ss_470ad03c024ead2290ad578d7bb855c6c1a41a86.1920x1080.jpg?t=1665514818,https://cdn.akamai.steamstatic.com/steam/apps/2078210/ss_0e405d2c4e0ba44506165e1d2a8279520687a5c2.1920x1080.jpg?t=1665514818,https://cdn.akamai.steamstatic.com/steam/apps/2078210/ss_df329f995d54421ed7d9f2a47b102b0e17cb6c64.1920x1080.jpg?t=1665514818,https://cdn.akamai.steamstatic.com/steam/apps/2078210/ss_97073b92d7fceee2a0c6feefc2d581bce0818b6e.1920x1080.jpg?t=1665514818",
+    "Slug": "bulls-and-cows",
+    "Meta Title": "Bulls and Cows: Oct 11, 2022, ClassJoy and Full Overview",
+    "Meta Description": "Looking for information on Bulls and Cows? Check out the release date (Oct 11, 2022), developer insights from ClassJoy, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bulls and Cows game - Steam 2078210",
+    "Canonical URL": "https://gusku.site/game/bulls-and-cows",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bulls and Cows\", \"description\": \"Looking for information on Bulls and Cows? Check out the release date (Oct 11, 2022), developer insights from ClassJoy, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 11, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"ClassJoy\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ClassJoy\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2078210/header.jpg?t=1665514818\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

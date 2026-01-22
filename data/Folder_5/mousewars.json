@@ -1,0 +1,21 @@
+{
+    "AppID": 1173610,
+    "Name": "MouseWars",
+    "Release date": "Dec 5, 2019",
+    "About the game": "MouseWars is a real time multiplayer cursor war game. The cursors have to fight until only one remains. Features: Play online with your friends or practice with bots Play an exclusive offline, local multiplayer mode by plugging multiple USB mice, or gamepads Two game modes: All vs all and Team vs team Two score types: Deathmatch and Survival 9 types of attacks Up to 8 players per room In-game chat Servers for South America , North America and Europe",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1173610/header.jpg?t=1646693910",
+    "Price": 0.0,
+    "Developers": "[r]labs",
+    "Publishers": "[r]labs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1173610/ss_289b97d2eb358086c041ff67dd6d59ac72005eff.1920x1080.jpg?t=1646693910,https://cdn.akamai.steamstatic.com/steam/apps/1173610/ss_a246e80e65cb2936707cf7efea61c1118db9300c.1920x1080.jpg?t=1646693910,https://cdn.akamai.steamstatic.com/steam/apps/1173610/ss_cd12cf1365f0a0af908fc3c10aae19db8d7af336.1920x1080.jpg?t=1646693910,https://cdn.akamai.steamstatic.com/steam/apps/1173610/ss_b0c6bf35e67a9c45c69e173ee74842b5531ef5a6.1920x1080.jpg?t=1646693910,https://cdn.akamai.steamstatic.com/steam/apps/1173610/ss_944fdb9d187fda478c3625c60b79954c85774deb.1920x1080.jpg?t=1646693910",
+    "Slug": "mousewars",
+    "Meta Title": "MouseWars: Dec 5, 2019, [r]labs and Full Overview",
+    "Meta Description": "Looking for information on MouseWars? Check out the release date (Dec 5, 2019), developer insights from [r]labs, and a complete game summary.",
+    "Alt Text Image": "Official header image for MouseWars game - Steam 1173610",
+    "Canonical URL": "https://gusku.site/game/mousewars",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MouseWars\", \"description\": \"Looking for information on MouseWars? Check out the release date (Dec 5, 2019), developer insights from [r]labs, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 5, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"[r]labs\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"[r]labs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1173610/header.jpg?t=1646693910\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

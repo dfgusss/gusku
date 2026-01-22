@@ -1,0 +1,21 @@
+{
+    "AppID": 1532780,
+    "Name": "The Magnets",
+    "Release date": "Feb 25, 2021",
+    "About the game": "The Magnets is a logic puzzle game whose goal is to make the balls fall onto the same colored platforms by using the magnets to push or pull the blocks. The magnets push the blocks of the same color and pull the different colored blocks , only if the number on the magnets is greater than the number on the block. The numbers on the magnet show their strength against the blocks , and also how many squares their field of view and impact area are. No time and life limitation Difficulty increases steadily along the course of the game You can undo your move or restart the level whenever you want You can quit from a puzzle whenever you want, then you can come back and continue where you left off",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1532780/header.jpg?t=1628347214",
+    "Price": 2.99,
+    "Developers": "Onuralp Kanatsz",
+    "Publishers": "Onuralp Kanatsz",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1532780/ss_516c75de0c9c57344306bea3891a9e8d08329a25.1920x1080.jpg?t=1628347214,https://cdn.akamai.steamstatic.com/steam/apps/1532780/ss_d3b014fb0e5ba442605001efaaf9b3a20be95083.1920x1080.jpg?t=1628347214,https://cdn.akamai.steamstatic.com/steam/apps/1532780/ss_fe8d6ba3638f5f6b7f1b6bf3b65d6e28aaf1dd5d.1920x1080.jpg?t=1628347214,https://cdn.akamai.steamstatic.com/steam/apps/1532780/ss_4e7eb8ff852ba84e8bd730fb71c07c48d266ca7c.1920x1080.jpg?t=1628347214,https://cdn.akamai.steamstatic.com/steam/apps/1532780/ss_7cd81468d7f251dbdd67fa2f6e6629e499755514.1920x1080.jpg?t=1628347214",
+    "Slug": "the-magnets",
+    "Meta Title": "The Magnets: Feb 25, 2021, Onuralp Kanatsz and Full Overview",
+    "Meta Description": "Looking for information on The Magnets? Check out the release date (Feb 25, 2021), developer insights from Onuralp Kanatsz, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Magnets game - Steam 1532780",
+    "Canonical URL": "https://gusku.site/game/the-magnets",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Magnets\", \"description\": \"Looking for information on The Magnets? Check out the release date (Feb 25, 2021), developer insights from Onuralp Kanatsz, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 25, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Onuralp Kanatsz\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Onuralp Kanatsz\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1532780/header.jpg?t=1628347214\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1738880,
+    "Name": "Gewevo : Interstellar",
+    "Release date": "Sep 30, 2021",
+    "About the game": "Hi, with no money and only goodwill, I embarked on the game creation adventure this year with Unreal Engine 4 part-time. Despite the difficulties and my lack of experience, I decided to make one of my childhood dreams come true. What is Gewevo : Interstellaire ? It is a real-time space strategy game inspired by the universe of Gewevo where you have to develop your planets, colonize others and conquer the last. There is also a more wargame oriented approach to some aspects of empire management. To put it simply, this is it. What is Gewevo ? Gewevo is a science-fantasy univers and a tabletop RPG originally (findable on Lulu) which is expanding regularly with novels (also found on Lulu and Wattpad) and now a video game. Why that strange name of Gewevo ? Why not. Why such simplistic graphics ? Because I have no talent for it. Implemented features Random map generation ; One race with one faction ; Construction of buildings on planet ; fleet and ship production ; Tech tree ; Division customisation (HoI4-like) ; Ship customisation ; No microtransaction. Planed improvements More parameters for random map generation ; More races and factions ; Custom races and factions ; Tech tree extension ; More personnalized ship ; Add an AI ; Add a political system ; Add diplomacy ; Add a campaign ; Achievements ; Even less microtransaction.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1738880/header.jpg?t=1637073874",
+    "Price": 11.99,
+    "Developers": "Victor Filipiak",
+    "Publishers": "Victor Filipiak",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1738880/ss_db6035b2c64b466a4ed3109707195944b7f3f944.1920x1080.jpg?t=1637073874,https://cdn.akamai.steamstatic.com/steam/apps/1738880/ss_9ae50dffd22695e990d5f4b1c5396e6720b26118.1920x1080.jpg?t=1637073874,https://cdn.akamai.steamstatic.com/steam/apps/1738880/ss_be13c508a6b4221596bf97158637297e08a84c45.1920x1080.jpg?t=1637073874,https://cdn.akamai.steamstatic.com/steam/apps/1738880/ss_2382bca9847ee1aab150b087bc285d0bdc807e82.1920x1080.jpg?t=1637073874,https://cdn.akamai.steamstatic.com/steam/apps/1738880/ss_4c3805c9c326cf52b8f4eaabaa326edc49031e11.1920x1080.jpg?t=1637073874,https://cdn.akamai.steamstatic.com/steam/apps/1738880/ss_96e5ff48c55079e0d33114e6d08fee0f624b99b9.1920x1080.jpg?t=1637073874",
+    "Slug": "gewevo-interstellar",
+    "Meta Title": "Gewevo : Interstellar: Sep 30, 2021, Victor Filipiak and ...",
+    "Meta Description": "Looking for information on Gewevo : Interstellar? Check out the release date (Sep 30, 2021), developer insights from Victor Filipiak, and a complete gam...",
+    "Alt Text Image": "Official header image for Gewevo : Interstellar game - Steam 1738880",
+    "Canonical URL": "https://gusku.site/game/gewevo-interstellar",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Gewevo : Interstellar\", \"description\": \"Looking for information on Gewevo : Interstellar? Check out the release date (Sep 30, 2021), developer insights from Victor Filipiak, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Victor Filipiak\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Victor Filipiak\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1738880/header.jpg?t=1637073874\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

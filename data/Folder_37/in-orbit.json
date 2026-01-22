@@ -1,0 +1,21 @@
+{
+    "AppID": 1001550,
+    "Name": "In Orbit",
+    "Release date": "Jan 18, 2019",
+    "About the game": "In Orbit is an interactive virtual reality experience made with data from NASA's Earth Science satellites. What if you could step inside the unseen phenomena of our planet? What if your curiosity could transform the world around you? In Orbit transforms data collected by NASA’s “Eyes on Earth”—the satellites relaying information about our climate, oceans, and soil from thousands of miles above our heads—into a multisensory, interactive experience that celebrates the marvelous complexities of our planet and our drive to unravel them. By creating a delightful way for everyone to have a dialogue with earth science data, In Orbit hopes to provoke a renewed curiosity about our planet, a passion for its infinite wonders, and a deeper connection to the only home we have. In Orbit is a collaboration between MAP Design Lab and Microsoft, NASA’s Jet Propulsion Laboratory, The Huntington Library, and Composer Shane Myrbeck.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1001550/header.jpg?t=1550597592",
+    "Price": 0.0,
+    "Developers": "MAP Design Lab",
+    "Publishers": "MAP Design Lab",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1001550/ss_7345260846381cc399c5874840106c0e2c7a2233.1920x1080.jpg?t=1550597592,https://cdn.akamai.steamstatic.com/steam/apps/1001550/ss_eb2e5e8c6854eb11b4cb35ea5421e8bb24625ced.1920x1080.jpg?t=1550597592,https://cdn.akamai.steamstatic.com/steam/apps/1001550/ss_5e79bf4be36155ec9923d2b43ff8d917569a4b3d.1920x1080.jpg?t=1550597592,https://cdn.akamai.steamstatic.com/steam/apps/1001550/ss_8568e869704a5b3e093bd5d18eb841dfe71ea63f.1920x1080.jpg?t=1550597592,https://cdn.akamai.steamstatic.com/steam/apps/1001550/ss_a37ff30733d7976e21788949800b00d5a5d32979.1920x1080.jpg?t=1550597592",
+    "Slug": "in-orbit",
+    "Meta Title": "In Orbit: Jan 18, 2019, MAP Design Lab and Full Overview",
+    "Meta Description": "Looking for information on In Orbit? Check out the release date (Jan 18, 2019), developer insights from MAP Design Lab, and a complete game summary.",
+    "Alt Text Image": "Official header image for In Orbit game - Steam 1001550",
+    "Canonical URL": "https://gusku.site/game/in-orbit",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"In Orbit\", \"description\": \"Looking for information on In Orbit? Check out the release date (Jan 18, 2019), developer insights from MAP Design Lab, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 18, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"MAP Design Lab\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MAP Design Lab\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1001550/header.jpg?t=1550597592\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

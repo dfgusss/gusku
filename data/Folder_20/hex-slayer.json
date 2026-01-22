@@ -1,0 +1,21 @@
+{
+    "AppID": 1408350,
+    "Name": "Hex Slayer",
+    "Release date": "Oct 15, 2020",
+    "About the game": "Hex Slayer is a turn-based strategy game where the goal is to conquer the island. Featuring special classes and custom campaigns, expand your kingdom and outwit the enemy by building huts, towers, and powerful units. Watch your upkeep! Each map offers a unique challenge and an opportunity to fine-tune your strategy. Track your score against fellow players on the global leaderboards. Features include: Three game modes: Campaign, Battle and Endless Five special classes with unique units: 256 maps with global leaderboards Eight difficulty levels from 'Easy' to 'Impossible' 'Endless' mode featuring procedurally-generated maps of increasing difficulty Bonus scoreboards for classes, regions, Endless mode, and total cumulative score",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1408350/header.jpg?t=1602786865",
+    "Price": 11.99,
+    "Developers": "Shatterproof",
+    "Publishers": "Shatterproof",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1408350/ss_d1869bdd47112efc4fb89961f402aeea1ed40bf4.1920x1080.jpg?t=1602786865,https://cdn.akamai.steamstatic.com/steam/apps/1408350/ss_e1352139d75244395688f545ab65b5eabbff9f3f.1920x1080.jpg?t=1602786865,https://cdn.akamai.steamstatic.com/steam/apps/1408350/ss_124f141a82e1bfb839b43a27a3e4ea8e603546c4.1920x1080.jpg?t=1602786865,https://cdn.akamai.steamstatic.com/steam/apps/1408350/ss_eb97a34a9ce8f6483ba258b594576562ccaca674.1920x1080.jpg?t=1602786865,https://cdn.akamai.steamstatic.com/steam/apps/1408350/ss_d458585c657794896d22e073723a6ba7a0ba82cc.1920x1080.jpg?t=1602786865",
+    "Slug": "hex-slayer",
+    "Meta Title": "Hex Slayer: Oct 15, 2020, Shatterproof and Full Overview",
+    "Meta Description": "Looking for information on Hex Slayer? Check out the release date (Oct 15, 2020), developer insights from Shatterproof, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hex Slayer game - Steam 1408350",
+    "Canonical URL": "https://gusku.site/game/hex-slayer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hex Slayer\", \"description\": \"Looking for information on Hex Slayer? Check out the release date (Oct 15, 2020), developer insights from Shatterproof, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 15, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Shatterproof\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Shatterproof\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1408350/header.jpg?t=1602786865\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1404970,
+    "Name": "Sponsor-A-Planet",
+    "Release date": "Oct 12, 2020",
+    "About the game": "Thank you for your interest in Sponsor-A-Planet! Sponsor-A-Planet provides you a planet with life. It will try to survive, build and thrive, whether or not you decide to intervene. Gameplay: The core gameplay involves observing the AI characters as they go about their day doing what they do, and watching as they turn the somewhat sparse and barren landscape into a more lively and developed environment. The player has the option to spawn more AI (gold dependent) to increase development speed. There is only one way to spawn gold resources, a gold platform underneath the gazebo. Features: Currently implemented features include first-person movement using the WASD keys, Spacebar for jump, F key to fly, LeftShift to sprint, LeftCtrl to crouch, and E key to spawn AI characters. The AI characters will walk around and look for gold resources to purchases houses. AI characters have different modes and glowing eyes corresponding to the mode they are in. For instance, yellow eyes represents random wander mode, bright blue for gold pickup mode, dark blue for resting mode.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1404970/header.jpg?t=1602558438",
+    "Price": 1.99,
+    "Developers": "TheTallJS",
+    "Publishers": "TheTallJS",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1404970/ss_c990d7284a8e9defb7fe6b0950aa03904c17dad9.1920x1080.jpg?t=1602558438,https://cdn.akamai.steamstatic.com/steam/apps/1404970/ss_3674056ee7b5d337b165f9bf1e743c2d9ea829f4.1920x1080.jpg?t=1602558438,https://cdn.akamai.steamstatic.com/steam/apps/1404970/ss_430d9ddebb9500d47b39707159c62a2036475894.1920x1080.jpg?t=1602558438,https://cdn.akamai.steamstatic.com/steam/apps/1404970/ss_b04299127439e8e7d2848a251a0a839d8776475b.1920x1080.jpg?t=1602558438,https://cdn.akamai.steamstatic.com/steam/apps/1404970/ss_66288101a964bcd9255b09c5e5bec4067ee32a0f.1920x1080.jpg?t=1602558438,https://cdn.akamai.steamstatic.com/steam/apps/1404970/ss_e9b8a6af94ce1aaebb4d57dc6c8300e7b241c0c5.1920x1080.jpg?t=1602558438,https://cdn.akamai.steamstatic.com/steam/apps/1404970/ss_73a0d4744d16a9f10f3914ad4fc2d31f6915998b.1920x1080.jpg?t=1602558438",
+    "Slug": "sponsor-a-planet",
+    "Meta Title": "Sponsor-A-Planet: Oct 12, 2020, TheTallJS and Full Overview",
+    "Meta Description": "Looking for information on Sponsor-A-Planet? Check out the release date (Oct 12, 2020), developer insights from TheTallJS, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sponsor-A-Planet game - Steam 1404970",
+    "Canonical URL": "https://gusku.site/game/sponsor-a-planet",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sponsor-A-Planet\", \"description\": \"Looking for information on Sponsor-A-Planet? Check out the release date (Oct 12, 2020), developer insights from TheTallJS, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 12, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"TheTallJS\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TheTallJS\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1404970/header.jpg?t=1602558438\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

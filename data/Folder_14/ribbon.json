@@ -1,0 +1,21 @@
+{
+    "AppID": 1132300,
+    "Name": "Ribbon",
+    "Release date": "Aug 30, 2019",
+    "About the game": "Ribbon is a simple game where you move and create trial to fill limited space, meanwhile not to fly out of space and not to collide with trail. There are 10 different maps and free mode where you can fly at your will. Game Mechanism Player fly in specific space with colorful trail generate behind like a ribbon. The trail should not collide with solid body and self meanwhile not to fly out of space. The longer you fly, the higher the score you get also the harder the game will be because you tail will fill the space. There are 10 different map4 and 4 optional trail patterns for now. There is also free mode where you can fly without consider any collision for relax. Local multiplayer support require 1 or 2 Xbox One controller. Game Control Game support mouse and Xbox One controller. Use mouse or joystick to control direction. Use mouse left and right button or controller shoulder button to rotate. Press 'ESC“ or B to show and hide in-game menu.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1132300/header.jpg?t=1567177288",
+    "Price": 1.99,
+    "Developers": "Evade Game",
+    "Publishers": "Evade Game",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1132300/ss_c096b85877b0f56ae1b8b0fe89bc5a353be3f7d6.1920x1080.jpg?t=1567177288,https://cdn.akamai.steamstatic.com/steam/apps/1132300/ss_94614b1176d10f8153ea9d1c54971424069e109f.1920x1080.jpg?t=1567177288,https://cdn.akamai.steamstatic.com/steam/apps/1132300/ss_a37744f554fea7f49b9a9b3c53e3f7d46fc8095f.1920x1080.jpg?t=1567177288,https://cdn.akamai.steamstatic.com/steam/apps/1132300/ss_e7392e3070c3387499f6e33d3cfe02282c2a71da.1920x1080.jpg?t=1567177288,https://cdn.akamai.steamstatic.com/steam/apps/1132300/ss_1a1d2d5e7fb607407fa4d1e74e7a27d6f79ead22.1920x1080.jpg?t=1567177288",
+    "Slug": "ribbon",
+    "Meta Title": "Ribbon: Aug 30, 2019, Evade Game and Full Overview",
+    "Meta Description": "Looking for information on Ribbon? Check out the release date (Aug 30, 2019), developer insights from Evade Game, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ribbon game - Steam 1132300",
+    "Canonical URL": "https://gusku.site/game/ribbon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ribbon\", \"description\": \"Looking for information on Ribbon? Check out the release date (Aug 30, 2019), developer insights from Evade Game, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 30, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Evade Game\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Evade Game\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1132300/header.jpg?t=1567177288\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

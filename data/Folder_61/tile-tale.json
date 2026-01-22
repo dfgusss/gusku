@@ -1,0 +1,21 @@
+{
+    "AppID": 2055270,
+    "Name": "Tile Tale",
+    "Release date": "Jun 18, 2022",
+    "About the game": "Tile Tale is a game where you push tiles into a grid. The amount of tiles you have is limited and once you've used up all your tiles, the game ends. If you form geometric fields of the same tile type, for example, a 2 by 2 of forest tiles, you score points and gain new tiles. Complete challenges to unlock new content! Find all the different tile types. A lot of them have their own special rules! Create cool worlds, like islands, swamps or mountain ranges. Construct a special building tiles, like windmills, a town hall or a rocket! Each building has its own special ability. For example, the windmill turns surrounding grasslands into wheat field tiles each turn. Wheat field tiles yield a lot of points, but less new tiles when combined. Beware of portals. They spawn evil creatures that corrupt your tiles! Use special powerups to solve seemingly unsolvable situations.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2055270/header.jpg?t=1655559416",
+    "Price": 4.99,
+    "Developers": "Sokpop Collective",
+    "Publishers": "Sokpop Collective",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2055270/ss_d87d0df8d01015b70f4ed1fbbaeecaed90992d89.1920x1080.jpg?t=1655559416,https://cdn.akamai.steamstatic.com/steam/apps/2055270/ss_fe61f053e31be184ede7202a5906a80a9f76492b.1920x1080.jpg?t=1655559416,https://cdn.akamai.steamstatic.com/steam/apps/2055270/ss_9c2188fb8756e9d99d86f1fbcf803d23ac5b9001.1920x1080.jpg?t=1655559416,https://cdn.akamai.steamstatic.com/steam/apps/2055270/ss_da914c90f1e5ddd92d50080904b993f2a65be294.1920x1080.jpg?t=1655559416,https://cdn.akamai.steamstatic.com/steam/apps/2055270/ss_8dadbf5724f887a90d0795127e4894d1c4b4d6ef.1920x1080.jpg?t=1655559416,https://cdn.akamai.steamstatic.com/steam/apps/2055270/ss_cebac60f9c6e076182c5b9ccf3f72ce96577f5cc.1920x1080.jpg?t=1655559416",
+    "Slug": "tile-tale",
+    "Meta Title": "Tile Tale: Jun 18, 2022, Sokpop Collective and Full Overview",
+    "Meta Description": "Looking for information on Tile Tale? Check out the release date (Jun 18, 2022), developer insights from Sokpop Collective, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tile Tale game - Steam 2055270",
+    "Canonical URL": "https://gusku.site/game/tile-tale",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tile Tale\", \"description\": \"Looking for information on Tile Tale? Check out the release date (Jun 18, 2022), developer insights from Sokpop Collective, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 18, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sokpop Collective\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sokpop Collective\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2055270/header.jpg?t=1655559416\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

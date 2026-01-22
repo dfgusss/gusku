@@ -1,0 +1,21 @@
+{
+    "AppID": 1345900,
+    "Name": "Space Defense Grid",
+    "Release date": "May 24, 2022",
+    "About the game": "'Space Defense Grid' is a tower defense game. The enemies in the game will attack the energy center, steal energy and then escape. Players need to build defense grid according to different levels. It should be noted that different enemies have their own characteristics, such as some enemies get energy and speed up to escape, or open the energy shield, etc. players need to adjust the grid specifically, in addition,The game designs the enemy's shield and weapon's armor penetration, For example, the armor penetration of weapon a is 3, the shield value of enemy B is 4, the damage of a attacking B is reduced by 10%, and the effect range of weapon to enemy is 10% - 100%.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1345900/header.jpg?t=1653435073",
+    "Price": 5.99,
+    "Developers": "Circuit Cat Studio",
+    "Publishers": "Circuit Cat Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1345900/ss_e02ecc1d00ff5a6f346530e8dbcbc6bd965373c2.1920x1080.jpg?t=1653435073,https://cdn.akamai.steamstatic.com/steam/apps/1345900/ss_e24917249a38a19ace8feef979db1dedefda0890.1920x1080.jpg?t=1653435073,https://cdn.akamai.steamstatic.com/steam/apps/1345900/ss_b88ee96b3f32d278778c187ca793d58f30ec4e6c.1920x1080.jpg?t=1653435073,https://cdn.akamai.steamstatic.com/steam/apps/1345900/ss_514593d94f7c6891172cc3c04cde7207710da8cc.1920x1080.jpg?t=1653435073,https://cdn.akamai.steamstatic.com/steam/apps/1345900/ss_c8c6b380ef8486f5ed553b2c292b615c5fe869ae.1920x1080.jpg?t=1653435073",
+    "Slug": "space-defense-grid",
+    "Meta Title": "Space Defense Grid: May 24, 2022, Circuit Cat Studio and ...",
+    "Meta Description": "Looking for information on Space Defense Grid? Check out the release date (May 24, 2022), developer insights from Circuit Cat Studio, and a complete gam...",
+    "Alt Text Image": "Official header image for Space Defense Grid game - Steam 1345900",
+    "Canonical URL": "https://gusku.site/game/space-defense-grid",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Space Defense Grid\", \"description\": \"Looking for information on Space Defense Grid? Check out the release date (May 24, 2022), developer insights from Circuit Cat Studio, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 24, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Circuit Cat Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Circuit Cat Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1345900/header.jpg?t=1653435073\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

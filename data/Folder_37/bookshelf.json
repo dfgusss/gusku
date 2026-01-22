@@ -1,0 +1,21 @@
+{
+    "AppID": 1458680,
+    "Name": "Bookshelf",
+    "Release date": "Feb 19, 2021",
+    "About the game": "Bookshelf provides a simple way to store and read eBooks. Integrated with Steam, your friends will see which book you're reading and your progress through reading it. From text-books to graphic novels, we intend provide various reader preferences for your optimal reading. - Track weekly reading time via your Steam Profile - Show your friends which books you're reading - Track progress in each book Bookshelf currently supports ePub and PDF formats, we are actively adding more supported types; along with more reader options!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1458680/header.jpg?t=1614919130",
+    "Price": 0.99,
+    "Developers": "Colton Lathrop",
+    "Publishers": "Fivestack",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1458680/ss_a5eef6c26057b369034760e192eebba3fd99f57f.1920x1080.jpg?t=1614919130,https://cdn.akamai.steamstatic.com/steam/apps/1458680/ss_67389aee9a28882a8ff1419928fd6719b8a30ac7.1920x1080.jpg?t=1614919130,https://cdn.akamai.steamstatic.com/steam/apps/1458680/ss_88fedfbfc0f204cbe24daf2eb6925b6ee8068207.1920x1080.jpg?t=1614919130,https://cdn.akamai.steamstatic.com/steam/apps/1458680/ss_ee7b41b76783609fafa4ff54afee4a6c21068735.1920x1080.jpg?t=1614919130,https://cdn.akamai.steamstatic.com/steam/apps/1458680/ss_c1269505eeef5d8ff6729bc5072a7e33b138aa61.1920x1080.jpg?t=1614919130",
+    "Slug": "bookshelf",
+    "Meta Title": "Bookshelf: Feb 19, 2021, Colton Lathrop and Full Overview",
+    "Meta Description": "Looking for information on Bookshelf? Check out the release date (Feb 19, 2021), developer insights from Colton Lathrop, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bookshelf game - Steam 1458680",
+    "Canonical URL": "https://gusku.site/game/bookshelf",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bookshelf\", \"description\": \"Looking for information on Bookshelf? Check out the release date (Feb 19, 2021), developer insights from Colton Lathrop, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Colton Lathrop\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fivestack\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1458680/header.jpg?t=1614919130\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

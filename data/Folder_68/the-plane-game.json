@@ -1,0 +1,21 @@
+{
+    "AppID": 2201020,
+    "Name": "The Plane Game",
+    "Release date": "Dec 30, 2022",
+    "About the game": "The Plane Game is a team multiplayer, simultaneous turn based, couch co-op, where you can play from 2-24 players in the same room. Split up into teams of at most 6, and battle to sink all enemy carriers or jets. Each player controls his jet with his phone, and the game board is displayed on a large screen TV. When joining a new game, all captains will place the air craft carrier for their team. and all team members' jets will start on the aircraft carrier. Each round, the timer on the TV will count down, and at the same time, each player must define on their phone where they want their jet to fly next. You must communicate with your team to avoid friendly collisions, as well as to strategize. It is played on a 2D board, but there is a 3rd dimension of altitude that comes out of the TV. To win the game, a team must: destroy all other enemy jets or sink all other enemy carriers If your jet takes any damage, or you are getting low on fuel, you can refuel and repair by landing back on your air craft carrier. This game definitely gets more fun as the size of your group that is playing it increases. And this is the only game on Steam that I'm aware of that supports up to 24 players in a couch co-op!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2201020/header.jpg?t=1672401759",
+    "Price": 4.99,
+    "Developers": "Couch Co-Ops Studios",
+    "Publishers": "Couch Co-Ops Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2201020/ss_eeb4b6173ce7b2b35f1abdd1c9d9214b606aaf04.1920x1080.jpg?t=1672401759,https://cdn.akamai.steamstatic.com/steam/apps/2201020/ss_6a784b6a327997c61853f92b74a715ab514ff6b6.1920x1080.jpg?t=1672401759,https://cdn.akamai.steamstatic.com/steam/apps/2201020/ss_c8ea08002a1e960ca799dcf43dc7f2b84a74de43.1920x1080.jpg?t=1672401759,https://cdn.akamai.steamstatic.com/steam/apps/2201020/ss_44793aec8c71c2a8ef0396b120d4047fe0488f4f.1920x1080.jpg?t=1672401759,https://cdn.akamai.steamstatic.com/steam/apps/2201020/ss_effb8ccecb22c7a6fdd054df0732870b5ad178a2.1920x1080.jpg?t=1672401759,https://cdn.akamai.steamstatic.com/steam/apps/2201020/ss_da2ec1ae5c3441e684e2ece533f7ae0ad806fc62.1920x1080.jpg?t=1672401759",
+    "Slug": "the-plane-game",
+    "Meta Title": "The Plane Game: Dec 30, 2022, Couch Co-Ops Studios and Fu...",
+    "Meta Description": "Looking for information on The Plane Game? Check out the release date (Dec 30, 2022), developer insights from Couch Co-Ops Studios, and a complete game ...",
+    "Alt Text Image": "Official header image for The Plane Game game - Steam 2201020",
+    "Canonical URL": "https://gusku.site/game/the-plane-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Plane Game\", \"description\": \"Looking for information on The Plane Game? Check out the release date (Dec 30, 2022), developer insights from Couch Co-Ops Studios, and a complete game ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 30, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Couch Co-Ops Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Couch Co-Ops Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2201020/header.jpg?t=1672401759\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1281480,
+    "Name": "EPICA",
+    "Release date": "Dec 10, 2020",
+    "About the game": "EPICA is a role-playing game, set in a fantasy world. Embark on a journey which will take you to unique regions, each with new quests, puzzles, and space to explore. Compete with other players for rank one on the ladder. Game Features Classes: Warrior, Ranger and Mage Dynamic combat Static and procedural generated levels Day and night cycle Dynamic weather Player professions Crafting Global rankings Character creation system Achievements State of Game Beta 1.4 restarted the game, planning now with multiplayer. The plan is to enable multiplayer in the first quarter of 2022. Default Keybindings Customize your keys from the game settings menu, accessible through the ‘Key’ panel. The default keyboard shortcuts are: Game menu - Backspace Movement - WASD / Left Mouseclick Movement speed - Caps Lock Jump - SPACE Roll - Space + Left Shift Sprint - Left Shift Crouch - Left Ctrl Dive - Left Ctrl or Left Shift Auto run - Num Lock Attack or Interact - Left Mouse button Attack - Left Mouse button + Left Shift Camera free look - Right Mouse Button Camera zoom - Middle Mouse button scroll Inventory - B Character &amp; Inventory panel - I Character sheet - C Interact - E Draw weapon - F Quest log - T Skill book - U The hotbar contains eight slots, which can be used to assign inventory consumables, or usable items such as food. Inventory items can be dragged and dropped onto the desired hotbar slot, and moved / removed, by right-clicking a slot icon. The hotbar default slot keybindings use the numbers 1 to 8, which can be differently configured inside the game settings, under the ‘Key’ panel.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1281480/header.jpg?t=1643144200",
+    "Price": 8.99,
+    "Developers": "Space Alpha",
+    "Publishers": "Space Alpha",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1281480/ss_106ce605e4ecbe1dec23f0d8872d4fa9d35e9f08.1920x1080.jpg?t=1643144200,https://cdn.akamai.steamstatic.com/steam/apps/1281480/ss_c1fe3d716a4fb990cadf8eff1214cafd787bc803.1920x1080.jpg?t=1643144200,https://cdn.akamai.steamstatic.com/steam/apps/1281480/ss_bf718ebca3e2f2f5947831a75e57e176d6a803ca.1920x1080.jpg?t=1643144200,https://cdn.akamai.steamstatic.com/steam/apps/1281480/ss_1d67c376ae6febbc81db30dc22f75c07349cd265.1920x1080.jpg?t=1643144200,https://cdn.akamai.steamstatic.com/steam/apps/1281480/ss_6022cc7bb64fad90f3e56fd16431782e9e2b8daf.1920x1080.jpg?t=1643144200,https://cdn.akamai.steamstatic.com/steam/apps/1281480/ss_2ab023007c4a9c18b55d5c79e5e2a975a3c15eac.1920x1080.jpg?t=1643144200",
+    "Slug": "epica",
+    "Meta Title": "EPICA: Dec 10, 2020, Space Alpha and Full Overview",
+    "Meta Description": "Looking for information on EPICA? Check out the release date (Dec 10, 2020), developer insights from Space Alpha, and a complete game summary.",
+    "Alt Text Image": "Official header image for EPICA game - Steam 1281480",
+    "Canonical URL": "https://gusku.site/game/epica",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"EPICA\", \"description\": \"Looking for information on EPICA? Check out the release date (Dec 10, 2020), developer insights from Space Alpha, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 10, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Space Alpha\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Space Alpha\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1281480/header.jpg?t=1643144200\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

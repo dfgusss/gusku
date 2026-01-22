@@ -1,0 +1,21 @@
+{
+    "AppID": 2015740,
+    "Name": "SnailQuest",
+    "Release date": "Jun 28, 2022",
+    "About the game": "Snail Quest is a puzzle game based on the 2048 movement mode. When the Player Input the Movement Direction. Every snail will move towards the same direction and only stop when it encounters an obstacle. But when the snails meet each other，they will merge into a higher level. Use the characteristics of snails to reach the designated camp. The game now has 40 handcrafted levels，and there will be another 40 levels of updates in the future. Hope you will like it",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2015740/header.jpg?t=1656478253",
+    "Price": 1.99,
+    "Developers": "Roman's Iris",
+    "Publishers": "Roman's Iris",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2015740/ss_582946cc6f5c3eeb90d6767c71b7f9b936760625.1920x1080.jpg?t=1656478253,https://cdn.akamai.steamstatic.com/steam/apps/2015740/ss_9f1bca966d17769d515dc5cf7504a7e4a8487130.1920x1080.jpg?t=1656478253,https://cdn.akamai.steamstatic.com/steam/apps/2015740/ss_2fc25b0667cb8b0cccc5c2e745d5ab0f872eeecb.1920x1080.jpg?t=1656478253,https://cdn.akamai.steamstatic.com/steam/apps/2015740/ss_a6a603e19fd51d01f51bba6f7b4207f731feddde.1920x1080.jpg?t=1656478253,https://cdn.akamai.steamstatic.com/steam/apps/2015740/ss_1ce93a1273251425441bd5157224bba2633283cc.1920x1080.jpg?t=1656478253,https://cdn.akamai.steamstatic.com/steam/apps/2015740/ss_e538d228848ac9ebd62f9fad0d231f2d1e4c958d.1920x1080.jpg?t=1656478253,https://cdn.akamai.steamstatic.com/steam/apps/2015740/ss_a4aaac4e891e884e06495b806355bc2ff6b5ef66.1920x1080.jpg?t=1656478253",
+    "Slug": "snailquest",
+    "Meta Title": "SnailQuest: Jun 28, 2022, Roman's Iris and Full Overview",
+    "Meta Description": "Looking for information on SnailQuest? Check out the release date (Jun 28, 2022), developer insights from Roman's Iris, and a complete game summary.",
+    "Alt Text Image": "Official header image for SnailQuest game - Steam 2015740",
+    "Canonical URL": "https://gusku.site/game/snailquest",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SnailQuest\", \"description\": \"Looking for information on SnailQuest? Check out the release date (Jun 28, 2022), developer insights from Roman's Iris, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 28, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Roman's Iris\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Roman's Iris\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2015740/header.jpg?t=1656478253\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1384020,
+    "Name": "Ovrlay - VR Discord Notifications",
+    "Release date": "Feb 5, 2021",
+    "About the game": "See your discord notifications inside of VR in a non-intrusive popup. Never take off your headset to find out it was just another @everyone again! Connects to your local Discord app One-time setup (instructions displayed on Startup) Follows your Discord notification settings Automatically run Ovrlay when you are in VR by going to SteamVR &gt; Settings &gt; Startup / Shutdown &gt; Choose Startup Overlay Apps. Requires SteamVR. Ovrlay is in active development. We'd love to hear comments or feedback you have!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1384020/header.jpg?t=1637142532",
+    "Price": 2.99,
+    "Developers": "Synth Software LLC",
+    "Publishers": "Synth Software LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1384020/ss_be7878b5a3c536fd34f6d003dcce80e3497afa11.1920x1080.jpg?t=1637142532,https://cdn.akamai.steamstatic.com/steam/apps/1384020/ss_e9ee7746ac0e910f9a22bf0c9660d8bcb276825f.1920x1080.jpg?t=1637142532,https://cdn.akamai.steamstatic.com/steam/apps/1384020/ss_5bd4bca532be3081adaeb55f0732b913e6cd1373.1920x1080.jpg?t=1637142532,https://cdn.akamai.steamstatic.com/steam/apps/1384020/ss_c9e05f7e3de52e43301f385e1c226c1e6c0594a7.1920x1080.jpg?t=1637142532,https://cdn.akamai.steamstatic.com/steam/apps/1384020/ss_48f09616a775d4adee1d85c2f5ff746dd703790b.1920x1080.jpg?t=1637142532",
+    "Slug": "ovrlay-vr-discord-notifications",
+    "Meta Title": "Ovrlay - VR Discord Notifications: Feb 5, 2021, Synth Sof...",
+    "Meta Description": "Looking for information on Ovrlay - VR Discord Notifications? Check out the release date (Feb 5, 2021), developer insights from Synth Software LLC, and ...",
+    "Alt Text Image": "Official header image for Ovrlay - VR Discord Notifications game - Steam 1384020",
+    "Canonical URL": "https://gusku.site/game/ovrlay-vr-discord-notifications",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ovrlay - VR Discord Notifications\", \"description\": \"Looking for information on Ovrlay - VR Discord Notifications? Check out the release date (Feb 5, 2021), developer insights from Synth Software LLC, and ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 5, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Synth Software LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Synth Software LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1384020/header.jpg?t=1637142532\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

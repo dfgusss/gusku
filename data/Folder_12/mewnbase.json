@@ -1,0 +1,21 @@
+{
+    "AppID": 743130,
+    "Name": "MewnBase",
+    "Release date": "Dec 7, 2018",
+    "About the game": "Be a space-cat. MewnBase is a cute, 2D exploration/survival game. You land on an uncharted world only to realize you didn't bring any snacks and forgot half your luggage. But hey, at least you brought this workbench thing. You'll need to collect resources in order to construct a make-shift base. Craft a variety of different base modules, from airlocks to rain-water collectors in order to make your new home on this barren planet a little more cozy. Other Neat Features Technology Upgrades Find strange, yet oddly familiar artifacts scattered around the planet. Research them to unlock shiny new crafting recipes and tech upgrades. Manage Your Base's Resources Build air cleaners to keep you breathing. All those modules plugged into a single outlet probably won't cut it. So you'll need more solar panels to keep things humming along. Keep a supply of clean water on hand to keep your plants hydrated. Day/Night Cycles and Weather Hazards It's hard to find your way in the dark. So fuel up your generators and make sure your base’s batteries are topped off before night falls. Then batten down the hatches during thunderstorms and gusty sandstorms. Vehicles Walking from point A to B is for the theoretical space-birds. If there were any. Construct vehicles to traverse long distances in style . Community Localization MewnBase comes with several community-provided translations for menus and gameplay text, including: German, French, Spanish, Portuguese, Russian, and Turkish.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/743130/header.jpg?t=1645194992",
+    "Price": 9.99,
+    "Developers": "Cairn4",
+    "Publishers": "Cairn4",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/743130/ss_2f52bf6772df56ce70112a6ffc22045adc612436.1920x1080.jpg?t=1645194992,https://cdn.akamai.steamstatic.com/steam/apps/743130/ss_65fe2898d8daf9ac4d91bbd4a35946a629ce5220.1920x1080.jpg?t=1645194992,https://cdn.akamai.steamstatic.com/steam/apps/743130/ss_29e508e1a1d408a06c953517f0de39e8a5fa416d.1920x1080.jpg?t=1645194992,https://cdn.akamai.steamstatic.com/steam/apps/743130/ss_06c71bd03acd41c3d54c85895ca3c53c90c3535f.1920x1080.jpg?t=1645194992,https://cdn.akamai.steamstatic.com/steam/apps/743130/ss_9b533fe8ca4c353ff2802b04c9d54e7f58d37173.1920x1080.jpg?t=1645194992",
+    "Slug": "mewnbase",
+    "Meta Title": "MewnBase: Dec 7, 2018, Cairn4 and Full Overview",
+    "Meta Description": "Looking for information on MewnBase? Check out the release date (Dec 7, 2018), developer insights from Cairn4, and a complete game summary.",
+    "Alt Text Image": "Official header image for MewnBase game - Steam 743130",
+    "Canonical URL": "https://gusku.site/game/mewnbase",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MewnBase\", \"description\": \"Looking for information on MewnBase? Check out the release date (Dec 7, 2018), developer insights from Cairn4, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 7, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cairn4\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Cairn4\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/743130/header.jpg?t=1645194992\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

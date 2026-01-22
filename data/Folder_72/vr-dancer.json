@@ -1,0 +1,21 @@
+{
+    "AppID": 2227400,
+    "Name": "VR Dancer",
+    "Release date": "Mar 24, 2023",
+    "About the game": "This is a video and motion capture software for VRM. Quickly build 3D videos. Support for motion capture.(It is hoped that your camera supports WebCam mode, otherwise it will prompt that the camera cannot be detected in the app) Supports vroid hub, VRM, PMX, and FBX model files Supports VMD This simplified version of VRM creation software, named VR Dancer. This section helps users quickly configure 3D videos for VRM nodes Full body motion capture: Captured by camera, 3D models follow the characters as they dance Support facial expression capture: Capture on camera and make yourself a vtuber vroid hub support: You can find your favorite characters from the vroid hub, or import your own stored files through local files. Support VRM model file: You can import the vrm model in the found format FBX model file support: You can import the fbx format model found Support for mmd model files (pmx) : You can load mmd characters and mmd scenes through pmx files, as long as you can find a variety of anime characters to use Support for mmd Dance Files and Camera Files (VMDS) : MMDS have been in development for over a decade, and there are countless dance and camera resources available on the web that you can easily use to play the dance effects you want. Finally, with a simple edit, you can enjoy VR Dancer.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2227400/header.jpg?t=1679726153",
+    "Price": 0.0,
+    "Developers": "青麈",
+    "Publishers": "青麈",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_41a0380cd54a818d7822fc22d540c73aeaa03de7.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_505a1363a01a3aab1909f01396a7b296ae5b5137.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_2abad00d1214619d629283d9cf4f580860199fac.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_d677438f28d75d5fca0e0a8512fbd17e2b6e2a62.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_9e0f49b8fa9edb0af8f8f97a8b6804fdf87ee9e5.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_5da326018020f38658c68f9f6240279b365074c6.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_170232cfb4186c39853401f1946e478f243cc5a0.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_2c31e3b1601f92c2d4ffdc547d8410a160e1da3b.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_dceae970951544259b963a7ec26bc4c49f0d647b.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_6aa45aa74127ec2cb751bc797e0e8c144b5d4fe1.1920x1080.jpg?t=1679726153,https://cdn.akamai.steamstatic.com/steam/apps/2227400/ss_65121552b875ee173ec7dfc2924c97d96c6a2b9c.1920x1080.jpg?t=1679726153",
+    "Slug": "vr-dancer",
+    "Meta Title": "VR Dancer: Mar 24, 2023, 青麈 and Full Overview",
+    "Meta Description": "Looking for information on VR Dancer? Check out the release date (Mar 24, 2023), developer insights from 青麈, and a complete game summary.",
+    "Alt Text Image": "Official header image for VR Dancer game - Steam 2227400",
+    "Canonical URL": "https://gusku.site/game/vr-dancer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VR Dancer\", \"description\": \"Looking for information on VR Dancer? Check out the release date (Mar 24, 2023), developer insights from \\u9752\\u9e88, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 24, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u9752\\u9e88\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u9752\\u9e88\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2227400/header.jpg?t=1679726153\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

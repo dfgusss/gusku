@@ -1,0 +1,21 @@
+{
+    "AppID": 2118030,
+    "Name": "MushRun",
+    "Release date": "Sep 7, 2022",
+    "About the game": "MushRun is an infinite runner game. As a wizard you walk through a forest of giant mushrooms while avoiding getting hit by rolling giant mushrooms. As the days go by, you will see the colors change. The goal is to see how far you can travel with out dying. Good Luck! Controls Low Graphics - 1 High Graphics - 2 forward - w/up backward - s/down left - a/left right - d/right jump/double jump - space toggle autorun - r",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2118030/header.jpg?t=1662534569",
+    "Price": 4.99,
+    "Developers": "Aidan AJ James Ramsey",
+    "Publishers": "Aidan AJJames Ramsey",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2118030/ss_654a4cf509f35854c9c00cc3132baa3738fdbc98.1920x1080.jpg?t=1662534569,https://cdn.akamai.steamstatic.com/steam/apps/2118030/ss_a64e0c79d3e120615ba7eedfc0bec619312f2279.1920x1080.jpg?t=1662534569,https://cdn.akamai.steamstatic.com/steam/apps/2118030/ss_285b30d34eadbfe145a65957def94e49e35dab8f.1920x1080.jpg?t=1662534569,https://cdn.akamai.steamstatic.com/steam/apps/2118030/ss_de786a00b547305c61e8e1460fe0e1f8e0b3ff9f.1920x1080.jpg?t=1662534569,https://cdn.akamai.steamstatic.com/steam/apps/2118030/ss_81d7849a946e07012bfa9955d15eb032780175a5.1920x1080.jpg?t=1662534569",
+    "Slug": "mushrun",
+    "Meta Title": "MushRun: Sep 7, 2022, Aidan AJ James Ramsey and Full Over...",
+    "Meta Description": "Looking for information on MushRun? Check out the release date (Sep 7, 2022), developer insights from Aidan AJ James Ramsey, and a complete game summary.",
+    "Alt Text Image": "Official header image for MushRun game - Steam 2118030",
+    "Canonical URL": "https://gusku.site/game/mushrun",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MushRun\", \"description\": \"Looking for information on MushRun? Check out the release date (Sep 7, 2022), developer insights from Aidan AJ James Ramsey, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 7, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Aidan AJ James Ramsey\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Aidan AJJames Ramsey\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2118030/header.jpg?t=1662534569\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

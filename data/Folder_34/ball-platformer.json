@@ -1,0 +1,21 @@
+{
+    "AppID": 802780,
+    "Name": "Ball Platformer",
+    "Release date": "Mar 12, 2018",
+    "About the game": "Get ready to jump into a fun adventure with Ball Platformer! Start the game with four different worlds to choose from: Forest, Desert, Canyon, and Island. Explore each of the world's levels to get familiar with how to beat them. Each world offers different terrain and obstacles. As you explore each world, you will encounter different abilities that will help you clear the levels; finish exploring the world to claim the ability for good. Then, take on the challenge to see if you can clear the world from start to finish with a limited number of lives. Once you beat all four of the challenges, you will unlock the final world and the final challenge, Space, which will test your platforming skills. Think you can beat the final frontier?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/802780/header.jpg?t=1520889755",
+    "Price": 1.99,
+    "Developers": "Nick Schorer",
+    "Publishers": "Nick Schorer",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/802780/ss_a005433baad4e794bc217e3bc8a131f7d7e40baf.1920x1080.jpg?t=1520889755,https://cdn.akamai.steamstatic.com/steam/apps/802780/ss_9983f1419934ccda0640888deb6c162241e2776d.1920x1080.jpg?t=1520889755,https://cdn.akamai.steamstatic.com/steam/apps/802780/ss_2e1d27f0158ce9cdfda672c771f84b8febd53cf5.1920x1080.jpg?t=1520889755,https://cdn.akamai.steamstatic.com/steam/apps/802780/ss_559d7241df5921f8c347a95bc07d5da348f9890c.1920x1080.jpg?t=1520889755,https://cdn.akamai.steamstatic.com/steam/apps/802780/ss_a32cdcd63f67f1713048fcb24afb7b8531dc6d83.1920x1080.jpg?t=1520889755",
+    "Slug": "ball-platformer",
+    "Meta Title": "Ball Platformer: Mar 12, 2018, Nick Schorer and Full Over...",
+    "Meta Description": "Looking for information on Ball Platformer? Check out the release date (Mar 12, 2018), developer insights from Nick Schorer, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ball Platformer game - Steam 802780",
+    "Canonical URL": "https://gusku.site/game/ball-platformer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ball Platformer\", \"description\": \"Looking for information on Ball Platformer? Check out the release date (Mar 12, 2018), developer insights from Nick Schorer, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 12, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nick Schorer\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nick Schorer\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/802780/header.jpg?t=1520889755\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

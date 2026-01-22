@@ -1,0 +1,21 @@
+{
+    "AppID": 531520,
+    "Name": "TankCraft",
+    "Release date": "Jan 9, 2017",
+    "About the game": "TankCraft is an action game based around gladiatorial style tank battles, but skill alone won't be enough to succeed here, the unique thing about TankCraft is the player crafts their own tanks however they choose with no restrictions to shapes, sizes or design. Battles are split into 6 weight categories; Feather, Light, Medium, Heavy, Super Heavy and Titan(Unlimited) and any tank under the weight limit for that class can compete. Because every tank is unique, so is the best way to fight it. There is more than one way to defeat your opponents, you can destroy your opponents ability to fight back by destroying their weapons or stored ammunition, you can immobilise them by destroying their engines making any fixed guns they may have useless or you can aim straight for the heart and destroy their Control Centre instantly defeating them, the choice is yours. Developed in Unity Features -Current Max Tank Size 20x20 -30 Different Tiles to build your Tanks from -60 Prebuilt tanks/Levels to fight -Each Tile has it's own hp allowing each tile to be individually blown off a tank -Cripple and defeat enemies without fully destroying them, leaving only a mangled inoperable wreck -Contains 9 translations; English, French, German, Spanish, Italian, Russian, Chinese(Simplified), Japanese and Korean",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/531520/header.jpg?t=1569172553",
+    "Price": 0.99,
+    "Developers": "Snowdon Games",
+    "Publishers": "Snowdon Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/531520/ss_d7b01ae5f9c8fa8c76a20a7708ab7a58be846ec0.1920x1080.jpg?t=1569172553,https://cdn.akamai.steamstatic.com/steam/apps/531520/ss_29b2c98cc110ab1e7b9572094375e81d7cb216e8.1920x1080.jpg?t=1569172553,https://cdn.akamai.steamstatic.com/steam/apps/531520/ss_76660c1867503f2ae6bf88cbe05a20138e86ce8a.1920x1080.jpg?t=1569172553,https://cdn.akamai.steamstatic.com/steam/apps/531520/ss_fda2a497eb720ad71b55d8ffbfe346b35dbbd0e0.1920x1080.jpg?t=1569172553,https://cdn.akamai.steamstatic.com/steam/apps/531520/ss_1b4d58e4436803f45b4dd58a53655a588f53ac1d.1920x1080.jpg?t=1569172553,https://cdn.akamai.steamstatic.com/steam/apps/531520/ss_f6cb6d7385175e04eef28d202726cc727be5c42b.1920x1080.jpg?t=1569172553,https://cdn.akamai.steamstatic.com/steam/apps/531520/ss_188f2b469a343915d0f58c9037264672e8979535.1920x1080.jpg?t=1569172553",
+    "Slug": "tankcraft",
+    "Meta Title": "TankCraft: Jan 9, 2017, Snowdon Games and Full Overview",
+    "Meta Description": "Looking for information on TankCraft? Check out the release date (Jan 9, 2017), developer insights from Snowdon Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for TankCraft game - Steam 531520",
+    "Canonical URL": "https://gusku.site/game/tankcraft",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TankCraft\", \"description\": \"Looking for information on TankCraft? Check out the release date (Jan 9, 2017), developer insights from Snowdon Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 9, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Snowdon Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Snowdon Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/531520/header.jpg?t=1569172553\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

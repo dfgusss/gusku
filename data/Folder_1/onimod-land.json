@@ -1,0 +1,21 @@
+{
+    "AppID": 633660,
+    "Name": "Onimod Land",
+    "Release date": "Nov 10, 2017",
+    "About the game": "Onimod Land is real-time strategy game. The premise of the game centers around a conflict between inhabiting aboriginals and settlers from space as they both try to colonize a planet. The number of units is almost limitless, which makes for gi-normously impressive battles with lot of tanks, helicopters, catapults, etc. Each race has a unique set of skills (technologies or magic spells) with more than 30 upgrades. The AI of the units allows them to help each other during a battle, repair broken buildings, etc. Game networking supports up to 8 players. The game mechanics allow players to declare (or break) political alliances. There are 5 campaigns and 30 maps in the game. With the map editor built into the game, you can just keep adding more maps. Graphics: 2D isometric Screen Resolution: any Technologies of Programming: C++ and Assembly This project began in the late 90's, when games focused on game play with only 8-bit graphics. Games such as 'Warcraft 2' and 'Age of Empires 1' emerged as a sensation because of their clever game play. Beating this game with it's brutal efficiency and crafty knack for making shrewd decisions is quite a challenge. The AI is quite intelligent and even I, as the author, can't win with more than 3 computer opponents. The game AI plays without cheating. It doesn't fudge resources nor spy on the player. I stress tested my server using a few of my friends. It’s possible that efficiency issues may pop up with a larger number of players. Just be aware that I’m entirely aware of this potential problem and will be looking out for it. Any problems that do appear will be dealt with promptly.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/633660/header.jpg?t=1510336842",
+    "Price": 9.99,
+    "Developers": "Astralax",
+    "Publishers": "Astralax",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/633660/ss_377917bdecd6735e836b7fa7b6b1797b8657dd9e.1920x1080.jpg?t=1510336842,https://cdn.akamai.steamstatic.com/steam/apps/633660/ss_64b263751d5704df36a0266c69108d0da5a68313.1920x1080.jpg?t=1510336842,https://cdn.akamai.steamstatic.com/steam/apps/633660/ss_2d7a9ac7e703182bcccae372a2107735fbdbebf9.1920x1080.jpg?t=1510336842,https://cdn.akamai.steamstatic.com/steam/apps/633660/ss_fa99ccaec23bbb89ded2b71e1e0e7adee1b08106.1920x1080.jpg?t=1510336842,https://cdn.akamai.steamstatic.com/steam/apps/633660/ss_2c0f741d50010d86fd00dde087eee4662c0f53bb.1920x1080.jpg?t=1510336842",
+    "Slug": "onimod-land",
+    "Meta Title": "Onimod Land: Nov 10, 2017, Astralax and Full Overview",
+    "Meta Description": "Looking for information on Onimod Land? Check out the release date (Nov 10, 2017), developer insights from Astralax, and a complete game summary.",
+    "Alt Text Image": "Official header image for Onimod Land game - Steam 633660",
+    "Canonical URL": "https://gusku.site/game/onimod-land",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Onimod Land\", \"description\": \"Looking for information on Onimod Land? Check out the release date (Nov 10, 2017), developer insights from Astralax, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 10, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Astralax\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Astralax\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/633660/header.jpg?t=1510336842\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

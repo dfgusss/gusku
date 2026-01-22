@@ -1,0 +1,21 @@
+{
+    "AppID": 1389000,
+    "Name": "Boom Dojo",
+    "Release date": "Jan 29, 2021",
+    "About the game": "Boom Dojo is a rhythm boxing trainer. Targets are generated from your music in realtime. You color match targets to your hands and avoid bar contact which hurts your score. The score is dynamically calculated as your hits / the current total of emitted targets. Target rate is tied to your score so higher scores will yield more targets from a track. The better you play the more detail you 'squeeze' out of the music hardening the game. LIV is also fully supported allowing you to capture your amazing workouts in mixed reality.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1389000/header.jpg?t=1619367726",
+    "Price": 9.99,
+    "Developers": "Yolopia Ltd",
+    "Publishers": "Yolopia Ltd",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1389000/ss_2cb3fa4eeecae24cfb3048957f331e4da112fa8d.1920x1080.jpg?t=1619367726,https://cdn.akamai.steamstatic.com/steam/apps/1389000/ss_0abacb663536fb067c9cb19642f19a6278320b87.1920x1080.jpg?t=1619367726,https://cdn.akamai.steamstatic.com/steam/apps/1389000/ss_da068c0b997f3431cb4676b809283e561477790a.1920x1080.jpg?t=1619367726,https://cdn.akamai.steamstatic.com/steam/apps/1389000/ss_1a598774720e084557f5361faf8305837411865f.1920x1080.jpg?t=1619367726,https://cdn.akamai.steamstatic.com/steam/apps/1389000/ss_f2245f98d7f5d59059535cb0a9bcef0f4eb5380a.1920x1080.jpg?t=1619367726",
+    "Slug": "boom-dojo",
+    "Meta Title": "Boom Dojo: Jan 29, 2021, Yolopia Ltd and Full Overview",
+    "Meta Description": "Looking for information on Boom Dojo? Check out the release date (Jan 29, 2021), developer insights from Yolopia Ltd, and a complete game summary.",
+    "Alt Text Image": "Official header image for Boom Dojo game - Steam 1389000",
+    "Canonical URL": "https://gusku.site/game/boom-dojo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Boom Dojo\", \"description\": \"Looking for information on Boom Dojo? Check out the release date (Jan 29, 2021), developer insights from Yolopia Ltd, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 29, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Yolopia Ltd\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Yolopia Ltd\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1389000/header.jpg?t=1619367726\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

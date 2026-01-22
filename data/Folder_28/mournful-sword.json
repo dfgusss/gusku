@@ -1,0 +1,21 @@
+{
+    "AppID": 1122930,
+    "Name": "Mournful Sword",
+    "Release date": "Oct 22, 2019",
+    "About the game": "Rhen has lived her entire life without venturing outside the walls of her village, but a dark quest takes her to long-forgotten lands in search of something precious she has lost. Mournful Sword is a 2D Action Platformer in the vein of classic games like Shinobi and Strider, with simple, precise controls and challenging combat. My goal with Mournful Sword was to create a compelling and strategic combat system, but which was also easy to use, requiring only a single attack button. I went about this by creating a combo system where you can lock enemies in and defeat them with a single flurry of sword slashes that also open you up to being attacked by other enemies. In addition to being able to attack enemies from either side or above, you can even combo enemies in midair or below you as you fall onto them. But be careful, it requires excellent timing and careful planning. I also wanted to have a checkpoint system which harkened back to older games, forcing you not only to be able to complete a section of the game, but be able to complete it consistently. In terms of accessibility options, there is a game-speed modifier, an option to reduce button-mashing, as well as settings that add a visual element to the audio feedback. I hope you will make good of these if you need them.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1122930/header.jpg?t=1571863303",
+    "Price": 7.99,
+    "Developers": "Duncan Keller",
+    "Publishers": "Duncan Keller",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1122930/ss_487c16c0a5e6841eafb0063e7eb6d194ff271945.1920x1080.jpg?t=1571863303,https://cdn.akamai.steamstatic.com/steam/apps/1122930/ss_4395dfb16503d85a688b4caedb097c01930de9b1.1920x1080.jpg?t=1571863303,https://cdn.akamai.steamstatic.com/steam/apps/1122930/ss_baae1e06b22925b2477f946d6c27de2143d4a396.1920x1080.jpg?t=1571863303,https://cdn.akamai.steamstatic.com/steam/apps/1122930/ss_db6b8c7f2c3979b7c0dff4e4d64fcdb5dbff472e.1920x1080.jpg?t=1571863303,https://cdn.akamai.steamstatic.com/steam/apps/1122930/ss_3b36ffd6adecb3eacd8e8417370e2be0bdc54f7a.1920x1080.jpg?t=1571863303,https://cdn.akamai.steamstatic.com/steam/apps/1122930/ss_316b6253e498ab7a0e083b6b3defe24fa0f5ecba.1920x1080.jpg?t=1571863303",
+    "Slug": "mournful-sword",
+    "Meta Title": "Mournful Sword: Oct 22, 2019, Duncan Keller and Full Over...",
+    "Meta Description": "Looking for information on Mournful Sword? Check out the release date (Oct 22, 2019), developer insights from Duncan Keller, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mournful Sword game - Steam 1122930",
+    "Canonical URL": "https://gusku.site/game/mournful-sword",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mournful Sword\", \"description\": \"Looking for information on Mournful Sword? Check out the release date (Oct 22, 2019), developer insights from Duncan Keller, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 22, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Duncan Keller\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Duncan Keller\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1122930/header.jpg?t=1571863303\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 508680,
+    "Name": "Domino VR",
+    "Release date": "Aug 3, 2016",
+    "About the game": "Domino VR - A dream come true. Did you play a lot with dominos when you were young? We did too. That's why we decided to make this game. Domino VR is an easy to use domino simulator where you can build whatever you want. Make insane contraptions, create the next Domino Day. Whatever you can think of. Building and playing with dominos in VR is extremely fun. The game is currently in a very basic state. That being said, it is quite fun to play. We will list what is currently in the game, what we are working on and what we plan to add. Currently in the game Place dominos of various sizes, grab them and throw them around. Dominos spawn with a completely random color. Teleport around In-game menu where you can reset the world, enable/disable music and change (or disable gravity) Domino placing “cars” that you can let drive around the world and place dominos for you Various simple “things” you can use to interact with your dominos Basic sounds Color picker to change domino colors Spectator camera to take screenshots or show spectators what you are doing Menu on the left controller (currently only used for the color picker) Weld tool to weld dominos together Animatable camera Being worked on Better weld tool and effects World decoration Objective oriented maps Planned features Load/save worlds More and better decorated worlds Better sounds Better models Different game modes Steam workshop for worlds and models",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/508680/header.jpg?t=1576827606",
+    "Price": 3.99,
+    "Developers": "woutwoot",
+    "Publishers": "woutwoot",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/508680/ss_b414773f9262bf6577afaf9550b2101464a004d7.1920x1080.jpg?t=1576827606,https://cdn.akamai.steamstatic.com/steam/apps/508680/ss_c0d797906ccbc0a24ea37804cb841578cb2ab4eb.1920x1080.jpg?t=1576827606,https://cdn.akamai.steamstatic.com/steam/apps/508680/ss_db0683a88beac6de7b19273ed93642fef92d3f72.1920x1080.jpg?t=1576827606,https://cdn.akamai.steamstatic.com/steam/apps/508680/ss_4948fe82f730c4c45d3cf4302532826a30bb3d3c.1920x1080.jpg?t=1576827606,https://cdn.akamai.steamstatic.com/steam/apps/508680/ss_19e0babdd2fb64d6103391f88b069977987a86dd.1920x1080.jpg?t=1576827606,https://cdn.akamai.steamstatic.com/steam/apps/508680/ss_f77a9935865dab8b1515d5346526de496be56b94.1920x1080.jpg?t=1576827606,https://cdn.akamai.steamstatic.com/steam/apps/508680/ss_c1ebbe6e73678fd3f675fad820583c9d8e29afe2.1920x1080.jpg?t=1576827606,https://cdn.akamai.steamstatic.com/steam/apps/508680/ss_8a38f039c62fecc41683f24e4df19c9d2798dd55.1920x1080.jpg?t=1576827606,https://cdn.akamai.steamstatic.com/steam/apps/508680/ss_eb5f7af54b5e974479c7139748a6e41a4c1c4237.1920x1080.jpg?t=1576827606",
+    "Slug": "domino-vr",
+    "Meta Title": "Domino VR: Aug 3, 2016, woutwoot and Full Overview",
+    "Meta Description": "Looking for information on Domino VR? Check out the release date (Aug 3, 2016), developer insights from woutwoot, and a complete game summary.",
+    "Alt Text Image": "Official header image for Domino VR game - Steam 508680",
+    "Canonical URL": "https://gusku.site/game/domino-vr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Domino VR\", \"description\": \"Looking for information on Domino VR? Check out the release date (Aug 3, 2016), developer insights from woutwoot, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 3, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"woutwoot\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"woutwoot\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/508680/header.jpg?t=1576827606\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1696720,
+    "Name": "PsiloSybil",
+    "Release date": "Dec 6, 2021",
+    "About the game": "PsiloSybil is a classic linear 3D platformer with a faithful mid-90s look and brutal difficulty. You must guide plucky mushroom Sybil across a colourful world of devilish traps and defeat the evil master of all hogs, Lord Nutmeg, to set free all of shroom-kind. In each of PsiloSybil's handcrafted levels, alternating different playstyles and aesthetics, you'll meet a unique mushroom character held captive by Nutmeg's boar minions. Freeing them is not going to be easy! The game also provides time trial challenges, and an optional arcade mode which reintroduces lives and removes collectables. It is also perfectly deterministic and employs no RNG, which makes it perfect for speedrunning. PsiloSybil strives to reconstruct the classic look of PS1 titles. Not only are the world, characters, and objects modeled and textured with the limitations and visual trends of the time in mind: a full suite of visual effects ranging from vertex snapping to an emulation of composite analog video enhances the experience. All of this is customisable and you have detailed control over each component. It may be an homage to a certain marsupial game. Features Fast-paced old-school gameplay but with modern, responsive controls. Supports most gamepads natively Trivial to learn, challenging to master Much hidden and additional content, a real treat for the collectionist Large, charming cast of fully animated low-poly characters Fully customizable video effects",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1696720/header.jpg?t=1638859720",
+    "Price": 17.99,
+    "Developers": "bad_vertex",
+    "Publishers": "bad_vertex",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1696720/ss_854855ca822b236affac5164c04be3af1ce254af.1920x1080.jpg?t=1638859720,https://cdn.akamai.steamstatic.com/steam/apps/1696720/ss_86122b884abd2283d782beeb67725161386025c9.1920x1080.jpg?t=1638859720,https://cdn.akamai.steamstatic.com/steam/apps/1696720/ss_6b2f6c96897811d046f7a00e11150dc2647b69ee.1920x1080.jpg?t=1638859720,https://cdn.akamai.steamstatic.com/steam/apps/1696720/ss_ef80172c0a55ed9d89b1205f8f5b875509244b6a.1920x1080.jpg?t=1638859720,https://cdn.akamai.steamstatic.com/steam/apps/1696720/ss_19ecef805bf09c49fbe975a87e5e71a44ef594ce.1920x1080.jpg?t=1638859720,https://cdn.akamai.steamstatic.com/steam/apps/1696720/ss_5ac7edcbda3e0a38185b1648ce699feeea035fae.1920x1080.jpg?t=1638859720",
+    "Slug": "psilosybil",
+    "Meta Title": "PsiloSybil: Dec 6, 2021, bad_vertex and Full Overview",
+    "Meta Description": "Looking for information on PsiloSybil? Check out the release date (Dec 6, 2021), developer insights from bad_vertex, and a complete game summary.",
+    "Alt Text Image": "Official header image for PsiloSybil game - Steam 1696720",
+    "Canonical URL": "https://gusku.site/game/psilosybil",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PsiloSybil\", \"description\": \"Looking for information on PsiloSybil? Check out the release date (Dec 6, 2021), developer insights from bad_vertex, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 6, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"bad_vertex\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"bad_vertex\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1696720/header.jpg?t=1638859720\", \"offers\": {\"@type\": \"Offer\", \"price\": 17.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

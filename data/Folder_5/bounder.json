@@ -1,0 +1,21 @@
+{
+    "AppID": 2062480,
+    "Name": "Bounder",
+    "Release date": "Jul 4, 2022",
+    "About the game": "Originally released in 1985, this unique platformer for home microcomputers from British developers Gremlin Graphics saw players take on the role of a constantly bouncing tennis ball, trying to make its way across a surreal landscape. Now, relive those days in this remastered emulated version. Included are both the ZX Spectrum and Amstrad CPC versions. Gameplay From a top down perspective, control the constantly bouncing tennis ball as the screen scrolls. Try not to fall off of the hexagon patterned floor sections. Land on special tiles to activate a number of effects, from a temporary glide, to teleportation, to a grab bag of bonuses or detriments. This enhanced version introduces a number of modern features to this retro classic, including: Saving/loading the game at any point Support for most modern game controllers Full control remapping Image scaling and smoothing options",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2062480/header.jpg?t=1656921370",
+    "Price": 1.99,
+    "Developers": "Gremlin Graphics",
+    "Publishers": "Pixel Games UK",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2062480/ss_e6a8b85fad96920717265bc12098de70fa16319d.1920x1080.jpg?t=1656921370,https://cdn.akamai.steamstatic.com/steam/apps/2062480/ss_71491e616ebd4e9727b7871b741300b086766156.1920x1080.jpg?t=1656921370,https://cdn.akamai.steamstatic.com/steam/apps/2062480/ss_235d149f9acda426a10cda19d70307a807c6e682.1920x1080.jpg?t=1656921370,https://cdn.akamai.steamstatic.com/steam/apps/2062480/ss_b43213f698e7e9eae2669fe0ce497fe015087ea9.1920x1080.jpg?t=1656921370,https://cdn.akamai.steamstatic.com/steam/apps/2062480/ss_eba152952b931fe9cf917a3f802afb465cb6c54f.1920x1080.jpg?t=1656921370",
+    "Slug": "bounder",
+    "Meta Title": "Bounder: Jul 4, 2022, Gremlin Graphics and Full Overview",
+    "Meta Description": "Looking for information on Bounder? Check out the release date (Jul 4, 2022), developer insights from Gremlin Graphics, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bounder game - Steam 2062480",
+    "Canonical URL": "https://gusku.site/game/bounder",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bounder\", \"description\": \"Looking for information on Bounder? Check out the release date (Jul 4, 2022), developer insights from Gremlin Graphics, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 4, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gremlin Graphics\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pixel Games UK\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2062480/header.jpg?t=1656921370\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

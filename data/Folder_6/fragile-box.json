@@ -1,0 +1,21 @@
+{
+    "AppID": 1244210,
+    "Name": "Fragile Box",
+    "Release date": "Feb 21, 2020",
+    "About the game": "Fragile Box - this is a casual game with using physics where you play as a ball. Orange cubes appear on the playing field and your task is to touch them to break them. For each broken cube, you get a point. The difficulty of the game is that red balls randomly appear on the playing field and try to touch you, if this happens, you will lose and you will need to start over. Also, red balls can push orange cubes, thus complicating your task. How many points can you get? Features: - Use of physics - Interesting gameplay - Smart enemies - Relaxing graphics - Pleasant music",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1244210/header.jpg?t=1582311654",
+    "Price": 0.99,
+    "Developers": "Kara Sokra",
+    "Publishers": "Kara Sokra",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1244210/ss_99d54a197bbfb5b6144d33ba7d9d7e727d8ef0a9.1920x1080.jpg?t=1582311654,https://cdn.akamai.steamstatic.com/steam/apps/1244210/ss_842bd32bfa1d63ed61c2a668f03615977c28f69e.1920x1080.jpg?t=1582311654,https://cdn.akamai.steamstatic.com/steam/apps/1244210/ss_aceda3a4608417e4b8b51092fa46207fb5957dd0.1920x1080.jpg?t=1582311654,https://cdn.akamai.steamstatic.com/steam/apps/1244210/ss_1ae6895eeda00068fa40e34717eeece017e0b417.1920x1080.jpg?t=1582311654,https://cdn.akamai.steamstatic.com/steam/apps/1244210/ss_2f03e46e0bef98e3bbb982e91131982fc4da3549.1920x1080.jpg?t=1582311654",
+    "Slug": "fragile-box",
+    "Meta Title": "Fragile Box: Feb 21, 2020, Kara Sokra and Full Overview",
+    "Meta Description": "Looking for information on Fragile Box? Check out the release date (Feb 21, 2020), developer insights from Kara Sokra, and a complete game summary.",
+    "Alt Text Image": "Official header image for Fragile Box game - Steam 1244210",
+    "Canonical URL": "https://gusku.site/game/fragile-box",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fragile Box\", \"description\": \"Looking for information on Fragile Box? Check out the release date (Feb 21, 2020), developer insights from Kara Sokra, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 21, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kara Sokra\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kara Sokra\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1244210/header.jpg?t=1582311654\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

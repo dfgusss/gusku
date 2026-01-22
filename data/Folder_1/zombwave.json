@@ -1,0 +1,21 @@
+{
+    "AppID": 2050890,
+    "Name": "ZombWave",
+    "Release date": "Jul 8, 2022",
+    "About the game": "ZombWave is a 2d, top down zombie arena shooter game with roguelike element. In this game you have only one job, SURVIVE. This is a hardcore game where every mistake is punished. No one level will be the same, because in this game is a implemented a random spawn enemy. That the reason why is a each gameplay a different. You improve your character in the game. But be careful, if a character dies or you leaves the level before completing it, you will lose all the improvements you have You unlock the characters while playing. Every fifth level you get a new character with a different weapon and little different skills. This is my first game and i will try to improve it in the future as well. Thank you for understanding. Well enjoy the game. :)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2050890/header.jpg?t=1657288683",
+    "Price": 1.99,
+    "Developers": "Matúš Kačeriak",
+    "Publishers": "Matúš Kačeriak",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2050890/ss_313c5bb0f7ad42a2ac58249ce86a6c44fcb1947e.1920x1080.jpg?t=1657288683,https://cdn.akamai.steamstatic.com/steam/apps/2050890/ss_0a3b25f97a9092db78fefa2c2a8a351273177429.1920x1080.jpg?t=1657288683,https://cdn.akamai.steamstatic.com/steam/apps/2050890/ss_25534a2e99cf5c919a192abe192a72884b34b062.1920x1080.jpg?t=1657288683,https://cdn.akamai.steamstatic.com/steam/apps/2050890/ss_e1bd3a09b34050b27332d109d2a8c8ef095de99b.1920x1080.jpg?t=1657288683,https://cdn.akamai.steamstatic.com/steam/apps/2050890/ss_16ad5eeef6c466c4de1154f616fbca7c59e12597.1920x1080.jpg?t=1657288683",
+    "Slug": "zombwave",
+    "Meta Title": "ZombWave: Jul 8, 2022, Matúš Kačeriak and Full Overview",
+    "Meta Description": "Looking for information on ZombWave? Check out the release date (Jul 8, 2022), developer insights from Matúš Kačeriak, and a complete game summary.",
+    "Alt Text Image": "Official header image for ZombWave game - Steam 2050890",
+    "Canonical URL": "https://gusku.site/game/zombwave",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ZombWave\", \"description\": \"Looking for information on ZombWave? Check out the release date (Jul 8, 2022), developer insights from Mat\\u00fa\\u0161 Ka\\u010deriak, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 8, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mat\\u00fa\\u0161 Ka\\u010deriak\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mat\\u00fa\\u0161 Ka\\u010deriak\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2050890/header.jpg?t=1657288683\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

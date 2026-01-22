@@ -1,0 +1,21 @@
+{
+    "AppID": 1768350,
+    "Name": "Multris",
+    "Release date": "Dec 21, 2021",
+    "About the game": "A modified version of the classic puzzle game, but with a twist. Randomly generated polyominoes of varying shapes and sizes fall from the top of the screen. It is YOUR job to put them together! Controls: LEFT / RIGHT ARROW - Move. Hold to move quicker. DOWN ARROW - Soft Drop UP ARROW - Hard Drop SPACE - Hold current piece / Swap current piece with held piece Z - Rotate CCW X - Rotate CW C - Mirror piece over Y-Axis ENTER - Select/Pause ESCAPE - Exit the game if pressed in the menu More Possibilities! Hundreds of Different Pieces! play How You Want to!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1768350/header.jpg?t=1640074503",
+    "Price": 0.99,
+    "Developers": "Russell Reich",
+    "Publishers": "Russell Reich",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1768350/ss_e0ca25229385f9707fb5712dbdb1d44d3f9e6da7.1920x1080.jpg?t=1640074503,https://cdn.akamai.steamstatic.com/steam/apps/1768350/ss_7c61c8b740c490aa262756c7d40bd2a97faf23e6.1920x1080.jpg?t=1640074503,https://cdn.akamai.steamstatic.com/steam/apps/1768350/ss_81590899d3e0bfe2d735c79364fc0b35cd82b7ae.1920x1080.jpg?t=1640074503,https://cdn.akamai.steamstatic.com/steam/apps/1768350/ss_0ae752c760f6443de9804a5cf8910269c3166f93.1920x1080.jpg?t=1640074503,https://cdn.akamai.steamstatic.com/steam/apps/1768350/ss_63fccbacbcb06bc629498ebac8efd4156cccade8.1920x1080.jpg?t=1640074503",
+    "Slug": "multris",
+    "Meta Title": "Multris: Dec 21, 2021, Russell Reich and Full Overview",
+    "Meta Description": "Looking for information on Multris? Check out the release date (Dec 21, 2021), developer insights from Russell Reich, and a complete game summary.",
+    "Alt Text Image": "Official header image for Multris game - Steam 1768350",
+    "Canonical URL": "https://gusku.site/game/multris",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Multris\", \"description\": \"Looking for information on Multris? Check out the release date (Dec 21, 2021), developer insights from Russell Reich, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 21, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Russell Reich\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Russell Reich\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1768350/header.jpg?t=1640074503\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1511400,
+    "Name": "Stream Quest",
+    "Release date": "Jan 22, 2021",
+    "About the game": "Stream Quest is a game designed for streamers and played by their viewers ! PLEASE BE AWARE OF THIS BEFORE BUYING! This game is not playable without a Twitch account! Stream Quest is a Twitch-chat controlled RPG designed for Streamers to run either alongside other games, during breaks of longer streams or along with their viewers (either competitively or collaboratively!) With features designed to make it as customisable as possible and as engaging towards the Streamers as possible, Stream Quest currently has the following features. Fully customizable Chat commands, dictating exactly how your community engages! Bits Rewards with custom values, with Full Heal, Double Damage and even the ability to summon a Streamer-controlled Ally! The option for any Channel Subscribers votes to count double when voting for Player actions! With great features still in active development (Levelling system, Magic, more Streamer-controlled elements....)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1511400/header.jpg?t=1611325034",
+    "Price": 9.99,
+    "Developers": "Richard Stamp",
+    "Publishers": "Richard Stamp",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1511400/ss_dd243aa32f2f356cec9c3b4eeb687d5ee8b17b8b.1920x1080.jpg?t=1611325034,https://cdn.akamai.steamstatic.com/steam/apps/1511400/ss_2f0fc62feb1d0170e93fb2e30ebae68e956e7b33.1920x1080.jpg?t=1611325034,https://cdn.akamai.steamstatic.com/steam/apps/1511400/ss_cde2d4372ad26c93759f254904b500733daca740.1920x1080.jpg?t=1611325034,https://cdn.akamai.steamstatic.com/steam/apps/1511400/ss_7beda5d33249ca82c5c6a03c3e65c326d35ca29a.1920x1080.jpg?t=1611325034,https://cdn.akamai.steamstatic.com/steam/apps/1511400/ss_627ffd59ccebb14df0d4920f9be593e4b90be0fb.1920x1080.jpg?t=1611325034",
+    "Slug": "stream-quest",
+    "Meta Title": "Stream Quest: Jan 22, 2021, Richard Stamp and Full Overview",
+    "Meta Description": "Looking for information on Stream Quest? Check out the release date (Jan 22, 2021), developer insights from Richard Stamp, and a complete game summary.",
+    "Alt Text Image": "Official header image for Stream Quest game - Steam 1511400",
+    "Canonical URL": "https://gusku.site/game/stream-quest",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Stream Quest\", \"description\": \"Looking for information on Stream Quest? Check out the release date (Jan 22, 2021), developer insights from Richard Stamp, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 22, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Richard Stamp\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Richard Stamp\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1511400/header.jpg?t=1611325034\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

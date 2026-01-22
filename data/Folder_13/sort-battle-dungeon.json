@@ -1,0 +1,21 @@
+{
+    "AppID": 1118870,
+    "Name": "Sort Battle: Dungeon",
+    "Release date": "Jul 25, 2019",
+    "About the game": "Sort monsters. Then battle them in the order you chose. Open chests for upgrades. Finish the dungeon to gain powerful new swords, chestplates, and amulets. Find more maps to tougher dungeons. Upgrade your character, combine old items to forge new ones, and finally defeat the Vampire Queen. That's it. Sort Battle: Dungeon is simple and fun, the kind of game that you will play late into the night. Hi, I'm Thom Robertson, and I made Sort Battle: Dungeon because I thought that sorting was inherently fun, and I wanted to explore that fun within the context of a videogame. Putting things in bins; sorting the cups in the cupboard; eating all the red jellybeans first. These are sorting behaviors we all do, generally speaking. I wanted to see if it was 'videogame' fun, and I had a vision in my head of an array of monsters that the player could drag and sort. So I built a prototype, and my first few testers were very pleased, so I proceeded to make this game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1118870/header.jpg?t=1565371306",
+    "Price": 9.99,
+    "Developers": "Incandescent Workshop LLC",
+    "Publishers": "Incandescent Workshop LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1118870/ss_629bd45b83e763039a50fbb50b40fb663ab2a326.1920x1080.jpg?t=1565371306,https://cdn.akamai.steamstatic.com/steam/apps/1118870/ss_bac14ea96fa4bca375808cd122fd504aec4d5494.1920x1080.jpg?t=1565371306,https://cdn.akamai.steamstatic.com/steam/apps/1118870/ss_5f958f29d18184b162f490e9310dfd2bf3bde2df.1920x1080.jpg?t=1565371306,https://cdn.akamai.steamstatic.com/steam/apps/1118870/ss_992fd8d56151e04a47ee34eddc6eee8840569ddf.1920x1080.jpg?t=1565371306,https://cdn.akamai.steamstatic.com/steam/apps/1118870/ss_47413bdedee83b70d4d75cc790cbde5f242443ec.1920x1080.jpg?t=1565371306,https://cdn.akamai.steamstatic.com/steam/apps/1118870/ss_3f2a0914d1154755c5df6c65afcfd6f32acf06b1.1920x1080.jpg?t=1565371306",
+    "Slug": "sort-battle-dungeon",
+    "Meta Title": "Sort Battle: Dungeon: Jul 25, 2019, Incandescent Workshop...",
+    "Meta Description": "Looking for information on Sort Battle: Dungeon? Check out the release date (Jul 25, 2019), developer insights from Incandescent Workshop LLC, and a com...",
+    "Alt Text Image": "Official header image for Sort Battle: Dungeon game - Steam 1118870",
+    "Canonical URL": "https://gusku.site/game/sort-battle-dungeon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sort Battle: Dungeon\", \"description\": \"Looking for information on Sort Battle: Dungeon? Check out the release date (Jul 25, 2019), developer insights from Incandescent Workshop LLC, and a com...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 25, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Incandescent Workshop LLC\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Incandescent Workshop LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1118870/header.jpg?t=1565371306\", \"offers\": {\"@type\": \"Offer\", \"price\": 9.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

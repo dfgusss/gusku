@@ -1,0 +1,21 @@
+{
+    "AppID": 1571120,
+    "Name": "Crucible",
+    "Release date": "Mar 22, 2021",
+    "About the game": "Dodge your way through the crucible of fire! Crucible is a top-down shooter game made by three DigiPen freshmen for their GAM100 class project. You control a magical dragon in a trial by fire against an older, stronger dragon. Your goal is to dodge through an onslaught of colorful bullet patterns without getting hit. There are twelve patterns in all; you win by lasting through all of them in a row. See the true ending by completing either difficulty without using any continues! Each bullet pattern can be cleared either by reducing the boss's stamina to zero or lasting until the pattern timer reaches zero. If the player is hit by a bullet, they can prevent themselves from losing a life point by reacting with a fireball burst attack. The player's score increases every second they're alive and whenever they come close to a bullet without touching it. Features: Full controller support Full keyboard support Two difficulty settings About Development This game was developed as a student project at DigiPen Institute of Technology and was created for educational purposes only. Please check out our publisher page for more information.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1571120/header.jpg?t=1638155654",
+    "Price": 0.0,
+    "Developers": "TriScale",
+    "Publishers": "DigiPen Institute of Technology",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1571120/ss_6910544ee518f177d49a4a0ae38aaa1fb1de92f0.1920x1080.jpg?t=1638155654,https://cdn.akamai.steamstatic.com/steam/apps/1571120/ss_0f1da92ef13a7ca947ec8ac4cb8a82bd84163e78.1920x1080.jpg?t=1638155654,https://cdn.akamai.steamstatic.com/steam/apps/1571120/ss_092c8dd6564f6405528ac73186038120c3e784f4.1920x1080.jpg?t=1638155654,https://cdn.akamai.steamstatic.com/steam/apps/1571120/ss_72b608533d2193fcf9298f06341f6250b019769f.1920x1080.jpg?t=1638155654,https://cdn.akamai.steamstatic.com/steam/apps/1571120/ss_49437b1c6abfd2eb124fcdef7e39054e8a35ce6c.1920x1080.jpg?t=1638155654,https://cdn.akamai.steamstatic.com/steam/apps/1571120/ss_e8c2bc3cabe5629f64f5be5ae745b1ae777e4cbe.1920x1080.jpg?t=1638155654",
+    "Slug": "crucible",
+    "Meta Title": "Crucible: Mar 22, 2021, TriScale and Full Overview",
+    "Meta Description": "Looking for information on Crucible? Check out the release date (Mar 22, 2021), developer insights from TriScale, and a complete game summary.",
+    "Alt Text Image": "Official header image for Crucible game - Steam 1571120",
+    "Canonical URL": "https://gusku.site/game/crucible",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Crucible\", \"description\": \"Looking for information on Crucible? Check out the release date (Mar 22, 2021), developer insights from TriScale, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 22, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"TriScale\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"DigiPen Institute of Technology\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1571120/header.jpg?t=1638155654\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

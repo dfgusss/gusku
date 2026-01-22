@@ -1,0 +1,21 @@
+{
+    "AppID": 878470,
+    "Name": "70 Seconds Survival",
+    "Release date": "Aug 8, 2018",
+    "About the game": "Game: 70 Seconds Survival is an arcade style race project, which doesn't contain realistic physics. The players mission is to find and reach the finish line under 70 seconds. The player also has to avoid damageable obstacles like spikes and bombs. There are also several AI police cars which the player also needs avoid. Police cars will start to chase the player immediately when map starts The player can choose from 4 different cars, which all have their own tracks. The player can choose from the following cars: Formula 1 car, Crosskart car, Rally car and GT race car. The player has a health system and colliding with spikes and bombs recudes health. Hitting to police car will immediately end the game. So be fast and avoid damage inducing objects. For now the game contains 23 tracks. Features: - 4 realisting looking cars: F1, Rallycar, Crosskart, GT car with 23 tracks to choose from - Health system - Third person and First person camera options - Time limit for each track - Damageable stuff such as Spikes and Bombs - Chasing police AI. Colliding with the police car will destroy the player immediately, so one hit will be enough to kill you",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/878470/header.jpg?t=1550987305",
+    "Price": 0.49,
+    "Developers": "Tero Lunkka,Valkeala Software",
+    "Publishers": "Tero Lunkka",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/878470/ss_d6dcb0378b0913b2bee226739eb0052ab4bc0386.1920x1080.jpg?t=1550987305,https://cdn.akamai.steamstatic.com/steam/apps/878470/ss_a7d1d8a4a63919809361fe6efda83d956f6dc4b8.1920x1080.jpg?t=1550987305,https://cdn.akamai.steamstatic.com/steam/apps/878470/ss_68ee160ceb61e1cba9275a473595185991dce61b.1920x1080.jpg?t=1550987305,https://cdn.akamai.steamstatic.com/steam/apps/878470/ss_5f2552d50a7252dd8e37bc55c8276a572421927b.1920x1080.jpg?t=1550987305,https://cdn.akamai.steamstatic.com/steam/apps/878470/ss_70f9f8cce7594ffe4dd11f39ad3f4907c2de8342.1920x1080.jpg?t=1550987305,https://cdn.akamai.steamstatic.com/steam/apps/878470/ss_8c46bdce332a66a95a99127959384d8b5cb6e6a4.1920x1080.jpg?t=1550987305,https://cdn.akamai.steamstatic.com/steam/apps/878470/ss_9b4db49d5be39572cdfef718fca9cdfa80652502.1920x1080.jpg?t=1550987305",
+    "Slug": "70-seconds-survival",
+    "Meta Title": "70 Seconds Survival: Aug 8, 2018, Tero Lunkka,Valkeala So...",
+    "Meta Description": "Looking for information on 70 Seconds Survival? Check out the release date (Aug 8, 2018), developer insights from Tero Lunkka,Valkeala Software, and a c...",
+    "Alt Text Image": "Official header image for 70 Seconds Survival game - Steam 878470",
+    "Canonical URL": "https://gusku.site/game/70-seconds-survival",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"70 Seconds Survival\", \"description\": \"Looking for information on 70 Seconds Survival? Check out the release date (Aug 8, 2018), developer insights from Tero Lunkka,Valkeala Software, and a c...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 8, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tero Lunkka,Valkeala Software\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tero Lunkka\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/878470/header.jpg?t=1550987305\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

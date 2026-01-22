@@ -1,0 +1,21 @@
+{
+    "AppID": 1473100,
+    "Name": "Guess Colors",
+    "Release date": "Dec 8, 2020",
+    "About the game": "Guess Colors is a minimalist puzzle game we used to play in the childhood. We have four cells and six colors available and you should try to find in less than ten steps what is the right color sequence. Green stars means you have a cell with the right color in the right position, red starts means you have the right color in the wrong position. Try to guess the color sequence in less steps Accumulate points and try to beat your records Try to get the 'Hole In One' achievement! Relax playing this fun game from your childhood!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1473100/header.jpg?t=1607425944",
+    "Price": 0.99,
+    "Developers": "Paulo Sigrist",
+    "Publishers": "Paulo Sigrist",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1473100/ss_cfe62192eb26b9de510ce4c209012ec4e5fe6323.1920x1080.jpg?t=1607425944,https://cdn.akamai.steamstatic.com/steam/apps/1473100/ss_1097a4ef6800913e6cf4d39cc806034bc4cb85a5.1920x1080.jpg?t=1607425944,https://cdn.akamai.steamstatic.com/steam/apps/1473100/ss_f03aadbad78e1c0e4b39ce162cd33e179002885a.1920x1080.jpg?t=1607425944,https://cdn.akamai.steamstatic.com/steam/apps/1473100/ss_5b937a95c25c2a13ab8cb838e84c1c225438c091.1920x1080.jpg?t=1607425944,https://cdn.akamai.steamstatic.com/steam/apps/1473100/ss_8c9dd2e9712d0e849d0595a8c2f7ddcc45338e9e.1920x1080.jpg?t=1607425944",
+    "Slug": "guess-colors",
+    "Meta Title": "Guess Colors: Dec 8, 2020, Paulo Sigrist and Full Overview",
+    "Meta Description": "Looking for information on Guess Colors? Check out the release date (Dec 8, 2020), developer insights from Paulo Sigrist, and a complete game summary.",
+    "Alt Text Image": "Official header image for Guess Colors game - Steam 1473100",
+    "Canonical URL": "https://gusku.site/game/guess-colors",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Guess Colors\", \"description\": \"Looking for information on Guess Colors? Check out the release date (Dec 8, 2020), developer insights from Paulo Sigrist, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 8, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Paulo Sigrist\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Paulo Sigrist\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1473100/header.jpg?t=1607425944\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

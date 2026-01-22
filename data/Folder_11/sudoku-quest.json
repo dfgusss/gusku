@@ -1,0 +1,21 @@
+{
+    "AppID": 436280,
+    "Name": "Sudoku Quest",
+    "Release date": "Jun 3, 2016",
+    "About the game": "Sudoku Quest is the game for truly Sudoku lovers. You’ll be challenged to test your skills in Adventure mode with constantly increasing board difficulty. Various Sudoku types and sizes are provided to diversify your adventure experience. In case you want to practice in solving certain Sudoku you can play Custom mode. Features Health is limited. From the start you’ll have certain amount of health that cannot be replenished. Make your moves carefully. Power-ups can help in your progress but they’ll reduce the reward. Each Sudoku is generated on the fly and always uniquely solvable, thus you won’t encounter the same board twice. Leaderboards for Adventure mode as well as for Custom mode will give you the chance to compete against other players and prove that you’re the true Sudoku master.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/436280/header.jpg?t=1464994839",
+    "Price": 4.99,
+    "Developers": "Harbinger Beard",
+    "Publishers": "Harbinger Beard",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/436280/ss_c01a1dd8a90cd4fd559f43ec7a419d55d4a3c24e.1920x1080.jpg?t=1464994839,https://cdn.akamai.steamstatic.com/steam/apps/436280/ss_fc7adb2d18e8a3ff54596d3e0bc7910dd67be290.1920x1080.jpg?t=1464994839,https://cdn.akamai.steamstatic.com/steam/apps/436280/ss_bcc97e70a9cedf836d5210a6a9888c65571cceb4.1920x1080.jpg?t=1464994839,https://cdn.akamai.steamstatic.com/steam/apps/436280/ss_5c4d610b5c0cc20b23068dc279cb107d6fe71433.1920x1080.jpg?t=1464994839,https://cdn.akamai.steamstatic.com/steam/apps/436280/ss_d62ca1adc4fe107433ab31b2cde9f4a1927e8bc3.1920x1080.jpg?t=1464994839",
+    "Slug": "sudoku-quest",
+    "Meta Title": "Sudoku Quest: Jun 3, 2016, Harbinger Beard and Full Overview",
+    "Meta Description": "Looking for information on Sudoku Quest? Check out the release date (Jun 3, 2016), developer insights from Harbinger Beard, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sudoku Quest game - Steam 436280",
+    "Canonical URL": "https://gusku.site/game/sudoku-quest",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sudoku Quest\", \"description\": \"Looking for information on Sudoku Quest? Check out the release date (Jun 3, 2016), developer insights from Harbinger Beard, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 3, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Harbinger Beard\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Harbinger Beard\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/436280/header.jpg?t=1464994839\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

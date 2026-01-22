@@ -1,0 +1,21 @@
+{
+    "AppID": 1727070,
+    "Name": "Surgical Robot Simulator",
+    "Release date": "Sep 18, 2021",
+    "About the game": "Joshua is a medical student, but he doesn't study hard and fiddles with some strange things all day. After graduation, he has been studying a surgical machine from the perspective of the interior of the human body. The machine consists of 1 camera and 2 instrument controllers. After wearing VR glasses, the operator can remotely control the camera to move in the human body and clearly observe the situation of organs in the abdominal cavity. Two VR handles are used at the same time to remotely control the surgical instrument. Using this super realastic surgical simulator, you will be able to see the real organ deformation, cutting, blood ejection, blood diffusion and other phenomena, and complete difficult operations by operating the surgical instrument. Starting from the simplest basic level, you will learn basic operations such as grasping, electrocoagulation, cutting tissue and so on. Please be careful not to damage the patient's tissue or lose too much blood. When you pass the basic training, you will enter the operation level, including cholecystectomy and appendectomy. Powered by the great soft tissue simulation engine we developed, you can perfectly experience the tactile and visual effects of real surgery.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1727070/header.jpg?t=1631982071",
+    "Price": 0.0,
+    "Developers": "Tornado Studio",
+    "Publishers": "Sooyan Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1727070/ss_4afbeeb3ed19a39771caba81912e38ddee1f30fc.1920x1080.jpg?t=1631982071,https://cdn.akamai.steamstatic.com/steam/apps/1727070/ss_966a530400cfb1c018701b2d5f6e0d5a25b21c3e.1920x1080.jpg?t=1631982071,https://cdn.akamai.steamstatic.com/steam/apps/1727070/ss_04012a05f884d39e1261acb21d0a2cf52a778671.1920x1080.jpg?t=1631982071,https://cdn.akamai.steamstatic.com/steam/apps/1727070/ss_0b2f2d0bc910147eb62e1fe6f122574d7b73d953.1920x1080.jpg?t=1631982071,https://cdn.akamai.steamstatic.com/steam/apps/1727070/ss_09cef55b87e04ba2d43e7e4da3d66b0435ab983c.1920x1080.jpg?t=1631982071,https://cdn.akamai.steamstatic.com/steam/apps/1727070/ss_2804f37c526c22929e523bc533cf08e5bd359532.1920x1080.jpg?t=1631982071",
+    "Slug": "surgical-robot-simulator",
+    "Meta Title": "Surgical Robot Simulator: Sep 18, 2021, Tornado Studio an...",
+    "Meta Description": "Looking for information on Surgical Robot Simulator? Check out the release date (Sep 18, 2021), developer insights from Tornado Studio, and a complete g...",
+    "Alt Text Image": "Official header image for Surgical Robot Simulator game - Steam 1727070",
+    "Canonical URL": "https://gusku.site/game/surgical-robot-simulator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Surgical Robot Simulator\", \"description\": \"Looking for information on Surgical Robot Simulator? Check out the release date (Sep 18, 2021), developer insights from Tornado Studio, and a complete g...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 18, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tornado Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sooyan Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1727070/header.jpg?t=1631982071\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

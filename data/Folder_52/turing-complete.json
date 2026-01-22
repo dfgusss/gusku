@@ -1,0 +1,21 @@
+{
+    "AppID": 1444480,
+    "Name": "Turing Complete",
+    "Release date": "Oct 2, 2021",
+    "About the game": "-= LEARN =- Everything in a computer can be constructed from a basic component called a NAND gate. You will be challenged through a series of puzzles, to discover the path from NAND gates to arithmetic, memory and all the way to full CPU architectures. If you complete this game, you will have a deep understanding of how assembly, CPU instruction sets and basic components are related. And you will understand how programming concepts like if statements, loops and functions actually work in assembly and hardware. -= BUILD =- The game is built on a powerful simulator, that gives you total freedom in how you solve levels or create your own computers. Wire up screens, timers, sound, keyboard input and network components to create whatever you want. You can even design a unique assembly language for your computer.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/header.jpg?t=1658485214",
+    "Price": 19.99,
+    "Developers": "LevelHead",
+    "Publishers": "LevelHead",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_11c609c02e242aff7261676d063f732d4fa66653.1920x1080.jpg?t=1658485214,https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_c60bd540cc6586e01b7d3aba3ba33b1c07f222c0.1920x1080.jpg?t=1658485214,https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_1bac4bab81311d236e9ce373da10f3f978fffa44.1920x1080.jpg?t=1658485214,https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_98c828431dbca7c85d909e8a9f894fe036ca8b0a.1920x1080.jpg?t=1658485214,https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_49556255a39a45d67e360f28b853643f05e19851.1920x1080.jpg?t=1658485214,https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_a196fa59ea171f4d3e28750cd939b1255bafe966.1920x1080.jpg?t=1658485214",
+    "Slug": "turing-complete",
+    "Meta Title": "Turing Complete: Oct 2, 2021, LevelHead and Full Overview",
+    "Meta Description": "Looking for information on Turing Complete? Check out the release date (Oct 2, 2021), developer insights from LevelHead, and a complete game summary.",
+    "Alt Text Image": "Official header image for Turing Complete game - Steam 1444480",
+    "Canonical URL": "https://gusku.site/game/turing-complete",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Turing Complete\", \"description\": \"Looking for information on Turing Complete? Check out the release date (Oct 2, 2021), developer insights from LevelHead, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 2, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"LevelHead\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LevelHead\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1444480/header.jpg?t=1658485214\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

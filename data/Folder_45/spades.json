@@ -1,0 +1,21 @@
+{
+    "AppID": 1680300,
+    "Name": "Spades",
+    "Release date": "Jul 13, 2021",
+    "About the game": "The classical card game Spades. Play with or against AIs and/or your friends on Steam.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1680300/header.jpg?t=1626161567",
+    "Price": 3.99,
+    "Developers": "Marcus Andersson",
+    "Publishers": "fullrune",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1680300/ss_e8ab1ae06c30a3346077d7a8af89886b8d8ae055.1920x1080.jpg?t=1626161567,https://cdn.akamai.steamstatic.com/steam/apps/1680300/ss_71e4cb5a6219eece0afa956f546652ba76a80168.1920x1080.jpg?t=1626161567,https://cdn.akamai.steamstatic.com/steam/apps/1680300/ss_c3d1dc9e27b16faf38d35072d5e923c75824d61f.1920x1080.jpg?t=1626161567,https://cdn.akamai.steamstatic.com/steam/apps/1680300/ss_8b5bd6268cc2e3b32477f5537aaf617ac52f37bb.1920x1080.jpg?t=1626161567,https://cdn.akamai.steamstatic.com/steam/apps/1680300/ss_6a8577e01f28feecc2823455ef06fa2bfe336e7e.1920x1080.jpg?t=1626161567",
+    "Slug": "spades",
+    "Meta Title": "Spades: Jul 13, 2021, Marcus Andersson and Full Overview",
+    "Meta Description": "Looking for information on Spades? Check out the release date (Jul 13, 2021), developer insights from Marcus Andersson, and a complete game summary.",
+    "Alt Text Image": "Official header image for Spades game - Steam 1680300",
+    "Canonical URL": "https://gusku.site/game/spades",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Spades\", \"description\": \"Looking for information on Spades? Check out the release date (Jul 13, 2021), developer insights from Marcus Andersson, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 13, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Marcus Andersson\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"fullrune\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1680300/header.jpg?t=1626161567\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

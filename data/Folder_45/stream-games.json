@@ -1,0 +1,21 @@
+{
+    "AppID": 872990,
+    "Name": "Stream Games",
+    "Release date": "Jul 6, 2018",
+    "About the game": "Stream Games Only works for TWITCH Streamers Stream Games is a set of mini games that Twitch Streamers can play with their viewers interaction Available Content: - 7 minigames - 3 tools Stream Games does not display nicknames for viewers that have non-Latin characters, such as Japanese, Chinese, Korean, etc. As a Streamer, you can connect Stream Games to the chat of your channel and allow your viewers to participate in mini-games to earn rank and points. You can set your bot and currency name, or customize the commands that your channel bot uses to add points to the viewers. That way, your viewers will get points when winning the games. Multiplayer and interaction only works through a channel chat from Twitch (twitch.tv)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/872990/header.jpg?t=1597940503",
+    "Price": 4.99,
+    "Developers": "Lipe Pereira(bro),IceMakerZero",
+    "Publishers": "Lipe Pereira(bro),IceMakerZero",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/872990/ss_7fad18756e9abd9ebda981af98464cf7086a309b.1920x1080.jpg?t=1597940503,https://cdn.akamai.steamstatic.com/steam/apps/872990/ss_1e63f124c481efbbc3f5a2344097931f1458460c.1920x1080.jpg?t=1597940503,https://cdn.akamai.steamstatic.com/steam/apps/872990/ss_4898b47b5627c9478e1523f1331235b96e5797b2.1920x1080.jpg?t=1597940503,https://cdn.akamai.steamstatic.com/steam/apps/872990/ss_b846c7f02e03bbc9bdbd2ef7b5142978aef600eb.1920x1080.jpg?t=1597940503,https://cdn.akamai.steamstatic.com/steam/apps/872990/ss_491cdad353193ad107543c1fdfb9f6896dc4f69c.1920x1080.jpg?t=1597940503",
+    "Slug": "stream-games",
+    "Meta Title": "Stream Games: Jul 6, 2018, Lipe Pereira(bro),IceMakerZero...",
+    "Meta Description": "Looking for information on Stream Games? Check out the release date (Jul 6, 2018), developer insights from Lipe Pereira(bro),IceMakerZero, and a complet...",
+    "Alt Text Image": "Official header image for Stream Games game - Steam 872990",
+    "Canonical URL": "https://gusku.site/game/stream-games",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Stream Games\", \"description\": \"Looking for information on Stream Games? Check out the release date (Jul 6, 2018), developer insights from Lipe Pereira(bro),IceMakerZero, and a complet...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 6, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lipe Pereira(bro),IceMakerZero\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Lipe Pereira(bro),IceMakerZero\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/872990/header.jpg?t=1597940503\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

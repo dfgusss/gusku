@@ -1,0 +1,21 @@
+{
+    "AppID": 1746870,
+    "Name": "Serene Asylum",
+    "Release date": "Oct 5, 2021",
+    "About the game": "You wake up on the operating table in an abandoned insane asylum unaware of how you got there. Wander around the dark halls of horror as you solve puzzles and uncover the truth behind the dark history of Santa Rosa Asylum. Escape with your sanity intact or suffer to repeat the endless cycle. Now if you're reading this, you need to wake up! Trigger Warner. This game may contain graphic descriptions and/or graphic implications of suicide. Player discretion advised. Controls WASD, mouse to turn camera Click to pick up items, click again to drop 'E' key if prompted to interact with items/ 'E' again to stop interacting 'P' key to pause game or access settings page ----------- Solo Developer Here! Thanks for checking out my game. I hope you all enjoy it and feel free to join the discord to report any bugs you find and I'll do my best to patch them as soon as possible. 10-08-21 PATCH NOTES: - camera collision box fix - character collision box fix - trigger boxes replacement - reduced mouse sensitivity 10-10-21 PATCH NOTES -added mouse sensitivity setting in settings page 10-12-21 PACTH NOTES - added audio settings to the settings page - reworked collision boxes",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1746870/header.jpg?t=1637630378",
+    "Price": 0.0,
+    "Developers": "MPlant Games",
+    "Publishers": "MPlant Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1746870/ss_b80a5f919c18e435affea5bdccab016a34bb5a07.1920x1080.jpg?t=1637630378,https://cdn.akamai.steamstatic.com/steam/apps/1746870/ss_9fa6c5ac8ec0bc5b9de6f5c4066403117b81917b.1920x1080.jpg?t=1637630378,https://cdn.akamai.steamstatic.com/steam/apps/1746870/ss_1a0256c5da4e5fba95635649f4279a673fae3602.1920x1080.jpg?t=1637630378,https://cdn.akamai.steamstatic.com/steam/apps/1746870/ss_4e84cbb7ebc1df8b8e4e9fe4e08265baf0a5eced.1920x1080.jpg?t=1637630378",
+    "Slug": "serene-asylum",
+    "Meta Title": "Serene Asylum: Oct 5, 2021, MPlant Games and Full Overview",
+    "Meta Description": "Looking for information on Serene Asylum? Check out the release date (Oct 5, 2021), developer insights from MPlant Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Serene Asylum game - Steam 1746870",
+    "Canonical URL": "https://gusku.site/game/serene-asylum",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Serene Asylum\", \"description\": \"Looking for information on Serene Asylum? Check out the release date (Oct 5, 2021), developer insights from MPlant Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 5, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"MPlant Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MPlant Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1746870/header.jpg?t=1637630378\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

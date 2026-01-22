@@ -1,0 +1,21 @@
+{
+    "AppID": 1632810,
+    "Name": "Cursed Locations",
+    "Release date": "May 27, 2021",
+    "About the game": "A 2d puzzle platformer game with different mechanics for each cursed location. you don't have direct control over curses, most of them are triggered by things like falling or dying so enemies can trigger them too. some examples are If you jump 3 times in a certain area then it triggers all horizontally aligned entities to swap minds and if objects fall fast in a certain area then they explode.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1632810/header.jpg?t=1622111452",
+    "Price": 4.99,
+    "Developers": "Karpopper",
+    "Publishers": "Karpopper",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1632810/ss_79a3997c7e1825ae5e16b40e409e4b5a259ce0a0.1920x1080.jpg?t=1622111452,https://cdn.akamai.steamstatic.com/steam/apps/1632810/ss_d00d4750192316f966af14579a6b019385989c54.1920x1080.jpg?t=1622111452,https://cdn.akamai.steamstatic.com/steam/apps/1632810/ss_774b7410b1232c021c6646afccff24424870f196.1920x1080.jpg?t=1622111452,https://cdn.akamai.steamstatic.com/steam/apps/1632810/ss_de9ecbff41386e64aed10a4341fca471c43c3a15.1920x1080.jpg?t=1622111452,https://cdn.akamai.steamstatic.com/steam/apps/1632810/ss_f34a36b78b93372dbb43076e9d5a90a25505e003.1920x1080.jpg?t=1622111452",
+    "Slug": "cursed-locations",
+    "Meta Title": "Cursed Locations: May 27, 2021, Karpopper and Full Overview",
+    "Meta Description": "Looking for information on Cursed Locations? Check out the release date (May 27, 2021), developer insights from Karpopper, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cursed Locations game - Steam 1632810",
+    "Canonical URL": "https://gusku.site/game/cursed-locations",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cursed Locations\", \"description\": \"Looking for information on Cursed Locations? Check out the release date (May 27, 2021), developer insights from Karpopper, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 27, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Karpopper\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Karpopper\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1632810/header.jpg?t=1622111452\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 710280,
+    "Name": "Musician",
+    "Release date": "Mar 19, 2018",
+    "About the game": "1. in the game there are a large number of music files, and can have any MIDI file into music and animation features, you select any song, the game will automatically find its rhythm, and melody into the game notes, can play music with the game player hitting the notes, hit more accurately, the score is more high. The highest score for each note is five points. 2., some musical forms, such as polyphonic and so on, have many melodies. You can invite friends to join you in playing these tunes, such as Bach's music, you can expand the musical notes and playing ways of a variety of musical instruments. 3., you can create your own melody in the game, by splicing different music clips, or using the game built-in fragment generator to generate fragments, and you can organize the tune into the style you want. 4. games will be allowed to import external music files, automatically generate animation and find melodies. 5.you can use the keypad 1-7 to represent the seven notes; such as C; DEFGAB; etc. You can also use seven keys; such as CDEFGAB on the keyboard; to represent them. 6.Polyphony: the combination and correspondence of many people's melody is composed of polyphonic. Each melody line is an independent person singing, while many people's Melody intertwined, forming a multi part chorus. 7.Team competition: in every game‘ everyone will play a polyphony track. The error of hitting note is less than 0.05 seconds‘ 5 points‘ less than 0.1 seconds to get 3 points‘ less than 0.15 seconds to get 2 points‘ and less than 0.2 seconds to get 1 points. The score of the group has reached a total score of more than 60%‘ and the corresponding achievements and rewards can be obtained.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/710280/header.jpg?t=1521511480",
+    "Price": 12.99,
+    "Developers": "ZhangHaiLong",
+    "Publishers": "ZhangHaiLong",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/710280/ss_21244d4ce91a728a2ce4a526a4f9df9a049f2604.1920x1080.jpg?t=1521511480,https://cdn.akamai.steamstatic.com/steam/apps/710280/ss_3d524924158cb44b2cae2afc614a1d76f0075713.1920x1080.jpg?t=1521511480,https://cdn.akamai.steamstatic.com/steam/apps/710280/ss_c220faaa0ab902294bc38bcd18b4aeb463930c9b.1920x1080.jpg?t=1521511480,https://cdn.akamai.steamstatic.com/steam/apps/710280/ss_81d3c8ec773db8809b119ad6227428e6bffd03ec.1920x1080.jpg?t=1521511480,https://cdn.akamai.steamstatic.com/steam/apps/710280/ss_347d6586840e0fdc13ce51e8e6d7fc4763f6fd1c.1920x1080.jpg?t=1521511480",
+    "Slug": "musician",
+    "Meta Title": "Musician: Mar 19, 2018, ZhangHaiLong and Full Overview",
+    "Meta Description": "Looking for information on Musician? Check out the release date (Mar 19, 2018), developer insights from ZhangHaiLong, and a complete game summary.",
+    "Alt Text Image": "Official header image for Musician game - Steam 710280",
+    "Canonical URL": "https://gusku.site/game/musician",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Musician\", \"description\": \"Looking for information on Musician? Check out the release date (Mar 19, 2018), developer insights from ZhangHaiLong, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 19, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"ZhangHaiLong\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ZhangHaiLong\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/710280/header.jpg?t=1521511480\", \"offers\": {\"@type\": \"Offer\", \"price\": 12.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

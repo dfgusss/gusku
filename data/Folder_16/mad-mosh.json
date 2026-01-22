@@ -1,0 +1,21 @@
+{
+    "AppID": 1359910,
+    "Name": "Mad Mosh",
+    "Release date": "Aug 14, 2020",
+    "About the game": "Relive your favourite club nights and gigs, load your own music (Hardcore, Punk, Metal, any genre really, via .wav audio file format) and go to the dance floor, annihilate anyone in your path using the classic metal moshing moves (lots of NPC's doing the same), stage dive as you please, head bang with realistic hair physics. The music you load drives the game, your experience. In a nutshell, it's a next level heavy metal music sim. Hone your inner Metal head or be straightedge, or go punk and destroy everything, or play some classical Beethoven while moshing, we don't mind. Or visit other clubs and explore. IMPORTANT - Setup instructions: For the ideal playing experience, before playing the game grab some of your favourite artists .wav tracks, copy those into the folder ..\\Windows\\MadMosh_Data\\StreamingAssets When the game loads it loads those songs and plays them in order, to get data such as beats per minute. If you do not perform this step, don't worry, the default in-game music will play! When you are ready start the game. Once playing, press the escape key to get the options, help, player customisation. To stage dive press the right shift key while in dance more (Hold both left and right shift for a BIG stage dive, to stop/start dance mode press left ctrl key), power moves controlled by M, , ? keys, L is for headbanging. Take a drink to get your strength back, press E key near a drink. C key is for slow motion. Have fun in the mosh pit.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1359910/header.jpg?t=1597403094",
+    "Price": 3.99,
+    "Developers": "khos85",
+    "Publishers": "khos85",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1359910/ss_9fa3534a1f308fcfba2e24aafe5ce40fab15029b.1920x1080.jpg?t=1597403094,https://cdn.akamai.steamstatic.com/steam/apps/1359910/ss_e31be15de25842c392473ed6a6a44a024ca8c5a4.1920x1080.jpg?t=1597403094,https://cdn.akamai.steamstatic.com/steam/apps/1359910/ss_f2538ed2f19a089beee33f18bdc3c2af5389fbc2.1920x1080.jpg?t=1597403094,https://cdn.akamai.steamstatic.com/steam/apps/1359910/ss_f8cccb01810f5c47be87f363178afdd5050d7046.1920x1080.jpg?t=1597403094,https://cdn.akamai.steamstatic.com/steam/apps/1359910/ss_6d8c3145ddc24aaf6bcc39df956077c1bf8176f6.1920x1080.jpg?t=1597403094,https://cdn.akamai.steamstatic.com/steam/apps/1359910/ss_00b9b18839e39daa438a60bb482ad4dcd3bcaf53.1920x1080.jpg?t=1597403094,https://cdn.akamai.steamstatic.com/steam/apps/1359910/ss_83a8414bb57a1699811e88b21bebf12fa4eab40a.1920x1080.jpg?t=1597403094",
+    "Slug": "mad-mosh",
+    "Meta Title": "Mad Mosh: Aug 14, 2020, khos85 and Full Overview",
+    "Meta Description": "Looking for information on Mad Mosh? Check out the release date (Aug 14, 2020), developer insights from khos85, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mad Mosh game - Steam 1359910",
+    "Canonical URL": "https://gusku.site/game/mad-mosh",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mad Mosh\", \"description\": \"Looking for information on Mad Mosh? Check out the release date (Aug 14, 2020), developer insights from khos85, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 14, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"khos85\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"khos85\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1359910/header.jpg?t=1597403094\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

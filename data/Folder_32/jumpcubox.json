@@ -1,0 +1,21 @@
+{
+    "AppID": 1596290,
+    "Name": "JumpCubox",
+    "Release date": "May 6, 2021",
+    "About the game": "JumpCubox is a physics-based 2.5D platformer. Roll and jump your cube through harsh traps in order to reach the goal. You have 30 levels to complete, collecting coins as you go! There are 3 coins in each level. ・Level clear: Reach the goal safely! ・Coins: Find the coins and get them! ・Time Attack: Try to complete each level within the time set for it! You can also wall jump, climb up hills, touch switches to open doors, and clear various other gimmicks!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1596290/header.jpg?t=1620288250",
+    "Price": 4.99,
+    "Developers": "GARAKUTA NOISE",
+    "Publishers": "GARAKUTA NOISE",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1596290/ss_5877841c142a018e049f1e1ffb3e6f53a5bae256.1920x1080.jpg?t=1620288250,https://cdn.akamai.steamstatic.com/steam/apps/1596290/ss_0c58fd85baf991d4bd96bf0fda852b308532f22f.1920x1080.jpg?t=1620288250,https://cdn.akamai.steamstatic.com/steam/apps/1596290/ss_56f680b9230b4d4b1a64c79bfcdfe84265f9e89c.1920x1080.jpg?t=1620288250,https://cdn.akamai.steamstatic.com/steam/apps/1596290/ss_c4124982821b923f5c4ddb96621b5648fa599911.1920x1080.jpg?t=1620288250,https://cdn.akamai.steamstatic.com/steam/apps/1596290/ss_bec5d1e91a44e7b29c52da8a1cda2da3a30d1657.1920x1080.jpg?t=1620288250",
+    "Slug": "jumpcubox",
+    "Meta Title": "JumpCubox: May 6, 2021, GARAKUTA NOISE and Full Overview",
+    "Meta Description": "Looking for information on JumpCubox? Check out the release date (May 6, 2021), developer insights from GARAKUTA NOISE, and a complete game summary.",
+    "Alt Text Image": "Official header image for JumpCubox game - Steam 1596290",
+    "Canonical URL": "https://gusku.site/game/jumpcubox",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"JumpCubox\", \"description\": \"Looking for information on JumpCubox? Check out the release date (May 6, 2021), developer insights from GARAKUTA NOISE, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 6, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"GARAKUTA NOISE\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"GARAKUTA NOISE\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1596290/header.jpg?t=1620288250\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

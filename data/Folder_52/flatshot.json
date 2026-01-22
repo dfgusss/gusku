@@ -1,0 +1,21 @@
+{
+    "AppID": 517510,
+    "Name": "Flatshot",
+    "Release date": "Dec 22, 2017",
+    "About the game": "Flatshot is a Shoot'em up (Bullet-Hell, Shmup or STG) with minimalist flat aesthetics. Features Keyboard and Gamepad support Available on Linux and Windows Continuous boss fights Steam achievements Global and friends ranking Save replays of your bests runs Watch global and friend's replays Interactive tutorial and training Minimalist flat design Random generated backgrounds Engaging soundtrack Diverse, unique and challenging boss attack patterns Deep and simple core mechanics Minimalism Game mechanics With only 8 directional movement and a single action button we achieved a deep gameplay experience: Proximity damage multiplier: The closer you get, the harder you hit. Charge attack: Stop shooting to charge, shoot to unleash the an attack that cleans bullets in it's way. Parry: Press the shoot button right before getting hit to parry. Parry dash: After a successful parry, keep the shoot button pressed for a short invulnerability time and speed boost. Damage proration: On hit, the player activates a shield that lowers the next hits damage. Graphics We created a visually pleasing look inspired by flat principles. No HUD: We replaced the traditional HUD by other indicators such as screen shakes, sound effects, color effects. Now the player will be more focused on the fast paced action. Random generated backgrounds: Every time the game starts a new background will be generated. All backgrounds are carefully designed with colors and shapes that will surprise the player senses every time.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/517510/header.jpg?t=1514008094",
+    "Price": 1.99,
+    "Developers": "Turupawn,Ceteco,bobbyliciou5,morghan831,immac",
+    "Publishers": "Rosalila",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/517510/ss_3cf6ac8163c35995ab9c4f2aa803ac141ae66da8.1920x1080.jpg?t=1514008094,https://cdn.akamai.steamstatic.com/steam/apps/517510/ss_c739aa0a7558e230183b4000970d3734fadaabbc.1920x1080.jpg?t=1514008094,https://cdn.akamai.steamstatic.com/steam/apps/517510/ss_21241726951a8f686c10db9dfcf127ea230c225b.1920x1080.jpg?t=1514008094,https://cdn.akamai.steamstatic.com/steam/apps/517510/ss_d418e0c7f480eb612802a0533e91ffcc8fba7ec6.1920x1080.jpg?t=1514008094,https://cdn.akamai.steamstatic.com/steam/apps/517510/ss_c10b1b8ce0b3a49d475acc53c760f59a378c2ff3.1920x1080.jpg?t=1514008094",
+    "Slug": "flatshot",
+    "Meta Title": "Flatshot: Dec 22, 2017, Turupawn,Ceteco,bobbyliciou5,morg...",
+    "Meta Description": "Looking for information on Flatshot? Check out the release date (Dec 22, 2017), developer insights from Turupawn,Ceteco,bobbyliciou5,morghan831,immac, a...",
+    "Alt Text Image": "Official header image for Flatshot game - Steam 517510",
+    "Canonical URL": "https://gusku.site/game/flatshot",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Flatshot\", \"description\": \"Looking for information on Flatshot? Check out the release date (Dec 22, 2017), developer insights from Turupawn,Ceteco,bobbyliciou5,morghan831,immac, a...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 22, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Turupawn,Ceteco,bobbyliciou5,morghan831,immac\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rosalila\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/517510/header.jpg?t=1514008094\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

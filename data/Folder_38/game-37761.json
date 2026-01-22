@@ -1,0 +1,21 @@
+{
+    "AppID": 1087960,
+    "Name": "《鬼畜战记：金坷垃传说》",
+    "Release date": "Jul 25, 2019",
+    "About the game": "新建了游戏交流群：598527095 操作说明： Z：确认 X：取消/加速 移动：方向键 空格：跳过 游戏目录下的game.ini可以自行修改按键（用记事本打开） 存档位置：游戏目录下save文件夹中。 如果游戏中遇到bug或者其他问题，请联系qq 2589342455 关于这款游戏： 等级(Lv)系统： 游戏中当角色与敌人战斗时可以获得经验值(Exp)，经验值达到一定数量时角色即可提升等级，等级越高角色的战斗力将越强。 血量(HP)设定： 每个角色都有血量(HP)，如果被敌人击中即会损失血量，当血量为0时该角色将会被击败，所以请时刻关注角色的当前血量。大多数情况下，血量值将随着等级的提升而提升。 武器(Weapon)耐久度： 角色必须装备对应的武器才能进行攻击，攻击时将会消耗耐久度，当耐久度为0时武器将会自动销毁。大多数情况下，近战类武器攻击未命中时将不会消耗耐久。 回合制(Turn)模式： 游戏模式为回合制，分别为我军回合(Player Turn)、敌军回合(Enemy Turn)、盟友回合(Ally Turn)。大多数情况下，当处于我军回合时，玩家可以操纵所有我方角色进行移动、攻击、使用道具等命令。玩家可以按照自己的意愿来安排角色行动的顺序，完成行动的角色将处于待机状态（单位将变成灰色）。一般情况下，当所有我方角色行动完成后，即可结束当前回合，不过这并不是强制的，也就是说当有我方角色未处于待机状态时，同样可以立即结束当前回合。至于是否需要这样操作，玩家可以根据具体的战局来决定。而在敌军回合和盟友回合时，电脑将自动操作角色来行动。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1087960/header.jpg?t=1637494945",
+    "Price": 0.0,
+    "Developers": "小闲",
+    "Publishers": "小闲",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1087960/ss_970202552d853265c554fb8b6df88d2f2742a626.1920x1080.jpg?t=1637494945,https://cdn.akamai.steamstatic.com/steam/apps/1087960/ss_412fc34234cd3a7d9fde3ec3071fda8d101a7c06.1920x1080.jpg?t=1637494945,https://cdn.akamai.steamstatic.com/steam/apps/1087960/ss_8810c1a9d6f2f852fb959efb681f8b303fd4df17.1920x1080.jpg?t=1637494945,https://cdn.akamai.steamstatic.com/steam/apps/1087960/ss_151f598b63ba6a281a90d8acdae5165a867181a3.1920x1080.jpg?t=1637494945,https://cdn.akamai.steamstatic.com/steam/apps/1087960/ss_b46075b1a167d3121c99c4d4066fd835adeae797.1920x1080.jpg?t=1637494945",
+    "Slug": "",
+    "Meta Title": "《鬼畜战记：金坷垃传说》: Jul 25, 2019, 小闲 and Full Overview",
+    "Meta Description": "Looking for information on 《鬼畜战记：金坷垃传说》? Check out the release date (Jul 25, 2019), developer insights from 小闲, and a complete game summary.",
+    "Alt Text Image": "Official header image for 《鬼畜战记：金坷垃传说》 game - Steam 1087960",
+    "Canonical URL": "https://gusku.site/game/",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u300a\\u9b3c\\u755c\\u6218\\u8bb0\\uff1a\\u91d1\\u5777\\u5783\\u4f20\\u8bf4\\u300b\", \"description\": \"Looking for information on \\u300a\\u9b3c\\u755c\\u6218\\u8bb0\\uff1a\\u91d1\\u5777\\u5783\\u4f20\\u8bf4\\u300b? Check out the release date (Jul 25, 2019), developer insights from \\u5c0f\\u95f2, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 25, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u5c0f\\u95f2\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u5c0f\\u95f2\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1087960/header.jpg?t=1637494945\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

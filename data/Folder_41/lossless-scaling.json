@@ -1,0 +1,21 @@
+{
+    "AppID": 993090,
+    "Name": "Lossless Scaling",
+    "Release date": "Dec 28, 2018",
+    "About the game": "Demo version is limited to integer and nearest neighbor scaling. Lossless Scaling lets you upscale windowed games to full screen using state-of-the-art spatial scaling, pixel-art scaling and sharpening algorithms. Scaling algorithms are currently presented: AMD FidelityFX Super Resolution (AMD FSR) NVIDIA Image Scaling (NIS) Integer Scaling Nearest Neighbor xBR Anime4K Sharp Bilinear Lossless Scaling is useful for upscaling modern games if you cannot run them at native screen resolution (GPU limited) and want to get rid of blur due to bilinear scaling of the GPU driver, as well as for upscaling older and pixel-art games which do not support modern screen resolutions or full screen mode. For modern games, it is best to use AMD FSR, NIS, or even nearest neighbor scaling (if you need a non-demanding type of scaling), while integer scaling is best for upscaling pixel-art games. The benefits of using modern spatial scaling algorithms such as AMD FSR and NIS depend on your GPU and target resolution. You need to make sure that the game you want to upscale is GPU limited and that the GPU needs less resources to upscale the image than to render the game at native screen resolution. Program requirements: The game must be running in windowed mode Your OS must be Windows 10 1903 or newer (the program can work on earlier versions, but with restrictions) Detailed instructions are in the app. Enjoy!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/993090/header.jpg?t=1657895258",
+    "Price": 4.99,
+    "Developers": "THS",
+    "Publishers": "THS",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/993090/ss_d26076778925430e5700766836da3c8c86ad3f9d.1920x1080.jpg?t=1657895258,https://cdn.akamai.steamstatic.com/steam/apps/993090/ss_d69ff794f394189128276e7ad79ba481a4032f4e.1920x1080.jpg?t=1657895258,https://cdn.akamai.steamstatic.com/steam/apps/993090/ss_b046a46fec0ed34255c09f5c17875890e6d5e18b.1920x1080.jpg?t=1657895258,https://cdn.akamai.steamstatic.com/steam/apps/993090/ss_e96435a77ab9cc6fba112e559a73064812250a2c.1920x1080.jpg?t=1657895258,https://cdn.akamai.steamstatic.com/steam/apps/993090/ss_c7acdab06efb650056156bbad951dac4e76e11cd.1920x1080.jpg?t=1657895258",
+    "Slug": "lossless-scaling",
+    "Meta Title": "Lossless Scaling: Dec 28, 2018, THS and Full Overview",
+    "Meta Description": "Looking for information on Lossless Scaling? Check out the release date (Dec 28, 2018), developer insights from THS, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lossless Scaling game - Steam 993090",
+    "Canonical URL": "https://gusku.site/game/lossless-scaling",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lossless Scaling\", \"description\": \"Looking for information on Lossless Scaling? Check out the release date (Dec 28, 2018), developer insights from THS, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 28, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"THS\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"THS\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/993090/header.jpg?t=1657895258\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

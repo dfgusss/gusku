@@ -1,0 +1,21 @@
+{
+    "AppID": 722590,
+    "Name": "Audio Factory",
+    "Release date": "Nov 5, 2017",
+    "About the game": "Audio Factory is a VR experience (Daydream port) showcasing spatial audio capabilities of the Resonance Audio SDK by Google. Work your way through each factory floor to experience evocative sound design, compelling visuals, and fun interactive tasks. Experience how spatial audio contributes to the VR immersion. This is a Daydream port and visualizes the Daydream controller by mapping controls to the Vive and Oculus Touch controllers. Note: Wired headphones required (Bluetooth headphones not supported due to their increased latency). Vive controller or Oculus Touch controller required. For more information on how you can add spatial audio to your VR experiences using the Resonance Audio SDK, please see our website link further down on this page.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/722590/header.jpg?t=1509941476",
+    "Price": 0.0,
+    "Developers": "Google",
+    "Publishers": "Google",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/722590/ss_4c899341331596d03be4e9423877fa783b043ebc.1920x1080.jpg?t=1509941476,https://cdn.akamai.steamstatic.com/steam/apps/722590/ss_7ea4f35ffe406c683adf1eaf2c37c9da7d4a9a5c.1920x1080.jpg?t=1509941476,https://cdn.akamai.steamstatic.com/steam/apps/722590/ss_2a5c79e0c4ef61626c4ac5f044e352ef18999fb8.1920x1080.jpg?t=1509941476,https://cdn.akamai.steamstatic.com/steam/apps/722590/ss_df7b3c3db102022c316e4b859305721f208705a9.1920x1080.jpg?t=1509941476,https://cdn.akamai.steamstatic.com/steam/apps/722590/ss_324b149a5f89107f603fd4452956d81c18fa350a.1920x1080.jpg?t=1509941476",
+    "Slug": "audio-factory",
+    "Meta Title": "Audio Factory: Nov 5, 2017, Google and Full Overview",
+    "Meta Description": "Looking for information on Audio Factory? Check out the release date (Nov 5, 2017), developer insights from Google, and a complete game summary.",
+    "Alt Text Image": "Official header image for Audio Factory game - Steam 722590",
+    "Canonical URL": "https://gusku.site/game/audio-factory",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Audio Factory\", \"description\": \"Looking for information on Audio Factory? Check out the release date (Nov 5, 2017), developer insights from Google, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 5, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Google\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Google\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/722590/header.jpg?t=1509941476\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

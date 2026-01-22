@@ -1,0 +1,21 @@
+{
+    "AppID": 2104450,
+    "Name": "Termalloc",
+    "Release date": "Aug 17, 2022",
+    "About the game": "Termalloc is a top-down 3D shooting game. You can move forward/backward and left/right, but you can not jump. There are 22 hexagon-pillar-like terminals in the field, and your mission is connect all of them to the server. While connecting, terminals turn yellow, and green if connection is complete. Securities are coming to stop you. Shoot them to keep yourself safe. Securities get faster every time, and more and more are coming. Every time you connect a terminal to the server, you can upgrade your ability.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2104450/header.jpg?t=1660756826",
+    "Price": 1.99,
+    "Developers": "Detch",
+    "Publishers": "Detch",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2104450/ss_4afddd930591b5a80bdd4c9b4714855733599a6f.1920x1080.jpg?t=1660756826,https://cdn.akamai.steamstatic.com/steam/apps/2104450/ss_a82b943951167ee8662bc811c5a07cb1ef527de4.1920x1080.jpg?t=1660756826,https://cdn.akamai.steamstatic.com/steam/apps/2104450/ss_15cab0cbda33b87b93a5312ebb85e8da4111cce3.1920x1080.jpg?t=1660756826,https://cdn.akamai.steamstatic.com/steam/apps/2104450/ss_3d27af05dbe29ed96ce1c3cdda7b55ceba55532e.1920x1080.jpg?t=1660756826,https://cdn.akamai.steamstatic.com/steam/apps/2104450/ss_46ba6029a82075233733334e167400e6cd92dd94.1920x1080.jpg?t=1660756826",
+    "Slug": "termalloc",
+    "Meta Title": "Termalloc: Aug 17, 2022, Detch and Full Overview",
+    "Meta Description": "Looking for information on Termalloc? Check out the release date (Aug 17, 2022), developer insights from Detch, and a complete game summary.",
+    "Alt Text Image": "Official header image for Termalloc game - Steam 2104450",
+    "Canonical URL": "https://gusku.site/game/termalloc",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Termalloc\", \"description\": \"Looking for information on Termalloc? Check out the release date (Aug 17, 2022), developer insights from Detch, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Detch\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Detch\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2104450/header.jpg?t=1660756826\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

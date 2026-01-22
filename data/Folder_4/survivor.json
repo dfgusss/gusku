@@ -1,0 +1,21 @@
+{
+    "AppID": 1673320,
+    "Name": "Survivor",
+    "Release date": "Jul 12, 2021",
+    "About the game": "Survivor is a wave-based FPS survival game that places the player as a single survivor into an arena. Zombies begin to spawn and the player must survive each round to progress. Each round the zombie's become stronger, increasing in health and speed as well as their overall number each round. The player is constantly kept running on their feet as the time between rounds is short, providing a brief amount of time for the player to retrieve ammo and take a breather. Every ten rounds, the player is forced to fight against a boss zombie who is larger and more intimidating, and dangerously strong providing a challenge in-between rounds that negates the repetitiveness of killing the same zombies over and over. Once the player reaches the thirtieth round, the game ends and the player is victorious! Hi everyone! My name is Eric and I am a new indie-developer. As of currently I have had practically no experience with game development and simply want a place to begin. For this reason, I have released this product initially for free to allow anyone to play it regardless of money. My desire with this game is to create a small community/fanbase that I would like to rally around for my future projects. Price will change when the game leaves Pre-Alpha, however the game will have changed significantly and a lot of new features will have been implemented. This release is simply a test to see if people like the game and it operates smoothly. I am very open to new ideas and if you have any queries about the game (such as bugs you encountered and improvements you thought of) then I would greatly appreciate it if you could submit your queries through my Twitter or to my support e-mail. Once again, I would like to thank you for playing my game and please don't be afraid to leave a review and highlighting issues that ruined or impacted your gameplay experience.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1673320/header.jpg?t=1639374232",
+    "Price": 0.99,
+    "Developers": "kolacape",
+    "Publishers": "kolacape",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1673320/ss_f56c8da705aa49cc08dd938dbb83d1f8fc84e561.1920x1080.jpg?t=1639374232,https://cdn.akamai.steamstatic.com/steam/apps/1673320/ss_3128058445db8fcbaf4a38a4a05ff53e2df1cac7.1920x1080.jpg?t=1639374232,https://cdn.akamai.steamstatic.com/steam/apps/1673320/ss_bcf58c18e262e5b804bc3240a11ccc0e95f69fa9.1920x1080.jpg?t=1639374232,https://cdn.akamai.steamstatic.com/steam/apps/1673320/ss_02dfe9d422b9e0618c0f25e4ba16fad01a750641.1920x1080.jpg?t=1639374232,https://cdn.akamai.steamstatic.com/steam/apps/1673320/ss_7a5c975c15623db1e52c5687e1e1bc742666222e.1920x1080.jpg?t=1639374232",
+    "Slug": "survivor",
+    "Meta Title": "Survivor: Jul 12, 2021, kolacape and Full Overview",
+    "Meta Description": "Looking for information on Survivor? Check out the release date (Jul 12, 2021), developer insights from kolacape, and a complete game summary.",
+    "Alt Text Image": "Official header image for Survivor game - Steam 1673320",
+    "Canonical URL": "https://gusku.site/game/survivor",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Survivor\", \"description\": \"Looking for information on Survivor? Check out the release date (Jul 12, 2021), developer insights from kolacape, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 12, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"kolacape\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"kolacape\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1673320/header.jpg?t=1639374232\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

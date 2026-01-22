@@ -1,0 +1,21 @@
+{
+    "AppID": 981280,
+    "Name": "Reksarych's Sudoku",
+    "Release date": "Nov 30, 2018",
+    "About the game": "This game is a classic 'Sudoku'! Peculiar properties: 1. The game supports two languages: Russian and English; 2. The game has 5 levels of difficulty that will allow you to adjust the puzzle for yourself; 3. Each time you start a new game and select the level of difficulty, there is a procedural generation of ' Sudoku'; 4. For cells that need to pick up a value, you can write comments that allow you to mark the numbers that are likely to be correct; 5. The color highlights the cells in which you can write values; 6. The solution verification algorithm is designed in such a way that any correct solution will be counted.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/981280/header.jpg?t=1543592682",
+    "Price": 1.99,
+    "Developers": "Братство (Brotherhood)",
+    "Publishers": "Братство (Brotherhood)",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/981280/ss_8fdf29bd36eb1c3b587bf18a3383da98d90fd778.1920x1080.jpg?t=1543592682,https://cdn.akamai.steamstatic.com/steam/apps/981280/ss_905f0fcdb75eeb38b7c166e016c8bbd253bf7d70.1920x1080.jpg?t=1543592682,https://cdn.akamai.steamstatic.com/steam/apps/981280/ss_3af651b9c1399d7df897015dd51c54b7ce03f5eb.1920x1080.jpg?t=1543592682,https://cdn.akamai.steamstatic.com/steam/apps/981280/ss_5e4ecfa3e532b84abfea859006b6e77346bbc99d.1920x1080.jpg?t=1543592682,https://cdn.akamai.steamstatic.com/steam/apps/981280/ss_993704b4688b3a5134bf2373a8844aa8a0d087a2.1920x1080.jpg?t=1543592682",
+    "Slug": "reksarych-s-sudoku",
+    "Meta Title": "Reksarych's Sudoku: Nov 30, 2018, Братство (Brotherhood) ...",
+    "Meta Description": "Looking for information on Reksarych's Sudoku? Check out the release date (Nov 30, 2018), developer insights from Братство (Brotherhood), and a complete...",
+    "Alt Text Image": "Official header image for Reksarych's Sudoku game - Steam 981280",
+    "Canonical URL": "https://gusku.site/game/reksarych-s-sudoku",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Reksarych's Sudoku\", \"description\": \"Looking for information on Reksarych's Sudoku? Check out the release date (Nov 30, 2018), developer insights from \\u0411\\u0440\\u0430\\u0442\\u0441\\u0442\\u0432\\u043e (Brotherhood), and a complete...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 30, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u0411\\u0440\\u0430\\u0442\\u0441\\u0442\\u0432\\u043e (Brotherhood)\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u0411\\u0440\\u0430\\u0442\\u0441\\u0442\\u0432\\u043e (Brotherhood)\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/981280/header.jpg?t=1543592682\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

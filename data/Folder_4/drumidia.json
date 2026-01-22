@@ -1,0 +1,21 @@
+{
+    "AppID": 1453080,
+    "Name": "DruMidia",
+    "Release date": "Nov 21, 2020",
+    "About the game": "DruMidia is a VR drumming music game. Players can use Standard MIDI Files as a custom chart! Place the midi file under 「DruMidia/DruMidia_Data/MIDI」! (*Only type1 format is useable for this game. )",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1453080/header.jpg?t=1606013396",
+    "Price": 0.0,
+    "Developers": "TeaLovers",
+    "Publishers": "zAwA",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1453080/ss_7906c7aa108945974e45c92a4dcee6c77a222e1c.1920x1080.jpg?t=1606013396,https://cdn.akamai.steamstatic.com/steam/apps/1453080/ss_861dc3583d977f742e94e976703c2b5ac3d58cf5.1920x1080.jpg?t=1606013396,https://cdn.akamai.steamstatic.com/steam/apps/1453080/ss_4c01e6f3a23b12d6fdf0c291d6d027ac8d609a4b.1920x1080.jpg?t=1606013396,https://cdn.akamai.steamstatic.com/steam/apps/1453080/ss_f86ce7677af1e5290dbe25916b6967438bdc3a7e.1920x1080.jpg?t=1606013396,https://cdn.akamai.steamstatic.com/steam/apps/1453080/ss_572cb2976b83ff93129794931511287d3be6641d.1920x1080.jpg?t=1606013396",
+    "Slug": "drumidia",
+    "Meta Title": "DruMidia: Nov 21, 2020, TeaLovers and Full Overview",
+    "Meta Description": "Looking for information on DruMidia? Check out the release date (Nov 21, 2020), developer insights from TeaLovers, and a complete game summary.",
+    "Alt Text Image": "Official header image for DruMidia game - Steam 1453080",
+    "Canonical URL": "https://gusku.site/game/drumidia",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DruMidia\", \"description\": \"Looking for information on DruMidia? Check out the release date (Nov 21, 2020), developer insights from TeaLovers, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 21, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"TeaLovers\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"zAwA\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1453080/header.jpg?t=1606013396\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

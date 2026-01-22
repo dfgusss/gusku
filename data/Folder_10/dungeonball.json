@@ -1,0 +1,21 @@
+{
+    "AppID": 1845370,
+    "Name": "Dungeonball",
+    "Release date": "Dec 13, 2021",
+    "About the game": "Dungeonball is a first-person dodgeball roguelike. Use your hands and throwing power to fight your way through the dungeons. You'll also use your hands to block enemy attacks, to carry keys around, and hold potions if you want to save them for later. Slowly fight your way through the procedurally generated levels - how deep into the dungeons can you get? Features Fun physics-based combat with emergent elements Procedurally generated dungeons with ever increasing difficulty Pick up nasty slimes and throw 'em against the wall ~1 hour of gameplay",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1845370/header.jpg?t=1643190252",
+    "Price": 4.99,
+    "Developers": "Sokpop Collective",
+    "Publishers": "Sokpop Collective",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1845370/ss_4fa925d36914e5a66ae035e05b3ce8d62fc435ce.1920x1080.jpg?t=1643190252,https://cdn.akamai.steamstatic.com/steam/apps/1845370/ss_2b61917e96c83119388ab21be3a656fa8f475ba6.1920x1080.jpg?t=1643190252,https://cdn.akamai.steamstatic.com/steam/apps/1845370/ss_7fecfb87045033a118114ebd2a345af14bb46acf.1920x1080.jpg?t=1643190252,https://cdn.akamai.steamstatic.com/steam/apps/1845370/ss_441df30b95a896d77515652d32344f47f3facfb5.1920x1080.jpg?t=1643190252,https://cdn.akamai.steamstatic.com/steam/apps/1845370/ss_0c02f5eb6bbedb648062473699bad9ed350202d1.1920x1080.jpg?t=1643190252",
+    "Slug": "dungeonball",
+    "Meta Title": "Dungeonball: Dec 13, 2021, Sokpop Collective and Full Ove...",
+    "Meta Description": "Looking for information on Dungeonball? Check out the release date (Dec 13, 2021), developer insights from Sokpop Collective, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dungeonball game - Steam 1845370",
+    "Canonical URL": "https://gusku.site/game/dungeonball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dungeonball\", \"description\": \"Looking for information on Dungeonball? Check out the release date (Dec 13, 2021), developer insights from Sokpop Collective, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 13, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sokpop Collective\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sokpop Collective\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1845370/header.jpg?t=1643190252\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

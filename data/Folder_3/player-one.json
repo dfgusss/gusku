@@ -1,0 +1,21 @@
+{
+    "AppID": 1160190,
+    "Name": "Player One",
+    "Release date": "Oct 10, 2019",
+    "About the game": "Player One is a new 3D game where you take control of a Third Person Character and to pass challanges until the End. This is an early access release. While this version of Player One includes 18 Levels and a Special easter egg.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1160190/header.jpg?t=1570744503",
+    "Price": 1.99,
+    "Developers": "Prime2Gold",
+    "Publishers": "Prime2Gold",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1160190/ss_71c28a4c406e4e367843a2ad9b0b6de2e12d420b.1920x1080.jpg?t=1570744503,https://cdn.akamai.steamstatic.com/steam/apps/1160190/ss_523eeb03e4ed799a868892183644499011bd0cd4.1920x1080.jpg?t=1570744503,https://cdn.akamai.steamstatic.com/steam/apps/1160190/ss_3828d2a6c12db756c4aa856628f4d8d3a4dbbb90.1920x1080.jpg?t=1570744503,https://cdn.akamai.steamstatic.com/steam/apps/1160190/ss_da2be3e1e15e3bf725574eafae545a45e19c8121.1920x1080.jpg?t=1570744503,https://cdn.akamai.steamstatic.com/steam/apps/1160190/ss_cd21d3ffee50b65329f8796308584943e1a66cb1.1920x1080.jpg?t=1570744503",
+    "Slug": "player-one",
+    "Meta Title": "Player One: Oct 10, 2019, Prime2Gold and Full Overview",
+    "Meta Description": "Looking for information on Player One? Check out the release date (Oct 10, 2019), developer insights from Prime2Gold, and a complete game summary.",
+    "Alt Text Image": "Official header image for Player One game - Steam 1160190",
+    "Canonical URL": "https://gusku.site/game/player-one",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Player One\", \"description\": \"Looking for information on Player One? Check out the release date (Oct 10, 2019), developer insights from Prime2Gold, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 10, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Prime2Gold\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Prime2Gold\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1160190/header.jpg?t=1570744503\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

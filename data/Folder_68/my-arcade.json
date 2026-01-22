@@ -1,0 +1,21 @@
+{
+    "AppID": 2226190,
+    "Name": "My Arcade",
+    "Release date": "Dec 24, 2022",
+    "About the game": "An arcade bundle by CWDI GAMES. Includes two arcade games; Chaos and Meteor Storm. Chaos Not your typical breakout clone. The ball, paddle, and bricks are controlled by physics. Random power ups will fall from time to time which can affect gameplay. Points are gained by catching falling bricks with the paddle; avoid catching the skull and crossbones. Don't drop the ball! In game music by RedWineProductions and Marc Corominas(MUSIC LIBRARY FILES). Use the mouse to control the paddle. After all lives are lost pressing the space key will restart the game. Pressing the escape key takes you back to the menu. Pressing the escape key at the menu exits the game. Meteor Storm A meteor storm has been spotted moving toward your colony. Man the laser turret and protect the destructible buildings from space rocks! How long can you last? Use the mouse to point the turret. Pressing the left mouse button fires the laser. Holding the left mouse button down too long causes the laser to over heat. Pressing the escape key returns to the menu.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2226190/header.jpg?t=1671949670",
+    "Price": 1.99,
+    "Developers": "CWDI GAMES",
+    "Publishers": "CWDI GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2226190/ss_de44d507163a70c3d1651557fa3bba124c486d39.1920x1080.jpg?t=1671949670,https://cdn.akamai.steamstatic.com/steam/apps/2226190/ss_3cda682c2a3e181bb84faf5ede919f45f0b85383.1920x1080.jpg?t=1671949670,https://cdn.akamai.steamstatic.com/steam/apps/2226190/ss_2d41e35a53979ec4e3d763650453547f146fcefd.1920x1080.jpg?t=1671949670,https://cdn.akamai.steamstatic.com/steam/apps/2226190/ss_3c796a326580ef02a369fc4af2171d7e43d63af4.1920x1080.jpg?t=1671949670,https://cdn.akamai.steamstatic.com/steam/apps/2226190/ss_428e7865ca1f6345c117099acfcb96bffcc27127.1920x1080.jpg?t=1671949670",
+    "Slug": "my-arcade",
+    "Meta Title": "My Arcade: Dec 24, 2022, CWDI GAMES and Full Overview",
+    "Meta Description": "Looking for information on My Arcade? Check out the release date (Dec 24, 2022), developer insights from CWDI GAMES, and a complete game summary.",
+    "Alt Text Image": "Official header image for My Arcade game - Steam 2226190",
+    "Canonical URL": "https://gusku.site/game/my-arcade",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"My Arcade\", \"description\": \"Looking for information on My Arcade? Check out the release date (Dec 24, 2022), developer insights from CWDI GAMES, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 24, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"CWDI GAMES\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"CWDI GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2226190/header.jpg?t=1671949670\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

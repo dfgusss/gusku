@@ -1,0 +1,21 @@
+{
+    "AppID": 1031560,
+    "Name": "Sudoku3D 2: The Cube",
+    "Release date": "Mar 1, 2019",
+    "About the game": "Possibility to choose size of cube from 3^3 to 9^3. The choice of complexity from 1 to 9 (a certain analogue of the probability of an empty cell from 10% to 90%). As the level of complexity increases, several solutions appear, but only the one that was originally generated will be true! Since In this version of Sudoku there is a choice of size, the rule of small composite squares 3x3 as part of a full 9x9 does not actual. There are ghost cubes that confuse and turn the numbers. Although, thanks to the scanner, they are easily detected. The scanner is available only once in the current session, which trains the photographic memory well.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1031560/header.jpg?t=1610026101",
+    "Price": 0.99,
+    "Developers": "Shmurdik",
+    "Publishers": "Shmurdik Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1031560/ss_f8131d40da1b917125da3604f7cacddac91218e3.1920x1080.jpg?t=1610026101,https://cdn.akamai.steamstatic.com/steam/apps/1031560/ss_9fa658e0a288726a0fe4a673777bfa5081a0d3f9.1920x1080.jpg?t=1610026101,https://cdn.akamai.steamstatic.com/steam/apps/1031560/ss_fd155a5475ac4daa0b84f409393a68f61921cb18.1920x1080.jpg?t=1610026101,https://cdn.akamai.steamstatic.com/steam/apps/1031560/ss_21e070a7676e88e44b75ad008e0c744ebf975b44.1920x1080.jpg?t=1610026101,https://cdn.akamai.steamstatic.com/steam/apps/1031560/ss_8a1b596f3e209560e6f8d556554f2499882ff942.1920x1080.jpg?t=1610026101,https://cdn.akamai.steamstatic.com/steam/apps/1031560/ss_34e869dbfd9ddc1f2cf7130f545d0e6f031721b4.1920x1080.jpg?t=1610026101,https://cdn.akamai.steamstatic.com/steam/apps/1031560/ss_0dacfb636949ac07e8a8d2697194fb3ee1f23c95.1920x1080.jpg?t=1610026101,https://cdn.akamai.steamstatic.com/steam/apps/1031560/ss_e40911016bca2f1b3978b98e34fc259eab495ae5.1920x1080.jpg?t=1610026101",
+    "Slug": "sudoku3d-2-the-cube",
+    "Meta Title": "Sudoku3D 2: The Cube: Mar 1, 2019, Shmurdik and Full Over...",
+    "Meta Description": "Looking for information on Sudoku3D 2: The Cube? Check out the release date (Mar 1, 2019), developer insights from Shmurdik, and a complete game summary.",
+    "Alt Text Image": "Official header image for Sudoku3D 2: The Cube game - Steam 1031560",
+    "Canonical URL": "https://gusku.site/game/sudoku3d-2-the-cube",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Sudoku3D 2: The Cube\", \"description\": \"Looking for information on Sudoku3D 2: The Cube? Check out the release date (Mar 1, 2019), developer insights from Shmurdik, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 1, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Shmurdik\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Shmurdik Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1031560/header.jpg?t=1610026101\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

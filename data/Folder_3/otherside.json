@@ -1,0 +1,21 @@
+{
+    "AppID": 1446420,
+    "Name": "Otherside",
+    "Release date": "Nov 2, 2020",
+    "About the game": "'... a surreal little adventure that feels like a blend of Myst and the ending of 2001: A Space Odyssey.' 'short, odd, sweet' 'techboi background generator' A psychedelic first person exploration game set between worlds. While the game is light on puzzles, it offers an opportunity to look at pretty things and interact with alien artifacts. Lights out. Headphones in. See you in the Otherside. Playtime: ~10 minutes Controls: [WASD] - Move [Mouse] - Look [Right-click] - Look closely *Note that this uses some fancy programming magic that isn't suited for lower-end GPUs.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1446420/header.jpg?t=1610160566",
+    "Price": 0.99,
+    "Developers": "Ben Lapid",
+    "Publishers": "Bunso",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1446420/ss_8ce9b6fa4f58a2977712ba242846962479d1fcbd.1920x1080.jpg?t=1610160566,https://cdn.akamai.steamstatic.com/steam/apps/1446420/ss_c5bd39101ee467f47c9ec8c741d3b2fbf759cae8.1920x1080.jpg?t=1610160566,https://cdn.akamai.steamstatic.com/steam/apps/1446420/ss_f1c809991ac149c51ee17193d841698d3815bc6c.1920x1080.jpg?t=1610160566,https://cdn.akamai.steamstatic.com/steam/apps/1446420/ss_728f8dbfb36a0cfbfb33e848313e87237fd1c686.1920x1080.jpg?t=1610160566,https://cdn.akamai.steamstatic.com/steam/apps/1446420/ss_75cc4ed26db21e9d7e84ad900abbcdffb3ad238b.1920x1080.jpg?t=1610160566,https://cdn.akamai.steamstatic.com/steam/apps/1446420/ss_df9c41438fa32b94ed32c4213030f2e8d8458a25.1920x1080.jpg?t=1610160566",
+    "Slug": "otherside",
+    "Meta Title": "Otherside: Nov 2, 2020, Ben Lapid and Full Overview",
+    "Meta Description": "Looking for information on Otherside? Check out the release date (Nov 2, 2020), developer insights from Ben Lapid, and a complete game summary.",
+    "Alt Text Image": "Official header image for Otherside game - Steam 1446420",
+    "Canonical URL": "https://gusku.site/game/otherside",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Otherside\", \"description\": \"Looking for information on Otherside? Check out the release date (Nov 2, 2020), developer insights from Ben Lapid, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 2, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ben Lapid\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bunso\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1446420/header.jpg?t=1610160566\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

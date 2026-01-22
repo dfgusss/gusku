@@ -1,0 +1,21 @@
+{
+    "AppID": 1177940,
+    "Name": "Mass Plus",
+    "Release date": "Nov 15, 2019",
+    "About the game": "Mass Plus tasks players with using physics driven, self replicating, projectiles to complete levels by destroying target spheres. Each level can be completed quickly but achieving high scores will require a more steady approach. Projectile spheres will spawn - and consume - smaller versions of themselves, increasing their size until they reach a critical mass. As a sphere grows, its pull on neighbors does as well. Players will have to carefully consider the merits of growing a sphere and risking its annihilation versus completing levels more quickly for a lesser score. In Mass Plus, a player's score is determined by precision, planning, and a little luck. Will you race to complete each level or strive to be the top of a global leader board?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1177940/header.jpg?t=1573848060",
+    "Price": 4.99,
+    "Developers": "Gray Sage",
+    "Publishers": "Gray Sage",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1177940/ss_eb1d8405f1cb68d6944793ad504843f86bed4ded.1920x1080.jpg?t=1573848060,https://cdn.akamai.steamstatic.com/steam/apps/1177940/ss_0aba5d182bf9a490cde20f3b8c7e951fe64ee5ac.1920x1080.jpg?t=1573848060,https://cdn.akamai.steamstatic.com/steam/apps/1177940/ss_4145903546dc6ab128f2118a08fb4e9d170dfb16.1920x1080.jpg?t=1573848060,https://cdn.akamai.steamstatic.com/steam/apps/1177940/ss_027d5633e8d05ea477960ea1ccca2a929d36d3c8.1920x1080.jpg?t=1573848060,https://cdn.akamai.steamstatic.com/steam/apps/1177940/ss_ff81b22989cb849e54998420744f815d75022cf7.1920x1080.jpg?t=1573848060",
+    "Slug": "mass-plus",
+    "Meta Title": "Mass Plus: Nov 15, 2019, Gray Sage and Full Overview",
+    "Meta Description": "Looking for information on Mass Plus? Check out the release date (Nov 15, 2019), developer insights from Gray Sage, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mass Plus game - Steam 1177940",
+    "Canonical URL": "https://gusku.site/game/mass-plus",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mass Plus\", \"description\": \"Looking for information on Mass Plus? Check out the release date (Nov 15, 2019), developer insights from Gray Sage, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 15, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gray Sage\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gray Sage\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1177940/header.jpg?t=1573848060\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

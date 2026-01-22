@@ -1,0 +1,21 @@
+{
+    "AppID": 2333430,
+    "Name": "Running Guys",
+    "Release date": "Mar 21, 2023",
+    "About the game": "Running Guys is a very small running game where a police officer chases a thief. This game was developed in two weeks almost 10 years ago and revived recently (as many children enjoyed it at a science fair). There is only one level (you should give it a chance :P), but we will rework this game in a few weeks to make it with Unreal Engine (mainly to test exports on different platforms). You should definitely grab it now, as it has a low price :P Little tip, when you just hit the ground after a jump or a fall, do a roll!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2333430/header.jpg?t=1679478659",
+    "Price": 1.99,
+    "Developers": "The Virtual Society",
+    "Publishers": "The Virtual Society",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2333430/ss_c86efd078a2d45de9d677e0833926b4ee960c2a9.1920x1080.jpg?t=1679478659,https://cdn.akamai.steamstatic.com/steam/apps/2333430/ss_dec0047e7d9a2a104c30fe6f568c5c02a7d634c6.1920x1080.jpg?t=1679478659,https://cdn.akamai.steamstatic.com/steam/apps/2333430/ss_e3d4a0b168ecba1d5a4b8ccf92caa0159324d3c7.1920x1080.jpg?t=1679478659,https://cdn.akamai.steamstatic.com/steam/apps/2333430/ss_b9e0bf39587de2b9a4c8505cb7e865c6639657d0.1920x1080.jpg?t=1679478659,https://cdn.akamai.steamstatic.com/steam/apps/2333430/ss_f003d76085d2a8a021fa76a73d0a208ab22692e8.1920x1080.jpg?t=1679478659",
+    "Slug": "running-guys",
+    "Meta Title": "Running Guys: Mar 21, 2023, The Virtual Society and Full ...",
+    "Meta Description": "Looking for information on Running Guys? Check out the release date (Mar 21, 2023), developer insights from The Virtual Society, and a complete game sum...",
+    "Alt Text Image": "Official header image for Running Guys game - Steam 2333430",
+    "Canonical URL": "https://gusku.site/game/running-guys",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Running Guys\", \"description\": \"Looking for information on Running Guys? Check out the release date (Mar 21, 2023), developer insights from The Virtual Society, and a complete game sum...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 21, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"The Virtual Society\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"The Virtual Society\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2333430/header.jpg?t=1679478659\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 949390,
+    "Name": "Puppet Blaster",
+    "Release date": "Oct 16, 2018",
+    "About the game": "This is an experimental HTC VIVE third person shooter! You wake up in the desert and find yourself surrounded by some not too friendly ghouls. Blast your way out with your twin blasters! A unique control method lets you control a violent little action figure's arms and shoot Ghouls (not Zombies!) right in their dumb looking faces!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/949390/header.jpg?t=1540734264",
+    "Price": 0.0,
+    "Developers": "Mad Gnolas",
+    "Publishers": "self published",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/949390/ss_08c6046308ddf0673285128227638cbdffccda2a.1920x1080.jpg?t=1540734264,https://cdn.akamai.steamstatic.com/steam/apps/949390/ss_3c713829f574df8f8e62f12464864bd76413eb9c.1920x1080.jpg?t=1540734264,https://cdn.akamai.steamstatic.com/steam/apps/949390/ss_d891fd1b7c22bcdcb91919ced4b6f28d8757da81.1920x1080.jpg?t=1540734264,https://cdn.akamai.steamstatic.com/steam/apps/949390/ss_e85ea4966248bc435e29ed8ce8f970ff908d614e.1920x1080.jpg?t=1540734264,https://cdn.akamai.steamstatic.com/steam/apps/949390/ss_61f26cde457a8e1306c03c8406dea19d645ab654.1920x1080.jpg?t=1540734264,https://cdn.akamai.steamstatic.com/steam/apps/949390/ss_ad0a97e9cd5a4dfaa8eaec8236d17fa70f0b4550.1920x1080.jpg?t=1540734264,https://cdn.akamai.steamstatic.com/steam/apps/949390/ss_89a5be07b4fa387df10f655ca5e7cac4bf35afbd.1920x1080.jpg?t=1540734264,https://cdn.akamai.steamstatic.com/steam/apps/949390/ss_dc624570aff3aa78c7261d75ce190589dc272ea9.1920x1080.jpg?t=1540734264,https://cdn.akamai.steamstatic.com/steam/apps/949390/ss_db4d1c48299a29f947f38a5fca1e093108eba99f.1920x1080.jpg?t=1540734264",
+    "Slug": "puppet-blaster",
+    "Meta Title": "Puppet Blaster: Oct 16, 2018, Mad Gnolas and Full Overview",
+    "Meta Description": "Looking for information on Puppet Blaster? Check out the release date (Oct 16, 2018), developer insights from Mad Gnolas, and a complete game summary.",
+    "Alt Text Image": "Official header image for Puppet Blaster game - Steam 949390",
+    "Canonical URL": "https://gusku.site/game/puppet-blaster",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Puppet Blaster\", \"description\": \"Looking for information on Puppet Blaster? Check out the release date (Oct 16, 2018), developer insights from Mad Gnolas, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 16, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mad Gnolas\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"self published\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/949390/header.jpg?t=1540734264\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

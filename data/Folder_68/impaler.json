@@ -1,0 +1,21 @@
+{
+    "AppID": 1573090,
+    "Name": "Impaler",
+    "Release date": "Dec 6, 2022",
+    "About the game": "Impale monsters with magic spikes in this 90s-inspired arena shooter! Impaler is challenging, rewards movement, and each run feels different thanks to rogue-like elements. Overcome the increasingly difficult hordes of monsters by upgrading your weapons &amp; abilities. Impaler has a retro art style, a great soundtrack, and a custom engine for extra smooth frame rates. It’s perfect for the Steam Deck and has full controller support. Impaler is easy to play but difficult to master! Gameplay Summon spikes to impale, build barriers &amp; reach higher ground Bunny hop + strafe jump for extra speed Fall on monsters to perform devastating stomp attacks Earn gold to buy 40+ unique upgrades Highly replayable with 7 weapons, 10 enemies, and diverse map layouts Visuals &amp; Sound Original pixel art inspired by 90s shooters Moody atmosphere with rain, fog, and colorful lighting Retro synth/metal tracks and crunchy sounds Engine A custom engine made in pure C + OpenGL. No bloat. Dynamic lighting and fog Soft particles and volumetric effects Bullet penetrations and ricochets",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1573090/header.jpg?t=1670494112",
+    "Price": 2.69,
+    "Developers": "Apptivus",
+    "Publishers": "Retrovibe",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1573090/ss_bfc14c209704fae48f4f4d1bdb3d4694b340b023.1920x1080.jpg?t=1670494112,https://cdn.akamai.steamstatic.com/steam/apps/1573090/ss_9a4df3a3976c5527d6eed47ab8ff863eef82b70a.1920x1080.jpg?t=1670494112,https://cdn.akamai.steamstatic.com/steam/apps/1573090/ss_23aea011b2cc1485dfd13395d2e39710ac177244.1920x1080.jpg?t=1670494112,https://cdn.akamai.steamstatic.com/steam/apps/1573090/ss_a575d88fdd47b12a23ff1ec20199b138312b1848.1920x1080.jpg?t=1670494112,https://cdn.akamai.steamstatic.com/steam/apps/1573090/ss_3eec73a916761665f5e2ff7a982ccb3d919a7729.1920x1080.jpg?t=1670494112,https://cdn.akamai.steamstatic.com/steam/apps/1573090/ss_a620c83af3cd547bb76dd2b9c08850d48b010317.1920x1080.jpg?t=1670494112,https://cdn.akamai.steamstatic.com/steam/apps/1573090/ss_687dd2fa0e2d8479a4147fc50d47bf533b7c5755.1920x1080.jpg?t=1670494112",
+    "Slug": "impaler",
+    "Meta Title": "Impaler: Dec 6, 2022, Apptivus and Full Overview",
+    "Meta Description": "Looking for information on Impaler? Check out the release date (Dec 6, 2022), developer insights from Apptivus, and a complete game summary.",
+    "Alt Text Image": "Official header image for Impaler game - Steam 1573090",
+    "Canonical URL": "https://gusku.site/game/impaler",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Impaler\", \"description\": \"Looking for information on Impaler? Check out the release date (Dec 6, 2022), developer insights from Apptivus, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 6, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Apptivus\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Retrovibe\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1573090/header.jpg?t=1670494112\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.69, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1062120,
+    "Name": "Peas Adventure",
+    "Release date": "Apr 18, 2019",
+    "About the game": "653/5000 Peas Adventure is a fun and challenging game where the main idea is to use a small wooden cannon to throw all the peas inside the basket to save them. This time I decided to test the game with children to balance the difficulty between levels and implement improvements based on their feedback, for example, the player can try to play again the level where he stopped was one of these children's ideas. The game has 30 levels and has full compatibility with xbox 360 controller, and depending on the acceptance of the game I can build more bonus levels based on the feedback of the players. Enjoy, thanks.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1062120/header.jpg?t=1658415997",
+    "Price": 0.99,
+    "Developers": "Artur Rezende",
+    "Publishers": "PROATIV GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1062120/ss_a3f6802693528012dbc7a4b2ba7c31fac4403ff1.1920x1080.jpg?t=1658415997,https://cdn.akamai.steamstatic.com/steam/apps/1062120/ss_b0e8c32b69f1c7936f425a3b5b88b78b564d3b79.1920x1080.jpg?t=1658415997,https://cdn.akamai.steamstatic.com/steam/apps/1062120/ss_d3096e1222e95519bfe50d972fee814913b6bb35.1920x1080.jpg?t=1658415997,https://cdn.akamai.steamstatic.com/steam/apps/1062120/ss_7ffc70f72398e4a357e31dcc90ed2abfc1d45c71.1920x1080.jpg?t=1658415997,https://cdn.akamai.steamstatic.com/steam/apps/1062120/ss_2e7d88b2ababdc107b8c9f5330a87e8a9ba39b97.1920x1080.jpg?t=1658415997,https://cdn.akamai.steamstatic.com/steam/apps/1062120/ss_1985e08baeb5c6ab5e691579ee9baac80a2f3911.1920x1080.jpg?t=1658415997,https://cdn.akamai.steamstatic.com/steam/apps/1062120/ss_09ec314edd16f758bac135d6d2e0550fe821abb5.1920x1080.jpg?t=1658415997",
+    "Slug": "peas-adventure",
+    "Meta Title": "Peas Adventure: Apr 18, 2019, Artur Rezende and Full Over...",
+    "Meta Description": "Looking for information on Peas Adventure? Check out the release date (Apr 18, 2019), developer insights from Artur Rezende, and a complete game summary.",
+    "Alt Text Image": "Official header image for Peas Adventure game - Steam 1062120",
+    "Canonical URL": "https://gusku.site/game/peas-adventure",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Peas Adventure\", \"description\": \"Looking for information on Peas Adventure? Check out the release date (Apr 18, 2019), developer insights from Artur Rezende, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 18, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Artur Rezende\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PROATIV GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1062120/header.jpg?t=1658415997\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

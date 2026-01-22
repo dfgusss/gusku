@@ -1,0 +1,21 @@
+{
+    "AppID": 2102400,
+    "Name": "Project Exo",
+    "Release date": "Aug 31, 2022",
+    "About the game": "Project Exo is a Movement based puzzle, Platforming game. You will be soaring through levels using your rocket launcher and rocket boots to navigate each puzzle. I have gained great inspiration from my favorite games (Portal, TF2, Unreal tournament, Quake, CSGO) and mashed them all together to make something I love and I hope all of you will too. - The tools you will have to help you get through puzzles are Rocket launcher / Rocket boots / Double jump / Power-cell - A Timer that displays your best times per level and an overall time display for all levels combined - 15 Slow motion tutorial levels to help you get an understanding of the mechanics and some additional short videos showing the mechanics in action - 20 Normal levels with increasing difficulty - An unlockable playground level that gives you a behind the scenes look at the development process",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2102400/header.jpg?t=1661934614",
+    "Price": 14.99,
+    "Developers": "Bushwookie",
+    "Publishers": "Bushwookie",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_8bd2b2f12c46dc981e549016f431832336dbd9f2.1920x1080.jpg?t=1661934614,https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_ae7695760646d46137dedf44eaf3b4bee696bb90.1920x1080.jpg?t=1661934614,https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_2db75206400a4a0e50375b977703e41ebe3be6b6.1920x1080.jpg?t=1661934614,https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_aa96001a7464b1c46b9a314579c0f9b32b3dc82e.1920x1080.jpg?t=1661934614,https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_82d8e77de497bfca13df15ae1df7aebdcf42ffa5.1920x1080.jpg?t=1661934614,https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_f2dc575a3f9b2670784813e9566632441cea19ef.1920x1080.jpg?t=1661934614,https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_4e4df85ac8929dfe9c71fa7d5f894f4ddb4ed1cf.1920x1080.jpg?t=1661934614,https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_4be9ac8ac566c101a49c6bee0dc2b9a1d949f6df.1920x1080.jpg?t=1661934614,https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_5022cbf00a771d2d3a3e8e467eafb0bc973764d2.1920x1080.jpg?t=1661934614,https://cdn.akamai.steamstatic.com/steam/apps/2102400/ss_e1564469db68b53c4d5c3d910feb4d02cbefe787.1920x1080.jpg?t=1661934614",
+    "Slug": "project-exo",
+    "Meta Title": "Project Exo: Aug 31, 2022, Bushwookie and Full Overview",
+    "Meta Description": "Looking for information on Project Exo? Check out the release date (Aug 31, 2022), developer insights from Bushwookie, and a complete game summary.",
+    "Alt Text Image": "Official header image for Project Exo game - Steam 2102400",
+    "Canonical URL": "https://gusku.site/game/project-exo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Project Exo\", \"description\": \"Looking for information on Project Exo? Check out the release date (Aug 31, 2022), developer insights from Bushwookie, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 31, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bushwookie\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bushwookie\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2102400/header.jpg?t=1661934614\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

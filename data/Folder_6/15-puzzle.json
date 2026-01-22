@@ -1,0 +1,21 @@
+{
+    "AppID": 1476690,
+    "Name": "15 puzzle",
+    "Release date": "Dec 4, 2020",
+    "About the game": "A classic game of puzzle 8 (3x3), 15 (4x4), 24 (5x5) or 35 (6x6) in which player has to move pieces on board so they are from 1 to 8, 15, 24 or 35. Positions of pieces are generated randomly, but every generated game has a solution. Customization: You can use image as a puzzle - you can solve any image you add to folder textures within folder with game, but image name must be 'image.jpg', there are no other restrictions for this image file - image can have arbitrary size, but we recommend you to use images with size ratio 1:1, because puzzle have ratio 1:1. You can use image with arbitrary ratio of course, but image will be stretched. Issues: For correct running of this game graphic card supporting OpenGL 3.2 or later is needed along with newest version of graphic drivers. Controls: For menu invocation press ESC key on keyboard. You can rotate camera by right mouse button and zoom in/out with scrolling mouse button. Alt + Enter key combination will toggle between fullscreen mode. Boxes movement methods: mouse click - simple click with left mouse button at box and it will move automatically to free position mouse click &amp; arrows - click with left mouse button at box and control it's movement by arrow keys on keyboard arrows - move boxes with arrow keys on keyboard arrows inverted - move boxes with arrow keys on keyboard in inverted directions",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1476690/header.jpg?t=1607099820",
+    "Price": 0.0,
+    "Developers": "Vectura Games",
+    "Publishers": "Vectura Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1476690/ss_69ebb28ef12df9e86435793131154b77a06b44ee.1920x1080.jpg?t=1607099820,https://cdn.akamai.steamstatic.com/steam/apps/1476690/ss_481d9455b799569dab5c1595633452f05fb18bd9.1920x1080.jpg?t=1607099820,https://cdn.akamai.steamstatic.com/steam/apps/1476690/ss_ee9204123875a65d72beef12595cc9462176b0a5.1920x1080.jpg?t=1607099820,https://cdn.akamai.steamstatic.com/steam/apps/1476690/ss_31ae6957b3b9c63bf0b7e9031b48bbe30fbab198.1920x1080.jpg?t=1607099820,https://cdn.akamai.steamstatic.com/steam/apps/1476690/ss_beeb3e3e596ec2a91812fd1f1df97e3d296c45b4.1920x1080.jpg?t=1607099820,https://cdn.akamai.steamstatic.com/steam/apps/1476690/ss_f3185fb102d195c3bce10ea97ed9f7606cbf02fa.1920x1080.jpg?t=1607099820",
+    "Slug": "15-puzzle",
+    "Meta Title": "15 puzzle: Dec 4, 2020, Vectura Games and Full Overview",
+    "Meta Description": "Looking for information on 15 puzzle? Check out the release date (Dec 4, 2020), developer insights from Vectura Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for 15 puzzle game - Steam 1476690",
+    "Canonical URL": "https://gusku.site/game/15-puzzle",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"15 puzzle\", \"description\": \"Looking for information on 15 puzzle? Check out the release date (Dec 4, 2020), developer insights from Vectura Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 4, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Vectura Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Vectura Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1476690/header.jpg?t=1607099820\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

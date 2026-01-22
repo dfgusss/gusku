@@ -1,0 +1,21 @@
+{
+    "AppID": 1656820,
+    "Name": "COTTON REBOOT!",
+    "Release date": "Nov 10, 2021",
+    "About the game": "Cotton Reboot! is a completely remastered version of Cotton.Fantastic Night Dreams, the originator of the witchy shooting game released 30 years ago, with new features and the latest visual design. The game also features 3 game modes. X68000 original mode faithfully emulates Sharp’s personal computer from the 1993 version. Arrange mode features 16:9 screens, redesigned graphics and characters. Time attack mode the player competes for scores online within a limited time.(2 minute and 5 minute mode can be selected) Cotton reboot!　Ver 1.01 update patch is now available. 1. controller button notation 　Xbox controllers and other controllers (general Xinput-compatible controllers and DirectX-compatible controllers) 　When connected, the button notations have been modified to conform to the Xbox controller specifications. 　PS4 controller is still used when connected to a PS4 controller. 　If a PS4 controller is not connected, the buttons will be displayed as Xbox buttons. 2. Addition of the game exit menu 　Added to the main menu. 3. Screen mode change menu added 　An item has been added to the config to allow selection of full screen mode or windowed mode. 　If you change the mode and save the configuration, the next time you start up the system, the screen mode will be the one selected at the time of saving. 4. speed adjustment for monitors with a refresh rate of 60 Hz or higher 　Changed speed management to be independent of refresh rate when in window mode. Translated with www.DeepL.com/Translator (free version)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1656820/header.jpg?t=1647306587",
+    "Price": 44.99,
+    "Developers": "Rocket-Engine Co.,Ltd.",
+    "Publishers": "BEEP",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1656820/ss_267ce8ab16eb80a7281a8a4e4102c2d91a318a2d.1920x1080.jpg?t=1647306587,https://cdn.akamai.steamstatic.com/steam/apps/1656820/ss_ae1536196290cc4732deda32de88b65b6e746f3f.1920x1080.jpg?t=1647306587,https://cdn.akamai.steamstatic.com/steam/apps/1656820/ss_adff1f75ce998473b50fc6c449ed28a6c5e78209.1920x1080.jpg?t=1647306587,https://cdn.akamai.steamstatic.com/steam/apps/1656820/ss_67dd0ee7e9798619a8def92c94e7b6439fee1c69.1920x1080.jpg?t=1647306587,https://cdn.akamai.steamstatic.com/steam/apps/1656820/ss_ae9a5e32a6b6dbe1aef3de2a9d8b0740e316898f.1920x1080.jpg?t=1647306587",
+    "Slug": "cotton-reboot",
+    "Meta Title": "COTTON REBOOT!: Nov 10, 2021, Rocket-Engine Co.,Ltd. and ...",
+    "Meta Description": "Looking for information on COTTON REBOOT!? Check out the release date (Nov 10, 2021), developer insights from Rocket-Engine Co.,Ltd., and a complete gam...",
+    "Alt Text Image": "Official header image for COTTON REBOOT! game - Steam 1656820",
+    "Canonical URL": "https://gusku.site/game/cotton-reboot",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"COTTON REBOOT!\", \"description\": \"Looking for information on COTTON REBOOT!? Check out the release date (Nov 10, 2021), developer insights from Rocket-Engine Co.,Ltd., and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 10, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rocket-Engine Co.,Ltd.\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"BEEP\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1656820/header.jpg?t=1647306587\", \"offers\": {\"@type\": \"Offer\", \"price\": 44.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

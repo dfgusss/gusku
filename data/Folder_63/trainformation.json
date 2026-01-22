@@ -1,0 +1,21 @@
+{
+    "AppID": 2077150,
+    "Name": "TrainFormation",
+    "Release date": "Aug 19, 2022",
+    "About the game": "TrainFormation is a simple, fast-paced puzzle game created by one student as a university project. Place rails in front of an ever-accelerating train to cross procedurally generated levels, reach stations, collect power ups and make it as far as you can! Build a path for the train Swap hexagonal tiles to create a path for the train. Make sure to find the matching rails and terrain, or the train will not make it through! ⠀ Reach stations and collect power ups Make it to a station and take a moment to breathe. Use specific rail tiles to collect power ups to help you in your toughest moments! ⠀ Make it as far as you can Reach new levels and face the difficult terrain. Hold on tight as the train continues to accelerate! ⠀",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2077150/header.jpg?t=1660911218",
+    "Price": 0.0,
+    "Developers": "Arturvo",
+    "Publishers": "Arturvo",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2077150/ss_80eb7c1f2712f011a08ca22301f4ecb6db918bca.1920x1080.jpg?t=1660911218,https://cdn.akamai.steamstatic.com/steam/apps/2077150/ss_6ff901f42314d3a4c8c7d9c480a498b35a780403.1920x1080.jpg?t=1660911218,https://cdn.akamai.steamstatic.com/steam/apps/2077150/ss_aeaa20c5c228d3b0e978ea5f6f36dba722db2cbb.1920x1080.jpg?t=1660911218,https://cdn.akamai.steamstatic.com/steam/apps/2077150/ss_121c3b75a21e6c2a41b294184eefeeacea9906cf.1920x1080.jpg?t=1660911218,https://cdn.akamai.steamstatic.com/steam/apps/2077150/ss_5f7f61806fc6550ec2fee2dda442c5b05e9a6db2.1920x1080.jpg?t=1660911218",
+    "Slug": "trainformation",
+    "Meta Title": "TrainFormation: Aug 19, 2022, Arturvo and Full Overview",
+    "Meta Description": "Looking for information on TrainFormation? Check out the release date (Aug 19, 2022), developer insights from Arturvo, and a complete game summary.",
+    "Alt Text Image": "Official header image for TrainFormation game - Steam 2077150",
+    "Canonical URL": "https://gusku.site/game/trainformation",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"TrainFormation\", \"description\": \"Looking for information on TrainFormation? Check out the release date (Aug 19, 2022), developer insights from Arturvo, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 19, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Arturvo\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Arturvo\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2077150/header.jpg?t=1660911218\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

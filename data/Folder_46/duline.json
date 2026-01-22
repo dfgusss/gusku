@@ -1,0 +1,21 @@
+{
+    "AppID": 1932430,
+    "Name": "Duline",
+    "Release date": "May 2, 2022",
+    "About the game": "Duline is a pure and simple logic game, expressing unexpected complexity through its level design. 31 unique levels. The game is quite challenging so be prepared. Rules: You can place blue or orange blocks anywhere except white tiles. The goal is to cover all the green tiles on the board with the least 'chains' used. A chain is when blocks of the same colour touch in the main cardinal directions. Chains over 12 in length are invalid!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1932430/header.jpg?t=1651543219",
+    "Price": 4.99,
+    "Developers": "Isaac Andrews",
+    "Publishers": "Isaac Andrews",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1932430/ss_b47f40d274ab7d5803349cd4089b844a90552518.1920x1080.jpg?t=1651543219,https://cdn.akamai.steamstatic.com/steam/apps/1932430/ss_ad42e007fa3d2b0c7a20639ce7566681cfee4894.1920x1080.jpg?t=1651543219,https://cdn.akamai.steamstatic.com/steam/apps/1932430/ss_67135c4e8ebc1416080efdc7386e6224342a4ac2.1920x1080.jpg?t=1651543219,https://cdn.akamai.steamstatic.com/steam/apps/1932430/ss_078c91a0243d693dbaddf277b909b6ceb16e3c14.1920x1080.jpg?t=1651543219,https://cdn.akamai.steamstatic.com/steam/apps/1932430/ss_d45873cd1ae02ada55e09dc31a853a470221da8d.1920x1080.jpg?t=1651543219,https://cdn.akamai.steamstatic.com/steam/apps/1932430/ss_8556b9103d2f41c07655e8995700bd0bdf6829d2.1920x1080.jpg?t=1651543219",
+    "Slug": "duline",
+    "Meta Title": "Duline: May 2, 2022, Isaac Andrews and Full Overview",
+    "Meta Description": "Looking for information on Duline? Check out the release date (May 2, 2022), developer insights from Isaac Andrews, and a complete game summary.",
+    "Alt Text Image": "Official header image for Duline game - Steam 1932430",
+    "Canonical URL": "https://gusku.site/game/duline",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Duline\", \"description\": \"Looking for information on Duline? Check out the release date (May 2, 2022), developer insights from Isaac Andrews, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 2, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Isaac Andrews\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Isaac Andrews\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1932430/header.jpg?t=1651543219\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

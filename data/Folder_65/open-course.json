@@ -1,0 +1,21 @@
+{
+    "AppID": 2152120,
+    "Name": "Open Course",
+    "Release date": "Oct 20, 2022",
+    "About the game": "Fun Exciting Island Golf! Test your ability on this challenging island golf course, where precision is needed for each shot! Hours of casual fun!!! 1-9 Greens: Fairways have different islands to land on, opening up different paths to the hole. 1-4 Players: - Host and client screen, the host has options (disband, remove player), and the client can join and leave the game at any time. Shots: Watch players take their luck at the perfect shot! Ball Stats: Player Name, Yards to Hole, Ground Target Distance, Ball Hit Distance, Ball Hit Degrees, and Power-bar Scoreboard: The scoreboard will keep track of the player's scores while competing. Show/Hide Options: Group List, Scoreboard, Mouse Cursor Winner: A final scoreboard will display the winner, with the ability to mark play again or go to the main menu. Host Final Screen: The host can decide to play again or go to the main menu. Players Joining: Players can join in the client lobby screen, join in between holes (before any hits, the player's score will start from that hit), or join at the end (on the winner screen).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2152120/header.jpg?t=1666270479",
+    "Price": 1.99,
+    "Developers": "The Dev Grp",
+    "Publishers": "Join Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2152120/ss_b4be507989b403d804279b7506d13cd05e9c00ae.1920x1080.jpg?t=1666270479,https://cdn.akamai.steamstatic.com/steam/apps/2152120/ss_49f5889bf5ed729cba2aa9f71a74e37166499219.1920x1080.jpg?t=1666270479,https://cdn.akamai.steamstatic.com/steam/apps/2152120/ss_8c1f779e970b62c760155f37caed3c26fa0980f2.1920x1080.jpg?t=1666270479,https://cdn.akamai.steamstatic.com/steam/apps/2152120/ss_e7d0eed27b93d41a80539bc0bca2719f0f0a3bab.1920x1080.jpg?t=1666270479,https://cdn.akamai.steamstatic.com/steam/apps/2152120/ss_d90955569bc9d0ee4dfdd1b4ede44e820d295f86.1920x1080.jpg?t=1666270479,https://cdn.akamai.steamstatic.com/steam/apps/2152120/ss_2095345b6846399da1f90c9820abc532bfdf1ba5.1920x1080.jpg?t=1666270479,https://cdn.akamai.steamstatic.com/steam/apps/2152120/ss_b3d15de0c68986d6187e7cf42ce53d8709252d85.1920x1080.jpg?t=1666270479,https://cdn.akamai.steamstatic.com/steam/apps/2152120/ss_ca57ddd6d02ab9b51a72810448af3745917f59c1.1920x1080.jpg?t=1666270479",
+    "Slug": "open-course",
+    "Meta Title": "Open Course: Oct 20, 2022, The Dev Grp and Full Overview",
+    "Meta Description": "Looking for information on Open Course? Check out the release date (Oct 20, 2022), developer insights from The Dev Grp, and a complete game summary.",
+    "Alt Text Image": "Official header image for Open Course game - Steam 2152120",
+    "Canonical URL": "https://gusku.site/game/open-course",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Open Course\", \"description\": \"Looking for information on Open Course? Check out the release date (Oct 20, 2022), developer insights from The Dev Grp, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"The Dev Grp\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Join Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2152120/header.jpg?t=1666270479\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

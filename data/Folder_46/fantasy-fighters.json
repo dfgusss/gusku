@@ -1,0 +1,21 @@
+{
+    "AppID": 1991670,
+    "Name": "Fantasy Fighters",
+    "Release date": "May 25, 2022",
+    "About the game": "Fantasy Fighters is a turn-based game that allows you to play with a class of your choice in a fantasy battle setting. Each of the four classes (Elf, Dwarf, Rogue, Paladin) have three character types: Fighter (melee attack), Range (multi-target range attack) and Healer. The stats (damage, HP, healing points) of the characters are according to tier levels identified by colors. Players start with the teal level and as they progress in score through winning games will unlock higher tiers such as Orange, Blue, Red and Black. Pick your favourite class of Fantasy Fighters and win battles!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1991670/header.jpg?t=1653462303",
+    "Price": 4.99,
+    "Developers": "QVIK GAMEZ",
+    "Publishers": "QVIK GAMEZ",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1991670/ss_a1ad6a6e59c2cffe131b7911b97fa1acdcbb9883.1920x1080.jpg?t=1653462303,https://cdn.akamai.steamstatic.com/steam/apps/1991670/ss_83b1e3bcd82f29e8f699eae358ff66cc582a9087.1920x1080.jpg?t=1653462303,https://cdn.akamai.steamstatic.com/steam/apps/1991670/ss_3aa904f82f1f6c2d20ceae22c6448a741ef57d4c.1920x1080.jpg?t=1653462303,https://cdn.akamai.steamstatic.com/steam/apps/1991670/ss_d78eee3a5eb813733d5b14b6090515c3c1057d49.1920x1080.jpg?t=1653462303,https://cdn.akamai.steamstatic.com/steam/apps/1991670/ss_680aab17417ec97cdf9c3b2f18ae6f14b6f765a2.1920x1080.jpg?t=1653462303",
+    "Slug": "fantasy-fighters",
+    "Meta Title": "Fantasy Fighters: May 25, 2022, QVIK GAMEZ and Full Overview",
+    "Meta Description": "Looking for information on Fantasy Fighters? Check out the release date (May 25, 2022), developer insights from QVIK GAMEZ, and a complete game summary.",
+    "Alt Text Image": "Official header image for Fantasy Fighters game - Steam 1991670",
+    "Canonical URL": "https://gusku.site/game/fantasy-fighters",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Fantasy Fighters\", \"description\": \"Looking for information on Fantasy Fighters? Check out the release date (May 25, 2022), developer insights from QVIK GAMEZ, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 25, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"QVIK GAMEZ\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QVIK GAMEZ\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1991670/header.jpg?t=1653462303\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

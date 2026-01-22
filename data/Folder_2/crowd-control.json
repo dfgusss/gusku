@@ -1,0 +1,21 @@
+{
+    "AppID": 1136240,
+    "Name": "Crowd Control",
+    "Release date": "Sep 20, 2019",
+    "About the game": "Crowd control is a game about risk &amp; play style exploration. Up to four players spend a minute and a half converting as many crowd members to their colour. this is done by moving their wave with 4 directional keys. Crowd Control was created in the New Zealand Kiwi Jam 2019 game jam. I created this game in under 48 hours. It won 2nd Place in the Christchurch Kiwi Jam Awards 2019 so i decided to publish it on steam. I made it free to play because It has a short gameplay loop like most game jam games. Summary The Mexican wave: an effect resembling a moving wave produced by successive sections of the crowd in a stadium standing up, raising their arms, lowering them, and sitting down again. Four players each control an area where crowd members feel the need to party! These people somehow change the colour of their shirts, jump up, and cheer loud noises. Each time someone jumps while wearing your coloured shirt your score increases by one. The team with the highest score wins. You cannot convert crowd members that have recently jumped (indicated by the colour fading over time). If you get cut off by other player's recent jumpers you have to navigate back to the last place you colour jumped and continue the wave another direction. Throughout the duration of the game players can find party people that are indicated by the small light green arrow above their heads. Party people send a shock wave of jumpers out in every direction but watch out as occasionally it might not be your colour of wave. To change the AI to player ratio you can left click on a player while the game is paused to toggle the AI. Controls Press Space, Escape or Enter to start &amp; pause game. Press F1 to restart game. F2 Brings up the webpage Red : W, A, S, D Yellow : T, F, G, H Blue : I, J, K, L Green : Arrow Keys",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1136240/header.jpg?t=1631959611",
+    "Price": 0.0,
+    "Developers": "Sugoi Yellow",
+    "Publishers": "GrabTheGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1136240/ss_12b0767e49cc2fcee69f7902b94da03596589fa8.1920x1080.jpg?t=1631959611,https://cdn.akamai.steamstatic.com/steam/apps/1136240/ss_c1c5696c3360bac81b384c1127cd26a1854583d5.1920x1080.jpg?t=1631959611,https://cdn.akamai.steamstatic.com/steam/apps/1136240/ss_78a6c04f2058eabbd3a7f2214ba0fb88a3a492b1.1920x1080.jpg?t=1631959611,https://cdn.akamai.steamstatic.com/steam/apps/1136240/ss_8f8d40ab765f535b41c14a4931013e6f91981e2c.1920x1080.jpg?t=1631959611,https://cdn.akamai.steamstatic.com/steam/apps/1136240/ss_b4c5ebaaf17595a5fb0051bfb19c503cba20e9a7.1920x1080.jpg?t=1631959611",
+    "Slug": "crowd-control",
+    "Meta Title": "Crowd Control: Sep 20, 2019, Sugoi Yellow and Full Overview",
+    "Meta Description": "Looking for information on Crowd Control? Check out the release date (Sep 20, 2019), developer insights from Sugoi Yellow, and a complete game summary.",
+    "Alt Text Image": "Official header image for Crowd Control game - Steam 1136240",
+    "Canonical URL": "https://gusku.site/game/crowd-control",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Crowd Control\", \"description\": \"Looking for information on Crowd Control? Check out the release date (Sep 20, 2019), developer insights from Sugoi Yellow, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 20, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sugoi Yellow\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"GrabTheGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1136240/header.jpg?t=1631959611\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

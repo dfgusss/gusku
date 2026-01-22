@@ -1,0 +1,21 @@
+{
+    "AppID": 1091350,
+    "Name": "Valley Run",
+    "Release date": "Jul 3, 2019",
+    "About the game": "An addictive endless runner that will test even the best reflexes! A classic mobile game genre brought to VR with endless fun of progressively more challenging speed and a daring test of you skills. You've entered a dangerous valley full of gold and dangerous challenges. Ride on a futuristic hover bike in the red valley collecting coins that increase your multiplier, drastically improving your chances of reaching a new high score! On your path you will encounter challenging obstacles, like cliffs, buildings, flames and more! But don't worry there is help along the path, you will encounter four different power ups that will help you survive longer. Double Points - will double the points gathered, Shield - will make you immune to losing the game, Magnet - pulls in all nearby coins letting you focus only on avoiding any obstacles and finally Frenzy - where for a short duration only coins will spawn letting you relax and collect enormous amounts of points!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1091350/header.jpg?t=1562158911",
+    "Price": 0.99,
+    "Developers": "Alliance4devs",
+    "Publishers": "Alliance4devs",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1091350/ss_18d1fc388b977e4556a704ff2ab7e7b28a10a876.1920x1080.jpg?t=1562158911,https://cdn.akamai.steamstatic.com/steam/apps/1091350/ss_17e8f7d6ec735c377ff26a835c772c88fe19707e.1920x1080.jpg?t=1562158911,https://cdn.akamai.steamstatic.com/steam/apps/1091350/ss_a393887f5a09a16c31121e8fe9d48944cc0508b3.1920x1080.jpg?t=1562158911,https://cdn.akamai.steamstatic.com/steam/apps/1091350/ss_d273a4c50d03c748a20adfc6bed3edab6fbdae3a.1920x1080.jpg?t=1562158911,https://cdn.akamai.steamstatic.com/steam/apps/1091350/ss_8f7fdf82470f2571bf60674248b23d5fb15f1fa0.1920x1080.jpg?t=1562158911",
+    "Slug": "valley-run",
+    "Meta Title": "Valley Run: Jul 3, 2019, Alliance4devs and Full Overview",
+    "Meta Description": "Looking for information on Valley Run? Check out the release date (Jul 3, 2019), developer insights from Alliance4devs, and a complete game summary.",
+    "Alt Text Image": "Official header image for Valley Run game - Steam 1091350",
+    "Canonical URL": "https://gusku.site/game/valley-run",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Valley Run\", \"description\": \"Looking for information on Valley Run? Check out the release date (Jul 3, 2019), developer insights from Alliance4devs, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 3, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Alliance4devs\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Alliance4devs\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1091350/header.jpg?t=1562158911\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

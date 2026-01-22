@@ -1,0 +1,21 @@
+{
+    "AppID": 1862940,
+    "Name": "Tetris for Two",
+    "Release date": "Jan 25, 2022",
+    "About the game": "Tetris for Two Minimalistic Tetris with several modes for two players Single Player Single Player - Simple Classic Tetris Competition Modes Parallel match - Two regular independent tetris games happening side by side. Mirror match - Two players are receiving identical figures. Speed-up your opponent - when a line is completed, opponent's game speed is doubled until they complete their own line. Cooperation Modes Control swap - Each turn players swap their controls. Balanced wells - Heights of both wells are balanced, so that each player gets about the same amount of empty space. Single well - Play together in the same big well. Heart-shaped well - Play together in the wells with the shared bottom. Controls Play with a single keyboard or with a keyboard+controller. Press [esc] to exit Press [space] to pause Only a single controller is supported, as I have only one controller at home and can't test it for two.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1862940/header.jpg?t=1643128236",
+    "Price": 0.0,
+    "Developers": "Mikhail Shubin",
+    "Publishers": "Mikhail Shubin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1862940/ss_4ddf600a35b66b478af27c34db4e1e1b55d13cf5.1920x1080.jpg?t=1643128236,https://cdn.akamai.steamstatic.com/steam/apps/1862940/ss_924f3f0ba2fbe0bea5f04a5fb0b8d0bbd2ea71db.1920x1080.jpg?t=1643128236,https://cdn.akamai.steamstatic.com/steam/apps/1862940/ss_55c7a819b080b1c85076d8b2370db7067536c2b1.1920x1080.jpg?t=1643128236,https://cdn.akamai.steamstatic.com/steam/apps/1862940/ss_cfc9abf0f45104eef61ed299b8dffa8a988e7f3a.1920x1080.jpg?t=1643128236,https://cdn.akamai.steamstatic.com/steam/apps/1862940/ss_12d031dca30b9e22210632605c15fbcb1c53f809.1920x1080.jpg?t=1643128236,https://cdn.akamai.steamstatic.com/steam/apps/1862940/ss_d3c13923731011ad7425022af60a70bcf06852f1.1920x1080.jpg?t=1643128236",
+    "Slug": "tetris-for-two",
+    "Meta Title": "Tetris for Two: Jan 25, 2022, Mikhail Shubin and Full Ove...",
+    "Meta Description": "Looking for information on Tetris for Two? Check out the release date (Jan 25, 2022), developer insights from Mikhail Shubin, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tetris for Two game - Steam 1862940",
+    "Canonical URL": "https://gusku.site/game/tetris-for-two",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tetris for Two\", \"description\": \"Looking for information on Tetris for Two? Check out the release date (Jan 25, 2022), developer insights from Mikhail Shubin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 25, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mikhail Shubin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mikhail Shubin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1862940/header.jpg?t=1643128236\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

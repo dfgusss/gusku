@@ -1,0 +1,21 @@
+{
+    "AppID": 1170130,
+    "Name": "Restrictr",
+    "Release date": "Dec 4, 2019",
+    "About the game": "Sick of hitting walls or obstacles where playing VR? Then this is the app for you. Restrictr will create a visual barrier that prevents you from playing when you leave a predefined area (The center of your play area). No more hitting walls when you are using Restrctr.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1170130/header.jpg?t=1590352175",
+    "Price": 0.0,
+    "Developers": "Martin Zudaire",
+    "Publishers": "Curtis Dubois",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1170130/ss_ebe50a032259ca162a8977da9e8b1a6bcba77d5d.1920x1080.jpg?t=1590352175,https://cdn.akamai.steamstatic.com/steam/apps/1170130/ss_e2e897d1f169914e0c41bd3a40ae8a6dff80ce93.1920x1080.jpg?t=1590352175,https://cdn.akamai.steamstatic.com/steam/apps/1170130/ss_cb4d84a3ec90b936879f037786ddfc2e2f460981.1920x1080.jpg?t=1590352175,https://cdn.akamai.steamstatic.com/steam/apps/1170130/ss_9c56ebfe12b1185c54c7b5fa3b078faba50c543b.1920x1080.jpg?t=1590352175,https://cdn.akamai.steamstatic.com/steam/apps/1170130/ss_abe766148c36e0f59f1371242be25d9a9f139765.1920x1080.jpg?t=1590352175",
+    "Slug": "restrictr",
+    "Meta Title": "Restrictr: Dec 4, 2019, Martin Zudaire and Full Overview",
+    "Meta Description": "Looking for information on Restrictr? Check out the release date (Dec 4, 2019), developer insights from Martin Zudaire, and a complete game summary.",
+    "Alt Text Image": "Official header image for Restrictr game - Steam 1170130",
+    "Canonical URL": "https://gusku.site/game/restrictr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Restrictr\", \"description\": \"Looking for information on Restrictr? Check out the release date (Dec 4, 2019), developer insights from Martin Zudaire, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 4, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Martin Zudaire\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Curtis Dubois\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1170130/header.jpg?t=1590352175\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

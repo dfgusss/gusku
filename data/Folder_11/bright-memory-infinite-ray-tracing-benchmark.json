@@ -1,0 +1,21 @@
+{
+    "AppID": 1409670,
+    "Name": "Bright Memory: Infinite Ray Tracing Benchmark",
+    "Release date": "Sep 24, 2020",
+    "About the game": "Benchmark software created by FYQD-Studio to test performance of next-gen ray tracing in Bright Memory: Infinite. Notices This demo is not a gameplay demo. It is benchmark software designed to test the performance of your GPU and if it supports the ray tracing in Bright memory: Infinite. Please do not worry if your GPU isn’t supported, if your PC was able to run the previous title Bright Memory, then it will be able to run Bright Memory: Infinite. This Benchmark software contains the following RTX technology RT Caustics RT Reflection RT Refraction RT Ambient Occlusion RT Shadows DLSS 2.1 Your PC will need to meet the following 3 criteria 1. Windows 10. (ver.1903 or above) 2. A GPU with ray tracing support. The minimum requirement required is an NVIDIA GeForce RTX 2060 6GB. If you have a GPU from a different manufacturer, please check your GPU specifications by consulting the relevant manufacturer's website. 3. Latest graphic driver. If your NVIDIA driver isn’t the latest version we recommend updating through Geforce Experience. If you are using a different manufacturer's GPU, please check for the latest compatible driver and update.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1409670/header.jpg?t=1650869873",
+    "Price": 0.0,
+    "Developers": "FYQD-Studio",
+    "Publishers": "FYQD-Studio,PLAYISM",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1409670/ss_2be3c72a40c2d557406e29e9db367a40a2c13c12.1920x1080.jpg?t=1650869873,https://cdn.akamai.steamstatic.com/steam/apps/1409670/ss_871c9bf9a55c985207e3b3e87c743e273ce8e8ce.1920x1080.jpg?t=1650869873,https://cdn.akamai.steamstatic.com/steam/apps/1409670/ss_3a1d2b617f95ac1c3241489474f0502602977504.1920x1080.jpg?t=1650869873,https://cdn.akamai.steamstatic.com/steam/apps/1409670/ss_2dbcc811f20561bc5396e9535ed51e4ad60b3b02.1920x1080.jpg?t=1650869873,https://cdn.akamai.steamstatic.com/steam/apps/1409670/ss_20616d0507bd245f99e9c3eaa8dde891c2a51a3f.1920x1080.jpg?t=1650869873,https://cdn.akamai.steamstatic.com/steam/apps/1409670/ss_22a36435e56b720234754258a525878ab76b560d.1920x1080.jpg?t=1650869873,https://cdn.akamai.steamstatic.com/steam/apps/1409670/ss_5ee79796b1fc98ca04e2752e5a58e0909621a310.1920x1080.jpg?t=1650869873",
+    "Slug": "bright-memory-infinite-ray-tracing-benchmark",
+    "Meta Title": "Bright Memory: Infinite Ray Tracing Benchmark: Sep 24, 20...",
+    "Meta Description": "Looking for information on Bright Memory: Infinite Ray Tracing Benchmark? Check out the release date (Sep 24, 2020), developer insights from FYQD-Studio...",
+    "Alt Text Image": "Official header image for Bright Memory: Infinite Ray Tracing Benchmark game - Steam 1409670",
+    "Canonical URL": "https://gusku.site/game/bright-memory-infinite-ray-tracing-benchmark",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bright Memory: Infinite Ray Tracing Benchmark\", \"description\": \"Looking for information on Bright Memory: Infinite Ray Tracing Benchmark? Check out the release date (Sep 24, 2020), developer insights from FYQD-Studio...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 24, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"FYQD-Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"FYQD-Studio,PLAYISM\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1409670/header.jpg?t=1650869873\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

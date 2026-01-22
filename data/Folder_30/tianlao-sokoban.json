@@ -1,0 +1,21 @@
+{
+    "AppID": 925120,
+    "Name": "天牢 - Tianlao Sokoban -",
+    "Release date": "Mar 29, 2021",
+    "About the game": "SMG ゲーム制作グループ繼《蒼墨龍吟》後，再推出的PUZ益智遊戲《天牢》，由《蒼墨龍吟》原製作團隊製作。 遊戲以解謎過關形式進行，共分天、地、玄、黃、宇、宙、洪、荒等八大獄，每一大獄共有十層關卡，總共八十層關卡，玩家必須移動燈位到相應的地塊，來解開每層的隱藏通道，方可前往下一層關卡。 天牢算是蒼墨龍吟之外的另類遊戲。 【遊戲操作控制方式】 玩家移動：↑、↓、←、→ 方向鍵 移動燈塔：Z鍵、空白鍵、Enter鍵 【遊戲功能控制說明】 上一步：按下 G 鍵，返回上一步。 重置：按下 R 鍵，該關卡重玩。 關卡：按下 L 鍵，返回目前所在牢獄的全關卡選擇。 設定：按下 U 鍵，遊戲音樂音效音量調整。 天牢：按下 Y 鍵，打開牢獄選單進入其他牢獄。 離開：按下 E 鍵，離開遊戲、返回標題畫面或繼續遊戲。 ★ v1.22.1 版本為天牢獄共十關卡。 ★ v1.24.1 版本為天、地、玄、黃四大牢獄共四十關卡。 ★ 完整八十層關卡會於後續版本更新！ 【Steam 成就系統】 遊戲中會有九個成就可拿，後續會再增加，包含獲得成就並加乘分數或是獲得寶物。 【v1.24.1 正式版遊戲增加的功能】 1. 遊戲的燈塔只可推進，無法拉出。 2. 系統自動存檔。 3. 開放天、地、玄、黃四大牢獄共四十關卡，可在遊戲中選擇關卡以及切換至其他牢獄關卡。 4. 當卡關時可重玩或是利用回復上一步功能。 5. 每一個牢獄的最後一層破關後，會出現守護者問答。 6. 遊戲中可看到目前累計的總分數、移動步數以及該關得分數。 7. 關卡的原創配樂，共十首隨機變換。 8. 可任意隨時查看及選擇關卡 (以解鎖才能進入) 9. 支援XBOX搖桿控制器，鍵盤上下左右鍵操控，不支援滑鼠控制，遊戲中其他功能以鍵盤熱鍵控制。 10. 新增 Mac OSX 平台版本，讓 Mac 玩家也可以遊玩。 以上為天牢版本 v1.24.1 的功能。 【v1.22.1 試玩版差異】 1. 開放「 天 」第一大牢獄共十關卡，可在遊戲中選擇關卡但無法切換至其他牢獄關卡。 2. 試玩版只提供 Windows 平台。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/925120/header.jpg?t=1640654035",
+    "Price": 4.99,
+    "Developers": "SMG ゲーム制作グループ",
+    "Publishers": "RMAsia",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/925120/ss_f0ffc8a014ce3c4350205550449f04543fc50c03.1920x1080.jpg?t=1640654035,https://cdn.akamai.steamstatic.com/steam/apps/925120/ss_d72bbec90276e226b70e4159bdd36cd50d8d6ece.1920x1080.jpg?t=1640654035,https://cdn.akamai.steamstatic.com/steam/apps/925120/ss_8a7606c14c230c6de118f08dee2c85986e934621.1920x1080.jpg?t=1640654035,https://cdn.akamai.steamstatic.com/steam/apps/925120/ss_031644668985ff0d56ea823ba629a55759075bf0.1920x1080.jpg?t=1640654035,https://cdn.akamai.steamstatic.com/steam/apps/925120/ss_ecdb20b5535fa94d3297e2752f5a954980ccb261.1920x1080.jpg?t=1640654035,https://cdn.akamai.steamstatic.com/steam/apps/925120/ss_5ca6e551dca7026e400c48fcf53b95bde7430889.1920x1080.jpg?t=1640654035",
+    "Slug": "tianlao-sokoban",
+    "Meta Title": "天牢 - Tianlao Sokoban -: Mar 29, 2021, SMG ゲーム制作グループ and F...",
+    "Meta Description": "Looking for information on 天牢 - Tianlao Sokoban -? Check out the release date (Mar 29, 2021), developer insights from SMG ゲーム制作グループ, and a complete game...",
+    "Alt Text Image": "Official header image for 天牢 - Tianlao Sokoban - game - Steam 925120",
+    "Canonical URL": "https://gusku.site/game/tianlao-sokoban",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u5929\\u7262 - Tianlao Sokoban -\", \"description\": \"Looking for information on \\u5929\\u7262 - Tianlao Sokoban -? Check out the release date (Mar 29, 2021), developer insights from SMG \\u30b2\\u30fc\\u30e0\\u5236\\u4f5c\\u30b0\\u30eb\\u30fc\\u30d7, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 29, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"SMG \\u30b2\\u30fc\\u30e0\\u5236\\u4f5c\\u30b0\\u30eb\\u30fc\\u30d7\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"RMAsia\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/925120/header.jpg?t=1640654035\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

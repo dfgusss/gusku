@@ -1,0 +1,21 @@
+{
+    "AppID": 2201830,
+    "Name": "Cluster Fly",
+    "Release date": "Nov 16, 2022",
+    "About the game": "You control 'The Fly', a spaceship that collects radioactive cargo in a grid-based area. Each cargo grants 10 base-points. Collecting multiple cargo in a row will increase the multiplier and make each consecutive cargo more valuable. Every time the multiplier reaches a multitude of 10, the bar in the bottom-right corner gains a charge. When it's full, the remaining cargo will be automatically collected taking the multiplier into account. Enemies interfere by shooting fireballs and lasers. Options Several options are available that change the gameplay. Cargo With the double/triple cargo setting, the cargo must be collected twice/thrice until it is completely collected, granting points each time. However, the multiplier needed to charge the bar increases to a multitude of 20/30. Lasers Additionally lasers will appear at the sides. Asteroids Neither the player nor enemy fire can pass through asteroids. Bombs Bombs explode after a short duration when touched and destroy everything in a 2-tile radius. Chain reactions are possible. Features Infinite number of procedurally generated levels Difficulty increases infinitely - your skill determines how far you can get Online Leaderboard 50 minutes electronic music",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2201830/header.jpg?t=1668788603",
+    "Price": 3.39,
+    "Developers": "Arenokubis Games",
+    "Publishers": "Arenokubis Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2201830/ss_80e679a3124e3d945bbee0442c7670832cbab283.1920x1080.jpg?t=1668788603,https://cdn.akamai.steamstatic.com/steam/apps/2201830/ss_460d89de835aebe2f875e88d4e64282fd063bc7a.1920x1080.jpg?t=1668788603,https://cdn.akamai.steamstatic.com/steam/apps/2201830/ss_ba471722ca26ebed96aff66e84b4619b65eea2c5.1920x1080.jpg?t=1668788603,https://cdn.akamai.steamstatic.com/steam/apps/2201830/ss_04fe296c13d27400e9abca7e00774c6dc4d092b0.1920x1080.jpg?t=1668788603,https://cdn.akamai.steamstatic.com/steam/apps/2201830/ss_97d0c62e12e9f12491866388f87a6eaff00da6b3.1920x1080.jpg?t=1668788603",
+    "Slug": "cluster-fly",
+    "Meta Title": "Cluster Fly: Nov 16, 2022, Arenokubis Games and Full Over...",
+    "Meta Description": "Looking for information on Cluster Fly? Check out the release date (Nov 16, 2022), developer insights from Arenokubis Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cluster Fly game - Steam 2201830",
+    "Canonical URL": "https://gusku.site/game/cluster-fly",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cluster Fly\", \"description\": \"Looking for information on Cluster Fly? Check out the release date (Nov 16, 2022), developer insights from Arenokubis Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 16, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Arenokubis Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Arenokubis Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2201830/header.jpg?t=1668788603\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

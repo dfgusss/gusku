@@ -1,0 +1,21 @@
+{
+    "AppID": 1254820,
+    "Name": "Tank Game",
+    "Release date": "Apr 20, 2020",
+    "About the game": "Tank Game is a Local-Multiplayer Action game in which you and up to 7 friends select any of nearly 50 unique, super-powered... 'Tanks'... and use them to blast each other off the map! Tank Powers include, but are not limited to: - Hypnosis - Invisibility - Painting - Gun - Time Manipulation - Nuclear Warfare - A Lobster - And Many More! Features: - 18 Maps - 48 Tanks - Cheat Codes - 8 Player Support - Multiple Monitor Support - Remote Play Compatible - Local and Global Stat Boards A note from the creator: Tank Game is a project that I worked on through my time in college, while working to get a degree in Computer Engineering. I mostly uploaded it to steam for the people at my university that loved to play it whenever it was brought to school game jams. The game isn't perfect. There are bugs. There are things that could be better. A lot better. Now that I have a full-time Unity Dev position, I plan on restarting this project from scratch with my new found knowledge. If that ever sees the light of day, I'll be sure to make an announcement here. In the mean time, please enjoy my game. Tanks for playing, -Keegan",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1254820/header.jpg?t=1613840840",
+    "Price": 0.0,
+    "Developers": "Keegan Sommer",
+    "Publishers": "Keegan Sommer",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1254820/ss_e1a642aef8f6997ac00c95fc97476c6b9855ab0c.1920x1080.jpg?t=1613840840,https://cdn.akamai.steamstatic.com/steam/apps/1254820/ss_cee1afac196e7df2c439f9ae0ee2ff50fd8ad6ea.1920x1080.jpg?t=1613840840,https://cdn.akamai.steamstatic.com/steam/apps/1254820/ss_b3ea96c5d1835dd35313c34982604279185d4ec8.1920x1080.jpg?t=1613840840,https://cdn.akamai.steamstatic.com/steam/apps/1254820/ss_71058fb5a7f2a94734dabd5a9acde3e30d55c8c2.1920x1080.jpg?t=1613840840,https://cdn.akamai.steamstatic.com/steam/apps/1254820/ss_200f8453c2d87134ed7976b41aec135d787c173e.1920x1080.jpg?t=1613840840,https://cdn.akamai.steamstatic.com/steam/apps/1254820/ss_90a55363e045b520d890c8218fec5a9b37e80ab3.1920x1080.jpg?t=1613840840,https://cdn.akamai.steamstatic.com/steam/apps/1254820/ss_bf1bcfbf0be7f62a9c54707f9e1ba0aac466572b.1920x1080.jpg?t=1613840840",
+    "Slug": "tank-game",
+    "Meta Title": "Tank Game: Apr 20, 2020, Keegan Sommer and Full Overview",
+    "Meta Description": "Looking for information on Tank Game? Check out the release date (Apr 20, 2020), developer insights from Keegan Sommer, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tank Game game - Steam 1254820",
+    "Canonical URL": "https://gusku.site/game/tank-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tank Game\", \"description\": \"Looking for information on Tank Game? Check out the release date (Apr 20, 2020), developer insights from Keegan Sommer, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 20, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Keegan Sommer\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Keegan Sommer\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1254820/header.jpg?t=1613840840\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

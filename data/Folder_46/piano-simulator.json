@@ -1,0 +1,21 @@
+{
+    "AppID": 844090,
+    "Name": "Piano Simulator",
+    "Release date": "May 29, 2018",
+    "About the game": "Piano Simulator Early Access! DISCLAIMER: The game is not yet finished, please read before buying and rate accordingly! There is only 1 octave right now, more is coming soon, it is a matter of a month to finish the repetitive work. This is the only Piano Simulator game on Steam, and probably the first game where you can play piano in a 3D environment. You can even add effects to the sound like in real synthesizers! (press on round switches in piano with a mouse) The game supports a lot of all types of controllers including: Mouse input(click on piano keys for them to play, 1 octave) PC keyboard. Currently from Q to ] Leap Motion. Use your fingers to play the piano! (1 octave, no effects right now) More controllers(including MIDI) to come The game is in early access and we currently offer: Reverb, phaser and distortion effects! 1 octave to play(7 notes, others may not work, please read before buying!) Mouse input(click on piano keys for them to play) PC keyboard (use it as midi keys) Leap Motion. Use your fingers to play the piano! (sound effects doesn't work with leap motion controller) 1 level Features: -Play Piano with keyboard, mouse or leap motion being surrounded by nature -English and Russian language, changable in-game",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/844090/header.jpg?t=1583555428",
+    "Price": 2.99,
+    "Developers": "Ludwig van Beethoven",
+    "Publishers": "Kavkaz Siia  Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/844090/ss_05be7f4d271a8893f9f37fca77119f6cd7708639.1920x1080.jpg?t=1583555428,https://cdn.akamai.steamstatic.com/steam/apps/844090/ss_b9cc7765716616ac3169cf6be5230d6edd498f39.1920x1080.jpg?t=1583555428,https://cdn.akamai.steamstatic.com/steam/apps/844090/ss_dc4b68d88787d5fec52d36f3625c513b813e6142.1920x1080.jpg?t=1583555428,https://cdn.akamai.steamstatic.com/steam/apps/844090/ss_add1812cca1c3e7f20689390fbe01b293e758fb4.1920x1080.jpg?t=1583555428,https://cdn.akamai.steamstatic.com/steam/apps/844090/ss_769abe8581551ca61028421139825e5bf989332b.1920x1080.jpg?t=1583555428",
+    "Slug": "piano-simulator",
+    "Meta Title": "Piano Simulator: May 29, 2018, Ludwig van Beethoven and F...",
+    "Meta Description": "Looking for information on Piano Simulator? Check out the release date (May 29, 2018), developer insights from Ludwig van Beethoven, and a complete game...",
+    "Alt Text Image": "Official header image for Piano Simulator game - Steam 844090",
+    "Canonical URL": "https://gusku.site/game/piano-simulator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Piano Simulator\", \"description\": \"Looking for information on Piano Simulator? Check out the release date (May 29, 2018), developer insights from Ludwig van Beethoven, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 29, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ludwig van Beethoven\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kavkaz Siia  Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/844090/header.jpg?t=1583555428\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

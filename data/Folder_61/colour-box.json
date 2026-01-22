@@ -1,0 +1,21 @@
+{
+    "AppID": 810690,
+    "Name": "Colour Box",
+    "Release date": "Mar 9, 2018",
+    "About the game": "Colour Box is a puzzle game about colouring boxes. There are 27 levels of varying difficulty that may prove to be both challenging and fun! You play the game by dragging boxes around. Dragging one over a coloured field will colour the part of the box touching that field. You must drag a matching box to the goal to complete a level. The main challenge of the game is figuring out in which order you should colour the box (or boxes). To beat the game you have to think logically and use all the tools the game provides you with. We hope you have as much fun playing Colour Box as we had making it! The game is made by Daniel Michaneck and features music by Jonathan Krieger Rozenberg. A big thank you to the people that playtested the game and the helpful members of the GameMaker community. Tips If you are having trouble dragging the box you can turn on Drag Assist in the main menu to make it easier for you. You can open the menu by pressing the Escape button or by right-clicking on an area away from a box or a goal. You can skip to the next level by pressing the right arrow key or go back to the previous level by pressing the left arrow key. You can go back a step in the menu or continue the game session by pressing the right mouse button while in the menu. You can also go back a step or continue the session by left-clicking outside of the menu screen while the game is paused.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/810690/header.jpg?t=1520607629",
+    "Price": 0.0,
+    "Developers": "Daniel Michaneck",
+    "Publishers": "Daniel Michaneck",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/810690/ss_11dd2066fe78bc4fd37752c06a2e4d65a2cba3f1.1920x1080.jpg?t=1520607629,https://cdn.akamai.steamstatic.com/steam/apps/810690/ss_640b9d48c437e59c37e37d49e582ba7a2e03c3a0.1920x1080.jpg?t=1520607629,https://cdn.akamai.steamstatic.com/steam/apps/810690/ss_b788bc96e9bfd73cc35f4ec936b12e2c70c81390.1920x1080.jpg?t=1520607629,https://cdn.akamai.steamstatic.com/steam/apps/810690/ss_7e93126d63dcf6217e817a0408029c53e9226a62.1920x1080.jpg?t=1520607629,https://cdn.akamai.steamstatic.com/steam/apps/810690/ss_ae45f3ca98f5828ff00a753a53352f2fa96e0272.1920x1080.jpg?t=1520607629,https://cdn.akamai.steamstatic.com/steam/apps/810690/ss_8ee25751f4162fe629597491d884651c96f5a770.1920x1080.jpg?t=1520607629,https://cdn.akamai.steamstatic.com/steam/apps/810690/ss_5ecd475155b0db2a7fee41a8445ea1491b9d53e7.1920x1080.jpg?t=1520607629",
+    "Slug": "colour-box",
+    "Meta Title": "Colour Box: Mar 9, 2018, Daniel Michaneck and Full Overview",
+    "Meta Description": "Looking for information on Colour Box? Check out the release date (Mar 9, 2018), developer insights from Daniel Michaneck, and a complete game summary.",
+    "Alt Text Image": "Official header image for Colour Box game - Steam 810690",
+    "Canonical URL": "https://gusku.site/game/colour-box",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Colour Box\", \"description\": \"Looking for information on Colour Box? Check out the release date (Mar 9, 2018), developer insights from Daniel Michaneck, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 9, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Daniel Michaneck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Daniel Michaneck\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/810690/header.jpg?t=1520607629\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

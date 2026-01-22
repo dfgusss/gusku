@@ -1,0 +1,21 @@
+{
+    "AppID": 595490,
+    "Name": "LookVR",
+    "Release date": "Feb 27, 2017",
+    "About the game": "Imagine being able to literally walk through your data - now you can. Looker is pushing the bounds of how people interact with their data. LookVR is a virtual reality tool for exploring data from Looker. Looker is a data platform that works with any data source for fast, actionable insights. LookVR is designed to work with Looker data, but you don't need to use Looker to try it out! Several fully explorable demo datasets are included for anyone interested in visualizing data in virtual reality. Explore real business data and find insights in virtual reality Includes a number of visualization types built just for VR Drill and filter to explore different datasets Connects to Looker's API and innovative modeling layer let you easily wrangle your data, so you can focus on building an application. Use the 'Big Data' button to make your data gigantic and climb up to the top. If you have Looker, you just need to plug in your Looker API credentials to get up and running. Because it connects to the Looker API, all the data you have in Looker will automatically show up in LookVR, allowing you to explore your data in ways you never knew were possible.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/595490/header.jpg?t=1550709793",
+    "Price": 0.0,
+    "Developers": "Looker",
+    "Publishers": "Looker",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/595490/ss_33e8cdbd022c5d1a1c1bdb82961ab7d27e9e3e2c.1920x1080.jpg?t=1550709793,https://cdn.akamai.steamstatic.com/steam/apps/595490/ss_1249d2ff750b41a1194155e99d2cc987ddaac90c.1920x1080.jpg?t=1550709793,https://cdn.akamai.steamstatic.com/steam/apps/595490/ss_de22b91c0bfcb26ee6a225e8885b20272ad3fb0c.1920x1080.jpg?t=1550709793,https://cdn.akamai.steamstatic.com/steam/apps/595490/ss_fb0b1d2fc9a7e6fb37ed1ed407e627a8c239d810.1920x1080.jpg?t=1550709793,https://cdn.akamai.steamstatic.com/steam/apps/595490/ss_6456916fc65c76363ac7922cd721a2fc72cb9f0d.1920x1080.jpg?t=1550709793",
+    "Slug": "lookvr",
+    "Meta Title": "LookVR: Feb 27, 2017, Looker and Full Overview",
+    "Meta Description": "Looking for information on LookVR? Check out the release date (Feb 27, 2017), developer insights from Looker, and a complete game summary.",
+    "Alt Text Image": "Official header image for LookVR game - Steam 595490",
+    "Canonical URL": "https://gusku.site/game/lookvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"LookVR\", \"description\": \"Looking for information on LookVR? Check out the release date (Feb 27, 2017), developer insights from Looker, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 27, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Looker\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Looker\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/595490/header.jpg?t=1550709793\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

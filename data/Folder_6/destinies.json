@@ -1,0 +1,21 @@
+{
+    "AppID": 1593930,
+    "Name": "Destinies",
+    "Release date": "Jun 9, 2021",
+    "About the game": "This application is a digital companion for the Destinies board game. Destinies is a competitive, story-driven, board game of adventure and exploration. You require the Destinies board game to be able to use this app. Launch the app, select the scenario you want to play, and be introduced to a story of dark fantasy and destinies waiting to be fulfilled. The app will guide you on how to set up your board game including your character skills, starting items, and the map tiles laid before you waiting to be explored. The app will introduce story-driven dynamic events and help to guide you through the ever-changing game world. The app also remembers the choices you make so there will be real consequences that often change the state of the game world forever. Each item in the game has a unique QR code that, using the game’s Scan&amp;Play technology, can be scanned to determine how you interact with the world, other characters, and epic challenges. Which items you scan and when will greatly affect the outcome of various interactions. Your player character card also comes with two QR codes that can be scanned, each one representing a different possible destiny to fulfill and thus win the game. Each scenario should last 120-150 minutes, and players will be able to choose from standalone scenarios or scenarios linked as part of a campaign. Once the app and a scenario are downloaded, the app doesn't require any internet connection during gameplay. The language can be selected within the app. The app saves your progress so you may resume a scenario later on.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1593930/header.jpg?t=1625075558",
+    "Price": 0.0,
+    "Developers": "Lucky Duck Games",
+    "Publishers": "Lucky Duck Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1593930/ss_719cb40b8fa928b7649f9b452621e698638d2a3e.1920x1080.jpg?t=1625075558,https://cdn.akamai.steamstatic.com/steam/apps/1593930/ss_ee5356cf14e13f4768b30d88448e30dc19da2e27.1920x1080.jpg?t=1625075558,https://cdn.akamai.steamstatic.com/steam/apps/1593930/ss_8fc2f8de7ecd1db32911c841e2dc150c00e2ffec.1920x1080.jpg?t=1625075558,https://cdn.akamai.steamstatic.com/steam/apps/1593930/ss_448d5c4853765d23c524e38a14e865ba2bf18039.1920x1080.jpg?t=1625075558,https://cdn.akamai.steamstatic.com/steam/apps/1593930/ss_62d188da0b96d57b068906993561bde2ee4e55b7.1920x1080.jpg?t=1625075558",
+    "Slug": "destinies",
+    "Meta Title": "Destinies: Jun 9, 2021, Lucky Duck Games and Full Overview",
+    "Meta Description": "Looking for information on Destinies? Check out the release date (Jun 9, 2021), developer insights from Lucky Duck Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Destinies game - Steam 1593930",
+    "Canonical URL": "https://gusku.site/game/destinies",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Destinies\", \"description\": \"Looking for information on Destinies? Check out the release date (Jun 9, 2021), developer insights from Lucky Duck Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 9, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lucky Duck Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Lucky Duck Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1593930/header.jpg?t=1625075558\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

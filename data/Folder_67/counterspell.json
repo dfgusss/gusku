@@ -1,0 +1,21 @@
+{
+    "AppID": 2211960,
+    "Name": "Counterspell",
+    "Release date": "Nov 24, 2022",
+    "About the game": "Counterspell is an endless runner game where you have to draw shapes to destroy hostile spells and jump over obstacles. It is an easy to grasp but hard to master arcade game where the only goal is to survive as long as you can. You use the mouse to draw the shapes which you see on the screen, there is also a spell you draw to jump over holes in the ground. If you don't draw quickly enough, the glyphs will touch the wizard and result in a game over. Some symbols are more complex than others and there are even large shapes which take two hits to kill, playing on an easier difficulty will reduce the frequency of challenging symbols appearing as well as the speed of the game. There are currently 3 difficulty settings and 25 different patterns to learn as you try and get a high score. There are also 6 unique powerups which will help you survive in different ways.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2211960/header.jpg?t=1669310965",
+    "Price": 1.99,
+    "Developers": "Foxi",
+    "Publishers": "Foxi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2211960/ss_0516afaf77c865bc0fec593bd4bab13419438e4c.1920x1080.jpg?t=1669310965,https://cdn.akamai.steamstatic.com/steam/apps/2211960/ss_f87f419b9e82f81840197f3eeb4a2d9bb749c789.1920x1080.jpg?t=1669310965,https://cdn.akamai.steamstatic.com/steam/apps/2211960/ss_8d776e2162413bc27d355e22bc85ed1b0a455980.1920x1080.jpg?t=1669310965,https://cdn.akamai.steamstatic.com/steam/apps/2211960/ss_93984821b3b6232ca3eff782ab59fec53545d510.1920x1080.jpg?t=1669310965,https://cdn.akamai.steamstatic.com/steam/apps/2211960/ss_d02145b2065e1d4b9480925a426df886ddb25579.1920x1080.jpg?t=1669310965,https://cdn.akamai.steamstatic.com/steam/apps/2211960/ss_f74072e4a8f0a0468c34b8fd14bc024fc7008f3b.1920x1080.jpg?t=1669310965",
+    "Slug": "counterspell",
+    "Meta Title": "Counterspell: Nov 24, 2022, Foxi and Full Overview",
+    "Meta Description": "Looking for information on Counterspell? Check out the release date (Nov 24, 2022), developer insights from Foxi, and a complete game summary.",
+    "Alt Text Image": "Official header image for Counterspell game - Steam 2211960",
+    "Canonical URL": "https://gusku.site/game/counterspell",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Counterspell\", \"description\": \"Looking for information on Counterspell? Check out the release date (Nov 24, 2022), developer insights from Foxi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 24, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Foxi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Foxi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2211960/header.jpg?t=1669310965\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

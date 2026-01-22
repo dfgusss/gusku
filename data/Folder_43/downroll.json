@@ -1,0 +1,21 @@
+{
+    "AppID": 1837870,
+    "Name": "Downroll",
+    "Release date": "Dec 23, 2021",
+    "About the game": "This is a miniature arcade platformer in which you have to control the ball. The ball descends from top to bottom along the rising platforms. Your task is to move the ball left and right in order to manage to go down the platforms and not be squeezed at the top. The game features three difficulty modes. On the hardest, all your finger dexterity and reaction speed will be required as the platforms will rise quickly enough. With the passage of each platform, you are awarded record points. Collect as many as possible and good luck with the game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1837870/header.jpg?t=1640298579",
+    "Price": 3.99,
+    "Developers": "QuickBobber",
+    "Publishers": "QuickBobber",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1837870/ss_2059b106f9aa6468783cc3af201cb884beb8649f.1920x1080.jpg?t=1640298579,https://cdn.akamai.steamstatic.com/steam/apps/1837870/ss_7a217f076b77ae79899b640bef2b369b445f3901.1920x1080.jpg?t=1640298579,https://cdn.akamai.steamstatic.com/steam/apps/1837870/ss_02c43cdeb59bb1be20fd1c7353a0ea6028a99820.1920x1080.jpg?t=1640298579,https://cdn.akamai.steamstatic.com/steam/apps/1837870/ss_1d373c2e03f856423aad6fc56fa1442073ace204.1920x1080.jpg?t=1640298579,https://cdn.akamai.steamstatic.com/steam/apps/1837870/ss_fe7add008e489fc96d7ce0d32041fd78774ff9f8.1920x1080.jpg?t=1640298579,https://cdn.akamai.steamstatic.com/steam/apps/1837870/ss_cb16edb658508a9ae184dd50b11f238054ef5bdf.1920x1080.jpg?t=1640298579",
+    "Slug": "downroll",
+    "Meta Title": "Downroll: Dec 23, 2021, QuickBobber and Full Overview",
+    "Meta Description": "Looking for information on Downroll? Check out the release date (Dec 23, 2021), developer insights from QuickBobber, and a complete game summary.",
+    "Alt Text Image": "Official header image for Downroll game - Steam 1837870",
+    "Canonical URL": "https://gusku.site/game/downroll",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Downroll\", \"description\": \"Looking for information on Downroll? Check out the release date (Dec 23, 2021), developer insights from QuickBobber, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1837870/header.jpg?t=1640298579\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

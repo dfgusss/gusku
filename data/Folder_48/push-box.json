@@ -1,0 +1,21 @@
+{
+    "AppID": 1360480,
+    "Name": "推箱子(Push Box)",
+    "Release date": "Aug 9, 2020",
+    "About the game": "This game is a classic Push Box game. Three features in the following: 1.More than 132 levels designed each with an answer and an increasing difficulty. 2.Ideas of clearing level could be saved as a binary file less than 1kb and system could read and replay it as video, So the capacity of your computer's hard disk is huge! 3.You could start game with option to choose Game Mode or Level Editor Mode(modify game levels and design new game levels). [The reason why game started without full_screen is that some anti-virus software such as 360 anti-virus software is optimizing game mode. If this happened occasionally, You just need to click stop game button and click start game button again to solve this problem temporarily. You could also shut down the game mode setting and aoto into game mode setting in the settings of 360 anti-virus software to solve this problem permanently.]",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1360480/header.jpg?t=1650623924",
+    "Price": 1.99,
+    "Developers": "Wu Zhang",
+    "Publishers": "Wu Zhang",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1360480/ss_0089dbf32f50151f55bbe5a867e13731312ba448.1920x1080.jpg?t=1650623924,https://cdn.akamai.steamstatic.com/steam/apps/1360480/ss_9aaa3ddb27b12843a17f13a33c326dbe04de70cc.1920x1080.jpg?t=1650623924,https://cdn.akamai.steamstatic.com/steam/apps/1360480/ss_910cc8e7ac16ca7d4ec848a4a8c594d70808d2c9.1920x1080.jpg?t=1650623924,https://cdn.akamai.steamstatic.com/steam/apps/1360480/ss_5f1809eadee64b05af71f3bc2162372863be19ea.1920x1080.jpg?t=1650623924,https://cdn.akamai.steamstatic.com/steam/apps/1360480/ss_5c172ca6684b7175e4663f0f749d0999b9ce568b.1920x1080.jpg?t=1650623924",
+    "Slug": "push-box",
+    "Meta Title": "推箱子(Push Box): Aug 9, 2020, Wu Zhang and Full Overview",
+    "Meta Description": "Looking for information on 推箱子(Push Box)? Check out the release date (Aug 9, 2020), developer insights from Wu Zhang, and a complete game summary.",
+    "Alt Text Image": "Official header image for 推箱子(Push Box) game - Steam 1360480",
+    "Canonical URL": "https://gusku.site/game/push-box",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"\\u63a8\\u7bb1\\u5b50(Push Box)\", \"description\": \"Looking for information on \\u63a8\\u7bb1\\u5b50(Push Box)? Check out the release date (Aug 9, 2020), developer insights from Wu Zhang, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 9, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Wu Zhang\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Wu Zhang\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1360480/header.jpg?t=1650623924\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1409570,
+    "Name": "Goblin Takes No Argument[s]",
+    "Release date": "Oct 21, 2020",
+    "About the game": "Goblin Takes No Argument[s] was a school project in pygame we made in 2019. We picked it up again in 2020, and thought it could be fun to try and get it on steam. Features of the game Place towers to destroy the goblins Upgrade towers to get even more powerful Sell towers to place even better towers Different types of goblins to make the game a little harder Controls Press 'R' on the keyboard to toggle visibillity of the towers range Right click on the mouse to sell towers at half the price Left click existing towers to upgrade - An upgrade is successful if the range indicator turns orange it cost twice as much as the base price of the towers",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1409570/header.jpg?t=1617959186",
+    "Price": 0.99,
+    "Developers": "Zeroject,VinciDa,MBQJ",
+    "Publishers": "Zeroject",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1409570/ss_bdd99c035d92081b760faa471c437fb0b9ce25e4.1920x1080.jpg?t=1617959186,https://cdn.akamai.steamstatic.com/steam/apps/1409570/ss_f5ac22baa7647deaafa16f46b5653cd98bb6aabe.1920x1080.jpg?t=1617959186,https://cdn.akamai.steamstatic.com/steam/apps/1409570/ss_ec6d1a3c932a6fec45290bcaaefc361915cac95d.1920x1080.jpg?t=1617959186,https://cdn.akamai.steamstatic.com/steam/apps/1409570/ss_c4284c4b70e94952329162ab9f080622b5375579.1920x1080.jpg?t=1617959186,https://cdn.akamai.steamstatic.com/steam/apps/1409570/ss_b6fba7d1cf404e802b18f699107fe7fe3e335b8a.1920x1080.jpg?t=1617959186",
+    "Slug": "goblin-takes-no-argument-s",
+    "Meta Title": "Goblin Takes No Argument[s]: Oct 21, 2020, Zeroject,Vinci...",
+    "Meta Description": "Looking for information on Goblin Takes No Argument[s]? Check out the release date (Oct 21, 2020), developer insights from Zeroject,VinciDa,MBQJ, and a ...",
+    "Alt Text Image": "Official header image for Goblin Takes No Argument[s] game - Steam 1409570",
+    "Canonical URL": "https://gusku.site/game/goblin-takes-no-argument-s",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Goblin Takes No Argument[s]\", \"description\": \"Looking for information on Goblin Takes No Argument[s]? Check out the release date (Oct 21, 2020), developer insights from Zeroject,VinciDa,MBQJ, and a ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 21, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Zeroject,VinciDa,MBQJ\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Zeroject\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1409570/header.jpg?t=1617959186\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

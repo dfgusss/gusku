@@ -1,0 +1,21 @@
+{
+    "AppID": 1873830,
+    "Name": "Bouldeurdache",
+    "Release date": "Feb 5, 2022",
+    "About the game": "Bouldeurdache is a remake as a tribute to the old Commodore 64 classic game released in 1984. 100 caves on 5 levels available and 2 turbo modes! Gamepad and keyboard supported. Highlighted during the January 2021 Unity showcase on Twitch. Controls on title screen: : select cave (A / E / I / M) : select level (1-5) : play / : switch between Turbo modes (normal, Turbo, OMG) / : mute music / : exit Controls in game : : move character on left/right/up/down + / + : dig, push boulder or grab diamond in the arrow direction (without moving) / : reset level (cost 1 life) / : pause / : mute music / : back to title screen Original game was made by Peter Liepa and Chris Gray and published by First Star Software. Additional music by Bit by Bit Bert.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1873830/header.jpg?t=1644054921",
+    "Price": 0.0,
+    "Developers": "Blackbird Studios",
+    "Publishers": "Blackbird Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1873830/ss_99f9b201a09d85bc7591f4f439049341509bff47.1920x1080.jpg?t=1644054921,https://cdn.akamai.steamstatic.com/steam/apps/1873830/ss_a23de448e375a72a726a7501cc0e6143c3478038.1920x1080.jpg?t=1644054921,https://cdn.akamai.steamstatic.com/steam/apps/1873830/ss_7a1dadbf4c39ede3f194919c011d89513c1eacaa.1920x1080.jpg?t=1644054921,https://cdn.akamai.steamstatic.com/steam/apps/1873830/ss_ba4bba492b104e2ebf209ae09bb52ad70e9a6979.1920x1080.jpg?t=1644054921,https://cdn.akamai.steamstatic.com/steam/apps/1873830/ss_59339a20cbc0b7f6b4ecbd42530cb0ed8da7d0c2.1920x1080.jpg?t=1644054921",
+    "Slug": "bouldeurdache",
+    "Meta Title": "Bouldeurdache: Feb 5, 2022, Blackbird Studios and Full Ov...",
+    "Meta Description": "Looking for information on Bouldeurdache? Check out the release date (Feb 5, 2022), developer insights from Blackbird Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bouldeurdache game - Steam 1873830",
+    "Canonical URL": "https://gusku.site/game/bouldeurdache",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bouldeurdache\", \"description\": \"Looking for information on Bouldeurdache? Check out the release date (Feb 5, 2022), developer insights from Blackbird Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 5, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Blackbird Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Blackbird Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1873830/header.jpg?t=1644054921\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

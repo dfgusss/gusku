@@ -1,0 +1,21 @@
+{
+    "AppID": 1397530,
+    "Name": "Monochro",
+    "Release date": "Sep 15, 2020",
+    "About the game": "Monochro is an action-platformer game about a person who explores the colorful world. Use the unique weapons carried by balloons and the air-dash to reach the end of the world. Key Features: Unique Weapons Annihilate all enemies with weapons, sword, shotgun, missile and so on. Rank Up Players will obtain EXP in battle and gain player rank. When the player rank up, they get an upgrade or a heart. Randomly Generated World Each level is procedurally generated each time. Update log v1.1.1 Changed some effects Adjusted wall kick (Japanese text only) Changed the text of thunderbolt v1.1.0 Added easy mode v1.0.2 Added thunderbolt effect Fixed bug of XInput controller v1.0.1 Improved some weapons Changed weapon icon graphics Adjusted balloons Adjusted player attack movement",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1397530/header.jpg?t=1602427442",
+    "Price": 4.99,
+    "Developers": "necotama",
+    "Publishers": "necotama",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1397530/ss_6f6e6ef3b62d932f9195dca6ac8a6e59c34ab1a7.1920x1080.jpg?t=1602427442,https://cdn.akamai.steamstatic.com/steam/apps/1397530/ss_5fc9e373570f3b33e8f02332a15a3d106fbb438f.1920x1080.jpg?t=1602427442,https://cdn.akamai.steamstatic.com/steam/apps/1397530/ss_d09d0911138e8f4595dd2eb66b8c8552a32b86ba.1920x1080.jpg?t=1602427442,https://cdn.akamai.steamstatic.com/steam/apps/1397530/ss_ed6018ef96a626e6638682788e1b0a02e29dd600.1920x1080.jpg?t=1602427442,https://cdn.akamai.steamstatic.com/steam/apps/1397530/ss_54f4c3da6005f4ed7752789daf9363b1be7c190a.1920x1080.jpg?t=1602427442,https://cdn.akamai.steamstatic.com/steam/apps/1397530/ss_441ce3ea653235acff196272ed2a10e0ffc33921.1920x1080.jpg?t=1602427442",
+    "Slug": "monochro",
+    "Meta Title": "Monochro: Sep 15, 2020, necotama and Full Overview",
+    "Meta Description": "Looking for information on Monochro? Check out the release date (Sep 15, 2020), developer insights from necotama, and a complete game summary.",
+    "Alt Text Image": "Official header image for Monochro game - Steam 1397530",
+    "Canonical URL": "https://gusku.site/game/monochro",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Monochro\", \"description\": \"Looking for information on Monochro? Check out the release date (Sep 15, 2020), developer insights from necotama, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 15, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"necotama\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"necotama\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1397530/header.jpg?t=1602427442\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

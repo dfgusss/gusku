@@ -1,0 +1,21 @@
+{
+    "AppID": 801400,
+    "Name": "Hoser Hockey",
+    "Release date": "Nov 30, 2020",
+    "About the game": "Hoser Hockey is a retro arcade hockey game set on the frozen lakes of Canada. Create your own teams and challenge your friends or the AI in fast paced shinny action. Designed around multiplayer, Hoser Hockey features up to eight player games both locally and online. Features: Simple, skill based gameplay: Aim your shots, hit your opponents, and manage your stamina. Team Customization: Name your teams and choose their colors! Bring them online to show them off. Hoser Hockey League: Choose your team and compete to be the champion! Multiplayer: Play with your friends, the AI, or both. Up to eight players locally or online. Host your own games or play on dedicated servers.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/801400/header.jpg?t=1624994880",
+    "Price": 7.99,
+    "Developers": "Sam",
+    "Publishers": "Sam",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/801400/ss_c7e8cf8ab49daf3582499d71069da3e6c8763009.1920x1080.jpg?t=1624994880,https://cdn.akamai.steamstatic.com/steam/apps/801400/ss_33474a3092a99d46d5ff1850b047e5769d76134d.1920x1080.jpg?t=1624994880,https://cdn.akamai.steamstatic.com/steam/apps/801400/ss_58cd4c3b759d841de72ecb2a75ab0e8699752ee2.1920x1080.jpg?t=1624994880,https://cdn.akamai.steamstatic.com/steam/apps/801400/ss_6336f7af6642ae6ee6edcf82f7eabf449b76e4da.1920x1080.jpg?t=1624994880,https://cdn.akamai.steamstatic.com/steam/apps/801400/ss_0467fcbcfd7dfc02beefa6f9abf68cb6d5c5678d.1920x1080.jpg?t=1624994880",
+    "Slug": "hoser-hockey",
+    "Meta Title": "Hoser Hockey: Nov 30, 2020, Sam and Full Overview",
+    "Meta Description": "Looking for information on Hoser Hockey? Check out the release date (Nov 30, 2020), developer insights from Sam, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hoser Hockey game - Steam 801400",
+    "Canonical URL": "https://gusku.site/game/hoser-hockey",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hoser Hockey\", \"description\": \"Looking for information on Hoser Hockey? Check out the release date (Nov 30, 2020), developer insights from Sam, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 30, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sam\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sam\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/801400/header.jpg?t=1624994880\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

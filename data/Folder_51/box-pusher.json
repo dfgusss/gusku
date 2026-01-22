@@ -1,0 +1,21 @@
+{
+    "AppID": 1653660,
+    "Name": "Box Pusher",
+    "Release date": "Jul 14, 2021",
+    "About the game": "This simple sokoban style game player need push different color boxes to destined locations. Every color goes to same colored goals. So red box to red goal box. Match the box colors to goal colors complete the level. Try to move as little as possible, as fast as possible and collect as many coins as you can There is save system which save and register player fastest time, steps taken and collected coins. Also when finished level next level will be unlocked. 16 different levels Features: - 5 different colors boxes - 16 levels with unlocked level system - Steam achievements - Collect coins - score and time system",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1653660/header.jpg?t=1626246051",
+    "Price": 0.49,
+    "Developers": "Ruskija Game Experience",
+    "Publishers": "Tero Lunkka",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1653660/ss_405e517423688c1c0e3bbb3b1a4491d507184fda.1920x1080.jpg?t=1626246051,https://cdn.akamai.steamstatic.com/steam/apps/1653660/ss_3032cc321b7354b329ded9c028db2547badfa2f3.1920x1080.jpg?t=1626246051,https://cdn.akamai.steamstatic.com/steam/apps/1653660/ss_87f7e3672101a0a36e4f2f758bb19a9fb0cff710.1920x1080.jpg?t=1626246051,https://cdn.akamai.steamstatic.com/steam/apps/1653660/ss_07da7703f8dd1c7eb34befeb34990e2107add00a.1920x1080.jpg?t=1626246051,https://cdn.akamai.steamstatic.com/steam/apps/1653660/ss_3d3baac92505722f658053114bbf468b62cd0b50.1920x1080.jpg?t=1626246051,https://cdn.akamai.steamstatic.com/steam/apps/1653660/ss_42171b741c5818b1e8182f10b1e12a2ec0eba901.1920x1080.jpg?t=1626246051",
+    "Slug": "box-pusher",
+    "Meta Title": "Box Pusher: Jul 14, 2021, Ruskija Game Experience and Ful...",
+    "Meta Description": "Looking for information on Box Pusher? Check out the release date (Jul 14, 2021), developer insights from Ruskija Game Experience, and a complete game s...",
+    "Alt Text Image": "Official header image for Box Pusher game - Steam 1653660",
+    "Canonical URL": "https://gusku.site/game/box-pusher",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Box Pusher\", \"description\": \"Looking for information on Box Pusher? Check out the release date (Jul 14, 2021), developer insights from Ruskija Game Experience, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 14, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ruskija Game Experience\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tero Lunkka\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1653660/header.jpg?t=1626246051\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

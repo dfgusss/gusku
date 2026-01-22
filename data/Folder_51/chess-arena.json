@@ -1,0 +1,21 @@
+{
+    "AppID": 712880,
+    "Name": "Chess Arena-象棋竞技场",
+    "Release date": "May 9, 2019",
+    "About the game": "《象棋竞技场》是一款个人制作的创意作品，在下棋时经常输给表弟，我决定让这些棋子动起来，以我格斗高玩水平来战胜表弟，就制作了它。 首先他是一款传统的中国象棋，当你的棋子吃对方棋子时，会进入一个竞技场，吃子方获得生命Buff，然后展开一场动作游戏的对决，死亡的单位才真正在棋盘上消失。 不同棋子化身成拥有不同特异技能的战士。 50个残局战役，你可以用棋艺破解，也可以用操作碾压。 允许联机对战，但需要一方是暴露IP的主机。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/712880/header.jpg?t=1557468393",
+    "Price": 2.99,
+    "Developers": "HideChara",
+    "Publishers": "HideChara",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/712880/ss_6fe9533e71dd2a37dc85917fd162bc14ecb05cca.1920x1080.jpg?t=1557468393,https://cdn.akamai.steamstatic.com/steam/apps/712880/ss_1224cdf7accd8629565b1a488752acdc116d3dce.1920x1080.jpg?t=1557468393,https://cdn.akamai.steamstatic.com/steam/apps/712880/ss_ebc8931efa8e88c7e488275646b0bacd2ef661e3.1920x1080.jpg?t=1557468393,https://cdn.akamai.steamstatic.com/steam/apps/712880/ss_44b91e5823053d62c9e5dd8af026402d3cc32218.1920x1080.jpg?t=1557468393,https://cdn.akamai.steamstatic.com/steam/apps/712880/ss_c4c09938a3a264bebe07b79b5a43adfbbc204702.1920x1080.jpg?t=1557468393",
+    "Slug": "chess-arena",
+    "Meta Title": "Chess Arena-象棋竞技场: May 9, 2019, HideChara and Full Overview",
+    "Meta Description": "Looking for information on Chess Arena-象棋竞技场? Check out the release date (May 9, 2019), developer insights from HideChara, and a complete game summary.",
+    "Alt Text Image": "Official header image for Chess Arena-象棋竞技场 game - Steam 712880",
+    "Canonical URL": "https://gusku.site/game/chess-arena",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Chess Arena-\\u8c61\\u68cb\\u7ade\\u6280\\u573a\", \"description\": \"Looking for information on Chess Arena-\\u8c61\\u68cb\\u7ade\\u6280\\u573a? Check out the release date (May 9, 2019), developer insights from HideChara, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 9, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"HideChara\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"HideChara\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/712880/header.jpg?t=1557468393\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1889000,
+    "Name": "To Make a Game",
+    "Release date": "Feb 12, 2022",
+    "About the game": "Inspired by Nikita Kryukov's 'Milk inside a bag of milk inside a bag of milk' To Make a Game is a meta visual novel retelling my experience as a developer making this very game. While this game can be a form of entertainment it is also a deeply personal experience I had. (Although dramatized and peppered with some alternative endings). I wish it to be experienced as a form of art before a game. Features Short gameplay (13-24 minutes) Atmospheric audio Pixelated graphics",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1889000/header.jpg?t=1649080789",
+    "Price": 0.99,
+    "Developers": "TheBluePenguin",
+    "Publishers": "TheBluePenguin",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1889000/ss_a43a61982fa80f17d5fc7a77f5f0d7937468d33c.1920x1080.jpg?t=1649080789,https://cdn.akamai.steamstatic.com/steam/apps/1889000/ss_cf0c2a14eb74926bccae5e92ca82b276b40dc7b4.1920x1080.jpg?t=1649080789,https://cdn.akamai.steamstatic.com/steam/apps/1889000/ss_7d407c78871ab7511ab80ea901667110904ff104.1920x1080.jpg?t=1649080789,https://cdn.akamai.steamstatic.com/steam/apps/1889000/ss_fb7c5c2f1fc9a95c9e02407dca79aa9d47668f69.1920x1080.jpg?t=1649080789,https://cdn.akamai.steamstatic.com/steam/apps/1889000/ss_069a12b7019636fc4f34700abcb5410ff2109bb6.1920x1080.jpg?t=1649080789",
+    "Slug": "to-make-a-game",
+    "Meta Title": "To Make a Game: Feb 12, 2022, TheBluePenguin and Full Ove...",
+    "Meta Description": "Looking for information on To Make a Game? Check out the release date (Feb 12, 2022), developer insights from TheBluePenguin, and a complete game summary.",
+    "Alt Text Image": "Official header image for To Make a Game game - Steam 1889000",
+    "Canonical URL": "https://gusku.site/game/to-make-a-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"To Make a Game\", \"description\": \"Looking for information on To Make a Game? Check out the release date (Feb 12, 2022), developer insights from TheBluePenguin, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 12, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"TheBluePenguin\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"TheBluePenguin\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1889000/header.jpg?t=1649080789\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

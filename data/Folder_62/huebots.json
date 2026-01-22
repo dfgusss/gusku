@@ -1,0 +1,21 @@
+{
+    "AppID": 397400,
+    "Name": "HueBots",
+    "Release date": "Aug 26, 2015",
+    "About the game": "HueBots is a deceptively challenging top-down puzzle game. In the game, you control a team of colorful robots that will only interact with objects that match their color. You must use this special property to solve a wide variety of puzzles! The game includes: 70 brain-busting puzzles to progress through 30 bonus levels, unlocked by solving the main levels in out-of-the-box ways A level editor so you can craft your own genius creations A custom level sharing system for sharing your creations with other HueBots players In HueBots, you have a colorful inventory of robots and blocks you can build. You can spawn robots and move them around; however, they will keep moving in one direction until they collide with something that matches their color. Use your block inventory to create stopping points for your bots. Use your robots to unlock doors, push away blocks, shift colors, and work as a team to help aid your special black and white robot to the finish! HueBots includes 70 main levels in the game, plus 30 bonus levels that can be unlocked by completing various achievements (e.g. beating certain levels with leftover blocks in your inventory). HueBots includes an easy-to-use level editor so you can create your own puzzles, too. Building a level is as simple as using a paint program - pick a color and an object, and use the mouse to place down objects.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/397400/header.jpg?t=1583944136",
+    "Price": 0.0,
+    "Developers": "Huebotics",
+    "Publishers": "Huebotics",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/397400/ss_eccd7f27d427185330d0bcb2c1cbf5833c88735c.1920x1080.jpg?t=1583944136,https://cdn.akamai.steamstatic.com/steam/apps/397400/ss_fc2567cc0649b307a151bd047eb40a00415f9b81.1920x1080.jpg?t=1583944136,https://cdn.akamai.steamstatic.com/steam/apps/397400/ss_bb8e1de243017be99365ec3870bc0aa15b836ebe.1920x1080.jpg?t=1583944136,https://cdn.akamai.steamstatic.com/steam/apps/397400/ss_296c6cd655f5c419e66117d00f62fde41a25db3a.1920x1080.jpg?t=1583944136,https://cdn.akamai.steamstatic.com/steam/apps/397400/ss_19117ba8cb9f2170bcee74ddd124e441208742c4.1920x1080.jpg?t=1583944136",
+    "Slug": "huebots",
+    "Meta Title": "HueBots: Aug 26, 2015, Huebotics and Full Overview",
+    "Meta Description": "Looking for information on HueBots? Check out the release date (Aug 26, 2015), developer insights from Huebotics, and a complete game summary.",
+    "Alt Text Image": "Official header image for HueBots game - Steam 397400",
+    "Canonical URL": "https://gusku.site/game/huebots",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HueBots\", \"description\": \"Looking for information on HueBots? Check out the release date (Aug 26, 2015), developer insights from Huebotics, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 26, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Huebotics\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Huebotics\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/397400/header.jpg?t=1583944136\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

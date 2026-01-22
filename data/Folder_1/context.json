@@ -1,0 +1,21 @@
+{
+    "AppID": 1167650,
+    "Name": "Context",
+    "Release date": "Oct 24, 2019",
+    "About the game": "Context is a simple clicker style game in which the player explores a randomly generated map. The map is randomly generated for each game session. Complete tasks and defeat enemies by clicking to earn xp (experience points) and level up.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1167650/header.jpg?t=1575583564",
+    "Price": 0.99,
+    "Developers": "SunshineOvercast",
+    "Publishers": "SunshineOvercast",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1167650/ss_ac67250015ed44314f21f7720c31d6d138227964.1920x1080.jpg?t=1575583564,https://cdn.akamai.steamstatic.com/steam/apps/1167650/ss_c7e9b50d8bf57cfdd38bf6ed4f340e6c63463fb3.1920x1080.jpg?t=1575583564,https://cdn.akamai.steamstatic.com/steam/apps/1167650/ss_776cdb61bb7975c03c46171dc015ff68dc838623.1920x1080.jpg?t=1575583564,https://cdn.akamai.steamstatic.com/steam/apps/1167650/ss_45aaa8db512ce711109b6899d7c49051783e4b07.1920x1080.jpg?t=1575583564,https://cdn.akamai.steamstatic.com/steam/apps/1167650/ss_d9097910a339bb9a63ae6d76b93b737c64bf0d2e.1920x1080.jpg?t=1575583564,https://cdn.akamai.steamstatic.com/steam/apps/1167650/ss_71369e3183beb8458620abb7f56683891a30ca9c.1920x1080.jpg?t=1575583564,https://cdn.akamai.steamstatic.com/steam/apps/1167650/ss_89eb3429313642da3a370cb149f9f2a3b1c8c60d.1920x1080.jpg?t=1575583564,https://cdn.akamai.steamstatic.com/steam/apps/1167650/ss_91ae3f5e543aae6032ecc0a1b0fc13c02c6526ac.1920x1080.jpg?t=1575583564,https://cdn.akamai.steamstatic.com/steam/apps/1167650/ss_12fa3b537c04e53ef3f88a8945feebd0a740d81d.1920x1080.jpg?t=1575583564",
+    "Slug": "context",
+    "Meta Title": "Context: Oct 24, 2019, SunshineOvercast and Full Overview",
+    "Meta Description": "Looking for information on Context? Check out the release date (Oct 24, 2019), developer insights from SunshineOvercast, and a complete game summary.",
+    "Alt Text Image": "Official header image for Context game - Steam 1167650",
+    "Canonical URL": "https://gusku.site/game/context",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Context\", \"description\": \"Looking for information on Context? Check out the release date (Oct 24, 2019), developer insights from SunshineOvercast, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 24, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"SunshineOvercast\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SunshineOvercast\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1167650/header.jpg?t=1575583564\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1446200,
+    "Name": "CYBLOC",
+    "Release date": "Nov 9, 2020",
+    "About the game": "You find yourself having remote control of the highly charged Cybloc in a strange electrical realm. Your control is limited to vertical inputs while the Cybloc is in a constant state of horizontal motion. Cybloc will experience an electrical surge when colliding with area walls, causing Cybloc to instantly rebound. Collecting and using the reverse thrust chargers allows you to change horizontal direction on demand. To escape an area within the allotted time, you need to collect all the reverse thrust chargers avoiding all other obstacles that you encounter. Colliding with any other object will cause Cybloc to be atomised and then instantly reconstructed at the area start position. 9 Area's To Master There are 9 area's to master with increasing difficulty. Your skill of control and timing in each area is awarded with bonus points for time remaining, unused reverse thrusts and an extra bonus for escaping an area without being atomised. Leader-boards Each area has its own global Leader-Board where the top 10 players for each area are displayed. The overall best player is displayed front and centre in the game intro hall of fame. Are you skilled enough to claim that top spot ?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1446200/header.jpg?t=1604917731",
+    "Price": 3.99,
+    "Developers": "Phil Bell",
+    "Publishers": "Phil Bell",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1446200/ss_b6ba90d21c9188576ef32df622212d0ff89c0614.1920x1080.jpg?t=1604917731,https://cdn.akamai.steamstatic.com/steam/apps/1446200/ss_be7f1cbd40d9c352c4f23f28595e03559e2c1e6b.1920x1080.jpg?t=1604917731,https://cdn.akamai.steamstatic.com/steam/apps/1446200/ss_cdd3a19ed204c72366e7d98817dc071293ee2a52.1920x1080.jpg?t=1604917731,https://cdn.akamai.steamstatic.com/steam/apps/1446200/ss_34b12105bc5ad5da0e6e235efa4662c0784f3316.1920x1080.jpg?t=1604917731,https://cdn.akamai.steamstatic.com/steam/apps/1446200/ss_09c6b21bcc96401468b23fe81c751a9243c71231.1920x1080.jpg?t=1604917731",
+    "Slug": "cybloc",
+    "Meta Title": "CYBLOC: Nov 9, 2020, Phil Bell and Full Overview",
+    "Meta Description": "Looking for information on CYBLOC? Check out the release date (Nov 9, 2020), developer insights from Phil Bell, and a complete game summary.",
+    "Alt Text Image": "Official header image for CYBLOC game - Steam 1446200",
+    "Canonical URL": "https://gusku.site/game/cybloc",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CYBLOC\", \"description\": \"Looking for information on CYBLOC? Check out the release date (Nov 9, 2020), developer insights from Phil Bell, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 9, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Phil Bell\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Phil Bell\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1446200/header.jpg?t=1604917731\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

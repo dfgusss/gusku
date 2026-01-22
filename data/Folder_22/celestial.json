@@ -1,0 +1,21 @@
+{
+    "AppID": 1128330,
+    "Name": "Celestial",
+    "Release date": "Sep 17, 2019",
+    "About the game": "Celestial is a 2D indie platformer game where the player collects items scattered in each of the level against time. Players can also speedrun through the levels as well and see how fast they can finish the levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1128330/header.jpg?t=1568761254",
+    "Price": 1.99,
+    "Developers": "Conor Davis",
+    "Publishers": "Conor Davis",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1128330/ss_928f568bf30e7381a077372cfda41d3c6ce87843.1920x1080.jpg?t=1568761254,https://cdn.akamai.steamstatic.com/steam/apps/1128330/ss_aa2b610a42371fbc8f5a17bb7a5922dac0e2115e.1920x1080.jpg?t=1568761254,https://cdn.akamai.steamstatic.com/steam/apps/1128330/ss_02f0f0ac5c8e032cc02a4e0338ca68930fef85eb.1920x1080.jpg?t=1568761254,https://cdn.akamai.steamstatic.com/steam/apps/1128330/ss_d13de9bac4c09a67e0e8c2e56f4726d2f5c16a6b.1920x1080.jpg?t=1568761254,https://cdn.akamai.steamstatic.com/steam/apps/1128330/ss_e942d19eeb8ff12bf84d7ef11c9186ca8c46edf5.1920x1080.jpg?t=1568761254,https://cdn.akamai.steamstatic.com/steam/apps/1128330/ss_50be695a1a33a112ea723ed5dcc78665727a7f81.1920x1080.jpg?t=1568761254",
+    "Slug": "celestial",
+    "Meta Title": "Celestial: Sep 17, 2019, Conor Davis and Full Overview",
+    "Meta Description": "Looking for information on Celestial? Check out the release date (Sep 17, 2019), developer insights from Conor Davis, and a complete game summary.",
+    "Alt Text Image": "Official header image for Celestial game - Steam 1128330",
+    "Canonical URL": "https://gusku.site/game/celestial",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Celestial\", \"description\": \"Looking for information on Celestial? Check out the release date (Sep 17, 2019), developer insights from Conor Davis, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 17, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Conor Davis\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Conor Davis\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1128330/header.jpg?t=1568761254\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

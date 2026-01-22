@@ -1,0 +1,21 @@
+{
+    "AppID": 1441830,
+    "Name": "The Wizard Game",
+    "Release date": "Nov 27, 2020",
+    "About the game": "A first person arcade style game with low poly art. You play as a wizard with a selection of six different abilities, and try to get a high score against growing waves of monsters. ABILITIES: As a wizard you have access to six different magical abilities that you can swap between every round. Fire: A powerful attack to damage all enemies within a radius. Time: An ability that lets you stop time for a few seconds, allowing you to escape enemies and plan your next move. Speed: Gain a massive amount of speed for a brief period of time to escape enemy attacks. Dash: Perform a short dash in any direction and damage any enemies you hit. Rapid Fire: Be able to fire your energy balls at a much faster rate. Illusion: Create a ghost of your character that enemies will try to chase after instead of you. MONSTERS: To get a high score you must fight against several enemies. Zombie: A basic enemy that will try to run up and attack you. Skeleton: A more advanced enemy that will run up to you very fast, attack you, then run away. Zombie King: A hooded figure that summons zombies and teleports around to stop you from attacking it. Giant Spider: A massive spider that can run up and deal a lot of damage very quickly, however does get stunned when delt damage. Stone Golumn: A huge monster made up from floating rocks that can jump into the air and land on top of you, dealing massive damage. MODS: The game also has a extremely mod friendly game engine, allowing you to change any game files, and create custom maps, model packs, enemies, gamemodes, etc. All of the scripting is done in lua, and there is plenty of code to look at and modify. To find the moddb page, click this link: -wizard-game",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1441830/header.jpg?t=1606464020",
+    "Price": 4.99,
+    "Developers": "Rorybabory",
+    "Publishers": NaN,
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1441830/ss_e249f96eb6622c4f49e71f4dcee05ad2baf829d0.1920x1080.jpg?t=1606464020,https://cdn.akamai.steamstatic.com/steam/apps/1441830/ss_034687183f7cdf428864ebfc657ee3b62772df6f.1920x1080.jpg?t=1606464020,https://cdn.akamai.steamstatic.com/steam/apps/1441830/ss_92dcbbcc8efc2e028de20584697b1c84cf289ca3.1920x1080.jpg?t=1606464020,https://cdn.akamai.steamstatic.com/steam/apps/1441830/ss_b7f33521fc464feb638de3defc6b5073d3a0dab4.1920x1080.jpg?t=1606464020,https://cdn.akamai.steamstatic.com/steam/apps/1441830/ss_abedea5bb36b95e5d1c2965b9733416243567c3f.1920x1080.jpg?t=1606464020",
+    "Slug": "the-wizard-game",
+    "Meta Title": "The Wizard Game: Nov 27, 2020, Rorybabory and Full Overview",
+    "Meta Description": "Looking for information on The Wizard Game? Check out the release date (Nov 27, 2020), developer insights from Rorybabory, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Wizard Game game - Steam 1441830",
+    "Canonical URL": "https://gusku.site/game/the-wizard-game",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Wizard Game\", \"description\": \"Looking for information on The Wizard Game? Check out the release date (Nov 27, 2020), developer insights from Rorybabory, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 27, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rorybabory\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": NaN}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1441830/header.jpg?t=1606464020\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

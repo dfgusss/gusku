@@ -1,0 +1,21 @@
+{
+    "AppID": 950780,
+    "Name": "PRATAGON",
+    "Release date": "Oct 19, 2018",
+    "About the game": "MOBA shooter. Five heroes, two lines with creeps and towers, one forest with neutral monsters. Target: destroy enemy base. FEATURES Headshots. Homing bullets. Shoot down enemy bullets. Teleporters for greater gameplay dynamics. Neutral monsters with advanced intelligence. Rune of random ability. Flight. LEVELING Stats: health, damage, attack speed, health regeneration and energy consumption. Modifiers of attack: restoration of health from the damage, critical damage, splash damage, micro stunning. ULTIMATE ABILITIES Stun Shot: damage, stun ( one enemy ). Stun Bomb: damage, stun ( all enemies in area ). More enemies - greater damage. Laser Shot: damage ( all enemies in the line of fire ). Vacuum Bomb: damage, stun ( all enemies in area ). Greater collision speed - greater damage and stun time. Teleport Shot: damage, slow ( all enemies in area ). Greater height of the fall - greater damage. RUNES Runes fall out from a neutral monsters: random skill, double damage, increased attack speed, health regeneration, gold.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/950780/header.jpg?t=1543595427",
+    "Price": 4.99,
+    "Developers": "Domoskanov Evgeny",
+    "Publishers": "Gurova IAna",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/950780/ss_76bd37d2c3ca25fab1377fef5b934f966e1af143.1920x1080.jpg?t=1543595427,https://cdn.akamai.steamstatic.com/steam/apps/950780/ss_90bdeaeede54bf1ee054c52ecb86aaf97ff8917b.1920x1080.jpg?t=1543595427,https://cdn.akamai.steamstatic.com/steam/apps/950780/ss_1f209a4c8d36135adf5731bad579efeeaf1fc309.1920x1080.jpg?t=1543595427,https://cdn.akamai.steamstatic.com/steam/apps/950780/ss_308a0dbacc19af9cf3aa9859a167ba68473a53c2.1920x1080.jpg?t=1543595427,https://cdn.akamai.steamstatic.com/steam/apps/950780/ss_9fe4fa5d386dfce9161f968bc38f7738fb57d76b.1920x1080.jpg?t=1543595427,https://cdn.akamai.steamstatic.com/steam/apps/950780/ss_aa809fd0d4c5490154e6807b4ed64b7d5e8b251c.1920x1080.jpg?t=1543595427,https://cdn.akamai.steamstatic.com/steam/apps/950780/ss_9efebf0ba593f9144994af0009ef66feb7fb5fc3.1920x1080.jpg?t=1543595427,https://cdn.akamai.steamstatic.com/steam/apps/950780/ss_bc6c4ff53e3d77af7984b74e3610471e06693447.1920x1080.jpg?t=1543595427",
+    "Slug": "pratagon",
+    "Meta Title": "PRATAGON: Oct 19, 2018, Domoskanov Evgeny and Full Overview",
+    "Meta Description": "Looking for information on PRATAGON? Check out the release date (Oct 19, 2018), developer insights from Domoskanov Evgeny, and a complete game summary.",
+    "Alt Text Image": "Official header image for PRATAGON game - Steam 950780",
+    "Canonical URL": "https://gusku.site/game/pratagon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PRATAGON\", \"description\": \"Looking for information on PRATAGON? Check out the release date (Oct 19, 2018), developer insights from Domoskanov Evgeny, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 19, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Domoskanov Evgeny\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gurova IAna\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/950780/header.jpg?t=1543595427\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

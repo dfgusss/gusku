@@ -1,0 +1,21 @@
+{
+    "AppID": 1302310,
+    "Name": "Pursuit of the Bookkeeper",
+    "Release date": "Oct 12, 2020",
+    "About the game": "Roguelike game with an unique spell casting system. To cast spells player has to block his line of sight with his spellbook, but the enemies won't wait politely for you to do it, so you need to treat each fight as a test of your tactical skills, especially later in game when you face bosses and groups of different enemies. Randomly generated dungeons - each time you decide to go into the deeps, a different computer-generated map awaits you. Every level has a staircase leading deeper. The further you go, the more enemies there are to challenge you. Gather money to trade with the Merchant - he sells spellbooks and keys, which allow you to start from a corresponding type of dungeon. Merchant can be met randomly throughout your adventures. Fight powerful bosses - each for a given dungeon type, they spawn randomly below the first level of the dungeon. If you reach level 20 you'll meet The Bookkeeper. Dungeons are dangerous! Beware of traps and don't forget to find some food to survive in the depths. Good luck young wizard. Make haste, the Bookkeeper must be stopped!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1302310/header.jpg?t=1602520741",
+    "Price": 4.99,
+    "Developers": "Jan Pielesiak",
+    "Publishers": "Jan Pielesiak",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1302310/ss_cca0e56b3e87829b8b0021038225dce73f25f791.1920x1080.jpg?t=1602520741,https://cdn.akamai.steamstatic.com/steam/apps/1302310/ss_3602e4512aef5c5e207d0e343e952bcd4d01432d.1920x1080.jpg?t=1602520741,https://cdn.akamai.steamstatic.com/steam/apps/1302310/ss_e23d9a296f36cfc5ddba71ddd7da7d6202a3bc0d.1920x1080.jpg?t=1602520741,https://cdn.akamai.steamstatic.com/steam/apps/1302310/ss_21424b9da53198c2917f3030a5e1baeece0e42cf.1920x1080.jpg?t=1602520741,https://cdn.akamai.steamstatic.com/steam/apps/1302310/ss_edb6923654fcefec9097502064a7dff9234600d1.1920x1080.jpg?t=1602520741",
+    "Slug": "pursuit-of-the-bookkeeper",
+    "Meta Title": "Pursuit of the Bookkeeper: Oct 12, 2020, Jan Pielesiak an...",
+    "Meta Description": "Looking for information on Pursuit of the Bookkeeper? Check out the release date (Oct 12, 2020), developer insights from Jan Pielesiak, and a complete g...",
+    "Alt Text Image": "Official header image for Pursuit of the Bookkeeper game - Steam 1302310",
+    "Canonical URL": "https://gusku.site/game/pursuit-of-the-bookkeeper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pursuit of the Bookkeeper\", \"description\": \"Looking for information on Pursuit of the Bookkeeper? Check out the release date (Oct 12, 2020), developer insights from Jan Pielesiak, and a complete g...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 12, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jan Pielesiak\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jan Pielesiak\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1302310/header.jpg?t=1602520741\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

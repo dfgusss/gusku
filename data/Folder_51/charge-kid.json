@@ -1,0 +1,21 @@
+{
+    "AppID": 1334300,
+    "Name": "Charge Kid",
+    "Release date": "Jun 29, 2020",
+    "About the game": "Charge Kid is a game where each jump is a puzzle. You can compare it to Portal, where you have to find clever uses of the mechanics and physics to 'solve' each location by reaching the desired location. You have limited resources to make each jump, comparable to Celeste. But instead of focusing on precision-platforming, the game focuses on the puzzle aspect. Unlike Celeste, the hard part is figuring out how to use your resources to make each jump instead of the execution. But don't get fooled; the execution is also hard, which means finding each solution is even harder! Features: Tight controls and fluid movement. Challenging gameplay. Puzzles with multiple solutions. Cute and minimalistic pixel art. Slick sound effects and music. Charge Kid is open source (and free!) You can see the source code by clicking at the website link at the right of the page. It was made with the Godot Engine, and you will need to download it in order to access the code or to make a playable build, in case you want to play it before paying anything. While the game is free, you can still buy it here to show us your appreciation ;)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1334300/header.jpg?t=1624745112",
+    "Price": 1.99,
+    "Developers": "Ayrton, Rafael and Vicente",
+    "Publishers": "Ayrton, Rafael and Vicente",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1334300/ss_0b36addb67120c1397f754207f106450d1df8560.1920x1080.jpg?t=1624745112,https://cdn.akamai.steamstatic.com/steam/apps/1334300/ss_ac6ffff79f45e0279e3be5e75e3f5263963280a7.1920x1080.jpg?t=1624745112,https://cdn.akamai.steamstatic.com/steam/apps/1334300/ss_e2da919babc75634825b41d5c0fd8920bcfd8e6c.1920x1080.jpg?t=1624745112,https://cdn.akamai.steamstatic.com/steam/apps/1334300/ss_79c38ccd21d3786185514af2c7d61373498958f3.1920x1080.jpg?t=1624745112,https://cdn.akamai.steamstatic.com/steam/apps/1334300/ss_7c9209ae3d29969d05215fc818643dd0af8da9c3.1920x1080.jpg?t=1624745112,https://cdn.akamai.steamstatic.com/steam/apps/1334300/ss_ee462ce2bbd8b7329808445c140d8155b54be090.1920x1080.jpg?t=1624745112",
+    "Slug": "charge-kid",
+    "Meta Title": "Charge Kid: Jun 29, 2020, Ayrton, Rafael and Vicente and ...",
+    "Meta Description": "Looking for information on Charge Kid? Check out the release date (Jun 29, 2020), developer insights from Ayrton, Rafael and Vicente, and a complete gam...",
+    "Alt Text Image": "Official header image for Charge Kid game - Steam 1334300",
+    "Canonical URL": "https://gusku.site/game/charge-kid",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Charge Kid\", \"description\": \"Looking for information on Charge Kid? Check out the release date (Jun 29, 2020), developer insights from Ayrton, Rafael and Vicente, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 29, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ayrton, Rafael and Vicente\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ayrton, Rafael and Vicente\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1334300/header.jpg?t=1624745112\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

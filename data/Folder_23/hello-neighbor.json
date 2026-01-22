@@ -1,0 +1,21 @@
+{
+    "AppID": 521890,
+    "Name": "Hello Neighbor",
+    "Release date": "Dec 8, 2017",
+    "About the game": "Hello Neighbor is a stealth horror game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in the basement. You play against an advanced AI that learns from your every move. Really enjoying climbing through that backyard window? Expect a bear trap there. Sneaking through the front door? There'll be cameras there soon. Trying to escape? The Neighbor will find a shortcut and catch you. Suspenseful horror gameplay that focuses on sneaking around your neighbor's house Constantly evolving experience where the Neighbor's AI counters your moves, and learns from what you do Sandbox-style gameplay with plenty of environmental interaction and physics",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/521890/header.jpg?t=1631522651",
+    "Price": 29.99,
+    "Developers": "Dynamic Pixels",
+    "Publishers": "tinyBuild",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/521890/ss_f4bf74bcbf51a0d3b5b7a0497018e824f2ec092c.1920x1080.jpg?t=1631522651,https://cdn.akamai.steamstatic.com/steam/apps/521890/ss_ac219a7c078de280a6ab21c39d925d3f1c8bb4a8.1920x1080.jpg?t=1631522651,https://cdn.akamai.steamstatic.com/steam/apps/521890/ss_462735bb24790570cadc9f6ed9fa5d456c2f8035.1920x1080.jpg?t=1631522651,https://cdn.akamai.steamstatic.com/steam/apps/521890/ss_dbd1c56e58f628d7978b2ef8f7f6b7106512366e.1920x1080.jpg?t=1631522651,https://cdn.akamai.steamstatic.com/steam/apps/521890/ss_b0df68f6289fe4c8d16b826821c08f8fa6c1fd2b.1920x1080.jpg?t=1631522651,https://cdn.akamai.steamstatic.com/steam/apps/521890/ss_9341a234c2bba8b79b724018cc29c770a53200ac.1920x1080.jpg?t=1631522651,https://cdn.akamai.steamstatic.com/steam/apps/521890/ss_9857456077fb5baefccd9c134357a1b73901622b.1920x1080.jpg?t=1631522651",
+    "Slug": "hello-neighbor",
+    "Meta Title": "Hello Neighbor: Dec 8, 2017, Dynamic Pixels and Full Over...",
+    "Meta Description": "Looking for information on Hello Neighbor? Check out the release date (Dec 8, 2017), developer insights from Dynamic Pixels, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hello Neighbor game - Steam 521890",
+    "Canonical URL": "https://gusku.site/game/hello-neighbor",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hello Neighbor\", \"description\": \"Looking for information on Hello Neighbor? Check out the release date (Dec 8, 2017), developer insights from Dynamic Pixels, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 8, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dynamic Pixels\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"tinyBuild\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/521890/header.jpg?t=1631522651\", \"offers\": {\"@type\": \"Offer\", \"price\": 29.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

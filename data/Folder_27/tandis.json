@@ -1,0 +1,21 @@
+{
+    "AppID": 1297210,
+    "Name": "Tandis",
+    "Release date": "Apr 21, 2022",
+    "About the game": "Tandis is a game about exploring geometric forms. It's a 3D puzzle game where you discover mind-bending geometric forms using simple transformations. You can export your creations in 3D format.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1297210/header.jpg?t=1651816539",
+    "Price": 14.99,
+    "Developers": "Mahdi Bahrami",
+    "Publishers": "Mahdi Bahrami",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1297210/ss_a733f5bc9b53da49cd08a97a36c43d9576a0ec96.1920x1080.jpg?t=1651816539,https://cdn.akamai.steamstatic.com/steam/apps/1297210/ss_83edb9b8082a9bac0b9636500d7aa3b4502bb73f.1920x1080.jpg?t=1651816539,https://cdn.akamai.steamstatic.com/steam/apps/1297210/ss_abf06761c0c0bf4674987f82b16e89be263abc13.1920x1080.jpg?t=1651816539,https://cdn.akamai.steamstatic.com/steam/apps/1297210/ss_31020c43562de7133818d79a873785ae3239775d.1920x1080.jpg?t=1651816539,https://cdn.akamai.steamstatic.com/steam/apps/1297210/ss_1c3b6f5714396bb207bc486609874bf8bf093637.1920x1080.jpg?t=1651816539",
+    "Slug": "tandis",
+    "Meta Title": "Tandis: Apr 21, 2022, Mahdi Bahrami and Full Overview",
+    "Meta Description": "Looking for information on Tandis? Check out the release date (Apr 21, 2022), developer insights from Mahdi Bahrami, and a complete game summary.",
+    "Alt Text Image": "Official header image for Tandis game - Steam 1297210",
+    "Canonical URL": "https://gusku.site/game/tandis",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Tandis\", \"description\": \"Looking for information on Tandis? Check out the release date (Apr 21, 2022), developer insights from Mahdi Bahrami, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 21, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Mahdi Bahrami\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Mahdi Bahrami\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1297210/header.jpg?t=1651816539\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

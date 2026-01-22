@@ -1,0 +1,21 @@
+{
+    "AppID": 2112760,
+    "Name": "Hook & Go",
+    "Release date": "Sep 1, 2022",
+    "About the game": "Hook &amp; Go is a 2D platformer, you move on the levels with a hook and you grap somthing, and you are projected in this direction. Like Spider-Man!!! You will find coins and spades that can kill you, be careful!!! You also have a skin shop. The more coins you have, the more skins you will have. This game uses the physics of Unity. You can collect 100 coins per level. With this game you need to have a lot of skill and a bit of thinking. 100 levels of fun! For all ages! Enjoy!!!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2112760/header.jpg?t=1662017194",
+    "Price": 3.99,
+    "Developers": "Unity",
+    "Publishers": "Skiller Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2112760/ss_0667f832ed530cb90a39a6165722c317d1b51e93.1920x1080.jpg?t=1662017194,https://cdn.akamai.steamstatic.com/steam/apps/2112760/ss_e839c2f8df1e818fac7807284324b314642c8ab8.1920x1080.jpg?t=1662017194,https://cdn.akamai.steamstatic.com/steam/apps/2112760/ss_6e04b2374a638a898c056b05683a0b9428575323.1920x1080.jpg?t=1662017194,https://cdn.akamai.steamstatic.com/steam/apps/2112760/ss_fe03919fb1f2fc3c4e650adc38da4e36044374e0.1920x1080.jpg?t=1662017194,https://cdn.akamai.steamstatic.com/steam/apps/2112760/ss_897741b7b0264d4c8a95e3ec7048b35ed28bb28b.1920x1080.jpg?t=1662017194",
+    "Slug": "hook-go",
+    "Meta Title": "Hook & Go: Sep 1, 2022, Unity and Full Overview",
+    "Meta Description": "Looking for information on Hook & Go? Check out the release date (Sep 1, 2022), developer insights from Unity, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hook & Go game - Steam 2112760",
+    "Canonical URL": "https://gusku.site/game/hook-go",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hook & Go\", \"description\": \"Looking for information on Hook & Go? Check out the release date (Sep 1, 2022), developer insights from Unity, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Unity\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Skiller Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2112760/header.jpg?t=1662017194\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

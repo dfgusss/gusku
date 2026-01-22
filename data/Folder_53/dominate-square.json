@@ -1,0 +1,21 @@
+{
+    "AppID": 1470130,
+    "Name": "Dominate Square",
+    "Release date": "Jan 5, 2021",
+    "About the game": "自分の駒で相手の駒を奪うゲームです。 駒は盤上に置かれると▲の向きに従い、攻撃を行います。 駒には属性があり、強みと弱みが存在します。 弱点属性に攻撃された駒は相手の駒となります。 全てのマスを埋めた際に、自分の駒の数が多い方の勝利となります。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1470130/header.jpg?t=1615459776",
+    "Price": 0.0,
+    "Developers": "justblack",
+    "Publishers": "justblack",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1470130/ss_8a758087b90d50c3a78b5191af034f651d89dbc4.1920x1080.jpg?t=1615459776,https://cdn.akamai.steamstatic.com/steam/apps/1470130/ss_0a8df7ff09ec4d4946e1161f6b62e3f1734f99d6.1920x1080.jpg?t=1615459776,https://cdn.akamai.steamstatic.com/steam/apps/1470130/ss_7392ef7b83727ac8c8eb44eef2da7b1c4ea01a03.1920x1080.jpg?t=1615459776,https://cdn.akamai.steamstatic.com/steam/apps/1470130/ss_72bcbb5cdd9550bc5ddda7a15b4b7377496ccd25.1920x1080.jpg?t=1615459776,https://cdn.akamai.steamstatic.com/steam/apps/1470130/ss_500ef6ac5601610c7c170a109bc3ffc1497fb805.1920x1080.jpg?t=1615459776,https://cdn.akamai.steamstatic.com/steam/apps/1470130/ss_e593aff687efef69c3eaedc833e9072b922d4b9a.1920x1080.jpg?t=1615459776",
+    "Slug": "dominate-square",
+    "Meta Title": "Dominate Square: Jan 5, 2021, justblack and Full Overview",
+    "Meta Description": "Looking for information on Dominate Square? Check out the release date (Jan 5, 2021), developer insights from justblack, and a complete game summary.",
+    "Alt Text Image": "Official header image for Dominate Square game - Steam 1470130",
+    "Canonical URL": "https://gusku.site/game/dominate-square",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Dominate Square\", \"description\": \"Looking for information on Dominate Square? Check out the release date (Jan 5, 2021), developer insights from justblack, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 5, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"justblack\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"justblack\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1470130/header.jpg?t=1615459776\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

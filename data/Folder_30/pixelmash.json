@@ -1,0 +1,21 @@
+{
+    "AppID": 958210,
+    "Name": "Pixelmash",
+    "Release date": "Nov 5, 2018",
+    "About the game": "Pixelmash allows artists and game makers to craft pixel art and animations using a completely new technique, based on painting or importing an image in a high-resolution layer, while non-destructively pixelizing and applying other layer effects to create incredible pixel art. This makes several traditionally difficult pixel art tasks much easier: Making outlines, shading, and dithering easily adjustable by having them applied non-destructively as layer effects. Creating animations using layer transforms (rather than having to paint every frame pixel-by-pixel). Easily creating different resolutions and color variants of the same image. Converting photos or other hi-res artwork into pixel art using layer effects and the resolution slider. And much more! It's a brilliant new art tool for game makers, artists, hobbyists, kids, and lovers of the 8-bit and 16-bit era.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/958210/header.jpg?t=1644862133",
+    "Price": 17.49,
+    "Developers": "Nevercenter",
+    "Publishers": "Nevercenter",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/958210/ss_48c01aff6d2d027c54432f0da49c628d67722ad9.1920x1080.jpg?t=1644862133,https://cdn.akamai.steamstatic.com/steam/apps/958210/ss_f0b0846bac46d0186cac1fcc4acb715de251aee7.1920x1080.jpg?t=1644862133,https://cdn.akamai.steamstatic.com/steam/apps/958210/ss_4bc8f46871492f4e032f27e45b299191f557e738.1920x1080.jpg?t=1644862133,https://cdn.akamai.steamstatic.com/steam/apps/958210/ss_a447a85bbd1bb13542541bb6a8f540f918792e71.1920x1080.jpg?t=1644862133,https://cdn.akamai.steamstatic.com/steam/apps/958210/ss_3d18a95f9d1168efccb8649a7bd9e1a1beb02375.1920x1080.jpg?t=1644862133,https://cdn.akamai.steamstatic.com/steam/apps/958210/ss_bb4e4e9973ab61603d60b662185b83f851060307.1920x1080.jpg?t=1644862133,https://cdn.akamai.steamstatic.com/steam/apps/958210/ss_fd1c3da8e8e700b0e235aebf3abf7d9c7a7c8073.1920x1080.jpg?t=1644862133,https://cdn.akamai.steamstatic.com/steam/apps/958210/ss_53593ff55f17f26c2f7942965d5ffb2e585c77df.1920x1080.jpg?t=1644862133",
+    "Slug": "pixelmash",
+    "Meta Title": "Pixelmash: Nov 5, 2018, Nevercenter and Full Overview",
+    "Meta Description": "Looking for information on Pixelmash? Check out the release date (Nov 5, 2018), developer insights from Nevercenter, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pixelmash game - Steam 958210",
+    "Canonical URL": "https://gusku.site/game/pixelmash",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pixelmash\", \"description\": \"Looking for information on Pixelmash? Check out the release date (Nov 5, 2018), developer insights from Nevercenter, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 5, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nevercenter\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nevercenter\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/958210/header.jpg?t=1644862133\", \"offers\": {\"@type\": \"Offer\", \"price\": 17.49, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

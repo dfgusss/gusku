@@ -1,0 +1,21 @@
+{
+    "AppID": 1823470,
+    "Name": "Lemon Run",
+    "Release date": "Dec 12, 2021",
+    "About the game": "This is an Impossible runner where you can play In 5 game modes. Easy, Medium, Hard, Impossible and Endless. The goal is to get a score of 1000 for the difficulties levels and you play against your high score in the Endless level. (Legends have it that the creator of the game could only make it to 1500m in endless mode) Good luck! You can use the AWSD keys or the arrow keys and the space bar can also be used to jump. This is Lemon Tree Studio Inc.'s first mini-game and was made by Joel Diab. This is not a AAA game so you might find bugs here and there. Just know that everything was made with love and passion and this won't be my last game!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1823470/header.jpg?t=1642828430",
+    "Price": 0.0,
+    "Developers": "Joel Diab",
+    "Publishers": "Lemon Tree Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1823470/ss_54dc80dc6da9f294c77a4cffa29ccf02b76b1f38.1920x1080.jpg?t=1642828430,https://cdn.akamai.steamstatic.com/steam/apps/1823470/ss_dad5454bbfc864f75105162f2b8f14c05cfd4b8c.1920x1080.jpg?t=1642828430,https://cdn.akamai.steamstatic.com/steam/apps/1823470/ss_a1567b9428e13d4fe3bbc603fc43da83d324b555.1920x1080.jpg?t=1642828430,https://cdn.akamai.steamstatic.com/steam/apps/1823470/ss_59531482e00224c8fc4ca07b87313896d3c1750c.1920x1080.jpg?t=1642828430,https://cdn.akamai.steamstatic.com/steam/apps/1823470/ss_975ac5fa406cdcd503b007798b4eb8445255607c.1920x1080.jpg?t=1642828430",
+    "Slug": "lemon-run",
+    "Meta Title": "Lemon Run: Dec 12, 2021, Joel Diab and Full Overview",
+    "Meta Description": "Looking for information on Lemon Run? Check out the release date (Dec 12, 2021), developer insights from Joel Diab, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lemon Run game - Steam 1823470",
+    "Canonical URL": "https://gusku.site/game/lemon-run",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lemon Run\", \"description\": \"Looking for information on Lemon Run? Check out the release date (Dec 12, 2021), developer insights from Joel Diab, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 12, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Joel Diab\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Lemon Tree Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1823470/header.jpg?t=1642828430\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

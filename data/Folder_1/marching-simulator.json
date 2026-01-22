@@ -1,0 +1,21 @@
+{
+    "AppID": 817370,
+    "Name": "Marching Simulator",
+    "Release date": "Jul 29, 2018",
+    "About the game": "I did not see a marching simulator on the market, so I made one! This is a 2D, sprite based marching simulator. It is intended to give the user what it would feel like to march a military formation, as well as see how well they can do! You will give commands by keyboard or mouse to a flight of 12. These 12 must execute 10 commands from a list of 27 within a 70 ft by 70 ft area. Your score depends on how fast your flight can execute your commands, and how well you stay in your are. Do you have what it takes? This is a constant work in progress so any feedback is appreciated.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/817370/header.jpg?t=1535378161",
+    "Price": 0.0,
+    "Developers": "Marching Simulator",
+    "Publishers": "Marching Simulator",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/817370/ss_edb62b13aa3b71d81abb94fbf765e86c00270d99.1920x1080.jpg?t=1535378161,https://cdn.akamai.steamstatic.com/steam/apps/817370/ss_fb5ce80e38c239afc34a09af4bc40a0a79c30681.1920x1080.jpg?t=1535378161,https://cdn.akamai.steamstatic.com/steam/apps/817370/ss_e74e8892fc431f1b94709b904d0bacc2b61d5605.1920x1080.jpg?t=1535378161,https://cdn.akamai.steamstatic.com/steam/apps/817370/ss_e1daac6a161a53dfa5ba5f6e7513a82e9447ca9d.1920x1080.jpg?t=1535378161",
+    "Slug": "marching-simulator",
+    "Meta Title": "Marching Simulator: Jul 29, 2018, Marching Simulator and ...",
+    "Meta Description": "Looking for information on Marching Simulator? Check out the release date (Jul 29, 2018), developer insights from Marching Simulator, and a complete gam...",
+    "Alt Text Image": "Official header image for Marching Simulator game - Steam 817370",
+    "Canonical URL": "https://gusku.site/game/marching-simulator",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Marching Simulator\", \"description\": \"Looking for information on Marching Simulator? Check out the release date (Jul 29, 2018), developer insights from Marching Simulator, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 29, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Marching Simulator\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Marching Simulator\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/817370/header.jpg?t=1535378161\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2307830,
+    "Name": "SharkKing",
+    "Release date": "Mar 7, 2023",
+    "About the game": "SharkKing is a roguelike game, where you eat fish and grow. To eat fish you must lower their health by charging into them and sprinting allows you to do critical damage. After eating a fish it will drop experience and health orbs on death, each fish gives different amounts and it varies depending on the players level how much experience/health is gained per fish. Every time the player levels up, new fish will spawn and lower level fish will eventually be replaced with higher level fish. Fish spawn from outside the map. Hostile fish, radiation barrels and neutral fish will lower the player’s health and on death the player will be reset back to level 1. The aim is to reach level 10 and defeat the boss without dying. You control the shark with W A S D W key to sprint and crit A, D key to turn left and right S key to slow down and be more accurate with you attacks Features 21 different fish 7 unique fish 5 player shark evolutions 12 achievements",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2307830/header.jpg?t=1678182520",
+    "Price": 1.79,
+    "Developers": "MassiveGames",
+    "Publishers": "MassiveGames",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2307830/ss_bc9073cc3ee3591590eea9740051518ad164726b.1920x1080.jpg?t=1678182520,https://cdn.akamai.steamstatic.com/steam/apps/2307830/ss_dc3d0e8ef9f23bcf74f3fd7316a5898015932946.1920x1080.jpg?t=1678182520,https://cdn.akamai.steamstatic.com/steam/apps/2307830/ss_0e4fa0910201e95d1c5c195c0ce32782c04be2fd.1920x1080.jpg?t=1678182520,https://cdn.akamai.steamstatic.com/steam/apps/2307830/ss_1e73f0ba8709d3d0e236d437059ee0316c16250a.1920x1080.jpg?t=1678182520,https://cdn.akamai.steamstatic.com/steam/apps/2307830/ss_70cf7120aa0534185d21068988acbe5fdbfdad1d.1920x1080.jpg?t=1678182520",
+    "Slug": "sharkking",
+    "Meta Title": "SharkKing: Mar 7, 2023, MassiveGames and Full Overview",
+    "Meta Description": "Looking for information on SharkKing? Check out the release date (Mar 7, 2023), developer insights from MassiveGames, and a complete game summary.",
+    "Alt Text Image": "Official header image for SharkKing game - Steam 2307830",
+    "Canonical URL": "https://gusku.site/game/sharkking",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SharkKing\", \"description\": \"Looking for information on SharkKing? Check out the release date (Mar 7, 2023), developer insights from MassiveGames, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 7, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"MassiveGames\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"MassiveGames\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2307830/header.jpg?t=1678182520\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.79, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

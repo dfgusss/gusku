@@ -1,0 +1,21 @@
+{
+    "AppID": 1045300,
+    "Name": "Prismatic Maze",
+    "Release date": "Mar 29, 2019",
+    "About the game": "Prismatic Maze is my ongoing attempt to make an interesting maze game. In Prismatic Maze, maps are not pre-built or purely random, they are grown. Maps are seeded with Pigment creatures which grow larger over time like bacteria in a petri dish, filling their inside area with maze walls. Pigments bump up against each other, punch doors through to the other side and hide keys inside the bodies of their neighbors. Classic Mode In Classic Mode, you play as an agent of White and are tasked with bringing light to the Black Tower, which is hidden and locked away somewhere on the same map. You must find keys to unlock the doors barring your way, break into the domains of your neighbors, exploring to steal their seeds to unlock the Black Tower. Along the way, you can find items to assist you in your exploration as well as ingredients to build new maps with large and more complex mazes.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1045300/header.jpg?t=1577257258",
+    "Price": 4.99,
+    "Developers": "Bad Monkey Love",
+    "Publishers": "Bad Monkey Love",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_f640d3f604885e4ddb0e5d2a989adb69e162d823.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_581328afce36a64e09a2b21071e6a10ff94527dd.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_18ad73a9887d4e967bd7b2992bc474ee5aedb4be.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_e368be6241417f1ed42618b4503816d0ec8d608e.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_97e7aad05fd2461c02149a117b4b6f3559afe6f9.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_3fba4f183348e2890a2ba3a8ea12632d4fae2766.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_ed0f0c49b73d67a0110318f3f1b9b5ba16b8bf6f.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_d078e621db2b455c2a1c0e28ea1332731af1347e.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_dcaa5936e340a6f17c0ac6e0d95bef0f921b7a05.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_aca3adbceebfbf54ce9a35a4f65e5da188c87c76.1920x1080.jpg?t=1577257258,https://cdn.akamai.steamstatic.com/steam/apps/1045300/ss_cce629207b1af1c51ae375706d5bd18406cbb70a.1920x1080.jpg?t=1577257258",
+    "Slug": "prismatic-maze",
+    "Meta Title": "Prismatic Maze: Mar 29, 2019, Bad Monkey Love and Full Ov...",
+    "Meta Description": "Looking for information on Prismatic Maze? Check out the release date (Mar 29, 2019), developer insights from Bad Monkey Love, and a complete game summary.",
+    "Alt Text Image": "Official header image for Prismatic Maze game - Steam 1045300",
+    "Canonical URL": "https://gusku.site/game/prismatic-maze",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Prismatic Maze\", \"description\": \"Looking for information on Prismatic Maze? Check out the release date (Mar 29, 2019), developer insights from Bad Monkey Love, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 29, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Bad Monkey Love\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Bad Monkey Love\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1045300/header.jpg?t=1577257258\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

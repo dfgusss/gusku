@@ -1,0 +1,21 @@
+{
+    "AppID": 1757120,
+    "Name": "SpritePile 2.0",
+    "Release date": "Jan 27, 2022",
+    "About the game": "This is a tool designed to be easy to use and extremely flexible. Drawing works exactly as you would expect in any other 2D art software. Thanks to a simple layer system you can quickly build 3D models for use in game development , artwork , or even 3D printer models . It also provides sprite stack functionality for 2D games. Features The Basics Undo/Redo for all features Saving/Loading projects Too many settings Customizable keybinds Proper documentation Drawing Pencil Brush (Works exactly the same as the pencil in Aseprite) Eraser (Behaves like a brush but erases things) Bucket 2D Bucket 3D (Fill in 3D spaces) Line Rectangle (Fill/Outline) Circle (Fill/Outline) Color Replace Color Picker Selection X, Y, X/Y Symmetry Outline Canvas Supports width/length/height of 1 to 1024 Onion Skin, forwards and backwards up to 10 in each direction Grid/Axis can be toggled Color Palette Import custom color palettes Build and edit color palettes Comes packaged with beautiful color palettes Layer System Add/Remove layers Draw across multiple layers Copy/Paste multiple layers Live Preview 2D and 3D rendering options provide an intuitive solution to preview your work Multiple shaders available to add some zest and eye candy to your preview Import Import slices to edit sprite stacks created in other tools Import sprites to create a 3D voxel project out of 2D images Export Slices can be exported as: Sprite Sheet, PNG Sequence GIF export for showing off your work Rotated renders exported as: PNG Sequence OBJ (3D and perfectly optimized)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1757120/header.jpg?t=1645621893",
+    "Price": 19.99,
+    "Developers": "Fern Nigro",
+    "Publishers": "Fern Nigro",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1757120/ss_6cf8ac6a1b84464c054726fdbe83088da673d546.1920x1080.jpg?t=1645621893,https://cdn.akamai.steamstatic.com/steam/apps/1757120/ss_6c783a7e700be6e0d63b6be2e9d8163c30467cf5.1920x1080.jpg?t=1645621893,https://cdn.akamai.steamstatic.com/steam/apps/1757120/ss_406d239e19f018b06b5d06b73f45729d9c799a3e.1920x1080.jpg?t=1645621893,https://cdn.akamai.steamstatic.com/steam/apps/1757120/ss_446aa9f2c26ca1b86aeb3b61c979ea0e00ad40d5.1920x1080.jpg?t=1645621893,https://cdn.akamai.steamstatic.com/steam/apps/1757120/ss_28d123c69cec5d39eb327fc9321b2e0d909f965b.1920x1080.jpg?t=1645621893,https://cdn.akamai.steamstatic.com/steam/apps/1757120/ss_6481817149914929e4fb4e9de9150fc58dfb852c.1920x1080.jpg?t=1645621893,https://cdn.akamai.steamstatic.com/steam/apps/1757120/ss_b9026a56534850ce54cb4c99f39c147f34252803.1920x1080.jpg?t=1645621893",
+    "Slug": "spritepile-2-0",
+    "Meta Title": "SpritePile 2.0: Jan 27, 2022, Fern Nigro and Full Overview",
+    "Meta Description": "Looking for information on SpritePile 2.0? Check out the release date (Jan 27, 2022), developer insights from Fern Nigro, and a complete game summary.",
+    "Alt Text Image": "Official header image for SpritePile 2.0 game - Steam 1757120",
+    "Canonical URL": "https://gusku.site/game/spritepile-2-0",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SpritePile 2.0\", \"description\": \"Looking for information on SpritePile 2.0? Check out the release date (Jan 27, 2022), developer insights from Fern Nigro, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 27, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Fern Nigro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fern Nigro\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1757120/header.jpg?t=1645621893\", \"offers\": {\"@type\": \"Offer\", \"price\": 19.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

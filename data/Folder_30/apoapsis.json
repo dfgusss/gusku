@@ -1,0 +1,21 @@
+{
+    "AppID": 1020610,
+    "Name": "Apoapsis",
+    "Release date": "Feb 25, 2019",
+    "About the game": "Apoapsis is a passion project developed in 18 days. Traverse a large alien world and destroy aliens, bosses, collect items, and [soon to come, more things to do]. I would love to expand on Apoapsis to make it a more complete game, and polish it further. The pricing doesn't reflect the current game, but a larger game in mind. This can be considered a 15 minute Metroidvania. It is designed so you can rush through it, yet why wouldn't you want to upgrade your health and stamina along the way? The graphics, coding, music and everything is all made by me, XPI Sigma. What to expect currently: 4 hidden hp upgrades. 10 hidden stamina upgrades, 3 bosses Known bugs: -Collision issues while player gets hurt -Monitors with a refresh rate over 60 makes game appear too fast (Fixed!) -Game slowdown (displays 60fps, yet doesn't reflect it) Future Updates: -New modes -Control edit -Steam Achievements (Added!) -Trading Cards -Controller support",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1020610/header.jpg?t=1551547253",
+    "Price": 0.99,
+    "Developers": "Construct Core Works",
+    "Publishers": "Construct Core Works",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1020610/ss_f1dcf65e678f28728d356df396d51b74173086f6.1920x1080.jpg?t=1551547253,https://cdn.akamai.steamstatic.com/steam/apps/1020610/ss_c149e10fd4886ddba73692e4ee104eec0d5bb650.1920x1080.jpg?t=1551547253,https://cdn.akamai.steamstatic.com/steam/apps/1020610/ss_d5d3fd94b78417d94aaa02a5e20f8147a6ec1bfd.1920x1080.jpg?t=1551547253,https://cdn.akamai.steamstatic.com/steam/apps/1020610/ss_b58a815e8ca867e059c03a8b86424b7fd3552b6e.1920x1080.jpg?t=1551547253,https://cdn.akamai.steamstatic.com/steam/apps/1020610/ss_6dcebcffc610fdc5b7a1778a3f1693f27d9a5f78.1920x1080.jpg?t=1551547253",
+    "Slug": "apoapsis",
+    "Meta Title": "Apoapsis: Feb 25, 2019, Construct Core Works and Full Ove...",
+    "Meta Description": "Looking for information on Apoapsis? Check out the release date (Feb 25, 2019), developer insights from Construct Core Works, and a complete game summary.",
+    "Alt Text Image": "Official header image for Apoapsis game - Steam 1020610",
+    "Canonical URL": "https://gusku.site/game/apoapsis",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Apoapsis\", \"description\": \"Looking for information on Apoapsis? Check out the release date (Feb 25, 2019), developer insights from Construct Core Works, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 25, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Construct Core Works\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Construct Core Works\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1020610/header.jpg?t=1551547253\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

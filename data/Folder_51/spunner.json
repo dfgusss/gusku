@@ -1,0 +1,21 @@
+{
+    "AppID": 1859890,
+    "Name": "Spunner",
+    "Release date": "Jan 24, 2022",
+    "About the game": "A simple endless runner that takes place on an alien world. Spunner is a first person shooter take on an endless runner style of game. You collect data chips to use as in-game currency to upgrade health, shields, unlock weapons and increase weapon ammo. There are a number of random events to keep you guessing while you try to destroy drones before they destroy you! Be careful for alien critters who try to prevent you from passing as well!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1859890/header.jpg?t=1643048931",
+    "Price": 0.99,
+    "Developers": "Andrew Skillett",
+    "Publishers": "Andrew Skillett",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1859890/ss_4ff95794327ea584b3b07e243e18c4ec8df310be.1920x1080.jpg?t=1643048931,https://cdn.akamai.steamstatic.com/steam/apps/1859890/ss_10ef4b1981f2510c85e8d00b599c0ae8286d100e.1920x1080.jpg?t=1643048931,https://cdn.akamai.steamstatic.com/steam/apps/1859890/ss_689a88df051cb787522f65823c7c092aaf0564ef.1920x1080.jpg?t=1643048931,https://cdn.akamai.steamstatic.com/steam/apps/1859890/ss_148eb8107c4f227d3b41f09b4939cdb75b88826d.1920x1080.jpg?t=1643048931,https://cdn.akamai.steamstatic.com/steam/apps/1859890/ss_53de55d4b6184586d53f4ead3e34bfa8b5442b39.1920x1080.jpg?t=1643048931,https://cdn.akamai.steamstatic.com/steam/apps/1859890/ss_c4f8621fe37da3ec0ee90a8c268f652f34b49e46.1920x1080.jpg?t=1643048931",
+    "Slug": "spunner",
+    "Meta Title": "Spunner: Jan 24, 2022, Andrew Skillett and Full Overview",
+    "Meta Description": "Looking for information on Spunner? Check out the release date (Jan 24, 2022), developer insights from Andrew Skillett, and a complete game summary.",
+    "Alt Text Image": "Official header image for Spunner game - Steam 1859890",
+    "Canonical URL": "https://gusku.site/game/spunner",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Spunner\", \"description\": \"Looking for information on Spunner? Check out the release date (Jan 24, 2022), developer insights from Andrew Skillett, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 24, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Andrew Skillett\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Andrew Skillett\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1859890/header.jpg?t=1643048931\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

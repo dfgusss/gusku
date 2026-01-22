@@ -1,0 +1,21 @@
+{
+    "AppID": 1095980,
+    "Name": "Charge",
+    "Release date": "Aug 16, 2019",
+    "About the game": "You play as a silent protagonist armed with a charge gun, and your ultimate goal is to progress through all levels presented by the game. Each level is a room that has only one exit, and your goal is to overcome any obstacles (such as humanly unreachable platforms or remotely-controlled closed doors) to reach that exit and progress to the next level. To your help you have charge gun, cube and charge-proof walls (emitting light-blue segments). Charge gun is capable of positively or negatively charging cube and charge-proof walls. Depending on the charges applied, the interaction between them will be different: if cube and wall have opposite charges - cube will attract and eventually static cling to the wall; otherwise (alike charges) cube will repel away from the wall. The closer those are, the stronger the effect. There are major restrictions when it comes to charging objects: cube can either be positively OR negatively charged at the same time, or neutral; only one wall charge of the same sign can exist at the same time, and applying new alike wall charge to another location removes old. You will need to figure out how to take advantage of these tools and manipulate objects to progress through. Almost every level forces you to learn a new way of using these tools, and some of the mechanics that you already learned in previous levels are mixed in.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1095980/header.jpg?t=1565986990",
+    "Price": 3.99,
+    "Developers": "Ilyushquette Games",
+    "Publishers": "Ilyushquette Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1095980/ss_0d03eb231d5979960d60e68ecd835e40245b089f.1920x1080.jpg?t=1565986990,https://cdn.akamai.steamstatic.com/steam/apps/1095980/ss_cf6506c247dfd65eebda901b522ed9abc364e02c.1920x1080.jpg?t=1565986990,https://cdn.akamai.steamstatic.com/steam/apps/1095980/ss_aa70d2ebeb19bbdd73d3beaad0ee3e3d360f3457.1920x1080.jpg?t=1565986990,https://cdn.akamai.steamstatic.com/steam/apps/1095980/ss_2fe8247c362a4ca34815342234a3146a2a9741de.1920x1080.jpg?t=1565986990,https://cdn.akamai.steamstatic.com/steam/apps/1095980/ss_2ab3693afa65da4318c4c6fef7bee9e55adc87f1.1920x1080.jpg?t=1565986990",
+    "Slug": "charge",
+    "Meta Title": "Charge: Aug 16, 2019, Ilyushquette Games and Full Overview",
+    "Meta Description": "Looking for information on Charge? Check out the release date (Aug 16, 2019), developer insights from Ilyushquette Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Charge game - Steam 1095980",
+    "Canonical URL": "https://gusku.site/game/charge",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Charge\", \"description\": \"Looking for information on Charge? Check out the release date (Aug 16, 2019), developer insights from Ilyushquette Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 16, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ilyushquette Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ilyushquette Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1095980/header.jpg?t=1565986990\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

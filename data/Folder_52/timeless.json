@@ -1,0 +1,21 @@
+{
+    "AppID": 1091690,
+    "Name": "Timeless",
+    "Release date": "Jul 19, 2019",
+    "About the game": "Timeless is a classic platforming game with a small twist, the ability to either enhance the player character's speed (and slipperiness) or stop their momentum instantly. Play through five unique worlds, and then take down the big, bad boss!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1091690/header.jpg?t=1564370502",
+    "Price": 4.99,
+    "Developers": "Luis Avila",
+    "Publishers": "Luis Avila",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1091690/ss_e3ca8f5934b27549ef8541b14d90d1bef18d57e4.1920x1080.jpg?t=1564370502,https://cdn.akamai.steamstatic.com/steam/apps/1091690/ss_4f260fd1aaf25c10b17a69252ce12ea4c6ac7038.1920x1080.jpg?t=1564370502,https://cdn.akamai.steamstatic.com/steam/apps/1091690/ss_2ce501eb63752e838b3d585ceb86c6abcdf07f57.1920x1080.jpg?t=1564370502,https://cdn.akamai.steamstatic.com/steam/apps/1091690/ss_2561be47d3992eb3a28b6c25555fad9df9a99d1c.1920x1080.jpg?t=1564370502,https://cdn.akamai.steamstatic.com/steam/apps/1091690/ss_0b65649de7b7718b3ee532ec960a004452ce03c5.1920x1080.jpg?t=1564370502",
+    "Slug": "timeless",
+    "Meta Title": "Timeless: Jul 19, 2019, Luis Avila and Full Overview",
+    "Meta Description": "Looking for information on Timeless? Check out the release date (Jul 19, 2019), developer insights from Luis Avila, and a complete game summary.",
+    "Alt Text Image": "Official header image for Timeless game - Steam 1091690",
+    "Canonical URL": "https://gusku.site/game/timeless",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Timeless\", \"description\": \"Looking for information on Timeless? Check out the release date (Jul 19, 2019), developer insights from Luis Avila, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 19, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Luis Avila\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Luis Avila\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1091690/header.jpg?t=1564370502\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

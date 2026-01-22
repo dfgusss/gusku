@@ -1,0 +1,21 @@
+{
+    "AppID": 1219070,
+    "Name": "HexiHashi",
+    "Release date": "Jan 19, 2021",
+    "About the game": "HexiHashi is a minimalistic puzzle game based on the classic puzzle 'Hashiwokakero.' You are presented with a field of nodes, each having a number. Nodes may be connected to each other along gridlines with either single or double bridges. A puzzle is complete when all nodes are connected, and the number of bridges connected to each node is equal to the number indicated on that node. HexiHashi is a fresh and original take on this classic puzzle. Whereas classic Hashi is played on a rectangular grid, HexiHashi is played on a triangular grid. A game of classic Hashi can be solved nearly completely using deductive reasoning, with normally only one or two moves per game requiring an intuitive guess. In HexiHashi, because each node has six possible connections instead of four, pure deduction will normally solve less than 10% of a puzzle (even small ones). As a result, gameplay focuses more on inuitive heuristics, testing hypotheses, backtracking, and tweaking of solutions. One puzzle in HexiHashi may have more than one acceptable solution, but our puzzle generation algorithm guarantees that every puzzle is solvable. Features: - Beautiful piano score by the inimitable Steve McRae - Dynamic sound effects which harmonize with the background music - Puzzle Generation Algorithm providing endless replayability - Time Attack, Move Master, and Endless modes - Cool-looking Hint system - Levelling System HexiHashi will scratch the puzzle-itch of any avid puzzler. Buy it for yourself! Buy it for a friend! Buy it for a friend's dog! Buy two copies! C'mon, it's only three bucks. (American).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1219070/header.jpg?t=1611055102",
+    "Price": 1.99,
+    "Developers": "NCC Moore,Steve McRae",
+    "Publishers": "Devonian Interactive",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1219070/ss_8a15c86ea50b539ee2c9121762d9387711d1439d.1920x1080.jpg?t=1611055102,https://cdn.akamai.steamstatic.com/steam/apps/1219070/ss_c4188f797e33b6cc9d55910d589a7f1ce323f338.1920x1080.jpg?t=1611055102,https://cdn.akamai.steamstatic.com/steam/apps/1219070/ss_68a2e3f6dc7ba82b37701f7ebf7fdfe8ca34aaff.1920x1080.jpg?t=1611055102,https://cdn.akamai.steamstatic.com/steam/apps/1219070/ss_663cb333401489f2980dbdc954c975df5f073374.1920x1080.jpg?t=1611055102,https://cdn.akamai.steamstatic.com/steam/apps/1219070/ss_17cdc2aeb6948303607198b3bd178f1f855c8202.1920x1080.jpg?t=1611055102",
+    "Slug": "hexihashi",
+    "Meta Title": "HexiHashi: Jan 19, 2021, NCC Moore,Steve McRae and Full O...",
+    "Meta Description": "Looking for information on HexiHashi? Check out the release date (Jan 19, 2021), developer insights from NCC Moore,Steve McRae, and a complete game summ...",
+    "Alt Text Image": "Official header image for HexiHashi game - Steam 1219070",
+    "Canonical URL": "https://gusku.site/game/hexihashi",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"HexiHashi\", \"description\": \"Looking for information on HexiHashi? Check out the release date (Jan 19, 2021), developer insights from NCC Moore,Steve McRae, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"NCC Moore,Steve McRae\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Devonian Interactive\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1219070/header.jpg?t=1611055102\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

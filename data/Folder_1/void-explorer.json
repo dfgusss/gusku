@@ -1,0 +1,21 @@
+{
+    "AppID": 1546120,
+    "Name": "Void Explorer",
+    "Release date": "Jun 21, 2021",
+    "About the game": "This game was made by high schoolers as a passion project. We made a platformer game where you are a knight with a small sword that parkours through the map, defeats enemies, and slays bosses. The game is easy to understand, you move, jump, and attack. However, the game can get pretty difficult at times, to make up for its simplistic nature and short duration. I hope you enjoy the game and have a wonderful time. :)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1546120/header.jpg?t=1624336588",
+    "Price": 0.99,
+    "Developers": "Theodore King,Dylan Harrison,Alex Stahly,Faith King,Camdym Charles",
+    "Publishers": "Theodore King",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1546120/ss_ad4d81296cd46dca5346d85fc861340893a49988.1920x1080.jpg?t=1624336588,https://cdn.akamai.steamstatic.com/steam/apps/1546120/ss_afd8d5e734a9ceace1e625c5905b9977dd7a83e8.1920x1080.jpg?t=1624336588,https://cdn.akamai.steamstatic.com/steam/apps/1546120/ss_1e0dd8619ff0abea635f7344a12abc271ffe23dd.1920x1080.jpg?t=1624336588,https://cdn.akamai.steamstatic.com/steam/apps/1546120/ss_ca75e9453c23a21690240f08fd5af5dd6017ee34.1920x1080.jpg?t=1624336588,https://cdn.akamai.steamstatic.com/steam/apps/1546120/ss_7cc3cc4216825102f11255b44f573fc7c3c7a496.1920x1080.jpg?t=1624336588,https://cdn.akamai.steamstatic.com/steam/apps/1546120/ss_ad4d81296cd46dca5346d85fc861340893a49988.1920x1080.jpg?t=1624336588",
+    "Slug": "void-explorer",
+    "Meta Title": "Void Explorer: Jun 21, 2021, Theodore King,Dylan Harrison...",
+    "Meta Description": "Looking for information on Void Explorer? Check out the release date (Jun 21, 2021), developer insights from Theodore King,Dylan Harrison,Alex Stahly,Fa...",
+    "Alt Text Image": "Official header image for Void Explorer game - Steam 1546120",
+    "Canonical URL": "https://gusku.site/game/void-explorer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Void Explorer\", \"description\": \"Looking for information on Void Explorer? Check out the release date (Jun 21, 2021), developer insights from Theodore King,Dylan Harrison,Alex Stahly,Fa...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 21, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Theodore King,Dylan Harrison,Alex Stahly,Faith King,Camdym Charles\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Theodore King\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1546120/header.jpg?t=1624336588\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

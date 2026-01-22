@@ -1,0 +1,21 @@
+{
+    "AppID": 706310,
+    "Name": "CaveDuel",
+    "Release date": "Nov 3, 2017",
+    "About the game": "Raid caves and steal gold in 1v1 online tactical matches. Make a strategy to steal your opponent's gold and build your cave around that strategy. Note: A controller is required to play this game. What is the objective? In order to win, you must take your opponent's gold and bring it back to your treasure chest. Is this a fighting game? You can fight your opponent but you only win by stealing their gold. All damage is lethal and you don't respawn. This game is more about tactics than fighting. How long is a match? Around 1-2 minutes. Build my own cave? Yes! You build the cave you play in. You can design it as part of your tactical strategy. For instance, you can make hiding spots in your cave to wait for an easy attack on your opponent. Or, you can design it in a way that lets you quickly enter your opponent's cave. It's up to you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/706310/header.jpg?t=1527460382",
+    "Price": 0.99,
+    "Developers": "Hemball Studio",
+    "Publishers": "Hemball Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/706310/ss_ec57fed290034ec4f939b2242daa0b4c5af8cbea.1920x1080.jpg?t=1527460382,https://cdn.akamai.steamstatic.com/steam/apps/706310/ss_500c5a6a6180efa8a3d2d3339863dc736e7d5f1c.1920x1080.jpg?t=1527460382,https://cdn.akamai.steamstatic.com/steam/apps/706310/ss_bd0dccc8547077591c54be68471a6138b5eef9de.1920x1080.jpg?t=1527460382,https://cdn.akamai.steamstatic.com/steam/apps/706310/ss_11c1f53dc37ef0325f5174bf3cd88d6afc2d3e68.1920x1080.jpg?t=1527460382,https://cdn.akamai.steamstatic.com/steam/apps/706310/ss_587ca822e843034b21d06926e9e7a38d308a0326.1920x1080.jpg?t=1527460382",
+    "Slug": "caveduel",
+    "Meta Title": "CaveDuel: Nov 3, 2017, Hemball Studio and Full Overview",
+    "Meta Description": "Looking for information on CaveDuel? Check out the release date (Nov 3, 2017), developer insights from Hemball Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for CaveDuel game - Steam 706310",
+    "Canonical URL": "https://gusku.site/game/caveduel",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"CaveDuel\", \"description\": \"Looking for information on CaveDuel? Check out the release date (Nov 3, 2017), developer insights from Hemball Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 3, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hemball Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hemball Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/706310/header.jpg?t=1527460382\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

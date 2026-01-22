@@ -1,0 +1,21 @@
+{
+    "AppID": 2220740,
+    "Name": "GameVRoom",
+    "Release date": "Dec 15, 2022",
+    "About the game": "Ever dreamt of playing your non-VR games from Steam using your VR headset? With GameVRoom you can invite up to three friends for multiplayer gaming sessions on a big screen, set up personalized controller bindings, gestures or even build your own control room with virtual props! COUCH GAMING WITH FRIENDS FROM AFAR GameVRoom provides a new type of social experience for playing non-VR games in VR: Invite up to three friends in multiplayer mode - only the host needs to own the non-VR game. Play split-screen in “couch co-op”, spectate or control different parts of a single-player game. Talk with your friends over VOIP. Create private sessions or join other gamers in public rooms. TAILOR-MAKE YOUR GAMEPLAY EXPERIENCE Lots of unique tools and features give you the ability to: Emulate a mouse, keyboard, or gamepad for seamless movement in ways tailored for VR. Bind controller actions, poses and gestures like twisting your hand or reaching over your shoulder to perform actions on your PC. Create virtual buttons and place them anywhere in the environment to build your own control surface, then share your layouts in the community library. STILL IN EARLY ACCESS More tools, props and options for personalization will be added for you to play your favorite games in the most immersive ways! You may also encounter bugs that we'll work on fixing over the course of the Early Access period. Please provide your feedback and suggestions on what you would like to see added or fixed on the GameVRoom Discord server: You can also submit your feature requests or bug reports on our Feedback board, found here: /",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2220740/header.jpg?t=1671125928",
+    "Price": 8.99,
+    "Developers": "Really Interactive",
+    "Publishers": "Fast Travel Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2220740/ss_eaeb44111f95e45483511818b990ac4ffbbcbc11.1920x1080.jpg?t=1671125928,https://cdn.akamai.steamstatic.com/steam/apps/2220740/ss_07c2d5e3ce741f620649a422cfc74d11c8101379.1920x1080.jpg?t=1671125928,https://cdn.akamai.steamstatic.com/steam/apps/2220740/ss_0ad4fc6678004ffa2ce1d661f899a96fb7dda1db.1920x1080.jpg?t=1671125928,https://cdn.akamai.steamstatic.com/steam/apps/2220740/ss_28dc7ed6cfa04b517277950b5ea7ea991f6d4ee8.1920x1080.jpg?t=1671125928,https://cdn.akamai.steamstatic.com/steam/apps/2220740/ss_fc88c3c96c2f8452150a846daf23435ea74988cd.1920x1080.jpg?t=1671125928",
+    "Slug": "gamevroom",
+    "Meta Title": "GameVRoom: Dec 15, 2022, Really Interactive and Full Over...",
+    "Meta Description": "Looking for information on GameVRoom? Check out the release date (Dec 15, 2022), developer insights from Really Interactive, and a complete game summary.",
+    "Alt Text Image": "Official header image for GameVRoom game - Steam 2220740",
+    "Canonical URL": "https://gusku.site/game/gamevroom",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GameVRoom\", \"description\": \"Looking for information on GameVRoom? Check out the release date (Dec 15, 2022), developer insights from Really Interactive, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 15, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Really Interactive\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Fast Travel Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2220740/header.jpg?t=1671125928\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

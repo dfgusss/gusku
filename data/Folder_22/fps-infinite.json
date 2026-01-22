@@ -1,0 +1,21 @@
+{
+    "AppID": 1256380,
+    "Name": "FPS Infinite",
+    "Release date": "Mar 16, 2020",
+    "About the game": "Welcome to the infinite possibilities of Phr00t's Software! FPS Infinite is a full free game to introduce you to my ideals: lots of procedural generation, optional VR support and fun! FPS Infinite is a 'Metroidvania' (similar to Metroid Prime) where the enemies, weapons, levels and item placements are procedurally generated. You'll need to explore each unique world for new abilities, which will unlock new areas. Many abilities can be upgraded, but choose wisely -- do you extend your grappling hook or lengthen the time you can be invisible? Your goal is to find the Forbidden Phr00t in each world, which will trigger the world to blow up! You must escape safely in the dynamically calculated time to win. FPS Infinite supports Custom Game Modes and a Speedrunning mode that will automatically calculate time splits. Vulkan is required, so make sure you have the latest GPU drivers! 64-bit OS also required! Binaries are provided also for Mac and Linux, which have been tested to work, but support is low. Virtual Reality is only supported on 64-bit Windows 10 with SteamVR.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1256380/header.jpg?t=1584364540",
+    "Price": 0.0,
+    "Developers": "Phr00t's Software",
+    "Publishers": "Phr00t's Software",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1256380/ss_981a23033fa91e8613a795c31deef639123c90af.1920x1080.jpg?t=1584364540,https://cdn.akamai.steamstatic.com/steam/apps/1256380/ss_9b53cf62ae6c71ada6f6b982faaf6cd3645c9b26.1920x1080.jpg?t=1584364540,https://cdn.akamai.steamstatic.com/steam/apps/1256380/ss_bdeab6ff1aba0ca5f3d22191e8def282530928e9.1920x1080.jpg?t=1584364540,https://cdn.akamai.steamstatic.com/steam/apps/1256380/ss_a20a566f69643c49915fd4fc695d09ea5cc76038.1920x1080.jpg?t=1584364540,https://cdn.akamai.steamstatic.com/steam/apps/1256380/ss_8639098fb8177488701397e372cbe217d133bff2.1920x1080.jpg?t=1584364540",
+    "Slug": "fps-infinite",
+    "Meta Title": "FPS Infinite: Mar 16, 2020, Phr00t's Software and Full Ov...",
+    "Meta Description": "Looking for information on FPS Infinite? Check out the release date (Mar 16, 2020), developer insights from Phr00t's Software, and a complete game summary.",
+    "Alt Text Image": "Official header image for FPS Infinite game - Steam 1256380",
+    "Canonical URL": "https://gusku.site/game/fps-infinite",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"FPS Infinite\", \"description\": \"Looking for information on FPS Infinite? Check out the release date (Mar 16, 2020), developer insights from Phr00t's Software, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 16, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Phr00t's Software\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Phr00t's Software\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1256380/header.jpg?t=1584364540\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

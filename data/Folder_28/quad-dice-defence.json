@@ -1,0 +1,21 @@
+{
+    "AppID": 1892550,
+    "Name": "Quad Dice Defence",
+    "Release date": "Apr 13, 2022",
+    "About the game": "This is a tower defense game where you use four dice to build a turret. Place your turrets and destroy the square enemies that are attacking you! The ability value of a turret is determined by the roll of the dice you place on it. The rolls of dice that can be placed are displayed up to four moves ahead. Always think ahead and set up your turrets efficiently to clear the increasingly difficult stages! Features This is a tower defense game. Enemies will take a predetermined route towards the tower, so destroy them! Click the mouse to place the dice in that location. Place the four dice in a square to turn it into a turret. The combination of the dice determines the turret's ability values, such as 'number of shots', 'time reload', 'damage(&amp; range)' and 'magazine'. The roll of the die to be placed is shown up to four moves ahead. Destroying enemies earns you money and score. It costs money to place dice, so the more money you have, the more times you can place dice. Each time you clear a stage, you can get an item. Items include increasing the number of dice placed, increasing the durability value of towers, and reducing the cost of rolling dice, so make the best choice for your situation!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1892550/header.jpg?t=1650531952",
+    "Price": 4.99,
+    "Developers": "Chessmat",
+    "Publishers": "Chessmat",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1892550/ss_ea939f49467557242af06c0f565e9285e865684d.1920x1080.jpg?t=1650531952,https://cdn.akamai.steamstatic.com/steam/apps/1892550/ss_60f6c78d3b44b00218b4a41ec227f6ed79bd3524.1920x1080.jpg?t=1650531952,https://cdn.akamai.steamstatic.com/steam/apps/1892550/ss_3654a297840b4a90113ec3eec3cf56beb7e758b7.1920x1080.jpg?t=1650531952,https://cdn.akamai.steamstatic.com/steam/apps/1892550/ss_d6dd03cab6700b619c8a1b13bdde9995a9635be0.1920x1080.jpg?t=1650531952,https://cdn.akamai.steamstatic.com/steam/apps/1892550/ss_7bc5c1e46fe23d1a25e5067345895a716cdc3a5b.1920x1080.jpg?t=1650531952",
+    "Slug": "quad-dice-defence",
+    "Meta Title": "Quad Dice Defence: Apr 13, 2022, Chessmat and Full Overview",
+    "Meta Description": "Looking for information on Quad Dice Defence? Check out the release date (Apr 13, 2022), developer insights from Chessmat, and a complete game summary.",
+    "Alt Text Image": "Official header image for Quad Dice Defence game - Steam 1892550",
+    "Canonical URL": "https://gusku.site/game/quad-dice-defence",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Quad Dice Defence\", \"description\": \"Looking for information on Quad Dice Defence? Check out the release date (Apr 13, 2022), developer insights from Chessmat, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 13, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Chessmat\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Chessmat\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1892550/header.jpg?t=1650531952\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

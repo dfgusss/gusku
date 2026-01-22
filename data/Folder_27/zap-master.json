@@ -1,0 +1,21 @@
+{
+    "AppID": 679860,
+    "Name": "ZAP Master",
+    "Release date": "Sep 1, 2017",
+    "About the game": "ZAP Master is a 2D, abstract art, base defense/bullet hell game where players click to zap incoming enemies. Enemies spawn in and travel down radial lanes, and if one reaches the end of the lane, it's game over! The game also allows you to record your scores, so challenge yourself with players from all over the world and see who has the best reflexes!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/679860/header.jpg?t=1589277491",
+    "Price": 0.99,
+    "Developers": "Zapping Studios",
+    "Publishers": "Zapping Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/679860/ss_8aafbf5137cb123e3d238f8b09da0012941568f7.1920x1080.jpg?t=1589277491,https://cdn.akamai.steamstatic.com/steam/apps/679860/ss_f89cb62ee3ec2685a3a0f34b06b70690fa081999.1920x1080.jpg?t=1589277491,https://cdn.akamai.steamstatic.com/steam/apps/679860/ss_36843acdf669a77e2ef26e2807f50324ed075924.1920x1080.jpg?t=1589277491,https://cdn.akamai.steamstatic.com/steam/apps/679860/ss_87829f03bbb3e9dfbe81634423b2ee088ec0f53d.1920x1080.jpg?t=1589277491,https://cdn.akamai.steamstatic.com/steam/apps/679860/ss_3b1f51b79332b067b4f9b9be702f96d545d202e2.1920x1080.jpg?t=1589277491,https://cdn.akamai.steamstatic.com/steam/apps/679860/ss_2b02fe75858d8848268c1ce62ce4b7c71736d278.1920x1080.jpg?t=1589277491",
+    "Slug": "zap-master",
+    "Meta Title": "ZAP Master: Sep 1, 2017, Zapping Studios and Full Overview",
+    "Meta Description": "Looking for information on ZAP Master? Check out the release date (Sep 1, 2017), developer insights from Zapping Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for ZAP Master game - Steam 679860",
+    "Canonical URL": "https://gusku.site/game/zap-master",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ZAP Master\", \"description\": \"Looking for information on ZAP Master? Check out the release date (Sep 1, 2017), developer insights from Zapping Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Zapping Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Zapping Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/679860/header.jpg?t=1589277491\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2266940,
+    "Name": "PngTuber Maker",
+    "Release date": "Jan 25, 2023",
+    "About the game": "What is a PNGTuber? PNGTubers are a type of VTuber who use 2D PNGs as their virtual avatars. The avatar characters are often drawn with several emotions and talking animations for reacting to content and use sound-reactive software to make it appear as if they're talking throughout the video. PNGTubers became increasingly popularized throughout 2021 and early 2022. What is PNGTuber Maker? PngTuber Maker is a free pngtuber software that can help everyone become pngtuber with few easy steps. You can make a pngtuber avatar by uploading several PNG format pictures of avatar emotions, and PngTuber Maker will detect the surrounding sounds to switch different emotion picture, it makes the virtual avatar is talking. We also provide other features, such as backgrounds, avatar accessories, switching animation, virtual camera, desktop mascot etc. Feature List 1. Sound Detection 2. PNGTuber Avatar Animation 3. Emotion Switch Animation 4. Avatar Accessories 5. Virtual Camera 6. Desktop Mascot How to use PngTuber Maker? 1. Firstly you must upload two png images that contain different expressions of avatar at least. 2. Secondly you need a microphone at least, set the sound threshold, and test the picture effect of speaking. 3. If you need a more realistic effect, add more avatar state pictures to optimize the speaking effect. 4. Then you can set the picture background, avatar dress up to play your endless creativity. 5. Lastly export avatar to desktop or use virtual camera to apply avatar animation to video stream.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2266940/header.jpg?t=1674701203",
+    "Price": 0.0,
+    "Developers": "YiMeta",
+    "Publishers": "YiMeta",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2266940/ss_3ebc15f890baeefa3323b5d3daf1f2dd8334c08f.1920x1080.jpg?t=1674701203,https://cdn.akamai.steamstatic.com/steam/apps/2266940/ss_1d44c0d00e9af81b084e9afbb775f1aff0af260e.1920x1080.jpg?t=1674701203,https://cdn.akamai.steamstatic.com/steam/apps/2266940/ss_38e13c1f783d1be09ef9335b1c1e5d5efcbf46f8.1920x1080.jpg?t=1674701203,https://cdn.akamai.steamstatic.com/steam/apps/2266940/ss_b6daa2c4cc66392fcd7146361ebf9150eefd1914.1920x1080.jpg?t=1674701203,https://cdn.akamai.steamstatic.com/steam/apps/2266940/ss_c7215ef553b1608c0be2486b77d5d354ee90dcec.1920x1080.jpg?t=1674701203",
+    "Slug": "pngtuber-maker",
+    "Meta Title": "PngTuber Maker: Jan 25, 2023, YiMeta and Full Overview",
+    "Meta Description": "Looking for information on PngTuber Maker? Check out the release date (Jan 25, 2023), developer insights from YiMeta, and a complete game summary.",
+    "Alt Text Image": "Official header image for PngTuber Maker game - Steam 2266940",
+    "Canonical URL": "https://gusku.site/game/pngtuber-maker",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"PngTuber Maker\", \"description\": \"Looking for information on PngTuber Maker? Check out the release date (Jan 25, 2023), developer insights from YiMeta, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 25, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"YiMeta\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"YiMeta\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2266940/header.jpg?t=1674701203\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

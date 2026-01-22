@@ -1,0 +1,21 @@
+{
+    "AppID": 871590,
+    "Name": "Nurikabe",
+    "Release date": "Aug 1, 2018",
+    "About the game": "Nurikabe is a minimalist logic puzzle from Japan. The goal is to determine which tiles are part of the white islands and which are part of the black sea. Unwind as you solve these challenging puzzles. Includes over 50,000 unique puzzles 5 levels of difficulty",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/871590/header.jpg?t=1533130271",
+    "Price": 0.99,
+    "Developers": "Without Haste",
+    "Publishers": "Without Haste, LLC",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/871590/ss_0cc73870963996a47799cf9f73a7fdfef5edd896.1920x1080.jpg?t=1533130271,https://cdn.akamai.steamstatic.com/steam/apps/871590/ss_6fae54f786a4f4253805614bff375e5852d66e8b.1920x1080.jpg?t=1533130271,https://cdn.akamai.steamstatic.com/steam/apps/871590/ss_437af8de0b4552335117afe777ed77c7e3418fc7.1920x1080.jpg?t=1533130271,https://cdn.akamai.steamstatic.com/steam/apps/871590/ss_ba28aeaac77fa050801438f1a2062c5525518934.1920x1080.jpg?t=1533130271,https://cdn.akamai.steamstatic.com/steam/apps/871590/ss_a7668b15b7d0b58d3cff9b2b789abc5409d439ff.1920x1080.jpg?t=1533130271",
+    "Slug": "nurikabe",
+    "Meta Title": "Nurikabe: Aug 1, 2018, Without Haste and Full Overview",
+    "Meta Description": "Looking for information on Nurikabe? Check out the release date (Aug 1, 2018), developer insights from Without Haste, and a complete game summary.",
+    "Alt Text Image": "Official header image for Nurikabe game - Steam 871590",
+    "Canonical URL": "https://gusku.site/game/nurikabe",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Nurikabe\", \"description\": \"Looking for information on Nurikabe? Check out the release date (Aug 1, 2018), developer insights from Without Haste, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 1, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Without Haste\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Without Haste, LLC\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/871590/header.jpg?t=1533130271\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

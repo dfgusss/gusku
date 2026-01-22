@@ -1,0 +1,21 @@
+{
+    "AppID": 2088670,
+    "Name": "Puzzline",
+    "Release date": "Nov 4, 2022",
+    "About the game": "You can ask questions or request matching through the official Discord listed on info tab. [Rules] Puzzline is a board game connecting cards like a puzzle! Each card has a puzzle-like 'Shape' and a special 'Effect'. You can play a card that connect with the card on board. Cards with stronger effect are harder to play, so play the game to keep balance of your hand. Some cards have bad effect, but no worries. Let's pass those useless cards to other players! The first player who uses up all the hand wins! [Game Modes] There are two types of decks: the 'Casual Deck' with fewer card types &amp; simpler effects, and the 'Standard Deck' with more card types &amp; more strategic effects. I recommend you to play 'Casual' at first, and when you get used to it, try the 'Standard'! Changing decks will greatly change the game strategy! And there are also two types of score limit: 'One Round' and '100 Points'. [Online Match] You can play with players from all over the world, and make private match by using password. You can also add NPCs to fill match!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2088670/header.jpg?t=1667552183",
+    "Price": 3.59,
+    "Developers": "Aineko Games",
+    "Publishers": "Aineko Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2088670/ss_3490cec2c599d0e6f9d699f201075c5958968506.1920x1080.jpg?t=1667552183,https://cdn.akamai.steamstatic.com/steam/apps/2088670/ss_0494ded400e58e3ffff2345488603643090937d1.1920x1080.jpg?t=1667552183,https://cdn.akamai.steamstatic.com/steam/apps/2088670/ss_4d1e8f579678662f4a1be2bb5060811ca77b2620.1920x1080.jpg?t=1667552183,https://cdn.akamai.steamstatic.com/steam/apps/2088670/ss_5b92b62116d878eba7c18b01115e9f8f41701592.1920x1080.jpg?t=1667552183,https://cdn.akamai.steamstatic.com/steam/apps/2088670/ss_4787796620f692381822833332d03b1fe72718a8.1920x1080.jpg?t=1667552183,https://cdn.akamai.steamstatic.com/steam/apps/2088670/ss_99248e3c87a0b5ab5dbc08ac3ef93fa94a30f6a0.1920x1080.jpg?t=1667552183",
+    "Slug": "puzzline",
+    "Meta Title": "Puzzline: Nov 4, 2022, Aineko Games and Full Overview",
+    "Meta Description": "Looking for information on Puzzline? Check out the release date (Nov 4, 2022), developer insights from Aineko Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for Puzzline game - Steam 2088670",
+    "Canonical URL": "https://gusku.site/game/puzzline",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Puzzline\", \"description\": \"Looking for information on Puzzline? Check out the release date (Nov 4, 2022), developer insights from Aineko Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 4, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Aineko Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Aineko Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2088670/header.jpg?t=1667552183\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.59, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

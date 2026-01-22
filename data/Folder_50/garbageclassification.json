@@ -1,0 +1,21 @@
+{
+    "AppID": 1117150,
+    "Name": "GarbageClassification",
+    "Release date": "Aug 11, 2019",
+    "About the game": "本游戏中包含丰富的垃圾种类，如干垃圾，湿垃圾，可回收垃圾和有害垃圾四种，每种垃圾对应数个实体物品，满足当前市场上既有垃圾分类的全部操作。通过本程序的体验，可以让自己对现实生活中的垃圾更加敏感，让垃圾投放更加方便快捷。场景体验分为两种，一种是PC端，通过点击来投放垃圾；另一种是通过VR虚拟现实体验，让人真正的融入到真实的场景环境当中，更加逼真的模拟投放垃圾的一些相关操作。在体验时，会根据你的投放而打分，用来鼓励正确的投放。",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1117150/header.jpg?t=1565517187",
+    "Price": 2.99,
+    "Developers": "个人",
+    "Publishers": "个人",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1117150/ss_c2766d84ddca9d5c899ce4aa6dc5072fcbe24edf.1920x1080.jpg?t=1565517187,https://cdn.akamai.steamstatic.com/steam/apps/1117150/ss_22a9d207835077ca2841f6468f27522cc9a5889a.1920x1080.jpg?t=1565517187,https://cdn.akamai.steamstatic.com/steam/apps/1117150/ss_1d3d13993c8b59c1aaaa9236244e0951998ef02d.1920x1080.jpg?t=1565517187,https://cdn.akamai.steamstatic.com/steam/apps/1117150/ss_36bf6c20721c4bde76e5cb2b4489413fdfe661bb.1920x1080.jpg?t=1565517187,https://cdn.akamai.steamstatic.com/steam/apps/1117150/ss_4a67126168ac18b9509288f7006b1b14a0ca2808.1920x1080.jpg?t=1565517187",
+    "Slug": "garbageclassification",
+    "Meta Title": "GarbageClassification: Aug 11, 2019, 个人 and Full Overview",
+    "Meta Description": "Looking for information on GarbageClassification? Check out the release date (Aug 11, 2019), developer insights from 个人, and a complete game summary.",
+    "Alt Text Image": "Official header image for GarbageClassification game - Steam 1117150",
+    "Canonical URL": "https://gusku.site/game/garbageclassification",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GarbageClassification\", \"description\": \"Looking for information on GarbageClassification? Check out the release date (Aug 11, 2019), developer insights from \\u4e2a\\u4eba, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 11, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u4e2a\\u4eba\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u4e2a\\u4eba\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1117150/header.jpg?t=1565517187\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

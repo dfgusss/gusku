@@ -1,0 +1,21 @@
+{
+    "AppID": 579920,
+    "Name": "Swatcher",
+    "Release date": "Jan 13, 2017",
+    "About the game": "Swatcher is a color palette creation tool with a variety of features to streamline, organize and automate the process for you. Swatcher allows you to: Use a variety of options and settings to quickly generate different color harmonies and shades Rapidly design and organize your project's color schemes Ctrl+click any saved color to copy it's hex code to the clipboard Quickly convert between hex codes, rgb, hsv, and cmyk Save and load your color project in an easily-editable JSON file",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/579920/header.jpg?t=1499695272",
+    "Price": 4.99,
+    "Developers": "Frozen Flame",
+    "Publishers": "Frozen Flame",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/579920/ss_aa641fca6eea5924e9682dfdeab96950b1f86d09.1920x1080.jpg?t=1499695272,https://cdn.akamai.steamstatic.com/steam/apps/579920/ss_9377a2c283b2ae70d5473eecf28961236ad29bfb.1920x1080.jpg?t=1499695272,https://cdn.akamai.steamstatic.com/steam/apps/579920/ss_d0938fa5fdb74092948aa261086d46ddda8582d6.1920x1080.jpg?t=1499695272,https://cdn.akamai.steamstatic.com/steam/apps/579920/ss_4ae0eb0e9b9c874fae7b584f1998e08523973459.1920x1080.jpg?t=1499695272,https://cdn.akamai.steamstatic.com/steam/apps/579920/ss_599393f701964596f7988c48754c139e9a89187f.1920x1080.jpg?t=1499695272,https://cdn.akamai.steamstatic.com/steam/apps/579920/ss_2889b10be3246edb1875b64db8740d3c89ed1f83.1920x1080.jpg?t=1499695272",
+    "Slug": "swatcher",
+    "Meta Title": "Swatcher: Jan 13, 2017, Frozen Flame and Full Overview",
+    "Meta Description": "Looking for information on Swatcher? Check out the release date (Jan 13, 2017), developer insights from Frozen Flame, and a complete game summary.",
+    "Alt Text Image": "Official header image for Swatcher game - Steam 579920",
+    "Canonical URL": "https://gusku.site/game/swatcher",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Swatcher\", \"description\": \"Looking for information on Swatcher? Check out the release date (Jan 13, 2017), developer insights from Frozen Flame, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 13, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Frozen Flame\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Frozen Flame\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/579920/header.jpg?t=1499695272\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

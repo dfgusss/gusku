@@ -1,0 +1,21 @@
+{
+    "AppID": 2141900,
+    "Name": "Ravyne",
+    "Release date": "Nov 20, 2022",
+    "About the game": "Sparked by rumours of a wondrous treasure located somewhere over the hills, in the treacherous ravines beyond. You begin your adventure in search of 'the mythical artifact'. An object able to grant the holder untold power. You must explore the perilous terrain of the ravines to collect treasures to power yourself up, while defending yourself from dangerous foes along the way. Best of luck to you, brave adventurer. Ravyne is a roguelike game that takes design inspiration from the classic roguelikes of the 80s. Designed to emulate the style of games like Rogue, it runs entirely in the Windows console, and uses text based graphics. However, unlike those classic dungeon crawling roguelikes, Ravyne takes place in a randomly generated overworld, instead of an underground dungeon. In Ravyne you are able to explore more natural looking terrain, and even dig through it when necessary.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2141900/header.jpg?t=1668989144",
+    "Price": 2.99,
+    "Developers": "Nicholas Rinella",
+    "Publishers": "Nicholas Rinella",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2141900/ss_241b7b5af0daa90bf8baf5a2222e6c6a80ad1322.1920x1080.jpg?t=1668989144,https://cdn.akamai.steamstatic.com/steam/apps/2141900/ss_8e6077e733b33896bb52904a9598f5eb65f7e9eb.1920x1080.jpg?t=1668989144,https://cdn.akamai.steamstatic.com/steam/apps/2141900/ss_8595ce5cfab14bbdd1a17632b169eee6fad02f83.1920x1080.jpg?t=1668989144,https://cdn.akamai.steamstatic.com/steam/apps/2141900/ss_1ebf2d7c925a313b75297a3902798a2063655a09.1920x1080.jpg?t=1668989144,https://cdn.akamai.steamstatic.com/steam/apps/2141900/ss_ee1ff004ec8f9ff4302c6db8efac2e4f002d780c.1920x1080.jpg?t=1668989144,https://cdn.akamai.steamstatic.com/steam/apps/2141900/ss_a914acbec69707397c00e703ce78435548e1240b.1920x1080.jpg?t=1668989144,https://cdn.akamai.steamstatic.com/steam/apps/2141900/ss_e1dda336c5a37a70c7e8e470f6f030cb043ec639.1920x1080.jpg?t=1668989144",
+    "Slug": "ravyne",
+    "Meta Title": "Ravyne: Nov 20, 2022, Nicholas Rinella and Full Overview",
+    "Meta Description": "Looking for information on Ravyne? Check out the release date (Nov 20, 2022), developer insights from Nicholas Rinella, and a complete game summary.",
+    "Alt Text Image": "Official header image for Ravyne game - Steam 2141900",
+    "Canonical URL": "https://gusku.site/game/ravyne",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Ravyne\", \"description\": \"Looking for information on Ravyne? Check out the release date (Nov 20, 2022), developer insights from Nicholas Rinella, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 20, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Nicholas Rinella\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Nicholas Rinella\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2141900/header.jpg?t=1668989144\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

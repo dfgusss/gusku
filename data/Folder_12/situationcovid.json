@@ -1,0 +1,21 @@
+{
+    "AppID": 1388380,
+    "Name": "SituationCovid",
+    "Release date": "Sep 4, 2020",
+    "About the game": "In these unprecedented times, we are all fearful for the well being of our friends and family. We obsess over the latest spread of the virus and are glued to our phones, trying to find the latest bit of information. Enter Situation Covid, the one stop place to catch up on the latest spread and statistics dealing with the Covid virus. Situation Covid allows the user to map the historic and current spread of the virus and to slice and dice the data in various ways. The application allows the user to zoom in to various states and counties in the US and display statistics on a number of dimensions such as number of deaths and infections, the rate per 100K population etc. The application also lets the user view the trends across the country or various states and counties since January. Please note that the Covid data is currently only for the United States of America. We plan on adding more countries in a future update.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1388380/header.jpg?t=1599511160",
+    "Price": 4.99,
+    "Developers": "hashfunction",
+    "Publishers": "hashfunction",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1388380/ss_e0075d732f18ac6f0dcef39ecdf0819f7d383c74.1920x1080.jpg?t=1599511160,https://cdn.akamai.steamstatic.com/steam/apps/1388380/ss_75dbf2e272e81d7dd4046fe5fdeac28d2e80d565.1920x1080.jpg?t=1599511160,https://cdn.akamai.steamstatic.com/steam/apps/1388380/ss_ce6d276fa80806679d8ab7a6dfad1608e1346434.1920x1080.jpg?t=1599511160,https://cdn.akamai.steamstatic.com/steam/apps/1388380/ss_9f8c695d01108c2fc0859e58b6aa9abdedba6c48.1920x1080.jpg?t=1599511160,https://cdn.akamai.steamstatic.com/steam/apps/1388380/ss_a389f3d837f8165551dd86cc09da1b200164e173.1920x1080.jpg?t=1599511160,https://cdn.akamai.steamstatic.com/steam/apps/1388380/ss_561a8b34838de37c67d6a3175bb06519e7728be5.1920x1080.jpg?t=1599511160",
+    "Slug": "situationcovid",
+    "Meta Title": "SituationCovid: Sep 4, 2020, hashfunction and Full Overview",
+    "Meta Description": "Looking for information on SituationCovid? Check out the release date (Sep 4, 2020), developer insights from hashfunction, and a complete game summary.",
+    "Alt Text Image": "Official header image for SituationCovid game - Steam 1388380",
+    "Canonical URL": "https://gusku.site/game/situationcovid",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SituationCovid\", \"description\": \"Looking for information on SituationCovid? Check out the release date (Sep 4, 2020), developer insights from hashfunction, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 4, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"hashfunction\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"hashfunction\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1388380/header.jpg?t=1599511160\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

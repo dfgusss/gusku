@@ -1,0 +1,21 @@
+{
+    "AppID": 850110,
+    "Name": "Number Guesser",
+    "Release date": "May 8, 2018",
+    "About the game": "This is a game based on 'Bulls and Cows', and I don't have much content to say, just give you a funny one!! When a number and position are both correct, you'll get an 'A', and when a number is correct, but the position is wrong, you'll get a 'B'. According to how many 'A' and 'B' you got in before turns, you'll guess the answer. In the game, you can: --play Bulls and Cows with 3, 4, or 5 digit numbers; --a timer can record how long the time you use to success; --a pace counter can record how many paces you use; --make your success result to a local rankings save file; --play while listening a classic music; --with your friends, play the game one by one, and see who's the best and cleverest. Who's Jether? He is just a different guy in China.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/850110/header.jpg?t=1572410338",
+    "Price": 0.59,
+    "Developers": "Jether",
+    "Publishers": "Jether",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/850110/ss_60b3a0dfd57bfff25513e0ee6779d7453e0bafcb.1920x1080.jpg?t=1572410338,https://cdn.akamai.steamstatic.com/steam/apps/850110/ss_bff946036267aae3fc687745ca7252c60ead704f.1920x1080.jpg?t=1572410338,https://cdn.akamai.steamstatic.com/steam/apps/850110/ss_bae94edf150e01c2b8bd6f9f6511f850ea1353f4.1920x1080.jpg?t=1572410338,https://cdn.akamai.steamstatic.com/steam/apps/850110/ss_c65d037317c94810fc0e686fb2ec2bea596c1ab2.1920x1080.jpg?t=1572410338,https://cdn.akamai.steamstatic.com/steam/apps/850110/ss_d47845bfd96e3126581dbbf7cde8d387d7136c4b.1920x1080.jpg?t=1572410338",
+    "Slug": "number-guesser",
+    "Meta Title": "Number Guesser: May 8, 2018, Jether and Full Overview",
+    "Meta Description": "Looking for information on Number Guesser? Check out the release date (May 8, 2018), developer insights from Jether, and a complete game summary.",
+    "Alt Text Image": "Official header image for Number Guesser game - Steam 850110",
+    "Canonical URL": "https://gusku.site/game/number-guesser",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Number Guesser\", \"description\": \"Looking for information on Number Guesser? Check out the release date (May 8, 2018), developer insights from Jether, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 8, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jether\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jether\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/850110/header.jpg?t=1572410338\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.59, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

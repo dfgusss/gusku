@@ -1,0 +1,21 @@
+{
+    "AppID": 1184900,
+    "Name": "Unitied",
+    "Release date": "Nov 27, 2019",
+    "About the game": "Unitied is a minimalistic &amp; relaxing puzzle game. The simple goal is to finish all blocks. You do so by moving all blocks in one direction: up, left, down or right. The blocks have to use each other to be able to finish. There are 50 levels, increasing in difficulty.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1184900/header.jpg?t=1591376205",
+    "Price": 0.99,
+    "Developers": "Peter Hijma",
+    "Publishers": "Peter Hijma",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1184900/ss_fef3997ae3d4e97864110d67257bbbcb3a1a7bf9.1920x1080.jpg?t=1591376205,https://cdn.akamai.steamstatic.com/steam/apps/1184900/ss_7a0c0636afbbc319bfaf49c6c40059774e6d58a0.1920x1080.jpg?t=1591376205,https://cdn.akamai.steamstatic.com/steam/apps/1184900/ss_9c8ce7e294855feec12a32008a722156e9bbadda.1920x1080.jpg?t=1591376205,https://cdn.akamai.steamstatic.com/steam/apps/1184900/ss_b17f29e68fa76a000a4e7ed295f98b40b947f56d.1920x1080.jpg?t=1591376205,https://cdn.akamai.steamstatic.com/steam/apps/1184900/ss_e2c48832fc7f7084834e96efba158ed2faff382c.1920x1080.jpg?t=1591376205",
+    "Slug": "unitied",
+    "Meta Title": "Unitied: Nov 27, 2019, Peter Hijma and Full Overview",
+    "Meta Description": "Looking for information on Unitied? Check out the release date (Nov 27, 2019), developer insights from Peter Hijma, and a complete game summary.",
+    "Alt Text Image": "Official header image for Unitied game - Steam 1184900",
+    "Canonical URL": "https://gusku.site/game/unitied",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Unitied\", \"description\": \"Looking for information on Unitied? Check out the release date (Nov 27, 2019), developer insights from Peter Hijma, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 27, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Peter Hijma\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Peter Hijma\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1184900/header.jpg?t=1591376205\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

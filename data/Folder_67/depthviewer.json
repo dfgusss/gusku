@@ -1,0 +1,21 @@
+{
+    "AppID": 2218510,
+    "Name": "DepthViewer",
+    "Release date": "Nov 30, 2022",
+    "About the game": "Creates 3D VR scenes from 2D input using depth estimation machine learning model. Takes any images or videos, estimates the depth using MiDaS model, and draws it in the 3D space for your VR HMD! You can save the depthmap output to use it later, record a 3D VR video to upload on Youtube. This program also can fetch the screen of your desktop and show the depth.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2218510/header.jpg?t=1669796966",
+    "Price": 0.0,
+    "Developers": "Chanjin Park",
+    "Publishers": "Chanjin Park",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2218510/ss_ef6230e4d4b2aabb203385f10b48e047324ced79.1920x1080.jpg?t=1669796966,https://cdn.akamai.steamstatic.com/steam/apps/2218510/ss_e09f890e503735e86a323823c70d8a9bb040e62c.1920x1080.jpg?t=1669796966,https://cdn.akamai.steamstatic.com/steam/apps/2218510/ss_1942ade5073cf07bb9559ca989d96422860a473a.1920x1080.jpg?t=1669796966,https://cdn.akamai.steamstatic.com/steam/apps/2218510/ss_b2fa2ca3737d05ae436b2b2ca8b1ada7f9e7757d.1920x1080.jpg?t=1669796966,https://cdn.akamai.steamstatic.com/steam/apps/2218510/ss_faf09437f9fc939fd45178abeffb0468d8827814.1920x1080.jpg?t=1669796966,https://cdn.akamai.steamstatic.com/steam/apps/2218510/ss_80a10dd76e264c0e90c7133645b529cd8d294f09.1920x1080.jpg?t=1669796966,https://cdn.akamai.steamstatic.com/steam/apps/2218510/ss_212ec69aa30013cfd075ced0a0ad398ae1c7d8eb.1920x1080.jpg?t=1669796966",
+    "Slug": "depthviewer",
+    "Meta Title": "DepthViewer: Nov 30, 2022, Chanjin Park and Full Overview",
+    "Meta Description": "Looking for information on DepthViewer? Check out the release date (Nov 30, 2022), developer insights from Chanjin Park, and a complete game summary.",
+    "Alt Text Image": "Official header image for DepthViewer game - Steam 2218510",
+    "Canonical URL": "https://gusku.site/game/depthviewer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"DepthViewer\", \"description\": \"Looking for information on DepthViewer? Check out the release date (Nov 30, 2022), developer insights from Chanjin Park, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 30, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Chanjin Park\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Chanjin Park\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2218510/header.jpg?t=1669796966\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

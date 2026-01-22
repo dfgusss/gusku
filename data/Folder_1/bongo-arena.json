@@ -1,0 +1,21 @@
+{
+    "AppID": 1564660,
+    "Name": "Bongo Arena",
+    "Release date": "Mar 15, 2021",
+    "About the game": "This is a turn-based strategy game with a twist on the traditional gameplay. The twist is, instead of directly controlling the characters IN THE BATTLE, you will be designing the strategies BEFORE THE BATTLE. When the battle begins, your units will follow exactly the strategy you defined, and all you can do then is just watching. Different challenges are presented in different levels. One strategy won't be able to defeat them all. You'll need to learn, adapt then conquer. Developer Note: This is my first game on Steam and I did this by myself. I wanted to avoid popular genres and do something different. Since this type of gameplay isn't popular, the game experience might be somewhat clunky. It's OK if you don't like the game and want to leave a bad review, but do leave your thoughts so that I could make this game better!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1564660/header.jpg?t=1616119278",
+    "Price": 0.0,
+    "Developers": "Da Bongo Studio",
+    "Publishers": "Da Bongo Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1564660/ss_c0f0ca102c10ee1bfc9928b92aca328e0f3d2b4a.1920x1080.jpg?t=1616119278,https://cdn.akamai.steamstatic.com/steam/apps/1564660/ss_535b15e407deec4b6a33f3b71dd5b3829fc1b39c.1920x1080.jpg?t=1616119278,https://cdn.akamai.steamstatic.com/steam/apps/1564660/ss_5c3544bfc68dce0ae1c779a1e8edd3a82e8cc5b3.1920x1080.jpg?t=1616119278,https://cdn.akamai.steamstatic.com/steam/apps/1564660/ss_519008d898ff426c45a34db05b2d7d1d0dcc961d.1920x1080.jpg?t=1616119278,https://cdn.akamai.steamstatic.com/steam/apps/1564660/ss_de099c82f79a69feef031a1bf60067f24eab2755.1920x1080.jpg?t=1616119278",
+    "Slug": "bongo-arena",
+    "Meta Title": "Bongo Arena: Mar 15, 2021, Da Bongo Studio and Full Overview",
+    "Meta Description": "Looking for information on Bongo Arena? Check out the release date (Mar 15, 2021), developer insights from Da Bongo Studio, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bongo Arena game - Steam 1564660",
+    "Canonical URL": "https://gusku.site/game/bongo-arena",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bongo Arena\", \"description\": \"Looking for information on Bongo Arena? Check out the release date (Mar 15, 2021), developer insights from Da Bongo Studio, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 15, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Da Bongo Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Da Bongo Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1564660/header.jpg?t=1616119278\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

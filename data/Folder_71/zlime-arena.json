@@ -1,0 +1,21 @@
+{
+    "AppID": 2308960,
+    "Name": "Zlime Arena",
+    "Release date": "Feb 27, 2023",
+    "About the game": "Welcome to Zlime Arena, the game that tests your strategy planning ability. Player Amount : Currently, Zlime Arena allows only single player vs AI. Basic Rule : A match consists of 15 rounds. Whoever wins 8 rounds will considered as the winner of the match. Drafting Each player can ban and pick 3 Zlimes each. Analyze the strengths and weaknesses of the Zlime to make sure that it is good for your team. You should pick the Zlimes carefully, as you cannot change them between the rounds. Preparation Each round, you will be provided with resources to buy the items for your Zlime. Some Zlimes are strong with certain items. Buy the necessary items for your Zlimes, or your team will be struggling in the battle. Setting their target priorities is also important, as you can choose to finish off the enemy injured Zlime or aim the tanky Zlime with the stackable debuffs. Arrange the position of the Zlimes wisely, so you could gain an advantage in battle. For example, Rod of Barrier can increase defense and magic defense to all allied Zlime in the back. This can make some Zlimes tougher in combat. Battle During the battle, you cannot command any of your Zlimes, as you have already told them how they should select their target. Just sit and watch how well your Zlimes perform in combat. Take the time to think how you can improve the strategy for the next round.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2308960/header.jpg?t=1677517301",
+    "Price": 8.99,
+    "Developers": "LaGiZ",
+    "Publishers": "LaGiZ",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2308960/ss_767bbb4d8d8060218e0498954afe2d2b52bd9994.1920x1080.jpg?t=1677517301,https://cdn.akamai.steamstatic.com/steam/apps/2308960/ss_decdfc4c6662622ed93ca010d7dd1c26d2a97619.1920x1080.jpg?t=1677517301,https://cdn.akamai.steamstatic.com/steam/apps/2308960/ss_c2bafa85cb1854a9cc30f96735a3f146455a8870.1920x1080.jpg?t=1677517301,https://cdn.akamai.steamstatic.com/steam/apps/2308960/ss_e081eabb789cf2538a14168b1d70b61b80bdd98c.1920x1080.jpg?t=1677517301,https://cdn.akamai.steamstatic.com/steam/apps/2308960/ss_f6334d8457e4757e8e095a8e47032df8f818f143.1920x1080.jpg?t=1677517301",
+    "Slug": "zlime-arena",
+    "Meta Title": "Zlime Arena: Feb 27, 2023, LaGiZ and Full Overview",
+    "Meta Description": "Looking for information on Zlime Arena? Check out the release date (Feb 27, 2023), developer insights from LaGiZ, and a complete game summary.",
+    "Alt Text Image": "Official header image for Zlime Arena game - Steam 2308960",
+    "Canonical URL": "https://gusku.site/game/zlime-arena",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Zlime Arena\", \"description\": \"Looking for information on Zlime Arena? Check out the release date (Feb 27, 2023), developer insights from LaGiZ, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 27, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"LaGiZ\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"LaGiZ\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2308960/header.jpg?t=1677517301\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

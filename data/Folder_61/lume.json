@@ -1,0 +1,21 @@
+{
+    "AppID": 105100,
+    "Name": "Lume",
+    "Release date": "May 9, 2011",
+    "About the game": "Lume : An illuminating puzzle adventure! With a set built entirely out of paper and cardboard, and sumptuously filmed, Lume is a game with a style unlike any other. Power to your grandad’s house has failed. What’s more, he’s nowhere to be seen. Immerse yourself in Lume’s photoreal world, solve perplexing paper puzzles to help restore the power, and uncover a deeper mystery behind the blackout. This game forms Part 1 of a larger, ongoing story.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/105100/header.jpg?t=1655210219",
+    "Price": 5.99,
+    "Developers": "State of Play",
+    "Publishers": "State of Play",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/105100/ss_4cd70c38765c97f8bcb90eb98ece8153ff447c9f.1920x1080.jpg?t=1655210219,https://cdn.akamai.steamstatic.com/steam/apps/105100/ss_f28e152f71d4a3f650ad9a0d8f6f2b176480ea2e.1920x1080.jpg?t=1655210219,https://cdn.akamai.steamstatic.com/steam/apps/105100/ss_451d4daa676aed9ae3cd76cff42d37502f407d86.1920x1080.jpg?t=1655210219,https://cdn.akamai.steamstatic.com/steam/apps/105100/ss_ab6f2d7b9395183abc03abb6d52fbdf11a1186ca.1920x1080.jpg?t=1655210219,https://cdn.akamai.steamstatic.com/steam/apps/105100/ss_ae9aee151d80d6088cd6ab687b079fcbe1ff7dc1.1920x1080.jpg?t=1655210219",
+    "Slug": "lume",
+    "Meta Title": "Lume: May 9, 2011, State of Play and Full Overview",
+    "Meta Description": "Looking for information on Lume? Check out the release date (May 9, 2011), developer insights from State of Play, and a complete game summary.",
+    "Alt Text Image": "Official header image for Lume game - Steam 105100",
+    "Canonical URL": "https://gusku.site/game/lume",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Lume\", \"description\": \"Looking for information on Lume? Check out the release date (May 9, 2011), developer insights from State of Play, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 9, 2011\", \"author\": {\"@type\": \"Organization\", \"name\": \"State of Play\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"State of Play\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/105100/header.jpg?t=1655210219\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

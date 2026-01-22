@@ -1,0 +1,21 @@
+{
+    "AppID": 1895630,
+    "Name": "VRM Posing Desktop",
+    "Release date": "Feb 27, 2022",
+    "About the game": "VRM Posing Desktop is a PC application that allows you to import your vrm files and make your 3D models pose the way you want. ## VRM Posing Desktop features You can import vrm files and use them in the app. A wide variety of characters are available even by default. Poses can be applied to 3D models from over 300 pose presets. User-to-user pose sharing with SteamWorkshop Support Multiple Model Rotating gizmos can be used to customize character poses. You can export images with a transparent background. The line of sight can be changed at will. An image can be set as the background. Mirror Editing of Poses. Save favorite poses. Facial expressions can be edited in detail. Hand shape presets VMC protocol support (VSeeFace and Unity integration) Ability to import and export pose data I'm actively updating this app and hope to make it better with you. The URL below is the update schedule. ## Recommended for People who want to use it as a reference material for illustration. Vtubers who want to pose their characters for thumbnails. I want to be healed by looking at my character. ## Why I developed this app I'm Evelyn GameDev, and I do indie development and run a Youtube channel. I use a model as my avatar in my activities. I created this application to help people who are using 3D models as their avatars in their creative activities, just like me.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1895630/header.jpg?t=1658238935",
+    "Price": 5.99,
+    "Developers": "Evelyn GameDev",
+    "Publishers": "Evelyn GameDev",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1895630/ss_8b63d7434163f237fc3d06e7236e42fac76e003b.1920x1080.jpg?t=1658238935,https://cdn.akamai.steamstatic.com/steam/apps/1895630/ss_1597c0ad9eabd702843494eec0b84cd3e61b360a.1920x1080.jpg?t=1658238935,https://cdn.akamai.steamstatic.com/steam/apps/1895630/ss_cbc3bc9750d6c044dfb2152dc81485cfb68cc699.1920x1080.jpg?t=1658238935,https://cdn.akamai.steamstatic.com/steam/apps/1895630/ss_e62d8b9d612ca642bf7fa39da36e7889aa1f4041.1920x1080.jpg?t=1658238935,https://cdn.akamai.steamstatic.com/steam/apps/1895630/ss_594bea8c658fabec2662cb23516912cd0fc25974.1920x1080.jpg?t=1658238935",
+    "Slug": "vrm-posing-desktop",
+    "Meta Title": "VRM Posing Desktop: Feb 27, 2022, Evelyn GameDev and Full...",
+    "Meta Description": "Looking for information on VRM Posing Desktop? Check out the release date (Feb 27, 2022), developer insights from Evelyn GameDev, and a complete game su...",
+    "Alt Text Image": "Official header image for VRM Posing Desktop game - Steam 1895630",
+    "Canonical URL": "https://gusku.site/game/vrm-posing-desktop",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VRM Posing Desktop\", \"description\": \"Looking for information on VRM Posing Desktop? Check out the release date (Feb 27, 2022), developer insights from Evelyn GameDev, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 27, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Evelyn GameDev\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Evelyn GameDev\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1895630/header.jpg?t=1658238935\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

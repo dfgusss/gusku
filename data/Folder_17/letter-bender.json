@@ -1,0 +1,21 @@
+{
+    "AppID": 1939690,
+    "Name": "Letter Bender",
+    "Release date": "Apr 5, 2022",
+    "About the game": "Letter Bender is a puzzle game that makes use of spelling and some basic algebra. The player is given a set of letters and asked to spell a certain word. The given letters can be transmuted using the given effects. You can turn your letters into vowels, reverse their orders in the alphabet, duplicate them and move them around. The initial 10 levels of the game display these transmutations rather clearly and then leaves the player to solve 80 more levels, for a total of 90 levels! Controls Mouse to select, move letters. R to reset the level.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1939690/header.jpg?t=1649158796",
+    "Price": 1.99,
+    "Developers": "cosmic_dust",
+    "Publishers": "cosmic_dust",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1939690/ss_11c60b3dcf088677b4bbcad0994837a2ea5dc03d.1920x1080.jpg?t=1649158796,https://cdn.akamai.steamstatic.com/steam/apps/1939690/ss_550291445090c17db943fd2c022c04ecbe0e5bd9.1920x1080.jpg?t=1649158796,https://cdn.akamai.steamstatic.com/steam/apps/1939690/ss_de8504c2ca98eb050e6c8e0a2b52ca7300f9d83d.1920x1080.jpg?t=1649158796,https://cdn.akamai.steamstatic.com/steam/apps/1939690/ss_fad68b68f0f7af43e7166cef8f768740ab3577d6.1920x1080.jpg?t=1649158796,https://cdn.akamai.steamstatic.com/steam/apps/1939690/ss_0e287f413805347c67146f62da80c54c2b0cbc1d.1920x1080.jpg?t=1649158796",
+    "Slug": "letter-bender",
+    "Meta Title": "Letter Bender: Apr 5, 2022, cosmic_dust and Full Overview",
+    "Meta Description": "Looking for information on Letter Bender? Check out the release date (Apr 5, 2022), developer insights from cosmic_dust, and a complete game summary.",
+    "Alt Text Image": "Official header image for Letter Bender game - Steam 1939690",
+    "Canonical URL": "https://gusku.site/game/letter-bender",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Letter Bender\", \"description\": \"Looking for information on Letter Bender? Check out the release date (Apr 5, 2022), developer insights from cosmic_dust, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 5, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"cosmic_dust\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"cosmic_dust\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1939690/header.jpg?t=1649158796\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

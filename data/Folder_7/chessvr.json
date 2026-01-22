@@ -1,0 +1,21 @@
+{
+    "AppID": 493380,
+    "Name": "ChessVR",
+    "Release date": "Jul 7, 2016",
+    "About the game": "Have you ever wanted to be in the actual chess board and look your adversary in the eyes? With ChessVR you will be able to do that. Get closer to your enemy's pieces, see the conflicts from a front-row seat and then move away to effectively plan your next move from a distance. Thanks to engaging video and sound animations, and the chance to freely move around, with ChessVR the game comes to life. You can easily move in all directions and make your moves by using either your gamepad or your vive controllers. Choose among 4 difficulty levels for your battles against the AI or try yourself at chess challenges! Key Featueres Supports gamepad as well as your vive controllers Move around freely Try yourself at chess challenges (Achieve a checkmate in 2 turns from a particular position) Comes by default with the Stockfish chess engine but you can use any chess engine that supports UCI Nice models and animations",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/493380/header.jpg?t=1477127597",
+    "Price": 4.99,
+    "Developers": "games.Sharbit",
+    "Publishers": "games.Sharbit",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/493380/ss_dbf39cd61cb378386f707e61484cf351ab325f07.1920x1080.jpg?t=1477127597,https://cdn.akamai.steamstatic.com/steam/apps/493380/ss_9e4aa86e8f9387d95ddc8d031f6f2f906595723a.1920x1080.jpg?t=1477127597,https://cdn.akamai.steamstatic.com/steam/apps/493380/ss_bbd6afce8cc599ad72b5c9a83640a11569d00245.1920x1080.jpg?t=1477127597,https://cdn.akamai.steamstatic.com/steam/apps/493380/ss_4d8ea5c9f7240373d16cd3386a3eef7d0096434e.1920x1080.jpg?t=1477127597,https://cdn.akamai.steamstatic.com/steam/apps/493380/ss_0e539ebd38419f2459016353fc74116479c88911.1920x1080.jpg?t=1477127597",
+    "Slug": "chessvr",
+    "Meta Title": "ChessVR: Jul 7, 2016, games.Sharbit and Full Overview",
+    "Meta Description": "Looking for information on ChessVR? Check out the release date (Jul 7, 2016), developer insights from games.Sharbit, and a complete game summary.",
+    "Alt Text Image": "Official header image for ChessVR game - Steam 493380",
+    "Canonical URL": "https://gusku.site/game/chessvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ChessVR\", \"description\": \"Looking for information on ChessVR? Check out the release date (Jul 7, 2016), developer insights from games.Sharbit, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 7, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"games.Sharbit\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"games.Sharbit\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/493380/header.jpg?t=1477127597\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

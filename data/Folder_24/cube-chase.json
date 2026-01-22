@@ -1,0 +1,21 @@
+{
+    "AppID": 1225680,
+    "Name": "Cube Chase",
+    "Release date": "Feb 20, 2020",
+    "About the game": "Cube Chase is a short but challenging 3D platformer; your primary goal is to reach the glowing golden cube while avoiding lethal and non-lethal obstacles. Challenge your reflexes, navigate obstacles, dodge guards and pass checkpoints to unlock new areas. Cube Chase is a simple but fun, quick and addictive game, designed when I was 12 to learn programming, after years of Minecraft command block creations. Use Z or W (forward), Q or A (left), S (backwards), D (right) and spacebar (jump) to move. Key Features Lethal obstacles send you back to your spawn point: Guards Spikes Chasers Reaching one of the other glowing colored cubes sets your spawn point there and unlocks a new area. Reaching the golden cube unlocks the next level, (harder of course!), 5 in total. Dev Notes I started making this game when I was 12 as a fun way to learn more about programming and game design. I worked really hard on it for about a year, and was tempted to polish it more, but I’ve moved on to other projects so just want to release it here for my friends to play. I previewed it with my youth group who loved it, and I appreciate their encouragement - thanks everyone =) I’m now 14 and while this game is far from perfect I poured many hours into it, I hope you enjoy it!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1225680/header.jpg?t=1582218347",
+    "Price": 0.0,
+    "Developers": "Dtmss",
+    "Publishers": "Dtmss",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1225680/ss_6121172b2034fa8b12525d31fe92a765000c91a4.1920x1080.jpg?t=1582218347,https://cdn.akamai.steamstatic.com/steam/apps/1225680/ss_8abd73a1cc012133040dba85a4cb16b2a4717552.1920x1080.jpg?t=1582218347,https://cdn.akamai.steamstatic.com/steam/apps/1225680/ss_a4e159273e9b5d136654d1e85de8ae853c041c70.1920x1080.jpg?t=1582218347,https://cdn.akamai.steamstatic.com/steam/apps/1225680/ss_e48c61b580654e042241dd2c6f866ad4b57f8636.1920x1080.jpg?t=1582218347,https://cdn.akamai.steamstatic.com/steam/apps/1225680/ss_bd24caf5c76e102404e9f67cfe496c34b034a7d2.1920x1080.jpg?t=1582218347",
+    "Slug": "cube-chase",
+    "Meta Title": "Cube Chase: Feb 20, 2020, Dtmss and Full Overview",
+    "Meta Description": "Looking for information on Cube Chase? Check out the release date (Feb 20, 2020), developer insights from Dtmss, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cube Chase game - Steam 1225680",
+    "Canonical URL": "https://gusku.site/game/cube-chase",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cube Chase\", \"description\": \"Looking for information on Cube Chase? Check out the release date (Feb 20, 2020), developer insights from Dtmss, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 20, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dtmss\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dtmss\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1225680/header.jpg?t=1582218347\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1285820,
+    "Name": "Virus Kombat",
+    "Release date": "May 12, 2020",
+    "About the game": "This is a simple game, retro style, with pixelated graphics, monophonic audio, easy commands and good gameplay, using only the directional keys on your keyboard or a USB control you must collect the vials with the medicines that will appear in the scenario, after that go to the hospital to create the vaccine to defeat the virus. The game has two portals, one on each side of the scene, where the player can teleport from side to side of the scene in order to escape the virus. At the beginning of the game, the player must collect 10 vials to produce the cure and at each completed level, 5 more vials will be added to the count. After 10 levels of difficulty have been completed, the virus is completely eliminated and the game is ended, saving the player's score in home screen.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1285820/header.jpg?t=1658412203",
+    "Price": 0.99,
+    "Developers": "Artur Rezende",
+    "Publishers": "PROATIV GAMES",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1285820/ss_4f73833898f79e15653aa16e52bf4695e09223e0.1920x1080.jpg?t=1658412203,https://cdn.akamai.steamstatic.com/steam/apps/1285820/ss_ebd0592cec62581cb0c2119807fa823321638e30.1920x1080.jpg?t=1658412203,https://cdn.akamai.steamstatic.com/steam/apps/1285820/ss_9d60be19a29409d6a193022f65e7a16f48406d09.1920x1080.jpg?t=1658412203,https://cdn.akamai.steamstatic.com/steam/apps/1285820/ss_9f93e1946c7d18c8637a082c0050740e1c59d174.1920x1080.jpg?t=1658412203,https://cdn.akamai.steamstatic.com/steam/apps/1285820/ss_22e3a626317c014e9f92084533ee7ae581d5bd90.1920x1080.jpg?t=1658412203",
+    "Slug": "virus-kombat",
+    "Meta Title": "Virus Kombat: May 12, 2020, Artur Rezende and Full Overview",
+    "Meta Description": "Looking for information on Virus Kombat? Check out the release date (May 12, 2020), developer insights from Artur Rezende, and a complete game summary.",
+    "Alt Text Image": "Official header image for Virus Kombat game - Steam 1285820",
+    "Canonical URL": "https://gusku.site/game/virus-kombat",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Virus Kombat\", \"description\": \"Looking for information on Virus Kombat? Check out the release date (May 12, 2020), developer insights from Artur Rezende, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 12, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Artur Rezende\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PROATIV GAMES\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1285820/header.jpg?t=1658412203\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

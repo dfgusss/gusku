@@ -1,0 +1,21 @@
+{
+    "AppID": 1399300,
+    "Name": "SOK PRO",
+    "Release date": "Oct 13, 2020",
+    "About the game": "SOK PRO - sokoban classic puzzle game. The goal of the game is to move all the boxes to their positions. The player can push one box at a time, but do not pull it off. Completely redesigned from scratch, recreated on a new engine and with new functions. Features: ✔️ Undo of a move in case of error; ✔️ Personal statistics &amp; Steam Leaderboards; ✔️ Switch between full screen and windowed mode; ✔️ Offline mode; ✔️ Convenient and quick selection of the required level; ✔️ Ability to change the language and other settings; ✔️ Screenshots are working correctly; ✔️ New background music (can be turned off); ✔️ Selectable background color: ▪ Dark theme; ▪ Classic, light theme; ▪ Gold, Lime and Diamond backgrounds. And also: ■ 100 different levels, from easy to hard; ■ 100 beautiful achievements; ■ Cloud saves; ■ Community Hub Walkthrough Guides.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1399300/header.jpg?t=1653248916",
+    "Price": 1.99,
+    "Developers": "Siberian Mouse",
+    "Publishers": "Siberian Mouse",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1399300/ss_bc3ae777696d092af749b47d9ef680602d14e2c4.1920x1080.jpg?t=1653248916,https://cdn.akamai.steamstatic.com/steam/apps/1399300/ss_09fcff4bef85959dff876fe57d1e1979755ba94e.1920x1080.jpg?t=1653248916,https://cdn.akamai.steamstatic.com/steam/apps/1399300/ss_deaed58d084004aa1c4a1a47ba29fe01b3634e70.1920x1080.jpg?t=1653248916,https://cdn.akamai.steamstatic.com/steam/apps/1399300/ss_e959b8163cda3259f1da683ae0dd1e91c67c71fb.1920x1080.jpg?t=1653248916,https://cdn.akamai.steamstatic.com/steam/apps/1399300/ss_bb75f7f0bc18c78a07e06edfab2f29fbbcf9b620.1920x1080.jpg?t=1653248916",
+    "Slug": "sok-pro",
+    "Meta Title": "SOK PRO: Oct 13, 2020, Siberian Mouse and Full Overview",
+    "Meta Description": "Looking for information on SOK PRO? Check out the release date (Oct 13, 2020), developer insights from Siberian Mouse, and a complete game summary.",
+    "Alt Text Image": "Official header image for SOK PRO game - Steam 1399300",
+    "Canonical URL": "https://gusku.site/game/sok-pro",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SOK PRO\", \"description\": \"Looking for information on SOK PRO? Check out the release date (Oct 13, 2020), developer insights from Siberian Mouse, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 13, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Siberian Mouse\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Siberian Mouse\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1399300/header.jpg?t=1653248916\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

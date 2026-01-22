@@ -1,0 +1,21 @@
+{
+    "AppID": 1665830,
+    "Name": "xPack Texture Packing",
+    "Release date": "Jul 1, 2021",
+    "About the game": "xPack allows you to create 'Packed Textures' with a clear and efficient user interface to build your Packed Textures, supporting RGBA PNG files and DDS files. Packed Textures are used in many Game engines, GameGuruMAX, Unity and Unreal, textures need to be at the power of 2 i.e 512x512, 1024x1024 etc. Each ARGB channel can have different images to create a single 'Packed' Image for example Unity uses a Metallic-Smoothness Map: RED Channel = Metallic GREEN Channel = NOT USED BLUE Channel = NOT USED ALPHA Channel = Smoothness",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1665830/header.jpg?t=1625129139",
+    "Price": 4.99,
+    "Developers": "Kevan Hampson",
+    "Publishers": "GraPhiX Design Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1665830/ss_6f812f0b1d58069c6f5ea9d8416911bece307caf.1920x1080.jpg?t=1625129139,https://cdn.akamai.steamstatic.com/steam/apps/1665830/ss_52723493bc87e9ab645d459359bd8ca0bf2e9bdd.1920x1080.jpg?t=1625129139,https://cdn.akamai.steamstatic.com/steam/apps/1665830/ss_2415897c7db9a4f1c2393eecfb682952ece5f1c1.1920x1080.jpg?t=1625129139,https://cdn.akamai.steamstatic.com/steam/apps/1665830/ss_2906caa2ba74fd2b3436bf9dc51881f9068e6d3c.1920x1080.jpg?t=1625129139,https://cdn.akamai.steamstatic.com/steam/apps/1665830/ss_c7f88d6302425fda40eaaefe2bb40edf16fa7fd4.1920x1080.jpg?t=1625129139",
+    "Slug": "xpack-texture-packing",
+    "Meta Title": "xPack Texture Packing: Jul 1, 2021, Kevan Hampson and Ful...",
+    "Meta Description": "Looking for information on xPack Texture Packing? Check out the release date (Jul 1, 2021), developer insights from Kevan Hampson, and a complete game s...",
+    "Alt Text Image": "Official header image for xPack Texture Packing game - Steam 1665830",
+    "Canonical URL": "https://gusku.site/game/xpack-texture-packing",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"xPack Texture Packing\", \"description\": \"Looking for information on xPack Texture Packing? Check out the release date (Jul 1, 2021), developer insights from Kevan Hampson, and a complete game s...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 1, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kevan Hampson\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"GraPhiX Design Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1665830/header.jpg?t=1625129139\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

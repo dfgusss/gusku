@@ -1,0 +1,21 @@
+{
+    "AppID": 1847920,
+    "Name": "Shrumblo and the Magical Grumblo",
+    "Release date": "Dec 30, 2021",
+    "About the game": "Survive for as long as you can while playing as the blue robot Shrumblo! The objective of this game is to lure Grumblo, the red demon, into several moving spikes which temporarily stuns him, and also earns you a point. Survive for as long as you can and earn a high score! By earning a high score you can earn more trophies as you progress. There are two sets of trophies, one for the main mode where you are pursued by only one enemy, and another set for the Double Grumblo Madness mode, where two enemies will pursue you at once. This game tries to invoke the feeling of classic arcade games that are easy to understand, hard to master, and enjoyable in short bursts. I hope you have fun! List of features: 1. An intro cutscene explaining the plot of the game 2. A high score feature to track your progression. 3. Trophies you unlock by getting higher scores over time. 4. A base game mode where you are chased by Grumblo (the red circle looking fellow) and lure him into moving spikes to earn points. This can be seen in more detail in the trailer on this page. 5. A bonus game mode where there are two Grumblos chasing after you. List of mechanics: 1. You can of course use the WASD keys to move 2. Use the shift key to turn on Shrumblo's jet boots to move faster. The meter for this will deplete the longer you use it, but will recharge over time. 3. If Shrumblo is close to Grumblo the dash meter will recharge faster. 4. If Shrumblo is touched by the spikes or Grumblo the game will end, and if you got a high score it will be saved.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1847920/header.jpg?t=1640899006",
+    "Price": 0.99,
+    "Developers": "Squidnow,Ooftroop",
+    "Publishers": "Squidnow",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1847920/ss_3011a87da638c682075bff02e0ca99505c636e72.1920x1080.jpg?t=1640899006,https://cdn.akamai.steamstatic.com/steam/apps/1847920/ss_9e43426475e5dd746e7cbd7ef984430f4291fdf6.1920x1080.jpg?t=1640899006,https://cdn.akamai.steamstatic.com/steam/apps/1847920/ss_46cb922db0ad02c9fee493848b20e7a39585208e.1920x1080.jpg?t=1640899006,https://cdn.akamai.steamstatic.com/steam/apps/1847920/ss_601b8768759e3b8d2d96a141bace30fe6e068592.1920x1080.jpg?t=1640899006,https://cdn.akamai.steamstatic.com/steam/apps/1847920/ss_4dbfad2c2d49aa3f753ae111a1725201af903351.1920x1080.jpg?t=1640899006",
+    "Slug": "shrumblo-and-the-magical-grumblo",
+    "Meta Title": "Shrumblo and the Magical Grumblo: Dec 30, 2021, Squidnow,...",
+    "Meta Description": "Looking for information on Shrumblo and the Magical Grumblo? Check out the release date (Dec 30, 2021), developer insights from Squidnow,Ooftroop, and a...",
+    "Alt Text Image": "Official header image for Shrumblo and the Magical Grumblo game - Steam 1847920",
+    "Canonical URL": "https://gusku.site/game/shrumblo-and-the-magical-grumblo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Shrumblo and the Magical Grumblo\", \"description\": \"Looking for information on Shrumblo and the Magical Grumblo? Check out the release date (Dec 30, 2021), developer insights from Squidnow,Ooftroop, and a...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 30, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Squidnow,Ooftroop\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Squidnow\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1847920/header.jpg?t=1640899006\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 704660,
+    "Name": "Maze Trials",
+    "Release date": "Oct 9, 2017",
+    "About the game": "Maze Trials is a maze running game, find your way out of the mazes, don't forget to collect the key to unlock the exit. Features: - 100 Mazes, gradually getting larger as you progress through the levels - Find the key to escape each level - Countdown timer, if timer reaches 0 the level restarts - Hidden coins on each level to collect and add time to the timer - Map items give you a preview of the maze for a few seconds and adds time - Ability to place markers on the maze - Great background music If you beat the 100 mazes, you will unlock Maze Rankings and Random Level Selector. Earn 3 stars by: 1 - Complete the level 2 - Collect all the levels coins 3 - Complete level without collecting maps",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/704660/header.jpg?t=1507570491",
+    "Price": 1.99,
+    "Developers": "JB",
+    "Publishers": "JB",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/704660/ss_526eaaa7928da013699587f0a2f9e664167591f9.1920x1080.jpg?t=1507570491,https://cdn.akamai.steamstatic.com/steam/apps/704660/ss_bac35644f7761b7b0bc8c46aea44680598142575.1920x1080.jpg?t=1507570491,https://cdn.akamai.steamstatic.com/steam/apps/704660/ss_9449d17c01b02c561f3ab44909abb78714d48971.1920x1080.jpg?t=1507570491,https://cdn.akamai.steamstatic.com/steam/apps/704660/ss_5ec87b705ed9aaa2ed8fc37528dc85a023071089.1920x1080.jpg?t=1507570491,https://cdn.akamai.steamstatic.com/steam/apps/704660/ss_48d2f900204b0305610d49318182fe613cafc5f3.1920x1080.jpg?t=1507570491",
+    "Slug": "maze-trials",
+    "Meta Title": "Maze Trials: Oct 9, 2017, JB and Full Overview",
+    "Meta Description": "Looking for information on Maze Trials? Check out the release date (Oct 9, 2017), developer insights from JB, and a complete game summary.",
+    "Alt Text Image": "Official header image for Maze Trials game - Steam 704660",
+    "Canonical URL": "https://gusku.site/game/maze-trials",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Maze Trials\", \"description\": \"Looking for information on Maze Trials? Check out the release date (Oct 9, 2017), developer insights from JB, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 9, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"JB\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"JB\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/704660/header.jpg?t=1507570491\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

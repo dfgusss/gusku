@@ -1,0 +1,21 @@
+{
+    "AppID": 1585350,
+    "Name": "Cooperative Chess",
+    "Release date": "Feb 16, 2023",
+    "About the game": "When your friends win, you win. Co-op Chess occurs in rounds, and in each round you must occupy all the '!' squares. Achieve checkmate for either side and you both win! If you've read this far, you must want some feature details Customizable difficulty Single-player mode if you want to learn in a safe place (or if that's just your thing) Avatar customization unlocked by completing achievements Private games with friends Quality of life improvements beyond what's normal for Chess apps Cooperative Chess is part of what has retroactively been termed a 'molasses jam' run by the Bay Area Dev Collective . The theme of the jam was to make a violent genre non-violent . Somehow the idea of co-op chess came up during a brainstorming session, and I knew immediately that I had to figure out how to make it work. And now you and a friend get to experience it yourselves. The other molasses game jam games are also on steam: / / /",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1585350/header.jpg?t=1676585890",
+    "Price": 0.0,
+    "Developers": "Adrian Marple,BAD Collective",
+    "Publishers": "Adrian Marple,BAD Collective",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1585350/ss_aa63acb74190de2bd727215f70838ea534048abd.1920x1080.jpg?t=1676585890,https://cdn.akamai.steamstatic.com/steam/apps/1585350/ss_c1518f729b28ed2925f47ec20f4c79db1a6e3c83.1920x1080.jpg?t=1676585890,https://cdn.akamai.steamstatic.com/steam/apps/1585350/ss_318cb8d4fc48f7e1a6ea80ed0f4b5c9741e6d479.1920x1080.jpg?t=1676585890,https://cdn.akamai.steamstatic.com/steam/apps/1585350/ss_2af7f8b42b719b490002008ce46e26082fdb4fdf.1920x1080.jpg?t=1676585890,https://cdn.akamai.steamstatic.com/steam/apps/1585350/ss_625beb297440e389361723c30282a650d6506ebe.1920x1080.jpg?t=1676585890,https://cdn.akamai.steamstatic.com/steam/apps/1585350/ss_d8de62a5d20c197b30ca16e704d5e3d29e16e360.1920x1080.jpg?t=1676585890",
+    "Slug": "cooperative-chess",
+    "Meta Title": "Cooperative Chess: Feb 16, 2023, Adrian Marple,BAD Collec...",
+    "Meta Description": "Looking for information on Cooperative Chess? Check out the release date (Feb 16, 2023), developer insights from Adrian Marple,BAD Collective, and a com...",
+    "Alt Text Image": "Official header image for Cooperative Chess game - Steam 1585350",
+    "Canonical URL": "https://gusku.site/game/cooperative-chess",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cooperative Chess\", \"description\": \"Looking for information on Cooperative Chess? Check out the release date (Feb 16, 2023), developer insights from Adrian Marple,BAD Collective, and a com...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 16, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Adrian Marple,BAD Collective\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Adrian Marple,BAD Collective\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1585350/header.jpg?t=1676585890\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

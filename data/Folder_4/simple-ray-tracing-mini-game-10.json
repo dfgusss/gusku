@@ -1,0 +1,21 @@
+{
+    "AppID": 1632280,
+    "Name": "Simple Ray tracing Mini Game 10",
+    "Release date": "Jun 18, 2021",
+    "About the game": "Is there ray tracing technology just for AAA-class games? no! Nowadays, you can easily create ray tracing compatible games using Unity. Isn't it okay to use ray tracing in a simple mini-game? With that in mind, I made 10 crispy pieces. Game content 1. Whac-A-Mole 2. Breakout 3. Car protection game 4. Air hockey (2P match: up to 20 people connected at the same time) 5. Snake game 6. Run game 7. Chicken race 8. Wall protection game 9. Cat jump 10. Zombie protection game You can play with the above games. 6. Run game Has experimentally enabled you to play Youtube videos. Folder under the installation folder SimpleRayTracingMiniGame_Data \\ StreamingAssets It is in, musics.txt You can play with various videos by editing. Video URL, _, time group As for the time group, the time of the tapped timing will be accumulated in the edit box displayed when you press the E key during this game, so copy it. During the game, there are the following hidden functions. P key ray tracing ON / OFF F key frame rate display ON / OFF N key down resolution M key up resolution We have implemented it all over, but we plan to upgrade it in the future. 2021/6/25 Supports DLSS! After upgrading, it will start in full screen. (The GTX 1080 runs in about 30 frames.)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1632280/header.jpg?t=1624765279",
+    "Price": 14.99,
+    "Developers": "Kazumitsu Ota",
+    "Publishers": "Kazumitsu Ota",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1632280/ss_d8cfbee955ab8b6893b3f2089b0d1d8a8844f49a.1920x1080.jpg?t=1624765279,https://cdn.akamai.steamstatic.com/steam/apps/1632280/ss_b1a74f59ddc141bbc715559e3e006aad8c58fb39.1920x1080.jpg?t=1624765279,https://cdn.akamai.steamstatic.com/steam/apps/1632280/ss_fc7b99252dbd606d2f5ed3327acb37add06975e4.1920x1080.jpg?t=1624765279,https://cdn.akamai.steamstatic.com/steam/apps/1632280/ss_238790d814a6ce2191322daa86a89ab438773d6b.1920x1080.jpg?t=1624765279,https://cdn.akamai.steamstatic.com/steam/apps/1632280/ss_c4940f14e453208dd5185b6928e05cefa79a8c3c.1920x1080.jpg?t=1624765279",
+    "Slug": "simple-ray-tracing-mini-game-10",
+    "Meta Title": "Simple Ray tracing Mini Game 10: Jun 18, 2021, Kazumitsu ...",
+    "Meta Description": "Looking for information on Simple Ray tracing Mini Game 10? Check out the release date (Jun 18, 2021), developer insights from Kazumitsu Ota, and a comp...",
+    "Alt Text Image": "Official header image for Simple Ray tracing Mini Game 10 game - Steam 1632280",
+    "Canonical URL": "https://gusku.site/game/simple-ray-tracing-mini-game-10",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Simple Ray tracing Mini Game 10\", \"description\": \"Looking for information on Simple Ray tracing Mini Game 10? Check out the release date (Jun 18, 2021), developer insights from Kazumitsu Ota, and a comp...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 18, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kazumitsu Ota\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kazumitsu Ota\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1632280/header.jpg?t=1624765279\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

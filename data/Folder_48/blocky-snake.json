@@ -1,0 +1,21 @@
+{
+    "AppID": 1836210,
+    "Name": "Blocky Snake",
+    "Release date": "Dec 20, 2021",
+    "About the game": "Blocky Snake is a scoring arcade runner. You need to control the snake and collect additional bodies, coins, as well as destroy blocks on the way at the expense of your body and get points for this. The speed of the game increases with the distance traveled, and also depends on the number of destroyed blocks. The more points you have, the more additional bodies will appear at a time. You can find 2 types of boosters. The magnet will collect all coins in the nearest radius, and the shield will prevent you from losing bodies during the destruction of blocks.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1836210/header.jpg?t=1640006375",
+    "Price": 0.99,
+    "Developers": "Animals Rolling",
+    "Publishers": "Animals Rolling",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1836210/ss_b55328d497cf5dfebfbb97e6648ed936ff1b9e94.1920x1080.jpg?t=1640006375,https://cdn.akamai.steamstatic.com/steam/apps/1836210/ss_87c73095c4e2ed13ebfa76e88fee085c7d08a104.1920x1080.jpg?t=1640006375,https://cdn.akamai.steamstatic.com/steam/apps/1836210/ss_50b94d1a15df35c810088511ac65b3ee9f68daf2.1920x1080.jpg?t=1640006375,https://cdn.akamai.steamstatic.com/steam/apps/1836210/ss_9ece5273b59c6d4bfb5af44ac9a2ec8c42224a60.1920x1080.jpg?t=1640006375,https://cdn.akamai.steamstatic.com/steam/apps/1836210/ss_57c2bdb6ff4622804a40324edd27a1e088081ca8.1920x1080.jpg?t=1640006375",
+    "Slug": "blocky-snake",
+    "Meta Title": "Blocky Snake: Dec 20, 2021, Animals Rolling and Full Over...",
+    "Meta Description": "Looking for information on Blocky Snake? Check out the release date (Dec 20, 2021), developer insights from Animals Rolling, and a complete game summary.",
+    "Alt Text Image": "Official header image for Blocky Snake game - Steam 1836210",
+    "Canonical URL": "https://gusku.site/game/blocky-snake",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Blocky Snake\", \"description\": \"Looking for information on Blocky Snake? Check out the release date (Dec 20, 2021), developer insights from Animals Rolling, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 20, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Animals Rolling\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Animals Rolling\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1836210/header.jpg?t=1640006375\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

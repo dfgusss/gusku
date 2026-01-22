@@ -1,0 +1,21 @@
+{
+    "AppID": 2282780,
+    "Name": "Feed Him",
+    "Release date": "Feb 17, 2023",
+    "About the game": "Welcome to Feed Him, a horror-themed adventure game that will have you on the edge of your seat from start to finish. The game is set in a small, innocent-looking town, where you, the player, have just moved in with your new roommate. But something is not quite right. Your roommate is acting strange and can't leave the house, and soon, you find yourself caught in a terrifying game of survival. As you explore the town, you'll uncover its dark secrets and discover that the town is not what it seems. The clock is ticking, and you must find a way to defeat your evil roommate and escape before it's too late. With a gripping storyline, immersive gameplay, and stunning graphics, Feed Him will take you on a journey into the unknown that you'll never forget. This is my first indie-game project ever! After getting familiar with the basics of Unreal Engine, I set out to build my first game; Feed Him! If you have any questions or feedback, please join the Discord! I'd love to hear about your experience with the game!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2282780/header.jpg?t=1676646029",
+    "Price": 1.79,
+    "Developers": "ThatDRW",
+    "Publishers": "ThatDRW",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2282780/ss_1e3f3823b25662c03c134fad933e420315833e66.1920x1080.jpg?t=1676646029,https://cdn.akamai.steamstatic.com/steam/apps/2282780/ss_3c7b04b4f989a47cee0aa2761df97406b1abb390.1920x1080.jpg?t=1676646029,https://cdn.akamai.steamstatic.com/steam/apps/2282780/ss_1c0312fb5f20197f24465deb21b5eb49384985c3.1920x1080.jpg?t=1676646029,https://cdn.akamai.steamstatic.com/steam/apps/2282780/ss_b3496672e978b79a65130052cdc57d9f06ab50ac.1920x1080.jpg?t=1676646029,https://cdn.akamai.steamstatic.com/steam/apps/2282780/ss_427b1887acad5effb1bde804b34ec7e2bee7bf5e.1920x1080.jpg?t=1676646029,https://cdn.akamai.steamstatic.com/steam/apps/2282780/ss_be425320436f630512cbb7835d3e8144f2e2fee1.1920x1080.jpg?t=1676646029",
+    "Slug": "feed-him",
+    "Meta Title": "Feed Him: Feb 17, 2023, ThatDRW and Full Overview",
+    "Meta Description": "Looking for information on Feed Him? Check out the release date (Feb 17, 2023), developer insights from ThatDRW, and a complete game summary.",
+    "Alt Text Image": "Official header image for Feed Him game - Steam 2282780",
+    "Canonical URL": "https://gusku.site/game/feed-him",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Feed Him\", \"description\": \"Looking for information on Feed Him? Check out the release date (Feb 17, 2023), developer insights from ThatDRW, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 17, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"ThatDRW\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"ThatDRW\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2282780/header.jpg?t=1676646029\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.79, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

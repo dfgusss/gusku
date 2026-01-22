@@ -1,0 +1,21 @@
+{
+    "AppID": 655030,
+    "Name": "Simple Light Cycles",
+    "Release date": "Jun 16, 2017",
+    "About the game": "Simple Light Cycles is a sleek, fast-paced, hyper responsive, local multiplayer action game. Get some friends together and put your skills to the test! *** SLC does NOT have a single player mode *** This game-jam game is designed to be simple and responsive, putting all the focus on the purest gameplay possible. Players control an ever-growing line in an attempt to outwit their opponents. With a variety of easily accessible gameplay options, you can craft custom game modes for each session or even per game round. Outlast, trap, and attack your opponents, or construct a strategy all your own. In Simple Light Cycles, the choice is yours. Power to the players. Simple Light Cycles supports 2-8 players (4 via X-input gamepads and 4 via keyboard-simulated gamepads).",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/655030/header.jpg?t=1656700676",
+    "Price": 0.0,
+    "Developers": "Kelsam",
+    "Publishers": "Kelsam",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/655030/ss_a9c15ab4cdd1044d5d144d687dcadb1fbae51e86.1920x1080.jpg?t=1656700676,https://cdn.akamai.steamstatic.com/steam/apps/655030/ss_b5310b8f4ea9052848d0ac37714a37429f023a58.1920x1080.jpg?t=1656700676,https://cdn.akamai.steamstatic.com/steam/apps/655030/ss_51debc09e7bbe9069c6dcbb80b9aa96b2bbd88a1.1920x1080.jpg?t=1656700676,https://cdn.akamai.steamstatic.com/steam/apps/655030/ss_5878714495fa599ee89a0ebc6834470c100e191e.1920x1080.jpg?t=1656700676,https://cdn.akamai.steamstatic.com/steam/apps/655030/ss_dcc4352f02c4d357e979b85aa38f3de34ad0e5c8.1920x1080.jpg?t=1656700676",
+    "Slug": "simple-light-cycles",
+    "Meta Title": "Simple Light Cycles: Jun 16, 2017, Kelsam and Full Overview",
+    "Meta Description": "Looking for information on Simple Light Cycles? Check out the release date (Jun 16, 2017), developer insights from Kelsam, and a complete game summary.",
+    "Alt Text Image": "Official header image for Simple Light Cycles game - Steam 655030",
+    "Canonical URL": "https://gusku.site/game/simple-light-cycles",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Simple Light Cycles\", \"description\": \"Looking for information on Simple Light Cycles? Check out the release date (Jun 16, 2017), developer insights from Kelsam, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 16, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Kelsam\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Kelsam\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/655030/header.jpg?t=1656700676\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

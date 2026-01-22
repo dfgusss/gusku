@@ -1,0 +1,21 @@
+{
+    "AppID": 601200,
+    "Name": "Pix",
+    "Release date": "Sep 1, 2017",
+    "About the game": "Pix is a tiny little pixel-art creature who jumps through obstacle courses on a quest to collect colorful, sparkling pixels - but the way is perilous and filled with danger. Death lurks around every corner in this risky mission to recover the glowing goodness, but well worth the loss of life and limb when your head is full of pixels! Pix is a straightforward platformer built around a 3-pixel objective per level. Any noob can complete the levels by just reaching the end, but if you want to really test your skills, try collecting all 3 pixels on every level. 36 levels (to start the Early Access versions) 3 pixel challenges per level Achievements coming soon Controller support in levels (Windows) Platforming chaos Deadly spike pits Whizzing saw blades Swinging pendulums of death Innocent looking levels designed to kill you without mercy :) Gameplay is tweaked so you can conquer higher challenges to suit your own ambitions, while preserving your ability to explore the whole game at an average skill level. Got any platformers collecting dust cuz you couldn't finish some level that unlocks the rest of the game? Not in Pix. Instead of an ever-increasing difficulty curve where each level unlocks the next, the average level is “medium” difficulty to finish, while the 3 optional pixel challenges within each level will continue to increase in difficulty.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/601200/header.jpg?t=1504320849",
+    "Price": 2.99,
+    "Developers": "Pixel After Pixel",
+    "Publishers": "Pixel After Pixel",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/601200/ss_36254d782e77af848288db82e34be63ee3238324.1920x1080.jpg?t=1504320849,https://cdn.akamai.steamstatic.com/steam/apps/601200/ss_8271831503a36e1bc2e835de11a84b0320748316.1920x1080.jpg?t=1504320849,https://cdn.akamai.steamstatic.com/steam/apps/601200/ss_23d436573de577a401dc8d248084ce4ef65715cc.1920x1080.jpg?t=1504320849,https://cdn.akamai.steamstatic.com/steam/apps/601200/ss_defeee93328af12ca977012d99ec4e98be7e8795.1920x1080.jpg?t=1504320849,https://cdn.akamai.steamstatic.com/steam/apps/601200/ss_24b5441bbfa8830b93aaa2b012d541f2849d6435.1920x1080.jpg?t=1504320849,https://cdn.akamai.steamstatic.com/steam/apps/601200/ss_a08f19d4880333930ca11af76b134502544ac322.1920x1080.jpg?t=1504320849,https://cdn.akamai.steamstatic.com/steam/apps/601200/ss_d8a9d7ba3552bafeb9404dcf70f13d4fee3671e9.1920x1080.jpg?t=1504320849",
+    "Slug": "pix",
+    "Meta Title": "Pix: Sep 1, 2017, Pixel After Pixel and Full Overview",
+    "Meta Description": "Looking for information on Pix? Check out the release date (Sep 1, 2017), developer insights from Pixel After Pixel, and a complete game summary.",
+    "Alt Text Image": "Official header image for Pix game - Steam 601200",
+    "Canonical URL": "https://gusku.site/game/pix",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Pix\", \"description\": \"Looking for information on Pix? Check out the release date (Sep 1, 2017), developer insights from Pixel After Pixel, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Pixel After Pixel\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Pixel After Pixel\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/601200/header.jpg?t=1504320849\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

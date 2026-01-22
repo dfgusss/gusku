@@ -1,0 +1,21 @@
+{
+    "AppID": 375220,
+    "Name": "Bitweb",
+    "Release date": "Jun 3, 2015",
+    "About the game": "Xor the inner and outer gates blocking your character with those of another cell to clear passage. Score points by collecting items. Arrows can be shot for defending against the ravenous hounds. A potion will render you invincible for some time. Rescuing the Elven Princess will score you double the points. All will be lost if you don't stash your points in the chest though! Big credits to Thebluefish for compiling for windows, without that release would not have been possible! / Also credits to the artists on opengameart.org and the Urho3D engine developers!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/375220/header.jpg?t=1447375552",
+    "Price": 0.0,
+    "Developers": "practicing01",
+    "Publishers": "practicing01",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/375220/ss_b0ffd82a3efb8cf284f3c728d7a200cc0daf8290.1920x1080.jpg?t=1447375552,https://cdn.akamai.steamstatic.com/steam/apps/375220/ss_950a29ccff8e2e0748e59fa809711d9a442cf010.1920x1080.jpg?t=1447375552,https://cdn.akamai.steamstatic.com/steam/apps/375220/ss_6057ed2a7766a0e89fc36d3df5e258ee1563d2b2.1920x1080.jpg?t=1447375552,https://cdn.akamai.steamstatic.com/steam/apps/375220/ss_9c4165bebe292f24897ba3f437399fbb79f4a9c3.1920x1080.jpg?t=1447375552,https://cdn.akamai.steamstatic.com/steam/apps/375220/ss_f260e552131d57ecad8a93b6a84d062f1ba8893b.1920x1080.jpg?t=1447375552",
+    "Slug": "bitweb",
+    "Meta Title": "Bitweb: Jun 3, 2015, practicing01 and Full Overview",
+    "Meta Description": "Looking for information on Bitweb? Check out the release date (Jun 3, 2015), developer insights from practicing01, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bitweb game - Steam 375220",
+    "Canonical URL": "https://gusku.site/game/bitweb",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bitweb\", \"description\": \"Looking for information on Bitweb? Check out the release date (Jun 3, 2015), developer insights from practicing01, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 3, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"practicing01\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"practicing01\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/375220/header.jpg?t=1447375552\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

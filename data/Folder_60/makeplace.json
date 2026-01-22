@@ -1,0 +1,21 @@
+{
+    "AppID": 2082490,
+    "Name": "MakePlace",
+    "Release date": "Jul 27, 2022",
+    "About the game": "MakePlace is a tool to preview, edit and share housing layouts. Features: Drag-and-drop furniture from a list 120+ furniture to choose from Move, rotate and scale furniture via click-drag or UI input Easily adjust wall positions - the floor, ceiling, and neighboring walls will auto-adjust Place windows and doors anywhere on a wall - the corresponding wall section will be removed Load your own FBX model files Save and load layouts from file, or via the online catalog Controls WSAD to move Space to ascend, Z to descend Right click and drag to pan the camera Left click to Select items Esc to deselect / quit Del to delete selected item Scroll up/down to increase/decrease movement speed Enter to show/hide UI Alt+Enter to use windowed mode Get updates and troubleshooting help on Discord",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2082490/header.jpg?t=1658932384",
+    "Price": 0.0,
+    "Developers": "Jawslouis",
+    "Publishers": "Jawslouis",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2082490/ss_fc28bfbd49b1e0837c8cc3526374a86a8b4e62ce.1920x1080.jpg?t=1658932384,https://cdn.akamai.steamstatic.com/steam/apps/2082490/ss_dbec9e6e93068038d84cb67d600e419f5d614322.1920x1080.jpg?t=1658932384,https://cdn.akamai.steamstatic.com/steam/apps/2082490/ss_e455d6eea28ad71d64e2e4d5c054754dcc3c7811.1920x1080.jpg?t=1658932384,https://cdn.akamai.steamstatic.com/steam/apps/2082490/ss_129d7e41d34a8a474f0a3b47477296aac0db1ba6.1920x1080.jpg?t=1658932384,https://cdn.akamai.steamstatic.com/steam/apps/2082490/ss_5424846100b2d20ca703fcb8a9bc0c024f4c7721.1920x1080.jpg?t=1658932384",
+    "Slug": "makeplace",
+    "Meta Title": "MakePlace: Jul 27, 2022, Jawslouis and Full Overview",
+    "Meta Description": "Looking for information on MakePlace? Check out the release date (Jul 27, 2022), developer insights from Jawslouis, and a complete game summary.",
+    "Alt Text Image": "Official header image for MakePlace game - Steam 2082490",
+    "Canonical URL": "https://gusku.site/game/makeplace",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MakePlace\", \"description\": \"Looking for information on MakePlace? Check out the release date (Jul 27, 2022), developer insights from Jawslouis, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 27, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jawslouis\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jawslouis\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2082490/header.jpg?t=1658932384\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

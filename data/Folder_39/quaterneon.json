@@ -1,0 +1,21 @@
+{
+    "AppID": 1151550,
+    "Name": "Quaterneon",
+    "Release date": "Oct 11, 2019",
+    "About the game": "A simple endless runner, where trying to capture orange cubes is the way to win.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1151550/header.jpg?t=1570824393",
+    "Price": 0.99,
+    "Developers": "Matthew Soriano",
+    "Publishers": "Matthew Soriano",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1151550/ss_df81b3bedfc3e945921591b3533c0fd0820d624d.1920x1080.jpg?t=1570824393,https://cdn.akamai.steamstatic.com/steam/apps/1151550/ss_10a4a83a6859b8588f58f929fbe7ac81a280b22f.1920x1080.jpg?t=1570824393,https://cdn.akamai.steamstatic.com/steam/apps/1151550/ss_312b0960eeb3c994b9011eed72bbf9e0189d4b50.1920x1080.jpg?t=1570824393,https://cdn.akamai.steamstatic.com/steam/apps/1151550/ss_da8fb87bc8f60599c84e8ded25df107d83f4f2e1.1920x1080.jpg?t=1570824393,https://cdn.akamai.steamstatic.com/steam/apps/1151550/ss_de535f98dea9f570ecbce513f542374be2ec75bb.1920x1080.jpg?t=1570824393",
+    "Slug": "quaterneon",
+    "Meta Title": "Quaterneon: Oct 11, 2019, Matthew Soriano and Full Overview",
+    "Meta Description": "Looking for information on Quaterneon? Check out the release date (Oct 11, 2019), developer insights from Matthew Soriano, and a complete game summary.",
+    "Alt Text Image": "Official header image for Quaterneon game - Steam 1151550",
+    "Canonical URL": "https://gusku.site/game/quaterneon",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Quaterneon\", \"description\": \"Looking for information on Quaterneon? Check out the release date (Oct 11, 2019), developer insights from Matthew Soriano, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 11, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Matthew Soriano\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Matthew Soriano\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1151550/header.jpg?t=1570824393\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

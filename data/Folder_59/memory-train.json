@@ -1,0 +1,21 @@
+{
+    "AppID": 1843800,
+    "Name": "Memory Train",
+    "Release date": "Dec 23, 2021",
+    "About the game": "Train your memory in this puzzle game. Several numbers appear in front of you, which you need to remember and press in the same sequence. For each successful chain of numbers, you get points. As you progress, the numbers that appear will have more complex strings. Put your memory to the test. Enjoy your game.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1843800/header.jpg?t=1640298585",
+    "Price": 3.99,
+    "Developers": "QuickBobber",
+    "Publishers": "QuickBobber",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1843800/ss_feb6171dc5059f7ec44e354de3b43c40512538f8.1920x1080.jpg?t=1640298585,https://cdn.akamai.steamstatic.com/steam/apps/1843800/ss_c543a9fdcb0da98e373a37cdef72d99dd9272f1f.1920x1080.jpg?t=1640298585,https://cdn.akamai.steamstatic.com/steam/apps/1843800/ss_6c76890c06f4982627a5e12752dd70d1c8547da3.1920x1080.jpg?t=1640298585,https://cdn.akamai.steamstatic.com/steam/apps/1843800/ss_85b8b5ad6dc01af408c40dae7226bb65f2a866cf.1920x1080.jpg?t=1640298585,https://cdn.akamai.steamstatic.com/steam/apps/1843800/ss_7092fa8ed8e7facf0346625092b3175d6fedf5a5.1920x1080.jpg?t=1640298585",
+    "Slug": "memory-train",
+    "Meta Title": "Memory Train: Dec 23, 2021, QuickBobber and Full Overview",
+    "Meta Description": "Looking for information on Memory Train? Check out the release date (Dec 23, 2021), developer insights from QuickBobber, and a complete game summary.",
+    "Alt Text Image": "Official header image for Memory Train game - Steam 1843800",
+    "Canonical URL": "https://gusku.site/game/memory-train",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Memory Train\", \"description\": \"Looking for information on Memory Train? Check out the release date (Dec 23, 2021), developer insights from QuickBobber, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"QuickBobber\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1843800/header.jpg?t=1640298585\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

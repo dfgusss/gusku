@@ -1,0 +1,21 @@
+{
+    "AppID": 1885460,
+    "Name": "Invasion From Space",
+    "Release date": "Feb 13, 2022",
+    "About the game": "Invasion From Space is a 2D little game inspired by Space Invaders with a more dynamic gameplay and some physics for fun. In Invasion From Space You control a plasma canon and try to stop alien invaders from reaching the earth. Survive as long as you can The goal is to get the highest possible score by surviving as many waves as possible . To defeat a wave you have to shoot all the enemies . The difficulty will gradually increase with each new wave as enemies move faster and faster . Shoot precisely and score tons of points by performing hit combos without missing enemies! Avoid being hit by missiles by dodging or destroying them Retro feeling Step back in time and experience the feeling of a good old CRT monitor from the 90s again! Note It has been created as a hobby project using SFML and C++.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1885460/header.jpg?t=1644741272",
+    "Price": 0.0,
+    "Developers": "Jean Tampon",
+    "Publishers": "Jean Tampon",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1885460/ss_b1721fb9888550133c1d9eb7d0b0cf52f2836c70.1920x1080.jpg?t=1644741272,https://cdn.akamai.steamstatic.com/steam/apps/1885460/ss_0cf5ad1151a88995fa0706fc8f7f9920a04de86e.1920x1080.jpg?t=1644741272,https://cdn.akamai.steamstatic.com/steam/apps/1885460/ss_068577b4153dca9c2d90c5b6f051ec6c392ae5a6.1920x1080.jpg?t=1644741272,https://cdn.akamai.steamstatic.com/steam/apps/1885460/ss_1f9eecda073b4ad26580ea24c7162eb8cf8aa8ce.1920x1080.jpg?t=1644741272,https://cdn.akamai.steamstatic.com/steam/apps/1885460/ss_a320809079943209fc19ca250213b38f7f675f1a.1920x1080.jpg?t=1644741272",
+    "Slug": "invasion-from-space",
+    "Meta Title": "Invasion From Space: Feb 13, 2022, Jean Tampon and Full O...",
+    "Meta Description": "Looking for information on Invasion From Space? Check out the release date (Feb 13, 2022), developer insights from Jean Tampon, and a complete game summ...",
+    "Alt Text Image": "Official header image for Invasion From Space game - Steam 1885460",
+    "Canonical URL": "https://gusku.site/game/invasion-from-space",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Invasion From Space\", \"description\": \"Looking for information on Invasion From Space? Check out the release date (Feb 13, 2022), developer insights from Jean Tampon, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 13, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Jean Tampon\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Jean Tampon\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1885460/header.jpg?t=1644741272\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1471980,
+    "Name": "MedicalImagingVR",
+    "Release date": "Dec 18, 2020",
+    "About the game": "This application allows to display different medical imaging scans and to browse into the different slices within a virtual reality environment. CT (Computed Tomography) scans and MRI (magnetic resonance imaging) scans are both used to capture images within your body. The biggest difference is that MRIs use radio waves and CT scans use X-rays. Educational game Learn about the different regions of the head and their functions. Learn how to navigate through medical imaging to localize different regions. Use your own 3D data If you have your own 3D data, (images from DICOM files corresponding to MRI or CT scans), you can easily import your own files into the application to visualize them in VR.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1471980/header.jpg?t=1627436462",
+    "Price": 0.0,
+    "Developers": "hublab",
+    "Publishers": "hublab",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1471980/ss_dfcf70be6ab707789acfbc4477651fc02ebbfb42.1920x1080.jpg?t=1627436462,https://cdn.akamai.steamstatic.com/steam/apps/1471980/ss_7a3b71fa6bd748a2c2f28e1f122119b4aa068446.1920x1080.jpg?t=1627436462,https://cdn.akamai.steamstatic.com/steam/apps/1471980/ss_f0a1f813ca520e1d27da43dcfaba473fc9d15e3e.1920x1080.jpg?t=1627436462,https://cdn.akamai.steamstatic.com/steam/apps/1471980/ss_54643f0792073989e561912ceb73f73018f2651d.1920x1080.jpg?t=1627436462,https://cdn.akamai.steamstatic.com/steam/apps/1471980/ss_3661ae9fbedd573081e04c5bb4130e0c1ff5d28a.1920x1080.jpg?t=1627436462",
+    "Slug": "medicalimagingvr",
+    "Meta Title": "MedicalImagingVR: Dec 18, 2020, hublab and Full Overview",
+    "Meta Description": "Looking for information on MedicalImagingVR? Check out the release date (Dec 18, 2020), developer insights from hublab, and a complete game summary.",
+    "Alt Text Image": "Official header image for MedicalImagingVR game - Steam 1471980",
+    "Canonical URL": "https://gusku.site/game/medicalimagingvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MedicalImagingVR\", \"description\": \"Looking for information on MedicalImagingVR? Check out the release date (Dec 18, 2020), developer insights from hublab, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 18, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"hublab\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"hublab\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1471980/header.jpg?t=1627436462\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2276590,
+    "Name": "ReplayVR",
+    "Release date": "Feb 22, 2023",
+    "About the game": "ReplayVR gives you the ability to take video screenshots of what you see in VR after you saw it. ReplayVR will record your VR headset display, and optionally record your microphone and game audio, hold that video and audio in memory, and, when you press the correct button combination on your VR controller, save a video file of what you just saw and heard. Default controls are simple and similar to SteamVR's screenshot controls. For Index, to save a video screenshot hold the system button and press the A button on your controller. Key Features: User interface designed to be simple and self explanatory. Default configuration intended to be useful for most cases. Fast, efficient, real-time video and audio recording using modern formats that are accepted across the web.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2276590/header.jpg?t=1677136654",
+    "Price": 8.99,
+    "Developers": "Point'n'Shoot",
+    "Publishers": "Point'n'Shoot",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2276590/ss_faa272d4aca9d17cc94323b496607e76ccdb08f0.1920x1080.jpg?t=1677136654,https://cdn.akamai.steamstatic.com/steam/apps/2276590/ss_5fe8c6753c04a73f64c18be8c1e3ada5aae0eb5e.1920x1080.jpg?t=1677136654,https://cdn.akamai.steamstatic.com/steam/apps/2276590/ss_da93a0e8d0580cd4ed825e63ffb3ba3d185eb728.1920x1080.jpg?t=1677136654,https://cdn.akamai.steamstatic.com/steam/apps/2276590/ss_822f971102df5dcd5016f84cb45ab7398387cef6.1920x1080.jpg?t=1677136654,https://cdn.akamai.steamstatic.com/steam/apps/2276590/ss_d8ba855b9b5c7deb827e5e66f22398702c0a84ea.1920x1080.jpg?t=1677136654",
+    "Slug": "replayvr",
+    "Meta Title": "ReplayVR: Feb 22, 2023, Point'n'Shoot and Full Overview",
+    "Meta Description": "Looking for information on ReplayVR? Check out the release date (Feb 22, 2023), developer insights from Point'n'Shoot, and a complete game summary.",
+    "Alt Text Image": "Official header image for ReplayVR game - Steam 2276590",
+    "Canonical URL": "https://gusku.site/game/replayvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ReplayVR\", \"description\": \"Looking for information on ReplayVR? Check out the release date (Feb 22, 2023), developer insights from Point'n'Shoot, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 22, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Point'n'Shoot\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Point'n'Shoot\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2276590/header.jpg?t=1677136654\", \"offers\": {\"@type\": \"Offer\", \"price\": 8.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

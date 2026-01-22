@@ -1,0 +1,21 @@
+{
+    "AppID": 1043040,
+    "Name": "Picross Floof",
+    "Release date": "Apr 1, 2019",
+    "About the game": "Do you ever get tired of action packed games where you can’t relax? Do you ever just wanna sit down and play a calm game while still stimulating your brain? Do you like picross? Well if any of those sentences caught your eye or you just wanna buy a random game, this is the game for you! Experience a calm and relaxing environment for you to enjoy and solve picross puzzles in. Picross puzzles are grid based challenges solved logically by interpreting the unique rules to figure out what cells to be filled in and not. Each puzzle gradually reveals the pixel art hidden. Levels available range from 5x5 to 20x20 with composite levels up to 20x20 in a 4x4 grid, in total 500 playable levels are available. Picross Floof comes with automated error checking to avoid getting stuck on levels, but also to add difficulty whilst encouraging the player to think before filling in a tile. The bigger puzzles have more tries before having to start over, try-count is per composite sub level and not for a whole composite level. If you get tired of a level or need a break you can save your progress and continue at a later time. Disclaimer The game does not guarantee guessfree levels, that means that there may be levels that can't be completely solved purely with logic.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1043040/header.jpg?t=1575997108",
+    "Price": 0.99,
+    "Developers": "Sleepy Red Panda Studio",
+    "Publishers": "Sleepy Red Panda Studio",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1043040/ss_87282f7cb369014c4ea60d11007e9a523470d515.1920x1080.jpg?t=1575997108,https://cdn.akamai.steamstatic.com/steam/apps/1043040/ss_c08f8b0505b7963e7f42ca96be8a36c4bef8304d.1920x1080.jpg?t=1575997108,https://cdn.akamai.steamstatic.com/steam/apps/1043040/ss_066c892636194c28d78883bd6bfb71587479b102.1920x1080.jpg?t=1575997108,https://cdn.akamai.steamstatic.com/steam/apps/1043040/ss_38b1a8ea67fbc738ed23e51e208b1d0e75579f80.1920x1080.jpg?t=1575997108,https://cdn.akamai.steamstatic.com/steam/apps/1043040/ss_3a1a93c6a282bc3088366535136223213ea544dc.1920x1080.jpg?t=1575997108",
+    "Slug": "picross-floof",
+    "Meta Title": "Picross Floof: Apr 1, 2019, Sleepy Red Panda Studio and F...",
+    "Meta Description": "Looking for information on Picross Floof? Check out the release date (Apr 1, 2019), developer insights from Sleepy Red Panda Studio, and a complete game...",
+    "Alt Text Image": "Official header image for Picross Floof game - Steam 1043040",
+    "Canonical URL": "https://gusku.site/game/picross-floof",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Picross Floof\", \"description\": \"Looking for information on Picross Floof? Check out the release date (Apr 1, 2019), developer insights from Sleepy Red Panda Studio, and a complete game...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 1, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Sleepy Red Panda Studio\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Sleepy Red Panda Studio\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1043040/header.jpg?t=1575997108\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

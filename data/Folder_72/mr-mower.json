@@ -1,0 +1,21 @@
+{
+    "AppID": 1863150,
+    "Name": "Mr. Mower",
+    "Release date": "Mar 20, 2023",
+    "About the game": "Mr. Mower is a challenging top-down lawnmowing simulator with a focus on avoiding obstacles as you mow your way through various lawns. You are a lawnmower created by Hane, who is hoping to create her first successful project, help her accomplish her goal by becoming the best mower you can be. Features - Challenging top down movement where every second counts towards mowing lawns and not taking a hit - An array of obstacles designed to put your mowing skills to the test. - Extra challenge in the form of a collectable flower found throughout each lawn.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1863150/header.jpg?t=1679328017",
+    "Price": 7.99,
+    "Developers": "Guiding Eye Studios",
+    "Publishers": "Guiding Eye Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1863150/ss_e24a57d75c85fc964f17d39be62109a74ce0024c.1920x1080.jpg?t=1679328017,https://cdn.akamai.steamstatic.com/steam/apps/1863150/ss_956857aa189c4a9895bfaf6549e45fed4a7e0caa.1920x1080.jpg?t=1679328017,https://cdn.akamai.steamstatic.com/steam/apps/1863150/ss_6141e1e27a9de1ff31816c24075802c9423bcf54.1920x1080.jpg?t=1679328017,https://cdn.akamai.steamstatic.com/steam/apps/1863150/ss_3e066ba91f3d0b58453706ece10e9a819e4cb463.1920x1080.jpg?t=1679328017,https://cdn.akamai.steamstatic.com/steam/apps/1863150/ss_40ab39532d804feb9a4bdae78f59baeadf95cb74.1920x1080.jpg?t=1679328017",
+    "Slug": "mr-mower",
+    "Meta Title": "Mr. Mower: Mar 20, 2023, Guiding Eye Studios and Full Ove...",
+    "Meta Description": "Looking for information on Mr. Mower? Check out the release date (Mar 20, 2023), developer insights from Guiding Eye Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Mr. Mower game - Steam 1863150",
+    "Canonical URL": "https://gusku.site/game/mr-mower",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Mr. Mower\", \"description\": \"Looking for information on Mr. Mower? Check out the release date (Mar 20, 2023), developer insights from Guiding Eye Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 20, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Guiding Eye Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Guiding Eye Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1863150/header.jpg?t=1679328017\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

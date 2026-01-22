@@ -1,0 +1,21 @@
+{
+    "AppID": 732980,
+    "Name": "Keyscaper",
+    "Release date": "Oct 30, 2017",
+    "About the game": "Keyscaper is a game with a minimum of 2 players, a maximum of 6 players, to get the keys by killing each other in order to get out of the hotel fastest. Kill the enemy to collect the keys and fill the exit gauges to win If you die while holding the key, all the keys will be taken. If you die, you will be respawned after a certain period of time. Retrieve the key. All players die when they hit two. You can not know the physical condition of the opponent. Only your fitness status can be found through the UI. Cheese is an item for restoring physical strength. If you have a key, look for cheese to avoid dying. If you die while opening the escape door, you lose not only the key, but also the gauge is reduced by half. Listen to the enemy's footsteps. I can tell roughly where. Sprints have a limited duration and can not be attacked while in use. Please use it when appropriate. It slows down when you walk, but it also reduces the noise. The position of the escape door does not change. It's at the end of the first floor. How to play - WASD to Move - Space to Jump - Left Control to Walk - Left Shift to Sprint - E to Open door - Mouse left Click to Attack",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/732980/header.jpg?t=1509369698",
+    "Price": 7.99,
+    "Developers": "FomoonSoft",
+    "Publishers": "FomoonSoft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/732980/ss_868db7f2fa852adbf5726695363f31558e800542.1920x1080.jpg?t=1509369698,https://cdn.akamai.steamstatic.com/steam/apps/732980/ss_566b70fc13179062646e4e0391d3414acdb9dce5.1920x1080.jpg?t=1509369698,https://cdn.akamai.steamstatic.com/steam/apps/732980/ss_effdfefe10e5e2252d0d6fc1e94251bf58ccd2da.1920x1080.jpg?t=1509369698,https://cdn.akamai.steamstatic.com/steam/apps/732980/ss_602af300b43eb1647ce26ea18a306a3228cbd8f6.1920x1080.jpg?t=1509369698,https://cdn.akamai.steamstatic.com/steam/apps/732980/ss_08372735fd4e4e076010c2dbbc6f96772d798856.1920x1080.jpg?t=1509369698",
+    "Slug": "keyscaper",
+    "Meta Title": "Keyscaper: Oct 30, 2017, FomoonSoft and Full Overview",
+    "Meta Description": "Looking for information on Keyscaper? Check out the release date (Oct 30, 2017), developer insights from FomoonSoft, and a complete game summary.",
+    "Alt Text Image": "Official header image for Keyscaper game - Steam 732980",
+    "Canonical URL": "https://gusku.site/game/keyscaper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Keyscaper\", \"description\": \"Looking for information on Keyscaper? Check out the release date (Oct 30, 2017), developer insights from FomoonSoft, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 30, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"FomoonSoft\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"FomoonSoft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/732980/header.jpg?t=1509369698\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1517440,
+    "Name": "Star Aegis",
+    "Release date": "Feb 17, 2021",
+    "About the game": "Star Aegis is a shoot'em up without shooting. Use your shields to reflect bullets. Wave-based, scorechasing old school arcade experience. Your shields are powerful but limited. You need to defend and reflect from one side while tactically dodge from the other. Choose between ramming enemy ships with your shield for a smaller score or go for broke by reflecting bullets back at them. Main graphics, programming and all of audio made by one developer, one-man band style (hope you like guitars). A short but intense experience. I tried capturing the experience of playing a couple of rounds at the arcade before going to school. How high can you score? How long can you endure as the last line of defense?",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1517440/header.jpg?t=1623591474",
+    "Price": 0.99,
+    "Developers": "Felipe Silva",
+    "Publishers": "Felipe Silva",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1517440/ss_6f91b78b8bd2c73419fe1c22a5b949e3f7b847ab.1920x1080.jpg?t=1623591474,https://cdn.akamai.steamstatic.com/steam/apps/1517440/ss_1f9041b7a6adb3ed12a2c6dc6be5c1dec44aaa02.1920x1080.jpg?t=1623591474,https://cdn.akamai.steamstatic.com/steam/apps/1517440/ss_ae6fb7632b16ce5bd6ac044f1b316ef285e3ec7d.1920x1080.jpg?t=1623591474,https://cdn.akamai.steamstatic.com/steam/apps/1517440/ss_27290af3a591a8e937826194c0f207f5e8475034.1920x1080.jpg?t=1623591474,https://cdn.akamai.steamstatic.com/steam/apps/1517440/ss_cf9fe7dbcc46ffd110c4d0ed4ff64c8b35daa948.1920x1080.jpg?t=1623591474",
+    "Slug": "star-aegis",
+    "Meta Title": "Star Aegis: Feb 17, 2021, Felipe Silva and Full Overview",
+    "Meta Description": "Looking for information on Star Aegis? Check out the release date (Feb 17, 2021), developer insights from Felipe Silva, and a complete game summary.",
+    "Alt Text Image": "Official header image for Star Aegis game - Steam 1517440",
+    "Canonical URL": "https://gusku.site/game/star-aegis",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Star Aegis\", \"description\": \"Looking for information on Star Aegis? Check out the release date (Feb 17, 2021), developer insights from Felipe Silva, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 17, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Felipe Silva\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Felipe Silva\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1517440/header.jpg?t=1623591474\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

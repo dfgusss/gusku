@@ -1,0 +1,21 @@
+{
+    "AppID": 982220,
+    "Name": "Globesweeper",
+    "Release date": "Feb 12, 2019",
+    "About the game": "Globesweeper is a twist on the classic minesweeper game. Use the numbers to work out all the tiles that are safe to reveal but be careful one mistake revealing a mine will cause the whole globe to detonate and you will have to start again! With hexagon, triangle and classic square game modes, 5 different globe sizes and 4 difficulty settings you can be playing on anything from tiny hexagonal globes made of 92 tiles to colossal triangle globes with 20,480 tiles. Play in traditional or guaranteed solvable mode where you never have to guess. Gain achievements to unlock all 14 themes including planet Earth, the Moon, Mars, stylish gold, ruby, emerald and sapphire. Can you beat a colossal globe? How to Play Each tile you reveal will have a number on it (blank means 0). This is the number of mines on adjacent tiles*. For example in hexagonal mode if you have a tile with a 3 on it and 3 of its 6 adjacent tiles have been revealed you know the other 3 are mines. Now if you have a tile with 1 on it and one of its adjacent tiles has been marked as a mine you know the other 5 adjacent tiles are safe to be revealed as its mine is already accounted for. Using this technique carry on until the whole globe is revealed. The same technique can be used for both the triangle and the classic square game modes. *Adjacent tiles are any tiles that share a corner. For hexagons this is 6 tiles, squares 8 tiles and triangles 12 tiles. Key Features Guaranteed solvable option Hexagonal, classic and triangle modes 5 globes sizes to choose from 4 difficulty levels 120 Global scoreboards 14 themes to unlock",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/982220/header.jpg?t=1564356188",
+    "Price": 2.99,
+    "Developers": "Incandescent Games",
+    "Publishers": "Incandescent Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/982220/ss_c4f799072bbfb8d45a2f00814673d3ce0f1fd5db.1920x1080.jpg?t=1564356188,https://cdn.akamai.steamstatic.com/steam/apps/982220/ss_32ffd06a65305ec0a39829a92eb8b3bd04ea8154.1920x1080.jpg?t=1564356188,https://cdn.akamai.steamstatic.com/steam/apps/982220/ss_1e7c478f97e704c8e85b2d95a894f1957ba07d39.1920x1080.jpg?t=1564356188,https://cdn.akamai.steamstatic.com/steam/apps/982220/ss_60f787cd306060408753b4764b43e887d013c390.1920x1080.jpg?t=1564356188,https://cdn.akamai.steamstatic.com/steam/apps/982220/ss_e27578830c771af2e86ef309895a0f6d3ab91835.1920x1080.jpg?t=1564356188,https://cdn.akamai.steamstatic.com/steam/apps/982220/ss_c2488f18176ac36a15da21e0503e0716ba488acb.1920x1080.jpg?t=1564356188,https://cdn.akamai.steamstatic.com/steam/apps/982220/ss_399307d38ca3e9a9dc6c1bfd88c60e50570c1b0b.1920x1080.jpg?t=1564356188,https://cdn.akamai.steamstatic.com/steam/apps/982220/ss_8a50b9b3eefa34163753a277946be69e833e31f7.1920x1080.jpg?t=1564356188",
+    "Slug": "globesweeper",
+    "Meta Title": "Globesweeper: Feb 12, 2019, Incandescent Games and Full O...",
+    "Meta Description": "Looking for information on Globesweeper? Check out the release date (Feb 12, 2019), developer insights from Incandescent Games, and a complete game summ...",
+    "Alt Text Image": "Official header image for Globesweeper game - Steam 982220",
+    "Canonical URL": "https://gusku.site/game/globesweeper",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Globesweeper\", \"description\": \"Looking for information on Globesweeper? Check out the release date (Feb 12, 2019), developer insights from Incandescent Games, and a complete game summ...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 12, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Incandescent Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Incandescent Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/982220/header.jpg?t=1564356188\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

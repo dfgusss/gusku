@@ -1,0 +1,21 @@
+{
+    "AppID": 671460,
+    "Name": "The Gamer Challenge",
+    "Release date": "Aug 8, 2017",
+    "About the game": "This is a minigame based rage game. Actually there are 10 different minigames with 3 difficulty levels each: - Space shooter: You control a space ship and need to survive and destroy the enemies by shooting them. Difficulty increases exponencially due to friendly collision avoidance and prediction of the player's movement. - Lander: Just land on the green platform avoiding hard impacts. Each propulsor is activated with one key (hard to control). - Canon: Shoot to all the objects within the given time. - Helicopter: Reach the end of the tube avoiding sensible hits. - Prevent the red button from going down: And don't get destroyed and destroy the enemy balls. - Memory: Memorize the path and repeat it. - Coloured balls: Match the other ball's color upon collision. - Jump through the hole: That's it. - Jump up: From one orb to another without touching the biohazard yellow material and reach de ceilling. - Shooter: Destroy all the moving objects but don't get too close. You can watch the trailer and see some of them. In the future, I may include some more minigames if the community supports me.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/671460/header.jpg?t=1502207135",
+    "Price": 4.99,
+    "Developers": "Babalus123",
+    "Publishers": "Babalus123",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_d1e58b9c154ff0e676c212e65532fd00e97ac5f4.1920x1080.jpg?t=1502207135,https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_2683248cc3d0201249b5f8d935f4c7776e293d13.1920x1080.jpg?t=1502207135,https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_a094ca826d63c6db803d018ab35326a6665e0913.1920x1080.jpg?t=1502207135,https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_b87465efd4b6bb8504681b99543f9f5616bafd5d.1920x1080.jpg?t=1502207135,https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_bbe704c1aa94ef8da418ad7d45f0b3620ec7cdee.1920x1080.jpg?t=1502207135,https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_2558186a9b00d8c25ccaa3346e54659f3f5017b7.1920x1080.jpg?t=1502207135,https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_45c787d7348f76d9f2ee346ba79043a4129ca145.1920x1080.jpg?t=1502207135,https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_8ab65a61c61831fa82122fdfc2e6b9d97354c5d0.1920x1080.jpg?t=1502207135,https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_90442fa2341e50f053afff4ee0259c89ef59a80b.1920x1080.jpg?t=1502207135,https://cdn.akamai.steamstatic.com/steam/apps/671460/ss_849c7316aa6610aa2538945e6248de32f6f9b5eb.1920x1080.jpg?t=1502207135",
+    "Slug": "the-gamer-challenge",
+    "Meta Title": "The Gamer Challenge: Aug 8, 2017, Babalus123 and Full Ove...",
+    "Meta Description": "Looking for information on The Gamer Challenge? Check out the release date (Aug 8, 2017), developer insights from Babalus123, and a complete game summary.",
+    "Alt Text Image": "Official header image for The Gamer Challenge game - Steam 671460",
+    "Canonical URL": "https://gusku.site/game/the-gamer-challenge",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"The Gamer Challenge\", \"description\": \"Looking for information on The Gamer Challenge? Check out the release date (Aug 8, 2017), developer insights from Babalus123, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 8, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Babalus123\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Babalus123\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/671460/header.jpg?t=1502207135\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1424570,
+    "Name": "Delta0",
+    "Release date": "Dec 1, 2020",
+    "About the game": "Delta0 : A puzzle game to stimulate your brain! Features [1500 Levels] - 500 Easy - 500 Medium - 500 Hard [200 Achievements] - Global platform leaderboard [8 Game Modes] - Static levels: Easy, Medium, Hard - Infinite levels: Daily, Quick, Timer, News, Messages/Emails [Cipher Messages] - Send encrypted messages to your friends. How to Play? [TL;DR] You need to get the same number as what you see in the corner based on the sum of the 3 circles connected by a triangle. Each big circle contains a number inside. Each triangle is connected to 3 big circles and represents a sum. A green triangle means that you have the same sum as the number expected from the corner. 3 small circles will appear when you have the correct sum. Example: (1+1+1) -&gt; 3 {✔️} (2+0+1) -&gt; 3 {✔️} A red triangle means that you don't have the same sum as the number expected from the corner. The number inside { } represents the delta between the sum you have and the expected value. Example: (1+0+1) -&gt; 3 {-1 ❌} (1+2+1) -&gt; 3 {+1 ❌} You can drag and drop each circle between other circles. The level is completed when you get a Delta0 for each corner (4) (your sum = sum expected). Don't forget to check out the Tutorial. It may look easy, but it does require some skill ;)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1424570/header.jpg?t=1642974415",
+    "Price": 0.0,
+    "Developers": "JSR-Productions",
+    "Publishers": "JSR-Productions",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1424570/ss_7d861538ae7e7eec3a9144f54e77efd3812bd841.1920x1080.jpg?t=1642974415,https://cdn.akamai.steamstatic.com/steam/apps/1424570/ss_5019eb6fc4e6164de33cfedeaa99524019a187d1.1920x1080.jpg?t=1642974415,https://cdn.akamai.steamstatic.com/steam/apps/1424570/ss_844caf032b7ec31a8b7774df4eaf66c4cb7aab65.1920x1080.jpg?t=1642974415,https://cdn.akamai.steamstatic.com/steam/apps/1424570/ss_33db9a07bf65530149b015037f3ce1a8a5dccd36.1920x1080.jpg?t=1642974415,https://cdn.akamai.steamstatic.com/steam/apps/1424570/ss_89d7b4ea39604d4e95abde3c611063cf197d5e94.1920x1080.jpg?t=1642974415,https://cdn.akamai.steamstatic.com/steam/apps/1424570/ss_8bea1f095d634911593c80ed80fb51ce136af649.1920x1080.jpg?t=1642974415,https://cdn.akamai.steamstatic.com/steam/apps/1424570/ss_2c9b50c0900d4a7f895bb7e7129a5f5b28f82a7d.1920x1080.jpg?t=1642974415",
+    "Slug": "delta0",
+    "Meta Title": "Delta0: Dec 1, 2020, JSR-Productions and Full Overview",
+    "Meta Description": "Looking for information on Delta0? Check out the release date (Dec 1, 2020), developer insights from JSR-Productions, and a complete game summary.",
+    "Alt Text Image": "Official header image for Delta0 game - Steam 1424570",
+    "Canonical URL": "https://gusku.site/game/delta0",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Delta0\", \"description\": \"Looking for information on Delta0? Check out the release date (Dec 1, 2020), developer insights from JSR-Productions, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 1, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"JSR-Productions\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"JSR-Productions\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1424570/header.jpg?t=1642974415\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

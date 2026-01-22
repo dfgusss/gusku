@@ -1,0 +1,21 @@
+{
+    "AppID": 1217280,
+    "Name": "MyBot",
+    "Release date": "Jan 29, 2020",
+    "About the game": "Help Mybot find his home through a 3d maze of traps. Beware of shuttering glass, sliding ice, blocking walls and reset traps. Challenge yourself or your friend in multi-player. Have hours of fun and never run out of game-play as you create your own levels. Make your game the cool place to go.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1217280/header.jpg?t=1596104054",
+    "Price": 6.99,
+    "Developers": "Emile Badenhorst",
+    "Publishers": "Myvar Holdings",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1217280/ss_b74e2282c01ca5f0925a542204c432dad8de8851.1920x1080.jpg?t=1596104054,https://cdn.akamai.steamstatic.com/steam/apps/1217280/ss_419283b7aa7ac759d56f6615053c43115e894887.1920x1080.jpg?t=1596104054,https://cdn.akamai.steamstatic.com/steam/apps/1217280/ss_59904a6532ed3e50b037a47e17a89edfd711f48d.1920x1080.jpg?t=1596104054,https://cdn.akamai.steamstatic.com/steam/apps/1217280/ss_5f3ceb538c7edcb3676baa927359c808ee9d79c0.1920x1080.jpg?t=1596104054,https://cdn.akamai.steamstatic.com/steam/apps/1217280/ss_57d7a1b07ffb58beb7fb4207b55bb930fe70d7b2.1920x1080.jpg?t=1596104054",
+    "Slug": "mybot",
+    "Meta Title": "MyBot: Jan 29, 2020, Emile Badenhorst and Full Overview",
+    "Meta Description": "Looking for information on MyBot? Check out the release date (Jan 29, 2020), developer insights from Emile Badenhorst, and a complete game summary.",
+    "Alt Text Image": "Official header image for MyBot game - Steam 1217280",
+    "Canonical URL": "https://gusku.site/game/mybot",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MyBot\", \"description\": \"Looking for information on MyBot? Check out the release date (Jan 29, 2020), developer insights from Emile Badenhorst, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 29, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Emile Badenhorst\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Myvar Holdings\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1217280/header.jpg?t=1596104054\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

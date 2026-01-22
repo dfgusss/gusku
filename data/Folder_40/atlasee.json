@@ -1,0 +1,21 @@
+{
+    "AppID": 1052330,
+    "Name": "Atlasee",
+    "Release date": "Apr 30, 2019",
+    "About the game": "Modern file manager with a native eye tracking support. It supports all the functionality you expect from your file manager enhanced by information where you are looking. This makes it more natural to use and opens up a whole world of possibilities of how you can interact with your file system. Eye tracking device is not required to use this application. Currently supported eye trackers are Tobii EyeX and Tobii 4C CAUTION: Beta version phase - Please use at your own risk, author is not responsible for any data loss! Key features Browse, open, copy, paste files/folders File/folder details Gallery mode with a gaze zoom Gaze selection Gaze scrolling More to come!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1052330/header.jpg?t=1556732082",
+    "Price": 0.99,
+    "Developers": "Martin Chrzan",
+    "Publishers": "Martin Chrzan",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1052330/ss_56028989391041eae50742199f9b2074b2a7055e.1920x1080.jpg?t=1556732082,https://cdn.akamai.steamstatic.com/steam/apps/1052330/ss_3835c960b3861923e9ba06818a00c1de604d4844.1920x1080.jpg?t=1556732082,https://cdn.akamai.steamstatic.com/steam/apps/1052330/ss_337a9571634387b9a31b31029f419ab2be8edce6.1920x1080.jpg?t=1556732082,https://cdn.akamai.steamstatic.com/steam/apps/1052330/ss_837537aa45fcfbca7c8736db353405f84a9c70f4.1920x1080.jpg?t=1556732082,https://cdn.akamai.steamstatic.com/steam/apps/1052330/ss_a1f1800d41a3752047b8fd90bbcb5d3637e80c86.1920x1080.jpg?t=1556732082",
+    "Slug": "atlasee",
+    "Meta Title": "Atlasee: Apr 30, 2019, Martin Chrzan and Full Overview",
+    "Meta Description": "Looking for information on Atlasee? Check out the release date (Apr 30, 2019), developer insights from Martin Chrzan, and a complete game summary.",
+    "Alt Text Image": "Official header image for Atlasee game - Steam 1052330",
+    "Canonical URL": "https://gusku.site/game/atlasee",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Atlasee\", \"description\": \"Looking for information on Atlasee? Check out the release date (Apr 30, 2019), developer insights from Martin Chrzan, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 30, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"Martin Chrzan\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Martin Chrzan\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1052330/header.jpg?t=1556732082\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

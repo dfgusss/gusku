@@ -1,0 +1,21 @@
+{
+    "AppID": 1733430,
+    "Name": "RUM - Rust Utility Mod",
+    "Release date": "Sep 9, 2021",
+    "About the game": "RUM the Rust Utility Mod is a standalone program to run alongside Rust, it gives players up to 4 furnace timers based on optimized counts from Lewis3's Rust furnace guide. It features a node calculator for farmers to know how many nodes of each type they need to get a specific amount of one resource. An eco-raid and a raiding calculator to figure out how much boom you need based on what you're trying to raid through and how many of them you're trying to go through. A resource calculator based off of what type of boom you're trying to make and a cloth to scrap converter with more features coming soon. *Note* I am still working on adding features so the current version is not the finished version of the software. As new features are added the pricing will stay the same. Current Features Raid Calculator Eco Raid Calculator Raid Boom material calculator Optimal Furnace counts to maximize smelting 4 Furnace Timers based off of optimal counts Cloth to Scrap converter Node calculator for farming requirements More coming soon.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1733430/header.jpg?t=1631194246",
+    "Price": 2.99,
+    "Developers": "Alex Renard",
+    "Publishers": "Alex Renard",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1733430/ss_239b213a17caff9b5f2e7b3cec3f2da35edbec4c.1920x1080.jpg?t=1631194246,https://cdn.akamai.steamstatic.com/steam/apps/1733430/ss_3d1b5788aaffcf9531a56c99352f867859536db0.1920x1080.jpg?t=1631194246,https://cdn.akamai.steamstatic.com/steam/apps/1733430/ss_d35885c4208012f6ab3335ce69c4c83eb9c6e742.1920x1080.jpg?t=1631194246,https://cdn.akamai.steamstatic.com/steam/apps/1733430/ss_9f8090748d25c4182bb4aa9a38b004e3fca4325c.1920x1080.jpg?t=1631194246,https://cdn.akamai.steamstatic.com/steam/apps/1733430/ss_f4293c735cad66f9cd732414ef49d340b685c506.1920x1080.jpg?t=1631194246",
+    "Slug": "rum-rust-utility-mod",
+    "Meta Title": "RUM - Rust Utility Mod: Sep 9, 2021, Alex Renard and Full...",
+    "Meta Description": "Looking for information on RUM - Rust Utility Mod? Check out the release date (Sep 9, 2021), developer insights from Alex Renard, and a complete game su...",
+    "Alt Text Image": "Official header image for RUM - Rust Utility Mod game - Steam 1733430",
+    "Canonical URL": "https://gusku.site/game/rum-rust-utility-mod",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RUM - Rust Utility Mod\", \"description\": \"Looking for information on RUM - Rust Utility Mod? Check out the release date (Sep 9, 2021), developer insights from Alex Renard, and a complete game su...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 9, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Alex Renard\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Alex Renard\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1733430/header.jpg?t=1631194246\", \"offers\": {\"@type\": \"Offer\", \"price\": 2.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 1248360,
+    "Name": "WalkinVR",
+    "Release date": "Jun 29, 2020",
+    "About the game": "Important: When using the WalkinVR for the first time, it MUST be started from the 'Launch' button, to ensure any additional services and drivers it requires get installed. Premium DLC is intended only for personal use. For Business, Research, Clinic, University, Foundation, and Therapy Center please contact us at Requirements WalkinVR is utility application that will add extra features to your existing VR Setup: Oculus, WMR or Index and it does not have extra requirements about spec of the PC. Movement and Rotation Players are now able to move and rotate in virtual reality without having to perform the movement in the real world. This feature is most utilized when players need to move, reach, stand and turn around 360 degrees. Gameplay with Personal Assistant A third part Xbox Controller can be used to assist the player with movement and button pressing. Adjustment of Controller Position Players can adjust the controllers’ position and range of motion. This feature helps players who are not able to move their controllers to the height or depth required by the video game. Players can also adjust the movement sensitivity of their virtual reality controller that is translated from their physical controller. A 3- inch controller movement can translate to a 6-inch controller movement in virtual reality. Players can change the orientation of their controller in virtual reality. This helps players who have a limited range of motion in their wrists. Hand tracking with external sensor (in development). This feature is dedicated for players that have problems with holding of controllers. This can be mostly caused either by spastics or spinal injury. In such configuration external sensor is tracking player's pose and transfers that position into Virtual Reality.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1248360/header.jpg?t=1642758421",
+    "Price": 0.0,
+    "Developers": "2MW",
+    "Publishers": "2MW",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1248360/ss_655a833f5c21160de8a58831f293fb7c307a2721.1920x1080.jpg?t=1642758421,https://cdn.akamai.steamstatic.com/steam/apps/1248360/ss_124e8406be384174da6742ba288a35d9d3e14397.1920x1080.jpg?t=1642758421,https://cdn.akamai.steamstatic.com/steam/apps/1248360/ss_67a9b94a2a1e980b6101979029a134c4ed747918.1920x1080.jpg?t=1642758421,https://cdn.akamai.steamstatic.com/steam/apps/1248360/ss_763a0dc5609b95ba041f7cbd72f783bf640c529e.1920x1080.jpg?t=1642758421,https://cdn.akamai.steamstatic.com/steam/apps/1248360/ss_0bda126bf429d5dda759af1dfa3d27f3d416b78f.1920x1080.jpg?t=1642758421",
+    "Slug": "walkinvr",
+    "Meta Title": "WalkinVR: Jun 29, 2020, 2MW and Full Overview",
+    "Meta Description": "Looking for information on WalkinVR? Check out the release date (Jun 29, 2020), developer insights from 2MW, and a complete game summary.",
+    "Alt Text Image": "Official header image for WalkinVR game - Steam 1248360",
+    "Canonical URL": "https://gusku.site/game/walkinvr",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"WalkinVR\", \"description\": \"Looking for information on WalkinVR? Check out the release date (Jun 29, 2020), developer insights from 2MW, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 29, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"2MW\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"2MW\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1248360/header.jpg?t=1642758421\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

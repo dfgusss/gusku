@@ -1,0 +1,21 @@
+{
+    "AppID": 700920,
+    "Name": "Placement",
+    "Release date": "Sep 26, 2017",
+    "About the game": "Placement is a minimalist logic puzzle game based on chess. The goal of the game is to place the chess pieces on the board such that every piece is protected exactly once. Key Features Simple gameplay that's easy to learn but hard to master. Over 80 levels ranging from the trivially simple to the deviously difficult. Relaxing music and no time constraints. DRM free.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/700920/header.jpg?t=1601141271",
+    "Price": 0.0,
+    "Developers": "Albin Bernhardsson",
+    "Publishers": "Albin Bernhardsson",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/700920/ss_8051040f6d5b1d41195068ab4f83f9d637d5b6b4.1920x1080.jpg?t=1601141271,https://cdn.akamai.steamstatic.com/steam/apps/700920/ss_55092aaccd4e75152b6d82285bd9d8f747eaa52d.1920x1080.jpg?t=1601141271,https://cdn.akamai.steamstatic.com/steam/apps/700920/ss_7a3a2a6754e7407befb2552faa700ac08b9a1e92.1920x1080.jpg?t=1601141271,https://cdn.akamai.steamstatic.com/steam/apps/700920/ss_0d008f4e5bb3d14d8588340f7ee19ac05246f847.1920x1080.jpg?t=1601141271,https://cdn.akamai.steamstatic.com/steam/apps/700920/ss_013a5c81b4f014c22653fe03ab6c4cb56b42e8e0.1920x1080.jpg?t=1601141271,https://cdn.akamai.steamstatic.com/steam/apps/700920/ss_617d0c8ba7edca11319c779695ccaf74e5962a28.1920x1080.jpg?t=1601141271",
+    "Slug": "placement",
+    "Meta Title": "Placement: Sep 26, 2017, Albin Bernhardsson and Full Over...",
+    "Meta Description": "Looking for information on Placement? Check out the release date (Sep 26, 2017), developer insights from Albin Bernhardsson, and a complete game summary.",
+    "Alt Text Image": "Official header image for Placement game - Steam 700920",
+    "Canonical URL": "https://gusku.site/game/placement",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Placement\", \"description\": \"Looking for information on Placement? Check out the release date (Sep 26, 2017), developer insights from Albin Bernhardsson, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 26, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Albin Bernhardsson\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Albin Bernhardsson\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/700920/header.jpg?t=1601141271\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

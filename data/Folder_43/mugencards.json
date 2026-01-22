@@ -1,0 +1,21 @@
+{
+    "AppID": 1976730,
+    "Name": "MugenCards",
+    "Release date": "May 16, 2022",
+    "About the game": "Play MugenCards, an endless card game! MugenCards is a simple card game that can be played endlessly. The player is presented with two to six cards. Pick a red card and your coins will increase. Pick a blue card and your coins will decrease. You can pick a card simply by pressing one of the assigned buttons/key on your gamepad/keyboard. (You can change the assigned buttons/keys in the Options menu.) After picking a card, you will then proceed to the next round. Try to keep playing for as long as you can by avoiding the blue cards! If your coins reaches zero, then it's game over. As long as you still have some coins left after picking a card, you will be able to proceed to the next round. The speed at which the blue card switches with a red card will increase as you proceed to higher rounds. The coins you can earn/lose from the cards will increase with each round, thus both the risk and reward of playing another round will increase with each round you decide to play. Try to pick a red card each round!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1976730/header.jpg?t=1652697766",
+    "Price": 0.99,
+    "Developers": "Justin Matsuzawa",
+    "Publishers": "Justin Matsuzawa",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1976730/ss_3e7fc4f539e55023072948b480564b365b1a2fd5.1920x1080.jpg?t=1652697766,https://cdn.akamai.steamstatic.com/steam/apps/1976730/ss_ee54c94ffd0a003893cdb03caf1ee34c38655dd4.1920x1080.jpg?t=1652697766,https://cdn.akamai.steamstatic.com/steam/apps/1976730/ss_e62cd2d5a06b54368fb349b5b4d6c31f2baac324.1920x1080.jpg?t=1652697766,https://cdn.akamai.steamstatic.com/steam/apps/1976730/ss_12cb60da347da846f4a96643f61ba899b5443f8e.1920x1080.jpg?t=1652697766,https://cdn.akamai.steamstatic.com/steam/apps/1976730/ss_f8258509fce5cf289906ce091134c4cb8ca06608.1920x1080.jpg?t=1652697766",
+    "Slug": "mugencards",
+    "Meta Title": "MugenCards: May 16, 2022, Justin Matsuzawa and Full Overview",
+    "Meta Description": "Looking for information on MugenCards? Check out the release date (May 16, 2022), developer insights from Justin Matsuzawa, and a complete game summary.",
+    "Alt Text Image": "Official header image for MugenCards game - Steam 1976730",
+    "Canonical URL": "https://gusku.site/game/mugencards",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"MugenCards\", \"description\": \"Looking for information on MugenCards? Check out the release date (May 16, 2022), developer insights from Justin Matsuzawa, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 16, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Justin Matsuzawa\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Justin Matsuzawa\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1976730/header.jpg?t=1652697766\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

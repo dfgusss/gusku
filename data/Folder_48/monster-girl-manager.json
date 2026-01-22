@@ -1,0 +1,21 @@
+{
+    "AppID": 1806700,
+    "Name": "Monster Girl Manager",
+    "Release date": "Mar 6, 2022",
+    "About the game": "Monster Girl Manager is a monster-raising roguelite that focuses on guiding a team of monster girls through dungeons. All monster girls are procedurally generated from a player entered seed. Entering the same seed will always produce the same Monster Girl, so players can post seeds they have discovered for others to use. In addition to aesthetic traits like eye color and skin color, seeds also influence base stats and personality. Personality and Monster Type directly influence dialogue, skills, abilities, gift preference, and training preference. Monster Girls have different strengths and weaknesses in battle so finding and training different team compositions is a core part of the gameplay loop. Dungeons are designed in a Mystery Dungeon style. Traverse a multi-floor dungeon filled with traps and enemies while managing the health and energy of your team. Collect artifacts during a run that empower your team in battle. Players can upload their own sprites, dialogue, palettes, and dungeon layouts. No coding is required. Simply edit the included text files and restart the game. Monster Girl Manager reads easy to edit png and text files and includes readme files to aid in file manipulation.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1806700/header.jpg?t=1654816522",
+    "Price": 14.99,
+    "Developers": "∇",
+    "Publishers": "∇",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1806700/ss_7edc8e555d6adebd1caa891425f543da82c3e8a0.1920x1080.jpg?t=1654816522,https://cdn.akamai.steamstatic.com/steam/apps/1806700/ss_b0051c0d00d33d192747f0fb80f54e6e81e0c965.1920x1080.jpg?t=1654816522,https://cdn.akamai.steamstatic.com/steam/apps/1806700/ss_033a453edb8e944cc4fb018a6571685e7e45de4e.1920x1080.jpg?t=1654816522,https://cdn.akamai.steamstatic.com/steam/apps/1806700/ss_184c31215a20c233d4561728cd0b474aa6c1dbc9.1920x1080.jpg?t=1654816522,https://cdn.akamai.steamstatic.com/steam/apps/1806700/ss_54d50670574598cd3a916cb31d1c609cd71fefc8.1920x1080.jpg?t=1654816522,https://cdn.akamai.steamstatic.com/steam/apps/1806700/ss_e40848b15fb74f0b683c80db28d92e10bd294f57.1920x1080.jpg?t=1654816522,https://cdn.akamai.steamstatic.com/steam/apps/1806700/ss_f51bd1c34b2489bce238fe526f1699060daa470d.1920x1080.jpg?t=1654816522,https://cdn.akamai.steamstatic.com/steam/apps/1806700/ss_f8efda175202a40b01018152887b69d41c8b18ef.1920x1080.jpg?t=1654816522",
+    "Slug": "monster-girl-manager",
+    "Meta Title": "Monster Girl Manager: Mar 6, 2022, ∇ and Full Overview",
+    "Meta Description": "Looking for information on Monster Girl Manager? Check out the release date (Mar 6, 2022), developer insights from ∇, and a complete game summary.",
+    "Alt Text Image": "Official header image for Monster Girl Manager game - Steam 1806700",
+    "Canonical URL": "https://gusku.site/game/monster-girl-manager",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Monster Girl Manager\", \"description\": \"Looking for information on Monster Girl Manager? Check out the release date (Mar 6, 2022), developer insights from \\u2207, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 6, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u2207\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u2207\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1806700/header.jpg?t=1654816522\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

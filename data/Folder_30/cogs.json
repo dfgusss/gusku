@@ -1,0 +1,21 @@
+{
+    "AppID": 26500,
+    "Name": "Cogs",
+    "Release date": "Apr 14, 2009",
+    "About the game": "Cogs is a puzzle game where players build machines from sliding tiles. Players can choose from 50 levels and 3 gameplay modes. New puzzles are unlocked by building contraptions quickly and efficiently. Inventor Mode: Starting with simple puzzles, players are introduced to the widgets that are used to build machines &#151; gears, pipes, balloons, chimes, hammers, wheels, props, and more. Time Challenge Mode: If you finish a puzzle in Inventor Mode, it will be unlocked here. This time, it will take fewer moves to reach a solution, but you only have 30 seconds to find it. Move Challenge Mode: Take your time and plan ahead. Every click counts when you only get ten moves to find a solution.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/26500/header.jpg?t=1447351765",
+    "Price": 5.99,
+    "Developers": "Lazy 8 Studios",
+    "Publishers": NaN,
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/26500/0000008021.1920x1080.jpg?t=1447351765,https://cdn.akamai.steamstatic.com/steam/apps/26500/0000008022.1920x1080.jpg?t=1447351765,https://cdn.akamai.steamstatic.com/steam/apps/26500/0000008023.1920x1080.jpg?t=1447351765,https://cdn.akamai.steamstatic.com/steam/apps/26500/0000008024.1920x1080.jpg?t=1447351765,https://cdn.akamai.steamstatic.com/steam/apps/26500/0000008025.1920x1080.jpg?t=1447351765",
+    "Slug": "cogs",
+    "Meta Title": "Cogs: Apr 14, 2009, Lazy 8 Studios and Full Overview",
+    "Meta Description": "Looking for information on Cogs? Check out the release date (Apr 14, 2009), developer insights from Lazy 8 Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Cogs game - Steam 26500",
+    "Canonical URL": "https://gusku.site/game/cogs",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Cogs\", \"description\": \"Looking for information on Cogs? Check out the release date (Apr 14, 2009), developer insights from Lazy 8 Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 14, 2009\", \"author\": {\"@type\": \"Organization\", \"name\": \"Lazy 8 Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": NaN}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/26500/header.jpg?t=1447351765\", \"offers\": {\"@type\": \"Offer\", \"price\": 5.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

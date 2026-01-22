@@ -1,0 +1,21 @@
+{
+    "AppID": 2195560,
+    "Name": "Hallowed Pumpkins",
+    "Release date": "Nov 16, 2022",
+    "About the game": "The game sets on a pumpkin farm where two teams are fighting against. There's the Farmers whose main objective is to water a given amount of pumpkins and the other team called Lurkers are trying to prevent that by catching them. The lurkers have the ability to transform themselves into a pumpkin to blend into the environment and emerge as soon as they feel ready to go. The farmers are carrying a shotgun with limited ammo along with a watering can that can run out of water. These can be recharged at one of the two barns located on the map. There are three main adjustable parameters that determines one game: How many pumpkins to spawn, How many pumpkins to water, How many Lurker AIs to spawn (set it up if you wish to play in coop with your friends). A game will end if the number of pumpkins to water are met or all farmers or lurkers are dead. The game only supports friend based matchmaking through Steam overlay.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2195560/header.jpg?t=1668600788",
+    "Price": 3.99,
+    "Developers": "Hyjarion",
+    "Publishers": "Hyjarion",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2195560/ss_e36611b5d8ab48f2d7ec3e3a27231c6d437a7fb0.1920x1080.jpg?t=1668600788,https://cdn.akamai.steamstatic.com/steam/apps/2195560/ss_58260dc580de86cf2dce0c7e3541f09daefb3817.1920x1080.jpg?t=1668600788,https://cdn.akamai.steamstatic.com/steam/apps/2195560/ss_beed7e8535dc5028ff0c40499358eef95e545ec0.1920x1080.jpg?t=1668600788,https://cdn.akamai.steamstatic.com/steam/apps/2195560/ss_12e5fa6a109b144d698201bd699458d26980186f.1920x1080.jpg?t=1668600788,https://cdn.akamai.steamstatic.com/steam/apps/2195560/ss_a2338850df88eacc989647f4bcbe9762c5993d2a.1920x1080.jpg?t=1668600788,https://cdn.akamai.steamstatic.com/steam/apps/2195560/ss_af377d2e35751a41b3b2839a717a71a647762bc0.1920x1080.jpg?t=1668600788,https://cdn.akamai.steamstatic.com/steam/apps/2195560/ss_6f1dc873dcb11487eff18a74aa815e0fc6f3d3fd.1920x1080.jpg?t=1668600788",
+    "Slug": "hallowed-pumpkins",
+    "Meta Title": "Hallowed Pumpkins: Nov 16, 2022, Hyjarion and Full Overview",
+    "Meta Description": "Looking for information on Hallowed Pumpkins? Check out the release date (Nov 16, 2022), developer insights from Hyjarion, and a complete game summary.",
+    "Alt Text Image": "Official header image for Hallowed Pumpkins game - Steam 2195560",
+    "Canonical URL": "https://gusku.site/game/hallowed-pumpkins",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Hallowed Pumpkins\", \"description\": \"Looking for information on Hallowed Pumpkins? Check out the release date (Nov 16, 2022), developer insights from Hyjarion, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 16, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Hyjarion\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Hyjarion\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2195560/header.jpg?t=1668600788\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

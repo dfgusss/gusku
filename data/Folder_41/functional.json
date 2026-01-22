@@ -1,0 +1,21 @@
+{
+    "AppID": 1636730,
+    "Name": "functional",
+    "Release date": "Jul 9, 2021",
+    "About the game": "functional is a puzzle game about math and abstraction. Solve problems and reuse your solutions to write ever-more-complex logic. Start from scratch Start with the simplest mathematical primitives. Everything is a function, and functions can be used to build everything else. Solve increasingly complex problems Use your previous solutions as black boxes, and use them as building blocks to build more complex solutions. Compare your solutions Compare your solutions against other players, and against your Steam friends, both in efficiency and simplicity. Workshop support Create your own levels and share them with the community.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1636730/header.jpg?t=1626399695",
+    "Price": 6.99,
+    "Developers": "yancouto",
+    "Publishers": "Marvellous Soft",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1636730/ss_2fa2f7d15c73d38547a18d06aca5cda17cf66b2b.1920x1080.jpg?t=1626399695,https://cdn.akamai.steamstatic.com/steam/apps/1636730/ss_bf72bd5f0552d079c07e4b3734636f364bd37744.1920x1080.jpg?t=1626399695,https://cdn.akamai.steamstatic.com/steam/apps/1636730/ss_595507772d4e19192acfb5dbc129edf72aaeacd5.1920x1080.jpg?t=1626399695,https://cdn.akamai.steamstatic.com/steam/apps/1636730/ss_304fa475393a78b82462dc6d3e6d2028f3f9df60.1920x1080.jpg?t=1626399695,https://cdn.akamai.steamstatic.com/steam/apps/1636730/ss_379f76e5201fb664dfc639f9fa2fb4f8330f2cd7.1920x1080.jpg?t=1626399695",
+    "Slug": "functional",
+    "Meta Title": "functional: Jul 9, 2021, yancouto and Full Overview",
+    "Meta Description": "Looking for information on functional? Check out the release date (Jul 9, 2021), developer insights from yancouto, and a complete game summary.",
+    "Alt Text Image": "Official header image for functional game - Steam 1636730",
+    "Canonical URL": "https://gusku.site/game/functional",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"functional\", \"description\": \"Looking for information on functional? Check out the release date (Jul 9, 2021), developer insights from yancouto, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jul 9, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"yancouto\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Marvellous Soft\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1636730/header.jpg?t=1626399695\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

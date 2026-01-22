@@ -1,0 +1,21 @@
+{
+    "AppID": 504990,
+    "Name": "VoxVR Viewer",
+    "Release date": "Nov 18, 2017",
+    "About the game": "VoxVR Viewer enables you to view your voxel models from a whole new perspective! You can import all common voxel file formats like .vox, .qb, and more from other voxel software like Magica Voxel, Qubicle or Voxelshop to explore them from within VR. VoxVR Viewer is a restricted version of VoxVR which can not be used to edit or create models. If you like this software, check out VoxVR - The Virtual Reality Voxel Art Editor on Steam. VoxVR allows you to not only view voxel models, but build them in VR! / Please keep in mind, that VoxVR Viewer is still in active development - anything is is subject to change. Currently supported import formats: .vox (Magica Voxel) .qb (Qubicle) .png (Image) .vxvr (VoxVR)",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/504990/header.jpg?t=1511268171",
+    "Price": 0.0,
+    "Developers": "Broken Vector,Michael Lohr,Jack Dähn,Lars Grevsmühl,Nico Thomas,Robin Quint",
+    "Publishers": "Broken Vector",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/504990/ss_14283be8162b920eab7db99ed3b9d2b35e87118f.1920x1080.jpg?t=1511268171,https://cdn.akamai.steamstatic.com/steam/apps/504990/ss_995368f2d19558907e71a329c36affcb43f36166.1920x1080.jpg?t=1511268171,https://cdn.akamai.steamstatic.com/steam/apps/504990/ss_5b9b79a98d5460bf89f00b1b11a8ead2b52fc216.1920x1080.jpg?t=1511268171,https://cdn.akamai.steamstatic.com/steam/apps/504990/ss_dc61b1ff5961d8446c6c591bf50fdbe72f1bed9d.1920x1080.jpg?t=1511268171,https://cdn.akamai.steamstatic.com/steam/apps/504990/ss_9de8f533f4400457fdf35dfe61d30bdf9588b253.1920x1080.jpg?t=1511268171",
+    "Slug": "voxvr-viewer",
+    "Meta Title": "VoxVR Viewer: Nov 18, 2017, Broken Vector,Michael Lohr,Ja...",
+    "Meta Description": "Looking for information on VoxVR Viewer? Check out the release date (Nov 18, 2017), developer insights from Broken Vector,Michael Lohr,Jack Dähn,Lars Gr...",
+    "Alt Text Image": "Official header image for VoxVR Viewer game - Steam 504990",
+    "Canonical URL": "https://gusku.site/game/voxvr-viewer",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"VoxVR Viewer\", \"description\": \"Looking for information on VoxVR Viewer? Check out the release date (Nov 18, 2017), developer insights from Broken Vector,Michael Lohr,Jack D\\u00e4hn,Lars Gr...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 18, 2017\", \"author\": {\"@type\": \"Organization\", \"name\": \"Broken Vector,Michael Lohr,Jack D\\u00e4hn,Lars Grevsm\\u00fchl,Nico Thomas,Robin Quint\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Broken Vector\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/504990/header.jpg?t=1511268171\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

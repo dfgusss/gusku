@@ -1,0 +1,21 @@
+{
+    "AppID": 1067700,
+    "Name": "Muspell",
+    "Release date": "Apr 20, 2020",
+    "About the game": "A fantasy sandbox RPG with multiplayer and modding in mind. Build your fortress, explore the world of Muspell and defeat the hordes of Gremdall. FIGHT Defy the hordes of Gremdall that terrify the world of Muspell. Mobs, shamans, undead and epic guardians will keep you awake by night! EXPLORE The world of Muspell is generated procedurally on the fly. The further you go, tougher the monsters will be! LOOT Bash mobs, finish quests, gather materials and level up to prepare for the final battle. BUILD Inspired by highly popular block building games you can mine blocks and build whatever you want. Muspell is a tribute and love letter to this genre that we particularly enjoy. MOD Muspell aims to be highly modable. We’ve built a Python interpreter right into the game so modders can heavily modify the game. MULTIPLAYER Host your own server or join your friends to start your epic quest! We don’t host any server. RETRO A mix of pixel art and low polygon gives a lovely retro aesthetics with a unique touch. PLANNED - More loot, quests - More spells and items - Dungeons randomly added to the world - End boss battle - Dedicated server - Steam workshop integration",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1067700/header.jpg?t=1647337405",
+    "Price": 11.99,
+    "Developers": "Gargant Studios",
+    "Publishers": "Gargant Studios",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1067700/ss_4a68c67771d5b5534ee8a1dab22b941acdd822be.1920x1080.jpg?t=1647337405,https://cdn.akamai.steamstatic.com/steam/apps/1067700/ss_81a2881645fbfc1aeeb6b798993612a33530f91f.1920x1080.jpg?t=1647337405,https://cdn.akamai.steamstatic.com/steam/apps/1067700/ss_93444ba1e97aecde9e3464c5afcb66d46a214cd3.1920x1080.jpg?t=1647337405,https://cdn.akamai.steamstatic.com/steam/apps/1067700/ss_46cde14b75ef09cc0d37809e5cfdbe6385f91e7c.1920x1080.jpg?t=1647337405,https://cdn.akamai.steamstatic.com/steam/apps/1067700/ss_ce703f45e5695893e000865511102a8e54b29188.1920x1080.jpg?t=1647337405",
+    "Slug": "muspell",
+    "Meta Title": "Muspell: Apr 20, 2020, Gargant Studios and Full Overview",
+    "Meta Description": "Looking for information on Muspell? Check out the release date (Apr 20, 2020), developer insights from Gargant Studios, and a complete game summary.",
+    "Alt Text Image": "Official header image for Muspell game - Steam 1067700",
+    "Canonical URL": "https://gusku.site/game/muspell",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Muspell\", \"description\": \"Looking for information on Muspell? Check out the release date (Apr 20, 2020), developer insights from Gargant Studios, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Apr 20, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Gargant Studios\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gargant Studios\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1067700/header.jpg?t=1647337405\", \"offers\": {\"@type\": \"Offer\", \"price\": 11.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

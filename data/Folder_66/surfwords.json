@@ -1,0 +1,21 @@
+{
+    "AppID": 2164740,
+    "Name": "Surfwords",
+    "Release date": "Oct 24, 2022",
+    "About the game": "Surfwords is a fast-paced word building game. Letters drop from the top of the screen in two columns. You have to choose which column to take at each row, in order to build up a series of words. Bet you can't last 30 seconds!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2164740/header.jpg?t=1666624905",
+    "Price": 3.39,
+    "Developers": "David Turner",
+    "Publishers": "David Turner",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2164740/ss_039c31abf8a3b08c41615d6e5666e5e37eb6289f.1920x1080.jpg?t=1666624905,https://cdn.akamai.steamstatic.com/steam/apps/2164740/ss_6edb7d2d3f8fa11e30d1de33264f8be8703330cf.1920x1080.jpg?t=1666624905,https://cdn.akamai.steamstatic.com/steam/apps/2164740/ss_8c4e8a9f133d7f1c9b7e3dba6bf938d6d4e6fdf0.1920x1080.jpg?t=1666624905,https://cdn.akamai.steamstatic.com/steam/apps/2164740/ss_fe8eb42e15639d72108bc76b2400ae8fe1c9eaa0.1920x1080.jpg?t=1666624905,https://cdn.akamai.steamstatic.com/steam/apps/2164740/ss_e6706018da9b6db2fe49a35f046df4e6c9be7662.1920x1080.jpg?t=1666624905",
+    "Slug": "surfwords",
+    "Meta Title": "Surfwords: Oct 24, 2022, David Turner and Full Overview",
+    "Meta Description": "Looking for information on Surfwords? Check out the release date (Oct 24, 2022), developer insights from David Turner, and a complete game summary.",
+    "Alt Text Image": "Official header image for Surfwords game - Steam 2164740",
+    "Canonical URL": "https://gusku.site/game/surfwords",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Surfwords\", \"description\": \"Looking for information on Surfwords? Check out the release date (Oct 24, 2022), developer insights from David Turner, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Oct 24, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"David Turner\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"David Turner\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2164740/header.jpg?t=1666624905\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.39, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

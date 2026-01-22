@@ -1,0 +1,21 @@
+{
+    "AppID": 1163470,
+    "Name": "Give Up The Dupe",
+    "Release date": "Dec 17, 2019",
+    "About the game": "Give Up The Dupe is a short 10-15 minute sokoban-style puzzle game where you cannot see or being seen by yourself. Features Clone yourself as many times as you want. Undo button. No puzzle wastes your time because you accidentally pressed the wrong key. Powered By Ebiten, A dead simple 2D game library in Go.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1163470/header.jpg?t=1614991224",
+    "Price": 1.99,
+    "Developers": "SilbinaryWolf",
+    "Publishers": "SilbinaryWolf",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1163470/ss_da8f660edc34978739efd7ddb3c8c0f3117f948b.1920x1080.jpg?t=1614991224,https://cdn.akamai.steamstatic.com/steam/apps/1163470/ss_b573f45a1bf405c2c0acda4889eb9e9f229b0c28.1920x1080.jpg?t=1614991224,https://cdn.akamai.steamstatic.com/steam/apps/1163470/ss_5869b645392a2a6793755dcb84ff44983391f1a6.1920x1080.jpg?t=1614991224,https://cdn.akamai.steamstatic.com/steam/apps/1163470/ss_e776ef33c9b81121300eccfd27e30f0f7b622b1e.1920x1080.jpg?t=1614991224,https://cdn.akamai.steamstatic.com/steam/apps/1163470/ss_b08e7afbb97c5e47a9b69fc2832d117d94b10d9e.1920x1080.jpg?t=1614991224",
+    "Slug": "give-up-the-dupe",
+    "Meta Title": "Give Up The Dupe: Dec 17, 2019, SilbinaryWolf and Full Ov...",
+    "Meta Description": "Looking for information on Give Up The Dupe? Check out the release date (Dec 17, 2019), developer insights from SilbinaryWolf, and a complete game summary.",
+    "Alt Text Image": "Official header image for Give Up The Dupe game - Steam 1163470",
+    "Canonical URL": "https://gusku.site/game/give-up-the-dupe",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Give Up The Dupe\", \"description\": \"Looking for information on Give Up The Dupe? Check out the release date (Dec 17, 2019), developer insights from SilbinaryWolf, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Dec 17, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"SilbinaryWolf\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"SilbinaryWolf\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1163470/header.jpg?t=1614991224\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

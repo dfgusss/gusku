@@ -1,0 +1,21 @@
+{
+    "AppID": 1327100,
+    "Name": "Squaxel",
+    "Release date": "Sep 19, 2020",
+    "About the game": "Squaxel is a sandbox game in which you will be able to visit multiple flying islands. You can build on them, destroy them and talk to the people on them. You also have your own island to experiment! Features: - Building your own island - Do quests - Explore islands - Destroy whatever you want",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1327100/header.jpg?t=1600798461",
+    "Price": 0.99,
+    "Developers": "Asuna Marie",
+    "Publishers": "Asuna Marie",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1327100/ss_d993ce2c7de8aad5bb0308f44c336a4f683bb0f7.1920x1080.jpg?t=1600798461,https://cdn.akamai.steamstatic.com/steam/apps/1327100/ss_2eba0be02457a90682b7debf293dc734d0a19a87.1920x1080.jpg?t=1600798461,https://cdn.akamai.steamstatic.com/steam/apps/1327100/ss_01050be05aed78a01c671833f64b9057de2527bb.1920x1080.jpg?t=1600798461,https://cdn.akamai.steamstatic.com/steam/apps/1327100/ss_2387d7f8884e38ae151fcb222b1f25ecfd8eb41b.1920x1080.jpg?t=1600798461,https://cdn.akamai.steamstatic.com/steam/apps/1327100/ss_c567160ad921ce2259d7e4c1f2c7c051add43009.1920x1080.jpg?t=1600798461",
+    "Slug": "squaxel",
+    "Meta Title": "Squaxel: Sep 19, 2020, Asuna Marie and Full Overview",
+    "Meta Description": "Looking for information on Squaxel? Check out the release date (Sep 19, 2020), developer insights from Asuna Marie, and a complete game summary.",
+    "Alt Text Image": "Official header image for Squaxel game - Steam 1327100",
+    "Canonical URL": "https://gusku.site/game/squaxel",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Squaxel\", \"description\": \"Looking for information on Squaxel? Check out the release date (Sep 19, 2020), developer insights from Asuna Marie, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 19, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Asuna Marie\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Asuna Marie\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1327100/header.jpg?t=1600798461\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

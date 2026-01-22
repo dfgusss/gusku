@@ -1,0 +1,21 @@
+{
+    "AppID": 2276340,
+    "Name": "Binarion",
+    "Release date": "Mar 24, 2023",
+    "About the game": "Binarion is a mini game, a numeric puzzle with new and original concept. You are presented with delta grid in which each tile is a bit (semi-product) of the multiplication of two binary numbers. Bits of binary number A are the most left edge tiles of the grid, while bits of binary number B are most right edge tiles of the grid. Top is lowest bit times lowest bit. Your goal is to click on most left and most right tiles to set or clear them. All inner tiles of the grid will be automatically adjusted and you do not need to click on them. As a help, on the right of the grid you see row sum pattern. The pattern tells you how many enabled bits (semi-products) need to be in particular row of the grid if the grid is to be correctly filled and reveal primes. While the grid is wrong or unfilled, for each row you will see red number that tell you how much set bits this row is missing. If this indicator is negative, it means you have excess amount of set bits. Because factors are always primes there is always only one correct solution of entire grid, plus left to right mirror of it.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2276340/header.jpg?t=1679645443",
+    "Price": 1.99,
+    "Developers": "Radivoj Radivojevic",
+    "Publishers": "Radivoj Radivojevic",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2276340/ss_951ce8c15fc1bc98a8073af909a571b757247f83.1920x1080.jpg?t=1679645443,https://cdn.akamai.steamstatic.com/steam/apps/2276340/ss_798d6713c2b6fd2b3b31ee6327ad83ce9f9e0df0.1920x1080.jpg?t=1679645443,https://cdn.akamai.steamstatic.com/steam/apps/2276340/ss_a171c6f779db94e87bb060cea7754b633d0e1823.1920x1080.jpg?t=1679645443,https://cdn.akamai.steamstatic.com/steam/apps/2276340/ss_8c09068f2c4ec72686ed9b29951717bd2d27d149.1920x1080.jpg?t=1679645443,https://cdn.akamai.steamstatic.com/steam/apps/2276340/ss_56ee2ac9a7d0d2af8dc5471a6dc97d0d49296af1.1920x1080.jpg?t=1679645443",
+    "Slug": "binarion",
+    "Meta Title": "Binarion: Mar 24, 2023, Radivoj Radivojevic and Full Over...",
+    "Meta Description": "Looking for information on Binarion? Check out the release date (Mar 24, 2023), developer insights from Radivoj Radivojevic, and a complete game summary.",
+    "Alt Text Image": "Official header image for Binarion game - Steam 2276340",
+    "Canonical URL": "https://gusku.site/game/binarion",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Binarion\", \"description\": \"Looking for information on Binarion? Check out the release date (Mar 24, 2023), developer insights from Radivoj Radivojevic, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 24, 2023\", \"author\": {\"@type\": \"Organization\", \"name\": \"Radivoj Radivojevic\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Radivoj Radivojevic\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2276340/header.jpg?t=1679645443\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

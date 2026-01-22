@@ -1,0 +1,21 @@
+{
+    "AppID": 1265130,
+    "Name": "iMemo",
+    "Release date": "Mar 26, 2020",
+    "About the game": "This is a puzzle game for the whole family. You assign the number of blocks and create a game field where you need to find paired images. Use the mouse to open the first image and then the second. If both pictures coincide, they remain open, otherwise they close back and you continue to search or remember where you came across the same ones. The number of attempts is unlimited, good training of visual memory.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1265130/header.jpg?t=1585241169",
+    "Price": 0.99,
+    "Developers": "cBlck",
+    "Publishers": "cBlck",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1265130/ss_08f5f7ed7b8d7f36a99192a2b485657ae753c1c2.1920x1080.jpg?t=1585241169,https://cdn.akamai.steamstatic.com/steam/apps/1265130/ss_00fe587f3278b8fa62f1411b51f319591c784124.1920x1080.jpg?t=1585241169,https://cdn.akamai.steamstatic.com/steam/apps/1265130/ss_6a249753168ea74e1ead44103450086de716c3d0.1920x1080.jpg?t=1585241169,https://cdn.akamai.steamstatic.com/steam/apps/1265130/ss_483031f495ed1944d33c2d2170a98e268b673e45.1920x1080.jpg?t=1585241169,https://cdn.akamai.steamstatic.com/steam/apps/1265130/ss_3be08585c646857d2f727cda2d627b1a8d50e930.1920x1080.jpg?t=1585241169",
+    "Slug": "imemo",
+    "Meta Title": "iMemo: Mar 26, 2020, cBlck and Full Overview",
+    "Meta Description": "Looking for information on iMemo? Check out the release date (Mar 26, 2020), developer insights from cBlck, and a complete game summary.",
+    "Alt Text Image": "Official header image for iMemo game - Steam 1265130",
+    "Canonical URL": "https://gusku.site/game/imemo",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"iMemo\", \"description\": \"Looking for information on iMemo? Check out the release date (Mar 26, 2020), developer insights from cBlck, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Mar 26, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"cBlck\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"cBlck\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1265130/header.jpg?t=1585241169\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

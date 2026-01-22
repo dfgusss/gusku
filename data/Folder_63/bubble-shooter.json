@@ -1,0 +1,21 @@
+{
+    "AppID": 2104700,
+    "Name": "Bubble Shooter",
+    "Release date": "Aug 17, 2022",
+    "About the game": "'Bubble Shooter' is a casual game where the player controls a cute bunny to shoot bubbles. When the fired bubbles are the same color as the surrounding bubbles and the number exceeds 3, the bubbles will be eliminated. The more bubbles you remove, the higher the score, and you can clear the level when you reach a certain score. 【Game Operation】 The player controls the direction of the bubble launch through the position of the mouse, and clicks the left mouse button to launch the bubble. 【Game Features】 There are many levels in the play, and the difficulty will become higher and higher. It takes a certain skill to get through. More challenges are waiting for you.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2104700/header.jpg?t=1660739338",
+    "Price": 4.99,
+    "Developers": "xxGame",
+    "Publishers": "xxGame",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2104700/ss_f8827f57a42d205427cb89b157aa1af1616a3369.1920x1080.jpg?t=1660739338,https://cdn.akamai.steamstatic.com/steam/apps/2104700/ss_87ed70378f194bcd855e1ca7993cc99e589821db.1920x1080.jpg?t=1660739338,https://cdn.akamai.steamstatic.com/steam/apps/2104700/ss_0c7f44ea5d66be79df4f36a6fe7114ba359dcd49.1920x1080.jpg?t=1660739338,https://cdn.akamai.steamstatic.com/steam/apps/2104700/ss_0beede822d173a2d68d49d14c3c12fadd9ed427d.1920x1080.jpg?t=1660739338,https://cdn.akamai.steamstatic.com/steam/apps/2104700/ss_f21edb10121e8acd1d0f546742cdadd71e40dab1.1920x1080.jpg?t=1660739338,https://cdn.akamai.steamstatic.com/steam/apps/2104700/ss_8b0f98b189cf4b3e0861eaa020d204939ad38665.1920x1080.jpg?t=1660739338",
+    "Slug": "bubble-shooter",
+    "Meta Title": "Bubble Shooter: Aug 17, 2022, xxGame and Full Overview",
+    "Meta Description": "Looking for information on Bubble Shooter? Check out the release date (Aug 17, 2022), developer insights from xxGame, and a complete game summary.",
+    "Alt Text Image": "Official header image for Bubble Shooter game - Steam 2104700",
+    "Canonical URL": "https://gusku.site/game/bubble-shooter",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Bubble Shooter\", \"description\": \"Looking for information on Bubble Shooter? Check out the release date (Aug 17, 2022), developer insights from xxGame, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 17, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"xxGame\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"xxGame\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2104700/header.jpg?t=1660739338\", \"offers\": {\"@type\": \"Offer\", \"price\": 4.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

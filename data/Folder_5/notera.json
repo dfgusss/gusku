@@ -1,0 +1,21 @@
+{
+    "AppID": 1241250,
+    "Name": "Notera",
+    "Release date": "Feb 20, 2020",
+    "About the game": "Making and sharing harmonica music has never been easier. Notera is a program created for beginners and experienced players alike! It allows for both composing and step by step instructions for playing your songs through a virtual harmonica and a comprehensive interface. Notera contains the following features: Easily create and share music score-pieces. Plays in all 7 diatonic keys of the harmonica. Automaticly creates a backup file of unsaved work. Allows for custom fade in, sustain, fade out and volume of notes. Has a help menu and extra commands for better optimization. Exports and imports INI files for easy storage. If you have ever wanted to learn the harmonica or compose with ease, this program is for you!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1241250/header.jpg?t=1582207859",
+    "Price": 0.0,
+    "Developers": "Dmitri Oehling",
+    "Publishers": "Dmitri Oehling",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1241250/ss_fac34878c3e2db088c12c32a3de302b667b51266.1920x1080.jpg?t=1582207859,https://cdn.akamai.steamstatic.com/steam/apps/1241250/ss_93da46d9ac18d4b13b3b78c0c674d9e9af79adc2.1920x1080.jpg?t=1582207859,https://cdn.akamai.steamstatic.com/steam/apps/1241250/ss_9e19103ea32f516a95ed2f520da8bc0de9d0e1d2.1920x1080.jpg?t=1582207859,https://cdn.akamai.steamstatic.com/steam/apps/1241250/ss_66584372b845c0052e4da15f3822de8a1dd385f3.1920x1080.jpg?t=1582207859,https://cdn.akamai.steamstatic.com/steam/apps/1241250/ss_a1f5560d173e33eec909959e251f72e658479677.1920x1080.jpg?t=1582207859",
+    "Slug": "notera",
+    "Meta Title": "Notera: Feb 20, 2020, Dmitri Oehling and Full Overview",
+    "Meta Description": "Looking for information on Notera? Check out the release date (Feb 20, 2020), developer insights from Dmitri Oehling, and a complete game summary.",
+    "Alt Text Image": "Official header image for Notera game - Steam 1241250",
+    "Canonical URL": "https://gusku.site/game/notera",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Notera\", \"description\": \"Looking for information on Notera? Check out the release date (Feb 20, 2020), developer insights from Dmitri Oehling, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 20, 2020\", \"author\": {\"@type\": \"Organization\", \"name\": \"Dmitri Oehling\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Dmitri Oehling\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1241250/header.jpg?t=1582207859\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.0, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

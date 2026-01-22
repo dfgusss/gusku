@@ -1,0 +1,21 @@
+{
+    "AppID": 1707070,
+    "Name": "GGA",
+    "Release date": "Aug 19, 2021",
+    "About the game": "开发者提示：现在游戏还处于EA开发阶段，如果不是特别喜欢这类游戏，请观望一段时间，等开发成熟了再购买。 《GGA》是一款以MOBA类电子竞技为题材的模拟类游戏，在游戏中玩家将作为经理人，管理一家电竞俱乐部，在经营途中，你将需要通过训练选手，参加杯赛等方式带领战队夺得冠军！",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1707070/header.jpg?t=1629435639",
+    "Price": 7.99,
+    "Developers": "燕雀之志",
+    "Publishers": "燕雀之志",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1707070/ss_39c7687d82ab0c2a257d26e356407300f6f1e94c.1920x1080.jpg?t=1629435639,https://cdn.akamai.steamstatic.com/steam/apps/1707070/ss_3a589543a9a9f73a597d3ff370fd5c219b1c44c8.1920x1080.jpg?t=1629435639,https://cdn.akamai.steamstatic.com/steam/apps/1707070/ss_72f0a83817e59d209fa7264ef607ecc80b32c60a.1920x1080.jpg?t=1629435639,https://cdn.akamai.steamstatic.com/steam/apps/1707070/ss_937c1a52fa0a54eedaef4e6d8ced0864df0ea69a.1920x1080.jpg?t=1629435639,https://cdn.akamai.steamstatic.com/steam/apps/1707070/ss_f041851522ce40a6e88cc3b4689e2a55a55eeb5c.1920x1080.jpg?t=1629435639",
+    "Slug": "gga",
+    "Meta Title": "GGA: Aug 19, 2021, 燕雀之志 and Full Overview",
+    "Meta Description": "Looking for information on GGA? Check out the release date (Aug 19, 2021), developer insights from 燕雀之志, and a complete game summary.",
+    "Alt Text Image": "Official header image for GGA game - Steam 1707070",
+    "Canonical URL": "https://gusku.site/game/gga",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"GGA\", \"description\": \"Looking for information on GGA? Check out the release date (Aug 19, 2021), developer insights from \\u71d5\\u96c0\\u4e4b\\u5fd7, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 19, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"\\u71d5\\u96c0\\u4e4b\\u5fd7\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"\\u71d5\\u96c0\\u4e4b\\u5fd7\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1707070/header.jpg?t=1629435639\", \"offers\": {\"@type\": \"Offer\", \"price\": 7.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

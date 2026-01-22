@@ -1,0 +1,21 @@
+{
+    "AppID": 429720,
+    "Name": "IMSCARED",
+    "Release date": "Feb 3, 2016",
+    "About the game": "'I need a Heart in order to open it' Imscared is a metahorror game that protagonizes the player, putting him in a surreal first-person experience. Find keys, open doors and search for the exit to this nightmare. But I need to let you know, it will try to deceive You as many times as it can. Welcome to the metahorror experience, enjoy your stay! Please read carefully the explanation when beginning the game for the first time, it's really important to do so. KNOWN BUGS AND FIXES Some systems may require DirectX updates for the game to work; Force your laptop to use your GeForce: Some computers have dual graphics cards such as an on-board Intel HD card and an Nvidia GeForce graphics card. The game might be using the 'wrong' graphics card, and forcing the PC to use the other one on IMSCARED.exe can fix graphics issues; Windows 10 often recognize IMSCARED.exe as a virus: this causes the game to refuse creating files; The game needs your root to be C:\\\\, other roots COULD give problems for the game to create files on the Desktop. At the time I write this, a solution to this issue is still to be found;",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/429720/header.jpg?t=1544141241",
+    "Price": 3.99,
+    "Developers": "Ivan Zanotti's MyMadnessWorks",
+    "Publishers": "Ivan Zanotti's MyMadnessWorks",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/429720/ss_d26f4335e2f2f4dd3894fa29592c3e0ed7c6b849.1920x1080.jpg?t=1544141241,https://cdn.akamai.steamstatic.com/steam/apps/429720/ss_5d9b952865dcfd75c3d5a7b99d10fa174fe887f7.1920x1080.jpg?t=1544141241,https://cdn.akamai.steamstatic.com/steam/apps/429720/ss_89727e5cdd4b1a19094be50eea4bd715843d3515.1920x1080.jpg?t=1544141241,https://cdn.akamai.steamstatic.com/steam/apps/429720/ss_16669116a568425352c77e55ac4b6ff5eb76dd3b.1920x1080.jpg?t=1544141241,https://cdn.akamai.steamstatic.com/steam/apps/429720/ss_a517de820b375f137e53b773a3040bcda44e8973.1920x1080.jpg?t=1544141241,https://cdn.akamai.steamstatic.com/steam/apps/429720/ss_a517de820b375f137e53b773a3040bcda44e8973.1920x1080.jpg?t=1544141241,https://cdn.akamai.steamstatic.com/steam/apps/429720/ss_97fadb3b612c2e1e2fcfa1433ec18d793e446d66.1920x1080.jpg?t=1544141241",
+    "Slug": "imscared",
+    "Meta Title": "IMSCARED: Feb 3, 2016, Ivan Zanotti's MyMadnessWorks and ...",
+    "Meta Description": "Looking for information on IMSCARED? Check out the release date (Feb 3, 2016), developer insights from Ivan Zanotti's MyMadnessWorks, and a complete gam...",
+    "Alt Text Image": "Official header image for IMSCARED game - Steam 429720",
+    "Canonical URL": "https://gusku.site/game/imscared",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"IMSCARED\", \"description\": \"Looking for information on IMSCARED? Check out the release date (Feb 3, 2016), developer insights from Ivan Zanotti's MyMadnessWorks, and a complete gam...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Feb 3, 2016\", \"author\": {\"@type\": \"Organization\", \"name\": \"Ivan Zanotti's MyMadnessWorks\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Ivan Zanotti's MyMadnessWorks\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/429720/header.jpg?t=1544141241\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

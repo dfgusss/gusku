@@ -1,0 +1,21 @@
+{
+    "AppID": 1709150,
+    "Name": "ELEC",
+    "Release date": "Aug 22, 2021",
+    "About the game": "A match-based, competitive, VR racing game heavily inspired by 80s futurism. Inspired by the neon futurism of the 80s, make way for ELEC, a fast paced competitive VR game. Start your journey into the world of the game and begin a match with computer players or real players in peer to peer style. Take your cycle by the grips and delete your opponents as you race around the arena. Be the last man standing, win for your team, or play in endless roam against bots and take your time to hone your skills. Not enough? Each round you can earn “quanta,” the games currency, to buy new cycle colors and helmets to kit out your rider and show off your winnings against the other players. Are you ready to take the planes of ELEC? I’d like to see you try. In Other Words: For a long time, we've had this idea about a game of this nature. Something fast, but simple, that still required elements of strategy and skill. While there's plenty of games on the market that fit these requirements, none of them felt like what we wanted. So, what do you do when you're a couple of programmers, wishing there were a game that felt like an idea of yours? You make one. So we did. Taking inspiration for the games in a certain movie from 1982 that shall not be named, the mechanics were there, all we had to do was implement them in a way better suited for modern gaming, specifically, for VR. Work started on design and prototyping April 13th, 2021, and here we stand, proud of our work and ready to share. But that's not all, oh no. We have plenty of big ideas for the future of ELEC. So stay tuned, and enjoy! NOTE: Native Pimax support, full wide fov, no parallel projection required",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1709150/header.jpg?t=1629651610",
+    "Price": 14.99,
+    "Developers": "Tony Rito,Sheen Wood",
+    "Publishers": "Tsar-Dev-Collective",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1709150/ss_4d29a067621b36ffbb1961309271f9939c70ed71.1920x1080.jpg?t=1629651610,https://cdn.akamai.steamstatic.com/steam/apps/1709150/ss_87995ecb22c13dcc53c27c4ddbcc0465f6b588b3.1920x1080.jpg?t=1629651610,https://cdn.akamai.steamstatic.com/steam/apps/1709150/ss_d2d094cfcdadc7242da2dce405c7560c88db6282.1920x1080.jpg?t=1629651610,https://cdn.akamai.steamstatic.com/steam/apps/1709150/ss_f8910330588d355accdab2ef888e615127918603.1920x1080.jpg?t=1629651610,https://cdn.akamai.steamstatic.com/steam/apps/1709150/ss_6ec5923f96019696088773e697aa39f0d6a2ec21.1920x1080.jpg?t=1629651610,https://cdn.akamai.steamstatic.com/steam/apps/1709150/ss_817c3492cbd5c94517a030ff892f69cb0cf678b6.1920x1080.jpg?t=1629651610",
+    "Slug": "elec",
+    "Meta Title": "ELEC: Aug 22, 2021, Tony Rito,Sheen Wood and Full Overview",
+    "Meta Description": "Looking for information on ELEC? Check out the release date (Aug 22, 2021), developer insights from Tony Rito,Sheen Wood, and a complete game summary.",
+    "Alt Text Image": "Official header image for ELEC game - Steam 1709150",
+    "Canonical URL": "https://gusku.site/game/elec",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"ELEC\", \"description\": \"Looking for information on ELEC? Check out the release date (Aug 22, 2021), developer insights from Tony Rito,Sheen Wood, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Aug 22, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"Tony Rito,Sheen Wood\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tsar-Dev-Collective\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1709150/header.jpg?t=1629651610\", \"offers\": {\"@type\": \"Offer\", \"price\": 14.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 380580,
+    "Name": "SpaceCorn",
+    "Release date": "Jun 23, 2015",
+    "About the game": "Play as an unicorn who crashes its ship on an alien planet where nothing makes sense. In your journey you will face many perils, but will you make it out of this strange planet alive? Spacecorn was made by three portuguese students (we like to call ourselves Gentlemen in Tuxedos , picture it as company name) on summer break. This is the first chapter, of a series that will be coming soon(at least that's the plan). We hope you enjoy our little adventure through the world of programming and video games. That said, we plead that you don't take it seriously from a gameplay perspective, enjoy the ride!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/380580/header.jpg?t=1456616065",
+    "Price": 0.99,
+    "Developers": "Henrique Pegacha,Rafael Lima,Nuno Guerreiro",
+    "Publishers": "Gentlemen in Tuxedos",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/380580/ss_ca223c1809b80f3c9633882b7feedaaf9ba930e9.1920x1080.jpg?t=1456616065,https://cdn.akamai.steamstatic.com/steam/apps/380580/ss_36e060c0e3d12541bf461effb9abe907bfd0001b.1920x1080.jpg?t=1456616065,https://cdn.akamai.steamstatic.com/steam/apps/380580/ss_f9413710da84127d532d5856fb6fb6c742826ab6.1920x1080.jpg?t=1456616065,https://cdn.akamai.steamstatic.com/steam/apps/380580/ss_689d631fbf212ff2142dff0807d95bf51442a32d.1920x1080.jpg?t=1456616065,https://cdn.akamai.steamstatic.com/steam/apps/380580/ss_b2ae32e6e5cac58b85df8e5e9de258111c77e7f1.1920x1080.jpg?t=1456616065",
+    "Slug": "spacecorn",
+    "Meta Title": "SpaceCorn: Jun 23, 2015, Henrique Pegacha,Rafael Lima,Nun...",
+    "Meta Description": "Looking for information on SpaceCorn? Check out the release date (Jun 23, 2015), developer insights from Henrique Pegacha,Rafael Lima,Nuno Guerreiro, an...",
+    "Alt Text Image": "Official header image for SpaceCorn game - Steam 380580",
+    "Canonical URL": "https://gusku.site/game/spacecorn",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"SpaceCorn\", \"description\": \"Looking for information on SpaceCorn? Check out the release date (Jun 23, 2015), developer insights from Henrique Pegacha,Rafael Lima,Nuno Guerreiro, an...\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jun 23, 2015\", \"author\": {\"@type\": \"Organization\", \"name\": \"Henrique Pegacha,Rafael Lima,Nuno Guerreiro\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Gentlemen in Tuxedos\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/380580/header.jpg?t=1456616065\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

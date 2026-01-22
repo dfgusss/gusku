@@ -1,0 +1,21 @@
+{
+    "AppID": 1515170,
+    "Name": "Maze Escape",
+    "Release date": "Jan 23, 2021",
+    "About the game": "This game is to escape the maze while avoiding zombies and obstacles. One day, you are trapped in a dark maze. In the maze, there are zombies and obstacles hindering your escape. If you use the item well, you can escape without difficulty. Remember the path and direction you came from. Somehow it will feel like the same path continues. When you think it's a blocked way, go one step further and there will be a way to escape the maze. The time given to you is only 1 hour. Good Luck!",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1515170/header.jpg?t=1611464751",
+    "Price": 0.99,
+    "Developers": "zzong",
+    "Publishers": "zzong",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1515170/ss_c185f396bc28a55d9c55a2e1128caccaaa95fc50.1920x1080.jpg?t=1611464751,https://cdn.akamai.steamstatic.com/steam/apps/1515170/ss_39e544639cc8b0ba11802d8df2f894e9f177d95e.1920x1080.jpg?t=1611464751,https://cdn.akamai.steamstatic.com/steam/apps/1515170/ss_849a2a7f17eb3273c31496847533f5ace27cb78d.1920x1080.jpg?t=1611464751,https://cdn.akamai.steamstatic.com/steam/apps/1515170/ss_d2e4cf0ffb2befca61311b0360f7397980ea88d2.1920x1080.jpg?t=1611464751,https://cdn.akamai.steamstatic.com/steam/apps/1515170/ss_3125febd0f9cd21000dcdc7ae0e5112bbea7c04c.1920x1080.jpg?t=1611464751",
+    "Slug": "maze-escape",
+    "Meta Title": "Maze Escape: Jan 23, 2021, zzong and Full Overview",
+    "Meta Description": "Looking for information on Maze Escape? Check out the release date (Jan 23, 2021), developer insights from zzong, and a complete game summary.",
+    "Alt Text Image": "Official header image for Maze Escape game - Steam 1515170",
+    "Canonical URL": "https://gusku.site/game/maze-escape",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Maze Escape\", \"description\": \"Looking for information on Maze Escape? Check out the release date (Jan 23, 2021), developer insights from zzong, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Jan 23, 2021\", \"author\": {\"@type\": \"Organization\", \"name\": \"zzong\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"zzong\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1515170/header.jpg?t=1611464751\", \"offers\": {\"@type\": \"Offer\", \"price\": 0.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

@@ -1,0 +1,21 @@
+{
+    "AppID": 2117170,
+    "Name": "Kardun",
+    "Release date": "Sep 1, 2022",
+    "About the game": "Kardun Kardun is an experimental, up to 36 button menu only, combat game. Gameplay The core of the gameplay is the combat, in which you fight against a foe by choosing the moves both for yourself and the foe. In short: You and your foe have up to six moves Moves have to be charged before use Once charged, moves have to be used Using moves charges other moves Defeating a foe allows taking its moves Visuals The game can only be interacted with using menu screens of visual buttons. Progress bars and text are its primary ingredients. The visuals can be altered using the following features: A number of distinct color palettes Screen filter with 8 tune-able parameters The game is best played pretending you have never seen a video game before.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/2117170/header.jpg?t=1662019331",
+    "Price": 3.99,
+    "Developers": "Rokas",
+    "Publishers": "Rokas",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/2117170/ss_a4509e18fcd030cac514c8aca70541f63ea3c7fe.1920x1080.jpg?t=1662019331,https://cdn.akamai.steamstatic.com/steam/apps/2117170/ss_9cd0a3f59cf1c545001d621f6f85073ca213b856.1920x1080.jpg?t=1662019331,https://cdn.akamai.steamstatic.com/steam/apps/2117170/ss_2b3b001c6b49075c08946cff380cb7272cf6b75c.1920x1080.jpg?t=1662019331,https://cdn.akamai.steamstatic.com/steam/apps/2117170/ss_86c6d3bbc45d7ea06b5b6fda4faf51a24f0b8630.1920x1080.jpg?t=1662019331,https://cdn.akamai.steamstatic.com/steam/apps/2117170/ss_41afc9078d9f5ed585e4fd0ed2541a7e2196497c.1920x1080.jpg?t=1662019331",
+    "Slug": "kardun",
+    "Meta Title": "Kardun: Sep 1, 2022, Rokas and Full Overview",
+    "Meta Description": "Looking for information on Kardun? Check out the release date (Sep 1, 2022), developer insights from Rokas, and a complete game summary.",
+    "Alt Text Image": "Official header image for Kardun game - Steam 2117170",
+    "Canonical URL": "https://gusku.site/game/kardun",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"Kardun\", \"description\": \"Looking for information on Kardun? Check out the release date (Sep 1, 2022), developer insights from Rokas, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Sep 1, 2022\", \"author\": {\"@type\": \"Organization\", \"name\": \"Rokas\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Rokas\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/2117170/header.jpg?t=1662019331\", \"offers\": {\"@type\": \"Offer\", \"price\": 3.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

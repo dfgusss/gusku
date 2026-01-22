@@ -1,0 +1,21 @@
+{
+    "AppID": 1079340,
+    "Name": "homicide",
+    "Release date": "May 18, 2019",
+    "About the game": "This is a decryption game (first-person perspective),The player is at a murder scene.The player must first find the body,Then find five clues scattered around the scene,Then you can pass the level.There are two levels in this game,The player focuses on the corpse or clue for more than 2s,Can trigger the dialog box (meanings the body or clue has been found). Control keys: WASD movement The left Shift running Space leaping",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/1079340/header.jpg?t=1558501720",
+    "Price": 1.99,
+    "Developers": "KiKi",
+    "Publishers": "KiKi",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/1079340/ss_19b7750fcf174a88698755aaf3ae0b380468e4c9.1920x1080.jpg?t=1558501720,https://cdn.akamai.steamstatic.com/steam/apps/1079340/ss_3384d25ad625379e4aeb5a9f5925414ab4cbbaae.1920x1080.jpg?t=1558501720,https://cdn.akamai.steamstatic.com/steam/apps/1079340/ss_bed73f276e1b20bd8db13da7c26899c4b8d31f49.1920x1080.jpg?t=1558501720,https://cdn.akamai.steamstatic.com/steam/apps/1079340/ss_87c0272d94ab37dd17f4a81cc3e2b17fa240c284.1920x1080.jpg?t=1558501720,https://cdn.akamai.steamstatic.com/steam/apps/1079340/ss_e5e99f1bfefd01a6f406aa550b3b2d52ac71817b.1920x1080.jpg?t=1558501720,https://cdn.akamai.steamstatic.com/steam/apps/1079340/ss_96605872106ea6023fd9870de5eec768f3ee7649.1920x1080.jpg?t=1558501720,https://cdn.akamai.steamstatic.com/steam/apps/1079340/ss_e7e19d258a772131f218e8453ced778d486935d3.1920x1080.jpg?t=1558501720,https://cdn.akamai.steamstatic.com/steam/apps/1079340/ss_a1883225f24114e565f6a41f70c4f75540273a90.1920x1080.jpg?t=1558501720",
+    "Slug": "homicide",
+    "Meta Title": "homicide: May 18, 2019, KiKi and Full Overview",
+    "Meta Description": "Looking for information on homicide? Check out the release date (May 18, 2019), developer insights from KiKi, and a complete game summary.",
+    "Alt Text Image": "Official header image for homicide game - Steam 1079340",
+    "Canonical URL": "https://gusku.site/game/homicide",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"homicide\", \"description\": \"Looking for information on homicide? Check out the release date (May 18, 2019), developer insights from KiKi, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"May 18, 2019\", \"author\": {\"@type\": \"Organization\", \"name\": \"KiKi\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"KiKi\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/1079340/header.jpg?t=1558501720\", \"offers\": {\"@type\": \"Offer\", \"price\": 1.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}

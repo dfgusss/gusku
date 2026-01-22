@@ -1,0 +1,21 @@
+{
+    "AppID": 973170,
+    "Name": "RoboBall",
+    "Release date": "Nov 16, 2018",
+    "About the game": "RoboBall is a game in which you control a ball-shaped robot and solve physics- and logic-based puzzles. Your goal is to control various mechanisms in order to reach the end of the level, where you will find a teleporter that will take you to the next level. Puzzles On every stage you will find a large number of different mechanisms, buttons, laser switches, and doors. To open a door, start an elevator, or simply activate a certain mechanism, you will need to activate a button. Sometimes you can't do it by yourself and will need some help from metal balls, barrels, or crates. But don't forget that they might also need your help to perform certain actions. Workshop RoboBall has a level editor that is very flexible and packed with functionality. All of the levels in the game were created using this editor. Place static objects such as zones, paths, glass tubes, and metal tracks. Active objects perform various functions. These include doors, elevators, and machines that create metal balls, crates, or barrels. Buttons deserve special attention. You can use them to open or close doors, activate elevators, or deactivate turbines that are preventing you or any other physical object from advancing. There are two different kinds of buttons in the game: switches, which activate the objects they are linked to and then turn them off again when pressed a second time, and triggers, which activate objects as long as you or another physical object remains on top of them. When the object leaves the trigger, the objects linked to the button are deactivated. Once you've created a level you can publish it in the workshop. You can also play other players' levels.",
+    "Header image": "https://cdn.akamai.steamstatic.com/steam/apps/973170/header.jpg?t=1607364865",
+    "Price": 6.99,
+    "Developers": "PS Games",
+    "Publishers": "PS Games",
+    "Screenshots": "https://cdn.akamai.steamstatic.com/steam/apps/973170/ss_dc62a8a3048823f34c2e2959c9ad7ad92fad544c.1920x1080.jpg?t=1607364865,https://cdn.akamai.steamstatic.com/steam/apps/973170/ss_1ed2e5a3c87fbd63beb42c75fefb0da958acad04.1920x1080.jpg?t=1607364865,https://cdn.akamai.steamstatic.com/steam/apps/973170/ss_3b68ad1b1f06fac1054ae5b862cdd2ebf95e67de.1920x1080.jpg?t=1607364865,https://cdn.akamai.steamstatic.com/steam/apps/973170/ss_fc15839249fe3da4db2c10db16aaf01b8842a248.1920x1080.jpg?t=1607364865,https://cdn.akamai.steamstatic.com/steam/apps/973170/ss_9f93e70080cfc92d4ea3dcd2e74a59e64ddbddcb.1920x1080.jpg?t=1607364865,https://cdn.akamai.steamstatic.com/steam/apps/973170/ss_6b455c7024f0caf1d2b063e2da1f684f2253036b.1920x1080.jpg?t=1607364865",
+    "Slug": "roboball",
+    "Meta Title": "RoboBall: Nov 16, 2018, PS Games and Full Overview",
+    "Meta Description": "Looking for information on RoboBall? Check out the release date (Nov 16, 2018), developer insights from PS Games, and a complete game summary.",
+    "Alt Text Image": "Official header image for RoboBall game - Steam 973170",
+    "Canonical URL": "https://gusku.site/game/roboball",
+    "Schema JSON-LD": "{\"@context\": \"https://schema.org\", \"@type\": \"VideoGame\", \"name\": \"RoboBall\", \"description\": \"Looking for information on RoboBall? Check out the release date (Nov 16, 2018), developer insights from PS Games, and a complete game summary.\", \"applicationCategory\": \"Game\", \"operatingSystem\": \"Windows, macOS, Linux\", \"datePublished\": \"Nov 16, 2018\", \"author\": {\"@type\": \"Organization\", \"name\": \"PS Games\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"PS Games\"}, \"image\": \"https://cdn.akamai.steamstatic.com/steam/apps/973170/header.jpg?t=1607364865\", \"offers\": {\"@type\": \"Offer\", \"price\": 6.99, \"priceCurrency\": \"USD\"}}",
+    "img_width": 600,
+    "img_height": 900,
+    "Link Monetag": "https://otieu.com/4/8764643",
+    "Link Adsterra": "https://www.effectivegatecpm.com/xjsgcgii37?key=606d2c74ae50bd149743d90c3719a164"
+}
