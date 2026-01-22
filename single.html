@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Loading... - Gusku.site</title>
+    
+    <link rel="preconnect" href="https://raw.githubusercontent.com">
+    <link rel="dns-prefetch" href="https://raw.githubusercontent.com">
+
     <style>
         /* SINKRONISASI WARNA DARI INDEX.HTML */
         :root { --brand: #00d1b2; --dark: #1a1a1a; --light: #f4f4f4; }
@@ -77,6 +81,17 @@
     const slug = urlParams.get('id'); 
     const githubRawBase = "https://raw.githubusercontent.com/dfgusss/gusku/main";
 
+    // OPTIMASI LCP: Preload JSON jika f dan id sudah ada di URL
+    const preloadFolder = urlParams.get('f');
+    if (slug && preloadFolder) {
+        const preLink = document.createElement('link');
+        preLink.rel = 'preload';
+        preLink.as = 'fetch';
+        preLink.href = `${githubRawBase}/data/${preloadFolder}/${slug}.json`;
+        preLink.crossOrigin = "anonymous";
+        document.head.appendChild(preLink);
+    }
+
     async function fetchGameData() {
         if (!slug) {
             document.getElementById('main-content').innerHTML = "No game selected.";
@@ -131,7 +146,12 @@
         document.title = `${data.Name} - Gusku.site`;
         document.getElementById('main-content').innerHTML = `
             <div class="featured-img-container">
-                <img src="${data['Header image']}" class="featured-img" alt="${data.Name}" width="250" height="140">
+                <img src="${data['Header image']}" 
+                     class="featured-img" 
+                     alt="Header image of ${data.Name}" 
+                     width="250" 
+                     height="140"
+                     fetchpriority="high">
             </div>
             <table class="specs-table">
                 <tr><td>Name</td><td><strong>${data.Name}</strong></td></tr>
@@ -150,11 +170,16 @@
 
         grid.innerHTML = selected.map(g => `
             <div class="card">
-                <img src="${g.i}" alt="${g.n}" width="100" height="100" 
+                <img src="${g.i}" 
+                     alt="Recommendation: ${g.n}" 
+                     width="100" 
+                     height="100" 
+                     loading="lazy"
                      onclick="window.open('${adsterra}', '_blank'); window.location.href='?id=${g.s}&f=${g.f}'">
                 <div class="card-body">
                     <h4>${g.n}</h4>
                     <button class="btn-small" 
+                            aria-label="View detail of ${g.n}"
                             onclick="window.open('${monetag}', '_blank'); window.location.href='?id=${g.s}&f=${g.f}'">
                         View Detail
                     </button>
