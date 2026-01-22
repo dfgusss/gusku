@@ -2,8 +2,8 @@
   "version": 2,
   "rewrites": [
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
-    { "source": "/s1.xml", "destination": "/api/data?p=1" },
-    { "source": "/s2.xml", "destination": "/api/data?p=2" },
-    { "source": "/s3.xml", "destination": "/api/data?p=3" }
+    { "source": "/s1.xml", "destination": "/s1.xml" },
+    { "source": "/s2.xml", "destination": "/s2.xml" },
+    { "source": "/s3.xml", "destination": "/s3.xml" }
   ]
 }
