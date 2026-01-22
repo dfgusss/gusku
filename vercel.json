@@ -1,21 +1,11 @@
 {
   "version": 2,
   "rewrites": [
-    {
-      "source": "/",
-      "destination": "/index.html"
-    },
-    {
-      "source": "/api/index",
-      "destination": "/api/index.js"
-    },
-    {
-      "source": "/sitemap.xml",
-      "destination": "/api/sitemap"
-    },
-    {
-      "source": "/:id",
-      "destination": "/single.html?id=:id"
-    }
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/sitemap.xml", "destination": "/api/sitemap" },
+    { "source": "/s1.xml", "destination": "/api/data?p=1" },
+    { "source": "/s2.xml", "destination": "/api/data?p=2" },
+    { "source": "/s3.xml", "destination": "/api/data?p=3" },
+    { "source": "/:id", "destination": "/single.html?id=:id" }
   ]
 }
