@@ -164,17 +164,23 @@
         `;
     }
 
-    function renderRecommendations(adsterra, monetag, listData) {
-        const grid = document.getElementById('recommendation-grid');
-        const selected = listData.sort(() => 0.5 - Math.random()).slice(0, 5);
+   function renderRecommendations(adsterra, monetag, listData) {
+    const grid = document.getElementById('recommendation-grid');
+    const selected = listData.sort(() => 0.5 - Math.random()).slice(0, 5);
 
-        grid.innerHTML = selected.map(g => `
+    grid.innerHTML = selected.map(g => {
+        // MENGKECILKAN GAMBAR: Ganti header.jpg ke capsule_184x69.jpg
+        // Ini akan menghemat bandwidth user dan menaikkan skor Performance
+        const smallImg = g.i.replace('header.jpg', 'capsule_184x69.jpg');
+
+        return `
             <div class="card">
-                <img src="${g.i}" 
-                     alt="Recommendation: ${g.n}" 
-                     width="100" 
-                     height="100" 
+                <img src="${smallImg}" 
+                     alt="${g.n}" 
+                     width="184" 
+                     height="69" 
                      loading="lazy"
+                     style="aspect-ratio: 184/69; object-fit: cover;"
                      onclick="window.open('${adsterra}', '_blank'); window.location.href='?id=${g.s}&f=${g.f}'">
                 <div class="card-body">
                     <h4>${g.n}</h4>
@@ -185,8 +191,9 @@
                     </button>
                 </div>
             </div>
-        `).join('');
-    }
+        `;
+    }).join('');
+}
 
     fetchGameData();
 </script>
