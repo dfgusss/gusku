@@ -7,7 +7,7 @@
     <style>
         /* SINKRONISASI WARNA DARI INDEX.HTML */
         :root { --brand: #00d1b2; --dark: #1a1a1a; --light: #f4f4f4; }
-        body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; margin: 0; color: var(--dark); background: #fff; }
+        body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; margin: 0; color: var(--dark); background: #fff; font-display: swap; }
         
         header { padding: 2rem 1rem; text-align: center; border-bottom: 1px solid #eee; background: linear-gradient(to bottom, #ffffff, #fafafa); }
         header h1 { margin: 0; font-size: 2.5rem; color: var(--brand); letter-spacing: -1px; }
@@ -21,7 +21,7 @@
         .featured-img-container { text-align: center; margin-bottom: 2rem; }
         .featured-img { 
             width: 250px; /* Diperkecil agar proporsional */
-            height: auto; 
+            height: 140px; /* CLS fix: tinggi tetap */
             border-radius: 12px; 
             border: 3px solid var(--brand);
             box-shadow: 0 10px 20px rgba(0,0,0,0.05);
@@ -41,6 +41,9 @@
 
         /* GRID REKOMENDASI (SINKRON INDEX) */
         .grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 15px; margin-top: 2rem; }
+        #recommendation-grid {
+            min-height: 220px; /* CLS fix: reservasi ruang sebelum JS render */
+        }
         .card { border: 1px solid #eee; border-radius: 10px; overflow: hidden; background: white; transition: all 0.3s ease; display: flex; flex-direction: column; }
         .card:hover { transform: translateY(-5px); border-color: var(--brand); }
         .card img { width: 100%; height: 100px; object-fit: cover; cursor: pointer; }
@@ -81,11 +84,9 @@
         }
 
         try {
-            // 1. Ambil Master List (list_games.json) untuk cari lokasi folder
             const listRes = await fetch(`${githubRawBase}/list_games.json`);
             const listData = await listRes.json();
             
-            // Cari game berdasarkan slug
             const gameInfo = listData.find(g => g.slug === slug);
 
             if (!gameInfo || !gameInfo.folder) {
@@ -93,7 +94,6 @@
                 return;
             }
 
-            // 2. Direct fetch ke folder yang tepat (Hanya 1 request, bukan 72!)
             const dataPath = `${githubRawBase}/data/${gameInfo.folder}/${slug}.json`;
             const dataRes = await fetch(dataPath);
             
@@ -101,8 +101,6 @@
             
             const fullData = await dataRes.json();
             renderPage(fullData);
-
-            // 3. Render Rekomendasi (ambil 5 acak dari listData)
             renderRecommendations(fullData['Link Adsterra'], fullData['Link Monetag'], listData);
 
         } catch (error) {
@@ -116,7 +114,7 @@
         
         document.getElementById('main-content').innerHTML = `
             <div class="featured-img-container">
-                <img src="${data['Header image']}" class="featured-img" alt="${data['Alt Text Image']}">
+                <img src="${data['Header image']}" class="featured-img" alt="${data['Alt Text Image']}" width="250" height="140">
             </div>
             <table class="specs-table">
                 <tr><td>Name</td><td><strong>${data.Name}</strong></td></tr>
@@ -132,13 +130,12 @@
     function renderRecommendations(adsterra, monetag, allGames) {
         const grid = document.getElementById('recommendation-grid');
         
-        // Ambil 5 game acak dari master list agar data rekomendasi selalu ada dan nyata
         const shuffled = allGames.sort(() => 0.5 - Math.random());
         const selected = shuffled.slice(0, 5);
 
         grid.innerHTML = selected.map(g => `
             <div class="card">
-                <img src="${g.img}" alt="${g.name}" onclick="window.open('${adsterra}', '_blank'); window.location.href='?id=${g.slug}'">
+                <img src="${g.img}" alt="${g.name}" width="100" height="100" onclick="window.open('${adsterra}', '_blank'); window.location.href='?id=${g.slug}'">
                 <div class="card-body">
                     <h4>${g.name}</h4>
                     <button class="btn-small" onclick="window.open('${monetag}', '_blank'); window.location.href='?id=${g.slug}'">View Detail</button>

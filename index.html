@@ -9,7 +9,7 @@
     <style>
         /* CSS Murni ala Pico - Fokus Speed 100/100 */
         :root { --brand: #00d1b2; --dark: #1a1a1a; --light: #f4f4f4; }
-        body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; margin: 0; color: var(--dark); background: #fff; }
+        body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; margin: 0; color: var(--dark); background: #fff; font-display: swap; }
         
         /* Header & Tagline */
         header { padding: 3rem 1rem; text-align: center; border-bottom: 1px solid #eee; background: linear-gradient(to bottom, #ffffff, #fafafa); }
@@ -28,6 +28,9 @@
             display: grid; 
             grid-template-columns: repeat(5, 1fr); /* Desktop 5 Kolom */
             gap: 20px; 
+        }
+        #game-grid {
+            min-height: 600px; /* CLS fix: reservasi ruang sebelum JS render */
         }
         
         /* Card Style */
@@ -126,6 +129,7 @@
                         <img src="${g.img}" 
                              alt="${g.name}" 
                              title="View details for ${g.name}"
+                             width="100" height="120"
                              onclick="handleAdClick(event, '${g.slug}', 'adsterra')"
                              loading="lazy" 
                              style="background-color: var(--brand);" 
